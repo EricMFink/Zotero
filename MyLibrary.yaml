@@ -25,6 +25,20 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/cllpj20&i=333
   volume: '20'
 
+- id: abbottSystemProfessionsEssay1988
+  author:
+    - family: Abbott
+      given: Andrew
+  citation-key: abbottSystemProfessionsEssay1988
+  event-place: Chicago
+  issued:
+    - year: 1988
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: 'The System of Professions: An Essay on the Division of Expert Labor'
+  type: book
+
 - id: abelAmericanLawyers1991
   abstract: >-
     This detailed portrait of American lawyers traces their efforts to
@@ -583,7 +597,6 @@ references:
   author:
     - family: Administrative Office of the U.S. Courts
       given: ''
-      literal: Administrative Office of the U.S. Courts
   citation-key: administrativeofficeoftheu.s.courtsUnderstandingFederalCourts
   title: Understanding the Federal Courts
   type: article
@@ -594,7 +607,7 @@ references:
   container-title: F.3d
   issued:
     - year: 2018
-  jurisdiction: us:c8
+  jurisdiction: 005us:c8United States|US|Eighth Circuit
   number: 16-4520, 17-1206
   page: '725'
   title: Aerotek, Inc. v. N.L.R.B.
@@ -667,7 +680,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2007
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '254'
   title: Albertson’s, Inc.
   type: legal_case
@@ -902,7 +915,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1986
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '242'
   title: Anderson v. Liberty Lobby, Inc.
   title-short: Anderson
@@ -1179,7 +1192,7 @@ references:
   container-title: F. Supp. 3d
   issued:
     - year: 2015
-  jurisdiction: us:c9:id.d
+  jurisdiction: 010us:c9:id.dUnited States|US|Ninth Circuit|D. Idaho
   page: '1195'
   title: Animal Legal Defense Fund v. Otter
   title-short: ALDF v. Otter
@@ -1192,7 +1205,7 @@ references:
   container-title: F. Supp. 3d
   issued:
     - year: 2017
-  jurisdiction: us:c10:ut.d
+  jurisdiction: 011us:c10:ut.dUnited States|US|Tenth Circuit|D. Utah
   page: '1193'
   title: Animal Legal Defense Fund v. Herbert
   title-short: ALDF v. Herbert
@@ -1205,7 +1218,7 @@ references:
   container-title: F. Supp. 3d
   issued:
     - year: 2018
-  jurisdiction: us:c8:ia.sd
+  jurisdiction: 011us:c8:ia.sdUnited States|US|Eighth Circuit|S.D. Iowa
   page: '901'
   title: Animal Legal Defense Fund v. Reynolds
   title-short: ALDF v Reynolds
@@ -1218,7 +1231,7 @@ references:
   container-title: F. Supp. 3d
   issued:
     - year: 2018
-  jurisdiction: us:c9:id.d
+  jurisdiction: 010us:c9:id.dUnited States|US|Ninth Circuit|D. Idaho
   number: Case No. 1:14-cv-00104-BLW
   page: '939'
   title: Animal Legal Defense Fund v. Wasden
@@ -1232,7 +1245,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2018
-  jurisdiction: us:c9
+  jurisdiction: 005us:c9United States|US|Ninth Circuit
   page: '1184'
   title: Animal Legal Defense Fund v. Wasden
   title-short: ALDF v Wasden
@@ -1240,12 +1253,27 @@ references:
   volume: '878'
 
 - id: AnimalLegalDefense2019
+  archive: WL
+  archive_location: '1493717'
   authority: S.D. Iowa
   citation-key: AnimalLegalDefense2019
+  collection-number: '2019'
+  issued:
+    - year: 2019
+      month: 2
+      day: 14
+  jurisdiction: 011us:c8:ia.sdUnited States|US|Eighth Circuit|S.D. Iowa
+  title: Animal Legal Defense Fund v. Reynolds
+  title-short: Reynolds
+  type: legal_case
+
+- id: AnimalLegalDefense2019a
+  authority: S.D. Iowa
+  citation-key: AnimalLegalDefense2019a
   container-title: F.Supp.3d
   issued:
     - year: 2019
-  jurisdiction: us:c8:ia.sd
+  jurisdiction: 011us:c8:ia.sdUnited States|US|Eighth Circuit|S.D. Iowa
   page: '812'
   submitted:
     date-parts:
@@ -1257,28 +1285,26 @@ references:
   type: legal_case
   volume: '353'
 
-- id: AnimalLegalDefense2019a
-  archive: WL
-  archive_location: '1493717'
-  authority: S.D. Iowa
-  citation-key: AnimalLegalDefense2019a
-  collection-number: '2019'
+- id: AnimalLegalDefense2020
+  authority: E.D. Arkansas
+  citation-key: AnimalLegalDefense2020
   issued:
-    - year: 2019
+    - year: 2020
       month: 2
       day: 14
-  jurisdiction: us:c8:ia.sd
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: Reynolds
+  jurisdiction: 011us:c8:ar.edUnited States|US|Eighth Circuit|E.D. Arkansas
+  number: 4:19cv00442
+  title: Animal Legal Defense Fund v. Vaught
+  title-short: ALDF v. Vaught
   type: legal_case
 
-- id: AnimalLegalDefense2020
+- id: AnimalLegalDefense2020a
   authority: D. Kansas
-  citation-key: AnimalLegalDefense2020
+  citation-key: AnimalLegalDefense2020a
   container-title: F.Supp.3d
   issued:
     - year: 2020
-  jurisdiction: us:c10:ks.d
+  jurisdiction: 011us:c10:ks.dUnited States|US|Tenth Circuit|D. Kansas
   number: No. 18-2657-KHV
   page: '974'
   publication-date:
@@ -1289,32 +1315,61 @@ references:
   type: legal_case
   volume: '434'
 
-- id: AnimalLegalDefense2020a
-  authority: E.D. Arkansas
-  citation-key: AnimalLegalDefense2020a
-  issued:
-    - year: 2020
-      month: 2
-      day: 14
-  jurisdiction: us:c8:ar.ed
-  number: 4:19cv00442
-  title: Animal Legal Defense Fund v. Vaught
-  title-short: ALDF v. Vaught
-  type: legal_case
-
 - id: AnimalLegalDefense2021
-  accessed:
-    - year: 2022
-      month: 1
-      day: 14
-  authority: 10th Circuit
+  authority: 8th Circuit
   citation-key: AnimalLegalDefense2021
   container-title: F.4th
   issued:
     - year: 2021
       month: 8
+      day: 9
+  jurisdiction: 005us:c8United States|US|Eighth Circuit
+  number: 20-1538
+  page: '714'
+  title: Animal Legal Defense Fund v. Vaught
+  title-short: ALDF v. Vaught
+  type: legal_case
+  volume: '8'
+
+- id: AnimalLegalDefense2021a
+  accessed:
+    - year: 2022
+      month: 1
+      day: 14
+  authority: 8th Circuit
+  citation-key: AnimalLegalDefense2021a
+  container-title: F.4th
+  issued:
+    - year: 2021
+      month: 8
+      day: 10
+  jurisdiction: 005us:c8United States|US|Eighth Circuit
+  page: '781'
+  submitted:
+    date-parts:
+      - - '2021'
+        - 8
+        - 10
+  title: Animal Legal Defense Fund v. Reynolds
+  title-short: Reynolds
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:8%20F.4th%20781#autoLogin
+  volume: '8'
+
+- id: AnimalLegalDefense2021b
+  accessed:
+    - year: 2022
+      month: 1
+      day: 14
+  authority: 10th Circuit
+  citation-key: AnimalLegalDefense2021b
+  container-title: F.4th
+  issued:
+    - year: 2021
+      month: 8
       day: 19
-  jurisdiction: us:c10
+  jurisdiction: 006us:c10United States|US|Tenth Circuit
   page: '1219'
   references: Cert. pending
   submitted:
@@ -1329,48 +1384,6 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:9%20F.4th%201219#autoLogin
   volume: '9'
 
-- id: AnimalLegalDefense2021a
-  authority: 8th Circuit
-  citation-key: AnimalLegalDefense2021a
-  container-title: F.4th
-  issued:
-    - year: 2021
-      month: 8
-      day: 9
-  jurisdiction: us:c8
-  number: 20-1538
-  page: '714'
-  title: Animal Legal Defense Fund v. Vaught
-  title-short: ALDF v. Vaught
-  type: legal_case
-  volume: '8'
-
-- id: AnimalLegalDefense2021b
-  accessed:
-    - year: 2022
-      month: 1
-      day: 14
-  authority: 8th Circuit
-  citation-key: AnimalLegalDefense2021b
-  container-title: F.4th
-  issued:
-    - year: 2021
-      month: 8
-      day: 10
-  jurisdiction: us:c8
-  page: '781'
-  submitted:
-    date-parts:
-      - - '2021'
-        - 8
-        - 10
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: Reynolds
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:8%20F.4th%20781#autoLogin
-  volume: '8'
-
 - id: AnimalLegalDefense2022
   authority: S.D. Iowa
   citation-key: AnimalLegalDefense2022
@@ -1378,7 +1391,7 @@ references:
     - year: 2022
       month: 3
       day: 14
-  jurisdiction: us:c8:ia.sd
+  jurisdiction: 011us:c8:ia.sdUnited States|US|Eighth Circuit|S.D. Iowa
   number: 4:19-cv-00124-SMR-HCA
   title: Animal Legal Defense Fund v. Reynolds
   title-short: Reynolds
@@ -1681,12 +1694,28 @@ references:
   type: article-journal
   volume: '10'
 
+- id: ariensMakingModernAmerican2019
+  author:
+    - family: Ariens
+      given: Michael
+  citation-key: ariensMakingModernAmerican2019
+  container-title: St. Mary's Law Journal
+  issue: '2'
+  issued:
+    - year: 2019
+  language: en
+  page: '41'
+  source: Zotero
+  title: Making the Modern American Legal Profession, 1969–Present
+  type: article-journal
+  volume: '50'
+
 - id: ArkansasCivilCause2017
   citation-key: ArkansasCivilCause2017
   container-title: Ark. Code
   issued:
     - year: 2017
-  jurisdiction: us:ar
+  jurisdiction: 005us:arUnited States|US|Arkansas
   section: 16-118-113
   title: (Arkansas) Civil Cause of Action for Unauthorized Access to Property
   title-short: Arkansas DataTrespass
@@ -1926,7 +1955,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 1996
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '1208'
   title: Arrow Flint Electric Co.
   type: legal_case
@@ -1949,7 +1978,7 @@ references:
     - year: 2012
       month: 5
       day: 22
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   language: en
   number: US8185560B2
   submitted:
@@ -1969,7 +1998,7 @@ references:
   container-title: U.S.
   issued:
     - year: 2009
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '662'
   title: Ashcroft v. Iqbal
   type: legal_case
@@ -1984,7 +2013,7 @@ references:
     - year: 2018
       month: 2
       day: 1
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   number: 19-CA-032761
   title: Ashford TRS Nickel, LLC
   type: legal_case
@@ -2023,7 +2052,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2000
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '132'
   title: Associated Building Contractors, Inc.
   type: legal_case
@@ -2078,7 +2107,7 @@ references:
   container-title: SE 2d
   issued:
     - year: 2012
-  jurisdiction: us:nc
+  jurisdiction: 005us:ncUnited States|US|North Carolina
   page: '535'
   title: Austin Maintenance v. Crowder Const.
   title-short: Austin Maintenance
@@ -2633,7 +2662,7 @@ references:
     - year: 1977
       month: 6
       day: 27
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '350'
   title: Bates v. State Bar of Ariz.
   type: legal_case
@@ -2693,7 +2722,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1977
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '298'
   title: Bayside Enterprises, Inc. v. NLRB
   title-short: Bayside Enterprises
@@ -2825,7 +2854,7 @@ references:
   container-title: F. 2d
   issued:
     - year: 1977
-  jurisdiction: us:c8
+  jurisdiction: 005us:c8United States|US|Eighth Circuit
   page: '537'
   title: Beeck v. AquaslideN'Dive Corp.
   type: legal_case
@@ -2859,7 +2888,7 @@ references:
   container-title: U.S.
   issued:
     - year: 2007
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '544'
   title: Bell Atlantic Corp. v. Twombly
   type: legal_case
@@ -3257,7 +3286,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1983
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '731'
   title: Bill Johnson's Restaurants, Inc. v. NLRB
   type: legal_case
@@ -3337,7 +3366,7 @@ references:
     - year: 1998
       month: 1
       day: 5
-  jurisdiction: us:ca
+  jurisdiction: 005us:caUnited States|US|California
   page: '119'
   title: Birbrower, Montalbano, Condon & Frank v. Superior Ct.
   type: legal_case
@@ -3526,6 +3555,20 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvggx2fq.7
 
+- id: BlackWhiteTaxicab1928
+  authority: Supreme Court
+  citation-key: BlackWhiteTaxicab1928
+  container-title: US
+  issued:
+    - year: 1928
+      month: 4
+      day: 9
+  jurisdiction: 002usUnited States|US
+  page: '518'
+  title: Black & White Taxicab Co. v. Brown & Yellow Taxican Co.
+  type: legal_case
+  volume: '276'
+
 - id: blancRedStateRevolt2019
   abstract: >-
     An indispensable window into the changing shape of the American working
@@ -3697,8 +3740,6 @@ references:
   collection-editor:
     - family: Sarat
       given: Austin
-      multi:
-        _key: {}
   collection-number: '39'
   container-title: Studies in Law, Politics, & Society
   issued:
@@ -3738,7 +3779,7 @@ references:
   container-title: N.J.
   issued:
     - year: 1964
-  jurisdiction: us:nj
+  jurisdiction: 005us:njUnited States|US|New Jersey
   page: '389'
   title: Blum v. International Association of Machinists, AFL-CIO
   type: legal_case
@@ -3890,7 +3931,7 @@ references:
     - year: 2017
       month: 12
       day: 14
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   title: The Boeing Company
   type: legal_case
   volume: '365'
@@ -4711,7 +4752,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 1994
-  jurisdiction: us:c9
+  jurisdiction: 005us:c9United States|US|Ninth Circuit
   page: '1261'
   title: Bud Antle, Inc. v. Barbosa
   title-short: Bud Antle, Inc.
@@ -4739,8 +4780,6 @@ references:
   contributor:
     - family: Noah
       given: Van Sciver
-      multi:
-        _key: {}
   event-place: 'London : Brooklyn, NY'
   ISBN: 978-1-78663-687-4
   issued:
@@ -4970,7 +5009,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1958
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '525'
   title: Byrd v. Blue Ridge Rural Elec. Co-op., Inc.
   title-short: Byrd
@@ -4995,7 +5034,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2015
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: No. 190
   title: Caesars Entertainment d/b/a Rio All-Suites Hotel & Casino
   title-short: Ceasars Entertainment
@@ -5178,7 +5217,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1984
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '783'
   title: Calder v. Jones
   type: legal_case
@@ -5191,7 +5230,7 @@ references:
     - year: 2013
       month: 12
       day: 19
-  jurisdiction: us:c9:ca.sd
+  jurisdiction: 011us:c9:ca.sdUnited States|US|Ninth Circuit|S.D. California
   number: No. 12-cv-2859-L(BGS)
   title: Camacho v. Baseball
   type: legal_case
@@ -5202,7 +5241,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 1990
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '905'
   title: Camsco Produce Co.
   type: legal_case
@@ -5214,7 +5253,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2003
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '145'
   title: Can-Am Plumbing, Inc. v. NLRB
   type: legal_case
@@ -5519,6 +5558,20 @@ references:
   type: webpage
   URL: https://lawreview.uchicago.edu/publication/case-noncompetes
 
+- id: castoErieDoctrineStructure1987
+  author:
+    - family: Casto
+      given: William R
+  citation-key: castoErieDoctrineStructure1987
+  container-title: Tulane Law Review
+  issued:
+    - year: 1987
+  language: en
+  page: '56'
+  title: The Erie Doctrine and the Structure of Constitutional Revolutions
+  type: article-journal
+  volume: '62'
+
 - id: caterineMarketDoesNot2019
   abstract: >-
     NB: This post is part of a debate on the Loan Shark Prevention Act, a bill
@@ -5554,7 +5607,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1986
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '317'
   title: Celotex Corp. v. Catrett
   title-short: Celotex Corp.
@@ -5565,7 +5618,6 @@ references:
   author:
     - family: Center for Constitutional Rights
       given: ''
-      literal: Center for Constitutional Rights
   citation-key: centerforconstitutionalrightsAgGagAmericaCorporateBacked2017
   issued:
     - year: 2017
@@ -5675,6 +5727,25 @@ references:
   URL: https://doi.org/10.1007/s10603-019-09421-4
   volume: '42'
 
+- id: ciceroRepublic1928
+  author:
+    - family: Cicero
+      given: ''
+  citation-key: ciceroRepublic1928
+  collection-number: '213'
+  collection-title: Loeb Classical Library
+  issued:
+    - year: 1928
+      month: 1
+      day: 1
+  publisher: Harvard University Press
+  title: On the Republic
+  title-short: On the Republic
+  translator:
+    - family: Keyes
+      given: Clinton W.
+  type: book
+
 - id: cisarPolanyiPoliticaleconomicOpportunity2016
   accessed:
     - year: 2021
@@ -5711,7 +5782,7 @@ references:
     - year: 2001
       month: 7
       day: 6
-  jurisdiction: us:c3:pa.ed
+  jurisdiction: 011us:c3:pa.edUnited States|US|Third Circuit|E.D. Pennsylvania
   page: '193'
   title: Clark Capital Management v. Annuity Investors Life Ins. Co.
   type: legal_case
@@ -5821,7 +5892,7 @@ references:
   container-title: U.S. Code
   issued:
     - year: 1914
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   section: '17'
   title: Clayton Antitrust Act
   type: legislation
@@ -5933,6 +6004,7 @@ references:
   title: >-
     Litigating within Relationships: Disputes and Disturbance in the Regulatory
     Process
+  title-short: Litigating within Relationships
   type: chapter
 
 - id: cohenCollectiveBargainingPriority2005
@@ -6092,7 +6164,7 @@ references:
     - year: 2020
       month: 7
       day: 16
-  jurisdiction: us:c3:pa.ed
+  jurisdiction: 011us:c3:pa.edUnited States|US|Third Circuit|E.D. Pennsylvania
   number: No. 20-724
   title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops Llc
   type: legal_case
@@ -6632,7 +6704,7 @@ references:
   container-title: U.S.
   issued:
     - year: 2014
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '117'
   title: Daimler Ag v. Bauman
   type: legal_case
@@ -6669,7 +6741,7 @@ references:
   container-title: N.C.
   issued:
     - year: 2001
-  jurisdiction: us:nc
+  jurisdiction: 005us:ncUnited States|US|North Carolina
   page: '647'
   title: Dalton v. Camp
   type: legal_case
@@ -6894,7 +6966,6 @@ references:
   author:
     - family: Deborah Hurwitz
       given: ''
-      literal: Deborah Hurwitz
   citation-key: deborahhurwitzLibraryGuidesLaTeX
   language: en
   note: >-
@@ -6939,7 +7010,7 @@ references:
   container-title: Misc.
   issued:
     - year: 1995
-  jurisdiction: us:ny
+  jurisdiction: 005us:nyUnited States|US|New York
   page: '672'
   title: Delta-Sonic Carwash Systems, Inc. v. Building Trades Council, AFL-CIO
   type: legal_case
@@ -7093,7 +7164,7 @@ references:
     - year: 2016
       month: 12
       day: 14
-  jurisdiction: us:c9:wa.wd
+  jurisdiction: 011us:c9:wa.wdUnited States|US|Ninth Circuit|W.D. Washington
   number: No. 3:16-CV-05561-RBL
   title: Deutsch v. Schoelkopf
   type: legal_case
@@ -7308,6 +7379,21 @@ references:
     - year: 1852
   publisher: Penguin Classics
   title: Bleak House
+  type: book
+
+- id: dickensOliverTwist1988
+  author:
+    - family: Dickens
+      given: Charles
+  citation-key: dickensOliverTwist1988
+  issued:
+    - year: 1988
+  language: en-US
+  original-date:
+    - year: 1837
+    - year: 39
+  publisher: Penguin Classics
+  title: Oliver Twist
   type: book
 
 - id: DidThisCompany2019
@@ -7631,7 +7717,7 @@ references:
   container-title: F.R.D.
   issued:
     - year: 2020
-  jurisdiction: us:c8:mn.d
+  jurisdiction: 010us:c8:mn.dUnited States|US|Eighth Circuit|D. Minnesota
   page: '393'
   title: Dolphin Kickboxing Co. v. Franchoice, Inc.
   title-short: Dolphin Kickboxing
@@ -7786,10 +7872,8 @@ references:
   author:
     - family: Douglas E. Ray
       given: ''
-      literal: Douglas E. Ray
     - family: Robert N. Strassfeld
       given: ''
-      literal: Robert N. Strassfeld
   citation-key: douglase.rayUnderstandingLaborLaw2019
   edition: 5th Edition
   issued:
@@ -8129,7 +8213,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 1978
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '776'
   references: enfd. 634 F.2d 635 (9th Cir. 1980)
   title: East Belden Corp.
@@ -8481,7 +8565,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1938
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '64'
   title: Erie R. Co. v. Tompkins
   title-short: Erie R.
@@ -8676,7 +8760,7 @@ references:
   container-title: F. 2d
   issued:
     - year: 1988
-  jurisdiction: us:c9
+  jurisdiction: 005us:c9United States|US|Ninth Circuit
   page: '1389'
   title: Ethridge v. Harbor House Restaurant
   type: legal_case
@@ -8812,7 +8896,7 @@ references:
     - year: 2004
       month: 5
       day: 10
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   title: >-
     Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S.
     Economy
@@ -8825,7 +8909,7 @@ references:
   container-title: U.S.
   issued:
     - year: 2005
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '546'
   title: Exxon Mobil Corp. v. Allapattah Services, Inc.
   type: legal_case
@@ -9121,7 +9205,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2012
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '1'
   title: Federal Security, Inc.
   type: legal_case
@@ -9959,7 +10043,7 @@ references:
     - year: 2017
       month: 5
       day: 5
-  jurisdiction: us:c10:nm.d
+  jurisdiction: 011us:c10:nm.dUnited States|US|Tenth Circuit|D. New Mexico
   number: CIV 17-0397 JB/JLF
   title: >-
     Firebird Structures LLC v. United Brotherhood of Carpenters & Joiners of
@@ -10126,7 +10210,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2011
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '659'
   title: Flagstaff Medical Center, Inc.
   title-short: Flagstaff Med. Ctr.
@@ -10139,7 +10223,7 @@ references:
   container-title: F.3d
   issued:
     - year: 2013
-  jurisdiction: us:c0
+  jurisdiction: 005us:c0United States|US|D.C. Circuit
   page: '928'
   title: Flagstaff Medical Center, Inc. v. N.L.R.B.
   title-short: Flagstaff Medical Center
@@ -10259,7 +10343,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 1993
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '498'
   title: Fluor Daniel, Inc.
   type: legal_case
@@ -10370,6 +10454,31 @@ references:
       given: Philip S.
   citation-key: fonerHistoryLaborMovement1979
   edition: New edition edition
+  event-place: New York
+  ISBN: 978-0-7178-0562-4
+  issued:
+    - year: 1979
+      month: 6
+      day: 1
+  language: English
+  number-of-pages: '290'
+  publisher: Intl Pub
+  publisher-place: New York
+  source: Amazon
+  title: >-
+    History of the Labor Movement in the United States, Vol. 5: The AFL in the
+    Progressive Era, 1910-1915
+  type: book
+
+- id: fonerHistoryLaborMovement1979a
+  abstract: >-
+    Traces the history of labor unions and the labor movement from America's
+    colonial era, through the Industrial Revolution, to the present
+  author:
+    - family: Foner
+      given: Philip S.
+  citation-key: fonerHistoryLaborMovement1979a
+  edition: New edition edition
   event-place: New York, NY
   ISBN: 978-0-7178-0376-7
   issued:
@@ -10387,31 +10496,6 @@ references:
   title-short: History of the Labor Movement in the United States, Vol. 1
   type: book
 
-- id: fonerHistoryLaborMovement1979a
-  abstract: >-
-    Traces the history of labor unions and the labor movement from America's
-    colonial era, through the Industrial Revolution, to the present
-  author:
-    - family: Foner
-      given: Philip S.
-  citation-key: fonerHistoryLaborMovement1979a
-  edition: New edition edition
-  event-place: New York
-  ISBN: 978-0-7178-0562-4
-  issued:
-    - year: 1979
-      month: 6
-      day: 1
-  language: English
-  number-of-pages: '290'
-  publisher: Intl Pub
-  publisher-place: New York
-  source: Amazon
-  title: >-
-    History of the Labor Movement in the United States, Vol. 5: The AFL in the
-    Progressive Era, 1910-1915
-  type: book
-
 - id: fonerHistoryLaborMovement1981
   author:
     - family: Foner
@@ -10427,37 +10511,11 @@ references:
   type: book
 
 - id: fonerHistoryLaborMovement1987
-  abstract: >-
-    Traces the history of labor unions and the labor movement from America's
-    colonial era, through the Industrial Revolution, to the present
-  author:
-    - family: Foner
-      given: Philip S.
-  citation-key: fonerHistoryLaborMovement1987
-  edition: First Edition
-  event-place: New York
-  ISBN: 978-0-7178-0652-2
-  issued:
-    - year: 1987
-      month: 10
-      day: 1
-  language: English
-  number-of-pages: '305'
-  publisher: Intl Pub
-  publisher-place: New York
-  source: Amazon
-  title: >-
-    History of the Labor Movement in the United Statesm, Vol. 8: Postwar
-    Struggles 1918 -1920
-  title-short: History of the Labor Movement in the United States
-  type: book
-
-- id: fonerHistoryLaborMovement1987a
   abstract: This book IS in stock. There were pickingerrors in filling your order.
   author:
     - family: Foner
       given: Philip S.
-  citation-key: fonerHistoryLaborMovement1987a
+  citation-key: fonerHistoryLaborMovement1987
   edition: 1st ed edition
   event-place: New York, NY
   ISBN: 978-0-7178-0627-0
@@ -10473,6 +10531,32 @@ references:
   title: >-
     History of the Labor Movement in the United States, Vol. 7: Labor and World
     War I, 1914-1918
+  title-short: History of the Labor Movement in the United States
+  type: book
+
+- id: fonerHistoryLaborMovement1987a
+  abstract: >-
+    Traces the history of labor unions and the labor movement from America's
+    colonial era, through the Industrial Revolution, to the present
+  author:
+    - family: Foner
+      given: Philip S.
+  citation-key: fonerHistoryLaborMovement1987a
+  edition: First Edition
+  event-place: New York
+  ISBN: 978-0-7178-0652-2
+  issued:
+    - year: 1987
+      month: 10
+      day: 1
+  language: English
+  number-of-pages: '305'
+  publisher: Intl Pub
+  publisher-place: New York
+  source: Amazon
+  title: >-
+    History of the Labor Movement in the United Statesm, Vol. 8: Postwar
+    Struggles 1918 -1920
   title-short: History of the Labor Movement in the United States
   type: book
 
@@ -10643,7 +10727,7 @@ references:
   container-title: F. Supp.
   issued:
     - year: 1996
-  jurisdiction: us:c4:nc.md
+  jurisdiction: 011us:c4:nc.mdUnited States|US|Fourth Circuit|M.D. North Carolina
   page: '1224'
   title: Food Lion, Inc. v. Capital Cities/ABC, Inc.
   type: legal_case
@@ -10655,7 +10739,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 1999
-  jurisdiction: us:c4
+  jurisdiction: 005us:c4United States|US|Fourth Circuit
   page: '505'
   title: Food Lion, Inc. v. Capital Cities/ABC, Inc.
   type: legal_case
@@ -10697,7 +10781,7 @@ references:
   container-title: S. Ct.
   issued:
     - year: 2021
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '1017'
   title: Ford Motor Co. v. Mont Eighth Judicial Dist. Court
   type: legal_case
@@ -11039,7 +11123,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2014
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '374'
   title: Freidrich v. Davis
   type: legal_case
@@ -11092,16 +11176,35 @@ references:
   title-short: The Technology Trap
   type: book
 
-- id: friedmanHistoryAmericanLaw1986
+- id: friedmanHistoryAmericanLaw2019
   author:
     - family: Friedman
       given: Lawrence M.
-  citation-key: friedmanHistoryAmericanLaw1986
-  edition: 2nd
+  citation-key: friedmanHistoryAmericanLaw2019
+  edition: 4th
   issued:
-    - year: 1986
-  publisher: Touchstone
-  title: A History of American Law, Revised Edition
+    - year: 2019
+  publisher: Oxford University Press
+  title: A History of American Law
+  type: book
+
+- id: friedmanLegalCultureLegal2021
+  author:
+    - family: Friedman
+      given: Lawrence M.
+    - family: Scheiber
+      given: Harry N.
+  citation-key: friedmanLegalCultureLegal2021
+  ISBN: 978-0-429-72371-1
+  issued:
+    - year: 2021
+      month: 10
+      day: 28
+  language: en
+  number-of-pages: '173'
+  publisher: Routledge
+  source: Google Books
+  title: Legal Culture and The Legal Profession
   type: book
 
 - id: friedmanRestoringPromiseAmerican1994
@@ -11194,7 +11297,7 @@ references:
     - year: 2009
       month: 12
       day: 29
-  jurisdiction: us:mn
+  jurisdiction: 005us:mnUnited States|US|Minnesota
   number: A-09-427
   title: Frieges Drywall, Inc. v. North Central States Regional Council of Capenters
   type: legal_case
@@ -11931,7 +12034,7 @@ references:
     - year: 2016
       month: 10
       day: 6
-  jurisdiction: us:c4:md.d
+  jurisdiction: 010us:c4:md.dUnited States|US|Fourth Circuit|D. Maryland
   number: No. TDC-16-0565
   title: Ginwright v. Exeter Finance Corp.
   type: legal_case
@@ -12280,6 +12383,59 @@ references:
   URL: http://www.scielo.br/j/sant/a/S93F8FBMHL7j3wSQ6YBpnVs/abstract/?lang=en
   volume: '11'
 
+- id: gordonAmericanLegalProfession2008
+  abstract: >-
+    This chapter deals with two broad topics. One is the “legal profession,” the
+    formal institutions and organizations through which associations of lawyers
+    seek and exercise state authority to regulate training for and admission to
+    their guilds, to enforce their rules against members, and to protect their
+    privileges against outsiders. The other and much broader topic is that of
+    lawyers themselves, the people and occupational groups who make up to the
+    profession, their work and social roles and their social standing, economic
+    condition, and political influence. In the United States all lawyers have
+    since the Revolution formally belonged to a single, unified profession,
+    licensed by the states where they practice. There are no official ranks or
+    specialties of lawyers, such as the English distinction between barristers
+    (trial lawyers) and solicitors; the French among avocats, avoués, conseils
+    juridiques, and notaires; or the German between the private profession of
+    advocate and the public professions of civil servant, prosecutor, and judge,
+    each calling for a different training, examination and career path. But in
+    reality the legal profession is many, not one: a collection of occupational
+    groups that work at very diverse practice tasks, enjoy very different levels
+    of status and income, and play very different roles in the economy,
+    politics, and society.
+  accessed:
+    - year: 2022
+      month: 5
+      day: 16
+  author:
+    - family: Gordon
+      given: Robert
+  citation-key: gordonAmericanLegalProfession2008
+  collection-title: The Cambridge History of Law in America
+  container-title: >-
+    The Cambridge History of Law in America: Volume 3: The Twentieth Century and
+    After (1920–)
+  DOI: 10.1017/CHOL9780521803076.004
+  editor:
+    - family: Tomlins
+      given: Christopher
+    - family: Grossberg
+      given: Michael
+  event-place: Cambridge
+  ISBN: 978-0-521-80307-6
+  issued:
+    - year: 2008
+  page: 73-126
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  title: The American Legal Profession, 1870–2000
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/cambridge-history-of-law-in-america/american-legal-profession-18702000/0E56B95FC5026E8F932FC44BD60BE757
+  volume: '3'
+
 - id: gordonDigitalLawyerEvolving2012
   abstract: >-
     Technology has changed virtually all aspects of life over the past few
@@ -12384,7 +12540,7 @@ references:
   container-title: U.S.
   issued:
     - year: 2005
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '308'
   title: Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg.
   type: legal_case
@@ -12423,7 +12579,7 @@ references:
     - year: 2002
       month: 7
       day: 10
-  jurisdiction: us:ca
+  jurisdiction: 005us:caUnited States|US|California
   page: '1361'
   submitted:
     date-parts:
@@ -13093,7 +13249,7 @@ references:
     - year: 1999
       month: 8
       day: 17
-  jurisdiction: us:c4:nc.md
+  jurisdiction: 011us:c4:nc.mdUnited States|US|Fourth Circuit|M.D. North Carolina
   number: No. 1:99CV00119
   title: Hanks v. Coan
   title-short: Hanks
@@ -13105,7 +13261,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1965
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '460'
   title: Hanna v. Plumer
   title-short: Hanna
@@ -13564,6 +13720,50 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.22
 
+- id: heinzChicagoLawyersSocial1982
+  abstract: >-
+    What determines the systematic allocation of status, power, and economic
+    reward among lawyers? What kind of social structure organizes lawyers' roles
+    in the bar and in the larger community? As Heinz and Laumann convincingly
+    demonstrate, the legal profession is stratified primarily by the character
+    of the clients served, not by the type of legal service rendered. In fact,
+    the distinction between corporate and individual clients divides the bar
+    into two remarkably separate hemispheres. Using data from extensive personal
+    interviews with nearly 800 Chicago lawyers, the authors show that lawyers
+    who serve one type of client seldom serve the other. Furthermore, lawyers'
+    political, ethno-religious, and social ties are very likely to correspond to
+    those of their client types. Greater deference is consistently shown to
+    corporate lawyers, who seem to acquire power by association with their
+    powerful clients. Heinz and Laumann also discover that these two
+    "hemispheres" of the legal profession are not effectively integrated by
+    intraprofessional organizations such as the bar, courts, or law schools. The
+    fact that the bar is structured primarily along extraprofessional lines
+    raises intriguing questions about the law and the nature of professionalism,
+    questions addressed in a provocative and far-ranging final chapter. This
+    volume, published jointly with the American Bar Foundation, offers a
+    uniquely sophisticated and comprehensive analysis of lawyers' professional
+    lives. It will be of exceptional importance to sociologists and others
+    interested in the legal profession, in the general study of professions, and
+    in social stratification and the distribution of power.
+  author:
+    - family: Heinz
+      given: John P.
+    - family: Laumann
+      given: Edward O.
+  citation-key: heinzChicagoLawyersSocial1982
+  ISBN: 978-1-61044-284-8
+  issued:
+    - year: 1982
+      month: 12
+      day: 15
+  language: en
+  number-of-pages: '497'
+  publisher: Russell Sage Foundation
+  source: Google Books
+  title: 'Chicago Lawyers: The Social Structure of the Bar'
+  title-short: Chicago Lawyers
+  type: book
+
 - id: heinzLawyersConservativeCauses2003
   abstract: >-
     Scholars have devoted attention to "cause lawyers" on the political left,
@@ -13616,6 +13816,49 @@ references:
   URL: http://www.jstor.org/stable/1555069
   volume: '37'
 
+- id: heinzUrbanLawyersNew2005
+  abstract: >-
+    Over the past several decades, the number of lawyers in large cities has
+    doubled, women have entered the bar at an unprecedented rate, and the scale
+    of firms has greatly expanded. This immense growth has transformed the
+    nature and social structure of the legal profession. In the most
+    comprehensive analysis of the urban bar to date, Urban Lawyers presents a
+    compelling portrait of how these changes continue to shape the field of law
+    today.  Drawing on extensive interviews with Chicago lawyers, the authors
+    demonstrate how developments in the profession have affected virtually every
+    aspect of the work and careers of urban lawyers-their relationships with
+    clients, job tenure and satisfaction, income, social and political values,
+    networks of professional connections, and patterns of participation in the
+    broader community. Yet despite the dramatic changes, much remains the same.
+    Stratification of income and power based on gender, race, and religious
+    background, for instance, still maintains inequality within the bar.  The
+    authors of Urban Lawyers conclude that organizational priorities will likely
+    determine the future direction of the legal profession. And with this
+    landmark study as their guide, readers will be able to make their own
+    informed predictions.
+  author:
+    - family: Heinz
+      given: John P.
+    - family: Nelson
+      given: Robert L.
+    - family: Sandefur
+      given: Rebecca L.
+    - family: Laumann
+      given: Edward O.
+  citation-key: heinzUrbanLawyersNew2005
+  ISBN: 978-0-226-32539-2
+  issued:
+    - year: 2005
+      month: 7
+      day: 5
+  language: en
+  number-of-pages: '412'
+  publisher: University of Chicago Press
+  source: Google Books
+  title: 'Urban Lawyers: The New Social Structure of the Bar'
+  title-short: Urban Lawyers
+  type: book
+
 - id: HelmsleySpearIncFishman2008
   accessed:
     - year: 2022
@@ -13628,7 +13871,7 @@ references:
     - year: 2008
       month: 11
       day: 24
-  jurisdiction: us:ny
+  jurisdiction: 005us:nyUnited States|US|New York
   page: '470'
   submitted:
     date-parts:
@@ -13654,7 +13897,7 @@ references:
     - year: 1974
       month: 10
       day: 25
-  jurisdiction: us:mn
+  jurisdiction: 005us:mnUnited States|US|Minnesota
   page: '508'
   submitted:
     date-parts:
@@ -13837,7 +14080,7 @@ references:
   container-title: U.S.
   issued:
     - year: 2010
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '77'
   title: Hertz Corp. v. Friend
   type: legal_case
@@ -13854,7 +14097,7 @@ references:
     - year: 1996
       month: 1
       day: 2
-  jurisdiction: us:ca
+  jurisdiction: 005us:caUnited States|US|California
   page: '846'
   submitted:
     date-parts:
@@ -14141,11 +14384,25 @@ references:
   container-title: U.S.
   issued:
     - year: 1966
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '392'
   title: Holly Farms Corp. v. NLRB
   type: legal_case
   volume: '517'
+
+- id: holmesCommonLaw1881
+  author:
+    - family: Holmes
+      given: Oliver Wendell
+      suffix: Jr.
+  citation-key: holmesCommonLaw1881
+  event-place: Boston, MA
+  issued:
+    - year: 1881
+  publisher: Little, Brown and Company
+  publisher-place: Boston, MA
+  title: The Common Law
+  type: book
 
 - id: HolmesGroupInc2002
   authority: supreme.court
@@ -14153,7 +14410,7 @@ references:
   container-title: U.S.
   issued:
     - year: 2002
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '826'
   title: Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.
   type: legal_case
@@ -14186,6 +14443,25 @@ references:
   title: Match.com Used Fake Ads to Swindle Users, F.T.C. Says
   type: article-newspaper
   URL: https://www.nytimes.com/2019/09/25/us/match-com-lawsuit-ftc.html
+
+- id: horwitzTransformationAmericanLaw1994
+  author:
+    - family: Horwitz
+      given: Morton
+  citation-key: horwitzTransformationAmericanLaw1994
+  event-place: Oxford, New York
+  ISBN: 978-0-19-509259-2
+  issued:
+    - year: 1994
+      month: 12
+      day: 15
+  number-of-pages: '384'
+  publisher: Oxford University Press
+  publisher-place: Oxford, New York
+  source: Oxford University Press
+  title: 'The Transformation of American Law, 1870-1960: The Crisis of Legal Orthodoxy'
+  title-short: The Transformation of American Law, 1870-1960
+  type: book
 
 - id: HowGroupStudent
   abstract: >-
@@ -14428,7 +14704,7 @@ references:
   container-title: Idaho Code
   issued:
     - year: 2014
-  jurisdiction: us:id
+  jurisdiction: 005us:idUnited States|US|Idaho
   section: 18-7042
   title: (Idaho) Interference with Agricultural Production
   title-short: Idaho AgGag
@@ -14465,7 +14741,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1986
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '380'
   source: Google Scholar
   title: International Longshoremen's Ass'n. v. Davis
@@ -14478,7 +14754,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1945
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '310'
   title: International Shoe Co. v. Washington
   type: legal_case
@@ -14500,7 +14776,7 @@ references:
   container-title: Iowa Code
   issued:
     - year: 2004
-  jurisdiction: us:ia
+  jurisdiction: 005us:iaUnited States|US|Iowa
   section: 717A.3A
   title: (Iowa) Agricultural Production Facility Fraud (2004)
   title-short: Iowa Ag Facility Fraud
@@ -14512,7 +14788,7 @@ references:
   container-title: Iowa Code
   issued:
     - year: 2004
-  jurisdiction: us:ia
+  jurisdiction: 005us:iaUnited States|US|Iowa
   section: 717A.3B
   title: (Iowa) Agricultural Production Facility Trespass (2004)
   title-short: Iowa Ag. Facility Trespass
@@ -14529,7 +14805,7 @@ references:
     - year: 2019
       month: 3
       day: 14
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   publication-date:
     date-parts:
       - - '2019'
@@ -14772,7 +15048,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2019
-  jurisdiction: us:c9
+  jurisdiction: 005us:c9United States|US|Ninth Circuit
   page: '1061'
   title: Janjua v. Neufeld
   type: legal_case
@@ -14911,7 +15187,6 @@ references:
   author:
     - family: Jennie Murack
       given: ''
-      literal: Jennie Murack
   citation-key: jenniemurackLibGuidesCitationManagement
   language: en
   note: >-
@@ -15307,7 +15582,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2020
-  jurisdiction: us:c10
+  jurisdiction: 006us:c10United States|US|Tenth Circuit
   page: '680'
   title: Johnson v. Spencer
   type: legal_case
@@ -15399,7 +15674,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2004
-  jurisdiction: us:c2
+  jurisdiction: 005us:c2United States|US|Second Circuit
   page: '205'
   title: Jones v. Ford Motor Credit Co.
   type: legal_case
@@ -15712,7 +15987,7 @@ references:
   container-title: Kan. Stat.
   issued:
     - year: 2006
-  jurisdiction: us:ks
+  jurisdiction: 005us:ksUnited States|US|Kansas
   section: 47-1827
   title: (Kansas) Farm Animal and Field Crop and Research Facilities Protection Act.
   title-short: Kansas AgGag
@@ -15796,7 +16071,7 @@ references:
     - year: 1996
       month: 11
       day: 20
-  jurisdiction: us:il
+  jurisdiction: 005us:ilUnited States|US|Illinois
   page: '695'
   submitted:
     date-parts:
@@ -16003,7 +16278,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1984
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '770'
   title: Keeton v. Hustler Magazine, Inc.
   type: legal_case
@@ -16070,6 +16345,106 @@ references:
   page: 191-212
   title: Police Unions, Police Culture, and the Police Abuse of Force
   type: article-journal
+
+- id: kellyLivesLawyersJourneys1996
+  abstract: >-
+    America has long enjoyed a love/hate relationship with its attorneys; jokes
+    equating lawyers with vermin abound at the same time that our love of
+    litigation is reflected in a doubling of the ranks of lawyers since the
+    1960s. Though we often see the lawyer as a crusading lone wolf of justice,
+    the illuminating Lives of Lawyers demonstrates that the integrity of
+    individual lawyers is fundamentally influenced by the nature of the legal
+    organizations that have come to dominate the field. In fleshing out these
+    agencies of legal expertise, Kelly offers important insights into the
+    personal ideals of lawyers, the struggle to clarify professionalism as
+    interpreted by the legal origination, and the effects of these factors on
+    society's perceptions of law and lawyering. Lives of Lawyers paints an
+    intimate portrait of five legal entities: two corporate firms, an in-house
+    corporate counsel's office, and a public interest agency. Each is viewed
+    through a kaleidoscope of client/colleague relationships, connections to
+    civic and community life, income levels and career satisfaction of
+    attorneys, the social status of the organization, and the character of the
+    particular law practiced. These detailed portrayals vividly reveal the
+    diversity inherent to the profession and the wealth of responses to the
+    question of what shapes the values of today's legal practices. The author's
+    deft use of narrative and debt to the discipline of biography and sociology
+    make his five stores a first-rate read. Kelly gets into the trenches with
+    lawyers comprising these organizations; they don't mince words in passing
+    judgment on themselves, their employers, or the state of the
+    profession--particularly its growing commercialism. Nonetheless, Lives of
+    Lawyers reminds us of the constantly renewed dedication by lawyers to the
+    principles of legal professionalism. Michael J. Kelly is University Vice
+    President and Professor of Law, Georgetown University.
+  author:
+    - family: Kelly
+      given: Michael J.
+  citation-key: kellyLivesLawyersJourneys1996
+  ISBN: 978-0-472-08385-5
+  issued:
+    - year: 1996
+  language: en
+  number-of-pages: '272'
+  publisher: University of Michigan Press
+  source: Google Books
+  title: 'Lives of Lawyers: Journeys in the Organizations of Practice'
+  title-short: Lives of Lawyers
+  type: book
+
+- id: kellyLivesLawyersRevisited2009
+  abstract: >-
+    The past two decades have seen profound changes in the legal profession.
+    Lives of Lawyers Revisited extends Michael Kelly’s work in the original
+    Lives of Lawyers, offering unique insights into the nature of these changes,
+    examined through stories of five extraordinarily varied law practices. By
+    placing the spotlight on organizations as phenomena that generate their own
+    logic and tensions, Lives of Lawyers Revisited speaks to the experience of
+    many lawyers and anticipates important issues on the professional horizon.
+    "Michael Kelly has done it again! His Lives of Lawyers Revisited is a very
+    easy read about some very difficult notions like 'litigation blindness' and
+    law as a business. It presents some fascinating perspectives on our
+    profession." —J. Michael McWilliams, Past President, American Bar
+    Association "The best single book about the American realities and
+    possibilities of the American legal profession, combining an empathic and
+    insightful account of law practice with a penetrating analysis of the wider
+    context of professional work." —Marc Galanter, University of Wisconsin
+    "Michael Kelly believes that professional values and conduct are not
+    realized in codes, but in the experiences of practice, and that practice
+    draws its routines and ideals from organizations. Through his studies of
+    lawyers in various firms, closely observed and sympathetically described,
+    Kelly reveals how differently organizations adapt to the intense pressures
+    of today's practice environment. His method of linking individual
+    life-experiences to organizational strategies and the external constraints
+    of competition and client demands infuses realism and richness into the
+    concept of professionalism and makes this one of the most interesting and
+    original books on professions and professionalism to appear in years."
+    —Robert W. Gordon, Yale Law School "In his two volumes of Lives of Lawyers,
+    Michael Kelly explores legal ethics in an unusual, and unusually rewarding,
+    way. Rather than focusing on rules or arguments, Kelly looks at the kind of
+    lives lawyers lead. Ethics, Socrates thought, is about how to live one's
+    life, and Kelly takes the Socratic question to heart. He explores the
+    institutions lawyers work in and the choices they make. He writes with
+    intelligence, great insight, and above all with heart. This is a superb
+    book." —David Luban, Georgetown University Michael J. Kelly is President and
+    Chairman of the Board of the National Senior Citizens Law Center, an
+    advocacy group for older Americans of limited means.
+  author:
+    - family: Kelly
+      given: Michael J.
+  citation-key: kellyLivesLawyersRevisited2009
+  ISBN: 978-0-472-02517-6
+  issued:
+    - year: 2009
+      month: 12
+      day: 22
+  language: en
+  number-of-pages: '429'
+  publisher: University of Michigan Press
+  source: Google Books
+  title: >-
+    Lives of Lawyers Revisited: Transformation and Resilience in the
+    Organizations of Practice
+  title-short: Lives of Lawyers Revisited
+  type: book
 
 - id: kelmanGuideCriticalLegal1990
   author:
@@ -16255,7 +16630,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 1990
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '1171'
   title: Kinder-Care Learning Centers, Inc.
   type: legal_case
@@ -16268,7 +16643,7 @@ references:
     - year: 2021
       month: 8
       day: 25
-  jurisdiction: us:c6:mi.ed
+  jurisdiction: 011us:c6:mi.edUnited States|US|Sixth Circuit|E.D. Michigan
   number: No. 20-13134
   title: King v. Whitmer
   title-short: King
@@ -16280,7 +16655,7 @@ references:
   container-title: F.R.D.
   issued:
     - year: 2002
-  jurisdiction: us:c4:nc.md
+  jurisdiction: 011us:c4:nc.mdUnited States|US|Fourth Circuit|M.D. North Carolina
   page: '289'
   title: Kirkcaldy v. Richmond County Bd. of Educ.
   title-short: Kirkcaldy
@@ -16919,6 +17294,35 @@ references:
   URL: >-
     https://www.hamiltonproject.org/papers/a_proposal_for_protecting_low_income_workers_from_monopsony_and_collusion
 
+- id: KuhnFairmontCoal1910
+  authority: Supreme Court
+  citation-key: KuhnFairmontCoal1910
+  container-title: US
+  issued:
+    - year: 1910
+      month: 1
+      day: 3
+  jurisdiction: 002usUnited States|US
+  page: '349'
+  title: Kuhn v. Fairmont Coal Co.
+  type: legal_case
+  volume: '215'
+
+- id: kuhnStructureScientificRevolutions2012
+  author:
+    - family: Kuhn
+      given: Thomas S.
+  citation-key: kuhnStructureScientificRevolutions2012
+  edition: 4th edition
+  issued:
+    - year: 2012
+      month: 4
+      day: 1
+  publisher: University of Chicago Press
+  title: The Structure of Scientific Revolutions
+  title-short: The Structure of Scientific Revolutions
+  type: book
+
 - id: kusSociologyDebtStates2015
   abstract: >-
     Within the context of the recent financial crisis, the causes and
@@ -17051,6 +17455,24 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/43681850
   volume: '116'
+
+- id: lapianaSwiftTysonBrooding1986
+  author:
+    - family: LaPiana
+      given: William P
+  citation-key: lapianaSwiftTysonBrooding1986
+  container-title: Suffolk University Law Review
+  issued:
+    - year: 1986
+  language: en
+  page: '771'
+  source: Zotero
+  title: >-
+    Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of
+    the Idea of Law in Antebellum America
+  title-short: Swift v. Tyson and the Brooding Omnipresence in the Sky
+  type: article-journal
+  volume: '20'
 
 - id: larsonCaseDebtResistance2014
   abstract: >-
@@ -17548,7 +17970,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 1999
-  jurisdiction: us:c1
+  jurisdiction: 005us:c1United States|US|First Circuit
   page: '389'
   title: Lehman v. Revolution Portfolio LLC
   type: legal_case
@@ -17707,6 +18129,45 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/510675826
   volume: '55'
+
+- id: levinLawyersPracticeEthical2012
+  abstract: >-
+    How do lawyers resolve ethical dilemmas in the everyday context of their
+    practice? What are the issues that commonly arise, and how do lawyers
+    determine the best ways to resolve them? Until recently, efforts to answer
+    these questions have focused primarily on rules and legal doctrine rather
+    than the real-life situations lawyers face in legal practice.  The first
+    book to present empirical research on ethical decision making in a variety
+    of practice contexts, including corporate litigation, securities,
+    immigration, and divorce law, Lawyers in Practice fills a substantial gap in
+    the existing literature. Following an introduction emphasizing the
+    increasing importance of understanding context in the legal profession,
+    contributions focus on ethical dilemmas ranging from relatively narrow
+    ethical issues to broader problems of professionalism, including the
+    prosecutor’s obligation to disclose evidence, the management of conflicts of
+    interest, and loyalty to clients and the court. Each chapter details the
+    resolution of a dilemma from the practitioner’s point of view that is, in
+    turn, set within a particular community of practice. Timely and practical,
+    this book should be required reading for law students as well as students
+    and scholars of law and society.
+  author:
+    - family: Levin
+      given: Leslie C.
+    - family: Mather
+      given: Lynn
+  citation-key: levinLawyersPracticeEthical2012
+  ISBN: 978-0-226-47517-2
+  issued:
+    - year: 2012
+      month: 4
+      day: 16
+  language: en
+  number-of-pages: '401'
+  publisher: University of Chicago Press
+  source: Google Books
+  title: 'Lawyers in Practice: Ethical Decision Making in Context'
+  title-short: Lawyers in Practice
+  type: book
 
 - id: levinWhatWrongPolice2020
   abstract: >-
@@ -18039,7 +18500,7 @@ references:
     - year: 2016
       month: 10
       day: 11
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   language: en
   number: US9466048B2
   submitted:
@@ -18220,7 +18681,7 @@ references:
     - year: 1994
       month: 6
       day: 13
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '107'
   submitted:
     date-parts:
@@ -18329,7 +18790,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1983
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '669'
   title: Local 926, Intern. Union of Operating Engineers, AFL-CIO v. Jones
   type: legal_case
@@ -18588,7 +19049,6 @@ references:
   author:
     - family: Lorena O'English
       given: ''
-      literal: Lorena O'English
   citation-key: lorenaoenglishLibGuidesZoteroWSU
   language: en
   note: >-
@@ -18608,7 +19068,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1908
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '149'
   title: Louisville & Nashville R. Co. v. Mottley
   type: legal_case
@@ -18926,8 +19386,6 @@ references:
   contributor:
     - family: Konopacki
       given: Mike
-      multi:
-        _key: {}
   edition: Second Edition, Second edition edition
   event-place: 'Oakland, CA : Dexter, MI'
   ISBN: 978-1-62963-096-0
@@ -18961,7 +19419,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1976
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '132'
   title: Machinists v. Wisconsin Employment Relations Comm’n
   title-short: Machinists
@@ -19098,7 +19556,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1955
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '254'
   title: Maneja v. Waialua Agricultural Co.
   type: legal_case
@@ -19110,7 +19568,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 1996
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '297'
   title: Manno Elec., Inc.
   type: legal_case
@@ -19212,6 +19670,23 @@ references:
   title: 'Advertising the American Dream: Making Way for Modernity, 1920-1940'
   title-short: Advertising the American Dream
   type: book
+
+- id: marcusFederalRulesCivil2009
+  author:
+    - family: Marcus
+      given: David
+  citation-key: marcusFederalRulesCivil2009
+  container-title: Georgia Law Review
+  container-title-short: Ga. L. Rev.
+  issued:
+    - year: 2009
+    - year: 2010
+  page: '433'
+  title: >-
+    The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of
+    Law Reform
+  type: article-journal
+  volume: '44'
 
 - id: markovitsMeritocracyTrapHow2019
   abstract: "A revolutionary new argument from eminent Yale Law professor Daniel Markovits attacking the false promise of meritocracy\_It is an axiom of American life that advantage should be earned through ability and effort. Even as the country divides itself at every turn, the meritocratic ideal – that social and economic rewards should follow achievement rather than breeding – reigns supreme.\_ Both Democrats and Republicans insistently repeat meritocratic notions. Meritocracy cuts to the heart of who we are. It sustains the American dream. \_ But what if, both up and down the social ladder, meritocracy is a sham? Today, meritocracy has become exactly what it was conceived to resist: a mechanism for the concentration and dynastic transmission of wealth and privilege across generations. Upward mobility has become a fantasy, and the embattled middle classes are now more likely to sink into the working poor than to rise into the professional elite. At the same time, meritocracy now ensnares even those who manage to claw their way to the top, requiring rich adults to work with crushing intensity, exploiting their expensive educations in order to extract a return. All this is not the result of deviations or retreats from meritocracy but rather stems directly from meritocracy’s successes. \_ This is the radical argument that\_Daniel Markovits prosecutes with rare force. Markovits is well placed to expose the sham of meritocracy. Having spent his life at elite universities, he knows from the inside the corrosive system we are trapped within. Markovits also knows that, if we understand that meritocratic inequality produces near-universal harm, we can cure it. When The Meritocracy Trap reveals the inner workings of the meritocratic machine, it also illuminates the first steps outward, towards a new world that might once again afford dignity and prosperity to the American people."
@@ -19463,6 +19938,46 @@ references:
 
 - id: marxCapitalCritiquePolitical1993
   abstract: >-
+    The second volume of a political treatise that changed the worldA vital
+    cornerstone to Marx’s overall theory of economics, the second volume of
+    Capital considers in depth the nature of commodity and the market-place
+    bourgeois society. This immensely powerful work argues that prosperity in a
+    capitalist society inevitably holds within itself the seeds of its own
+    destruction.For more than seventy years, Penguin has been the leading
+    publisher of classic literature in the English-speaking world. With more
+    than 1,700 titles, Penguin Classics represents a global bookshelf of the
+    best works throughout history and across genres and disciplines. Readers
+    trust the series to provide authoritative texts enhanced by introductions
+    and notes by distinguished scholars and contemporary authors, as well as
+    up-to-date translations by award-winning translators.
+  author:
+    - family: Marx
+      given: Karl
+    - family: Mandel
+      given: Ernest
+  citation-key: marxCapitalCritiquePolitical1993
+  edition: Reprint edition
+  event-place: London
+  ISBN: 978-0-14-044569-5
+  issued:
+    - year: 1993
+      month: 3
+      day: 1
+  language: English
+  number-of-pages: '624'
+  publisher: Penguin Classics
+  publisher-place: London
+  source: Amazon
+  title: 'Capital: A Critique of Political Economy, vol. 2'
+  title-short: Capital
+  translator:
+    - family: Fernbach
+      given: David
+  type: book
+  volume: '2'
+
+- id: marxCapitalCritiquePolitical1993a
+  abstract: >-
     The third volume of a political treatise that changed the worldUnfinished at
     the time of Marx’s death in 1883 and first published with a preface by
     Frederick Engels in 1894, the third volume of Capital strives to combine the
@@ -19486,7 +20001,7 @@ references:
       given: Karl
     - family: Mandel
       given: Ernest
-  citation-key: marxCapitalCritiquePolitical1993
+  citation-key: marxCapitalCritiquePolitical1993a
   edition: Reissue edition
   event-place: New York, N.Y., U.S.A
   ISBN: 978-0-14-044570-1
@@ -19506,46 +20021,6 @@ references:
       given: David
   type: book
   volume: '3'
-
-- id: marxCapitalCritiquePolitical1993a
-  abstract: >-
-    The second volume of a political treatise that changed the worldA vital
-    cornerstone to Marx’s overall theory of economics, the second volume of
-    Capital considers in depth the nature of commodity and the market-place
-    bourgeois society. This immensely powerful work argues that prosperity in a
-    capitalist society inevitably holds within itself the seeds of its own
-    destruction.For more than seventy years, Penguin has been the leading
-    publisher of classic literature in the English-speaking world. With more
-    than 1,700 titles, Penguin Classics represents a global bookshelf of the
-    best works throughout history and across genres and disciplines. Readers
-    trust the series to provide authoritative texts enhanced by introductions
-    and notes by distinguished scholars and contemporary authors, as well as
-    up-to-date translations by award-winning translators.
-  author:
-    - family: Marx
-      given: Karl
-    - family: Mandel
-      given: Ernest
-  citation-key: marxCapitalCritiquePolitical1993a
-  edition: Reprint edition
-  event-place: London
-  ISBN: 978-0-14-044569-5
-  issued:
-    - year: 1993
-      month: 3
-      day: 1
-  language: English
-  number-of-pages: '624'
-  publisher: Penguin Classics
-  publisher-place: London
-  source: Amazon
-  title: 'Capital: A Critique of Political Economy, vol. 2'
-  title-short: Capital
-  translator:
-    - family: Fernbach
-      given: David
-  type: book
-  volume: '2'
 
 - id: marxGrundrisseFoundationsCritique1993
   abstract: >-
@@ -19594,7 +20069,7 @@ references:
   container-title: F. 2d
   issued:
     - year: 1974
-  jurisdiction: us:c5
+  jurisdiction: 005us:c5United States|US|Fifth Circuit
   page: '1396'
   title: Mas v. Perry
   type: legal_case
@@ -19631,7 +20106,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1986
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '574'
   title: Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp.
   title-short: Zenith Radio Corp.
@@ -19646,7 +20121,7 @@ references:
     - year: 1994
       month: 3
       day: 17
-  jurisdiction: us:ny
+  jurisdiction: 005us:nyUnited States|US|New York
   page: '1069'
   title: Matter of Cooperman
   type: legal_case
@@ -19660,7 +20135,7 @@ references:
     - year: 2021
       month: 6
       day: 24
-  jurisdiction: us:ny
+  jurisdiction: 005us:nyUnited States|US|New York
   page: '1'
   title: Matter of Giuliani
   type: legal_case
@@ -20007,7 +20482,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 1986
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '601'
   references: enfd. 819 F.2d 439 (4th Cir. 1987)
   title: McAllister Bros.
@@ -21305,12 +21780,8 @@ references:
   contributor:
     - family: Charles
       given: Barnett III
-      multi:
-        _key: {}
     - family: Erwin
       given: Steve
-      multi:
-        _key: {}
   edition: 1st edition
   event-place: Mankato, Minn
   ISBN: 978-0-7368-9662-7
@@ -21391,7 +21862,7 @@ references:
   container-title: Mo. Rev. Stat.
   issued:
     - year: 2012
-  jurisdiction: us:mo
+  jurisdiction: 005us:moUnited States|US|Missouri
   section: 578.013.1
   title: (Missouri) Recordings of Farm Animals Alleged to be Abused or Neglected
   title-short: Missouri AgGag
@@ -21409,7 +21880,7 @@ references:
     - year: 1994
       month: 9
       day: 7
-  jurisdiction: us:wi
+  jurisdiction: 005us:wiUnited States|US|Wisconsin
   page: '388'
   submitted:
     date-parts:
@@ -21432,7 +21903,7 @@ references:
     - year: 2021
       month: 5
       day: 3
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   title: AT&T Mobility, LLC
   type: legal_case
   volume: '370'
@@ -21453,12 +21924,30 @@ references:
   type: paper-conference
   volume: '25'
 
+- id: moliternoAmericanLegalProfession2013
+  author:
+    - family: Moliterno
+      given: James E.
+  citation-key: moliternoAmericanLegalProfession2013
+  ISBN: 978-0-19-934418-5
+  issued:
+    - year: 2013
+      month: 2
+      day: 26
+  language: en
+  number-of-pages: '265'
+  publisher: Oxford University Press
+  source: Google Books
+  title: 'The American Legal Profession in Crisis: Resistance and Responses to Change'
+  title-short: The American Legal Profession in Crisis
+  type: book
+
 - id: MontanaFarmAnimal1991
   citation-key: MontanaFarmAnimal1991
   container-title: Mont. Code
   issued:
     - year: 1991
-  jurisdiction: us:mt
+  jurisdiction: 005us:mtUnited States|US|Montana
   section: 81-30-101
   title: (Montana) Farm Animal and Research Facilities Protection
   title-short: Montana AgGag
@@ -21572,7 +22061,6 @@ references:
   author:
     - family: Montgomery
       given: ''
-      literal: Montgomery
   citation-key: montgomeryFallHouseLabor1989
   edition: Reprint, 1999 edition
   event-place: Cambridge
@@ -21824,7 +22312,7 @@ references:
   container-title: F. 2d
   issued:
     - year: 1974
-  jurisdiction: us:c8
+  jurisdiction: 005us:c8United States|US|Eighth Circuit
   page: '1330'
   title: Mosley v. General Motors Corporation
   type: legal_case
@@ -21909,8 +22397,6 @@ references:
   contributor:
     - family: Sacco
       given: Joe
-      multi:
-        _key: {}
   edition: Illustrated edition
   ISBN: 978-1-62097-448-3
   issued:
@@ -22145,7 +22631,7 @@ references:
   container-title: U.S. Code
   issued:
     - year: 1935
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   section: 151 et seq.
   title: National Labor Relations Act
   type: legislation
@@ -22156,7 +22642,6 @@ references:
   author:
     - family: National Right to Work Committee
       given: ''
-      literal: National Right to Work Committee
   citation-key: nationalrighttoworkcommitteeSaltingCoerciveBig2003
   issued:
     - year: 2003
@@ -22170,7 +22655,7 @@ references:
   container-title: N.C.G.S.
   issued:
     - year: 2015
-  jurisdiction: us:nc
+  jurisdiction: 005us:ncUnited States|US|North Carolina
   language: en-US
   section: § 99A-2
   title: (NC) Civil Remedies for Interference with Property
@@ -22349,7 +22834,7 @@ references:
     - year: 1986
       month: 2
       day: 26
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '157'
   title: Nix v. Whiteside
   type: legal_case
@@ -22361,7 +22846,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1974
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '267'
   title: NLRB v. Bell Aerospace Co.
   type: legal_case
@@ -22373,7 +22858,7 @@ references:
   container-title: F. 2d
   issued:
     - year: 1993
-  jurisdiction: us:c5
+  jurisdiction: 005us:c5United States|US|Fifth Circuit
   page: '1336'
   title: NLRB v. Cal-Maine Farms, Inc.
   type: legal_case
@@ -22385,7 +22870,7 @@ references:
   container-title: U.S.
   issued:
     - literal: Argued November 7, 1983
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '822'
   title: NLRB v. City Disposal Systems, Inc.
   type: legal_case
@@ -22397,7 +22882,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1953
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '464'
   title: NLRB v. Electrical Workers
   type: legal_case
@@ -22409,7 +22894,7 @@ references:
   container-title: F. 2d
   issued:
     - year: 1953
-  jurisdiction: us:c9
+  jurisdiction: 005us:c9United States|US|Ninth Circuit
   page: '927'
   title: NLRB v. Monterey County B. & C. Trades Council
   title-short: Monterey County B&C Trades Council
@@ -22424,7 +22909,7 @@ references:
     - year: 1971
       month: 12
       day: 8
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '138'
   title: NLRB v. Nash-Finch Co.
   type: legal_case
@@ -22436,7 +22921,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1995
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '85'
   title: NLRB v. Town & Country Elec., Inc.
   title-short: Town & Country Electric
@@ -22449,7 +22934,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1962
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '9'
   title: NLRB v. Washington Aluminum Co.
   type: legal_case
@@ -22463,7 +22948,6 @@ references:
   author:
     - family: NOAA Fisheries
       given: ''
-      literal: NOAA Fisheries
   citation-key: noaafisheriesComparativeAnalysisFederal2019
   issued:
     - literal: Thu, 02/21/2019 - 13:28
@@ -22484,7 +22968,7 @@ references:
   container-title: Fed.Appx.
   issued:
     - year: 2020
-  jurisdiction: us:c9
+  jurisdiction: 005us:c9United States|US|Ninth Circuit
   page: '587'
   title: Nolette v. City of Boulder
   title-short: Nolette
@@ -22500,7 +22984,7 @@ references:
   container-title: U.S. Code
   issued:
     - year: 1932
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   section: 101 et seq.
   title: Norris-LaGuardia Act
   type: legislation
@@ -22512,7 +22996,7 @@ references:
   container-title: ND Cent. Code
   issued:
     - year: 1991
-  jurisdiction: us:nd
+  jurisdiction: 005us:ndUnited States|US|North Dakota
   section: 12.1-21.1-01
   title: (North Dakota) Animal Research Facility Damage
   title-short: North Dakota AgGag
@@ -22763,7 +23247,7 @@ references:
   container-title: "Ohio Rev.\_Code"
   issued:
     - year: 2004
-  jurisdiction: us:oh
+  jurisdiction: 005us:ohUnited States|US|Ohio
   section: '901.511'
   title: (Ohio) Prohibiting Terrorism Involving Agricultural Products or Equipment
   title-short: Ohio Agricultural Terrorism
@@ -22949,7 +23433,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1824
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '738'
   title: Osborn v. Bank of United States
   type: legal_case
@@ -23037,7 +23521,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2015
-  jurisdiction: us:c7
+  jurisdiction: 005us:c7United States|US|Seventh Circuit
   page: '748'
   title: Pace v. Timmermann's Ranch and Saddle Shop Inc.
   type: legal_case
@@ -23079,7 +23563,7 @@ references:
   container-title: F.Supp.3d
   issued:
     - year: 2014
-  jurisdiction: us:c1:ma.d
+  jurisdiction: 010us:c1:ma.dUnited States|US|First Circuit|D. Massachusetts
   page: '163'
   title: Palacio v. City of Springfield
   title-short: Palacio
@@ -23092,7 +23576,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2019
-  jurisdiction: us:c2
+  jurisdiction: 005us:c2United States|US|Second Circuit
   page: '804'
   title: Palin v. New York Times Co.
   type: legal_case
@@ -23192,7 +23676,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1979
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '322'
   title: Parklane Hosiery Co. v. Shore
   type: legal_case
@@ -23359,7 +23843,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1878
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '714'
   title: Pennoyer v. Neff
   type: legal_case
@@ -23371,7 +23855,7 @@ references:
   container-title: F. Supp. 3d
   issued:
     - year: 2017
-  jurisdiction: us:c4:nc.md
+  jurisdiction: 011us:c4:nc.mdUnited States|US|Fourth Circuit|M.D. North Carolina
   page: '369'
   references: Rev'd, No. 17-1669 (4th. Cir. June 6, 2018)
   title: People for Ethical Treatment of Animals v. Stein
@@ -23387,7 +23871,7 @@ references:
     - year: 2018
       month: 6
       day: 5
-  jurisdiction: us:c4
+  jurisdiction: 005us:c4United States|US|Fourth Circuit
   number: 17-1669
   page: '122'
   references: reversing 259 F.Supp. 3d 369 (M.D.N.C. 2017)
@@ -23402,7 +23886,7 @@ references:
   container-title: F.Supp.3d
   issued:
     - year: 2020
-  jurisdiction: us:c4:nc.md
+  jurisdiction: 011us:c4:nc.mdUnited States|US|Fourth Circuit|M.D. North Carolina
   page: '547'
   title: People for Ethical Treatment of Animals v. Stein
   title-short: Stein
@@ -23441,7 +23925,7 @@ references:
   language: eng
   page: '41'
   source: HeinOnline
-  title: Sin, Scandal, and Substantive Due Process Legal Lore
+  title: 'Sin, Scandal, and Substantive Due Process: Legal Lore'
   type: article-journal
   volume: '18'
 
@@ -23546,7 +24030,6 @@ references:
   author:
     - family: Philip Dray
       given: ''
-      literal: Philip Dray
   citation-key: philipdrayTherePowerUnion2011
   issued:
     - year: 2011
@@ -24387,6 +24870,21 @@ references:
   title: State, Power, Socialism
   type: book
 
+- id: poundLegalProfessionAmerica1944
+  author:
+    - family: Pound
+      given: Roscoe
+  citation-key: poundLegalProfessionAmerica1944
+  container-title: Notre Dame Law Review
+  issued:
+    - year: 1944
+  language: en
+  page: '334'
+  source: Zotero
+  title: Legal Profession in America
+  type: article-journal
+  volume: '19'
+
 - id: powellUsingBlogsNew2012
   abstract: >-
     Compiling a referenced article for publication in a peer-reviewed journal is
@@ -24526,6 +25024,7 @@ references:
   title: >-
     Brandeis and the Progressive Constitution: Erie, the Judicial Power, and the
     Politics of the Federal Courts in Twentieth-century America
+  title-short: Brandeis and the Progressive Constitution
   type: book
 
 - id: purcellLitigationInequalityFederal1992
@@ -24542,6 +25041,7 @@ references:
   title: >-
     Litigation and Inequality: Federal Diversity Jurisdiction in Industrial
     America, 1870-1958
+  title-short: Litigation and Inequality
   type: book
 
 - id: purcellOriginalismFederalismAmerican2007
@@ -24657,7 +25157,7 @@ references:
   container-title: F.R.D.
   issued:
     - year: 1994
-  jurisdiction: us:c9:hi.d
+  jurisdiction: 010us:c9:hi.dUnited States|US|Ninth Circuit|D. Hawaii
   page: '656'
   title: Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii, L.P.
   title-short: Rainbow Management Group, Ltd.
@@ -24850,7 +25350,7 @@ references:
     - year: 2014
       month: 9
       day: 23
-  jurisdiction: us:c9
+  jurisdiction: 005us:c9United States|US|Ninth Circuit
   page: '938'
   submitted:
     date-parts:
@@ -25258,7 +25758,6 @@ references:
   author:
     - family: Ross
       given: ''
-      literal: Ross
   citation-key: rossCreditocracyCaseDebt2014
   ISBN: 978-1-939293-38-1
   issued:
@@ -25466,6 +25965,36 @@ references:
   type: article-journal
   volume: '57'
 
+- id: rutherglenInternationalShoeLegacy2001
+  author:
+    - family: Rutherglen
+      given: George
+  citation-key: rutherglenInternationalShoeLegacy2001
+  container-title: The Supreme Court Review
+  issued:
+    - year: 2001
+      month: 1
+      day: 1
+  page: 347-374
+  publisher: The University of Chicago Press
+  title: International Shoe and the Legacy of Legal Realism
+  type: article-journal
+  volume: '2001'
+
+- id: rutherglenReconstructingErieComment
+  author:
+    - family: Rutherglen
+      given: George
+  citation-key: rutherglenReconstructingErieComment
+  container-title: CONSTITUTIONAL COMMENTARY
+  language: en
+  page: '13'
+  source: Zotero
+  title: 'Reconstructing Erie: A Comment on the Perils of Legal Positivism.'
+  title-short: Reconstructing Erie
+  type: article-journal
+  volume: '10'
+
 - id: sabatemurielOverindebtednessResistance2020
   abstract: >-
     During the first two decades of the 21st century, a wide anthropological
@@ -25492,8 +26021,6 @@ references:
   container-author:
     - family: Sabaté Muriel
       given: Irene
-      multi:
-        _key: {}
   container-title: Oxford Research Encyclopedia of Anthropology
   DOI: 10.1093/acrefore/9780190854584.013.228
   ISBN: 978-0-19-085458-4
@@ -25691,7 +26218,7 @@ references:
     - year: 2019
       month: 5
       day: 9
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   language: en
   number: S. 1389
   title: Loan Shark Prevention Act (Introduced version)
@@ -25705,7 +26232,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2003
-  jurisdiction: us:c5
+  jurisdiction: 005us:c5United States|US|Fifth Circuit
   page: '445'
   title: Sanderson Farms, Inc. v. NLRB
   type: legal_case
@@ -25717,7 +26244,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1959
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '236'
   title: San Diego Building Trades Council v. Garmon
   title-short: Garmon
@@ -25730,7 +26257,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2013
-  jurisdiction: us:c8
+  jurisdiction: 005us:c8United States|US|Eighth Circuit
   page: '1098'
   title: Sandy Lake Band of Mississippi Chippewa v. US
   type: legal_case
@@ -25880,6 +26407,24 @@ references:
   title: 'Unions in Court: Organized Labour and the Charter of Rights and Freedoms'
   title-short: Unions in Court
   type: book
+
+- id: sawyeriiiJurisdictionJurisprudenceLegal2001
+  author:
+    - family: Sawyer III
+      given: Logan E.
+  citation-key: sawyeriiiJurisdictionJurisprudenceLegal2001
+  container-title: George Mason Law Review
+  issued:
+    - year: 2001
+  language: en
+  page: '39'
+  source: Zotero
+  title: >-
+    Jurisdiction, Jurisprudence and Legal Change: Sociological Jurisprudence and
+    the Road to International Shoe
+  title-short: Jurisdiction, Jurisprudence and Legal Change
+  type: article-journal
+  volume: '10'
 
 - id: schillUseRandomResponse1995
   author:
@@ -26115,8 +26660,6 @@ references:
   contributor:
     - family: Thorkelson
       given: Nick
-      multi:
-        _key: {}
   edition: 4th edition
   event-place: Cambridge, Mass
   ISBN: 978-0-945902-16-4
@@ -26139,8 +26682,6 @@ references:
   contributor:
     - family: Thorkelson
       given: Nick
-      multi:
-        _key: {}
   edition: 1st edition
   event-place: Cambridge, Mass
   ISBN: 978-0-945902-15-7
@@ -26213,7 +26754,7 @@ references:
   container-title: U.S.
   issued:
     - year: 2007
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '372'
   title: Scott v. Harris
   title-short: Scott
@@ -26295,7 +26836,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1978
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '180'
   title: Sears, Roebuck & Co. v. San Diego County Dist. Council of Carpenters
   type: legal_case
@@ -26405,6 +26946,45 @@ references:
   URL: http://www.jstor.org/stable/2518764
   volume: '5'
 
+- id: seigelLawyersCrossingLines2010
+  abstract: >-
+    Lawyers Crossing Lines is a collection of true stories about lawyers from
+    all segments of the legal profession who transgressed ethical boundaries.
+    Most of them ended up being sanctioned by their state Bar, sued for
+    malpractice, prosecuted, or some combination of all three. All of the cases
+    are rich in detail, many are bizarre, and in a few the attorney's conduct is
+    so outrageous as to stretch the reader¿s credulity. Each tale is followed by
+    comments and questions designed to explore the issues in greater depth. This
+    diminutive but captivating volume is intended as a supplemental text for
+    students in professional responsibility courses at American law schools. It
+    can also be used as the foundation for an advanced seminar in ethics. It is
+    based on the proposition that, although the rules of professional
+    responsibility are, of course, of supreme importance, sometimes the study of
+    them can be monotonous and dry. More important, students -- none of whom
+    have been in law practice and most of whom have never been out in the
+    working world -- often find it hard to believe that the rules can be so
+    easily and egregiously broken. These real world scenarios bring the ethical
+    quandaries faced in everyday legal practice to life. The stories come from
+    all segments of the legal profession and make fascinating and memorable
+    reading. No other book on the market takes this narrative approach, making
+    this an important and unique contribution to the field.
+  author:
+    - family: Seigel
+      given: Michael L.
+    - family: Kelley
+      given: James L.
+  citation-key: seigelLawyersCrossingLines2010
+  ISBN: 978-1-59460-684-7
+  issued:
+    - year: 2010
+  language: en
+  number-of-pages: '229'
+  publisher: Carolina Academic Press
+  source: Google Books
+  title: 'Lawyers Crossing Lines: Ten Stories'
+  title-short: Lawyers Crossing Lines
+  type: book
+
 - id: seronImpactLegalCounsel2014
   abstract: >-
     This article reports findings from a randomized experiment to test the
@@ -26493,7 +27073,7 @@ references:
   container-title: U.S.
   issued:
     - year: 2010
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '393'
   title: Shady Grove Orthopedic Associates, P.A. v. Allstate Ins. Co.
   title-short: Allstate Ins.
@@ -26508,7 +27088,7 @@ references:
     - year: 1988
       month: 6
       day: 13
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '466'
   title: Shapero v. Kentucky Bar Assn.
   type: legal_case
@@ -26572,7 +27152,7 @@ references:
     - year: 2000
       month: 6
       day: 29
-  jurisdiction: us:c6
+  jurisdiction: 005us:c6United States|US|Sixth Circuit
   number: No. 99-3215
   title: Shillman v. U.S.
   title-short: Shillman
@@ -27213,13 +27793,25 @@ references:
   container-title: SC Code Ann.
   issued:
     - year: 1992
-  jurisdiction: us:sc
+  jurisdiction: 005us:scUnited States|US|South Carolina
   section: 47-21
   title: >-
     (South Carolina) Farm Animal, Crop Operation, and Research Facilities
     Protection
   title-short: SC AgGag
   type: legislation
+
+- id: SouthernPacificCo1916
+  authority: Supreme Court
+  citation-key: SouthernPacificCo1916
+  container-title: US
+  issued:
+    - literal: Argued February 28, 1916
+  jurisdiction: 002usUnited States|US
+  page: '205'
+  title: Southern Pacific Co. v. Jensen
+  type: legal_case
+  volume: '244'
 
 - id: southworthProfessionalIdentityPolitical2005
   author:
@@ -27335,7 +27927,7 @@ references:
     - year: 2007
       month: 9
       day: 13
-  jurisdiction: us:nj
+  jurisdiction: 005us:njUnited States|US|New Jersey
   page: '23'
   submitted:
     date-parts:
@@ -27361,7 +27953,7 @@ references:
     - year: 2009
       month: 2
       day: 5
-  jurisdiction: us:nj
+  jurisdiction: 005us:njUnited States|US|New Jersey
   page: '478'
   submitted:
     date-parts:
@@ -27460,7 +28052,7 @@ references:
     - year: 2008
       month: 4
       day: 3
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   number: US20080082929A1
   submitted:
     date-parts:
@@ -27647,7 +28239,7 @@ references:
   container-title: Fed.Appx.
   issued:
     - year: 2018
-  jurisdiction: us:c5
+  jurisdiction: 005us:c5United States|US|Fifth Circuit
   page: '468'
   title: Stout v. Vincent
   title-short: Stout
@@ -27710,7 +28302,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1806
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '267'
   title: Strawbridge  v. Curtiss
   type: legal_case
@@ -28181,7 +28773,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1842
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '1'
   title: Swift v. Tyson
   type: legal_case
@@ -28672,6 +29264,21 @@ references:
   URL: http://search.proquest.com/docview/2463175587/abstract/AAFC9778388C4540PQ/4
   volume: '26'
 
+- id: tetonStorySwiftTyson1940
+  author:
+    - family: Teton
+      given: Alfred B.
+  citation-key: tetonStorySwiftTyson1940
+  container-title: Illinois Law Review
+  container-title-short: Ill. L. Rev.
+  issued:
+    - year: 1940
+    - year: 1941
+  page: '519'
+  title: The Story of Swift v. Tyson
+  type: article-journal
+  volume: '35'
+
 - id: therbornWhatDoesRuling2016
   abstract: "The intricate practices of the elite and how they maintain their dominance.In his new book, Göran Therborn – author of the now standard comparative work on classical sociology and historical materialism,\_Science, Class and Society\_– looks at successive state structures in an arrestingly fresh perspective. Therborn uses the formal categories of modern system analysis – input mechanisms, processes of transformation, output flows – to advance a substantive Marxist analysis of state power and state apparatuses. His account of these is comparative in the most far-reaching historical sense: its object is nothing less than the construction of systematic typology of the differences between the feudal state, the capitalist state and the socialist state. Therborn ranges from the monarchies of mediaeval Europe through the bourgeois democracies of the west in the 20th\_century to the contemporary regimes in Russia, Eastern Europe and China. The book ends with a major analytic survey of the strategies of working class parties for socialism, from the Second International to the Comintern to Eurocommunism, that applies the structural findings of Therborn’s enquiry in the ‘Future as History’. Written with lucidity and economy,\_What Does the Ruling Class Do when it Rules?\_represents a remarkable sociological and political synthesis."
   author:
@@ -28862,7 +29469,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2001
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '350'
   references: enfd. 27 Fed.Appx. 64 (2d Cir. 2001)
   title: Times-Herald Record
@@ -28875,7 +29482,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2016
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: No. 171
   title: T-Mobile USA, Inc.
   type: legal_case
@@ -28887,7 +29494,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2007
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '225'
   title: Toering Electric Co.
   type: legal_case
@@ -28901,7 +29508,7 @@ references:
     - year: 1980
       month: 4
       day: 11
-  jurisdiction: us:mn
+  jurisdiction: 005us:mnUnited States|US|Minnesota
   page: '686'
   title: Togstad v. Vesely, Otto, Miller & Keefe
   type: legal_case
@@ -29116,7 +29723,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2014
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: No. 31
   publication-date:
     date-parts:
@@ -29182,7 +29789,7 @@ references:
     - year: 2020
       month: 11
       day: 12
-  jurisdiction: us:c11:ga.nd
+  jurisdiction: 012us:c11:ga.ndUnited States|US|Eleventh Circuit|N.D. Georgia
   number: No. 1:20-cv-01045
   title: Trump v. CNN Broadcasting, Inc.
   type: legal_case
@@ -29387,7 +29994,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1966
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '715'
   title: United Mine Workers of America v. Gibbs
   type: legal_case
@@ -29399,7 +30006,7 @@ references:
   container-title: Utah Crim. Code
   issued:
     - year: 2012
-  jurisdiction: us:ut
+  jurisdiction: 005us:utUnited States|US|Utah
   section: 76-6-112
   title: (Utah) Agricultural Operations Interference
   title-short: Utah AgGag
@@ -29775,7 +30382,7 @@ references:
     - year: 2016
       month: 10
       day: 14
-  jurisdiction: us:ca
+  jurisdiction: 005us:caUnited States|US|California
   page: '194'
   submitted:
     date-parts:
@@ -29919,7 +30526,7 @@ references:
     - year: 2021
       month: 7
       day: 6
-  jurisdiction: us:c8:nd.d
+  jurisdiction: 010us:c8:nd.dUnited States|US|Eighth Circuit|D. North Dakota
   number: No. 3:20-cv-73
   title: Weather Modification LLC v. Brackin
   title-short: Brackin
@@ -29931,7 +30538,7 @@ references:
   container-title: F.Supp.
   issued:
     - year: 1972
-  jurisdiction: us:c4:nc.md
+  jurisdiction: 011us:c4:nc.mdUnited States|US|Fourth Circuit|M.D. North Carolina
   page: '418'
   title: Webb v. Nolan
   title-short: Webb
@@ -29952,6 +30559,25 @@ references:
   translator:
     - family: Tribe
       given: Keith
+  type: book
+
+- id: weeksProblemWorkFeminism2011
+  author:
+    - family: Weeks
+      given: Kathi
+  citation-key: weeksProblemWorkFeminism2011
+  ISBN: 978-0-8223-5112-2
+  issued:
+    - year: 2011
+      month: 9
+      day: 9
+  language: en
+  number-of-pages: '300'
+  publisher: Duke University Press
+  title: >-
+    The Problem with Work: Feminism, Marxism, Antiwork Politics, and Postwork
+    Imaginaries
+  title-short: The Problem with Work
   type: book
 
 - id: weidhornYeshivaFacultyUnion1998
@@ -30078,7 +30704,7 @@ references:
   container-title: F. Supp. 3d
   issued:
     - year: 2016
-  jurisdiction: us:c10:wy.d
+  jurisdiction: 011us:c10:wy.dUnited States|US|Tenth Circuit|D. Wyoming
   page: '1231'
   title: Western Watersheds Project v. Michael
   title-short: Western Watersheds (D Wyo)
@@ -30091,7 +30717,7 @@ references:
   container-title: F. 3d
   issued:
     - year: 2017
-  jurisdiction: us:c10
+  jurisdiction: 006us:c10United States|US|Tenth Circuit
   page: '1189'
   title: Western Watersheds Project v. Michael
   title-short: Western Watersheds (10th Cir)
@@ -30104,7 +30730,7 @@ references:
   container-title: F.Supp.3d
   issued:
     - year: 2018
-  jurisdiction: us:c10:wy.d
+  jurisdiction: 011us:c10:wy.dUnited States|US|Tenth Circuit|D. Wyoming
   page: '1176'
   title: Western Watersheds Project v. Michael
   title-short: Michael
@@ -30155,7 +30781,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2009
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '795'
   title: White Oak Manor
   type: legal_case
@@ -30167,7 +30793,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2015
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: No. 87
   title: Whole Foods Market, Inc.
   title-short: Whole Foods Market
@@ -30180,7 +30806,7 @@ references:
   container-title: S. Ct.
   issued:
     - year: 2016
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '2292'
   title: Whole Woman's Health v. Hellerstedt
   type: legal_case
@@ -30253,7 +30879,6 @@ references:
   author:
     - family: William B. Gould IV
       given: ''
-      literal: William B. Gould IV
   citation-key: williamb.gouldivPrimerAmericanLabor2019
   edition: 6th
   issued:
@@ -30275,7 +30900,6 @@ references:
   author:
     - family: William M. Adler
       given: ''
-      literal: William M. Adler
   citation-key: williamm.adlerManWhoNever2012
   issued:
     - year: 2012
@@ -30555,7 +31179,7 @@ references:
     - year: 1985
       month: 4
       day: 5
-  jurisdiction: us:ny
+  jurisdiction: 005us:nyUnited States|US|New York
   page: '25'
   submitted:
     date-parts:
@@ -30639,7 +31263,7 @@ references:
   container-title: F.3d
   issued:
     - year: 2017
-  jurisdiction: us:c4
+  jurisdiction: 005us:c4United States|US|Fourth Circuit
   page: '639'
   title: Woods v. City of Greensboro
   title-short: Woods
@@ -30685,7 +31309,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1980
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '286'
   title: World-Wide Volkswagen Corp. v. Woodson
   type: legal_case
@@ -30782,7 +31406,7 @@ references:
     - year: 2004
       month: 9
       day: 14
-  jurisdiction: us:mn
+  jurisdiction: 005us:mnUnited States|US|Minnesota
   page: '313'
   submitted:
     date-parts:
@@ -30840,7 +31464,7 @@ references:
   container-title: Montana Code
   issued:
     - year: 1987
-  jurisdiction: us:mt
+  jurisdiction: 005us:mtUnited States|US|Montana
   section: 39-2-901
   title: Wrongful Discharge From Employment
   type: legislation
@@ -30921,7 +31545,7 @@ references:
   container-title: Wyo. Stat.
   issued:
     - year: 2015
-  jurisdiction: us:wy
+  jurisdiction: 005us:wyUnited States|US|Wyoming
   section: 40-27-101
   title: (Wyoming) Civil Data Trespass
   title-short: Wyoming Civil Trespass
@@ -30933,7 +31557,7 @@ references:
   container-title: Wyo. Stat.
   issued:
     - year: 2015
-  jurisdiction: us:wy
+  jurisdiction: 005us:wyUnited States|US|Wyoming
   references: "Laws 2015, ch.\_146, § 1, eff. March 5, 2015; Laws 2016, ch.\_117, §§ 1, 2, eff. March 15, 2016."
   section: 6-3-414
   title: (Wyoming) Criminal Data Trespass
@@ -31246,7 +31870,7 @@ references:
     - year: 1985
       month: 1
       day: 7
-  jurisdiction: us
+  jurisdiction: 002usUnited States|US
   page: '626'
   title: Zauderer v. Office of Disciplinary Counsel of Supreme Court of Ohio
   type: legal_case
@@ -31336,7 +31960,7 @@ references:
   container-title: F. Supp.
   issued:
     - year: 1956
-  jurisdiction: us:c3:pa.ed
+  jurisdiction: 011us:c3:pa.edUnited States|US|Third Circuit|E.D. Pennsylvania
   page: '408'
   title: Zielinski v. Philadelphia Piers
   type: legal_case
