@@ -15887,6 +15887,50 @@ references:
   title-short: Unfinished Business
   type: book
 
+- id: klepsRaceGenderPlace2022
+  abstract: >-
+    While federal anti-employment discrimination laws have helped diminish
+    inequality at work, discrimination persists, in part perhaps due to unequal
+    handling of equal employment lawsuits. Prior research demonstrates that the
+    definition of discrimination can vary based on local normative ideas, while
+    another line shows that a judge's race or gender can shape how related
+    lawsuits are handled. In this article, I draw on a set of EEOC workplace
+    discrimination cases prosecuted in Federal Court and combine it with
+    locality data, to analyze: (1) the impact of local context, specifically
+    rurality, local political context, and southerness and; (2) how judges' race
+    and gender interact with the local cultural-milieu. Findings reveal that
+    plaintiffs of colour in race discrimination cases fair worse in rural courts
+    or before white judges. Meanwhile, white judges in conservative areas are
+    more defendant friendly than those outside the in more liberal areas. Black
+    judges, in comparison, are more plaintiff friendly in conservative areas
+    when compared to black judges in more liberal areas. While female judges are
+    generally more plaintiff friendly than male judges in sex cases, location
+    has no discernible effect.
+  accessed:
+    - year: 2022
+      month: 11
+      day: 7
+  author:
+    - family: Kleps
+      given: Christopher
+  citation-key: klepsRaceGenderPlace2022
+  container-title: Law & Society Review
+  DOI: 10.1111/lasr.12606
+  ISSN: 1540-5893
+  issue: '2'
+  issued:
+    - year: 2022
+  language: en
+  page: 188-212
+  source: Wiley Online Library
+  title: >-
+    Race, gender, and place: How judicial identity and local context shape
+    anti-discrimination decisions
+  title-short: Race, gender, and place
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/lasr.12606
+  volume: '56'
+
 - id: klugerSimpleJusticeHistory2011
   abstract: >-
     Simple Justice is the definitive history of the landmark case Brown v. Board
@@ -25760,6 +25804,37 @@ references:
   title-short: The Common Law of the Workplace
   type: book
 
+- id: stampferDidKhazarsConvert2013
+  abstract: >-
+    Abstract The view that some or all of the Khazars, a central Asian people,
+    converted to Judaism at some point during the ninth or tenth century is
+    widely accepted. A careful examination of the sources, however, shows that
+    some of them are pseudepigraphic, and the rest are of questionable
+    reliability. Many of the most reliable contemporary texts that mention
+    Khazars say nothing about their conversion, nor is there any archaeological
+    evidence for it. This leads to the conclusion that such a conversion never
+    took place.
+  accessed:
+    - year: 2022
+      month: 11
+      day: 7
+  author:
+    - family: Stampfer
+      given: Shaul
+  citation-key: stampferDidKhazarsConvert2013
+  container-title: Jewish Social Studies
+  DOI: 10.2979/jewisocistud.19.3.1
+  ISSN: 0021-6704
+  issue: '3'
+  issued:
+    - year: 2013
+  page: 1-72
+  source: JSTOR
+  title: Did the Khazars Convert to Judaism?
+  type: article-journal
+  URL: https://www.jstor.org/stable/10.2979/jewisocistud.19.3.1
+  volume: '19'
+
 - id: StateDeAngelo2007
   accessed:
     - year: 2022
@@ -27521,6 +27596,45 @@ references:
   title: 'Traversing: Embodied Lifeworlds in the Czech Republic'
   type: book
 
+- id: trowbridgeLitigationPolicyWork2022
+  abstract: >-
+    This article investigates why cause lawyering organizations choose policy
+    work and how policy agendas are set. Interviews and documents from eight
+    legal organizations in the LGBTQ movement reveal that policy work expands
+    the scope of conflict, giving organizations not only more opportunities to
+    act, but potentially providing greater autonomy to lawyers by allowing them
+    to build their own opportunities. Furthermore, policy agendas are not simply
+    tied to litigation and resources. Organizations balance perceptions of
+    opportunity and need with resource availability. These perceptions are often
+    informed by collaborations with state and local organizations, facilitating
+    communication between groups, organizers, and activists at different vantage
+    points. Thus, the nature of a legal organization's multidimensional
+    strategy, which expands opportunities to reach their goals, may be shaping
+    what those goals are. These findings contribute to our understanding of
+    cause lawyering tactics and agendas.
+  accessed:
+    - year: 2022
+      month: 11
+      day: 7
+  author:
+    - family: Trowbridge
+      given: David L.
+  citation-key: trowbridgeLitigationPolicyWork2022
+  container-title: Law & Society Review
+  DOI: 10.1111/lasr.12605
+  ISSN: 1540-5893
+  issue: '2'
+  issued:
+    - year: 2022
+  language: en
+  page: 286-308
+  source: Wiley Online Library
+  title: 'Beyond litigation: Policy work within cause lawyering organizations'
+  title-short: Beyond litigation
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/lasr.12605
+  volume: '56'
+
 - id: trubekCriticalLawyersSocial1998
   author:
     - family: Trubek
@@ -28464,6 +28578,27 @@ references:
   language: en
   publisher: Federal Judicial Center
   title: Creating the Federal Judicial System
+  type: book
+
+- id: whiteIronHeelWobblies2022
+  author:
+    - family: White
+      given: Ahmed
+  citation-key: whiteIronHeelWobblies2022
+  edition: First edition
+  event-place: Oakland, California
+  ISBN: 978-0-520-38240-4
+  issued:
+    - year: 2022
+      month: 10
+      day: 25
+  language: English
+  number-of-pages: '360'
+  publisher: University of California Press
+  publisher-place: Oakland, California
+  source: Amazon
+  title: 'Under the Iron Heel: The Wobblies and the Capitalist War on Radical Workers'
+  title-short: Under the Iron Heel
   type: book
 
 - id: whiteMutinyShipboardStrikes2004
