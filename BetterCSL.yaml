@@ -1225,21 +1225,8 @@ references:
   volume: '353'
 
 - id: AnimalLegalDefense2020
-  authority: E.D. Arkansas
-  citation-key: AnimalLegalDefense2020
-  issued:
-    - year: 2020
-      month: 2
-      day: 14
-  jurisdiction: 011us:c8:ar.edUnited States|US|Eighth Circuit|E.D. Arkansas
-  number: 4:19cv00442
-  title: Animal Legal Defense Fund v. Vaught
-  title-short: ALDF v. Vaught
-  type: legal_case
-
-- id: AnimalLegalDefense2020a
   authority: D. Kansas
-  citation-key: AnimalLegalDefense2020a
+  citation-key: AnimalLegalDefense2020
   container-title: F.Supp.3d
   issued:
     - year: 2020
@@ -1253,6 +1240,19 @@ references:
   title-short: ALDF v. Kelly
   type: legal_case
   volume: '434'
+
+- id: AnimalLegalDefense2020a
+  authority: E.D. Arkansas
+  citation-key: AnimalLegalDefense2020a
+  issued:
+    - year: 2020
+      month: 2
+      day: 14
+  jurisdiction: 011us:c8:ar.edUnited States|US|Eighth Circuit|E.D. Arkansas
+  number: 4:19cv00442
+  title: Animal Legal Defense Fund v. Vaught
+  title-short: ALDF v. Vaught
+  type: legal_case
 
 - id: AnimalLegalDefense2021
   authority: 8th Circuit
@@ -1271,10 +1271,6 @@ references:
   volume: '8'
 
 - id: AnimalLegalDefense2021a
-  accessed:
-    - year: 2022
-      month: 1
-      day: 14
   authority: 8th Circuit
   citation-key: AnimalLegalDefense2021a
   container-title: F.4th
@@ -1292,15 +1288,9 @@ references:
   title: Animal Legal Defense Fund v. Reynolds
   title-short: Reynolds
   type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:8%20F.4th%20781#autoLogin
   volume: '8'
 
 - id: AnimalLegalDefense2021b
-  accessed:
-    - year: 2022
-      month: 1
-      day: 14
   authority: 10th Circuit
   citation-key: AnimalLegalDefense2021b
   container-title: F.4th
@@ -1319,8 +1309,6 @@ references:
   title: Animal Legal Defense Fund v. Kelly
   title-short: Kelly
   type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:9%20F.4th%201219#autoLogin
   volume: '9'
 
 - id: AnimalLegalDefense2022
@@ -8902,6 +8890,9 @@ references:
     Stories of Progressive Institutional Change: Challenges to the Neoliberal
     Economy
   DOI: 10.1007/978-3-319-59779-9_3
+  editor:
+    - family: Figart
+      given: Deborah M.
   event-place: Cham
   ISBN: 978-3-319-59779-9
   issued:
@@ -14597,6 +14588,28 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.14
 
+- id: kahanaMasterServantEarly2000
+  accessed:
+    - year: 2022
+      month: 12
+      day: 10
+  author:
+    - family: Kahana
+      given: Jeffrey S.
+  citation-key: kahanaMasterServantEarly2000
+  container-title: Journal of the Early Republic
+  DOI: 10.2307/3124829
+  ISSN: 0275-1275
+  issue: '1'
+  issued:
+    - year: 2000
+  page: 27-57
+  source: JSTOR
+  title: Master and Servant in the Early Republic, 1780-1830
+  type: article-journal
+  URL: https://www.jstor.org/stable/3124829
+  volume: '20'
+
 - id: kallebergBadJobsAmerica2000
   abstract: >-
     The prevalence of nonstandard jobs is a matter of concern if, as many
@@ -15899,6 +15912,8 @@ references:
   author:
     - family: Kramer
       given: Larry D.
+    - family: Kramer
+      given: Larry
   citation-key: kramerPeopleThemselvesPopular2004
   ISBN: 978-0-19-530645-3
   issued:
@@ -18374,46 +18389,6 @@ references:
 
 - id: marxCapitalCritiquePolitical1993
   abstract: >-
-    The second volume of a political treatise that changed the worldA vital
-    cornerstone to Marx’s overall theory of economics, the second volume of
-    Capital considers in depth the nature of commodity and the market-place
-    bourgeois society. This immensely powerful work argues that prosperity in a
-    capitalist society inevitably holds within itself the seeds of its own
-    destruction.For more than seventy years, Penguin has been the leading
-    publisher of classic literature in the English-speaking world. With more
-    than 1,700 titles, Penguin Classics represents a global bookshelf of the
-    best works throughout history and across genres and disciplines. Readers
-    trust the series to provide authoritative texts enhanced by introductions
-    and notes by distinguished scholars and contemporary authors, as well as
-    up-to-date translations by award-winning translators.
-  author:
-    - family: Marx
-      given: Karl
-    - family: Mandel
-      given: Ernest
-  citation-key: marxCapitalCritiquePolitical1993
-  edition: Reprint edition
-  event-place: London
-  ISBN: 978-0-14-044569-5
-  issued:
-    - year: 1993
-      month: 3
-      day: 1
-  language: English
-  number-of-pages: '624'
-  publisher: Penguin Classics
-  publisher-place: London
-  source: Amazon
-  title: 'Capital: A Critique of Political Economy, vol. 2'
-  title-short: Capital
-  translator:
-    - family: Fernbach
-      given: David
-  type: book
-  volume: '2'
-
-- id: marxCapitalCritiquePolitical1993a
-  abstract: >-
     The third volume of a political treatise that changed the worldUnfinished at
     the time of Marx’s death in 1883 and first published with a preface by
     Frederick Engels in 1894, the third volume of Capital strives to combine the
@@ -18437,7 +18412,7 @@ references:
       given: Karl
     - family: Mandel
       given: Ernest
-  citation-key: marxCapitalCritiquePolitical1993a
+  citation-key: marxCapitalCritiquePolitical1993
   edition: Reissue edition
   event-place: New York, N.Y., U.S.A
   ISBN: 978-0-14-044570-1
@@ -18457,6 +18432,46 @@ references:
       given: David
   type: book
   volume: '3'
+
+- id: marxCapitalCritiquePolitical1993a
+  abstract: >-
+    The second volume of a political treatise that changed the worldA vital
+    cornerstone to Marx’s overall theory of economics, the second volume of
+    Capital considers in depth the nature of commodity and the market-place
+    bourgeois society. This immensely powerful work argues that prosperity in a
+    capitalist society inevitably holds within itself the seeds of its own
+    destruction.For more than seventy years, Penguin has been the leading
+    publisher of classic literature in the English-speaking world. With more
+    than 1,700 titles, Penguin Classics represents a global bookshelf of the
+    best works throughout history and across genres and disciplines. Readers
+    trust the series to provide authoritative texts enhanced by introductions
+    and notes by distinguished scholars and contemporary authors, as well as
+    up-to-date translations by award-winning translators.
+  author:
+    - family: Marx
+      given: Karl
+    - family: Mandel
+      given: Ernest
+  citation-key: marxCapitalCritiquePolitical1993a
+  edition: Reprint edition
+  event-place: London
+  ISBN: 978-0-14-044569-5
+  issued:
+    - year: 1993
+      month: 3
+      day: 1
+  language: English
+  number-of-pages: '624'
+  publisher: Penguin Classics
+  publisher-place: London
+  source: Amazon
+  title: 'Capital: A Critique of Political Economy, vol. 2'
+  title-short: Capital
+  translator:
+    - family: Fernbach
+      given: David
+  type: book
+  volume: '2'
 
 - id: marxGrundrisseFoundationsCritique1993
   abstract: >-
