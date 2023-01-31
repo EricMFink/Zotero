@@ -1,2 +1,2 @@
-# JurisM
-Juris-M exports and CSL styles
+# Zotero
+Zotero exports and CSL styles
