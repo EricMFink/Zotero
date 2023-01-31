@@ -7651,6 +7651,20 @@ references:
   title-short: $2.00 a Day
   type: book
 
+- id: EffectuationNationalLabor2021
+  citation-key: EffectuationNationalLabor2021
+  genre: General Counsel Memo
+  issued:
+    - year: 2021
+      month: 3
+      day: 13
+  number: 21-03
+  title: >-
+    Effectuation of the National Labor Relations Act Through Vigorous
+    Enforcement of the Mutual Aid or Protection and Inherently Concerted
+    Doctrines
+  type: report
+
 - id: ehrenreichKillerDebt2008
   author:
     - family: Ehrenreich
@@ -19237,6 +19251,22 @@ references:
   URL: https://browzine.com/articles/488443958
   volume: '52'
 
+- id: McGinley2012
+  author:
+    - family: McGinley
+      given: Ann C
+    - family: McGinley-Stempel
+      given: Ryan P
+  citation-key: McGinley2012
+  container-title: Hofstra Labor & Employment Law Journal
+  issued:
+    - year: 2012
+  language: en
+  page: '75'
+  title: 'Beyond the Water Cooler: Speech and the Workplace in an Era of Social Media'
+  type: article-journal
+  volume: '30'
+
 - id: mcginleyWaterCoolerSpeech2012
   author:
     - family: McGinley
@@ -20877,11 +20907,11 @@ references:
 
 - id: NCPropertyProtectionAct2016
   citation-key: NCPropertyProtectionAct2016
-  container-title: N.C.G.S.
+  container-title: N.C. Gen. Stat.
   issued:
     - year: 2016
   language: en-US
-  section: § 99A-2
+  section: 99A-2
   title: NC Property Protection Act
   type: legislation
 
@@ -22059,6 +22089,7 @@ references:
 - id: PETAvStein2020-MDNC
   authority: M.D.N.C.
   citation-key: PETAvStein2020-MDNC
+  container-title: F. Supp. 3d
   issued:
     - year: 2020
   page: '547'
@@ -25751,6 +25782,19 @@ references:
   title-short: Legitimizing American Indian Sovereignty
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.49
+
+- id: StephensMediaLLC2011
+  authority: N.L.R.B.
+  citation-key: StephensMediaLLC2011
+  container-title: N.L.R.B.
+  issued:
+    - year: 2011
+      month: 2
+      day: 14
+  page: '661'
+  title: Stephens Media, LLC
+  type: legal_case
+  volume: '356'
 
 - id: sterkRestraintsAlienationHuman1993
   author:
