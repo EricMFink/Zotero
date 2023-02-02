@@ -597,9 +597,9 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.16
 
-- id: AlbertsonInc2007
+- id: Albertsons2007
   authority: N.L.R.B.
-  citation-key: AlbertsonInc2007
+  citation-key: Albertsons2007
   container-title: N.L.R.B.
   issued:
     - year: 2007
@@ -1885,9 +1885,20 @@ references:
   URL: https://www.jstor.org/stable/26943413
   volume: '120'
 
-- id: AustinMaintenanceCrowder2012
+- id: ATTMobility2021
+  authority: N.L.R.B.
+  citation-key: ATTMobility2021
+  container-title: N.L.R.B.
+  issued:
+    - literal: 2021-05-0003
+  page: No. 121
+  title: AT&T Mobility, LLC
+  type: legal_case
+  volume: '370'
+
+- id: AustinMaintenance2012
   authority: N.C. Ct. App.
-  citation-key: AustinMaintenanceCrowder2012
+  citation-key: AustinMaintenance2012
   container-title: S.E. 2d
   issued:
     - year: 2012
@@ -2457,10 +2468,10 @@ references:
   title-short: America's Working Women
   type: book
 
-- id: BaysideEnterprisesInc1977
-  authority: Supreme Court
-  citation-key: BaysideEnterprisesInc1977
-  container-title: US
+- id: BaysideEnterprises1977
+  authority: U.S.
+  citation-key: BaysideEnterprises1977
+  container-title: U.S.
   issued:
     - year: 1977
   page: '298'
@@ -2612,6 +2623,17 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/40862619
   volume: '13'
+
+- id: BellAerospace1974
+  authority: U.S.
+  citation-key: BellAerospace1974
+  container-title: U.S.
+  issued:
+    - year: 1974
+  page: '267'
+  title: NLRB v. Bell Aerospace Co.
+  type: legal_case
+  volume: '416'
 
 - id: BellAtlanticCorp2007
   authority: supreme.court
@@ -4601,9 +4623,6 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2015
-  note: >-
-    mlzsync1:0078{"extrafields":{"reporter":"N.L.R.B.","jurisdiction":"002usUnited
-    States|US"}}
   page: No. 190
   title: Caesars Entertainment d/b/a Rio All-Suites Hotel & Casino
   title-short: Ceasars Entertainment
@@ -4779,6 +4798,17 @@ references:
   type: legal_case
   volume: '465'
 
+- id: CalMaineFarms1993
+  authority: 5th Circuit
+  citation-key: CalMaineFarms1993
+  container-title: F. 2d
+  issued:
+    - year: 1993
+  page: '1336'
+  title: NLRB v. Cal-Maine Farms, Inc.
+  type: legal_case
+  volume: '998'
+
 - id: CamachoBaseball2013
   authority: S.D. Cal.
   citation-key: CamachoBaseball2013
@@ -4794,9 +4824,9 @@ references:
   type: legal_case
 
 - id: CamscoProduceCo1990
-  authority: NLRB
+  authority: N.L.R.B.
   citation-key: CamscoProduceCo1990
-  container-title: NLRB
+  container-title: N.L.R.B.
   issued:
     - year: 1990
   page: '905'
@@ -5321,6 +5351,17 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/60538984
   volume: '16'
+
+- id: CityDisposal1983
+  authority: U.S.
+  citation-key: CityDisposal1983
+  container-title: U.S.
+  issued:
+    - literal: Argued November 7, 1983
+  page: '822'
+  title: NLRB v. City Disposal Systems, Inc.
+  type: legal_case
+  volume: '465'
 
 - id: ClarkCapitalManagement2001
   authority: Dist. Court
@@ -6206,9 +6247,9 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/40342338
 
-- id: DaltonCamp2001
+- id: Dalton_Camp2001
   authority: N.C.
-  citation-key: DaltonCamp2001
+  citation-key: Dalton_Camp2001
   container-title: N.C.
   issued:
     - year: 2001
@@ -7721,6 +7762,17 @@ references:
   title: 'Nickel and Dimed: On (Not) Getting By in America'
   title-short: Nickel and Dimed
   type: book
+
+- id: ElectricalWorkers-JeffersonBroadcasting1953
+  authority: U.S.
+  citation-key: ElectricalWorkers-JeffersonBroadcasting1953
+  container-title: U.S.
+  issued:
+    - year: 1953
+  page: '464'
+  title: NLRB v. Electrical Workers
+  type: legal_case
+  volume: '346'
 
 - id: elliott-negriThwartingJanusNew2018
   author:
@@ -9892,9 +9944,9 @@ references:
   title-short: Selling Free Enterprise
   type: book
 
-- id: FoodLionInc1996
+- id: FoodLion1996-MDNC
   authority: M.D.N.C.
-  citation-key: FoodLionInc1996
+  citation-key: FoodLion1996-MDNC
   container-title: F. Supp.
   issued:
     - year: 1996
@@ -9903,9 +9955,9 @@ references:
   type: legal_case
   volume: '951'
 
-- id: FoodLionInc1999
+- id: FoodLion1999-4thCir
   authority: 4th Circuit
-  citation-key: FoodLionInc1999
+  citation-key: FoodLion1999-4thCir
   container-title: F.3d
   issued:
     - year: 1999
@@ -13258,10 +13310,10 @@ references:
   title-short: State and Capital
   type: book
 
-- id: HollyFarmsCorp1966
-  authority: Supreme Court
-  citation-key: HollyFarmsCorp1966
-  container-title: US
+- id: HollyFarms1966
+  authority: U.S.
+  citation-key: HollyFarms1966
+  container-title: U.S.
   issued:
     - year: 1966
   page: '392'
@@ -18020,10 +18072,10 @@ references:
   type: document
   URL: https://libguides.mit.edu/ld.php?content_id=34248570
 
-- id: ManejaWaialuaAgricultural1955
-  authority: Supreme Court
-  citation-key: ManejaWaialuaAgricultural1955
-  container-title: US
+- id: Maneja1955
+  authority: U.S.
+  citation-key: Maneja1955
+  container-title: U.S.
   issued:
     - year: 1955
   page: '254'
@@ -20216,17 +20268,6 @@ references:
   type: legal_case
   volume: '187'
 
-- id: MobilityLLC2021
-  authority: N.L.R.B.
-  citation-key: MobilityLLC2021
-  container-title: N.L.R.B.
-  issued:
-    - literal: 2021-05-0003
-  page: No. 121
-  title: AT&T Mobility, LLC
-  type: legal_case
-  volume: '370'
-
 - id: mohanStateArtWorkflow1996
   author:
     - family: Mohan
@@ -20269,6 +20310,18 @@ references:
   section: 81-30-101
   title: Montana AgGag
   type: legislation
+
+- id: MontereyCounty1953
+  authority: 9th Circuit
+  citation-key: MontereyCounty1953
+  container-title: F. 2d
+  issued:
+    - year: 1953
+  page: '927'
+  title: NLRB v. Monterey County B. & C. Trades Council
+  title-short: Monterey County B&C Trades Council
+  type: legal_case
+  volume: '335'
 
 - id: montgomerieHowCanWe2019
   abstract: >-
@@ -21078,62 +21131,6 @@ references:
   type: legal_case
   volume: '475'
 
-- id: NLRBBellAerospace1974
-  authority: Supreme Court
-  citation-key: NLRBBellAerospace1974
-  container-title: US
-  issued:
-    - year: 1974
-  page: '267'
-  title: NLRB v. Bell Aerospace Co.
-  type: legal_case
-  volume: '416'
-
-- id: NLRBCalMaineFarms1993
-  authority: 5th Circuit
-  citation-key: NLRBCalMaineFarms1993
-  container-title: F. 2d
-  issued:
-    - year: 1993
-  page: '1336'
-  title: NLRB v. Cal-Maine Farms, Inc.
-  type: legal_case
-  volume: '998'
-
-- id: NLRBCityDisposal1983
-  authority: Supreme Court
-  citation-key: NLRBCityDisposal1983
-  container-title: US
-  issued:
-    - literal: Argued November 7, 1983
-  page: '822'
-  title: NLRB v. City Disposal Systems, Inc.
-  type: legal_case
-  volume: '465'
-
-- id: NLRBElectricalWorkers1953
-  authority: Supreme Court
-  citation-key: NLRBElectricalWorkers1953
-  container-title: US
-  issued:
-    - year: 1953
-  page: '464'
-  title: NLRB v. Electrical Workers
-  type: legal_case
-  volume: '346'
-
-- id: NLRBMontereyCounty1953
-  authority: 9th Circuit
-  citation-key: NLRBMontereyCounty1953
-  container-title: F. 2d
-  issued:
-    - year: 1953
-  page: '927'
-  title: NLRB v. Monterey County B. & C. Trades Council
-  title-short: Monterey County B&C Trades Council
-  type: legal_case
-  volume: '335'
-
 - id: NLRBNashFinchCo1971
   authority: U.S.
   citation-key: NLRBNashFinchCo1971
@@ -21157,17 +21154,6 @@ references:
   title-short: Town & Country Electric
   type: legal_case
   volume: '516'
-
-- id: NLRBWashingtonAluminum1962
-  authority: Supreme Court
-  citation-key: NLRBWashingtonAluminum1962
-  container-title: US
-  issued:
-    - year: 1962
-  page: '9'
-  title: NLRB v. Washington Aluminum Co.
-  type: legal_case
-  volume: '370'
 
 - id: NoletteCityBoulder2020
   authority: 9th Cir.
@@ -24086,9 +24072,9 @@ references:
   type: bill
   URL: https://www.govtrack.us/congress/bills/116/s1389/text/is
 
-- id: SandersonFarmsInc2003
+- id: SandersonFarms2003
   authority: 5th Circuit
-  citation-key: SandersonFarmsInc2003
+  citation-key: SandersonFarms2003
   container-title: F. 3d
   issued:
     - year: 2003
@@ -25783,9 +25769,9 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.49
 
-- id: StephensMediaLLC2011
+- id: StephensMedia2011
   authority: N.L.R.B.
-  citation-key: StephensMediaLLC2011
+  citation-key: StephensMedia2011
   container-title: N.L.R.B.
   issued:
     - year: 2011
@@ -28190,6 +28176,17 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/lpsyr28&i=209
   volume: '28'
+
+- id: WashingtonAluminum1962
+  authority: U.S.
+  citation-key: WashingtonAluminum1962
+  container-title: U.S.
+  issued:
+    - year: 1962
+  page: '9'
+  title: NLRB v. Washington Aluminum Co.
+  type: legal_case
+  volume: '370'
 
 - id: wearsWhoEmployerTriangular2012
   author:
