@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
-    <title>Bluebook Law Review</title>
-    <id>http://www.zotero.org/styles/bluebook-law-review</id>
-    <link href="http://www.zotero.org/styles/bluebook-law-review" rel="self"/>
-    <link href="https://www.legalbluebook.com/" rel="documentation"/>
+    <title>IndigoBook Law Review</title>
+    <id>https://emfink.net/Zotero/CSL-styles/indigobook-law-review.csl</id>
+    <link href="https://github.com/EricMFink/Zotero/CSL-styles/indigobook-law-review.csl" rel="self"/>
+    <link href="http://www.zotero.org/styles/bluebook-law-review" rel="documentation"/>
+    <link href="https://law.resource.org/pub/us/code/blue/IndigoBook.html" rel="documentation"/>
     <author>
-      <name>Bruce D'Arcus</name>
-      <email>bdarcus@gmail.com</email>
-    </author>
-    <author>
-      <name>Nancy Sims</name>
-      <email>nsims@umich.edu</email>
+      <name>Eric M. Fink</name>
+      <email>efink@elon.edu</email>
     </author>
     <category citation-format="note"/>
     <category field="law"/>
-    <summary>The Bluebook legal citation style for law reviews.</summary>
-    <updated>2019-06-21T18:55:35+00:00</updated>
+    <summary>IndigoBook legal citation style for law reviews.</summary>
+    <updated>2023-02-01T18:55:35+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale>
