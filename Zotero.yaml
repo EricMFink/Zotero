@@ -701,7 +701,7 @@ references:
   issued:
     - literal: 2021-08-0019
   page: '1219'
-  references: Cert. pending
+  references: Cert. denied, 142 S.Ct. 2647 (2022)
   title: Animal Legal Defense Fund v. Kelly
   title-short: Kelly
   type: legal_case
@@ -731,27 +731,6 @@ references:
   type: legal_case
   volume: '297'
 
-- id: ALDFvReynolds2019-SDIowa
-  authority: S.D. Iowa
-  citation-key: ALDFvReynolds2019-SDIowa
-  issued:
-    - literal: 2019-02-0014
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: Reynolds
-  type: legal_case
-
-- id: ALDFvReynolds2019a-SDIowa
-  authority: S.D. Iowa
-  citation-key: ALDFvReynolds2019a-SDIowa
-  container-title: F.Supp.3d
-  issued:
-    - year: 2019
-  page: '812'
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: Reynolds
-  type: legal_case
-  volume: '353'
-
 - id: ALDFvReynolds2021-8thCir
   authority: 8th Circuit
   citation-key: ALDFvReynolds2021-8thCir
@@ -767,12 +746,15 @@ references:
 - id: ALDFvReynolds2022-SDIowa
   authority: S.D. Iowa
   citation-key: ALDFvReynolds2022-SDIowa
+  container-title: F.Supp.3d
   issued:
     - literal: 2022-03-0014
   number: 4:19-cv-00124-SMR-HCA
+  page: '397'
   title: Animal Legal Defense Fund v. Reynolds
   title-short: Reynolds
   type: legal_case
+  volume: '591'
 
 - id: ALDFvVaught2020-EDArk
   authority: E.D. Arkansas
@@ -8182,6 +8164,16 @@ references:
     Culture, 25th Anniversary Edition
   title-short: Captains of Consciousness
   type: book
+
+- id: Ewing1988
+  authority: 2d Cir.
+  citation-key: Ewing1988
+  container-title: F. 2d
+  issued:
+    - year: 1988
+  page: '353'
+  title: Ewing v. N.L.R.B.
+  type: legal_case
 
 - id: ewingEmploymentEffectsGood2005
   abstract: >-
@@ -19723,6 +19715,17 @@ references:
   URL: http://www.jstor.org/stable/2782114
   volume: '101'
 
+- id: MeyersI1984
+  authority: N.L.R.B.
+  citation-key: MeyersI1984
+  container-title: NLRB
+  issued:
+    - year: 1984
+  page: '493'
+  title: Meyers Industries, Inc. ("Meyers I")
+  type: legal_case
+  volume: '268'
+
 - id: meyerSignalsSpilloverBrown2007
   abstract: >-
     The watershed Supreme Court decision in "Brown v. Board of Education"
@@ -19764,6 +19767,17 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/20446351
   volume: '5'
+
+- id: MeyersII1986
+  authority: N.L.R.B.
+  citation-key: MeyersII1986
+  container-title: NLRB
+  issued:
+    - year: 1986
+  page: '493'
+  title: Meyers Industries, Inc. ("Meyers II")
+  type: legal_case
+  volume: '281'
 
 - id: mianHouseDebtHow2015
   abstract: >-
@@ -22908,6 +22922,26 @@ references:
   type: webpage
   URL: >-
     https://features.propublica.org/medical-debt/when-medical-debt-collectors-decide-who-gets-arrested-coffeyville-kansas/
+
+- id: PulaskiCountyMedicalExchange2022
+  accessed:
+    - year: 2023
+      month: 2
+      day: 6
+  authority: E.D.Arkansas
+  citation-key: PulaskiCountyMedicalExchange2022
+  container-title: WL
+  issued:
+    - year: 2022
+      month: 2
+      day: 15
+  number: 4:22-CV-00028-BRW
+  page: '468027'
+  title: Pulaski County Medical Exchange v. Medcom Medical Messaging, Inc.
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Document/Ied3f6c608f3811ec9655a5a0da21c5fc/View/FullText.html?listSource=RelatedInfo&list=CitingReferences&rank=1&docFamilyGuid=Ibc10f9e08f4411ec8bbab1a0317ed19a&overruleRisk=true&ppcid=750d382278ae4476bdeb08018bd87f6c&originationContext=citingreferences&transitionType=CitingReferencesItem&contextData=%28sc.Keycite%29
+  volume: '2022'
 
 - id: purcellAntoninScaliaAmerican2020
   abstract: >-
@@ -27174,6 +27208,26 @@ references:
   source: Google Books
   title: Social Movements, 1768 - 2018
   type: book
+
+- id: TimberAutomation-WDArk-2020
+  accessed:
+    - year: 2023
+      month: 2
+      day: 6
+  authority: W.D. Arkansas
+  citation-key: TimberAutomation-WDArk-2020
+  container-title: WL
+  issued:
+    - year: 2020
+      month: 10
+      day: 20
+  number: 6:20-CV-06076
+  page: '5878211'
+  title: Timber Automation, LLC v. FiberPro, LLC
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Document/Ie03a36f006de11ebb0bbcfa37ab37316/View/FullText.html?navigationPath=%2FRelatedInfo%2Fv1%2FkcCitingReferences%2Fnav%3FdocGuid%3DN6A93E8B045A811E7BB8DA3C0921B0A62%26midlineIndex%3D2%26warningFlag%3DN%26planIcons%3DNO%26skipOutOfPlan%3DNO%26sort%3Ddatedesc%26filterGuid%3Dh562dbc1f9a5f4b0c9e54031a19076b9c%26category%3DkcCitingReferences%26origDocSource%3D2549d771525d4e8e8a465e00222977a8&listSource=RelatedInfo&list=CitingReferences&rank=2&docFamilyGuid=Ie38fca9006de11ebbbcdac4f78ae6f85&overruleRisk=true&ppcid=5af1b3f8022545808a862572ea0f784f&originationContext=citingreferences&transitionType=CitingReferencesItem&contextData=%28sc.DocLink%29
+  volume: '2020'
 
 - id: TimesHeraldRecord2001
   authority: N.L.R.B.
