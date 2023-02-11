@@ -104,7 +104,7 @@
       </if>
       <else-if type="legal_case">
         <text variable="title" font-variant="normal"/>
-        <group prefix=", " delimiter=" ">
+        <group prefix=" " delimiter=" ">
           <text variable="volume"/>
           <text macro="container"/>
         </group>
@@ -114,7 +114,7 @@
       </else-if>
       <else-if type="legislation">
         <text variable="title" font-variant="normal"/>
-        <group prefix=", " delimiter=" ">
+        <group prefix=" " delimiter=" ">
           <text variable="volume"/>
           <text macro="container"/>
         </group>
@@ -223,6 +223,61 @@
       </else>
     </choose>
   </macro>
+
+  <macro name="year-sort">
+    <choose>
+      <if variable="issued">
+        <date variable="issued" form="numeric" date-parts="year"/>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+
+  <macro name="full-date">
+      <choose>
+        <if variable="issued">
+            <group delimiter=" ">
+                <date variable="issued">
+                <date-part name="month" form="short" suffix=" "/>
+                <date-part name="day" suffix=", "/>
+                <date-part name="year"/>
+                </date>
+            </group>
+        </if>
+        <else>
+          <text term="no date" form="short"/>
+        </else>
+      </choose>
+    </macro>
+
+  <macro name="year-date">
+    <choose>
+      <if variable="issued">
+        <group delimiter=" ">
+          <date variable="original-date" form="numeric" date-parts="year" prefix="[" suffix="]"/>
+          <date variable="issued" form="numeric" date-parts="year"/>
+        </group>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+
+  <macro name="sort-key">
+  <choose>
+    <if type="legal_case" match="any">
+      <text value="1"/>
+    </if>
+    <else>
+      <text value="2"/>
+    </else>
+  </choose>
+  </macro>
+
+<!-- CITATION-->
   <citation et-al-min="4" et-al-use-first="1">
     <layout suffix="." delimiter="; ">
       <choose>
@@ -256,4 +311,24 @@
       </choose>
     </layout>
   </citation>
+  
+<!-- BIBLIOGRAPHY -->
+  <bibliography hanging-indent="true" et-al-min="4" et-al-use-first="1" entry-spacing="1">
+    <sort>
+      <key macro="sort-key"/>
+      <key macro="author"/>
+      <key variable="title"/>
+      <key macro="year-sort"/>
+    </sort>
+    <layout suffix=".">
+      <choose>
+        <if type="book" match="any">
+          <text variable="volume" suffix=" "/>
+        </if>
+      </choose>
+        <text macro="author" suffix=", "/>
+        <text macro="source"/>
+    </layout>
+  </bibliography>
+
 </style>
