@@ -10749,6 +10749,18 @@ references:
   type: article-journal
   volume: '63'
 
+- id: Garmon1959
+  authority: U.S.
+  citation-key: Garmon1959
+  container-title: U.S.
+  issued:
+    - year: 1959
+  page: '236'
+  title: San Diego Building Trades Council v. Garmon
+  title-short: Garmon
+  type: legal_case
+  volume: '359'
+
 - id: garthLegalRealismLaw2014
   abstract: >-
     The 1960s, in retrospect, were a good time for an alliance between law and
@@ -24055,18 +24067,6 @@ references:
   title: Sanderson Farms, Inc. v. NLRB
   type: legal_case
   volume: '335'
-
-- id: SanDiegoBuilding1959
-  authority: U.S.
-  citation-key: SanDiegoBuilding1959
-  container-title: U.S.
-  issued:
-    - year: 1959
-  page: '236'
-  title: San Diego Building Trades Council v. Garmon
-  title-short: Garmon
-  type: legal_case
-  volume: '359'
 
 - id: SandyLakeBand2013
   authority: 8th Cir.
