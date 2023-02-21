@@ -866,27 +866,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/487703
 
-- id: AmicusBriefsFiled2021
-  abstract: >-
-    Three amicus curiae briefs were filed in the Fourth Circuit on Monday in a
-    lawsuit filed by animal rights organizations against a North Carolina law.
-    The
-  accessed:
-    - year: 2022
-      month: 1
-      day: 9
-  citation-key: AmicusBriefsFiled2021
-  container-title: Law Street Media
-  issued:
-    - year: 2021
-      month: 3
-      day: 2
-  language: en-US
-  title: Amicus Briefs Filed in PETA Suit Against North Carolina Law
-  type: post-weblog
-  URL: >-
-    https://lawstreetmedia.com/news/agriculture/amicus-briefs-filed-in-peta-suit-against-north-carolina-law/
-
 - id: andersonImaginedCommunitiesReflections2006
   abstract: >-
     The definitive, bestselling book on the origins of nationalism, and the
@@ -1729,6 +1708,30 @@ references:
     litigation documents into law firm workflow
   type: patent
   URL: https://patents.google.com/patent/US8185560B2/en
+
+- id: Ashcraft2021
+  abstract: >-
+    Three amicus curiae briefs were filed in the Fourth Circuit on Monday in a
+    lawsuit filed by animal rights organizations against a North Carolina law.
+    The
+  accessed:
+    - year: 2022
+      month: 1
+      day: 9
+  author:
+    - family: Ashcraft
+      given: Emily
+  citation-key: Ashcraft2021
+  container-title: Law Street Media
+  issued:
+    - year: 2021
+      month: 3
+      day: 2
+  language: en-US
+  title: Amicus Briefs Filed in PETA Suit Against North Carolina Law
+  type: post-weblog
+  URL: >-
+    https://lawstreetmedia.com/news/agriculture/amicus-briefs-filed-in-peta-suit-against-north-carolina-law/
 
 - id: AshcroftIqbal2009
   authority: supreme.court
@@ -8159,8 +8162,8 @@ references:
   volume: '59'
 
 - id: ExaminingUnionSalting2004
+  authority: U.S. House of Representatives
   citation-key: ExaminingUnionSalting2004
-  genre: Hearing
   issued:
     - year: 2004
       month: 5
@@ -8169,11 +8172,14 @@ references:
     mlzsync1:0168{"extrafields":{"jurisdiction":"002usUnited
     States|US","committee":"Subcommittee on Employer-Employee Relations of the
     House Committee on Education and the Workforce"}}
+  section: >-
+    Subcommittee on Employer-Employee Relations of the House Committee on
+    Education and the Workforce
   title: >-
     Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S.
     Economy
   title-short: Examining Union Salting Abuses
-  type: report
+  type: hearing
 
 - id: ExxonMobilCorp2005
   authority: supreme.court
@@ -10748,6 +10754,18 @@ references:
   title-short: Labor Organizing in the Age of Surveillance Symposium
   type: article-journal
   volume: '63'
+
+- id: Garmon1959
+  authority: U.S.
+  citation-key: Garmon1959
+  container-title: U.S.
+  issued:
+    - year: 1959
+  page: '236'
+  title: San Diego Building Trades Council v. Garmon
+  title-short: Garmon
+  type: legal_case
+  volume: '359'
 
 - id: garthLegalRealismLaw2014
   abstract: >-
@@ -24055,18 +24073,6 @@ references:
   title: Sanderson Farms, Inc. v. NLRB
   type: legal_case
   volume: '335'
-
-- id: SanDiegoBuilding1959
-  authority: U.S.
-  citation-key: SanDiegoBuilding1959
-  container-title: U.S.
-  issued:
-    - year: 1959
-  page: '236'
-  title: San Diego Building Trades Council v. Garmon
-  title-short: Garmon
-  type: legal_case
-  volume: '359'
 
 - id: SandyLakeBand2013
   authority: 8th Cir.
