@@ -12168,6 +12168,48 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.25
 
+- id: Hallgrimsdottir2006
+  abstract: >-
+    This article examines the reasons why the Knights of Labour, a labor
+    movement that enjoyed enormous popularity and success during the penultimate
+    decade of the 19th century, were unable to construct a resonant cultural
+    frame in support of their platform of arbitration. The theoretical framework
+    employed in this article is constructed by importing two concepts from
+    political process models of social movement action into culturalist
+    accounts, historical environment (or context), and opportunity. This
+    framework allows me to look at how historical environments offer transient
+    openings for the effective construction of counterhegemonic or subversive
+    collective action frames. I argue that opportunity for framing has to do
+    with the intersection between the signification requisites of framing
+    practices, and the systemic features of cultural environments. I find that
+    the nature of this opportunity in the years between 1885 and 1887 helps
+    explain why movement practice within the Knights of Labour diverged so
+    significantly from the practices advocated by its leadership.
+  accessed:
+    - year: 2023
+      month: 2
+      day: 18
+  author:
+    - family: Hallgrímsdóttir
+      given: Helga Kristín
+  citation-key: Hallgrimsdottir2006
+  container-title: The Sociological Quarterly
+  ISSN: 0038-0253
+  issue: '4'
+  issued:
+    - year: 2006
+  page: 521-542
+  publisher: '[Midwest Sociological Society, Wiley]'
+  source: JSTOR
+  title: >-
+    The Knights of Labour and the Failure of the Arbitration Platform,
+    1886-1887: Ideology, Hegemony, and Contextually Generated Opportunities for
+    Frame Success
+  title-short: The Knights of Labour and the Failure of the Arbitration Platform, 1886-1887
+  type: article-journal
+  URL: https://www.jstor.org/stable/4121181
+  volume: '47'
+
 - id: hanemanReFramingStudent2021
   author:
     - family: Haneman
