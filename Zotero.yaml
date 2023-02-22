@@ -1709,7 +1709,11 @@ references:
   type: patent
   URL: https://patents.google.com/patent/US8185560B2/en
 
+<<<<<<< HEAD
 - id: ashcraftAmicusBriefsFiled2021
+=======
+- id: Ashcraft2021
+>>>>>>> b465cb3b73f62d7a590211469fc90a3485e27479
   abstract: >-
     Three amicus curiae briefs were filed in the Fourth Circuit on Monday in a
     lawsuit filed by animal rights organizations against a North Carolina law.
@@ -1721,7 +1725,11 @@ references:
   author:
     - family: Ashcraft
       given: Emily
+<<<<<<< HEAD
   citation-key: ashcraftAmicusBriefsFiled2021
+=======
+  citation-key: Ashcraft2021
+>>>>>>> b465cb3b73f62d7a590211469fc90a3485e27479
   container-title: Law Street Media
   issued:
     - year: 2021
@@ -2552,12 +2560,12 @@ references:
   type: legal_case
   volume: '562'
 
-- id: befortDemystifyingFederalLabor1998
+- id: Befort1998
   archive: JSTOR
   author:
     - family: Befort
       given: Stephen F.
-  citation-key: befortDemystifyingFederalLabor1998
+  citation-key: Befort1998
   container-title: The Labor Lawyer
   ISSN: 8756-2995
   issue: '3'
@@ -3005,7 +3013,7 @@ references:
   title-short: Solidarity Divided
   type: book
 
-- id: binkerLawmakersOverrideMcCrory2015
+- id: Binker2015
   accessed:
     - year: 2019
       month: 1
@@ -3015,7 +3023,7 @@ references:
       given: Mark
     - family: Leslie
       given: Laura
-  citation-key: binkerLawmakersOverrideMcCrory2015
+  citation-key: Binker2015
   container-title: WRAL.com
   issued:
     - year: 2015
@@ -3265,7 +3273,7 @@ references:
   title-short: Red State Revolt
   type: book
 
-- id: blizzardNCPropertyProtection2017
+- id: Blizzard2017
   accessed:
     - year: 2018
       month: 12
@@ -3273,7 +3281,7 @@ references:
   author:
     - family: Blizzard
       given: Doug
-  citation-key: blizzardNCPropertyProtection2017
+  citation-key: Blizzard2017
   container-title: CAI Blog
   issued:
     - year: 2017
@@ -5136,11 +5144,11 @@ references:
   type: legal_case
   volume: '477'
 
-- id: centerforconstitutionalrightsAgGagAmericaCorporateBacked2017
+- id: CenterforConstitutionalRights2017
   author:
     - family: Center for Constitutional Rights
       given: ''
-  citation-key: centerforconstitutionalrightsAgGagAmericaCorporateBacked2017
+  citation-key: CenterforConstitutionalRights2017
   issued:
     - year: 2017
   title: >-
@@ -5574,11 +5582,11 @@ references:
   title-short: A Consumers' Republic
   type: book
 
-- id: colemanALDFOtterWhat2017
+- id: Coleman2017
   author:
     - family: Coleman
       given: Jacob
-  citation-key: colemanALDFOtterWhat2017
+  citation-key: Coleman2017
   container-title: Journal of Food Law and Policy
   container-title-short: J. Food L. & Pol'y
   issued:
@@ -5703,11 +5711,11 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.8
 
-- id: cooleyGaggedBigAg2019
+- id: Cooley2019
   author:
     - family: Cooley
       given: Tara
-  citation-key: cooleyGaggedBigAg2019
+  citation-key: Cooley2019
   container-title: Golden Gate University Law Review
   container-title-short: Golden Gate U. L. Rev.
   issue: '2'
@@ -6155,13 +6163,13 @@ references:
   type: legal_case
   volume: '571'
 
-- id: dallSaltingEarthOrganizing2002
+- id: Dall2002
   author:
     - family: Dall
       given: Carey
     - family: Cohen
       given: Jonathan
-  citation-key: dallSaltingEarthOrganizing2002
+  citation-key: Dall2002
   container-title: New Labor Forum
   issue: '10'
   issued:
@@ -9496,7 +9504,7 @@ references:
   type: article-journal
   volume: '39'
 
-- id: fletcherAgGagLawsThreat2015
+- id: Fletcher2015
   accessed:
     - year: 2019
       month: 1
@@ -9504,7 +9512,7 @@ references:
   author:
     - family: Fletcher
       given: Ryan
-  citation-key: fletcherAgGagLawsThreat2015
+  citation-key: Fletcher2015
   container-title: Fair World Project
   issued:
     - year: 2015
@@ -9936,11 +9944,11 @@ references:
   type: legal_case
   volume: '141'
 
-- id: formanLetGetWork2017
+- id: Forman2017
   author:
     - family: Forman
       given: Erik
-  citation-key: formanLetGetWork2017
+  citation-key: Forman2017
   container-title: Jacobin
   issued:
     - year: 2017
@@ -10736,11 +10744,11 @@ references:
   title-short: Marginal Workers
   type: book
 
-- id: gardenLaborOrganizingAge2018
+- id: Garden2018
   author:
     - family: Garden
       given: Charlotte
-  citation-key: gardenLaborOrganizingAge2018
+  citation-key: Garden2018
   container-title: Saint Louis University Law Journal
   container-title-short: St. Louis U. L.J.
   issue: '1'
@@ -12186,7 +12194,7 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.25
 
-- id: hallgrimsdottirKnightsLabourFailure2006
+- id: Hallgrimsdottir2006
   abstract: >-
     This article examines the reasons why the Knights of Labour, a labor
     movement that enjoyed enormous popularity and success during the penultimate
@@ -12210,7 +12218,7 @@ references:
   author:
     - family: Hallgrímsdóttir
       given: Helga Kristín
-  citation-key: hallgrimsdottirKnightsLabourFailure2006
+  citation-key: Hallgrimsdottir2006
   container-title: The Sociological Quarterly
   ISSN: 0038-0253
   issue: '4'
@@ -12275,11 +12283,11 @@ references:
   type: legal_case
   volume: '380'
 
-- id: hannekenPrinciplesLimitingRecovery2017
+- id: Hanneken2017
   author:
     - family: Hanneken
       given: Sarah
-  citation-key: hannekenPrinciplesLimitingRecovery2017
+  citation-key: Hanneken2017
   container-title: John Marshall Law Review
   container-title-short: J. Marshall L. Rev.
   issued:
@@ -13246,11 +13254,11 @@ references:
   title-short: Nations and Nationalism Since 1780
   type: book
 
-- id: holifeldAnimalLegalDefense2016
+- id: Holifeld2016
   author:
     - family: Holifeld
       given: Lucy L.
-  citation-key: holifeldAnimalLegalDefense2016
+  citation-key: Holifeld2016
   container-title: Journal of Food Law & Policy
   issued:
     - year: 2016
@@ -13840,11 +13848,11 @@ references:
   title-short: Rethinking Capitalism
   type: book
 
-- id: jacquesCivilSocietyCorporate2015
+- id: Jacques2015
   author:
     - family: Jacques
       given: Peter J.
-  citation-key: jacquesCivilSocietyCorporate2015
+  citation-key: Jacques2015
   container-title: Journal of Environmental Studies and Sciences
   DOI: 10.1007/s13412-015-0294-0
   ISSN: 2190-6483, 2190-6491
@@ -13896,11 +13904,11 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght3&i=111
   volume: '3'
 
-- id: jarvisPETAOtherAnimal2016
+- id: Jarvis2016
   author:
     - family: Jarvis
       given: Craig
-  citation-key: jarvisPETAOtherAnimal2016
+  citation-key: Jarvis2016
   container-title: News & Observer
   issued:
     - year: 2016
@@ -14281,11 +14289,11 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/umem43&i=251
   volume: '43'
 
-- id: johnsonNoSaltAdded2017
+- id: Johnson2017
   author:
     - family: Johnson
       given: Nick
-  citation-key: johnsonNoSaltAdded2017
+  citation-key: Johnson2017
   container-title: Jacobin
   issued:
     - year: 2017
@@ -14624,7 +14632,7 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.14
 
-- id: kahanaMasterServantEarly2000
+- id: Kahana2000
   accessed:
     - year: 2022
       month: 12
@@ -14632,7 +14640,7 @@ references:
   author:
     - family: Kahana
       given: Jeffrey S.
-  citation-key: kahanaMasterServantEarly2000
+  citation-key: Kahana2000
   container-title: Journal of the Early Republic
   DOI: 10.2307/3124829
   ISSN: 0275-1275
@@ -14904,7 +14912,7 @@ references:
   URL: http://www.jstor.org/stable/23011896
   volume: '36'
 
-- id: kazaglisNorthCarolinaReinforces2015
+- id: Kazaglis2015
   accessed:
     - year: 2018
       month: 12
@@ -14912,7 +14920,7 @@ references:
   author:
     - family: Kazaglis
       given: Ted Nick
-  citation-key: kazaglisNorthCarolinaReinforces2015
+  citation-key: Kazaglis2015
   container-title: Jackson Lewis
   issued:
     - year: 2015
@@ -16087,11 +16095,11 @@ references:
   title-short: A Troublemaker's Handbook
   type: book
 
-- id: lamLifeUndercoverUnion2016
+- id: Lam2016
   author:
     - family: Lam
       given: Bourree
-  citation-key: lamLifeUndercoverUnion2016
+  citation-key: Lam2016
   container-title: The Atlantic
   issued:
     - year: 2016
@@ -18101,11 +18109,11 @@ references:
   title-short: States, War, and Capitalism
   type: book
 
-- id: marceauAgGagPresentFuture2015
+- id: Marceau2015
   author:
     - family: Marceau
       given: Justin F.
-  citation-key: marceauAgGagPresentFuture2015
+  citation-key: Marceau2015
   container-title: Seattle University Law Review
   issued:
     - year: 2015
@@ -18407,6 +18415,46 @@ references:
 
 - id: marxCapitalCritiquePolitical1993
   abstract: >-
+    The second volume of a political treatise that changed the worldA vital
+    cornerstone to Marx’s overall theory of economics, the second volume of
+    Capital considers in depth the nature of commodity and the market-place
+    bourgeois society. This immensely powerful work argues that prosperity in a
+    capitalist society inevitably holds within itself the seeds of its own
+    destruction.For more than seventy years, Penguin has been the leading
+    publisher of classic literature in the English-speaking world. With more
+    than 1,700 titles, Penguin Classics represents a global bookshelf of the
+    best works throughout history and across genres and disciplines. Readers
+    trust the series to provide authoritative texts enhanced by introductions
+    and notes by distinguished scholars and contemporary authors, as well as
+    up-to-date translations by award-winning translators.
+  author:
+    - family: Marx
+      given: Karl
+    - family: Mandel
+      given: Ernest
+  citation-key: marxCapitalCritiquePolitical1993
+  edition: Reprint edition
+  event-place: London
+  ISBN: 978-0-14-044569-5
+  issued:
+    - year: 1993
+      month: 3
+      day: 1
+  language: English
+  number-of-pages: '624'
+  publisher: Penguin Classics
+  publisher-place: London
+  source: Amazon
+  title: 'Capital: A Critique of Political Economy, vol. 2'
+  title-short: Capital
+  translator:
+    - family: Fernbach
+      given: David
+  type: book
+  volume: '2'
+
+- id: marxCapitalCritiquePolitical1993a
+  abstract: >-
     The third volume of a political treatise that changed the worldUnfinished at
     the time of Marx’s death in 1883 and first published with a preface by
     Frederick Engels in 1894, the third volume of Capital strives to combine the
@@ -18430,7 +18478,7 @@ references:
       given: Karl
     - family: Mandel
       given: Ernest
-  citation-key: marxCapitalCritiquePolitical1993
+  citation-key: marxCapitalCritiquePolitical1993a
   edition: Reissue edition
   event-place: New York, N.Y., U.S.A
   ISBN: 978-0-14-044570-1
@@ -18450,46 +18498,6 @@ references:
       given: David
   type: book
   volume: '3'
-
-- id: marxCapitalCritiquePolitical1993a
-  abstract: >-
-    The second volume of a political treatise that changed the worldA vital
-    cornerstone to Marx’s overall theory of economics, the second volume of
-    Capital considers in depth the nature of commodity and the market-place
-    bourgeois society. This immensely powerful work argues that prosperity in a
-    capitalist society inevitably holds within itself the seeds of its own
-    destruction.For more than seventy years, Penguin has been the leading
-    publisher of classic literature in the English-speaking world. With more
-    than 1,700 titles, Penguin Classics represents a global bookshelf of the
-    best works throughout history and across genres and disciplines. Readers
-    trust the series to provide authoritative texts enhanced by introductions
-    and notes by distinguished scholars and contemporary authors, as well as
-    up-to-date translations by award-winning translators.
-  author:
-    - family: Marx
-      given: Karl
-    - family: Mandel
-      given: Ernest
-  citation-key: marxCapitalCritiquePolitical1993a
-  edition: Reprint edition
-  event-place: London
-  ISBN: 978-0-14-044569-5
-  issued:
-    - year: 1993
-      month: 3
-      day: 1
-  language: English
-  number-of-pages: '624'
-  publisher: Penguin Classics
-  publisher-place: London
-  source: Amazon
-  title: 'Capital: A Critique of Political Economy, vol. 2'
-  title-short: Capital
-  translator:
-    - family: Fernbach
-      given: David
-  type: book
-  volume: '2'
 
 - id: marxGrundrisseFoundationsCritique1993
   abstract: >-
@@ -19254,6 +19262,21 @@ references:
   URL: https://browzine.com/articles/488443958
   volume: '52'
 
+- id: McGinley2012
+  author:
+    - family: McGinley
+      given: Ann C
+    - family: McGinley-Stempel
+      given: Ryan P
+  citation-key: McGinley2012
+  container-title: Hofstra Labor & Employment Law Journal
+  issued:
+    - year: 2012
+  page: '75'
+  title: 'Beyond the Water Cooler: Speech and the Workplace in an Era of Social Media'
+  type: article-journal
+  volume: '30'
+
 - id: mcginleyWaterCoolerSpeech2012
   author:
     - family: McGinley
@@ -19274,21 +19297,6 @@ references:
   title-short: Beyond the Water Cooler
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/hlelj30&i=85
-  volume: '30'
-
-- id: mcginleyWaterCoolerSpeech2012a
-  author:
-    - family: McGinley
-      given: Ann C
-    - family: McGinley-Stempel
-      given: Ryan P
-  citation-key: mcginleyWaterCoolerSpeech2012a
-  container-title: Hofstra Labor & Employment Law Journal
-  issued:
-    - year: 2012
-  page: '75'
-  title: 'Beyond the Water Cooler: Speech and the Workplace in an Era of Social Media'
-  type: article-journal
   volume: '30'
 
 - id: mcgrathFoodDissentNatural2019
@@ -19475,11 +19483,11 @@ references:
   URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.6
   volume: '4'
 
-- id: merabetSwordShieldSocial2013
+- id: Merabet2013
   author:
     - family: Merabet
       given: Stephanie M.
-  citation-key: merabetSwordShieldSocial2013
+  citation-key: Merabet2013
   container-title: Suffolk University Law Review
   container-title-short: Suffolk U. L. Rev.
   issue: '4'
@@ -20897,7 +20905,7 @@ references:
   URL: https://www.emeraldinsight.com/doi/full/10.1108/EL-03-2012-0031
   volume: '31'
 
-- id: nationalagriculturallawcenterAggagLawsUpdate2021
+- id: NationalAgriculturalLawCenter2021
   accessed:
     - year: 2022
       month: 1
@@ -20905,7 +20913,7 @@ references:
   author:
     - family: National Agricultural Law Center
       given: ''
-  citation-key: nationalagriculturallawcenterAggagLawsUpdate2021
+  citation-key: NationalAgriculturalLawCenter2021
   issued:
     - year: 2021
       month: 8
@@ -20929,11 +20937,11 @@ references:
   URL: https://www.law.cornell.edu/uscode/text/29/151
   volume: '29'
 
-- id: nationalrighttoworkcommitteeSaltingCoerciveBig2003
+- id: NationalRighttoWorkCommittee2003
   author:
     - family: National Right to Work Committee
       given: ''
-  citation-key: nationalrighttoworkcommitteeSaltingCoerciveBig2003
+  citation-key: NationalRighttoWorkCommittee2003
   issued:
     - year: 2003
   publisher: National Right to Work Committee
@@ -23176,6 +23184,24 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/montlr56&i=591
   volume: '56'
 
+- id: Reid2015
+  author:
+    - family: Reid
+      given: Rita-Marie Cain
+    - family: Kingery
+      given: Amber L.
+  citation-key: Reid2015
+  container-title: Journal of Food Law & Policy
+  issued:
+    - year: 2015
+  page: '31'
+  title: >-
+    Putting a Gag on Farm Whistleblowers: The Right to Lie and the Right to
+    Remain Silent Confront State Agricultural Protectionism
+  title-short: Putting a Gag on Farm Whistleblowers
+  type: article-journal
+  volume: '11'
+
 - id: reidCombatingEnemyRegulating2018
   author:
     - family: Reid
@@ -23195,24 +23221,6 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/vanlr71&i=1067
   volume: '71'
-
-- id: reidPuttingGagFarm2015
-  author:
-    - family: Reid
-      given: Rita-Marie Cain
-    - family: Kingery
-      given: Amber L.
-  citation-key: reidPuttingGagFarm2015
-  container-title: Journal of Food Law & Policy
-  issued:
-    - year: 2015
-  page: '31'
-  title: >-
-    Putting a Gag on Farm Whistleblowers: The Right to Lie and the Right to
-    Remain Silent Confront State Agricultural Protectionism
-  title-short: Putting a Gag on Farm Whistleblowers
-  type: article-journal
-  volume: '11'
 
 - id: reinerBlueCoatedWorkerSociological1978
   author:
@@ -24026,11 +24034,11 @@ references:
   title-short: Eugene V. Debs
   type: book
 
-- id: sandersAgGagFreeNation2019
+- id: Sanders2019
   author:
     - family: Sanders
       given: Shaakirrah R.
-  citation-key: sandersAgGagFreeNation2019
+  citation-key: Sanders2019
   container-title: Wake Forest Law Review
   container-title-short: Wake Forest L. Rev.
   issue: '2'
@@ -24622,11 +24630,11 @@ references:
   title-short: Weapons of the Weak
   type: book
 
-- id: scrufariWatershedMomentRevealing2017
+- id: Scrufari2017
   author:
     - family: Scrufari
       given: Carrie A
-  citation-key: scrufariWatershedMomentRevealing2017
+  citation-key: Scrufari2017
   container-title: UCLA Law Review Discourse
   issued:
     - year: 2017
@@ -25575,11 +25583,11 @@ references:
     Conservative Causes
   type: article-journal
 
-- id: spasserWinningHeartsMinds2013
+- id: Spasser2013
   author:
     - family: Spasser
       given: Alison
-  citation-key: spasserWinningHeartsMinds2013
+  citation-key: Spasser2013
   event-place: San Francisco, CA
   genre: Master’s Thesis
   issued:
@@ -25657,7 +25665,7 @@ references:
   title-short: The Common Law of the Workplace
   type: book
 
-- id: stampferDidKhazarsConvert2013
+- id: Stampfer2013
   abstract: >-
     Abstract The view that some or all of the Khazars, a central Asian people,
     converted to Judaism at some point during the ninth or tenth century is
@@ -25674,7 +25682,7 @@ references:
   author:
     - family: Stampfer
       given: Shaul
-  citation-key: stampferDidKhazarsConvert2013
+  citation-key: Stampfer2013
   container-title: Jewish Social Studies
   DOI: 10.2979/jewisocistud.19.3.1
   ISSN: 0021-6704
@@ -26733,6 +26741,23 @@ references:
   title-short: Race for Profit
   type: book
 
+- id: Tejani2022
+  author:
+    - family: Tejani
+      given: Riaz
+  citation-key: Tejani2022
+  container-title: Alabama Law Review
+  issued:
+    - year: 2022
+  language: en
+  page: '21'
+  source: Zotero
+  title: >-
+    The Life of Transplants: Why Law and Economics Has “Succeeded” Where Legal
+    Anthropology Has Not
+  type: article-journal
+  volume: '73'
+
 - id: tejaniLawSocietyToday2019
   author:
     - family: Tejani
@@ -26746,23 +26771,6 @@ references:
   type: book
   URL: >-
     https://www.amazon.com/gp/product/0520295749?pf_rd_p=183f5289-9dc0-416f-942e-e8f213ef368b&pf_rd_r=5E2HS2E5FFT9ZGFYBXVS
-
-- id: tejaniLifeTransplantsWhy2022
-  author:
-    - family: Tejani
-      given: Riaz
-  citation-key: tejaniLifeTransplantsWhy2022
-  container-title: Alabama Law Review
-  issued:
-    - year: 2022
-  language: en
-  page: '21'
-  source: Zotero
-  title: >-
-    The Life of Transplants: Why Law and Economics Has “Succeeded” Where Legal
-    Anthropology Has Not
-  type: article-journal
-  volume: '73'
 
 - id: tejaniProfessionalApartheidRacialization2017
   abstract: >-
@@ -27659,11 +27667,11 @@ references:
   title: Taking the Constitution Away from the Courts
   type: book
 
-- id: twomeySaltingFairOrganizing2004
+- id: Twomey2004
   author:
     - family: Twomey
       given: David P.
-  citation-key: twomeySaltingFairOrganizing2004
+  citation-key: Twomey2004
   container-title: Business Law Review
   issued:
     - year: 2004
@@ -27849,13 +27857,13 @@ references:
   URL: www.jstor.org/stable/3096967
   volume: '41'
 
-- id: vanbourgSaltingMinesLegal1998
+- id: VanBourg1998
   author:
     - family: Van Bourg
       given: Victor J.
     - family: Moscowitz
       given: Ellyn
-  citation-key: vanbourgSaltingMinesLegal1998
+  citation-key: VanBourg1998
   container-title: Hofstra Labor & Employment Law Journal
   issued:
     - year: 1998
@@ -27952,7 +27960,7 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/41275057
 
-- id: vergerNorthCarolinaAgGag2015
+- id: Verger2015
   accessed:
     - year: 2023
       month: 2
@@ -27960,7 +27968,7 @@ references:
   author:
     - family: Verger
       given: Rob
-  citation-key: vergerNorthCarolinaAgGag2015
+  citation-key: Verger2015
   container-title: Vice
   issued:
     - year: 2015
@@ -28134,28 +28142,11 @@ references:
   type: legal_case
   volume: '4'
 
-- id: walshDoubleLifeUndercover2016
+- id: Walsh2016
   author:
     - family: Walsh
       given: James D.
-  citation-key: walshDoubleLifeUndercover2016
-  container-title: New York Magazine Intelligencer
-  issued:
-    - year: 2016
-      month: 2
-      day: 19
-  language: en
-  title: The Double Life of an Undercover Union Organizer
-  title-short: Undercover Union Organizer
-  type: webpage
-  URL: >-
-    http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
-
-- id: walshPlayingHouseDramatic2016
-  author:
-    - family: Walsh
-      given: James D.
-  citation-key: walshPlayingHouseDramatic2016
+  citation-key: Walsh2016
   ISBN: 978-1-4767-7837-2
   issued:
     - year: 2016
@@ -28169,6 +28160,23 @@ references:
     Organizer
   title-short: Playing Against the House
   type: book
+
+- id: Walsh2016a
+  author:
+    - family: Walsh
+      given: James D.
+  citation-key: Walsh2016a
+  container-title: New York Magazine Intelligencer
+  issued:
+    - year: 2016
+      month: 2
+      day: 19
+  language: en
+  title: The Double Life of an Undercover Union Organizer
+  title-short: Undercover Union Organizer
+  type: webpage
+  URL: >-
+    http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
 
 - id: wardEndowmentEffectEmpirical2004
   author:
@@ -28309,11 +28317,11 @@ references:
   URL: www.jstor.org/stable/40251683
   volume: '84'
 
-- id: weilBigAgExceptionalismEnding2017
+- id: Weil2017
   author:
     - family: Weil
       given: Sonia
-  citation-key: weilBigAgExceptionalismEnding2017
+  citation-key: Weil2017
   container-title: Drexel Law Review
   container-title-short: Drexel L. Rev.
   issued:
@@ -28834,11 +28842,11 @@ references:
   URL: www.jstor.org/stable/3659277
   volume: '92'
 
-- id: wolfeAnythingAgGagEnding2016
+- id: Wolfe2016
   author:
     - family: Wolfe
       given: Gabriella
-  citation-key: wolfeAnythingAgGagEnding2016
+  citation-key: Wolfe2016
   container-title: Syracuse Law Review
   issued:
     - year: 2016
