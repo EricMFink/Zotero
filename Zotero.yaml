@@ -866,27 +866,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/487703
 
-- id: AmicusBriefsFiled2021
-  abstract: >-
-    Three amicus curiae briefs were filed in the Fourth Circuit on Monday in a
-    lawsuit filed by animal rights organizations against a North Carolina law.
-    The
-  accessed:
-    - year: 2022
-      month: 1
-      day: 9
-  citation-key: AmicusBriefsFiled2021
-  container-title: Law Street Media
-  issued:
-    - year: 2021
-      month: 3
-      day: 2
-  language: en-US
-  title: Amicus Briefs Filed in PETA Suit Against North Carolina Law
-  type: post-weblog
-  URL: >-
-    https://lawstreetmedia.com/news/agriculture/amicus-briefs-filed-in-peta-suit-against-north-carolina-law/
-
 - id: andersonImaginedCommunitiesReflections2006
   abstract: >-
     The definitive, bestselling book on the origins of nationalism, and the
@@ -1729,6 +1708,30 @@ references:
     litigation documents into law firm workflow
   type: patent
   URL: https://patents.google.com/patent/US8185560B2/en
+
+- id: ashcraftAmicusBriefsFiled2021
+  abstract: >-
+    Three amicus curiae briefs were filed in the Fourth Circuit on Monday in a
+    lawsuit filed by animal rights organizations against a North Carolina law.
+    The
+  accessed:
+    - year: 2022
+      month: 1
+      day: 9
+  author:
+    - family: Ashcraft
+      given: Emily
+  citation-key: ashcraftAmicusBriefsFiled2021
+  container-title: Law Street Media
+  issued:
+    - year: 2021
+      month: 3
+      day: 2
+  language: en-US
+  title: Amicus Briefs Filed in PETA Suit Against North Carolina Law
+  type: post-weblog
+  URL: >-
+    https://lawstreetmedia.com/news/agriculture/amicus-briefs-filed-in-peta-suit-against-north-carolina-law/
 
 - id: AshcroftIqbal2009
   authority: supreme.court
@@ -8159,8 +8162,8 @@ references:
   volume: '59'
 
 - id: ExaminingUnionSalting2004
+  authority: U.S. House of Representatives
   citation-key: ExaminingUnionSalting2004
-  genre: Hearing
   issued:
     - year: 2004
       month: 5
@@ -8169,11 +8172,14 @@ references:
     mlzsync1:0168{"extrafields":{"jurisdiction":"002usUnited
     States|US","committee":"Subcommittee on Employer-Employee Relations of the
     House Committee on Education and the Workforce"}}
+  section: >-
+    Subcommittee on Employer-Employee Relations of the House Committee on
+    Education and the Workforce
   title: >-
     Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S.
     Economy
   title-short: Examining Union Salting Abuses
-  type: report
+  type: hearing
 
 - id: ExxonMobilCorp2005
   authority: supreme.court
