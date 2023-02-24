@@ -1684,7 +1684,11 @@ references:
   type: patent
   URL: https://patents.google.com/patent/US8185560B2/en
 
+<<<<<<< HEAD
+- id: ashcraftAmicusBriefsFiled2021
+=======
 - id: Ashcraft2021
+>>>>>>> b465cb3b73f62d7a590211469fc90a3485e27479
   abstract: >-
     Three amicus curiae briefs were filed in the Fourth Circuit on Monday in a
     lawsuit filed by animal rights organizations against a North Carolina law.
@@ -1696,7 +1700,11 @@ references:
   author:
     - family: Ashcraft
       given: Emily
+<<<<<<< HEAD
+  citation-key: ashcraftAmicusBriefsFiled2021
+=======
   citation-key: Ashcraft2021
+>>>>>>> b465cb3b73f62d7a590211469fc90a3485e27479
   container-title: Law Street Media
   issued:
     - year: 2021
