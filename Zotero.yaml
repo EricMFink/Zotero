@@ -664,7 +664,9 @@ references:
   citation-key: ALDFvKelly2021-10thCir
   container-title: F.4th
   issued:
-    - literal: 2021-08-0019
+    - year: 2021
+      month: 8
+      day: 19
   page: '1219'
   references: Cert. denied, 142 S.Ct. 2647 (2022)
   title: Animal Legal Defense Fund v. Kelly
@@ -866,6 +868,56 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/487703
 
+- id: Anderson2017
+  abstract: >-
+    Why our workplaces are authoritarian private governments-and why we can't
+    see it   One in four American workers says their workplace is a
+    "dictatorship." Yet that number probably would be even higher if we
+    recognized most employers for what they are-private governments with
+    sweeping authoritarian power over our lives, on duty and off. We normally
+    think of government as something only the state does, yet many of us are
+    governed far more-and far more obtrusively-by the private government of the
+    workplace. In this provocative and compelling book, Elizabeth Anderson
+    argues that the failure to see this stems from long-standing confusions.
+    These confusions explain why, despite all evidence to the contrary, we still
+    talk as if free markets make workers free-and why so many employers advocate
+    less government even while they act as dictators in their businesses.   In
+    many workplaces, employers minutely regulate workers' speech, clothing, and
+    manners, leaving them with little privacy and few other rights. And
+    employers often extend their authority to workers' off-duty lives. Workers
+    can be fired for their political speech, recreational activities, diet, and
+    almost anything else employers care to govern. Yet we continue to talk as if
+    early advocates of market society-from John Locke and Adam Smith to Thomas
+    Paine and Abraham Lincoln-were right when they argued that it would free
+    workers from oppressive authorities. That dream was shattered by the
+    Industrial Revolution, but the myth endures.    *Private Government*  offers
+    a better way to talk about the workplace, opening up space for discovering
+    how workers can enjoy real freedom.   Based on the prestigious Tanner
+    Lectures delivered at Princeton University's Center for Human Values,
+    *Private Government*  is edited and introduced by Stephen Macedo and
+    includes commentary by cultural critic David Bromwich, economist Tyler
+    Cowen, historian Ann Hughes, and philosopher Niko Kolodny.
+  accessed:
+    - year: 2022
+      month: 12
+      day: 5
+  author:
+    - family: Anderson
+      given: Elizabeth
+  citation-key: Anderson2017
+  DOI: 10.2307/j.ctvc775n0
+  ISBN: 978-0-691-19224-6
+  issued:
+    - year: 2017
+  publisher: Princeton University Press
+  source: JSTOR
+  title: >-
+    Private Government: How Employers Rule Our Lives (and Why We Don't Talk
+    about It)
+  title-short: Private Government
+  type: book
+  URL: https://www.jstor.org/stable/j.ctvc775n0
+
 - id: andersonImaginedCommunitiesReflections2006
   abstract: >-
     The definitive, bestselling book on the origins of nationalism, and the
@@ -904,13 +956,11 @@ references:
   type: book
 
 - id: AndersonLibertyLobby1986
-  authority: supreme.court
+  authority: U.S.
   citation-key: AndersonLibertyLobby1986
+  container-title: U.S.
   issued:
     - year: 1986
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '242'
   title: Anderson v. Liberty Lobby, Inc.
   title-short: Anderson
@@ -961,86 +1011,6 @@ references:
   publisher: Verso
   source: Google Books
   title: Lineages of the Absolutist State
-  type: book
-
-- id: andersonPrivateGovernmentHow2017
-  abstract: >-
-    Why our workplaces are authoritarian private governments-and why we can't
-    see it   One in four American workers says their workplace is a
-    "dictatorship." Yet that number probably would be even higher if we
-    recognized most employers for what they are-private governments with
-    sweeping authoritarian power over our lives, on duty and off. We normally
-    think of government as something only the state does, yet many of us are
-    governed far more-and far more obtrusively-by the private government of the
-    workplace. In this provocative and compelling book, Elizabeth Anderson
-    argues that the failure to see this stems from long-standing confusions.
-    These confusions explain why, despite all evidence to the contrary, we still
-    talk as if free markets make workers free-and why so many employers advocate
-    less government even while they act as dictators in their businesses.   In
-    many workplaces, employers minutely regulate workers' speech, clothing, and
-    manners, leaving them with little privacy and few other rights. And
-    employers often extend their authority to workers' off-duty lives. Workers
-    can be fired for their political speech, recreational activities, diet, and
-    almost anything else employers care to govern. Yet we continue to talk as if
-    early advocates of market society-from John Locke and Adam Smith to Thomas
-    Paine and Abraham Lincoln-were right when they argued that it would free
-    workers from oppressive authorities. That dream was shattered by the
-    Industrial Revolution, but the myth endures.    *Private Government*  offers
-    a better way to talk about the workplace, opening up space for discovering
-    how workers can enjoy real freedom.   Based on the prestigious Tanner
-    Lectures delivered at Princeton University's Center for Human Values,
-    *Private Government*  is edited and introduced by Stephen Macedo and
-    includes commentary by cultural critic David Bromwich, economist Tyler
-    Cowen, historian Ann Hughes, and philosopher Niko Kolodny.
-  accessed:
-    - year: 2022
-      month: 12
-      day: 5
-  author:
-    - family: Anderson
-      given: Elizabeth
-  citation-key: andersonPrivateGovernmentHow2017
-  DOI: 10.2307/j.ctvc775n0
-  ISBN: 978-0-691-19224-6
-  issued:
-    - year: 2017
-  publisher: Princeton University Press
-  source: JSTOR
-  title: >-
-    Private Government: How Employers Rule Our Lives (and Why We Don't Talk
-    about It)
-  title-short: Private Government
-  type: book
-  URL: https://www.jstor.org/stable/j.ctvc775n0
-
-- id: andersonPrivateGovernmentHow2019
-  abstract: >-
-    Why our workplaces are authoritarian private governments―and why we can’t
-    see itOne in four American workers says their workplace is a “dictatorship.”
-    Yet that number almost certainly would be higher if we recognized employers
-    for what they are―private governments with sweeping authoritarian power over
-    our lives. Many employers minutely regulate workers’ speech, clothing, and
-    manners on the job, and employers often extend their authority to the
-    off-duty lives of workers, who can be fired for their political speech,
-    recreational activities, diet, and almost anything else employers care to
-    govern. In this compelling book, Elizabeth Anderson examines why, despite
-    all this, we continue to talk as if free markets make workers free, and she
-    proposes a better way to think about the workplace, opening up space for
-    discovering how workers can enjoy real freedom.
-  author:
-    - family: Anderson
-      given: Elizabeth
-  citation-key: andersonPrivateGovernmentHow2019
-  edition: Reprint edition
-  ISBN: 978-0-691-19224-6
-  issued:
-    - literal: 2019-04-0030
-  language: English
-  number-of-pages: '224'
-  publisher: Princeton University Press
-  source: Amazon
-  title: 'Private Government: How Employers Rule Our Lives'
-  title-short: Private Government
   type: book
 
 - id: andreasonAvoidingWrongfulDischarge1993
@@ -1477,6 +1447,14 @@ references:
   title: Arkansas Exceeding Authorized Access
   type: legislation
 
+- id: ArkansasLabelingInc-EDArk
+  authority: E.D. Ark.
+  citation-key: ArkansasLabelingInc-EDArk
+  note: complaint filed Jan. 6, 2020
+  number: 4:19-cv-00773-KGB
+  title: Arkansas Labeling, Inc. v. Proctor
+  type: legal_case
+
 - id: armstrongCrowdsourcingOpenAccess2009
   author:
     - family: Armstrong
@@ -1682,7 +1660,7 @@ references:
   type: legal_case
   volume: '321'
 
-- id: arumainayagamSystemsMethodsSoftware2012
+- id: Arumainayagam2012
   author:
     - family: Arumainayagam
       given: Yohendran
@@ -1690,13 +1668,10 @@ references:
       given: Steven Brant
   authority: United States
   call-number: US11/343,086
-  citation-key: arumainayagamSystemsMethodsSoftware2012
+  citation-key: Arumainayagam2012
   issued:
     - literal: 2012-05-0022
   language: en
-  note: >-
-    mlzsync1:0056{"extrafields":{"jurisdiction":"002usUnited
-    States|US"}}Citation Key: arumainayagamSystemsMethodsSoftware2012
   number: US8185560B2
   submitted:
     date-parts:
@@ -1734,13 +1709,11 @@ references:
     https://lawstreetmedia.com/news/agriculture/amicus-briefs-filed-in-peta-suit-against-north-carolina-law/
 
 - id: AshcroftIqbal2009
-  authority: supreme.court
+  authority: U.S.
   citation-key: AshcroftIqbal2009
+  container-title: U.S.
   issued:
     - year: 2009
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '662'
   title: Ashcroft v. Iqbal
   type: legal_case
@@ -2358,15 +2331,11 @@ references:
   volume: '40'
 
 - id: BatesStateBar1977
-  authority: Supreme Court
+  authority: U.S.
   citation-key: BatesStateBar1977
+  container-title: U.S.
   issued:
-    - year: 1977
-      month: 6
-      day: 27
-  note: >-
-    mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
-    States|US"}}
+    - literal: 1977-06-0027
   page: '350'
   title: Bates v. State Bar of Ariz.
   type: legal_case
@@ -2542,11 +2511,9 @@ references:
 - id: BeeckAquaslideNDive1977
   authority: 8th Cir.
   citation-key: BeeckAquaslideNDive1977
+  container-title: F.2d
   issued:
     - year: 1977
-  note: >-
-    mlzsync1:0093{"extrafields":{"reporter":"F.
-    2d","jurisdiction":"005us:c8United States|US|Eighth Circuit"}}
   page: '537'
   title: Beeck v. AquaslideN'Dive Corp.
   type: legal_case
@@ -2581,13 +2548,11 @@ references:
   volume: '416'
 
 - id: BellAtlanticCorp2007
-  authority: supreme.court
+  authority: U.S.
   citation-key: BellAtlanticCorp2007
+  container-title: U.S.
   issued:
     - year: 2007
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '544'
   title: Bell Atlantic Corp. v. Twombly
   type: legal_case
@@ -3029,15 +2994,11 @@ references:
     https://www.wral.com/lawmakers-override-mccrory-veto-on-controversial-private-property-bill/14687952/
 
 - id: BirbrowerMontalbanoCondon1998
-  authority: Supreme Court
+  authority: Cal.
   citation-key: BirbrowerMontalbanoCondon1998
+  container-title: Cal. 4th
   issued:
-    - year: 1998
-      month: 1
-      day: 5
-  note: >-
-    mlzsync1:0092{"extrafields":{"reporter":"Cal.
-    4th","jurisdiction":"005us:caUnited States|US|California"}}Jurisdiction: Cal
+    - literal: 1998-01-0005
   page: '119'
   title: Birbrower, Montalbano, Condon & Frank v. Superior Ct.
   type: legal_case
@@ -3209,15 +3170,11 @@ references:
   URL: https://www.jstor.org/stable/j.ctvggx2fq.7
 
 - id: BlackWhiteTaxicab1928
-  authority: Supreme Court
+  authority: U.S.
   citation-key: BlackWhiteTaxicab1928
+  container-title: US
   issued:
-    - year: 1928
-      month: 4
-      day: 9
-  note: >-
-    mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
-    States|US"}}
+    - literal: 1928-04-0009
   page: '518'
   title: Black & White Taxicab Co. v. Brown & Yellow Taxican Co.
   type: legal_case
@@ -4724,13 +4681,11 @@ references:
   type: book
 
 - id: CalderJones1984
-  authority: supreme.court
+  authority: U.S.
   citation-key: CalderJones1984
+  container-title: U.S.
   issued:
     - year: 1984
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '783'
   title: Calder v. Jones
   type: legal_case
@@ -4751,12 +4706,7 @@ references:
   authority: S.D. Cal.
   citation-key: CamachoBaseball2013
   issued:
-    - year: 2013
-      month: 12
-      day: 19
-  note: >-
-    mlzsync1:0095{"extrafields":{"jurisdiction":"011us:c9:ca.sdUnited
-    States|US|Ninth Circuit|S.D. California"}}
+    - literal: 2013-12-0019
   number: No. 12-cv-2859-L(BGS)
   title: Camacho v. Baseball
   type: legal_case
@@ -5123,13 +5073,11 @@ references:
   URL: https://lpeblog.org/2019/10/02/the-market-does-not-bind-us/
 
 - id: CelotexCorpCatrett1986
-  authority: supreme.court
+  authority: U.S.
   citation-key: CelotexCorpCatrett1986
+  container-title: U.S.
   issued:
     - year: 1986
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '317'
   title: Celotex Corp. v. Catrett
   title-short: Celotex Corp.
@@ -5302,16 +5250,11 @@ references:
   volume: '465'
 
 - id: ClarkCapitalManagement2001
-  authority: Dist. Court
+  authority: E.D. Pa.
   citation-key: ClarkCapitalManagement2001
+  container-title: F.Supp.2d
   issued:
-    - year: 2001
-      month: 7
-      day: 6
-  note: >-
-    mlzsync1:0122{"extrafields":{"reporter":"F. Supp.
-    2d","jurisdiction":"011us:c3:pa.edUnited States|US|Third Circuit|E.D.
-    Pennsylvania"}}Jurisdiction: ED Pennsylvania
+    - literal: 2001-07-0006
   page: '193'
   title: Clark Capital Management v. Annuity Investors Life Ins. Co.
   type: legal_case
@@ -5408,13 +5351,9 @@ references:
   container-title: U.S. Code
   issued:
     - year: 1914
-  note: >-
-    mlzsync1:0056{"extrafields":{"jurisdiction":"002usUnited
-    States|US"}}Citation Key: ClaytonAntitrustAct1914
   section: '17'
   title: Clayton Antitrust Act
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/15/17
   volume: '15'
 
 - id: cobbleDishingItOut1992
@@ -5659,12 +5598,7 @@ references:
   authority: E.D. Pa.
   citation-key: CompleteBusinessSolutions2020
   issued:
-    - year: 2020
-      month: 7
-      day: 16
-  note: >-
-    mlzsync1:0097{"extrafields":{"jurisdiction":"011us:c3:pa.edUnited
-    States|US|Third Circuit|E.D. Pennsylvania"}}
+    - literal: 2020-07-0016
   number: No. 20-724
   title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops Llc
   type: legal_case
@@ -6143,13 +6077,11 @@ references:
   type: book
 
 - id: DaimlerAgBauman2014
-  authority: supreme.court
+  authority: U.S.
   citation-key: DaimlerAgBauman2014
+  container-title: U.S.
   issued:
     - year: 2014
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '117'
   title: Daimler Ag v. Bauman
   type: legal_case
@@ -6555,12 +6487,7 @@ references:
   authority: W.D. Wash.
   citation-key: DeutschSchoelkopf2016
   issued:
-    - year: 2016
-      month: 12
-      day: 14
-  note: >-
-    mlzsync1:0095{"extrafields":{"jurisdiction":"011us:c9:wa.wdUnited
-    States|US|Ninth Circuit|W.D. Washington"}}
+    - literal: 2016-12-0014
   number: No. 3:16-CV-05561-RBL
   title: Deutsch v. Schoelkopf
   type: legal_case
@@ -7068,11 +6995,9 @@ references:
 - id: DolphinKickboxingCo2020
   authority: D. Minn.
   citation-key: DolphinKickboxingCo2020
+  container-title: F.R.D.
   issued:
     - year: 2020
-  note: >-
-    mlzsync1:0112{"extrafields":{"reporter":"F.R.D.","jurisdiction":"010us:c8:mn.dUnited
-    States|US|Eighth Circuit|D. Minnesota"}}
   page: '393'
   title: Dolphin Kickboxing Co. v. Franchoice, Inc.
   title-short: Dolphin Kickboxing
@@ -7851,13 +7776,11 @@ references:
   volume: '51'
 
 - id: ErieCoTompkins1938
-  authority: supreme.court
+  authority: U.S.
   citation-key: ErieCoTompkins1938
+  container-title: U.S.
   issued:
     - year: 1938
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '64'
   title: Erie R. Co. v. Tompkins
   title-short: Erie R.
@@ -8111,7 +8034,7 @@ references:
 - id: Ewing1988
   authority: 2d Cir.
   citation-key: Ewing1988
-  container-title: F. 2d
+  container-title: F.2d
   issued:
     - year: 1988
   page: '353'
@@ -8168,10 +8091,7 @@ references:
     - year: 2004
       month: 5
       day: 10
-  note: >-
-    mlzsync1:0168{"extrafields":{"jurisdiction":"002usUnited
-    States|US","committee":"Subcommittee on Employer-Employee Relations of the
-    House Committee on Education and the Workforce"}}
+  jurisdiction: U.S.
   section: >-
     Subcommittee on Employer-Employee Relations of the House Committee on
     Education and the Workforce
@@ -8182,13 +8102,11 @@ references:
   type: hearing
 
 - id: ExxonMobilCorp2005
-  authority: supreme.court
+  authority: U.S.
   citation-key: ExxonMobilCorp2005
+  container-title: U.S.
   issued:
     - year: 2005
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '546'
   title: Exxon Mobil Corp. v. Allapattah Services, Inc.
   type: legal_case
@@ -9925,12 +9843,11 @@ references:
   type: book
 
 - id: FordMotorCo2021
+  authority: U.S.
   citation-key: FordMotorCo2021
+  container-title: S. Ct.
   issued:
     - year: 2021
-  note: >-
-    mlzsync1:0076{"extrafields":{"reporter":"S. Ct.","jurisdiction":"002usUnited
-    States|US"}}
   page: '1017'
   title: Ford Motor Co. v. Mont Eighth Judicial Dist. Court
   type: legal_case
@@ -10243,11 +10160,9 @@ references:
 - id: FreidrichDavis2014
   authority: 3rd Cir.
   citation-key: FreidrichDavis2014
+  container-title: F.3d"
   issued:
     - year: 2014
-  note: >-
-    mlzsync1:0075{"extrafields":{"reporter":"F. 3d","jurisdiction":"002usUnited
-    States|US"}}
   page: '374'
   title: Freidrich v. Davis
   type: legal_case
@@ -11111,12 +11026,7 @@ references:
   authority: D. Md.
   citation-key: GinwrightExeterFinance2016
   issued:
-    - year: 2016
-      month: 10
-      day: 6
-  note: >-
-    mlzsync1:0091{"extrafields":{"jurisdiction":"010us:c4:md.dUnited
-    States|US|Fourth Circuit|D. Maryland"}}
+    - literal: 2016-10-0006
   number: No. TDC-16-0565
   title: Ginwright v. Exeter Finance Corp.
   type: legal_case
@@ -11562,13 +11472,11 @@ references:
   type: book
 
 - id: GrableSonsMetal2005
-  authority: supreme.court
+  authority: U.S.
   citation-key: GrableSonsMetal2005
+  container-title: U.S.
   issued:
     - year: 2005
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '308'
   title: Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg.
   type: legal_case
@@ -12250,25 +12158,18 @@ references:
   authority: M.D.N.C.
   citation-key: HanksCoan1999
   issued:
-    - year: 1999
-      month: 8
-      day: 17
-  note: >-
-    mlzsync1:0100{"extrafields":{"jurisdiction":"011us:c4:nc.mdUnited
-    States|US|Fourth Circuit|M.D. North Carolina"}}
+    - literal: 1999-08-0017
   number: No. 1:99CV00119
   title: Hanks v. Coan
   title-short: Hanks
   type: legal_case
 
 - id: HannaPlumer1965
-  authority: supreme.court
+  authority: U.S.
   citation-key: HannaPlumer1965
+  container-title: U.S.
   issued:
     - year: 1965
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '460'
   title: Hanna v. Plumer
   title-short: Hanna
@@ -12997,13 +12898,11 @@ references:
   volume: '14'
 
 - id: HertzCorpFriend2010
-  authority: supreme.court
+  authority: U.S.
   citation-key: HertzCorpFriend2010
+  container-title: U.S.
   issued:
     - year: 2010
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '77'
   title: Hertz Corp. v. Friend
   type: legal_case
@@ -13306,13 +13205,11 @@ references:
   type: book
 
 - id: HolmesGroupInc2002
-  authority: supreme.court
+  authority: U.S.
   citation-key: HolmesGroupInc2002
+  container-title: U.S.
   issued:
     - year: 2002
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '826'
   title: Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.
   type: legal_case
@@ -13610,13 +13507,11 @@ references:
   volume: '476'
 
 - id: InternationalShoeCo1945
-  authority: supreme.court
+  authority: U.S.
   citation-key: InternationalShoeCo1945
+  container-title: U.S.
   issued:
     - year: 1945
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '310'
   title: International Shoe Co. v. Washington
   type: legal_case
@@ -13865,11 +13760,9 @@ references:
 - id: JanjuaNeufeld2019
   authority: 9th Cir.
   citation-key: JanjuaNeufeld2019
+  container-title: F.3d
   issued:
     - year: 2019
-  note: >-
-    mlzsync1:0092{"extrafields":{"reporter":"F.
-    3d","jurisdiction":"005us:c9United States|US|Ninth Circuit"}}
   page: '1061'
   title: Janjua v. Neufeld
   type: legal_case
@@ -14333,11 +14226,9 @@ references:
 - id: JohnsonSpencer2020
   authority: 10th Cir.
   citation-key: JohnsonSpencer2020
+  container-title: F.3d
   issued:
     - year: 2020
-  note: >-
-    mlzsync1:0093{"extrafields":{"reporter":"F.
-    3d","jurisdiction":"006us:c10United States|US|Tenth Circuit"}}
   page: '680'
   title: Johnson v. Spencer
   type: legal_case
@@ -14426,11 +14317,9 @@ references:
 - id: JonesFordMotor2004
   authority: 2d Cir.
   citation-key: JonesFordMotor2004
+  container-title: F.3d
   issued:
     - year: 2004
-  note: >-
-    mlzsync1:0093{"extrafields":{"reporter":"F.
-    3d","jurisdiction":"005us:c2United States|US|Second Circuit"}}
   page: '205'
   title: Jones v. Ford Motor Credit Co.
   type: legal_case
@@ -14986,13 +14875,11 @@ references:
   volume: '34'
 
 - id: KeetonHustlerMagazine1984
-  authority: supreme.court
+  authority: U.S.
   citation-key: KeetonHustlerMagazine1984
+  container-title: U.S.
   issued:
     - year: 1984
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '770'
   title: Keeton v. Hustler Magazine, Inc.
   type: legal_case
@@ -15335,12 +15222,7 @@ references:
   authority: E.D. Mich.
   citation-key: KingWhitmer2021
   issued:
-    - year: 2021
-      month: 8
-      day: 25
-  note: >-
-    mlzsync1:0093{"extrafields":{"jurisdiction":"011us:c6:mi.edUnited
-    States|US|Sixth Circuit|E.D. Michigan"}}
+    - literal: 2021-08-0025
   number: No. 20-13134
   title: King v. Whitmer
   title-short: King
@@ -15349,11 +15231,9 @@ references:
 - id: KirkcaldyRichmondCounty2002
   authority: M.D.N.C.
   citation-key: KirkcaldyRichmondCounty2002
+  container-title: F.R.D.
   issued:
     - year: 2002
-  note: >-
-    mlzsync1:0120{"extrafields":{"reporter":"F.R.D.","jurisdiction":"011us:c4:nc.mdUnited
-    States|US|Fourth Circuit|M.D. North Carolina"}}
   page: '289'
   title: Kirkcaldy v. Richmond County Bd. of Educ.
   title-short: Kirkcaldy
@@ -16003,15 +15883,11 @@ references:
     https://www.hamiltonproject.org/papers/a_proposal_for_protecting_low_income_workers_from_monopsony_and_collusion
 
 - id: KuhnFairmontCoal1910
-  authority: Supreme Court
+  authority: U.S.
   citation-key: KuhnFairmontCoal1910
+  container-title: U.S.
   issued:
-    - year: 1910
-      month: 1
-      day: 3
-  note: >-
-    mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
-    States|US"}}
+    - literal: 1910-01-0003
   page: '349'
   title: Kuhn v. Fairmont Coal Co.
   type: legal_case
@@ -16636,11 +16512,9 @@ references:
 - id: LehmanRevolutionPortfolio1999
   authority: 1st Cir.
   citation-key: LehmanRevolutionPortfolio1999
+  container-title: F.3d
   issued:
     - year: 1999
-  note: >-
-    mlzsync1:0092{"extrafields":{"reporter":"F.
-    3d","jurisdiction":"005us:c1United States|US|First Circuit"}}
   page: '389'
   title: Lehman v. Revolution Portfolio LLC
   type: legal_case
@@ -17106,19 +16980,16 @@ references:
   type: webpage
   URL: https://jubileedebt.org.uk/report/life-debt-global-studies-debt-resistance
 
-- id: liggettSystemsMethodsSoftware2016
+- id: Liggett2016
   author:
     - family: Liggett
       given: Trace
   authority: United States
   call-number: US11/436,061
-  citation-key: liggettSystemsMethodsSoftware2016
+  citation-key: Liggett2016
   issued:
     - literal: 2016-10-0011
   language: en
-  note: >-
-    mlzsync1:0056{"extrafields":{"jurisdiction":"002usUnited
-    States|US"}}Citation Key: liggettSystemsMethodsSoftware2016
   number: US9466048B2
   submitted:
     date-parts:
@@ -17589,13 +17460,11 @@ references:
   URL: //libguides.libraries.wsu.edu/c.php?g=768677&p=5514204
 
 - id: LouisvilleNashvilleCo1908
-  authority: supreme.court
+  authority: U.S.
   citation-key: LouisvilleNashvilleCo1908
+  container-title: U.S.
   issued:
     - year: 1908
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '149'
   title: Louisville & Nashville R. Co. v. Mottley
   type: legal_case
@@ -18535,11 +18404,9 @@ references:
 - id: MasPerry1974
   authority: 5th Cir.
   citation-key: MasPerry1974
+  container-title: F.2d
   issued:
     - year: 1974
-  note: >-
-    mlzsync1:0092{"extrafields":{"reporter":"F.
-    2d","jurisdiction":"005us:c5United States|US|Fifth Circuit"}}
   page: '1396'
   title: Mas v. Perry
   type: legal_case
@@ -18564,13 +18431,11 @@ references:
   volume: '82'
 
 - id: MatsushitaElecIndus1986
-  authority: supreme.court
+  authority: U.S.
   citation-key: MatsushitaElecIndus1986
+  container-title: U.S.
   issued:
     - year: 1986
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '574'
   title: Matsushita Elec. Indus. Co., Ltd. v. Zenith Radio Corp.
   title-short: Zenith Radio Corp.
@@ -18578,30 +18443,22 @@ references:
   volume: '475'
 
 - id: MatterCooperman1994
-  authority: Court of Appeals
+  authority: N.Y.
   citation-key: MatterCooperman1994
+  container-title: NE 2d
   issued:
-    - year: 1994
-      month: 3
-      day: 17
-  note: >-
-    mlzsync1:0087{"extrafields":{"reporter":"NE
-    2d","jurisdiction":"005us:nyUnited States|US|New York"}}Jurisdiction: NY
+    - literal: 1994-03-0017
   page: '1069'
   title: Matter of Cooperman
   type: legal_case
   volume: '633'
 
 - id: MatterGiuliani2021
-  authority: Appellate Div., 1st Dept.
+  authority: N.Y. App. Div., 1st Dept.
   citation-key: MatterGiuliani2021
+  container-title: AD 3d
   issued:
-    - year: 2021
-      month: 6
-      day: 24
-  note: >-
-    mlzsync1:0087{"extrafields":{"reporter":"AD
-    3d","jurisdiction":"005us:nyUnited States|US|New York"}}Jurisdiction: NY
+    - literal: 2021-06-0024
   page: '1'
   title: Matter of Giuliani
   type: legal_case
@@ -19254,21 +19111,6 @@ references:
   URL: https://browzine.com/articles/488443958
   volume: '52'
 
-- id: McGinley2012
-  author:
-    - family: McGinley
-      given: Ann C
-    - family: McGinley-Stempel
-      given: Ryan P
-  citation-key: McGinley2012
-  container-title: Hofstra Labor & Employment Law Journal
-  issued:
-    - year: 2012
-  page: '75'
-  title: 'Beyond the Water Cooler: Speech and the Workplace in an Era of Social Media'
-  type: article-journal
-  volume: '30'
-
 - id: mcginleyWaterCoolerSpeech2012
   author:
     - family: McGinley
@@ -19814,16 +19656,13 @@ references:
   type: book
 
 - id: MiklinEnterprisesInc2016
-  authority: Court of Appeals, 8th Circuit
+  authority: 8th CIr.
   citation-key: MiklinEnterprisesInc2016
   container-title: F. 3d
   issued:
     - literal: 'Submitted: September 19, 2016'
-  note: >-
-    mlzsync1:0093{"extrafields":{"reporter":"F.
-    3d","jurisdiction":"005us:c8United States|US|Eighth Circuit"}}
   page: '812'
-  title: Miklin Enterprises, Inc. v. Nlrb
+  title: MikLin Enterprises, Inc. v. NLRB
   type: legal_case
   volume: '861'
 
@@ -20609,11 +20448,9 @@ references:
 - id: MosleyGeneralMotors1974
   authority: 8th Cir.
   citation-key: MosleyGeneralMotors1974
+  container-title: F.2d
   issued:
     - year: 1974
-  note: >-
-    mlzsync1:0093{"extrafields":{"reporter":"F.
-    2d","jurisdiction":"005us:c8United States|US|Eighth Circuit"}}
   page: '1330'
   title: Mosley v. General Motors Corporation
   type: legal_case
@@ -20920,13 +20757,9 @@ references:
   container-title: U.S. Code
   issued:
     - year: 1935
-  note: >-
-    mlzsync1:0056{"extrafields":{"jurisdiction":"002usUnited
-    States|US"}}Citation Key: NationalLaborRelations1935
   section: 151 et seq.
   title: National Labor Relations Act
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/29/151
   volume: '29'
 
 - id: NationalRighttoWorkCommittee2003
@@ -21100,15 +20933,11 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.33
 
 - id: NixWhiteside1986
-  authority: Supreme Court
+  authority: U.S.
   citation-key: NixWhiteside1986
+  container-title: US
   issued:
-    - year: 1986
-      month: 2
-      day: 26
-  note: >-
-    mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
-    States|US"}}
+    - literal: 1986-02-0026
   page: '157'
   title: Nix v. Whiteside
   type: legal_case
@@ -21141,11 +20970,9 @@ references:
 - id: NoletteCityBoulder2020
   authority: 9th Cir.
   citation-key: NoletteCityBoulder2020
+  container-title: Fed.Appx."
   issued:
     - year: 2020
-  note: >-
-    mlzsync1:0096{"extrafields":{"reporter":"Fed.Appx.","jurisdiction":"005us:c9United
-    States|US|Ninth Circuit"}}
   page: '587'
   title: Nolette v. City of Boulder
   title-short: Nolette
@@ -21157,13 +20984,9 @@ references:
   container-title: U.S. Code
   issued:
     - year: 1932
-  note: >-
-    mlzsync1:0056{"extrafields":{"jurisdiction":"002usUnited
-    States|US"}}Citation Key: NorrisLaGuardiaAct1932
   section: 101 et seq.
   title: Norris-LaGuardia Act
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/29/101
   volume: '29'
 
 - id: NorthDakotaAgGag1991
@@ -21568,47 +21391,12 @@ references:
   title-short: Belated Feudalism
   type: book
 
-- id: orrenBelatedFeudalismLabor1992a
-  abstract: >-
-    Contrary to the idea that the United States was liberal from its inception,
-    Orren argues that both capitalism and constitutionalism proceeded upon a
-    remnant of ancient feudalism. This was the common law of master and servant,
-    embedded in the judiciary, cutting off the fundamental area of labor
-    governance from democratic politics. The fully legislative polity that
-    defines the modern liberal state was brought on through the industrial
-    actions of trade unions in the late nineteenth and early twentieth
-    centuries, and was established with the institutions of collective
-    bargaining under the New Deal. The book represents a reinterpertation of
-    American political development and of the role of the labor movement as a
-    creator of liberalism, not a spoiler of socialism.
-  author:
-    - family: Orren
-      given: Karen
-  citation-key: orrenBelatedFeudalismLabor1992a
-  edition: First Printing edition
-  event-place: Cambridge England ; New York
-  ISBN: 978-0-521-42254-3
-  issued:
-    - literal: 1992-01-0031
-  language: English
-  number-of-pages: '252'
-  publisher: Cambridge University Press
-  publisher-place: Cambridge England ; New York
-  source: Amazon
-  title: >-
-    Belated Feudalism: Labor, the Law, and Liberal Development in the United
-    States
-  title-short: Belated Feudalism
-  type: book
-
 - id: OsbornBankUnited1824
-  authority: supreme.court
+  authority: U.S.
   citation-key: OsbornBankUnited1824
+  container-title: U.S.
   issued:
     - year: 1824
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '738'
   title: Osborn v. Bank of United States
   type: legal_case
@@ -21681,11 +21469,9 @@ references:
 - id: PaceTimmermannRanch2015
   authority: 7th Cir.
   citation-key: PaceTimmermannRanch2015
+  container-title: F.3d
   issued:
     - year: 2015
-  note: >-
-    mlzsync1:0094{"extrafields":{"reporter":"F.
-    3d","jurisdiction":"005us:c7United States|US|Seventh Circuit"}}
   page: '748'
   title: Pace v. Timmermann's Ranch and Saddle Shop Inc.
   type: legal_case
@@ -21724,11 +21510,9 @@ references:
 - id: PalacioCitySpringfield2014
   authority: D. Mass.
   citation-key: PalacioCitySpringfield2014
+  container-title: F.Supp.3d
   issued:
     - year: 2014
-  note: >-
-    mlzsync1:0118{"extrafields":{"reporter":"F.Supp.3d","jurisdiction":"010us:c1:ma.dUnited
-    States|US|First Circuit|D. Massachusetts"}}
   page: '163'
   title: Palacio v. City of Springfield
   title-short: Palacio
@@ -21738,11 +21522,9 @@ references:
 - id: PalinNewYork2019
   authority: 2d Cir.
   citation-key: PalinNewYork2019
+  container-title: F.3d
   issued:
     - year: 2019
-  note: >-
-    mlzsync1:0093{"extrafields":{"reporter":"F.
-    3d","jurisdiction":"005us:c2United States|US|Second Circuit"}}
   page: '804'
   title: Palin v. New York Times Co.
   type: legal_case
@@ -21829,13 +21611,11 @@ references:
   type: book
 
 - id: ParklaneHosieryCo1979
-  authority: supreme.court
+  authority: U.S.
   citation-key: ParklaneHosieryCo1979
+  container-title: U.S.
   issued:
     - year: 1979
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '322'
   title: Parklane Hosiery Co. v. Shore
   type: legal_case
@@ -22066,6 +21846,17 @@ references:
   title-short: Stein
   type: legal_case
   volume: '466'
+
+- id: PETAvStein2023-4thCir
+  authority: 4th Cir.
+  citation-key: PETAvStein2023-4thCir
+  issued:
+    - year: 2023
+      month: 2
+      day: 23
+  number: No. 20-1776
+  title: People for the Ethical Treatment of Animals v. Stein
+  type: legal_case
 
 - id: pexidrovaLackFinancialLiteracy2019
   author:
@@ -23091,11 +22882,9 @@ references:
 - id: RainbowManagementGroup1994
   authority: D. Haw.
   citation-key: RainbowManagementGroup1994
+  container-title: F.R.D.
   issued:
     - year: 1994
-  note: >-
-    mlzsync1:0108{"extrafields":{"reporter":"F.R.D.","jurisdiction":"010us:c9:hi.dUnited
-    States|US|Ninth Circuit|D. Hawaii"}}
   page: '656'
   title: Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii, L.P.
   title-short: Rainbow Management Group, Ltd.
@@ -24077,11 +23866,9 @@ references:
 - id: SandyLakeBand2013
   authority: 8th Cir.
   citation-key: SandyLakeBand2013
+  container-title: F.3d
   issued:
     - year: 2013
-  note: >-
-    mlzsync1:0093{"extrafields":{"reporter":"F.
-    3d","jurisdiction":"005us:c8United States|US|Eighth Circuit"}}
   page: '1098'
   title: Sandy Lake Band of Mississippi Chippewa v. US
   type: legal_case
@@ -24556,13 +24343,11 @@ references:
   type: book
 
 - id: ScottHarris2007
-  authority: supreme.court
+  authority: U.S.
   citation-key: ScottHarris2007
+  container-title: U.S.
   issued:
     - year: 2007
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '372'
   title: Scott v. Harris
   title-short: Scott
@@ -24858,13 +24643,11 @@ references:
   volume: '29'
 
 - id: ShadyGroveOrthopedic2010
-  authority: supreme.court
+  authority: U.S.
   citation-key: ShadyGroveOrthopedic2010
+  container-title: U.S.
   issued:
     - year: 2010
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '393'
   title: Shady Grove Orthopedic Associates, P.A. v. Allstate Ins. Co.
   title-short: Allstate Ins.
@@ -24872,15 +24655,11 @@ references:
   volume: '559'
 
 - id: ShaperoKentuckyBar1988
-  authority: Supreme Court
+  authority: U.S.
   citation-key: ShaperoKentuckyBar1988
+  container-title: U.S.
   issued:
-    - year: 1988
-      month: 6
-      day: 13
-  note: >-
-    mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
-    States|US"}}
+    - literal: 1988-06-0013
   page: '466'
   title: Shapero v. Kentucky Bar Assn.
   type: legal_case
@@ -24937,12 +24716,7 @@ references:
   authority: 6th Cir.
   citation-key: Shillman2000
   issued:
-    - year: 2000
-      month: 6
-      day: 29
-  note: >-
-    mlzsync1:0073{"extrafields":{"jurisdiction":"005us:c6United States|US|Sixth
-    Circuit"}}
+    - literal: 2000-06-0029
   number: No. 99-3215
   title: Shillman v. U.S.
   title-short: Shillman
@@ -25502,6 +25276,28 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.47
 
+- id: Sorg2023
+  accessed:
+    - year: 2023
+      month: 2
+      day: 24
+  author:
+    - family: Sorg
+      given: Lisa
+  citation-key: Sorg2023
+  container-title: The Pulse
+  issued:
+    - year: 2023
+      month: 2
+      day: 24
+  language: en-US
+  title: >-
+    Federal court of appeals rules NC's ag-gag law is unconstitutional, signals
+    a win for whistleblowers
+  type: post-weblog
+  URL: >-
+    https://pulse.ncpolicywatch.org/2023/02/24/federal-court-of-appeals-rules-ncs-ag-gag-law-is-unconstitutional-signals-a-win-for-whistleblowers/
+
 - id: sousaReconcilingOtherwiseIrreconcilable2003
   archive: JSTOR
   author:
@@ -25545,13 +25341,11 @@ references:
   volume: '72'
 
 - id: SouthernPacificCo1916
-  authority: Supreme Court
+  authority: U.S.
   citation-key: SouthernPacificCo1916
+  container-title: U.S.
   issued:
     - literal: Argued February 28, 1916
-  note: >-
-    mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
-    States|US"}}
   page: '205'
   title: Southern Pacific Co. v. Jensen
   type: legal_case
@@ -25779,7 +25573,7 @@ references:
   URL: http://www.jstor.org/stable/1073417
   volume: '79'
 
-- id: stignaniDocumentcentricWorkflowSystems2008
+- id: Stignani2008
   author:
     - family: Stignani
       given: Mark
@@ -25793,12 +25587,9 @@ references:
       given: Noralyn
   authority: United States
   call-number: US11/897,995
-  citation-key: stignaniDocumentcentricWorkflowSystems2008
+  citation-key: Stignani2008
   issued:
     - literal: 2008-04-0003
-  note: >-
-    mlzsync1:0056{"extrafields":{"jurisdiction":"002usUnited
-    States|US"}}Citation Key: stignaniDocumentcentricWorkflowSystems2008
   number: US20080082929A1
   submitted:
     date-parts:
@@ -25968,11 +25759,9 @@ references:
 - id: StoutVincent2018
   authority: 5th Cir.
   citation-key: StoutVincent2018
+  container-title: Fed. Appx.
   issued:
     - year: 2018
-  note: >-
-    mlzsync1:0096{"extrafields":{"reporter":"Fed.Appx.","jurisdiction":"005us:c5United
-    States|US|Fifth Circuit"}}
   page: '468'
   title: Stout v. Vincent
   title-short: Stout
@@ -26028,13 +25817,11 @@ references:
   type: book
 
 - id: StrawbridgeCurtiss1806
-  authority: supreme.court
+  authority: U.S.
   citation-key: StrawbridgeCurtiss1806
+  container-title: U.S.
   issued:
     - year: 1806
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '267'
   title: Strawbridge  v. Curtiss
   type: legal_case
@@ -26486,13 +26273,11 @@ references:
   volume: '4'
 
 - id: SwiftTyson1842
-  authority: supreme.court
+  authority: U.S.
   citation-key: SwiftTyson1842
+  container-title: U.S.
   issued:
     - year: 1842
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '1'
   title: Swift v. Tyson
   type: legal_case
@@ -27203,15 +26988,11 @@ references:
   volume: '351'
 
 - id: TogstadVeselyOtto1980
-  authority: Supreme Court
+  authority: Minn.
   citation-key: TogstadVeselyOtto1980
+  container-title: NW 2d
   issued:
-    - year: 1980
-      month: 4
-      day: 11
-  note: >-
-    mlzsync1:0088{"extrafields":{"reporter":"NW
-    2d","jurisdiction":"005us:mnUnited States|US|Minnesota"}}Jurisdiction: Minn
+    - literal: 1980-04-0011
   page: '686'
   title: Togstad v. Vesely, Otto, Miller & Keefe
   type: legal_case
@@ -27527,28 +27308,17 @@ references:
   authority: N.D. Ga.
   citation-key: TrumpCNNBroadcasting2020
   issued:
-    - year: 2020
-      month: 11
-      day: 12
-  note: >-
-    mlzsync1:0096{"extrafields":{"jurisdiction":"012us:c11:ga.ndUnited
-    States|US|Eleventh Circuit|N.D. Georgia"}}
+    - literal: 2020-11-0012
   number: No. 1:20-cv-01045
   title: Trump v. CNN Broadcasting, Inc.
   type: legal_case
 
 - id: TSGFinishingLLC2014
-  authority: Court of Appeals
+  authority: N.C. Ct. of App.
   citation-key: TSGFinishingLLC2014
   container-title: SE 2d
   issued:
-    - year: 2014
-      month: 12
-      day: 31
-  note: >-
-    mlzsync1:0093{"extrafields":{"reporter":"SE
-    2d","jurisdiction":"005us:ncUnited States|US|North Carolina"}}Jurisdiction:
-    NC
+    - literal: 2014-12-0031
   page: '870'
   title: TSG Finishing, LLC v. Bollinger
   type: legal_case
@@ -27748,13 +27518,11 @@ references:
   volume: '29'
 
 - id: UnitedMineWorkers1966
-  authority: supreme.court
+  authority: U.S.
   citation-key: UnitedMineWorkers1966
+  container-title: U.S.
   issued:
     - year: 1966
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '715'
   title: United Mine Workers of America v. Gibbs
   type: legal_case
@@ -28230,12 +27998,7 @@ references:
   authority: D.N.D.
   citation-key: WeatherModificationLLC2021
   issued:
-    - year: 2021
-      month: 7
-      day: 6
-  note: >-
-    mlzsync1:0095{"extrafields":{"jurisdiction":"010us:c8:nd.dUnited
-    States|US|Eighth Circuit|D. North Dakota"}}
+    - literal: 2021-07-0006
   number: No. 3:20-cv-73
   title: Weather Modification LLC v. Brackin
   title-short: Brackin
@@ -28244,11 +28007,9 @@ references:
 - id: WebbNolan1972
   authority: M.D.N.C.
   citation-key: WebbNolan1972
+  container-title: F.Supp.
   issued:
     - year: 1972
-  note: >-
-    mlzsync1:0121{"extrafields":{"reporter":"F.Supp.","jurisdiction":"011us:c4:nc.mdUnited
-    States|US|Fourth Circuit|M.D. North Carolina"}}
   page: '418'
   title: Webb v. Nolan
   title-short: Webb
@@ -28509,13 +28270,11 @@ references:
   volume: '363'
 
 - id: WholeWomanHealth2016
-  authority: supreme.court
+  authority: U.S.
   citation-key: WholeWomanHealth2016
+  container-title: S. Ct.
   issued:
     - year: 2016
-  note: >-
-    mlzsync1:0076{"extrafields":{"reporter":"S. Ct.","jurisdiction":"002usUnited
-    States|US"}}
   page: '2292'
   title: Whole Woman's Health v. Hellerstedt
   type: legal_case
@@ -28927,11 +28686,9 @@ references:
 - id: WoodsCityGreensboro2017
   authority: 4th Cir.
   citation-key: WoodsCityGreensboro2017
+  container-title: F.3d
   issued:
     - year: 2017
-  note: >-
-    mlzsync1:0092{"extrafields":{"reporter":"F.3d","jurisdiction":"005us:c4United
-    States|US|Fourth Circuit"}}
   page: '639'
   title: Woods v. City of Greensboro
   title-short: Woods
@@ -28974,13 +28731,11 @@ references:
   volume: '49'
 
 - id: WorldWideVolkswagenCorp1980
-  authority: supreme.court
+  authority: U.S.
   citation-key: WorldWideVolkswagenCorp1980
+  container-title: U.S.
   issued:
     - year: 1980
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
   page: '286'
   title: World-Wide Volkswagen Corp. v. Woodson
   type: legal_case
@@ -29113,14 +28868,9 @@ references:
   container-title: Montana Code
   issued:
     - year: 1987
-  note: >-
-    mlzsync1:0067{"extrafields":{"jurisdiction":"005us:mtUnited
-    States|US|Montana"}}Citation Key: WrongfulDischargeEmployment1987
   section: 39-2-901
   title: Wrongful Discharge From Employment
   type: legislation
-  URL: >-
-    https://leg.mt.gov/bills/mca/title_0390/chapter_0020/part_0090/sections_index.html
 
 - id: wuCurseBignessAntitrust2018
   abstract: >-
@@ -29492,15 +29242,11 @@ references:
   volume: '26'
 
 - id: ZaudererOfficeDisciplinary1985
-  authority: Supreme Court
+  authority: U.S.
   citation-key: ZaudererOfficeDisciplinary1985
+  container-title: U.S.
   issued:
-    - year: 1985
-      month: 1
-      day: 7
-  note: >-
-    mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
-    States|US"}}
+    - literal: 1985-01-0007
   page: '626'
   title: Zauderer v. Office of Disciplinary Counsel of Supreme Court of Ohio
   type: legal_case
@@ -29579,12 +29325,9 @@ references:
 - id: ZielinskiPhiladelphiaPiers1956
   authority: E.D. Pa.
   citation-key: ZielinskiPhiladelphiaPiers1956
+  container-title: F.Supp.
   issued:
     - year: 1956
-  note: >-
-    mlzsync1:0119{"extrafields":{"reporter":"F.
-    Supp.","jurisdiction":"011us:c3:pa.edUnited States|US|Third Circuit|E.D.
-    Pennsylvania"}}
   page: '408'
   title: Zielinski v. Philadelphia Piers
   type: legal_case
