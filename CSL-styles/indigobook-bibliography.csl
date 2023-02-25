@@ -219,7 +219,7 @@
 									</group>
 								</if>
 								<else>
-									<group delimiter=", ">
+									<group delimiter=", "  prefix="No. ">
 									<text variable="number"/>
 									</group>
 								</else>

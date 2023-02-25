@@ -637,7 +637,7 @@ references:
 - id: ALDFvHerbert2017-DUtah
   authority: D. Utah
   citation-key: ALDFvHerbert2017-DUtah
-  container-title: F. Supp. 3d
+  container-title: F.Supp. 3d
   issued:
     - year: 2017
   page: '1193'
@@ -660,7 +660,7 @@ references:
   volume: '434'
 
 - id: ALDFvKelly2021-10thCir
-  authority: 10th Circuit
+  authority: 10th Cir.
   citation-key: ALDFvKelly2021-10thCir
   container-title: F.4th
   issued:
@@ -677,7 +677,7 @@ references:
 - id: ALDFvOtter2015-DIdaho
   authority: D. Idaho
   citation-key: ALDFvOtter2015-DIdaho
-  container-title: F. Supp. 3d
+  container-title: F.Supp.3d
   issued:
     - year: 2015
   page: '1195'
@@ -689,7 +689,7 @@ references:
 - id: ALDFvReynolds2018-SDIowa
   authority: S.D. Iowa
   citation-key: ALDFvReynolds2018-SDIowa
-  container-title: F. Supp. 3d
+  container-title: F.Supp.3d
   issued:
     - year: 2018
   page: '901'
@@ -699,7 +699,7 @@ references:
   volume: '297'
 
 - id: ALDFvReynolds2021-8thCir
-  authority: 8th Circuit
+  authority: 8th Cir.
   citation-key: ALDFvReynolds2021-8thCir
   container-title: F.4th
   issued:
@@ -724,7 +724,7 @@ references:
   volume: '591'
 
 - id: ALDFvVaught2020-EDArk
-  authority: E.D. Arkansas
+  authority: E.D. Ark.
   citation-key: ALDFvVaught2020-EDArk
   issued:
     - literal: 2020-02-0014
@@ -734,7 +734,7 @@ references:
   type: legal_case
 
 - id: ALDFvVaught2021-8thCir
-  authority: 8th Circuit
+  authority: 8th Cir.
   citation-key: ALDFvVaught2021-8thCir
   container-title: F.4th
   issued:
@@ -747,9 +747,9 @@ references:
   volume: '8'
 
 - id: ALDFvWasden2018-9thCir
-  authority: 9th Circuit
+  authority: 9th Cir.
   citation-key: ALDFvWasden2018-9thCir
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2018
   page: '1184'
@@ -1684,11 +1684,7 @@ references:
   type: patent
   URL: https://patents.google.com/patent/US8185560B2/en
 
-<<<<<<< HEAD
-- id: ashcraftAmicusBriefsFiled2021
-=======
 - id: Ashcraft2021
->>>>>>> b465cb3b73f62d7a590211469fc90a3485e27479
   abstract: >-
     Three amicus curiae briefs were filed in the Fourth Circuit on Monday in a
     lawsuit filed by animal rights organizations against a North Carolina law.
@@ -1700,11 +1696,7 @@ references:
   author:
     - family: Ashcraft
       given: Emily
-<<<<<<< HEAD
-  citation-key: ashcraftAmicusBriefsFiled2021
-=======
   citation-key: Ashcraft2021
->>>>>>> b465cb3b73f62d7a590211469fc90a3485e27479
   container-title: Law Street Media
   issued:
     - year: 2021
@@ -1830,7 +1822,7 @@ references:
 - id: AustinMaintenance2012
   authority: N.C. Ct. App.
   citation-key: AustinMaintenance2012
-  container-title: S.E. 2d
+  container-title: S.E.2d
   issued:
     - year: 2012
   page: '535'
@@ -4265,7 +4257,7 @@ references:
 - id: BudAntleInc1994
   authority: 9th Cir.
   citation-key: BudAntleInc1994
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 1994
   page: '1261'
@@ -4509,11 +4501,10 @@ references:
 - id: ByrdBlueRidge1958
   authority: supreme.court
   citation-key: ByrdBlueRidge1958
+  container-title: U.S.
   issued:
     - year: 1958
-  note: >-
-    mlzsync1:0074{"extrafields":{"reporter":"U.S.","jurisdiction":"002usUnited
-    States|US"}}
+  jurisdiction: U.S.
   page: '525'
   title: Byrd v. Blue Ridge Rural Elec. Co-op., Inc.
   title-short: Byrd
@@ -9802,7 +9793,7 @@ references:
 - id: FoodLion1996-MDNC
   authority: M.D.N.C.
   citation-key: FoodLion1996-MDNC
-  container-title: F. Supp.
+  container-title: F.Supp.
   issued:
     - year: 1996
   page: '1224'
@@ -19519,7 +19510,7 @@ references:
 - id: MeyersI1984
   authority: N.L.R.B.
   citation-key: MeyersI1984
-  container-title: NLRB
+  container-title: N.L.R.B.
   issued:
     - year: 1984
   page: '493'
@@ -19572,7 +19563,7 @@ references:
 - id: MeyersII1986
   authority: N.L.R.B.
   citation-key: MeyersII1986
-  container-title: NLRB
+  container-title: N.L.R.B.
   issued:
     - year: 1986
   page: '493'
@@ -19666,7 +19657,7 @@ references:
 - id: MiklinEnterprisesInc2016
   authority: 8th CIr.
   citation-key: MiklinEnterprisesInc2016
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - literal: 'Submitted: September 19, 2016'
   page: '812'
@@ -20124,9 +20115,9 @@ references:
   type: legislation
 
 - id: MontereyCounty1953
-  authority: 9th Circuit
+  authority: 9th Cir.
   citation-key: MontereyCounty1953
-  container-title: F. 2d
+  container-title: F.2d
   issued:
     - year: 1953
   page: '927'
@@ -21817,7 +21808,7 @@ references:
 - id: PETAvStein2017-MDNC
   authority: M.D.N.C.
   citation-key: PETAvStein2017-MDNC
-  container-title: F. Supp. 3d
+  container-title: F.Supp.3d
   issued:
     - year: 2017
   page: '369'
@@ -21828,9 +21819,9 @@ references:
   volume: '259'
 
 - id: PETAvStein2018-4thCir
-  authority: 4th Circuit
+  authority: 4th Cir.
   citation-key: PETAvStein2018-4thCir
-  container-title: Fed. Appx.
+  container-title: Fed.Appx.
   issued:
     - year: 2018
       month: 6
@@ -21846,7 +21837,7 @@ references:
 - id: PETAvStein2020-MDNC
   authority: M.D.N.C.
   citation-key: PETAvStein2020-MDNC
-  container-title: F. Supp. 3d
+  container-title: F.Supp.3d
   issued:
     - year: 2020
   page: '547'
@@ -21862,7 +21853,7 @@ references:
     - year: 2023
       month: 2
       day: 23
-  number: No. 20-1776
+  number: 20-1776
   title: People for the Ethical Treatment of Animals v. Stein
   type: legal_case
 
@@ -22692,7 +22683,7 @@ references:
     https://features.propublica.org/medical-debt/when-medical-debt-collectors-decide-who-gets-arrested-coffeyville-kansas/
 
 - id: PulaskiCountyMedicalExchange2022
-  authority: E.D.Arkansas
+  authority: E.D. Ark.
   citation-key: PulaskiCountyMedicalExchange2022
   container-title: WL
   issued:
@@ -23062,7 +23053,7 @@ references:
 - id: RetailPropertyTrust2014
   authority: 9th Cir.
   citation-key: RetailPropertyTrust2014
-  container-title: F3d
+  container-title: F.3d
   issued:
     - literal: 2014-09-0023
   page: '938'
@@ -23861,7 +23852,7 @@ references:
   URL: https://www.govtrack.us/congress/bills/116/s1389/text/is
 
 - id: SandersonFarms2003
-  authority: 5th Circuit
+  authority: 5th Cir.
   citation-key: SandersonFarms2003
   container-title: F. 3d
   issued:
@@ -26948,7 +26939,7 @@ references:
   type: book
 
 - id: TimberAutomation-WDArk-2020
-  authority: W.D. Arkansas
+  authority: W.D. Ark.
   citation-key: TimberAutomation-WDArk-2020
   container-title: WL
   issued:
@@ -27204,9 +27195,9 @@ references:
   type: book
 
 - id: TriplePlaySports2014-NLRB
-  authority: NLRB
+  authority: N.L.R.B.
   citation-key: TriplePlaySports2014-NLRB
-  container-title: NLRB
+  container-title: N.L.R.B.
   issued:
     - year: 2014
   page: No. 31
@@ -27217,7 +27208,7 @@ references:
 - id: TriplePlaySports2015-2dCir
   authority: 2d Cir.
   citation-key: TriplePlaySports2015-2dCir
-  container-title: Fed. Appx.
+  container-title: Fed.Appx.
   issued:
     - year: 2015
       month: 10
@@ -28164,9 +28155,9 @@ references:
   volume: '60'
 
 - id: WesternWatersheds2016-DWyoming
-  authority: D. Wyoming
+  authority: D. Wyo.
   citation-key: WesternWatersheds2016-DWyoming
-  container-title: F. Supp. 3d
+  container-title: F.Supp.3d
   issued:
     - year: 2016
   page: '1231'
@@ -28176,9 +28167,9 @@ references:
   volume: '196'
 
 - id: WesternWatersheds2017-10thCir
-  authority: 10th Circuit
+  authority: 10th Cir.
   citation-key: WesternWatersheds2017-10thCir
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2017
   page: '1189'
@@ -28188,7 +28179,7 @@ references:
   volume: '869'
 
 - id: WesternWatersheds2018-DWyoming
-  authority: D. Wyoming
+  authority: D. Wyo.
   citation-key: WesternWatersheds2018-DWyoming
   container-title: F.Supp.3d
   issued:
