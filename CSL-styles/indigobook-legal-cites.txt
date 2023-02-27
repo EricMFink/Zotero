@@ -1,0 +1,235 @@
+<macro name="full-title">
+<choose>
+<if type="article-journal article-newspaper article-magazine chapter hearing legal_case paper-conference post-weblog thesis webpage" match="any">
+<text variable="title" font-style="italic" suffix=", "/>
+</if>
+<else-if type="legislation bill" match="any">
+<text variable="title" font-variant="normal"  suffix=", "/>
+</else-if>
+<else-if type="article-journal" match="any">
+<text variable="title" font-style="italic" suffix=", "/>
+</else-if>
+<else-if type="book" match="any">
+<text variable="title" font-variant="small-caps" suffix=", "/>
+</else-if>
+<else>
+<text variable="title" suffix=", "/>
+</else>
+</choose>
+</macro>
+
+
+<macro name="short-title">
+<choose>
+<if type="article-journal article-newspaper article-magazine chapter hearing legal_case paper-conference post-weblog thesis webpage" match="any">
+<text form="short" variable="title" font-style="italic" suffix=", "/>
+</if>
+<else-if type="legislation bill" match="any">
+<text form="short" variable="title" font-variant="normal"  suffix=", "/>
+</else-if>
+<else-if type="article-journal" match="any">
+<text form="short" variable="title" font-style="italic" suffix=", "/>
+</else-if>
+<else-if type="book" match="any">
+<text form="short" variable="title" font-variant="small-caps" suffix=", "/>
+</else-if>
+<else>
+<text form="short" variable="title" suffix=", "/>
+</else>
+</choose>
+</macro>
+
+<choose>
+
+
+
+<macro name="source">
+  <choose>
+    <if type="article-journal" match="any">
+      <group delimiter=" ">
+        <text variable="volume"/>
+        <text macro="container"/>
+      </group>
+      <text variable="page" prefix=" "/>
+      <text variable="locator" prefix=", "/>
+    </if>
+    <else-if type="legal_case">
+        <group delimiter=" ">
+            <choose>
+              <if variable="container-title">
+                <group delimiter=" ">
+                <text variable="volume"/>
+                <text variable="container-title"/>
+                <text variable="page"/>
+                </group>
+              </if>
+              <else>
+                <group delimiter=", "  prefix="No. ">
+                <text variable="number"/>
+                </group>
+              </else>
+            </choose>
+        </group>
+      <text variable="locator" prefix=", "/>
+    </else-if>
+    <else-if type="legislation">
+      <group delimiter=" ">
+        <text variable="volume"/>
+        <text macro="container"/>
+      </group>
+      <text variable="section" prefix=" § "/>
+      <text variable="locator" prefix=", § "/>
+      <text macro="issuance" prefix=" (" suffix=")"/>
+    </else-if>      
+   	<else-if type="bill hearing" match="any">
+		<group delimiter=" ">
+			<text variable="authority" form="short"/>
+			<text variable="chapter-number" form="short" prefix=", "/>
+		</group>
+	</else-if>
+   	<else-if type="report">
+		<text variable="number"/>
+	</else-if>
+    <else-if type="chapter paper-conference" match="any">
+      <text variable="title" font-style="italic"/>
+      <group prefix=", " delimiter=" " suffix=" ">
+        <text variable="volume"/>
+        <text macro="container"/>
+      </group>
+      <text variable="page"/>
+      <text variable="locator" prefix=", "/>
+    </else-if>
+    <else-if type="book" match="any">
+      <text variable="title" font-variant="small-caps"/>
+      <text variable="page" prefix=" "/>
+      <text variable="locator" prefix=" "/>
+    </else-if>
+    <else-if type="article-newspaper article-magazine thesis" match="any">
+      <group delimiter=", ">
+        <text variable="title" font-style="italic"/>
+        <group delimiter=" ">
+          <text variable="volume"/>
+          <text macro="container"/>
+        </group>
+        <text macro="issuance"/>
+        <group delimiter=" ">
+          <text value="at"/>
+          <text variable="page"/>
+        </group>
+      </group>
+    </else-if>
+    <else>
+      <text variable="title" font-style="italic"/>
+      <group prefix=", " delimiter=" " suffix=" ">
+        <text variable="volume"/>
+        <text macro="container"/>
+      </group>
+      <text variable="page" prefix=" "/>
+      <text variable="locator" prefix=" "/>
+    </else>
+  </choose>
+</macro>
+
+
+<macro name="issuance">
+<choose>
+	<if type="legal_case">
+		<choose>
+			<if variable="container-title">
+				<choose>
+					<if container="U.S.">
+						<group delimiter=" " prefix=" (" suffix=")">
+						<date variable="issued">
+						<date-part name="year"/>
+						</date>
+						</group>
+					</if>
+					<else>
+						<group delimiter=" " prefix=" (" suffix=")">
+						<text variable="authority" form="short"/>
+						<date variable="issued">
+						<date-part name="year"/>
+						</date>
+						</group>
+					</else>
+				</choose>
+			</if>
+			<else>
+				<group delimiter=" " prefix=" (" suffix=")">
+				<text variable="authority" form="short"/>
+				<date variable="issued">
+				<date-part name="month" form="short" suffix=" "/>
+				<date-part name="day" suffix=", "/>
+				<date-part name="year"/>
+				</date>
+				</group>
+			</else>
+		</choose>
+	</if>
+	<else-if type="bill hearing legislation" match="any">
+		<group prefix=" (" suffix=")">
+			<date variable="issued">
+			<date-part name="year"/>
+			</date>
+		</group>
+	</else-if>	
+	<else-if type="article-journal article-magazine article-newspaper broadcast interview manuscript map patent personal_communication song speech thesis webpage" match="any">
+		<group prefix=" (" suffix=")">
+			<choose>
+				<if type="article-newspaper thesis" match="any">
+					<group suffix=", ">
+					<date variable="issued">
+					<date-part name="month"/>
+					<date-part name="day" prefix=" "/>
+					</date>
+					</group>
+				</if>
+			</choose>
+			<date variable="issued">
+			<date-part name="year"/>
+			</date>
+		</group>
+	</else-if>
+
+	<else>
+		<group delimiter=" " prefix=" (" suffix=")">
+			<text macro="editor-translator"/>
+			<text variable="edition" suffix=" ed."/>
+			<date variable="issued">
+			<date-part name="year"/>
+			</date>
+		</group>
+	</else>
+</choose>
+</macro>
+
+
+
+Case
+	Plaintiff v. Defendant, 123 F.3d 456 (1st Cir. 2023)
+
+Legislation
+	National Labor Relations Act, 29 U.S.C. s.151 (1935)
+
+
+Bill
+	Simple Citation Act, S. 123, 118th Cong. sec. 1 (2023)
+
+Hearing
+	Wasting Space and Time: Hearing before the S. Comm. on Bullshit, 118th Cong. (2023)
+	
+	Pigshit: Hearing before the Health and Human Services Comm., 100th Leg., Reg. Sess. (State 2023)
+
+CITATION: 
+
+<text macro="author" suffix=", "/>
+<text macro="full-title"/>
+<text macro="source"/>
+<text macro="issuance"/>
+<text macro="access" prefix=", "/>
+
+<else-if type="article-newspaper article-magazine thesis" match="any">
+text macro="author" suffix=", "/>
+<text macro="full-title"/>
+<text macro="source"/>
+

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
 <info>
-  <title>IndigoBook Law Review</title>
-  <id>https://emfink.net/Zotero/CSL-styles/indigobook-law-review.csl</id>
-  <link href="https://github.com/EricMFink/Zotero/CSL-styles/indigobook-law-review.csl" rel="self"/>
-  <link href="http://www.zotero.org/styles/bluebook-law-review" rel="documentation"/>
+  <title>IndigoBook-Bibliography</title>
+  <id>https://emfink.net/Zotero/CSL-styles/indigobook-bibliography.csl</id>
+  <link href="https://github.com/EricMFink/Zotero/CSL-styles/indigobook-bibliography.csl" rel="self"/>
   <link href="https://law.resource.org/pub/us/code/blue/IndigoBook.html" rel="documentation"/>
   <author>
     <name>Eric M. Fink</name>
@@ -12,11 +11,11 @@
   </author>
   <category citation-format="note"/>
   <category field="law"/>
-  <summary>IndigoBook legal citation style for law reviews.</summary>
+  <summary>IndigoBook legal citation style with footnotes and bibliography.</summary>
   <updated>2023-02-27T18:55:35+00:00</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
 </info>
-
+  
 <locale>
   <style-options />
   <terms>
@@ -194,7 +193,7 @@
       <text variable="title" font-variant="small-caps" suffix=", "/>
     </else-if>
     <else>
-      <text variable="title" suffix=""/>
+      <text variable="title" suffix=", "/>
     </else>
   </choose>
 </macro>
@@ -255,7 +254,7 @@
         <text macro="container"/>
       </group>
       <text variable="section" prefix=" § "/>
-      <text variable="locator" prefix=""/>
+      <text variable="locator" prefix=", § "/>
     </else-if>      
    	<else-if type="bill hearing" match="any">
 		<group delimiter=" ">
@@ -264,7 +263,7 @@
 		</group>
 	</else-if>
    	<else-if type="report">
-		<text variable="number" prefix=", "/>
+		<text variable="number"/>
 	</else-if>
     <else-if type="chapter paper-conference" match="any">
       <group prefix=", " delimiter=" " suffix=" ">
@@ -483,7 +482,8 @@
             <text macro="at_page"/>
           </if>
           <else-if type="legislation">
-            <text macro="source"/>
+            <text macro="short-source"/>
+            <text macro="at_page"/>
           </else-if>
           <else>
             <choose>
@@ -528,5 +528,41 @@
     </choose>
   </layout>
 </citation>
+
+<!-- BIBLIOGRAPHY -->
+<bibliography hanging-indent="true" et-al-min="4" et-al-use-first="1" entry-spacing="1">
+  <sort>
+    <key macro="sort-key"/>
+    <key macro="author"/>
+    <key variable="title"/>
+    <key macro="year-sort"/>
+  </sort>
+  <layout suffix=".">
+    <choose>
+      <if type="book" match="any">
+        <text variable="volume" suffix=" "/>
+      </if>
+    </choose>
+        <choose>
+          <if type="article-newspaper article-magazine thesis" match="any">
+            <text macro="author" suffix=", "/>
+            <text macro="full-title"/>
+            <text macro="source"/>
+          </if>
+          <else-if type="bill hearing legal_case legislation" match="any">
+            <text macro="full-title"/>
+            <text macro="source"/>
+            <text macro="issuance"/>
+          </else-if>
+          <else>
+            <text macro="author" suffix=", "/>
+            <text macro="full-title"/>
+            <text macro="source"/>
+            <text macro="issuance"/>
+            <text macro="access" prefix=", "/>
+          </else>
+        </choose>
+  </layout>
+</bibliography>
 
 </style>
