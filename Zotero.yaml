@@ -1,21 +1,5 @@
 ---
 references:
-- id: ''
-  author:
-    - family: Kennedy
-      given: Duncan
-  citation-key: ''
-  container-title: Industrial Relations Law Journal
-  ISSN: 0145-188X
-  issue: '3'
-  issued:
-    - year: 1981
-  page: 503-506
-  title: 'Critical Labor Law Theory: A Comment'
-  title-short: Critical Labor Law Theory
-  type: article-journal
-  volume: '4'
-
 - id: Aaron&FinkinDisloyalty1998
   author:
     - family: Aaron
@@ -1725,7 +1709,11 @@ references:
   type: patent
   URL: https://patents.google.com/patent/US8185560B2/en
 
+<<<<<<< HEAD
 - id: ashcraftAmicusBriefsFiled2021
+=======
+- id: Ashcraft2021
+>>>>>>> b465cb3b73f62d7a590211469fc90a3485e27479
   abstract: >-
     Three amicus curiae briefs were filed in the Fourth Circuit on Monday in a
     lawsuit filed by animal rights organizations against a North Carolina law.
@@ -1737,7 +1725,11 @@ references:
   author:
     - family: Ashcraft
       given: Emily
+<<<<<<< HEAD
   citation-key: ashcraftAmicusBriefsFiled2021
+=======
+  citation-key: Ashcraft2021
+>>>>>>> b465cb3b73f62d7a590211469fc90a3485e27479
   container-title: Law Street Media
   issued:
     - year: 2021
@@ -2568,12 +2560,12 @@ references:
   type: legal_case
   volume: '562'
 
-- id: befortDemystifyingFederalLabor1998
+- id: Befort1998
   archive: JSTOR
   author:
     - family: Befort
       given: Stephen F.
-  citation-key: befortDemystifyingFederalLabor1998
+  citation-key: Befort1998
   container-title: The Labor Lawyer
   ISSN: 8756-2995
   issue: '3'
@@ -3021,7 +3013,7 @@ references:
   title-short: Solidarity Divided
   type: book
 
-- id: binkerLawmakersOverrideMcCrory2015
+- id: Binker2015
   accessed:
     - year: 2019
       month: 1
@@ -3031,7 +3023,7 @@ references:
       given: Mark
     - family: Leslie
       given: Laura
-  citation-key: binkerLawmakersOverrideMcCrory2015
+  citation-key: Binker2015
   container-title: WRAL.com
   issued:
     - year: 2015
@@ -3281,7 +3273,7 @@ references:
   title-short: Red State Revolt
   type: book
 
-- id: blizzardNCPropertyProtection2017
+- id: Blizzard2017
   accessed:
     - year: 2018
       month: 12
@@ -3289,7 +3281,7 @@ references:
   author:
     - family: Blizzard
       given: Doug
-  citation-key: blizzardNCPropertyProtection2017
+  citation-key: Blizzard2017
   container-title: CAI Blog
   issued:
     - year: 2017
@@ -5152,11 +5144,11 @@ references:
   type: legal_case
   volume: '477'
 
-- id: centerforconstitutionalrightsAgGagAmericaCorporateBacked2017
+- id: CenterforConstitutionalRights2017
   author:
     - family: Center for Constitutional Rights
       given: ''
-  citation-key: centerforconstitutionalrightsAgGagAmericaCorporateBacked2017
+  citation-key: CenterforConstitutionalRights2017
   issued:
     - year: 2017
   title: >-
@@ -5590,11 +5582,11 @@ references:
   title-short: A Consumers' Republic
   type: book
 
-- id: colemanALDFOtterWhat2017
+- id: Coleman2017
   author:
     - family: Coleman
       given: Jacob
-  citation-key: colemanALDFOtterWhat2017
+  citation-key: Coleman2017
   container-title: Journal of Food Law and Policy
   container-title-short: J. Food L. & Pol'y
   issued:
@@ -5719,11 +5711,11 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.8
 
-- id: cooleyGaggedBigAg2019
+- id: Cooley2019
   author:
     - family: Cooley
       given: Tara
-  citation-key: cooleyGaggedBigAg2019
+  citation-key: Cooley2019
   container-title: Golden Gate University Law Review
   container-title-short: Golden Gate U. L. Rev.
   issue: '2'
@@ -6171,13 +6163,13 @@ references:
   type: legal_case
   volume: '571'
 
-- id: dallSaltingEarthOrganizing2002
+- id: Dall2002
   author:
     - family: Dall
       given: Carey
     - family: Cohen
       given: Jonathan
-  citation-key: dallSaltingEarthOrganizing2002
+  citation-key: Dall2002
   container-title: New Labor Forum
   issue: '10'
   issued:
@@ -9512,7 +9504,7 @@ references:
   type: article-journal
   volume: '39'
 
-- id: fletcherAgGagLawsThreat2015
+- id: Fletcher2015
   accessed:
     - year: 2019
       month: 1
@@ -9520,7 +9512,7 @@ references:
   author:
     - family: Fletcher
       given: Ryan
-  citation-key: fletcherAgGagLawsThreat2015
+  citation-key: Fletcher2015
   container-title: Fair World Project
   issued:
     - year: 2015
@@ -9952,11 +9944,11 @@ references:
   type: legal_case
   volume: '141'
 
-- id: formanLetGetWork2017
+- id: Forman2017
   author:
     - family: Forman
       given: Erik
-  citation-key: formanLetGetWork2017
+  citation-key: Forman2017
   container-title: Jacobin
   issued:
     - year: 2017
@@ -10752,11 +10744,11 @@ references:
   title-short: Marginal Workers
   type: book
 
-- id: gardenLaborOrganizingAge2018
+- id: Garden2018
   author:
     - family: Garden
       given: Charlotte
-  citation-key: gardenLaborOrganizingAge2018
+  citation-key: Garden2018
   container-title: Saint Louis University Law Journal
   container-title-short: St. Louis U. L.J.
   issue: '1'
@@ -12202,7 +12194,7 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.25
 
-- id: hallgrimsdottirKnightsLabourFailure2006
+- id: Hallgrimsdottir2006
   abstract: >-
     This article examines the reasons why the Knights of Labour, a labor
     movement that enjoyed enormous popularity and success during the penultimate
@@ -12226,7 +12218,7 @@ references:
   author:
     - family: Hallgrímsdóttir
       given: Helga Kristín
-  citation-key: hallgrimsdottirKnightsLabourFailure2006
+  citation-key: Hallgrimsdottir2006
   container-title: The Sociological Quarterly
   ISSN: 0038-0253
   issue: '4'
@@ -12291,11 +12283,11 @@ references:
   type: legal_case
   volume: '380'
 
-- id: hannekenPrinciplesLimitingRecovery2017
+- id: Hanneken2017
   author:
     - family: Hanneken
       given: Sarah
-  citation-key: hannekenPrinciplesLimitingRecovery2017
+  citation-key: Hanneken2017
   container-title: John Marshall Law Review
   container-title-short: J. Marshall L. Rev.
   issued:
@@ -13262,11 +13254,11 @@ references:
   title-short: Nations and Nationalism Since 1780
   type: book
 
-- id: holifeldAnimalLegalDefense2016
+- id: Holifeld2016
   author:
     - family: Holifeld
       given: Lucy L.
-  citation-key: holifeldAnimalLegalDefense2016
+  citation-key: Holifeld2016
   container-title: Journal of Food Law & Policy
   issued:
     - year: 2016
@@ -13856,11 +13848,11 @@ references:
   title-short: Rethinking Capitalism
   type: book
 
-- id: jacquesCivilSocietyCorporate2015
+- id: Jacques2015
   author:
     - family: Jacques
       given: Peter J.
-  citation-key: jacquesCivilSocietyCorporate2015
+  citation-key: Jacques2015
   container-title: Journal of Environmental Studies and Sciences
   DOI: 10.1007/s13412-015-0294-0
   ISSN: 2190-6483, 2190-6491
@@ -13912,11 +13904,11 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght3&i=111
   volume: '3'
 
-- id: jarvisPETAOtherAnimal2016
+- id: Jarvis2016
   author:
     - family: Jarvis
       given: Craig
-  citation-key: jarvisPETAOtherAnimal2016
+  citation-key: Jarvis2016
   container-title: News & Observer
   issued:
     - year: 2016
@@ -14297,11 +14289,11 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/umem43&i=251
   volume: '43'
 
-- id: johnsonNoSaltAdded2017
+- id: Johnson2017
   author:
     - family: Johnson
       given: Nick
-  citation-key: johnsonNoSaltAdded2017
+  citation-key: Johnson2017
   container-title: Jacobin
   issued:
     - year: 2017
@@ -14640,7 +14632,7 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.14
 
-- id: kahanaMasterServantEarly2000
+- id: Kahana2000
   accessed:
     - year: 2022
       month: 12
@@ -14648,7 +14640,7 @@ references:
   author:
     - family: Kahana
       given: Jeffrey S.
-  citation-key: kahanaMasterServantEarly2000
+  citation-key: Kahana2000
   container-title: Journal of the Early Republic
   DOI: 10.2307/3124829
   ISSN: 0275-1275
@@ -14920,7 +14912,7 @@ references:
   URL: http://www.jstor.org/stable/23011896
   volume: '36'
 
-- id: kazaglisNorthCarolinaReinforces2015
+- id: Kazaglis2015
   accessed:
     - year: 2018
       month: 12
@@ -14928,7 +14920,7 @@ references:
   author:
     - family: Kazaglis
       given: Ted Nick
-  citation-key: kazaglisNorthCarolinaReinforces2015
+  citation-key: Kazaglis2015
   container-title: Jackson Lewis
   issued:
     - year: 2015
@@ -15184,24 +15176,6 @@ references:
   publisher: Harvard University Press
   title: A Guide to Critical Legal Studies
   type: book
-
-- id: Kennedy2005
-  author:
-    - family: Kennedy
-      given: Elizabeth
-  citation-key: Kennedy2005
-  container-title: Berkeley Journal of Employment and Labor Law
-  ISSN: 1067-7666
-  issue: '1'
-  issued:
-    - year: 2005
-  page: 143-179
-  title: >-
-    Freedom from Independence: Collective Bargaining Rights for "Dependent
-    Contractors"
-  title-short: Freedom from Independence
-  type: article-journal
-  volume: '26'
 
 - id: kennedyCriticalLaborLaw1981
   archive: JSTOR
@@ -15470,25 +15444,6 @@ references:
   title-short: Meltdown
   type: book
 
-- id: Kirwan2019
-  author:
-    - family: Kirwan
-      given: Samuel
-  citation-key: Kirwan2019
-  container-title: Geoforum
-  ISSN: 0016-7185
-  issued:
-    - year: 2019
-      month: 1
-  language: en
-  page: 318-326
-  title: >-
-    On ‘those who shout the loudest': Debt advice and the work of disrupting
-    attachments
-  title-short: On ‘those who shout the loudest'
-  type: article-journal
-  volume: '98'
-
 - id: kirwanAdviceLawNot2017
   abstract: >-
     My diary of participating in the Citizens Advice training programme is
@@ -15640,23 +15595,6 @@ references:
   URL: http://www.sciencedirect.com/science/article/pii/S0016718518301441
   volume: '98'
 
-- id: Kiviat2019
-  author:
-    - family: Kiviat
-      given: Barbara
-  citation-key: Kiviat2019
-  container-title: American Sociological Review
-  ISSN: 0003-1224
-  issue: '6'
-  issued:
-    - literal: 2019-11-0007
-  page: 1134 - 1158
-  title: >-
-    The Moral Limits of Predictive Practices: The Case of Credit-Based Insurance
-    Scores
-  type: article-journal
-  volume: '84'
-
 - id: kiviatMoralLimitsPredictive2019
   accessed:
     - year: 2021
@@ -15682,21 +15620,6 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/356623804
   volume: '84'
-
-- id: Klare1982
-  author:
-    - family: Klare
-      given: Karl E.
-  citation-key: Klare1982
-  container-title: University of Pennsylvania Law Review
-  ISSN: 0041-9907
-  issue: '6'
-  issued:
-    - year: 1982
-  page: 1358-1422
-  title: The Public/Private Distinction in Labor Law
-  type: article-journal
-  volume: '130'
 
 - id: klarePublicPrivateDistinction1982
   author:
@@ -15863,25 +15786,6 @@ references:
   title-short: Unfinished Business
   type: book
 
-- id: Kleps2022
-  author:
-    - family: Kleps
-      given: Christopher
-  citation-key: Kleps2022
-  container-title: Law & Society Review
-  ISSN: 1540-5893
-  issue: '2'
-  issued:
-    - year: 2022
-  language: en
-  page: 188-212
-  title: >-
-    Race, gender, and place: How judicial identity and local context shape
-    anti-discrimination decisions
-  title-short: Race, gender, and place
-  type: article-journal
-  volume: '56'
-
 - id: klepsRaceGenderPlace2022
   abstract: >-
     While federal anti-employment discrimination laws have helped diminish
@@ -15981,22 +15885,6 @@ references:
   title: The Transformation of American Industrial Relations
   type: book
 
-- id: Kooken1954
-  author:
-    - family: Kooken
-      given: Don L
-    - family: Ayres
-      given: Loren D
-  citation-key: Kooken1954
-  container-title: The Annals of the American Academy of Political and Social Science
-  issue: '1'
-  issued:
-    - year: 1954
-  page: 152-158
-  title: Police Unions and the Public Safety
-  type: article-journal
-  volume: '291'
-
 - id: kookenPoliceUnionsPublic1954
   author:
     - family: Kooken
@@ -16084,22 +15972,6 @@ references:
     Czechoslovakia, 1989–1992
   type: book
 
-- id: Kraus1993
-  author:
-    - family: Kraus
-      given: Anthony W.
-  citation-key: Kraus1993
-  container-title: Labor Law Journal
-  ISSN: '00236586'
-  issue: '1'
-  issued:
-    - year: 1993
-      month: 1
-  page: 49-55
-  title: Repayment Agreements for Employee Training Costs
-  type: article-journal
-  volume: '44'
-
 - id: krausRepaymentAgreementsEmployee1993
   author:
     - family: Kraus
@@ -16168,23 +16040,6 @@ references:
   title-short: The Structure of Scientific Revolutions
   type: book
 
-- id: Kus2015
-  author:
-    - family: Kus
-      given: Basak
-  citation-key: Kus2015
-  container-title: Sociology Compass
-  ISSN: 1751-9020
-  issue: '3'
-  issued:
-    - year: 2015
-  language: en
-  page: 212-223
-  title: 'Sociology of Debt: States, Credit Markets, and Indebted Citizens'
-  title-short: Sociology of Debt
-  type: article-journal
-  volume: '9'
-
 - id: kusSociologyDebtStates2015
   abstract: >-
     Within the context of the recent financial crisis, the causes and
@@ -16240,11 +16095,11 @@ references:
   title-short: A Troublemaker's Handbook
   type: book
 
-- id: lamLifeUndercoverUnion2016
+- id: Lam2016
   author:
     - family: Lam
       given: Bourree
-  citation-key: lamLifeUndercoverUnion2016
+  citation-key: Lam2016
   container-title: The Atlantic
   issued:
     - year: 2016
@@ -16255,24 +16110,6 @@ references:
   type: webpage
   URL: >-
     https://www.theatlantic.com/business/archive/2016/03/undercover-union-organizer/474387/
-
-- id: Landry2016
-  author:
-    - family: Landry
-      given: Joseph R.
-  citation-key: Landry2016
-  container-title: Columbia Law Review
-  ISSN: 0010-1958
-  issue: '1'
-  issued:
-    - year: 2016
-  page: 147-194
-  title: >-
-    Fair Responses to Unfair Labor Practices: Enforcing Federal Labor Law
-    Through Nontraditional Forms of Labor Action
-  title-short: FAIR RESPONSES TO UNFAIR LABOR PRACTICES
-  type: article-journal
-  volume: '116'
 
 - id: landryFairResponsesUnfair2016
   abstract: >-
@@ -16319,23 +16156,6 @@ references:
   URL: www.jstor.org/stable/43681850
   volume: '116'
 
-- id: LaPiana1986
-  author:
-    - family: LaPiana
-      given: William P
-  citation-key: LaPiana1986
-  container-title: Suffolk University Law Review
-  issued:
-    - year: 1986
-  language: en
-  page: '771'
-  title: >-
-    Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of
-    the Idea of Law in Antebellum America
-  title-short: Swift v. Tyson and the Brooding Omnipresence in the Sky
-  type: article-journal
-  volume: '20'
-
 - id: lapianaSwiftTysonBrooding1986
   author:
     - family: LaPiana
@@ -16353,22 +16173,6 @@ references:
   title-short: Swift v. Tyson and the Brooding Omnipresence in the Sky
   type: article-journal
   volume: '20'
-
-- id: Larson2014a
-  author:
-    - family: Larson
-      given: Ann
-  citation-key: Larson2014a
-  container-title: New Labor Forum (Sage Publications Inc.)
-  ISSN: '10957960'
-  issue: '2'
-  issued:
-    - year: 2014
-      month: 5
-  page: 50-56
-  title: The Case for Debt Resistance
-  type: article-journal
-  volume: '23'
 
 - id: larsonCaseDebtResistance2014
   abstract: >-
@@ -16442,24 +16246,6 @@ references:
   title: LaTeX - A document preparation system
   type: webpage
   URL: http://www.latex-project.org/
-
-- id: Latour2004
-  author:
-    - family: Latour
-      given: Bruno
-  citation-key: Latour2004
-  container-title: Critical Inquiry
-  ISSN: 0093-1896
-  issue: '2'
-  issued:
-    - literal: 2004-01-0001
-  page: 225-248
-  title: >-
-    Why Has Critique Run out of Steam? From Matters of Fact to Matters of
-    Concern
-  title-short: Why Has Critique Run out of Steam?
-  type: article-journal
-  volume: '30'
 
 - id: latourLockdownMetamorphosis2021
   author:
@@ -16547,46 +16333,6 @@ references:
   title-short: Creditworthy
   type: book
 
-- id: Laumann1977
-  author:
-    - family: Laumann
-      given: Edward O.
-    - family: Heinz
-      given: John P.
-  citation-key: Laumann1977
-  container-title: American Bar Foundation Research Journal
-  ISSN: 0361-9486
-  issue: '1'
-  issued:
-    - year: 1977
-  page: 155-216
-  title: >-
-    Specialization and Prestige in the Legal Profession: The Structure of
-    Deference
-  title-short: Specialization and Prestige in the Legal Profession
-  type: article-journal
-  volume: '2'
-
-- id: Laumann1979
-  author:
-    - family: Laumann
-      given: Edward O.
-    - family: Heinz
-      given: John P.
-  citation-key: Laumann1979
-  container-title: American Bar Foundation Research Journal
-  ISSN: 0361-9486
-  issue: '2'
-  issued:
-    - year: 1979
-  page: 217-246
-  title: >-
-    The Organization of Lawyers' Work: Size, Intensity, and Co-Practice of the
-    Fields of Law
-  title-short: The Organization of Lawyers' Work
-  type: article-journal
-  volume: '4'
-
 - id: laumannOrganizationLawyersWork1979
   abstract: >-
     Using data from personal interviews with 777 Chicago lawyers, constituting a
@@ -16673,25 +16419,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/828016
   volume: '2'
-
-- id: Law2013
-  author:
-    - family: Law
-      given: John
-    - family: Singleton
-      given: Vicky
-  citation-key: Law2013
-  container-title: Qualitative Sociology
-  ISSN: 1573-7837
-  issue: '4'
-  issued:
-    - literal: 2013-12-0001
-  language: en
-  page: 485-502
-  title: 'ANT and Politics: Working in and on the World'
-  title-short: ANT and Politics
-  type: article-journal
-  volume: '36'
 
 - id: lawANTPoliticsWorking2013
   abstract: >-
@@ -16873,26 +16600,6 @@ references:
   title-short: Fables Of Abundance
   type: book
 
-- id: LeBaron2014
-  author:
-    - family: LeBaron
-      given: Genevieve
-  citation-key: LeBaron2014
-  container-title: Critical Sociology
-  ISSN: 0896-9205
-  issue: '5'
-  issued:
-    - year: 2014
-      month: 9
-  language: en
-  page: 763-780
-  title: >-
-    Reconceptualizing Debt Bondage: Debt as a Class-Based Form of Labor
-    Discipline
-  title-short: Reconceptualizing Debt Bondage
-  type: article-journal
-  volume: '40'
-
 - id: lebaronReconceptualizingDebtBondage2014
   abstract: >-
     This article challenges the tendency to conceptualize contemporary debt
@@ -16947,26 +16654,6 @@ references:
   type: legal_case
   volume: '166'
 
-- id: Lehoucq2019
-  author:
-    - family: Lehoucq
-      given: Emilio
-    - family: Taylor
-      given: Whitney K.
-  citation-key: Lehoucq2019
-  container-title: Law & Social Inquiry
-  ISSN: 0897-6546
-  issue: '1'
-  issued:
-    - year: 2019
-      month: 10
-  page: 166 - 193
-  title: >-
-    Conceptualizing Legal Mobilization: How Should We Understand the Deployment
-    of Legal Strategies?
-  type: article-journal
-  volume: '45'
-
 - id: lehoucqConceptualizingLegalMobilization2019
   author:
     - family: Lehoucq
@@ -16988,25 +16675,6 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/355200795
   volume: '45'
-
-- id: Lehr2017
-  author:
-    - family: Lehr
-      given: David
-    - family: Ohm
-      given: Paul
-  citation-key: Lehr2017
-  container-title: U.C. Davis Law Review
-  issued:
-    - year: 2017
-  language: eng
-  page: 653-718
-  title: >-
-    Playing with the Data: What Legal Scholars Should Learn about Machine
-    Learning Symposium - Future-Proofing Law: From RDNA to Robots (Part 2)
-  title-short: Playing with the Data
-  type: article-journal
-  volume: '51'
 
 - id: lehrPlayingDataWhat2017
   author:
@@ -17076,21 +16744,6 @@ references:
   title-short: The Origins of Right to Work
   type: book
 
-- id: Lester2001
-  author:
-    - family: Lester
-      given: Gillian
-  citation-key: Lester2001
-  container-title: Ind. LJ
-  issued:
-    - year: 2001
-  page: '49'
-  title: >-
-    Restrictive covenants, employee training, and the limits of transaction-cost
-    analysis
-  type: article-journal
-  volume: '76'
-
 - id: lesterRestrictiveCovenantsEmployee2001
   author:
     - family: Lester
@@ -17117,37 +16770,6 @@ references:
   publisher: Lexington books Lexington
   title: 'Bureaucratic Insurgency: The Case of Police Unions'
   type: book
-
-- id: Levin2020
-  author:
-    - family: Levin
-      given: Benjamin
-  citation-key: Levin2020
-  container-title: Columbia Law Review
-  issue: '5'
-  issued:
-    - year: 2020
-  language: en
-  page: '1333'
-  title: What's Wrong with Police Unions?
-  type: article-journal
-  volume: '120'
-
-- id: Levine2021
-  author:
-    - family: Levine
-      given: Kate
-  citation-key: Levine2021
-  container-title: Law & Society Review
-  ISSN: 0023-9216
-  issue: '4'
-  issued:
-    - year: 2021
-      month: 12
-  page: 680 - 681
-  title: "Free justice: A history of the public defender in twentieth‐century America. By Sara\_Mayeux. Chapel Hill, NC: University of North Carolina Press, 2020."
-  type: article-journal
-  volume: '55'
 
 - id: levineFreeJusticeHistory2021
   author:
@@ -17252,35 +16874,6 @@ references:
   type: chapter
   URL: https://onlinelibrary.wiley.com/doi/10.1002/9781118701430.ch25
 
-- id: Lewis2015
-  author:
-    - family: Lewis
-      given: Richard J.
-    - family: Crawford
-      given: Tim
-    - family: Lewis
-      given: David
-  citation-key: Lewis2015
-  container-title: Early Music
-  ISSN: 0306-1078
-  issue: '4'
-  issued:
-    - year: 2015
-      month: 11
-  language: >-
-    en Abstract.  Transforming Musicology is a three-year project undertaking
-    musicological research exploring state-of-the-art computational methods in
-    the areas of e
-  page: 635-647
-  title: >-
-    Exploring information retrieval, semantic technologies and workflows for
-    music scholarship: the Transforming Musicology project
-  title-short: >-
-    Exploring information retrieval, semantic technologies and workflows for
-    music scholarship
-  type: article-journal
-  volume: '43'
-
 - id: lewisExploringInformationRetrieval2015
   abstract: >-
     Abstract. Transforming Musicology is a three-year project undertaking
@@ -17340,20 +16933,6 @@ references:
     Obligations
   type: article-journal
   volume: '25'
-
-- id: Lichtenstein2000
-  author:
-    - family: Lichtenstein
-      given: Nelson
-  citation-key: Lichtenstein2000
-  container-title: International Labor and Working-Class History
-  ISSN: 0147-5479
-  issue: '58'
-  issued:
-    - year: 2000
-  page: 261-274
-  title: Class Politics and the State during World War Two
-  type: article-journal
 
 - id: lichtensteinClassPoliticsState2000
   abstract: >-
@@ -17487,40 +17066,6 @@ references:
   title-short: Walter Reuther
   type: book
 
-- id: Lieberwitz2006
-  author:
-    - family: Lieberwitz
-      given: Risa L.
-  citation-key: Lieberwitz2006
-  container-title: Cornell Journal of Law and Public Policy
-  issued:
-    - year: 2006
-  language: eng
-  page: 263-330
-  title: >-
-    Faculty in the Corporate University: Professional Identity, Law and
-    Collective Action
-  title-short: Faculty in the Corporate University
-  type: article-journal
-  volume: '16'
-
-- id: Lieberwitz2015
-  author:
-    - family: Lieberwitz
-      given: Risa L.
-  citation-key: Lieberwitz2015
-  container-title: Academe
-  ISSN: 0190-2946
-  issue: '6'
-  issued:
-    - year: 2015
-  page: 19-21
-  title: >-
-    Improving the Legal Landscape for Unionization at Private Colleges and
-    Universities
-  type: article-journal
-  volume: '101'
-
 - id: lieberwitzFacultyCorporateUniversity2006
   author:
     - family: Lieberwitz
@@ -17593,23 +17138,6 @@ references:
     tasks into law firm workflow
   type: patent
   URL: https://patents.google.com/patent/US9466048B2/en
-
-- id: Linarelli_nd
-  author:
-    - family: Linarelli
-      given: John
-    - family: Schwarcz
-      given: Steven L
-    - family: Tirado
-      given: Ignacio
-  citation-key: Linarelli_nd
-  container-title: LAW AND CONTEMPORARY PROBLEMS
-  issue: '1'
-  language: en
-  page: '5'
-  title: Financial Inclusion, Access to Credit, and Sustainable Finance
-  type: article-journal
-  volume: '84'
 
 - id: linarelliFinancialInclusionAccess
   author:
@@ -17710,24 +17238,6 @@ references:
   title-short: Haymarket Scrapbook
   type: book
 
-- id: Lipold2014
-  author:
-    - family: Lipold
-      given: Paul F.
-  citation-key: Lipold2014
-  container-title: Social Science History
-  ISSN: 0145-5532
-  issue: 3-4
-  issued:
-    - year: 2014
-  page: 541-575
-  title: >-
-    “Striking Deaths” at their Roots: Assaying the Social Determinants of
-    Extreme Labor-Management Violence in US Labor History—1877–1947
-  title-short: “Striking Deaths” at their Roots
-  type: article-journal
-  volume: '38'
-
 - id: lipoldStrikingDeathsTheir2014
   abstract: >-
     The seven decades framed by the Great Railway Strike of 1877 and
@@ -17803,24 +17313,6 @@ references:
   URL: >-
     https://www.routledge.com/Lived-Economies-of-Default-Consumer-Credit-Debt-Collection-and-the-Capture/Deville/p/book/9780367867225
 
-- id: Lobel2003
-  author:
-    - family: Lobel
-      given: Orly
-  citation-key: Lobel2003
-  container-title: Texas Wesleyan Law Review
-  issued:
-    - year: 2003
-  language: eng
-  page: 109-136
-  title: >-
-    The Slipperiness of Stability: Contracting for Flexible and Triangular
-    Employment Relationships in the New Economy Symposium: The Role of Contract
-    in the Modern Employment Relationship
-  title-short: The Slipperiness of Stability
-  type: article-journal
-  volume: '10'
-
 - id: lobelSlipperinessStabilityContracting2003
   author:
     - family: Lobel
@@ -17891,20 +17383,6 @@ references:
   URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.13
   volume: '4'
 
-- id: Logan2006
-  author:
-    - family: Logan
-      given: John
-  citation-key: Logan2006
-  container-title: British Journal of Industrial Relations
-  issue: '4'
-  issued:
-    - year: 2006
-  page: 651-675
-  title: The Union Avoidance Industry in the United States
-  type: article-journal
-  volume: '44'
-
 - id: loganUnionAvoidanceIndustry2006
   author:
     - family: Logan
@@ -17918,20 +17396,6 @@ references:
   title: The Union Avoidance Industry in the United States
   type: article-journal
   volume: '44'
-
-- id: Lombardi_nd
-  author:
-    - family: Lombardi
-      given: Marco
-    - family: Mohanty
-      given: Madhusudan
-    - family: Shim
-      given: Ilhyock
-  citation-key: Lombardi_nd
-  language: en
-  page: '42'
-  title: The real effects of household debt in the short and long run
-  type: article-journal
 
 - id: lombardiRealEffectsHousehold
   abstract: >-
@@ -17968,21 +17432,6 @@ references:
   type: webpage
   URL: >-
     http://bostonreview.net/class-inequality-politics/olivia-schwob-long-history-debt-cancellation
-
-- id: Loomis1930
-  author:
-    - family: Loomis
-      given: Charles P.
-  citation-key: Loomis1930
-  container-title: The North Carolina Historical Review
-  ISSN: 0029-2494
-  issue: '4'
-  issued:
-    - year: 1930
-  page: 443-462
-  title: Activities of the North Carolina Farmers' Union
-  type: article-journal
-  volume: '7'
 
 - id: loomisActivitiesNorthCarolina1930
   author:
@@ -18192,68 +17641,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.31
 
-- id: Lowy1980
-  author:
-    - family: Löwy
-      given: Michael
-    - family: Larrier
-      given: Renée B.
-  citation-key: Lowy1980
-  container-title: New German Critique
-  ISSN: 0094-033X
-  issue: '20'
-  issued:
-    - year: 1980
-  page: 105-115
-  title: Jewish Messianism and Libertarian Utopia in Central Europe (1900-1933)
-  type: article-journal
-
-- id: Lowy1996
-  author:
-    - family: Löwy
-      given: Michael
-  citation-key: Lowy1996
-  container-title: Theory and Society
-  ISSN: 0304-2421
-  issue: '3'
-  issued:
-    - year: 1996
-  page: 431-446
-  title: Figures of Weberian Marxism
-  type: article-journal
-  volume: '25'
-
-- id: Lowy1997
-  author:
-    - family: Lowy
-      given: Michael
-  citation-key: Lowy1997
-  container-title: New Politics
-  issue: '3'
-  issued:
-    - year: 1997
-  title: Franz Kafka and Libertarian Socialism
-  type: article-journal
-  volume: '6'
-
-- id: Lowy2001
-  author:
-    - family: Löwy
-      given: Michael
-    - family: Scholem
-      given: Gershom
-    - family: Richardson
-      given: Michael
-  citation-key: Lowy2001
-  container-title: New German Critique
-  ISSN: 0094-033X
-  issue: '83'
-  issued:
-    - year: 2001
-  page: 177-191
-  title: Messianism in the Early Work of Gershom Scholem
-  type: article-journal
-
 - id: lowyFiguresWeberianMarxism1996
   accessed:
     - year: 2020
@@ -18364,22 +17751,6 @@ references:
   title: 'Bourdieu''s Theory of the State: A Critical Introduction'
   title-short: Bourdieu's Theory of the State
   type: book
-
-- id: Luban2012
-  author:
-    - family: Luban
-      given: David
-  citation-key: Luban2012
-  container-title: Fordham Law Review
-  issue: '2'
-  issued:
-    - year: 2012
-  language: eng
-  page: 705-714
-  title: The Moral Complexity of Cause Lawyers within the State
-  title-short: The Moral Complexity of Cause Lawyers within the State Symposium
-  type: article-journal
-  volume: '81'
 
 - id: lubanMoralComplexityCause2012
   author:
@@ -18551,21 +17922,6 @@ references:
   type: legal_case
   volume: '427'
 
-- id: Mack2006
-  author:
-    - family: Mack
-      given: Kenneth W.
-  citation-key: Mack2006
-  container-title: The Journal of American History
-  ISSN: 0021-8723
-  issue: '1'
-  issued:
-    - year: 2006
-  page: 37-62
-  title: Law and Mass Politics in the Making of the Civil Rights Lawyer, 1931-1941
-  type: article-journal
-  volume: '93'
-
 - id: mackLawMassPolitics2006
   author:
     - family: Mack
@@ -18587,22 +17943,6 @@ references:
   URL: http://www.jstor.org/stable/4486059
   volume: '93'
 
-- id: Magenau1996
-  author:
-    - family: Magenau
-      given: John M
-    - family: Hunt
-      given: Raymond G
-  citation-key: Magenau1996
-  container-title: Human Relations
-  issue: '10'
-  issued:
-    - year: 1996
-  page: 1315-1343
-  title: Police Unions and the Police Role
-  type: article-journal
-  volume: '49'
-
 - id: magenauPoliceUnionsPolice1996
   author:
     - family: Magenau
@@ -18618,21 +17958,6 @@ references:
   title: Police Unions and the Police Role
   type: article-journal
   volume: '49'
-
-- id: Maharg2007
-  author:
-    - family: Maharg
-      given: Paul
-    - family: Owen
-      given: Martin
-  citation-key: Maharg2007
-  issued:
-    - literal: 2007-07-0011
-  title: >-
-    Simulations, Learning and the Metaverse: Changing Cultures in Legal
-    Education
-  title-short: Simulations, Learning and the Metaverse
-  type: article-journal
 
 - id: mahargSimulationsLearningMetaverse2007
   abstract: >-
@@ -18667,21 +17992,6 @@ references:
   title-short: Simulations, Learning and the Metaverse
   type: article-journal
 
-- id: Mahmud2012
-  author:
-    - family: Mahmud
-      given: Tayyab
-  citation-key: Mahmud2012
-  container-title: American Quarterly
-  ISSN: 0003-0678
-  issue: '3'
-  issued:
-    - year: 2012
-  page: 469-494
-  title: Debt and Discipline
-  type: article-journal
-  volume: '64'
-
 - id: mahmudDebtDiscipline2012
   archive: JSTOR
   author:
@@ -18702,21 +18012,6 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/23273531
   volume: '64'
-
-- id: Maitland2005
-  author:
-    - family: Maitland
-      given: Christine
-    - family: Rhoades
-      given: Gary
-  citation-key: Maitland2005
-  container-title: The NEA 2005 Almanac of Higher Education
-  issued:
-    - year: 2005
-  language: en
-  page: '10'
-  title: Bargaining for Contingent Faculty
-  type: article-journal
 
 - id: maitlandBargainingContingentFaculty2005
   author:
@@ -18814,11 +18109,11 @@ references:
   title-short: States, War, and Capitalism
   type: book
 
-- id: marceauAgGagPresentFuture2015
+- id: Marceau2015
   author:
     - family: Marceau
       given: Justin F.
-  citation-key: marceauAgGagPresentFuture2015
+  citation-key: Marceau2015
   container-title: Seattle University Law Review
   issued:
     - year: 2015
@@ -18862,21 +18157,6 @@ references:
   title-short: Advertising the American Dream
   type: book
 
-- id: Marcus2009
-  author:
-    - family: Marcus
-      given: David
-  citation-key: Marcus2009
-  container-title: Georgia Law Review
-  issued:
-    - year: 2009
-  page: '433'
-  title: >-
-    The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of
-    Law Reform
-  type: article-journal
-  volume: '44'
-
 - id: marcusFederalRulesCivil2009
   author:
     - family: Marcus
@@ -18917,36 +18197,6 @@ references:
   title-short: The Meritocracy Trap
   type: book
 
-- id: Marks2007
-  author:
-    - family: Marks
-      given: Monique
-  citation-key: Marks2007
-  container-title: 'Police Occupational Culture: New Debates and Directions. New York: Elsevier'
-  issued:
-    - year: 2007
-  page: 229-251
-  title: 'Police Unions and Their Influence: Subculture or Counter Culture'
-  type: article-journal
-
-- id: Marks2008
-  author:
-    - family: Marks
-      given: Monique
-    - family: Sklansky
-      given: David
-  citation-key: Marks2008
-  container-title: 'Police Practice and Research: An International Journal'
-  issue: '2'
-  issued:
-    - year: 2008
-  page: 85-94
-  title: >-
-    Voices from Below: Unions and Participatory Arrangements in the Police
-    Workplace
-  type: article-journal
-  volume: '9'
-
 - id: marksPoliceUnionsTheir2007
   author:
     - family: Marks
@@ -18976,21 +18226,6 @@ references:
     Workplace
   type: article-journal
   volume: '9'
-
-- id: Marshall2014a
-  author:
-    - family: Marshall
-      given: Anna-Maria
-    - family: Hale
-      given: Daniel Crocker
-  citation-key: Marshall2014a
-  container-title: Annual Review of Law and Social Science
-  issued:
-    - year: 2014
-  page: '301'
-  title: Cause Lawyering
-  type: article-journal
-  volume: '10'
 
 - id: marshallCauseLawyering2014
   author:
@@ -19088,21 +18323,6 @@ references:
   title-short: Blood Passion
   type: book
 
-- id: Martin1985
-  author:
-    - family: Martin
-      given: Charles H.
-  citation-key: Martin1985
-  container-title: Labor History
-  ISSN: 0023-656X
-  issue: '2'
-  issued:
-    - year: 1985
-  page: 165-194
-  title: The International Labor Defense and Black America
-  type: article-journal
-  volume: '26'
-
 - id: martinBuyingWorldGoods2010
   abstract: >-
     Cowinner, 2008 Fred Kniffen Book Award. Pioneer America Society/Association
@@ -19195,6 +18415,46 @@ references:
 
 - id: marxCapitalCritiquePolitical1993
   abstract: >-
+    The second volume of a political treatise that changed the worldA vital
+    cornerstone to Marx’s overall theory of economics, the second volume of
+    Capital considers in depth the nature of commodity and the market-place
+    bourgeois society. This immensely powerful work argues that prosperity in a
+    capitalist society inevitably holds within itself the seeds of its own
+    destruction.For more than seventy years, Penguin has been the leading
+    publisher of classic literature in the English-speaking world. With more
+    than 1,700 titles, Penguin Classics represents a global bookshelf of the
+    best works throughout history and across genres and disciplines. Readers
+    trust the series to provide authoritative texts enhanced by introductions
+    and notes by distinguished scholars and contemporary authors, as well as
+    up-to-date translations by award-winning translators.
+  author:
+    - family: Marx
+      given: Karl
+    - family: Mandel
+      given: Ernest
+  citation-key: marxCapitalCritiquePolitical1993
+  edition: Reprint edition
+  event-place: London
+  ISBN: 978-0-14-044569-5
+  issued:
+    - year: 1993
+      month: 3
+      day: 1
+  language: English
+  number-of-pages: '624'
+  publisher: Penguin Classics
+  publisher-place: London
+  source: Amazon
+  title: 'Capital: A Critique of Political Economy, vol. 2'
+  title-short: Capital
+  translator:
+    - family: Fernbach
+      given: David
+  type: book
+  volume: '2'
+
+- id: marxCapitalCritiquePolitical1993a
+  abstract: >-
     The third volume of a political treatise that changed the worldUnfinished at
     the time of Marx’s death in 1883 and first published with a preface by
     Frederick Engels in 1894, the third volume of Capital strives to combine the
@@ -19218,7 +18478,7 @@ references:
       given: Karl
     - family: Mandel
       given: Ernest
-  citation-key: marxCapitalCritiquePolitical1993
+  citation-key: marxCapitalCritiquePolitical1993a
   edition: Reissue edition
   event-place: New York, N.Y., U.S.A
   ISBN: 978-0-14-044570-1
@@ -19238,46 +18498,6 @@ references:
       given: David
   type: book
   volume: '3'
-
-- id: marxCapitalCritiquePolitical1993a
-  abstract: >-
-    The second volume of a political treatise that changed the worldA vital
-    cornerstone to Marx’s overall theory of economics, the second volume of
-    Capital considers in depth the nature of commodity and the market-place
-    bourgeois society. This immensely powerful work argues that prosperity in a
-    capitalist society inevitably holds within itself the seeds of its own
-    destruction.For more than seventy years, Penguin has been the leading
-    publisher of classic literature in the English-speaking world. With more
-    than 1,700 titles, Penguin Classics represents a global bookshelf of the
-    best works throughout history and across genres and disciplines. Readers
-    trust the series to provide authoritative texts enhanced by introductions
-    and notes by distinguished scholars and contemporary authors, as well as
-    up-to-date translations by award-winning translators.
-  author:
-    - family: Marx
-      given: Karl
-    - family: Mandel
-      given: Ernest
-  citation-key: marxCapitalCritiquePolitical1993a
-  edition: Reprint edition
-  event-place: London
-  ISBN: 978-0-14-044569-5
-  issued:
-    - year: 1993
-      month: 3
-      day: 1
-  language: English
-  number-of-pages: '624'
-  publisher: Penguin Classics
-  publisher-place: London
-  source: Amazon
-  title: 'Capital: A Critique of Political Economy, vol. 2'
-  title-short: Capital
-  translator:
-    - family: Fernbach
-      given: David
-  type: book
-  volume: '2'
 
 - id: marxGrundrisseFoundationsCritique1993
   abstract: >-
@@ -19510,25 +18730,6 @@ references:
   title: How Arbitration Works, Eighth Edition
   type: book
 
-- id: Mazak2017
-  author:
-    - family: Mazák
-      given: Jaromír
-    - family: Diviák
-      given: Tomáš
-  citation-key: Mazak2017
-  container-title: Social Movement Studies
-  ISSN: '14742837'
-  issue: '2'
-  issued:
-    - literal: 2017-11-0023
-  page: 203 - 218
-  title: >-
-    Transactional activism without transactions: network perspective on
-    anti-corruption activism in the Czech Republic
-  type: article-journal
-  volume: '17'
-
 - id: mazakTransactionalActivismTransactions2017
   accessed:
     - year: 2021
@@ -19747,21 +18948,6 @@ references:
   type: legal_case
   volume: '278'
 
-- id: McCall2003
-  author:
-    - family: McCall
-      given: John J.
-  citation-key: McCall2003
-  container-title: Business Ethics Quarterly
-  ISSN: 1052-150X
-  issue: '2'
-  issued:
-    - year: 2003
-  page: 151-175
-  title: A Defense of Just Cause Dismissal Rules
-  type: article-journal
-  volume: '13'
-
 - id: mccallDefenseJustCause2003
   abstract: >-
     The United States is distinctive among advanced economies in that its
@@ -19789,62 +18975,6 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/3857657
   volume: '13'
-
-- id: McCammon1990
-  author:
-    - family: McCammon
-      given: Holly J.
-  citation-key: McCammon1990
-  container-title: Social Problems
-  ISSN: 0037-7791
-  issue: '2'
-  issued:
-    - year: 1990
-  page: 206-229
-  title: >-
-    Legal Limits on Labor Militancy: U. S. Labor Law and the Right to Strike
-    since the New Deal
-  title-short: Legal Limits on Labor Militancy
-  type: article-journal
-  volume: '37'
-
-- id: McCammon1993
-  author:
-    - family: McCammon
-      given: Holly J.
-  citation-key: McCammon1993
-  container-title: Social Forces
-  ISSN: 0037-7732
-  issue: '3'
-  issued:
-    - year: 1993
-  page: 569-601
-  title: >-
-    From Repressive Intervention to Integrative Prevention: The U.S. State's
-    Legal Management of Labor Militancy, 1881-1978
-  title-short: From Repressive Intervention to Integrative Prevention
-  type: article-journal
-  volume: '71'
-
-- id: McCammon2021
-  author:
-    - family: McCammon
-      given: Holly J.
-    - family: Beeson-Lynch
-      given: Cathryn
-  citation-key: McCammon2021
-  container-title: Law & Social Inquiry
-  ISSN: 0897-6546
-  issue: '3'
-  issued:
-    - year: 2021
-      month: 1
-  page: 599 - 634
-  title: >-
-    Fighting Words: Pro-Choice Cause Lawyering, Legal-Framing Innovations, and
-    Hostile Political-Legal Contexts
-  type: article-journal
-  volume: '46'
 
 - id: mccammonFightingWordsProChoice2021
   author:
@@ -20002,24 +19132,6 @@ references:
   type: chapter
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470674871.wbespm195
 
-- id: McCartin2008
-  author:
-    - family: McCartin
-      given: Joseph A.
-  citation-key: McCartin2008
-  container-title: The Journal of American History
-  ISSN: 0021-8723
-  issue: '1'
-  issued:
-    - year: 2008
-  page: 123-148
-  title: >-
-    "A Wagner Act for Public Employees": Labor's Deferred Dream and the Rise of
-    Conservatism, 1970-1976
-  title-short: A Wagner Act for Public Employees
-  type: article-journal
-  volume: '95'
-
 - id: mccartinLaborGreatWar1998
   abstract: >-
     Since World War I, says Joseph McCartin, the central problem of American
@@ -20130,24 +19242,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.23
 
-- id: McGail2021
-  author:
-    - family: McGail
-      given: Alec
-  citation-key: McGail2021
-  container-title: The American Sociologist
-  ISSN: 0003-1232
-  issue: '2'
-  issued:
-    - year: 2021
-      month: 7
-  page: 304 - 340
-  title: >-
-    Lost & Forgotten: An Index of the Famous Works Which Sociology Has Left
-    Behind
-  type: article-journal
-  volume: '52'
-
 - id: mcgailLostForgottenIndex2021
   author:
     - family: McGail
@@ -20167,6 +19261,21 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/488443958
   volume: '52'
+
+- id: McGinley2012
+  author:
+    - family: McGinley
+      given: Ann C
+    - family: McGinley-Stempel
+      given: Ryan P
+  citation-key: McGinley2012
+  container-title: Hofstra Labor & Employment Law Journal
+  issued:
+    - year: 2012
+  page: '75'
+  title: 'Beyond the Water Cooler: Speech and the Workplace in an Era of Social Media'
+  type: article-journal
+  volume: '30'
 
 - id: mcginleyWaterCoolerSpeech2012
   author:
@@ -20188,21 +19297,6 @@ references:
   title-short: Beyond the Water Cooler
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/hlelj30&i=85
-  volume: '30'
-
-- id: mcginleyWaterCoolerSpeech2012a
-  author:
-    - family: McGinley
-      given: Ann C
-    - family: McGinley-Stempel
-      given: Ryan P
-  citation-key: mcginleyWaterCoolerSpeech2012a
-  container-title: Hofstra Labor & Employment Law Journal
-  issued:
-    - year: 2012
-  page: '75'
-  title: 'Beyond the Water Cooler: Speech and the Workplace in an Era of Social Media'
-  type: article-journal
   volume: '30'
 
 - id: mcgrathFoodDissentNatural2019
@@ -20244,24 +19338,6 @@ references:
   title-short: Food for Dissent
   type: book
 
-- id: McKee2013
-  author:
-    - family: McKee
-      given: Yates
-  citation-key: McKee2013
-  container-title: South Atlantic Quarterly
-  ISSN: 0038-2876, 1527-8026
-  issue: '4'
-  issued:
-    - year: 2013
-      month: 10
-  language: en
-  page: 784-803
-  title: 'Debt: Occupy, Postcontemporary Art, and the Aesthetics of Debt Resistance'
-  title-short: DEBT
-  type: article-journal
-  volume: '112'
-
 - id: mckeeDebtOccupyPostcontemporary2013
   abstract: >-
     Among the most prominent offshoots of Occupy Wall Street is Strike Debt, an
@@ -20299,23 +19375,6 @@ references:
   URL: >-
     https://read.dukeupress.edu/south-atlantic-quarterly/article/112/4/784-803/3689
   volume: '112'
-
-- id: McMullan2002
-  author:
-    - family: McMullan
-      given: John L.
-    - family: Perrier
-      given: David C.
-  citation-key: McMullan2002
-  container-title: Law & Society Review
-  ISSN: 0023-9216
-  issue: '4'
-  issued:
-    - year: 2002
-  page: 679-718
-  title: Lobster Poaching and the Ironies of Law Enforcement
-  type: article-journal
-  volume: '36'
 
 - id: mcmullanLobsterPoachingIronies2002
   abstract: >-
@@ -20430,23 +19489,6 @@ references:
       given: Stephanie M.
   citation-key: Merabet2013
   container-title: Suffolk University Law Review
-  issue: '4'
-  issued:
-    - year: 2013
-  page: 1161-1186
-  title: >-
-    The Sword and Shield of Social Networking: Harming Employers' Goodwill
-    through Concerted Facebook Activity Note
-  title-short: The Sword and Shield of Social Networking
-  type: article-journal
-  volume: '46'
-
-- id: merabetSwordShieldSocial2013
-  author:
-    - family: Merabet
-      given: Stephanie M.
-  citation-key: merabetSwordShieldSocial2013
-  container-title: Suffolk University Law Review
   container-title-short: Suffolk U. L. Rev.
   issue: '4'
   issued:
@@ -20515,21 +19557,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.42
 
-- id: Mertz1994
-  author:
-    - family: Mertz
-      given: Elizabeth
-  call-number: '0055'
-  citation-key: Mertz1994
-  container-title: Law & Society Review
-  issue: '5'
-  issued:
-    - year: 1994
-  page: '1243'
-  title: A New Social Constructionism for Sociolegal Studies
-  type: article-journal
-  volume: '28'
-
 - id: mertzNewSocialConstructionism1994
   author:
     - family: Mertz
@@ -20578,25 +19605,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.27
 
-- id: Metchick2004
-  author:
-    - family: Metchick
-      given: Robert H.
-    - family: Singh
-      given: Parbudyal
-  citation-key: Metchick2004
-  container-title: Labor Studies Journal
-  ISSN: 0160-449X
-  issue: '4'
-  issued:
-    - year: 2004
-      month: 1
-  language: en
-  page: 45-65
-  title: Yeshiva and Faculty Unionization in Higher Education
-  type: article-journal
-  volume: '28'
-
 - id: metchickYeshivaFacultyUnionization2004
   abstract: >-
     It has been over two decades since the United States Supreme Court handed
@@ -20631,43 +19639,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/0160449X0402800403
   volume: '28'
-
-- id: Meyer1996
-  author:
-    - family: Meyer
-      given: David S.
-    - family: Staggenborg
-      given: Suzanne
-  citation-key: Meyer1996
-  container-title: American Journal of Sociology
-  ISSN: 0002-9602
-  issue: '6'
-  issued:
-    - year: 1996
-  page: 1628-1660
-  title: Movements, Countermovements, and the Structure of Political Opportunity
-  type: article-journal
-  volume: '101'
-
-- id: Meyer2007
-  author:
-    - family: Meyer
-      given: David S.
-    - family: Boutcher
-      given: Steven A.
-  citation-key: Meyer2007
-  container-title: Perspectives on Politics
-  ISSN: 1537-5927
-  issue: '1'
-  issued:
-    - year: 2007
-  page: 81-93
-  title: >-
-    Signals and Spillover: Brown v. Board of Education and Other Social
-    Movements
-  title-short: Signals and Spillover
-  type: article-journal
-  volume: '5'
 
 - id: meyerMovementsCountermovementsStructure1996
   abstract: >-
@@ -20863,44 +19834,6 @@ references:
   title: Miklin Enterprises, Inc. v. Nlrb
   type: legal_case
   volume: '861'
-
-- id: Mikus2015
-  author:
-    - family: Mikuš
-      given: Marek
-  citation-key: Mikus2015
-  container-title: Sociologija
-  ISSN: 0038-0318
-  issue: '4'
-  issued:
-    - year: 2015
-  language: English
-  page: 571-592
-  title: >-
-    Informal Networks and Interstitial Arenas of Power in the Making of Civil
-    Society Law in Serbia
-  type: article-journal
-  volume: '57'
-
-- id: Mikus2019
-  author:
-    - family: Mikuš
-      given: Marek
-  citation-key: Mikus2019
-  container-title: Dialectical Anthropology
-  ISSN: 0304-4092, 1573-0786
-  issue: '3'
-  issued:
-    - year: 2019
-      month: 9
-  language: en
-  page: 295-315
-  title: >-
-    Contesting household debt in Croatia: the double movement of
-    financialization and the fetishism of money in Eastern European peripheries
-  title-short: Contesting household debt in Croatia
-  type: article-journal
-  volume: '43'
 
 - id: mikusAnthropologyFinancializationEastern2021
   abstract: >-
@@ -21244,24 +20177,6 @@ references:
   title: The Power Elite
   type: book
 
-- id: Minchin2005
-  author:
-    - family: Minchin
-      given: Timothy J.
-  citation-key: Minchin2005
-  container-title: Journal of American Studies
-  ISSN: 0021-8758
-  issue: '3'
-  issued:
-    - year: 2005
-  page: 511-543
-  title: >-
-    "Don't Sleep with Stevens!": The J. P. Stevens Boycott and Social Activism
-    in the 1970s
-  title-short: Don't Sleep with Stevens!
-  type: article-journal
-  volume: '39'
-
 - id: minchinDonSleepStevens2005
   accessed:
     - year: 2023
@@ -21381,26 +20296,6 @@ references:
   type: legal_case
   volume: '335'
 
-- id: Montgomerie2019a
-  author:
-    - family: Montgomerie
-      given: Johnna
-    - family: Tepe-Belfrage
-      given: Daniela
-  citation-key: Montgomerie2019a
-  container-title: Geoforum
-  ISSN: 0016-7185
-  issued:
-    - year: 2019
-      month: 1
-  language: en
-  page: 309-317
-  title: >-
-    Spaces of debt resistance and the contemporary politics of financialised
-    capitalism
-  type: article-journal
-  volume: '98'
-
 - id: montgomerieHowCanWe2019
   abstract: >-
     There is growing public policy concern over the historically unprecedented
@@ -21512,20 +20407,6 @@ references:
   title: The Fall of the House of Labor
   type: book
 
-- id: Moore1975
-  author:
-    - family: Moore
-      given: Elizabeth
-  citation-key: Moore1975
-  container-title: University of Pittsburgh Law Review
-  issued:
-    - year: 1975
-  language: eng
-  page: 43-62
-  title: The Determination of Bargaining Units for College Faculties
-  type: article-journal
-  volume: '37'
-
 - id: mooreDeterminationBargainingUnits1975
   author:
     - family: Moore
@@ -21611,25 +20492,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.53
 
-- id: Morris2012
-  author:
-    - family: Morris
-      given: Charles J.
-  citation-key: Morris2012
-  container-title: Berkeley Journal of Employment and Labor Law
-  ISSN: 1067-7666
-  issue: '1'
-  issued:
-    - year: 2012
-  page: 1-71
-  title: >-
-    How The National Labor Relations Act Was Stolen and How It Can Be Recovered:
-    Taft-Hartley Revisionism and the National Labor Relations Board's
-    Appointment Process
-  title-short: How The National Labor Relations Act Was Stolen and How It Can Be Recovered
-  type: article-journal
-  volume: '33'
-
 - id: morrisHowNationalLabor2012
   abstract: >-
     This article challenges and refutes the conventional wisdom that the
@@ -21695,38 +20557,6 @@ references:
   URL: www.jstor.org/stable/24052588
   volume: '33'
 
-- id: Morriss_nd
-  author:
-    - family: Morriss
-      given: Andrew P
-  citation-key: Morriss_nd
-  container-title: MISSOURI LAW REVIEW
-  language: en
-  page: '97'
-  title: >-
-    Exploding Myths: An Empirical and Economic Reassessment of the Rise of
-    Employment At-Will
-  type: article-journal
-  volume: '59'
-
-- id: Morriss1995
-  author:
-    - family: Morriss
-      given: Andrew P.
-  citation-key: Morriss1995
-  container-title: Texas Law Review
-  issue: '7'
-  issued:
-    - year: 1995
-  language: eng
-  page: 1901-1942
-  title: >-
-    Bad Data, Bad Economics, and Bad Policy:  Time to Fire Wrongful Discharge
-    Law  Symposium:  The Changing Workplace
-  title-short: Bad Data, Bad Economics, and Bad Policy
-  type: article-journal
-  volume: '74'
-
 - id: morrissBadDataBad1995
   author:
     - family: Morriss
@@ -21764,24 +20594,6 @@ references:
   type: article-journal
   volume: '59'
 
-- id: Moser2019
-  author:
-    - family: Möser
-      given: Katharina
-  citation-key: Moser2019
-  container-title: Journal of Law and Society
-  ISSN: 0263323X
-  issue: '2'
-  issued:
-    - year: 2019
-      month: 2
-  page: 240 - 270
-  title: >-
-    Making Sense of the Numbers: The Shift from Non‐consensual to Consensual
-    Debt Relief and the Construction of the Consumer Debtor
-  type: article-journal
-  volume: '46'
-
 - id: moserMakingSenseNumbers2019
   author:
     - family: Möser
@@ -21815,22 +20627,6 @@ references:
   type: legal_case
   volume: '497'
 
-- id: Moss1991
-  author:
-    - family: Moss
-      given: David J
-  citation-key: Moss1991
-  container-title: Albion
-  issue: '04'
-  issued:
-    - year: 1991
-  page: 772-774
-  title: >-
-    Challinor Raymond. A Radical Lawyer in Victorian England: W P Roberts and
-    the Struggle for Workers' Rights
-  type: article-journal
-  volume: '23'
-
 - id: mossChallinorRaymondRadical1991
   author:
     - family: Moss
@@ -21846,24 +20642,6 @@ references:
     the Struggle for Workers' Rights
   type: article-journal
   volume: '23'
-
-- id: Muncy2018
-  author:
-    - family: Muncy
-      given: Robyn
-  citation-key: Muncy2018
-  container-title: Labor
-  ISSN: 1547-6715
-  issue: '4'
-  issued:
-    - literal: 2018-12-0001
-  language: en
-  page: 37-58
-  title: >-
-    The Strange Career of “the Working Class” in US Political Culture Since the
-    1950s
-  type: article-journal
-  volume: '15'
 
 - id: muncyStrangeCareerWorking2018
   accessed:
@@ -22015,22 +20793,6 @@ references:
   URL: http://search.proquest.com/docview/2352150753/abstract/5B13AF4F8A2249D0PQ/5
   volume: '25'
 
-- id: Naduris-Weissman2009
-  author:
-    - family: Naduris-Weissman
-      given: Eli
-  citation-key: Naduris-Weissman2009
-  container-title: Berkeley Journal of Employment and Labor Law
-  ISSN: 1067-7666
-  issue: '1'
-  issued:
-    - year: 2009
-  page: 232-335
-  title: 'The Worker Center Movement and Traditional Labor Law: A Contextual Analysis'
-  title-short: The Worker Center Movement and Traditional Labor Law
-  type: article-journal
-  volume: '30'
-
 - id: naduris-weissmanWorkerCenterMovement2009
   abstract: >-
     Adjudicators and scholars have yet to work out the labor law implications of
@@ -22089,25 +20851,6 @@ references:
   URL: www.jstor.org/stable/24052581
   volume: '30'
 
-- id: Nagler2018
-  author:
-    - family: Nagler
-      given: Christian Riley
-  citation-key: Nagler2018
-  container-title: TDR/The Drama Review
-  ISSN: 1054-2043
-  issue: '1'
-  issued:
-    - year: 2018
-      month: 2
-  page: 113-130
-  title: >-
-    Strike Debt's Rolling Jubilee: The Promise and the Performativity of
-    Financial Contracts
-  title-short: Strike Debt's Rolling Jubilee
-  type: article-journal
-  volume: '62'
-
 - id: naglerStrikeDebtRolling2018
   abstract: >-
     With their Rolling Jubilee campaign of debt forgiveness, the group Strike
@@ -22162,7 +20905,7 @@ references:
   URL: https://www.emeraldinsight.com/doi/full/10.1108/EL-03-2012-0031
   volume: '31'
 
-- id: nationalagriculturallawcenterAggagLawsUpdate2021
+- id: NationalAgriculturalLawCenter2021
   accessed:
     - year: 2022
       month: 1
@@ -22170,7 +20913,7 @@ references:
   author:
     - family: National Agricultural Law Center
       given: ''
-  citation-key: nationalagriculturallawcenterAggagLawsUpdate2021
+  citation-key: NationalAgriculturalLawCenter2021
   issued:
     - year: 2021
       month: 8
@@ -22194,11 +20937,11 @@ references:
   URL: https://www.law.cornell.edu/uscode/text/29/151
   volume: '29'
 
-- id: nationalrighttoworkcommitteeSaltingCoerciveBig2003
+- id: NationalRighttoWorkCommittee2003
   author:
     - family: National Right to Work Committee
       given: ''
-  citation-key: nationalrighttoworkcommitteeSaltingCoerciveBig2003
+  citation-key: NationalRighttoWorkCommittee2003
   issued:
     - year: 2003
   publisher: National Right to Work Committee
@@ -22215,22 +20958,6 @@ references:
   section: 99A-2
   title: NC Property Protection Act
   type: legislation
-
-- id: NeJaime2012
-  author:
-    - family: NeJaime
-      given: Douglas
-  citation-key: NeJaime2012
-  container-title: Fordham Law Review
-  issue: '2'
-  issued:
-    - year: 2012
-  language: eng
-  page: 649-704
-  title: Cause Lawyers inside the State
-  title-short: Cause Lawyers inside the State Symposium
-  type: article-journal
-  volume: '81'
 
 - id: nejaimeCauseLawyersState2012
   author:
@@ -22271,29 +20998,6 @@ references:
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=662384
   volume: '54'
-
-- id: Newman2013
-  author:
-    - family: Newman
-      given: Michael L.
-    - family: Sack
-      given: John
-  citation-key: Newman2013
-  container-title: Learned Publishing
-  ISSN: 1741-4857
-  issue: '2'
-  issued:
-    - year: 2013
-  language: en
-  page: 123-131
-  title: >-
-    Information workflow of academic researchers in the evolving information
-    environment: an interview study
-  title-short: >-
-    Information workflow of academic researchers in the evolving information
-    environment
-  type: article-journal
-  volume: '26'
 
 - id: newmanInformationWorkflowAcademic2013
   abstract: >-
@@ -24480,6 +23184,24 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/montlr56&i=591
   volume: '56'
 
+- id: Reid2015
+  author:
+    - family: Reid
+      given: Rita-Marie Cain
+    - family: Kingery
+      given: Amber L.
+  citation-key: Reid2015
+  container-title: Journal of Food Law & Policy
+  issued:
+    - year: 2015
+  page: '31'
+  title: >-
+    Putting a Gag on Farm Whistleblowers: The Right to Lie and the Right to
+    Remain Silent Confront State Agricultural Protectionism
+  title-short: Putting a Gag on Farm Whistleblowers
+  type: article-journal
+  volume: '11'
+
 - id: reidCombatingEnemyRegulating2018
   author:
     - family: Reid
@@ -24499,24 +23221,6 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/vanlr71&i=1067
   volume: '71'
-
-- id: reidPuttingGagFarm2015
-  author:
-    - family: Reid
-      given: Rita-Marie Cain
-    - family: Kingery
-      given: Amber L.
-  citation-key: reidPuttingGagFarm2015
-  container-title: Journal of Food Law & Policy
-  issued:
-    - year: 2015
-  page: '31'
-  title: >-
-    Putting a Gag on Farm Whistleblowers: The Right to Lie and the Right to
-    Remain Silent Confront State Agricultural Protectionism
-  title-short: Putting a Gag on Farm Whistleblowers
-  type: article-journal
-  volume: '11'
 
 - id: reinerBlueCoatedWorkerSociological1978
   author:
@@ -25330,11 +24034,11 @@ references:
   title-short: Eugene V. Debs
   type: book
 
-- id: sandersAgGagFreeNation2019
+- id: Sanders2019
   author:
     - family: Sanders
       given: Shaakirrah R.
-  citation-key: sandersAgGagFreeNation2019
+  citation-key: Sanders2019
   container-title: Wake Forest Law Review
   container-title-short: Wake Forest L. Rev.
   issue: '2'
@@ -25926,11 +24630,11 @@ references:
   title-short: Weapons of the Weak
   type: book
 
-- id: scrufariWatershedMomentRevealing2017
+- id: Scrufari2017
   author:
     - family: Scrufari
       given: Carrie A
-  citation-key: scrufariWatershedMomentRevealing2017
+  citation-key: Scrufari2017
   container-title: UCLA Law Review Discourse
   issued:
     - year: 2017
@@ -26879,11 +25583,11 @@ references:
     Conservative Causes
   type: article-journal
 
-- id: spasserWinningHeartsMinds2013
+- id: Spasser2013
   author:
     - family: Spasser
       given: Alison
-  citation-key: spasserWinningHeartsMinds2013
+  citation-key: Spasser2013
   event-place: San Francisco, CA
   genre: Master’s Thesis
   issued:
@@ -26961,7 +25665,7 @@ references:
   title-short: The Common Law of the Workplace
   type: book
 
-- id: stampferDidKhazarsConvert2013
+- id: Stampfer2013
   abstract: >-
     Abstract The view that some or all of the Khazars, a central Asian people,
     converted to Judaism at some point during the ninth or tenth century is
@@ -26978,7 +25682,7 @@ references:
   author:
     - family: Stampfer
       given: Shaul
-  citation-key: stampferDidKhazarsConvert2013
+  citation-key: Stampfer2013
   container-title: Jewish Social Studies
   DOI: 10.2979/jewisocistud.19.3.1
   ISSN: 0021-6704
@@ -28037,6 +26741,23 @@ references:
   title-short: Race for Profit
   type: book
 
+- id: Tejani2022
+  author:
+    - family: Tejani
+      given: Riaz
+  citation-key: Tejani2022
+  container-title: Alabama Law Review
+  issued:
+    - year: 2022
+  language: en
+  page: '21'
+  source: Zotero
+  title: >-
+    The Life of Transplants: Why Law and Economics Has “Succeeded” Where Legal
+    Anthropology Has Not
+  type: article-journal
+  volume: '73'
+
 - id: tejaniLawSocietyToday2019
   author:
     - family: Tejani
@@ -28050,23 +26771,6 @@ references:
   type: book
   URL: >-
     https://www.amazon.com/gp/product/0520295749?pf_rd_p=183f5289-9dc0-416f-942e-e8f213ef368b&pf_rd_r=5E2HS2E5FFT9ZGFYBXVS
-
-- id: tejaniLifeTransplantsWhy2022
-  author:
-    - family: Tejani
-      given: Riaz
-  citation-key: tejaniLifeTransplantsWhy2022
-  container-title: Alabama Law Review
-  issued:
-    - year: 2022
-  language: en
-  page: '21'
-  source: Zotero
-  title: >-
-    The Life of Transplants: Why Law and Economics Has “Succeeded” Where Legal
-    Anthropology Has Not
-  type: article-journal
-  volume: '73'
 
 - id: tejaniProfessionalApartheidRacialization2017
   abstract: >-
@@ -28963,11 +27667,11 @@ references:
   title: Taking the Constitution Away from the Courts
   type: book
 
-- id: twomeySaltingFairOrganizing2004
+- id: Twomey2004
   author:
     - family: Twomey
       given: David P.
-  citation-key: twomeySaltingFairOrganizing2004
+  citation-key: Twomey2004
   container-title: Business Law Review
   issued:
     - year: 2004
@@ -29153,13 +27857,13 @@ references:
   URL: www.jstor.org/stable/3096967
   volume: '41'
 
-- id: vanbourgSaltingMinesLegal1998
+- id: VanBourg1998
   author:
     - family: Van Bourg
       given: Victor J.
     - family: Moscowitz
       given: Ellyn
-  citation-key: vanbourgSaltingMinesLegal1998
+  citation-key: VanBourg1998
   container-title: Hofstra Labor & Employment Law Journal
   issued:
     - year: 1998
@@ -29256,7 +27960,7 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/41275057
 
-- id: vergerNorthCarolinaAgGag2015
+- id: Verger2015
   accessed:
     - year: 2023
       month: 2
@@ -29264,7 +27968,7 @@ references:
   author:
     - family: Verger
       given: Rob
-  citation-key: vergerNorthCarolinaAgGag2015
+  citation-key: Verger2015
   container-title: Vice
   issued:
     - year: 2015
@@ -29438,28 +28142,11 @@ references:
   type: legal_case
   volume: '4'
 
-- id: walshDoubleLifeUndercover2016
+- id: Walsh2016
   author:
     - family: Walsh
       given: James D.
-  citation-key: walshDoubleLifeUndercover2016
-  container-title: New York Magazine Intelligencer
-  issued:
-    - year: 2016
-      month: 2
-      day: 19
-  language: en
-  title: The Double Life of an Undercover Union Organizer
-  title-short: Undercover Union Organizer
-  type: webpage
-  URL: >-
-    http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
-
-- id: walshPlayingHouseDramatic2016
-  author:
-    - family: Walsh
-      given: James D.
-  citation-key: walshPlayingHouseDramatic2016
+  citation-key: Walsh2016
   ISBN: 978-1-4767-7837-2
   issued:
     - year: 2016
@@ -29473,6 +28160,23 @@ references:
     Organizer
   title-short: Playing Against the House
   type: book
+
+- id: Walsh2016a
+  author:
+    - family: Walsh
+      given: James D.
+  citation-key: Walsh2016a
+  container-title: New York Magazine Intelligencer
+  issued:
+    - year: 2016
+      month: 2
+      day: 19
+  language: en
+  title: The Double Life of an Undercover Union Organizer
+  title-short: Undercover Union Organizer
+  type: webpage
+  URL: >-
+    http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
 
 - id: wardEndowmentEffectEmpirical2004
   author:
@@ -29613,11 +28317,11 @@ references:
   URL: www.jstor.org/stable/40251683
   volume: '84'
 
-- id: weilBigAgExceptionalismEnding2017
+- id: Weil2017
   author:
     - family: Weil
       given: Sonia
-  citation-key: weilBigAgExceptionalismEnding2017
+  citation-key: Weil2017
   container-title: Drexel Law Review
   container-title-short: Drexel L. Rev.
   issued:
@@ -30138,11 +28842,11 @@ references:
   URL: www.jstor.org/stable/3659277
   volume: '92'
 
-- id: wolfeAnythingAgGagEnding2016
+- id: Wolfe2016
   author:
     - family: Wolfe
       given: Gabriella
-  citation-key: wolfeAnythingAgGagEnding2016
+  citation-key: Wolfe2016
   container-title: Syracuse Law Review
   issued:
     - year: 2016
