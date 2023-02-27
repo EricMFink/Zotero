@@ -278,57 +278,69 @@
   </macro>
 
 <!-- CITATION-->
-  <citation et-al-min="4" et-al-use-first="1">
-    <layout suffix="." delimiter="; ">
-      <choose>
-        <if position="ibid">
-          <text value="id." text-case="capitalize-first" font-style="italic"/>
-          <text macro="at_page" suffix="."/>
-          <!-- period will not show up - this is for find-and-replace later. -->
-        </if>
-        <else-if position="subsequent">
-          <choose>
-            <if type="book" match="any">
-              <text variable="volume" suffix=" "/>
-            </if>
-          </choose>
-          <text macro="author-short"/>
-          <text value="supra" font-style="italic" prefix=", "/>
-          <text value="note" prefix=" "/>
-          <text variable="first-reference-note-number" prefix=" "/>
-          <text macro="at_page"/>
-        </else-if>
-        <else>
-          <choose>
-            <if type="book" match="any">
-              <text variable="volume" suffix=" "/>
-            </if>
-          </choose>
-          <text macro="author" suffix=", "/>
-          <text macro="source"/>
-          <text macro="access" prefix=", "/>
-        </else>
-      </choose>
-    </layout>
-  </citation>
-  
-<!-- BIBLIOGRAPHY -->
-  <bibliography hanging-indent="true" et-al-min="4" et-al-use-first="1" entry-spacing="1">
-    <sort>
-      <key macro="sort-key"/>
-      <key macro="author"/>
-      <key variable="title"/>
-      <key macro="year-sort"/>
-    </sort>
-    <layout suffix=".">
-      <choose>
-        <if type="book" match="any">
-          <text variable="volume" suffix=" "/>
-        </if>
-      </choose>
-        <text macro="author" suffix=", "/>
-        <text macro="source"/>
-    </layout>
-  </bibliography>
+<citation et-al-min="4" et-al-use-first="1">
+  <layout suffix="." delimiter="; ">
+    <choose>
+      <if position="ibid">
+        <text value="id." text-case="capitalize-first" font-style="italic"/>
+        <text macro="at_page" suffix="."/>
+        <!-- period will not show up - this is for find-and-replace later. -->
+      </if>
+      <else-if position="subsequent">
+        <choose>
+          <if type="legal_case">
+            <text macro="short-title"/>
+            <text value="supra" font-style="italic" prefix=", "/>
+            <text value="note" prefix=" "/>
+            <text variable="first-reference-note-number" prefix=" "/>
+            <text macro="at_page"/>
+          </if>
+          <else-if type="legislation">
+            <text macro="short-source"/>
+            <text macro="at_page"/>
+          </else-if>
+          <else>
+            <choose>
+              <if type="book" match="any">
+                <text variable="volume" suffix=" "/>
+              </if>
+            </choose>
+            <text macro="author-short"/>
+            <text value="supra" font-style="italic" prefix=", "/>
+            <text value="note" prefix=" "/>
+            <text variable="first-reference-note-number" prefix=" "/>
+            <text macro="at_page"/>
+          </else>
+        </choose>
+      </else-if>
+      <else>
+        <choose>
+          <if type="book" match="any">
+            <text variable="volume" suffix=" "/>
+          </if>
+        </choose>
+        <choose>
+          <if type="article-newspaper article-magazine thesis" match="any">
+            <text macro="author" suffix=", "/>
+            <text macro="full-title"/>
+            <text macro="source"/>
+          </if>
+          <else-if type="bill hearing legal_case legislation" match="any">
+            <text macro="full-title"/>
+            <text macro="source"/>
+            <text macro="issuance"/>
+          </else-if>
+          <else>
+            <text macro="author" suffix=", "/>
+            <text macro="full-title"/>
+            <text macro="source"/>
+            <text macro="issuance"/>
+            <text macro="access" prefix=", "/>
+          </else>
+        </choose>
+      </else>
+    </choose>
+  </layout>
+</citation>
 
 </style>

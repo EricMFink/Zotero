@@ -2369,12 +2369,16 @@ references:
   authority: Supreme Court
   citation-key: BatesStateBar1977
   issued:
+<<<<<<< HEAD
     - year: 1977
       month: 6
       day: 27
   note: >-
     mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
     States|US"}}
+=======
+    - literal: 1977-06-0027
+>>>>>>> parent of 3fdbc06 (update)
   page: '350'
   title: Bates v. State Bar of Ariz.
   type: legal_case
@@ -3040,12 +3044,16 @@ references:
   authority: Supreme Court
   citation-key: BirbrowerMontalbanoCondon1998
   issued:
+<<<<<<< HEAD
     - year: 1998
       month: 1
       day: 5
   note: >-
     mlzsync1:0092{"extrafields":{"reporter":"Cal.
     4th","jurisdiction":"005us:caUnited States|US|California"}}Jurisdiction: Cal
+=======
+    - literal: 1998-01-0005
+>>>>>>> parent of 3fdbc06 (update)
   page: '119'
   title: Birbrower, Montalbano, Condon & Frank v. Superior Ct.
   type: legal_case
@@ -3220,12 +3228,16 @@ references:
   authority: Supreme Court
   citation-key: BlackWhiteTaxicab1928
   issued:
+<<<<<<< HEAD
     - year: 1928
       month: 4
       day: 9
   note: >-
     mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
     States|US"}}
+=======
+    - literal: 1928-04-0009
+>>>>>>> parent of 3fdbc06 (update)
   page: '518'
   title: Black & White Taxicab Co. v. Brown & Yellow Taxican Co.
   type: legal_case
@@ -3927,6 +3939,7 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.44
 
+<<<<<<< HEAD
 - id: BranscombLoyalty1993
   author:
     - family: Branscomb
@@ -3962,6 +3975,9 @@ references:
     of each on the Frankfurt School amplifies antisemitic tropes and engages in
     conspiracy thinking that misrepresents the Frankfurt School's ideas and
     influence.
+=======
+- id: Braune2019
+>>>>>>> parent of 3fdbc06 (update)
   author:
     - family: Braune
       given: Joan
@@ -4759,12 +4775,16 @@ references:
   authority: S.D. Cal.
   citation-key: CamachoBaseball2013
   issued:
+<<<<<<< HEAD
     - year: 2013
       month: 12
       day: 19
   note: >-
     mlzsync1:0095{"extrafields":{"jurisdiction":"011us:c9:ca.sdUnited
     States|US|Ninth Circuit|S.D. California"}}
+=======
+    - literal: 2013-12-0019
+>>>>>>> parent of 3fdbc06 (update)
   number: No. 12-cv-2859-L(BGS)
   title: Camacho v. Baseball
   type: legal_case
@@ -5377,12 +5397,20 @@ references:
       given: David S.
   ISBN: 978-1-78100-609-2
   issued:
+<<<<<<< HEAD
     - year: 2012
   language: en
   source: www.elgaronline.com
   title: Comparative Law and Society
   type: book
   URL: https://www.elgaronline.com/view/edcoll/9781849803618/9781849803618.xml
+=======
+    - literal: 2001-07-0006
+  page: '193'
+  title: Clark Capital Management v. Annuity Investors Life Ins. Co.
+  type: legal_case
+  volume: '149'
+>>>>>>> parent of 3fdbc06 (update)
 
 - id: clarkeStateDebate2016
   abstract: >-
@@ -5667,12 +5695,16 @@ references:
   authority: E.D. Pa.
   citation-key: CompleteBusinessSolutions2020
   issued:
+<<<<<<< HEAD
     - year: 2020
       month: 7
       day: 16
   note: >-
     mlzsync1:0097{"extrafields":{"jurisdiction":"011us:c3:pa.edUnited
     States|US|Third Circuit|E.D. Pennsylvania"}}
+=======
+    - literal: 2020-07-0016
+>>>>>>> parent of 3fdbc06 (update)
   number: No. 20-724
   title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops Llc
   type: legal_case
@@ -6163,23 +6195,6 @@ references:
   type: legal_case
   volume: '571'
 
-- id: Dall2002
-  author:
-    - family: Dall
-      given: Carey
-    - family: Cohen
-      given: Jonathan
-  citation-key: Dall2002
-  container-title: New Labor Forum
-  issue: '10'
-  issued:
-    - year: 2002
-      month: 4
-  page: 36-41
-  title: 'Salting the Earth: Organizing for the Long Haul'
-  title-short: Salting the Earth
-  type: article-journal
-
 - id: Dalton_Camp2001
   authority: N.C.
   citation-key: Dalton_Camp2001
@@ -6563,12 +6578,16 @@ references:
   authority: W.D. Wash.
   citation-key: DeutschSchoelkopf2016
   issued:
+<<<<<<< HEAD
     - year: 2016
       month: 12
       day: 14
   note: >-
     mlzsync1:0095{"extrafields":{"jurisdiction":"011us:c9:wa.wdUnited
     States|US|Ninth Circuit|W.D. Washington"}}
+=======
+    - literal: 2016-12-0014
+>>>>>>> parent of 3fdbc06 (update)
   number: No. 3:16-CV-05561-RBL
   title: Deutsch v. Schoelkopf
   type: legal_case
@@ -7625,6 +7644,7 @@ references:
   title-short: $2.00 a Day
   type: book
 
+<<<<<<< HEAD
 - id: EffectuationNationalLabor2021
   citation-key: EffectuationNationalLabor2021
   genre: General Counsel Memo
@@ -7640,6 +7660,9 @@ references:
   type: report
 
 - id: ehrenreichKillerDebt2008
+=======
+- id: Ehrenreich2008
+>>>>>>> parent of 3fdbc06 (update)
   author:
     - family: Ehrenreich
       given: Barbara
@@ -8176,16 +8199,25 @@ references:
     - year: 2004
       month: 5
       day: 10
+<<<<<<< HEAD
   note: >-
     mlzsync1:0168{"extrafields":{"jurisdiction":"002usUnited
     States|US","committee":"Subcommittee on Employer-Employee Relations of the
     House Committee on Education and the Workforce"}}
+=======
+  jurisdiction: U.S.
+>>>>>>> parent of 3fdbc06 (update)
   section: >-
     Subcommittee on Employer-Employee Relations of the House Committee on
     Education and the Workforce
   title: >-
     Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S.
+<<<<<<< HEAD
     Economy
+=======
+    Economy: Hearing before the Subcomm. on Employer-Employee Relations of the
+    H. Comm. on Education and the Workforce
+>>>>>>> parent of 3fdbc06 (update)
   title-short: Examining Union Salting Abuses
   type: hearing
 
@@ -9960,6 +9992,7 @@ references:
   URL: >-
     http://jacobinmag.com/2017/02/labor-unions-workers-salts-students-organizing/
 
+<<<<<<< HEAD
 - id: fosterDoesMultistateBar2021
   abstract: >-
     2020 brought many challenges, which included administering the bar exam. 
@@ -9971,6 +10004,9 @@ references:
     practice. On the contrary, it is an artificial barrier to practice—one that
     harms the public by failing to screen for the knowledge and skills that
     clients need from their attorneys.
+=======
+- id: Foster2021
+>>>>>>> parent of 3fdbc06 (update)
   author:
     - family: Foster
       given: Steven
@@ -10744,11 +10780,19 @@ references:
   title-short: Marginal Workers
   type: book
 
+<<<<<<< HEAD
 - id: Garden2018
   author:
     - family: Garden
       given: Charlotte
   citation-key: Garden2018
+=======
+- id: Garden2018a
+  author:
+    - family: Garden
+      given: Charlotte
+  citation-key: Garden2018a
+>>>>>>> parent of 3fdbc06 (update)
   container-title: Saint Louis University Law Journal
   container-title-short: St. Louis U. L.J.
   issue: '1'
@@ -11103,7 +11147,11 @@ references:
       given: Glenda Elizabeth
     - family: Ph.D
       given: Glenda Elizabeth Gilmore
+<<<<<<< HEAD
   citation-key: gilmoreDefyingDixieRadical2008
+=======
+  citation-key: Gilmore2008
+>>>>>>> parent of 3fdbc06 (update)
   ISBN: 978-0-393-06244-1
   issued:
     - year: 2008
@@ -11119,12 +11167,16 @@ references:
   authority: D. Md.
   citation-key: GinwrightExeterFinance2016
   issued:
+<<<<<<< HEAD
     - year: 2016
       month: 10
       day: 6
   note: >-
     mlzsync1:0091{"extrafields":{"jurisdiction":"010us:c4:md.dUnited
     States|US|Fourth Circuit|D. Maryland"}}
+=======
+    - literal: 2016-10-0006
+>>>>>>> parent of 3fdbc06 (update)
   number: No. TDC-16-0565
   title: Ginwright v. Exeter Finance Corp.
   type: legal_case
@@ -12258,12 +12310,16 @@ references:
   authority: M.D.N.C.
   citation-key: HanksCoan1999
   issued:
+<<<<<<< HEAD
     - year: 1999
       month: 8
       day: 17
   note: >-
     mlzsync1:0100{"extrafields":{"jurisdiction":"011us:c4:nc.mdUnited
     States|US|Fourth Circuit|M.D. North Carolina"}}
+=======
+    - literal: 1999-08-0017
+>>>>>>> parent of 3fdbc06 (update)
   number: No. 1:99CV00119
   title: Hanks v. Coan
   title-short: Hanks
@@ -14304,6 +14360,7 @@ references:
   type: webpage
   URL: http://jacobinmag.com/2017/03/salts-union-organizing-nlrb-obama-trump-labor
 
+<<<<<<< HEAD
 - id: johnsonSocialMovementSize2008
   abstract: >-
     During the 1960s and 70s the United States environmental movement
@@ -14338,6 +14395,8 @@ references:
   URL: http://www.jstor.org/stable/20430784
   volume: '86'
 
+=======
+>>>>>>> parent of 3fdbc06 (update)
 - id: JohnsonSpencer2020
   authority: 10th Cir.
   citation-key: JohnsonSpencer2020
@@ -15343,12 +15402,16 @@ references:
   authority: E.D. Mich.
   citation-key: KingWhitmer2021
   issued:
+<<<<<<< HEAD
     - year: 2021
       month: 8
       day: 25
   note: >-
     mlzsync1:0093{"extrafields":{"jurisdiction":"011us:c6:mi.edUnited
     States|US|Sixth Circuit|E.D. Michigan"}}
+=======
+    - literal: 2021-08-0025
+>>>>>>> parent of 3fdbc06 (update)
   number: No. 20-13134
   title: King v. Whitmer
   title-short: King
@@ -16014,12 +16077,16 @@ references:
   authority: Supreme Court
   citation-key: KuhnFairmontCoal1910
   issued:
+<<<<<<< HEAD
     - year: 1910
       month: 1
       day: 3
   note: >-
     mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
     States|US"}}
+=======
+    - literal: 1910-01-0003
+>>>>>>> parent of 3fdbc06 (update)
   page: '349'
   title: Kuhn v. Fairmont Coal Co.
   type: legal_case
@@ -16111,6 +16178,7 @@ references:
   URL: >-
     https://www.theatlantic.com/business/archive/2016/03/undercover-union-organizer/474387/
 
+<<<<<<< HEAD
 - id: landryFairResponsesUnfair2016
   abstract: >-
     American labor law classifies strikes according to both purpose and form. In
@@ -16137,6 +16205,9 @@ references:
     strikers should be broader given that these strikes' primary purpose is not
     to wage an economic battle but, alternatively, to compel an employer to
     comply with the requirements of existing labor law.
+=======
+- id: Landry2016
+>>>>>>> parent of 3fdbc06 (update)
   author:
     - family: Landry
       given: Joseph R.
@@ -18109,6 +18180,7 @@ references:
   title-short: States, War, and Capitalism
   type: book
 
+<<<<<<< HEAD
 - id: Marceau2015
   author:
     - family: Marceau
@@ -18137,6 +18209,21 @@ references:
     media―radio broadcasts, confession magazines, and tabloid
     newspapers―Professor Marchand describes how advertisers manipulated modern
     art and photography to promote an enduring "consumption ethic."
+=======
+- id: MannoElecInc1996
+  authority: N.L.R.B.
+  citation-key: MannoElecInc1996
+  container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
+  issued:
+    - year: 1996
+  page: '297'
+  title: Manno Elec., Inc.
+  type: legal_case
+  volume: '321'
+
+- id: Marchand1985
+>>>>>>> parent of 3fdbc06 (update)
   author:
     - family: Marchand
       given: Roland
@@ -18392,7 +18479,11 @@ references:
       given: Karl
     - family: Mandel
       given: Ernest
+<<<<<<< HEAD
   citation-key: marxCapitalCritiquePolitical1992
+=======
+  citation-key: Marx1992
+>>>>>>> parent of 3fdbc06 (update)
   edition: Reprint edition
   event-place: London ; New York, N.Y
   ISBN: 978-0-14-044568-8
@@ -18432,7 +18523,11 @@ references:
       given: Karl
     - family: Mandel
       given: Ernest
+<<<<<<< HEAD
   citation-key: marxCapitalCritiquePolitical1993
+=======
+  citation-key: Marx1993a
+>>>>>>> parent of 3fdbc06 (update)
   edition: Reprint edition
   event-place: London
   ISBN: 978-0-14-044569-5
@@ -18478,7 +18573,11 @@ references:
       given: Karl
     - family: Mandel
       given: Ernest
+<<<<<<< HEAD
   citation-key: marxCapitalCritiquePolitical1993a
+=======
+  citation-key: Marx1993b
+>>>>>>> parent of 3fdbc06 (update)
   edition: Reissue edition
   event-place: New York, N.Y., U.S.A
   ISBN: 978-0-14-044570-1
@@ -18553,24 +18652,6 @@ references:
   type: legal_case
   volume: '489'
 
-- id: Matheny&CrainDisloyalty2003
-  author:
-    - family: Matheny
-      given: Ken
-    - family: Crain
-      given: Marion
-  citation-key: Matheny&CrainDisloyalty2003
-  container-title: North Carolina Law Review
-  container-title-short: N.C. L. Rev.
-  issue: '5'
-  issued:
-    - year: 2003
-    - year: 2004
-  page: 1705-1758
-  title: Disloyal Workers and the Un-American Labor Law
-  type: article-journal
-  volume: '82'
-
 - id: MatsushitaElecIndus1986
   authority: supreme.court
   citation-key: MatsushitaElecIndus1986
@@ -18589,12 +18670,16 @@ references:
   authority: Court of Appeals
   citation-key: MatterCooperman1994
   issued:
+<<<<<<< HEAD
     - year: 1994
       month: 3
       day: 17
   note: >-
     mlzsync1:0087{"extrafields":{"reporter":"NE
     2d","jurisdiction":"005us:nyUnited States|US|New York"}}Jurisdiction: NY
+=======
+    - literal: 1994-03-0017
+>>>>>>> parent of 3fdbc06 (update)
   page: '1069'
   title: Matter of Cooperman
   type: legal_case
@@ -18604,12 +18689,16 @@ references:
   authority: Appellate Div., 1st Dept.
   citation-key: MatterGiuliani2021
   issued:
+<<<<<<< HEAD
     - year: 2021
       month: 6
       day: 24
   note: >-
     mlzsync1:0087{"extrafields":{"reporter":"AD
     3d","jurisdiction":"005us:nyUnited States|US|New York"}}Jurisdiction: NY
+=======
+    - literal: 2021-06-0024
+>>>>>>> parent of 3fdbc06 (update)
   page: '1'
   title: Matter of Giuliani
   type: legal_case
@@ -19262,6 +19351,7 @@ references:
   URL: https://browzine.com/articles/488443958
   volume: '52'
 
+<<<<<<< HEAD
 - id: McGinley2012
   author:
     - family: McGinley
@@ -19317,6 +19407,9 @@ references:
     anti-corporatism. The case studies explored in Food for Dissent indicate the
     limits of using conscientious eating, shopping, and selling as tools for
     civic activism.
+=======
+- id: McGrath2019
+>>>>>>> parent of 3fdbc06 (update)
   author:
     - family: McGrath
       given: Maria
@@ -19489,7 +19582,11 @@ references:
       given: Stephanie M.
   citation-key: Merabet2013
   container-title: Suffolk University Law Review
+<<<<<<< HEAD
   container-title-short: Suffolk U. L. Rev.
+=======
+  container-title-short: Suffolk Univ. Law Rev.
+>>>>>>> parent of 3fdbc06 (update)
   issue: '4'
   issued:
     - year: 2013
@@ -19501,6 +19598,7 @@ references:
   type: article-journal
   volume: '46'
 
+<<<<<<< HEAD
 - id: merleZombieDebtHow
   abstract: >-
     Consumer advocates say there's an accelerating effort within the $11 billion
@@ -19534,6 +19632,9 @@ references:
     Nations (UN) meetings such as the UN Special Session, called Beijing Plus
     Five, in 2000, the Commission on
   archive: JSTOR
+=======
+- id: Merry2014
+>>>>>>> parent of 3fdbc06 (update)
   author:
     - family: Merry
       given: Sally Engle
@@ -21111,12 +21212,16 @@ references:
   authority: Supreme Court
   citation-key: NixWhiteside1986
   issued:
+<<<<<<< HEAD
     - year: 1986
       month: 2
       day: 26
   note: >-
     mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
     States|US"}}
+=======
+    - literal: 1986-02-0026
+>>>>>>> parent of 3fdbc06 (update)
   page: '157'
   title: Nix v. Whiteside
   type: legal_case
@@ -21234,8 +21339,22 @@ references:
   title: Institutions, Institutional Change and Economic Performance
   type: book
 
+<<<<<<< HEAD
 - id: Notepad
   citation-key: Notepad
+=======
+- id: NorthDakotaAgGag1991
+  citation-key: NorthDakotaAgGag1991
+  container-title: ND Cent. Code
+  issued:
+    - year: 1991
+  section: 12.1-21.1-01
+  title: ND AgGag
+  type: legislation
+
+- id: Notepad_nd
+  citation-key: Notepad_nd
+>>>>>>> parent of 3fdbc06 (update)
   title: Notepad++
   type: webpage
   URL: https://notepad-plus-plus.org/
@@ -23243,7 +23362,10 @@ references:
   language: English
   number-of-pages: '30'
   publisher: YIVO Institute for Jewish Research.
+<<<<<<< HEAD
   source: Amazon
+=======
+>>>>>>> parent of 3fdbc06 (update)
   title: The Story of the Jewish Labor Bund, 1897-1997; A Centennial Exhibition
   type: book
 
@@ -24883,12 +25005,16 @@ references:
   authority: Supreme Court
   citation-key: ShaperoKentuckyBar1988
   issued:
+<<<<<<< HEAD
     - year: 1988
       month: 6
       day: 13
   note: >-
     mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
     States|US"}}
+=======
+    - literal: 1988-06-0013
+>>>>>>> parent of 3fdbc06 (update)
   page: '466'
   title: Shapero v. Kentucky Bar Assn.
   type: legal_case
@@ -24945,12 +25071,16 @@ references:
   authority: 6th Cir.
   citation-key: Shillman2000
   issued:
+<<<<<<< HEAD
     - year: 2000
       month: 6
       day: 29
   note: >-
     mlzsync1:0073{"extrafields":{"jurisdiction":"005us:c6United States|US|Sixth
     Circuit"}}
+=======
+    - literal: 2000-06-0029
+>>>>>>> parent of 3fdbc06 (update)
   number: No. 99-3215
   title: Shillman v. U.S.
   title-short: Shillman
@@ -25539,11 +25669,15 @@ references:
   issue: '8'
   issued:
     - year: 1963
+<<<<<<< HEAD
   note: >-
     mlzsync1:0066{"extrafields":{"publisher":"The Yale Law Journal Company,
     Inc."}}Citation Key: SouthAmendedBarratry1963
   page: 1613-1645
   source: JSTOR
+=======
+  page: 1613-1645
+>>>>>>> parent of 3fdbc06 (update)
   title: >-
     The South's Amended Barratry Laws: An Attempt to End Group Pressure Through
     the Courts
@@ -25556,10 +25690,14 @@ references:
   authority: Supreme Court
   citation-key: SouthernPacificCo1916
   issued:
+<<<<<<< HEAD
     - literal: Argued February 28, 1916
   note: >-
     mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
     States|US"}}
+=======
+    - literal: 1916-02-0028
+>>>>>>> parent of 3fdbc06 (update)
   page: '205'
   title: Southern Pacific Co. v. Jensen
   type: legal_case
@@ -27214,12 +27352,16 @@ references:
   authority: Supreme Court
   citation-key: TogstadVeselyOtto1980
   issued:
+<<<<<<< HEAD
     - year: 1980
       month: 4
       day: 11
   note: >-
     mlzsync1:0088{"extrafields":{"reporter":"NW
     2d","jurisdiction":"005us:mnUnited States|US|Minnesota"}}Jurisdiction: Minn
+=======
+    - literal: 1980-04-0011
+>>>>>>> parent of 3fdbc06 (update)
   page: '686'
   title: Togstad v. Vesely, Otto, Miller & Keefe
   type: legal_case
@@ -27535,12 +27677,16 @@ references:
   authority: N.D. Ga.
   citation-key: TrumpCNNBroadcasting2020
   issued:
+<<<<<<< HEAD
     - year: 2020
       month: 11
       day: 12
   note: >-
     mlzsync1:0096{"extrafields":{"jurisdiction":"012us:c11:ga.ndUnited
     States|US|Eleventh Circuit|N.D. Georgia"}}
+=======
+    - literal: 2020-11-0012
+>>>>>>> parent of 3fdbc06 (update)
   number: No. 1:20-cv-01045
   title: Trump v. CNN Broadcasting, Inc.
   type: legal_case
@@ -27550,6 +27696,7 @@ references:
   citation-key: TSGFinishingLLC2014
   container-title: SE 2d
   issued:
+<<<<<<< HEAD
     - year: 2014
       month: 12
       day: 31
@@ -27557,6 +27704,9 @@ references:
     mlzsync1:0093{"extrafields":{"reporter":"SE
     2d","jurisdiction":"005us:ncUnited States|US|North Carolina"}}Jurisdiction:
     NC
+=======
+    - literal: 2014-12-0031
+>>>>>>> parent of 3fdbc06 (update)
   page: '870'
   title: TSG Finishing, LLC v. Bollinger
   type: legal_case
@@ -27680,6 +27830,7 @@ references:
   type: article-journal
   volume: '37'
 
+<<<<<<< HEAD
 - id: tylerProceduralJusticePolicing2016
   author:
     - family: Tyler
@@ -27711,6 +27862,9 @@ references:
     Three basic sources of support are compared: crime-related concerns,
     concerns
   archive: JSTOR
+=======
+- id: Tyler2014
+>>>>>>> parent of 3fdbc06 (update)
   author:
     - family: Tyler
       given: Tom R.
@@ -27865,6 +28019,10 @@ references:
       given: Ellyn
   citation-key: VanBourg1998
   container-title: Hofstra Labor & Employment Law Journal
+<<<<<<< HEAD
+=======
+  container-title-short: Hofstra Labor Employ. Law J.
+>>>>>>> parent of 3fdbc06 (update)
   issued:
     - year: 1998
   page: '1'
@@ -27874,7 +28032,11 @@ references:
   type: article-journal
   volume: '16'
 
+<<<<<<< HEAD
 - id: vandewalleDoeWalMartRevisiting2009
+=======
+- id: VandeWalle2009
+>>>>>>> parent of 3fdbc06 (update)
   author:
     - family: Van de Walle
       given: Julia S.
@@ -27942,7 +28104,11 @@ references:
   author:
     - family: VEČERNÍK
       given: JIŘĺ
+<<<<<<< HEAD
   citation-key: vecernikHouseholdConsumptionCzech2008
+=======
+  citation-key: VECERNIK2008
+>>>>>>> parent of 3fdbc06 (update)
   container-title: Polish Sociological Review
   ISSN: 1231-1413
   issue: '162'
@@ -28178,7 +28344,11 @@ references:
   URL: >-
     http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
 
+<<<<<<< HEAD
 - id: wardEndowmentEffectEmpirical2004
+=======
+- id: Ward2004
+>>>>>>> parent of 3fdbc06 (update)
   author:
     - family: Ward
       given: James Robert III
@@ -28238,12 +28408,16 @@ references:
   authority: D.N.D.
   citation-key: WeatherModificationLLC2021
   issued:
+<<<<<<< HEAD
     - year: 2021
       month: 7
       day: 6
   note: >-
     mlzsync1:0095{"extrafields":{"jurisdiction":"010us:c8:nd.dUnited
     States|US|Eighth Circuit|D. North Dakota"}}
+=======
+    - literal: 2021-07-0006
+>>>>>>> parent of 3fdbc06 (update)
   number: No. 3:20-cv-73
   title: Weather Modification LLC v. Brackin
   title-short: Brackin
@@ -29503,12 +29677,16 @@ references:
   authority: Supreme Court
   citation-key: ZaudererOfficeDisciplinary1985
   issued:
+<<<<<<< HEAD
     - year: 1985
       month: 1
       day: 7
   note: >-
     mlzsync1:0072{"extrafields":{"reporter":"US","jurisdiction":"002usUnited
     States|US"}}
+=======
+    - literal: 1985-01-0007
+>>>>>>> parent of 3fdbc06 (update)
   page: '626'
   title: Zauderer v. Office of Disciplinary Counsel of Supreme Court of Ohio
   type: legal_case
