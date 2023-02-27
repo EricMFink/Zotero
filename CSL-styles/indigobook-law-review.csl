@@ -483,12 +483,7 @@
             <text macro="at_page"/>
           </if>
           <else-if type="legislation">
-<<<<<<< HEAD
-            <text macro="short-source"/>
-            <text macro="at_page"/>
-=======
             <text macro="source"/>
->>>>>>> parent of 20256e0 (Revert "Merge branch 'main' of github.com:EricMFink/JurisM")
           </else-if>
           <else>
             <choose>
