@@ -2,670 +2,19 @@
 references:
 - id: ''
   author:
-    - family: Foner
-      given: Philip S.
+    - family: Kennedy
+      given: Duncan
   citation-key: ''
-  edition: First Edition
-  event-place: New York
-  ISBN: 978-0-7178-0652-2
-  issued:
-    - year: 1987
-      month: 10
-  language: English
-  number-of-pages: '305'
-  publisher: Intl Pub
-  publisher-place: New York
-  title: >-
-    History of the Labor Movement in the United Statesm, Vol. 8: Postwar
-    Struggles 1918 -1920
-  title-short: History of the Labor Movement in the United States
-  type: book
-
-- id: ''
-  author:
-    - family: Foner
-      given: Philip S.
-  citation-key: ''
-  edition: 1st ed edition
-  event-place: New York, NY
-  ISBN: 978-0-7178-0627-0
-  issued:
-    - year: 1987
-      month: 5
-  language: English
-  number-of-pages: '410'
-  publisher: International Publishers Co
-  publisher-place: New York, NY
-  title: >-
-    History of the Labor Movement in the United States, Vol. 7: Labor and World
-    War I, 1914-1918
-  title-short: History of the Labor Movement in the United States
-  type: book
-
-- id: ''
-  author:
-    - family: Foner
-      given: Philip S.
-  citation-key: ''
+  container-title: Industrial Relations Law Journal
+  ISSN: 0145-188X
+  issue: '3'
   issued:
     - year: 1981
-  publisher: New York International Publishers 1981.
-  title: >-
-    History of the Labor Movement in the United States, Vol. 3: The policies and
-    practices of the American Federation of labor, 1900-1909.
-  type: book
-
-- id: ''
-  author:
-    - family: Foner
-      given: Philip S.
-  citation-key: ''
-  edition: New edition edition
-  event-place: New York, NY
-  ISBN: 978-0-7178-0376-7
-  issued:
-    - year: 1979
-      month: 6
-  language: English
-  number-of-pages: '580'
-  publisher: Intl Pub
-  publisher-place: New York, NY
-  title: >-
-    History of the Labor Movement in the United States, Vol. 1: From Colonial
-    Times to the Founding of the American Federation of Labor
-  title-short: History of the Labor Movement in the United States, Vol. 1
-  type: book
-
-- id: ''
-  author:
-    - family: Foner
-      given: Philip S.
-  citation-key: ''
-  edition: 1st edition
-  ISBN: 978-0-87348-828-0
-  issued:
-    - year: 1977
-  language: English
-  number-of-pages: '341'
-  publisher: Pathfinder Press
-  title: The Great Labor Uprising of 1877
-  type: book
-
-- id: ''
-  author:
-    - family: Flaubert
-      given: Gustave
-  citation-key: ''
-  ISBN: 978-0-14-139467-1
-  issued:
-    - year: 2015
-  language: en
-  original-date:
-    - year: 1857
-  publisher: Penguin Classics
-  title: Madame Bovary
-  type: book
-
-- id: ''
-  author:
-    - family: Fisman
-      given: Ray
-    - family: Sullivan
-      given: Tim
-  citation-key: ''
-  edition: 1 edition
-  event-place: New York
-  ISBN: 978-1-61039-492-5
-  issued:
-    - literal: 2016-06-0007
-  language: English
-  number-of-pages: '224'
-  publisher: PublicAffairs
-  publisher-place: New York
-  title: 'The Inner Lives of Markets: How People Shape Them-And They Shape Us'
-  title-short: The Inner Lives of Markets
-  type: book
-
-- id: ''
-  author:
-    - family: Feldacker
-      given: Bruce S.
-    - family: Hayes
-      given: Michael J.
-  citation-key: ''
-  ISBN: 978-0-8014-5458-5
-  issued:
-    - year: 2014
-      month: 8
-  language: en
-  number-of-pages: '657'
-  publisher: Cornell University Press
-  title: Labor Guide to Labor Law
-  type: book
-
-- id: ''
-  author:
-    - family: Evans-Pritchard
-      given: Sir Edward
-  citation-key: ''
-  event-place: New York
-  issued:
-    - year: 1981
-  publisher: Basic
-  publisher-place: New York
-  title: A History of Anthropological Thought
-  type: book
-
-- id: ''
-  author:
-    - family: Foner
-      given: Philip S.
-  citation-key: ''
-  edition: Second Printing edition
-  event-place: New York, NY
-  ISBN: 978-0-7178-0396-5
-  issued:
-    - year: 1965
-      month: 6
-  language: English
-  number-of-pages: '600'
-  publisher: Intl Pub
-  publisher-place: New York, NY
-  title: >-
-    History of the Labor Movement in the United States, Vol. 4: Industrial
-    Workers of the World
-  title-short: History of the Labor Movement in the United States
-  type: book
-
-- id: ''
-  author:
-    - family: Fields
-      given: Barbara J.
-    - family: Fields
-      given: Karen E.
-  citation-key: ''
-  ISBN: 978-1-83976-564-3
-  issued:
-    - year: 2022
-      month: 2
-  language: en
-  number-of-pages: '321'
-  publisher: Verso Books
-  title: 'Racecraft: The Soul of Inequality in American Life'
-  title-short: Racecraft
-  type: book
-
-- id: ''
-  author:
-    - family: Feigenson
-      given: Neal
-  citation-key: ''
-  ISBN: 978-1-55798-677-1
-  issued:
-    - year: 2000
-  language: en
-  number-of-pages: '301'
-  publisher: American Psychological Association
-  title: 'Legal Blame: How Jurors Think and Talk about Accidents'
-  title-short: Legal Blame
-  type: book
-
-- id: ''
-  citation-key: ''
-  editor:
-    - family: Featherstone
-      given: Mark
-  ISBN: 978-1-4473-3952-6
-  issued:
-    - year: 2019
-      month: 6
-  language: English
-  number-of-pages: '224'
-  publisher: Policy Press
-  title: The Sociology of Debt
-  type: book
-
-- id: ''
-  author:
-    - family: Ewen
-      given: Stuart
-  citation-key: ''
-  edition: 25 edition
-  event-place: New York, NY
-  ISBN: 978-0-465-02155-0
-  issued:
-    - literal: 2001-06-0028
-  language: English
-  number-of-pages: '272'
-  publisher: Basic Books
-  publisher-place: New York, NY
-  title: >-
-    Captains of Consciousness: Advertising and the Social Roots of the Consumer
-    Culture, 25th Anniversary Edition
-  title-short: Captains of Consciousness
-  type: book
-
-- id: ''
-  author:
-    - family: Ertman
-      given: Thomas
-  citation-key: ''
-  ISBN: 978-0-521-48427-5
-  issued:
-    - literal: 1997-01-0013
-  language: en
-  number-of-pages: '386'
-  publisher: Cambridge University Press
-  title: >-
-    Birth of the Leviathan: Building States and Regimes in Medieval and Early
-    Modern Europe
-  title-short: Birth of the Leviathan
-  type: book
-
-- id: ''
-  author:
-    - family: Ehrenreich
-      given: Barbara
-  citation-key: ''
-  edition: First edition
-  event-place: New York
-  ISBN: 978-0-312-62668-6
-  issued:
-    - year: 2011
-      month: 8
-  language: English
-  number-of-pages: '256'
-  publisher: Picador
-  publisher-place: New York
-  title: 'Nickel and Dimed: On (Not) Getting By in America'
-  title-short: Nickel and Dimed
-  type: book
-
-- id: ''
-  author:
-    - family: Dubofsky
-      given: Melvyn
-    - family: McCartin
-      given: Joseph A.
-  citation-key: ''
-  edition: 9 edition
-  event-place: Southern Gate, Chichester, West Sussex, UK
-  ISBN: 978-1-118-97684-5
-  issued:
-    - year: 2017
-      month: 5
-  language: English
-  number-of-pages: '496'
-  publisher: Wiley-Blackwell
-  publisher-place: Southern Gate, Chichester, West Sussex, UK
-  title: 'Labor in America: A History'
-  title-short: Labor in America
-  type: book
-
-- id: ''
-  citation-key: ''
-  edition: 2005 edition
-  editor:
-    - family: Dubofsky
-      given: Melvyn
-  event-place: New York, NY
-  ISBN: 978-0-312-29564-6
-  issued:
-    - year: 2005
-      month: 3
-  language: English
-  number-of-pages: '328'
-  publisher: Palgrave Macmillan
-  publisher-place: New York, NY
-  title: 'American Labor: A Documentary Collection'
-  title-short: American Labor
-  type: book
-
-- id: ''
-  author:
-    - family: Ray
-      given: Douglas E.
-    - family: Strassfeld
-      given: Robert N.
-  citation-key: ''
-  edition: 5th Edition
-  issued:
-    - year: 2019
-  language: en
-  publisher: Carolina Academic Press
-  title: Understanding Labor Law
-  type: book
-
-- id: ''
-  author:
-    - family: Domhoff
-      given: G. William
-  citation-key: ''
-  ISBN: 978-1-351-47664-5
-  issued:
-    - literal: 2017-09-0029
-  language: en
-  number-of-pages: '395'
-  publisher: Routledge
-  title: The Power Elite and the State
-  type: book
-
-- id: ''
-  author:
-    - family: Dodd
-      given: Nigel
-  citation-key: ''
-  edition: Revised edition
-  event-place: Princeton Oxford
-  ISBN: 978-0-691-16917-0
-  issued:
-    - literal: 2016-02-0009
-  language: English
-  number-of-pages: '464'
-  publisher: Princeton University Press
-  publisher-place: Princeton Oxford
-  title: The Social Life of Money
-  type: book
-
-- id: ''
-  author:
-    - family: Ernst
-      given: Daniel R
-  citation-key: ''
-  issued:
-    - year: 1995
-  publisher: University of Illinois Press
-  title: 'Lawyers Against Labor: From Individual Rights to Corporate Liberalism'
-  type: book
-
-- id: ''
-  author:
-    - family: Edin
-      given: Kathryn
-    - family: Shaefer
-      given: H. Luke
-  citation-key: ''
-  edition: Reprint edition
-  ISBN: 978-0-544-81195-9
-  issued:
-    - literal: 2016-09-0013
-  language: English
-  number-of-pages: '240'
-  publisher: Mariner Books
-  title: '$2.00 a Day: Living on Almost Nothing in America'
-  title-short: $2.00 a Day
-  type: book
-
-- id: ''
-  author:
-    - family: D'Souza
-      given: Radha
-  citation-key: ''
-  ISBN: 978-0-7453-3541-4
-  issued:
-    - year: 2018
-  publisher: Pluto Press
-  title: Social Movements, Law and Liberal Imaginations
-  type: book
-
-- id: ''
-  author:
-    - family: Drehle
-      given: David
-  citation-key: ''
-  edition: Reprint edition
-  event-place: New York
-  ISBN: 978-0-8021-4151-4
-  issued:
-    - year: 2004
-      month: 8
-  language: English
-  number-of-pages: '352'
-  publisher: Grove Press
-  publisher-place: New York
-  title: 'Triangle: The Fire That Changed America'
-  title-short: Triangle
-  type: book
-
-- id: ''
-  author:
-    - family: Dickens
-      given: Charles
-  citation-key: ''
-  issued:
-    - year: 2003
-  language: en-US
-  original-date:
-    - year: 1852
-  publisher: Penguin Classics
-  title: Bleak House
-  type: book
-
-- id: ''
-  author:
-    - family: Dickens
-      given: Charles
-  citation-key: ''
-  issued:
-    - year: 1988
-  language: en-US
-  original-date:
-    - year: 1837
-    - year: 39
-  publisher: Penguin Classics
-  title: Oliver Twist
-  type: book
-
-- id: ''
-  author:
-    - family: Devins
-      given: Neal
-    - family: Fisher
-      given: Louis
-  citation-key: ''
-  ISBN: 978-0-19-803822-1
-  issued:
-    - literal: 2004-08-0026
-  language: en
-  number-of-pages: '316'
-  publisher: Oxford University Press
-  title: The Democratic Constitution
-  type: book
-
-- id: ''
-  author:
-    - family: Desmond
-      given: Matthew
-  citation-key: ''
-  edition: Reprint edition
-  event-place: New York
-  ISBN: 978-0-553-44745-3
-  issued:
-    - literal: 2017-02-0028
-  language: English
-  number-of-pages: '448'
-  publisher: Broadway Books
-  publisher-place: New York
-  title: 'Evicted: Poverty and Profit in the American City'
-  title-short: Evicted
-  type: book
-
-- id: ''
-  citation-key: ''
-  edition: '1'
-  editor:
-    - family: Deo
-      given: Meera E.
-    - family: Lazarus-Black
-      given: Mindie
-    - family: Mertz
-      given: Elizabeth
-  ISBN: 978-0-367-19943-2
-  issued:
-    - literal: 2019-10-0010
-  language: en
-  publisher: Routledge
-  title: Power, Legal Education, and Law School Cultures
-  type: book
-
-- id: ''
-  author:
-    - family: Denis
-      given: Ann
-    - family: Kalekin-Fishman
-      given: Devorah
-  citation-key: ''
-  ISBN: 978-1-84920-512-2
-  issued:
-    - literal: 2009-03-0031
-  language: en
-  number-of-pages: '505'
-  publisher: SAGE
-  title: The ISA Handbook in Contemporary Sociology
-  type: book
-
-- id: ''
-  author:
-    - family: DeCarlo
-      given: John
-    - family: Jenkins
-      given: Michael J
-  citation-key: ''
-  issued:
-    - year: 2015
-  publisher: Springer
-  title: >-
-    Labor Unions, Management Innovation and Organizational Change in Police
-    Departments
-  type: book
-
-- id: ''
-  author:
-    - family: Davis
-      given: Gerald F.
-    - family: McAdam
-      given: Doug
-    - family: Scott
-      given: W. Richard
-    - family: Zald
-      given: Mayer N.
-  citation-key: ''
-  ISBN: 978-1-139-44419-4
-  issued:
-    - literal: 2005-05-0009
-  language: en
-  number-of-pages: '454'
-  publisher: Cambridge University Press
-  title: Social Movements and Organization Theory
-  type: book
-
-- id: ''
-  author:
-    - family: Devins
-      given: Neal
-    - family: Baum
-      given: Lawrence
-  citation-key: ''
-  ISBN: 978-0-19-027805-2
-  issued:
-    - year: 2019
-  language: en
-  number-of-pages: '273'
-  publisher: Oxford University Press
-  title: 'The Company They Keep: How Partisan Divisions Came to the Supreme Court'
-  title-short: The Company They Keep
-  type: book
-
-- id: ''
-  author:
-    - family: Dahl
-      given: Robert A.
-  citation-key: ''
-  ISBN: 978-0-300-09524-1
-  issued:
-    - year: 2003
-  language: en
-  number-of-pages: '235'
-  publisher: Yale University Press
-  title: 'How Democratic is the American Constitution?: Second Edition'
-  title-short: How Democratic is the American Constitution?
-  type: book
-
-- id: ''
-  author:
-    - family: Dahl
-      given: Robert
-  citation-key: ''
-  ISBN: 978-0-8290-3570-4
-  issued:
-    - literal: 1993-08-0001
-  language: en
-  number-of-pages: book
-  publisher: Ardent Media Incorporated
-  title: 'Decision Making in a Democracy: The Supreme Court As a National Policy Maker'
-  title-short: Decision Making in a Democracy
-  type: book
-
-- id: ''
-  citation-key: ''
-  edition: 1 edition
-  editor:
-    - family: Cole
-      given: Peter
-    - family: Struthers
-      given: David
-    - family: Zimmer
-      given: Kenyon
-  event-place: London
-  ISBN: 978-0-7453-9959-1
-  issued:
-    - year: 2017
-      month: 11
-  language: English
-  number-of-pages: '320'
-  publisher: Pluto Press
-  publisher-place: London
-  title: 'Wobblies of the World: A Global History of the IWW'
-  title-short: Wobblies of the World
-  type: book
-
-- id: ''
-  author:
-    - family: Cobbs
-      given: Elizabeth
-    - family: Blum
-      given: Edward J.
-    - family: Gjerde
-      given: Jon
-  citation-key: ''
-  edition: 4 edition
-  ISBN: 978-1-305-58530-0
-  issued:
-    - year: 2016
-  language: English
-  number-of-pages: '528'
-  publisher: Cengage Learning
-  title: Major Problems in American History, Volume II
-  type: book
-
-- id: ''
-  author:
-    - family: Cudworth
-      given: Erika
-    - family: Hall
-      given: Timothy
-    - family: McGovern
-      given: John
-  citation-key: ''
-  ISBN: 978-0-7486-2175-0
-  issued:
-    - year: 2007
-  language: en
-  number-of-pages: '350'
-  publisher: Edinburgh University Press
-  title: 'The Modern State: Theories and Ideologies'
-  title-short: The Modern State
-  type: book
+  page: 503-506
+  title: 'Critical Labor Law Theory: A Comment'
+  title-short: Critical Labor Law Theory
+  type: article-journal
+  volume: '4'
 
 - id: Aaron&FinkinDisloyalty1998
   author:
@@ -685,20 +34,6 @@ references:
   type: article-journal
   volume: '20'
 
-- id: Abbott1988
-  author:
-    - family: Abbott
-      given: Andrew
-  citation-key: Abbott1988
-  event-place: Chicago
-  issued:
-    - year: 1988
-  language: en
-  publisher: University of Chicago Press
-  publisher-place: Chicago
-  title: 'The System of Professions: An Essay on the Division of Expert Labor'
-  type: book
-
 - id: abbottSystemProfessionsEssay1988
   author:
     - family: Abbott
@@ -711,67 +46,6 @@ references:
   publisher: University of Chicago Press
   publisher-place: Chicago
   title: 'The System of Professions: An Essay on the Division of Expert Labor'
-  type: book
-
-- id: Abel1991
-  author:
-    - family: Abel
-      given: Richard L.
-  citation-key: Abel1991
-  ISBN: 978-0-19-507263-1
-  issued:
-    - year: 1991
-  language: en
-  number-of-pages: '423'
-  publisher: Oxford University Press
-  title: American Lawyers
-  type: book
-
-- id: Abel1995
-  author:
-    - family: Abel
-      given: Richard L.
-  citation-key: Abel1995
-  ISBN: 978-0-8147-0617-6
-  issued:
-    - year: 1995
-      month: 5
-  language: en
-  number-of-pages: '463'
-  publisher: NYU Press
-  title: The Law and Society Reader
-  type: book
-
-- id: Abel1995a
-  author:
-    - family: Abel
-      given: Richard L.
-    - family: Abel
-      given: Peter
-  citation-key: Abel1995a
-  ISBN: 978-0-415-90817-7
-  issued:
-    - year: 1995
-  language: en
-  number-of-pages: '670'
-  publisher: Psychology Press
-  title: 'Politics by Other Means: Law in the Struggle Against Apartheid, 1980-1994'
-  title-short: Politics by Other Means
-  type: book
-
-- id: Abel2011
-  author:
-    - family: Abel
-      given: Richard L.
-  citation-key: Abel2011
-  ISBN: 978-0-19-976037-4
-  issued:
-    - year: 2011
-  language: en
-  number-of-pages: '514'
-  publisher: Oxford University Press
-  title: 'Lawyers on Trial: Understanding Ethical Misconduct'
-  title-short: Lawyers on Trial
   type: book
 
 - id: abelAmericanLawyers1991
@@ -1439,11 +713,11 @@ references:
   volume: '297'
 
 - id: ALDFvReynolds2021-8thCir
-  authority: 8th Cir.
+  authority: 8th Circuit
   citation-key: ALDFvReynolds2021-8thCir
   container-title: F.4th
   issued:
-    - year: 2021
+    - literal: 2021-08-0010
   page: '781'
   title: Animal Legal Defense Fund v. Reynolds
   title-short: Reynolds
@@ -1487,9 +761,9 @@ references:
   volume: '8'
 
 - id: ALDFvWasden2018-9thCir
-  authority: 9th Cir.
+  authority: 9th Circuit
   citation-key: ALDFvWasden2018-9thCir
-  container-title: F.3d
+  container-title: F. 3d
   issued:
     - year: 2018
   page: '1184'
@@ -2219,14 +1493,6 @@ references:
   title: Arkansas Exceeding Authorized Access
   type: legislation
 
-- id: ArkansasLabelingInc-EDArk
-  authority: E.D. Ark.
-  citation-key: ArkansasLabelingInc-EDArk
-  note: complaint filed Jan. 6, 2020
-  number: 4:19-cv-00773-KGB
-  title: Arkansas Labeling, Inc. v. Proctor
-  type: legal_case
-
 - id: armstrongCrowdsourcingOpenAccess2009
   author:
     - family: Armstrong
@@ -2282,27 +1548,6 @@ references:
   note: >-
     mlzsync1:0065{"extrafields":{"institution":"Social Science Research
     Network"}}Citation Key: armstrongRichTextsWikisource2010
-  number: ID 1566148
-  publisher-place: Rochester, NY
-  source: papers.ssrn.com
-  title: >-
-    Rich Texts: Wikisource as an Open Access Repository for Law and the
-    Humanities
-  title-short: Rich Texts
-  type: report
-  URL: https://papers.ssrn.com/abstract=1566148
-
-- id: armstrongRichTextsWikisource2010a
-  author:
-    - family: Armstrong
-      given: Timothy K.
-  citation-key: armstrongRichTextsWikisource2010a
-  event-place: Rochester, NY
-  genre: SSRN Scholarly Paper
-  issued:
-    - year: 2010
-      month: 3
-  language: en
   number: ID 1566148
   publisher-place: Rochester, NY
   source: papers.ssrn.com
@@ -2522,7 +1767,7 @@ references:
   citation-key: AshfordTRSNickel2018
   container-title: N.L.R.B.
   issued:
-    - year: 2018
+    - literal: 2018-02-0001
   number: 19-CA-032761
   page: No. 6
   title: Ashford TRS Nickel, LLC
@@ -2611,9 +1856,7 @@ references:
   citation-key: ATTMobility2021
   container-title: N.L.R.B.
   issued:
-    - year: 2021
-      month: 5
-      day: 3
+    - literal: 2021-05-0003
   page: No. 121
   title: AT&T Mobility, LLC
   type: legal_case
@@ -2622,11 +1865,12 @@ references:
 - id: AustinMaintenance2012
   authority: N.C. Ct. App.
   citation-key: AustinMaintenance2012
-  container-title: S.E.2d
+  container-title: S.E. 2d
   issued:
     - year: 2012
   page: '535'
-  title: Austin Maintenance v. Crowder Construction
+  title: Austin Maintenance v. Crowder Const.
+  title-short: Austin Maintenance
   type: legal_case
   volume: '742'
 
@@ -3472,20 +2716,6 @@ references:
   title: The Devil & Daniel Webster
   type: article-magazine
 
-- id: benetDevilDanielWebster1936a
-  author:
-    - family: Benét
-      given: Stephen Vincent
-  citation-key: benetDevilDanielWebster1936a
-  container-title: The Saturday Evening Post
-  issued:
-    - year: 1936
-      month: 10
-      day: 24
-  page: '18'
-  title: The Devil & Daniel Webster
-  type: article-magazine
-
 - id: benjaminsLawSemanticWeb2005
   author:
     - family: Benjamins
@@ -4051,7 +3281,7 @@ references:
   title-short: Red State Revolt
   type: book
 
-- id: Blizzard2017
+- id: blizzardNCPropertyProtection2017
   accessed:
     - year: 2018
       month: 12
@@ -4059,7 +3289,7 @@ references:
   author:
     - family: Blizzard
       given: Doug
-  citation-key: Blizzard2017
+  citation-key: blizzardNCPropertyProtection2017
   container-title: CAI Blog
   issued:
     - year: 2017
@@ -4330,9 +3560,7 @@ references:
   citation-key: BoeingCompany2017
   container-title: N.L.R.B.
   issued:
-    - year: 2017
-      month: 12
-      day: 14
+    - literal: 2017-12-0014
   page: No. 154
   title: The Boeing Company
   type: legal_case
@@ -5088,7 +4316,7 @@ references:
 - id: BudAntleInc1994
   authority: 9th Cir.
   citation-key: BudAntleInc1994
-  container-title: F.3d
+  container-title: F. 3d
   issued:
     - year: 1994
   page: '1261'
@@ -5527,7 +4755,7 @@ references:
 - id: CalMaineFarms1993
   authority: 5th Circuit
   citation-key: CalMaineFarms1993
-  container-title: F.2d
+  container-title: F. 2d
   issued:
     - year: 1993
   page: '1336'
@@ -5924,11 +5152,11 @@ references:
   type: legal_case
   volume: '477'
 
-- id: CenterforConstitutionalRights2017
+- id: centerforconstitutionalrightsAgGagAmericaCorporateBacked2017
   author:
     - family: Center for Constitutional Rights
       given: ''
-  citation-key: CenterforConstitutionalRights2017
+  citation-key: centerforconstitutionalrightsAgGagAmericaCorporateBacked2017
   issued:
     - year: 2017
   title: >-
@@ -6084,17 +5312,6 @@ references:
   container-title: U.S.
   issued:
     - literal: Argued November 7, 1983
-  page: '822'
-  title: NLRB v. City Disposal Systems, Inc.
-  type: legal_case
-  volume: '465'
-
-- id: CityDisposal1983
-  authority: U.S.
-  citation-key: CityDisposal1983
-  container-title: U.S.
-  issued:
-    - year: 1984
   page: '822'
   title: NLRB v. City Disposal Systems, Inc.
   type: legal_case
@@ -6679,15 +5896,6 @@ references:
   URL: >-
     https://roarmag.org/2018/01/30/reading-list-sociology-finance-debt-austerity/
 
-- id: CourseOutlineSociologya
-  citation-key: CourseOutlineSociologya
-  title: >-
-    Course outline: "The Sociology of Finance, Debt and Austerity" | ROAR
-    Magazine
-  type: webpage
-  URL: >-
-    https://roarmag.org/2018/01/30/reading-list-sociology-finance-debt-austerity/
-
 - id: crainWhitewashedLaborLaw2002
   archive: JSTOR
   author:
@@ -7050,12 +6258,6 @@ references:
   type: webpage
   URL: http://daringfireball.net/projects/markdown/
 
-- id: DaringFireballMarkdowna
-  citation-key: DaringFireballMarkdowna
-  title: 'Daring Fireball: Markdown'
-  type: webpage
-  URL: http://daringfireball.net/projects/markdown/
-
 - id: dau-schmidtEmploymentSecurityComparative1995
   author:
     - family: Dau-Schmidt
@@ -7186,22 +6388,6 @@ references:
     - family: Deborah Hurwitz
       given: ''
   citation-key: deborahhurwitzLibraryGuidesLaTeX
-  language: en
-  note: >-
-    Designed for University of Melbourne staff and students on the various
-    methods of reference management within LaTeX documents. The basics of a
-    LaTeX bibliography is explained with reference to more popular editors such
-    as Overleaf
-  title: 'Library Guides: LaTeX and BibTeX: Zotero'
-  title-short: Library Guides
-  type: webpage
-  URL: //unimelb.libguides.com/c.php?g=565734&p=3897111
-
-- id: deborahhurwitzLibraryGuidesLaTeXa
-  author:
-    - family: Deborah Hurwitz
-      given: ''
-  citation-key: deborahhurwitzLibraryGuidesLaTeXa
   language: en
   note: >-
     Designed for University of Melbourne staff and students on the various
@@ -8036,24 +7222,6 @@ references:
   type: article-newspaper
   URL: https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html
 
-- id: doughertyHowNoncompeteClauses2017a
-  author:
-    - family: Dougherty
-      given: Conor
-  citation-key: doughertyHowNoncompeteClauses2017a
-  container-title: The New York Times
-  ISSN: 0362-4331
-  issued:
-    - year: 2017
-      month: 5
-      day: 13
-  language: en-US
-  section: Business
-  source: NYTimes.com
-  title: How Noncompete Clauses Keep Workers Locked In
-  type: article-newspaper
-  URL: https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html
-
 - id: douglase.rayUnderstandingLaborLaw2019
   abstract: Calvin William Sharpe
   author:
@@ -8465,6 +7633,20 @@ references:
   title-short: $2.00 a Day
   type: book
 
+- id: EffectuationNationalLabor2021
+  citation-key: EffectuationNationalLabor2021
+  genre: General Counsel Memo
+  issued:
+    - year: 2021
+      month: 3
+      day: 13
+  number: 21-03
+  title: >-
+    Effectuation of the National Labor Relations Act Through Vigorous
+    Enforcement of the Mutual Aid or Protection and Inherently Concerted
+    Doctrines
+  type: report
+
 - id: ehrenreichKillerDebt2008
   author:
     - family: Ehrenreich
@@ -8869,17 +8051,6 @@ references:
   type: legal_case
   volume: '861'
 
-- id: EthridgeHarborHouse1988
-  authority: 9th Cir.
-  citation-key: EthridgeHarborHouse1988
-  container-title: F.2d
-  issued:
-    - year: 1988
-  page: '1389'
-  title: Ethridge v. Harbor House Restaurant
-  type: legal_case
-  volume: '861'
-
 - id: etienneEthicsCauseLawyering2005
   author:
     - family: Etienne
@@ -8964,17 +8135,6 @@ references:
   type: legal_case
   volume: '861'
 
-- id: Ewing1988
-  authority: 2d Cir.
-  citation-key: Ewing1988
-  container-title: F.2d
-  issued:
-    - year: 1988
-  page: '353'
-  title: Ewing v. N.L.R.B.
-  type: legal_case
-  volume: '861'
-
 - id: ewingEmploymentEffectsGood2005
   abstract: >-
     With passage of a 1987 statute, Montana became the only state to adopt a
@@ -9018,20 +8178,22 @@ references:
   volume: '59'
 
 - id: ExaminingUnionSalting2004
-  authority: 108th Cong.
+  authority: U.S. House of Representatives
   citation-key: ExaminingUnionSalting2004
   issued:
     - year: 2004
       month: 5
       day: 10
-  jurisdiction: U.S.
+  note: >-
+    mlzsync1:0168{"extrafields":{"jurisdiction":"002usUnited
+    States|US","committee":"Subcommittee on Employer-Employee Relations of the
+    House Committee on Education and the Workforce"}}
   section: >-
     Subcommittee on Employer-Employee Relations of the House Committee on
     Education and the Workforce
   title: >-
     Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S.
-    Economy: Hearing before the Subcomm. on Employer-Employee Relations of the
-    H. Comm. on Education and the Workforce
+    Economy
   title-short: Examining Union Salting Abuses
   type: hearing
 
@@ -9921,10 +9083,14 @@ references:
   issued:
     - year: 2014
   language: en
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
   publisher: Jobs With Justice Education Fund
   title: 'Federal Student Loan Servicing: Contract Problems and Public Solutions'
   title-short: Federal Student Loan Servicing
   type: document
+  URL: http://www.ssrn.com/abstract=2459090
 
 - id: FinkinDisloyalty2007
   author:
@@ -9950,7 +9116,11 @@ references:
   issued:
     - year: 2010
   language: en
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
   page: '325'
+  source: Zotero
   title: >-
     Law School & The Web of Group Affiliation: Socializing, Socialization, and
     Social Network Site Use Among Law Students
@@ -9978,6 +9148,7 @@ references:
     Politics of Appellate Review in Asylum Cases
   title-short: Liars and Terrorists and Judges, Oh My
   type: article-journal
+  URL: https://scholarship.law.nd.edu/ndlr/vol83/iss5/3
   volume: '83'
 
 - id: finkNoMoneyMo2013
@@ -9998,6 +9169,7 @@ references:
     Unethical
   title-short: No Money, Mo' Problems
   type: article-journal
+  URL: https://repository.usfca.edu/usflawreview/vol47/iss3/2
   volume: '47'
 
 - id: finkPostRealismJurisprudentialLogic2004
@@ -10006,9 +9178,14 @@ references:
       given: Eric
   citation-key: finkPostRealismJurisprudentialLogic2004
   container-title: Hastings Law Journal
+  ISSN: >-
+    0017-8322<br />© Copyright University of California, Hastings College of the
+    Law
   issue: '4'
   issued:
     - year: 2004
+      month: 1
+      day: 1
   license: >-
     Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
     License (CC-BY-NC-SA)
@@ -10018,6 +9195,7 @@ references:
     Analysis of the Rise and Diffusion of Law and Economics
   title-short: Post-Realism, or the Jurisprudential Logic of Late Capitalism
   type: article-journal
+  URL: https://repository.uchastings.edu/hastings_law_journal/vol55/iss4/3
   volume: '55'
 
 - id: finkUnionEmployeeAccess2001
@@ -10035,11 +9213,15 @@ references:
   ISBN: 978-0-7656-0803-1
   issued:
     - year: 2001
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
   page: 98-103
   publisher: Routledge
   publisher-place: New York
   title: Union and Employee Access to Employer E-mail Systems Under Federal Labor Law
   type: chapter
+  URL: https://doi.org/10.4324/9781315700038
 
 - id: finkUnionOrganizingCollective2019
   author:
@@ -10050,7 +9232,11 @@ references:
   issued:
     - year: 2019
   language: en
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
   page: 953-973
+  source: Zotero
   title: Union Organizing & Collective Bargaining for Incarcerated Workers
   type: article-journal
   volume: '52'
@@ -10074,6 +9260,7 @@ references:
     The Virtual Construction of Legality: 'Griefing' and Normative Order in
     Second Life
   type: article-journal
+  URL: http://www5.austlii.edu.au/au/journals/JlLawInfoSci/2011/6.html
   volume: '21'
 
 - id: FirebirdStructuresLLC2017
@@ -11239,9 +10426,7 @@ references:
   authority: Minn. Ct. App.
   citation-key: FriegesDrywallInc2009
   issued:
-    - year: 2009
-      month: 12
-      day: 29
+    - literal: 2009-12-0029
   number: A-09-427
   title: Frieges Drywall, Inc. v. North Central States Regional Council of Capenters
   type: legal_case
@@ -11635,21 +10820,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.52
 
-- id: GC21-03_EffectuationOfTheNLRA2021
-  citation-key: GC21-03_EffectuationOfTheNLRA2021
-  genre: General Counsel Memo
-  issued:
-    - year: 2021
-      month: 3
-      day: 13
-  number: GC 21-03
-  publisher: National Labor Relations Board
-  title: >-
-    Effectuation of the National Labor Relations Act Through Vigorous
-    Enforcement of the Mutual Aid or Protection and Inherently Concerted
-    Doctrines
-  type: report
-
 - id: gellnerNationsNationalism2008
   abstract: >-
     From reviews of the first edition: "Brilliant, provocative . . . a great
@@ -12011,12 +11181,6 @@ references:
 
 - id: GitHub
   citation-key: GitHub
-  title: GitHub
-  type: webpage
-  URL: https://github.com/
-
-- id: GitHuba
-  citation-key: GitHuba
   title: GitHub
   type: webpage
   URL: https://github.com/
@@ -12923,40 +12087,6 @@ references:
   type: paper-conference
   URL: https://link.springer.com/chapter/10.1007/978-3-642-25731-5_2
 
-- id: guptaDesignImplementationWorkflow2011a
-  author:
-    - family: Gupta
-      given: Abhishek
-    - family: Kumar
-      given: Jatin
-    - family: Mathew
-      given: Daniel J.
-    - family: Bansal
-      given: Sorav
-    - family: Banerjee
-      given: Subhashis
-    - family: Saran
-      given: Huzur
-  citation-key: guptaDesignImplementationWorkflow2011a
-  collection-title: Lecture Notes in Computer Science
-  container-title: Databases in Networked Information Systems
-  DOI: 10.1007/978-3-642-25731-5_2
-  ISBN: 978-3-642-25730-8
-  issued:
-    - year: 2011
-      month: 12
-  language: en
-  note: >-
-    In this work we discuss the design and implementation of an academic cloud
-    service christened Baadal. Tailored for academic and research requirements,
-    Baadal bridges the gap between a private cloud...
-  page: 16-25
-  publisher: Springer, Berlin, Heidelberg
-  source: link.springer.com
-  title: Design and Implementation of the Workflow of an Academic Cloud
-  type: paper-conference
-  URL: https://link.springer.com/chapter/10.1007/978-3-642-25731-5_2
-
 - id: gurrCausalModelCivil1968
   author:
     - family: Gurr
@@ -13505,17 +12635,6 @@ references:
   type: manuscript
   URL: https://kieranhealy.org/publications/plain-person-text/
 
-- id: healyPlainPersonGuide2019a
-  author:
-    - family: Healy
-      given: Kieran
-  citation-key: healyPlainPersonGuide2019a
-  issued:
-    - year: 2019
-  title: The Plain Person's Guide to Plain Text Social Science
-  type: manuscript
-  URL: https://kieranhealy.org/publications/plain-person-text/
-
 - id: heimerCompetingInstitutionsLaw2014
   abstract: >-
     Sociolegal scholars have long acknowledged that the influence of law varies
@@ -13727,7 +12846,7 @@ references:
   citation-key: HelmsleySpearIncFishman2008
   container-title: N.Y.3d
   issued:
-    - year: 2008
+    - literal: 2008-11-0024
   page: '470'
   title: Helmsley-Spear, Inc. v. Fishman
   title-short: Fishman
@@ -13739,11 +12858,12 @@ references:
   citation-key: HennepinBroadcastingAssociates1974
   container-title: Minn.
   issued:
-    - year: 1974
+    - literal: 1974-10-0025
   page: '508'
   title: >-
     Hennepin Broadcasting Associates, Inc. v. American Federation of Television
     and Radio Artists
+  title-short: Hennepin Broadcasting Associates
   type: legal_case
   volume: '301'
 
@@ -13905,23 +13025,6 @@ references:
   type: legal_case
   volume: '559'
 
-- id: Hill2014
-  author:
-    - family: Hill
-      given: Susan
-  citation-key: Hill2014
-  container-title: 'Field Notes: A Journal of Collegiate Anthropology'
-  issue: '1'
-  issued:
-    - year: 2014
-      month: 6
-  page: 6-17
-  title: >-
-    Beyond Occupy Wall Street: A Case Study of Strike Debt as an Emergent Form
-    of Political Action
-  type: article-journal
-  volume: '6'
-
 - id: HillhavenOaklandNursing1996
   authority: Cal. Ct. App.
   citation-key: HillhavenOaklandNursing1996
@@ -13952,19 +13055,6 @@ references:
   URL: >-
     https://www.academia.edu/14885566/Beyond_Occupy_Wall_Street_A_Case_Study_of_Strike_Debt_as_an_Emergent_Form_of_Political_Action
   volume: '6'
-
-- id: Hirsch2005
-  author:
-    - family: Hirsch
-      given: Jeffrey M
-  citation-key: Hirsch2005
-  container-title: Boston College Law Review
-  issued:
-    - year: 2005
-  page: '891'
-  title: Taking State Property Rights Out of Federal Labor Law
-  type: article-journal
-  volume: '47'
 
 - id: hirschmanExitVoiceLoyalty1970
   abstract: >-
@@ -14444,23 +13534,6 @@ references:
     to Delay Investigation
   type: paper-conference
 
-- id: Hyde2017
-  author:
-    - family: Hyde
-      given: Alan
-  citation-key: Hyde2017
-  container-title: Employee Rights and Employment Policy Journal
-  issued:
-    - year: 2017
-  language: eng
-  page: 623-644
-  title: >-
-    A Brief User's Guide to Restatement of Employment Law Chapter I, Employee
-    Obligations and Restrictive Covenants The Labor Law Group Symposium on the
-    Restatement of Employment Law
-  type: article-journal
-  volume: '21'
-
 - id: hydeBriefUserGuide2017
   author:
     - family: Hyde
@@ -14593,45 +13666,6 @@ references:
   section: 717A.3B
   title: Iowa Ag Trespass
   type: legislation
-
-- id: Isaac2002
-  author:
-    - family: Isaac
-      given: Larry
-    - family: Christiansen
-      given: Lars
-  citation-key: Isaac2002
-  container-title: American Sociological Review
-  ISSN: 0003-1224
-  issue: '5'
-  issued:
-    - year: 2002
-  page: 722-746
-  title: How the Civil Rights Movement Revitalized Labor Militancy
-  type: article-journal
-  volume: '67'
-
-- id: Isaac2006
-  author:
-    - family: Isaac
-      given: Larry
-    - family: McDonald
-      given: Steve
-    - family: Lukasik
-      given: Greg
-  citation-key: Isaac2006
-  container-title: American Journal of Sociology
-  ISSN: 0002-9602
-  issue: '1'
-  issued:
-    - year: 2006
-  page: 46-96
-  title: >-
-    Takin' It from the Streets: How the Sixties Mass Movement Revitalized
-    Unionization
-  title-short: Takin' It from the Streets
-  type: article-journal
-  volume: '112'
 
 - id: isaacHowCivilRights2002
   abstract: >-
@@ -14822,25 +13856,6 @@ references:
   title-short: Rethinking Capitalism
   type: book
 
-- id: Jacques2015
-  author:
-    - family: Jacques
-      given: Peter J.
-  citation-key: Jacques2015
-  container-title: Journal of Environmental Studies and Sciences
-  ISSN: 2190-6483, 2190-6491
-  issue: '3'
-  issued:
-    - literal: 2015-09-0001
-  language: en
-  page: 432-444
-  title: >-
-    Civil Society, Corporate Power, and Food Security: Counter-Revolutionary
-    Efforts that Limit Social Change
-  title-short: Civil Society, Corporate Power, and Food Security
-  type: article-journal
-  volume: '5'
-
 - id: jacquesCivilSocietyCorporate2015
   author:
     - family: Jacques
@@ -14876,24 +13891,6 @@ references:
   type: legal_case
   volume: '933'
 
-- id: Jarsulic1999
-  author:
-    - family: Jarsulic
-      given: Marc
-  citation-key: Jarsulic1999
-  container-title: Employee Rights and Employment Policy Journal
-  issue: '1'
-  issued:
-    - year: 1999
-  language: eng
-  page: 105-130
-  title: >-
-    Protecting Workers from Wrongful Discharge: Montana's Experience with Tort
-    and Statutory Regimes
-  title-short: Protecting Workers from Wrongful Discharge
-  type: article-journal
-  volume: '3'
-
 - id: jarsulicProtectingWorkersWrongful1999
   author:
     - family: Jarsulic
@@ -14915,11 +13912,11 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght3&i=111
   volume: '3'
 
-- id: Jarvis2016
+- id: jarvisPETAOtherAnimal2016
   author:
     - family: Jarvis
       given: Craig
-  citation-key: Jarvis2016
+  citation-key: jarvisPETAOtherAnimal2016
   container-title: News & Observer
   issued:
     - year: 2016
@@ -14931,23 +13928,6 @@ references:
   type: webpage
   URL: >-
     http://www.newsobserver.com/news/politics-government/state-politics/article88670927.html
-
-- id: Jay1980
-  author:
-    - family: Jay
-      given: Martin
-  citation-key: Jay1980
-  container-title: New German Critique
-  ISSN: 0094-033X
-  issue: '19'
-  issued:
-    - year: 1980
-  page: 137-149
-  title: >-
-    The Jews and the Frankfurt School: Critical Theory's Analysis of
-    Anti-Semitism
-  title-short: The Jews and the Frankfurt School
-  type: article-journal
 
 - id: jayJewsFrankfurtSchool1980
   author:
@@ -14977,26 +13957,6 @@ references:
   title: Jekyll
   type: webpage
   URL: https://jekyllrb.com/
-
-- id: Jekylla
-  citation-key: Jekylla
-  title: Jekyll
-  type: webpage
-  URL: https://jekyllrb.com/
-
-- id: Jenkins1983
-  author:
-    - family: Jenkins
-      given: J. Craig
-  citation-key: Jenkins1983
-  container-title: Annual Review of Sociology
-  ISSN: 0360-0572
-  issued:
-    - year: 1983
-  page: 527-553
-  title: Resource Mobilization Theory and the Study of Social Movements
-  type: article-journal
-  volume: '9'
 
 - id: jenkinsResourceMobilizationTheory1983
   abstract: >-
@@ -15058,20 +14018,6 @@ references:
   type: webpage
   URL: https://libguides.mit.edu/cite-write/bibtex
 
-- id: jenniemurackLibGuidesCitationManagementa
-  author:
-    - family: Jennie Murack
-      given: ''
-  citation-key: jenniemurackLibGuidesCitationManagementa
-  language: en
-  note: >-
-    A guide describing software to help with citation management, writing, and
-    other parts of the research process.
-  title: 'LibGuides: Citation Management and Writing Tools: LaTeX and BibTeX'
-  title-short: LibGuides
-  type: webpage
-  URL: https://libguides.mit.edu/cite-write/bibtex
-
 - id: jensonWhatNameNationalist1995
   abstract: >-
     A notable theme of public discourse in Canada is the naming of nations.
@@ -15111,30 +14057,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.9
   volume: '4'
-
-- id: Jentoft2009
-  author:
-    - family: Jentoft
-      given: Svein
-    - family: Bavinck
-      given: Maarten
-    - family: Johnson
-      given: Derek S.
-    - family: Thomson
-      given: Kaleekal T.
-  citation-key: Jentoft2009
-  container-title: Human Organization
-  ISSN: 0018-7259
-  issue: '1'
-  issued:
-    - year: 2009
-  page: 27-38
-  title: >-
-    Fisheries Co-Management and Legal Pluralism: How an Analytical Problem
-    Becomes an Institutional One
-  title-short: Fisheries Co-Management and Legal Pluralism
-  type: article-journal
-  volume: '68'
 
 - id: jentoftFisheriesCoManagementLegal2009
   abstract: >-
@@ -15322,44 +14244,6 @@ references:
   title-short: State Theory
   type: book
 
-- id: Jewel2008
-  author:
-    - family: Jewel
-      given: Lucille A.
-  citation-key: Jewel2008
-  container-title: Buffalo Law Review
-  issue: '4'
-  issued:
-    - year: 2008
-  language: eng
-  page: 1155-1224
-  title: >-
-    Bourdieu and American Legal Education: How Law Schools Reproduce Social
-    Stratification and Class Hierarchy Essay Collection: Classcrits: Part II:
-    Constructing a Story of Law and Class: Cases, Statutes, and Foundational
-    Readings
-  title-short: Bourdieu and American Legal Education
-  type: article-journal
-  volume: '56'
-
-- id: Jewel2012
-  author:
-    - family: Jewel
-      given: Lucille A.
-  citation-key: Jewel2012
-  container-title: University of Memphis Law Review
-  issue: '2'
-  issued:
-    - year: 2012
-  language: eng
-  page: 239-318
-  title: >-
-    Merit and Mobility: A Progressive View of Class, Culture, and the Law Lead
-    Article
-  title-short: Merit and Mobility
-  type: article-journal
-  volume: '43'
-
 - id: jewelBourdieuAmericanLegal2008
   accessed:
     - year: 2020
@@ -15412,21 +14296,6 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/umem43&i=251
   volume: '43'
-
-- id: Johnson2008
-  author:
-    - family: Johnson
-      given: Erik W.
-  citation-key: Johnson2008
-  container-title: Social Forces
-  ISSN: 0037-7732
-  issue: '3'
-  issued:
-    - year: 2008
-  page: 967-993
-  title: Social Movement Size, Organizational Diversity and the Making of Federal Law
-  type: article-journal
-  volume: '86'
 
 - id: johnsonNoSaltAdded2017
   author:
@@ -15607,24 +14476,6 @@ references:
   title-short: Mother Jones Speaks
   type: book
 
-- id: Joy1996
-  author:
-    - family: Joy
-      given: William F.
-    - family: Segal
-      given: Robert M.
-  citation-key: Joy1996
-  container-title: The Labor Lawyer
-  ISSN: 8756-2995
-  issue: '1'
-  issued:
-    - year: 1996
-  page: 1-16
-  title: 'History of the Section of Labor and Employment Law: 1946-1996'
-  title-short: History of the Section of Labor and Employment Law
-  type: article-journal
-  volume: '12'
-
 - id: joyHistorySectionLabor1996
   author:
     - family: Joy
@@ -15647,22 +14498,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/40862566
   volume: '12'
-
-- id: Julin2016
-  author:
-    - family: Julin
-      given: Grant
-  citation-key: Julin2016
-  container-title: 'Soundings: An Interdisciplinary Journal'
-  ISSN: 0038-1861
-  issue: '2'
-  issued:
-    - year: 2016
-  page: 171-192
-  title: 'Occupy Strikes Back: Strike Debt''s Slave Revolt'
-  title-short: Occupy Strikes Back
-  type: article-journal
-  volume: '99'
 
 - id: julinOccupyStrikesBack2016
   abstract: >-
@@ -15694,18 +14529,6 @@ references:
   URL: https://www.jstor.org/stable/10.5325/soundings.99.2.0171
   volume: '99'
 
-- id: Juris1973
-  author:
-    - family: Juris
-      given: Hervey A
-    - family: Feuille
-      given: Peter
-  citation-key: Juris1973
-  issued:
-    - year: 1973
-  title: 'The Impact of Police Unions: Summary Report.'
-  type: article-journal
-
 - id: jurisImpactPoliceUnions1973
   author:
     - family: Juris
@@ -15724,12 +14547,6 @@ references:
   type: webpage
   URL: https://juris-m.github.io/
 
-- id: JurisMa
-  citation-key: JurisMa
-  title: Juris-M
-  type: webpage
-  URL: https://juris-m.github.io/
-
 - id: jurisPoliceUnionismPower1973
   author:
     - family: Juris
@@ -15742,21 +14559,6 @@ references:
   publisher: Lexington Books Lexington, MA
   title: 'Police Unionism: Power and Impact in Public-Sector Bargaining'
   type: book
-
-- id: Kadens2019
-  author:
-    - family: Kadens
-      given: Emily
-  citation-key: Kadens2019
-  container-title: Columbia Law Review
-  ISSN: 0010-1958
-  issue: '2'
-  issued:
-    - year: 2019
-  page: 527-590
-  title: Cheating Pays
-  type: article-journal
-  volume: '119'
 
 - id: kadensCheatingPays2019
   abstract: >-
@@ -15838,21 +14640,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.14
 
-- id: Kahana2000
-  author:
-    - family: Kahana
-      given: Jeffrey S.
-  citation-key: Kahana2000
-  container-title: Journal of the Early Republic
-  ISSN: 0275-1275
-  issue: '1'
-  issued:
-    - year: 2000
-  page: 27-57
-  title: Master and Servant in the Early Republic, 1780-1830
-  type: article-journal
-  volume: '20'
-
 - id: kahanaMasterServantEarly2000
   accessed:
     - year: 2022
@@ -15874,43 +14661,6 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/3124829
   volume: '20'
-
-- id: Kalleberg2000
-  author:
-    - family: Kalleberg
-      given: Arne L.
-    - family: Reskin
-      given: Barbara F.
-    - family: Hudson
-      given: Ken
-  citation-key: Kalleberg2000
-  container-title: American Sociological Review
-  ISSN: 0003-1224
-  issue: '2'
-  issued:
-    - year: 2000
-  page: 256-278
-  title: >-
-    Bad Jobs in America: Standard and Nonstandard Employment Relations and Job
-    Quality in the United States
-  title-short: Bad Jobs in America
-  type: article-journal
-  volume: '65'
-
-- id: Kalleberg2000a
-  author:
-    - family: Kalleberg
-      given: Arne L.
-  citation-key: Kalleberg2000a
-  container-title: Annual Review of Sociology
-  ISSN: 0360-0572
-  issued:
-    - year: 2000
-  page: 341-365
-  title: 'Nonstandard Employment Relations: Part-Time, Temporary and Contract Work'
-  title-short: Nonstandard Employment Relations
-  type: article-journal
-  volume: '26'
 
 - id: kallebergBadJobsAmerica2000
   abstract: >-
@@ -16132,24 +14882,6 @@ references:
   title-short: What Do Unions Do?
   type: book
 
-- id: Kawar2011
-  author:
-    - family: Kawar
-      given: Leila
-  citation-key: Kawar2011
-  container-title: Law & Social Inquiry
-  ISSN: 0897-6546
-  issue: '2'
-  issued:
-    - year: 2011
-  page: 354-387
-  title: >-
-    Legal Mobilization on the Terrain of the State: Creating a Field of
-    Immigrant Rights Lawyering in France and the United States
-  title-short: Legal Mobilization on the Terrain of the State
-  type: article-journal
-  volume: '36'
-
 - id: kawarLegalMobilizationTerrain2011
   abstract: >-
     Scholarship on law and social movements has focused attention primarily on
@@ -16211,22 +14943,6 @@ references:
   URL: >-
     https://www.jacksonlewis.com/publication/north-carolina-reinforces-property-protection-law-giving-employers-right-sue
 
-- id: Keck2009
-  author:
-    - family: Keck
-      given: Thomas M.
-  citation-key: Keck2009
-  container-title: Law & Society Review
-  ISSN: 0023-9216
-  issue: '1'
-  issued:
-    - year: 2009
-  page: 151-186
-  title: 'Beyond Backlash: Assessing the Impact of Judicial Decisions on LGBT Rights'
-  title-short: Beyond Backlash
-  type: article-journal
-  volume: '43'
-
 - id: keckBacklashAssessingImpact2009
   abstract: >-
     This article evaluates the widespread scholarly claim that the courtroom
@@ -16258,22 +14974,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/29734174
   volume: '43'
-
-- id: Keele2015
-  author:
-    - family: Keele
-      given: Benjamin J.
-  citation-key: Keele2015
-  container-title: Legal Reference Services Quarterly
-  ISSN: 0270-319X
-  issue: '2'
-  issued:
-    - year: 2015
-      month: 4
-  page: 119-137
-  title: Improving Digital Publishing of Legal Scholarship
-  type: article-journal
-  volume: '34'
 
 - id: keeleImprovingDigitalPublishing2015
   abstract: >-
@@ -16341,20 +15041,6 @@ references:
   type: chapter
   URL: >-
     https://www.universitypressscholarship.com/view/10.5149/northcarolina/9781469625485.001.0001/upso-9781469625485-chapter-4
-
-- id: Kelling1996
-  author:
-    - family: Kelling
-      given: GEORGE L
-    - family: Kliesmet
-      given: ROBERT B
-  citation-key: Kelling1996
-  container-title: 'Police Violence: Understanding and Controlling Police Abuse of Force'
-  issued:
-    - year: 1996
-  page: 191-212
-  title: Police Unions, Police Culture, and the Police Abuse of Force
-  type: article-journal
 
 - id: kellingPoliceUnionsPolice1995
   author:
@@ -16498,22 +15184,6 @@ references:
   publisher: Harvard University Press
   title: A Guide to Critical Legal Studies
   type: book
-
-- id: Kennedy1981
-  author:
-    - family: Kennedy
-      given: Duncan
-  citation-key: Kennedy1981
-  container-title: Industrial Relations Law Journal
-  ISSN: 0145-188X
-  issue: '3'
-  issued:
-    - year: 1981
-  page: 503-506
-  title: 'Critical Labor Law Theory: A Comment'
-  title-short: Critical Labor Law Theory
-  type: article-journal
-  volume: '4'
 
 - id: Kennedy2005
   author:
@@ -17773,12 +16443,6 @@ references:
   type: webpage
   URL: http://www.latex-project.org/
 
-- id: LaTeXDocumentPreparationa
-  citation-key: LaTeXDocumentPreparationa
-  title: LaTeX - A document preparation system
-  type: webpage
-  URL: http://www.latex-project.org/
-
 - id: Latour2004
   author:
     - family: Latour
@@ -17841,22 +16505,6 @@ references:
   type: article-journal
   URL: https://www.journals.uchicago.edu/doi/10.1086/421123
   volume: '30'
-
-- id: Lauer2017
-  author:
-    - family: Lauer
-      given: Josh
-  citation-key: Lauer2017
-  ISBN: 978-0-231-54462-7
-  issued:
-    - year: 2017
-      month: 7
-  publisher: Columbia University Press
-  title: >-
-    Creditworthy: A History of Consumer Surveillance and Financial Identity in
-    America
-  title-short: Creditworthy
-  type: book
 
 - id: lauerCreditworthyHistoryConsumer2017
   abstract: >-
@@ -18383,35 +17031,6 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/davlr51&i=667
   volume: '51'
 
-- id: Leon2015
-  author:
-    - family: Leon
-      given: Cedric
-  citation-key: Leon2015
-  ISBN: 978-0-8014-5587-2
-  issued:
-    - year: 2015
-      month: 5
-  language: en
-  number-of-pages: '185'
-  publisher: Cornell University Press
-  title: >-
-    The Origins of Right to Work: Antilabor Democracy in Nineteenth-Century
-    Chicago
-  title-short: The Origins of Right to Work
-  type: book
-
-- id: Leonard1986
-  author:
-    - family: Leonard
-      given: Norman
-  citation-key: Leonard1986
-  issued:
-    - year: 1986
-  publisher: Regional Oral History Office, Bancroft Library, University of California
-  title: Life of a Leftist Labor Lawyer
-  type: book
-
 - id: leonardLifeLeftistLabor1986
   author:
     - family: Leonard
@@ -18488,17 +17107,6 @@ references:
   type: article-journal
   volume: '76'
 
-- id: Levi1977
-  author:
-    - family: Levi
-      given: Margaret
-  citation-key: Levi1977
-  issued:
-    - year: 1977
-  publisher: Lexington books Lexington
-  title: 'Bureaucratic Insurgency: The Case of Police Unions'
-  type: book
-
 - id: leviBureaucraticInsurgencyCase1977
   author:
     - family: Levi
@@ -18508,24 +17116,6 @@ references:
     - year: 1977
   publisher: Lexington books Lexington
   title: 'Bureaucratic Insurgency: The Case of Police Unions'
-  type: book
-
-- id: Levin2012
-  author:
-    - family: Levin
-      given: Leslie C.
-    - family: Mather
-      given: Lynn
-  citation-key: Levin2012
-  ISBN: 978-0-226-47517-2
-  issued:
-    - year: 2012
-      month: 4
-  language: en
-  number-of-pages: '401'
-  publisher: University of Chicago Press
-  title: 'Lawyers in Practice: Ethical Decision Making in Context'
-  title-short: Lawyers in Practice
   type: book
 
 - id: Levin2020
@@ -18751,23 +17341,6 @@ references:
   type: article-journal
   volume: '25'
 
-- id: Lichtenstein1997
-  author:
-    - family: Lichtenstein
-      given: Nelson
-  citation-key: Lichtenstein1997
-  event-place: Urbana
-  ISBN: 978-0-252-06626-9
-  issued:
-    - year: 1997
-  language: English
-  number-of-pages: '608'
-  publisher: University of Illinois Press
-  publisher-place: Urbana
-  title: 'Walter Reuther: The Most Dangerous Man in Detroit'
-  title-short: Walter Reuther
-  type: book
-
 - id: Lichtenstein2000
   author:
     - family: Lichtenstein
@@ -18781,27 +17354,6 @@ references:
   page: 261-274
   title: Class Politics and the State during World War Two
   type: article-journal
-
-- id: Lichtenstein2013
-  author:
-    - family: Lichtenstein
-      given: Nelson
-  citation-key: Lichtenstein2013
-  edition: Revised, Expanded edition
-  event-place: Princeton, New Jersey
-  ISBN: 978-0-691-16027-6
-  issued:
-    - year: 2013
-      month: 8
-  language: English
-  number-of-pages: '400'
-  publisher: Princeton University Press
-  publisher-place: Princeton, New Jersey
-  title: >-
-    State of the Union: A Century of American Labor - Revised and Expanded
-    Edition
-  title-short: State of the Union
-  type: book
 
 - id: lichtensteinClassPoliticsState2000
   abstract: >-
@@ -19077,25 +17629,6 @@ references:
   type: article-journal
   volume: '84'
 
-- id: Lindert2016
-  author:
-    - family: Lindert
-      given: Peter H.
-    - family: Williamson
-      given: Jeffrey G.
-  citation-key: Lindert2016
-  event-place: Princeton
-  ISBN: 978-0-691-17049-7
-  issued:
-    - literal: 2016-04-0019
-  language: English
-  number-of-pages: '424'
-  publisher: Princeton University Press
-  publisher-place: Princeton
-  title: 'Unequal Gains: American Growth and Inequality since 1700'
-  title-short: Unequal Gains
-  type: book
-
 - id: lindertUnequalGainsAmerican2016
   abstract: >-
     Unequal Gains offers a radically new understanding of the economic evolution
@@ -19140,30 +17673,6 @@ references:
   source: Amazon
   title: 'Unequal Gains: American Growth and Inequality since 1700'
   title-short: Unequal Gains
-  type: book
-
-- id: Linebaugh2012
-  author:
-    - family: Linebaugh
-      given: Peter
-  citation-key: Linebaugh2012
-  edition: Anniversary edition
-  editor:
-    - family: Rosemont
-      given: Franklin
-    - family: Roediger
-      given: David
-  event-place: Oakland, CA
-  ISBN: 978-1-84935-080-8
-  issued:
-    - year: 2012
-      month: 3
-  language: English
-  number-of-pages: '272'
-  publisher: AK Press
-  publisher-place: Oakland, CA
-  title: 'Haymarket Scrapbook: 125th Anniversary Edition'
-  title-short: Haymarket Scrapbook
   type: book
 
 - id: linebaughHaymarketScrapbook125th2012
@@ -19270,7 +17779,7 @@ references:
   citation-key: LivadasBradshaw1994
   container-title: U.S.
   issued:
-    - year: 1994
+    - literal: 1994-06-0013
   page: '107'
   title: Livadas v. Bradshaw
   title-short: Livadas
@@ -19475,61 +17984,6 @@ references:
   type: article-journal
   volume: '7'
 
-- id: Loomis2015
-  author:
-    - family: Loomis
-      given: Erik
-  citation-key: Loomis2015
-  event-place: New York; London
-  ISBN: 978-1-62097-008-9
-  issued:
-    - literal: 2015-06-0002
-  language: English
-  number-of-pages: '256'
-  publisher: The New Press
-  publisher-place: New York; London
-  title: >-
-    Out of Sight: The Long and Disturbing Story of Corporations Outsourcing
-    Catastrophe
-  title-short: Out of Sight
-  type: book
-
-- id: Loomis2017
-  author:
-    - family: Loomis
-      given: Erik
-  citation-key: Loomis2017
-  event-place: New York, NY
-  ISBN: 978-1-107-56503-6
-  issued:
-    - year: 2017
-      month: 5
-  language: English
-  number-of-pages: '262'
-  publisher: Cambridge University Press
-  publisher-place: New York, NY
-  title: 'Empire of Timber: Labor Unions and the Pacific Northwest Forests'
-  title-short: Empire of Timber
-  type: book
-
-- id: Loomis2018
-  author:
-    - family: Loomis
-      given: Erik
-  citation-key: Loomis2018
-  edition: 1st Edition edition
-  event-place: New York
-  ISBN: 978-1-62097-161-1
-  issued:
-    - year: 2018
-      month: 10
-  language: English
-  number-of-pages: '288'
-  publisher: The New Press
-  publisher-place: New York
-  title: A History of America in Ten Strikes
-  type: book
-
 - id: loomisActivitiesNorthCarolina1930
   author:
     - family: Loomis
@@ -19682,22 +18136,6 @@ references:
     - family: Lorena O'English
       given: ''
   citation-key: lorenaoenglishLibGuidesZoteroWSU
-  language: en
-  note: >-
-    LibGuides: Zotero @ the WSU Libraries: Using Zotfile for Tablet Syncing and
-    More
-  title: >-
-    LibGuides: Zotero @ the WSU Libraries: Using Zotfile for Tablet Syncing and
-    More
-  title-short: LibGuides
-  type: webpage
-  URL: //libguides.libraries.wsu.edu/c.php?g=768677&p=5514204
-
-- id: lorenaoenglishLibGuidesZoteroWSUa
-  author:
-    - family: Lorena O'English
-      given: ''
-  citation-key: lorenaoenglishLibGuidesZoteroWSUa
   language: en
   note: >-
     LibGuides: Zotero @ the WSU Libraries: Using Zotfile for Tablet Syncing and
@@ -19902,21 +18340,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/827793
 
-- id: Loyal2017
-  author:
-    - family: Loyal
-      given: Steven
-  citation-key: Loyal2017
-  ISBN: 978-1-137-58350-5
-  issued:
-    - literal: 2017-01-0006
-  language: en
-  number-of-pages: '159'
-  publisher: Springer
-  title: 'Bourdieu''s Theory of the State: A Critical Introduction'
-  title-short: Bourdieu's Theory of the State
-  type: book
-
 - id: loyalBourdieuTheoryState2017
   abstract: >-
     This book critically examines Pierre Bourdieu's theory of the state by
@@ -20039,53 +18462,6 @@ references:
   type: manuscript
   URL: https://papers.ssrn.com/abstract=3431205
 
-- id: Lynd2011
-  author:
-    - family: Lynd
-      given: Staughton
-    - family: Gross
-      given: Daniel
-  citation-key: Lynd2011
-  edition: Second Edition, Second edition edition
-  event-place: Oakland, CA
-  ISBN: 978-1-60486-419-9
-  issued:
-    - year: 2011
-      month: 6
-  language: English
-  number-of-pages: '120'
-  publisher: PM Press
-  publisher-place: Oakland, CA
-  title: >-
-    Labor Law for the Rank & Filer: Building Solidarity While Staying Clear of
-    the Law
-  title-short: Labor Law for the Rank & Filer
-  type: book
-
-- id: Lynd2015
-  author:
-    - family: Lynd
-      given: Staughton
-    - family: Ness
-      given: Immanuel
-  citation-key: Lynd2015
-  contributor:
-    - family: Konopacki
-      given: Mike
-  edition: Second Edition, Second edition edition
-  event-place: 'Oakland, CA : Dexter, MI'
-  ISBN: 978-1-62963-096-0
-  issued:
-    - year: 2015
-      month: 4
-  language: English
-  number-of-pages: '128'
-  publisher: PM Press
-  publisher-place: 'Oakland, CA : Dexter, MI'
-  title: 'Solidarity Unionism: Rebuilding the Labor Movement from Below'
-  title-short: Solidarity Unionism
-  type: book
-
 - id: lyndLaborLawRank2011
   abstract: "Blending cutting-edge legal strategies for winning justice at work with a theory of dramatic, bottom-up social change, this practical guide to workers’ rights aims to make work better while reinvigorating the labor movement. A powerful organization model called “solidarity unionism” is explained, showing how the labor force can avoid the pitfalls of the legal system and utilize direct action to win fair rights. The new edition includes new cases governing fundamental labor rights\_and can be used not only by union workers, but can serve as a guerrilla legal handbook for any employee in this unstable economy."
   author:
@@ -20152,17 +18528,6 @@ references:
   title-short: Solidarity Unionism
   type: book
 
-- id: MacDowell2002
-  author:
-    - family: MacDowell
-      given: Laurel Sefton
-  citation-key: MacDowell2002
-  issued:
-    - year: 2002
-  publisher: University of Toronto Press
-  title: 'Renegade Lawyer: The Life of J L Cohen'
-  type: book
-
 - id: macdowellRenegadeLawyerLife2002
   author:
     - family: MacDowell
@@ -20181,7 +18546,8 @@ references:
   issued:
     - year: 1976
   page: '132'
-  title: Machinists v. Wisconsin Employment Relations Commission
+  title: Machinists v. Wisconsin Employment Relations Comm’n
+  title-short: Machinists
   type: legal_case
   volume: '427'
 
@@ -20388,38 +18754,6 @@ references:
   type: legal_case
   volume: '349'
 
-- id: Mann1986
-  author:
-    - family: Mann
-      given: Michael
-  citation-key: Mann1986
-  ISBN: 978-0-521-44585-6
-  issued:
-    - year: 1986
-  language: en
-  number-of-pages: '842'
-  publisher: Cambridge University Press
-  title: >-
-    The Sources of Social Power: The Rise of Classes and Nation-States, 1760 -
-    1914
-  title-short: The Sources of Social Power
-  type: book
-
-- id: Mann1988
-  author:
-    - family: Mann
-      given: Michael
-  citation-key: Mann1988
-  ISBN: 978-0-631-15973-5
-  issued:
-    - year: 1988
-  language: en
-  number-of-pages: '240'
-  publisher: Basil Blackwell
-  title: 'States, War, and Capitalism: Studies in Political Sociology'
-  title-short: States, War, and Capitalism
-  type: book
-
 - id: MannoElecInc1996
   authority: N.L.R.B.
   citation-key: MannoElecInc1996
@@ -20493,24 +18827,6 @@ references:
   type: article-journal
   volume: '38'
 
-- id: Marchand1985
-  author:
-    - family: Marchand
-      given: Roland
-  citation-key: Marchand1985
-  edition: First edition
-  event-place: Berkeley
-  ISBN: 978-0-520-05885-9
-  issued:
-    - literal: 1985-09-0016
-  language: English
-  number-of-pages: '472'
-  publisher: University of California Press
-  publisher-place: Berkeley
-  title: 'Advertising the American Dream: Making Way for Modernity, 1920-1940'
-  title-short: Advertising the American Dream
-  type: book
-
 - id: marchandAdvertisingAmericanDream1985
   abstract: >-
     It has become impossible to imagine our culture without advertising. But how
@@ -20577,25 +18893,6 @@ references:
     Law Reform
   type: article-journal
   volume: '44'
-
-- id: Markovits2019
-  author:
-    - family: Markovits
-      given: Daniel
-  citation-key: Markovits2019
-  event-place: New York
-  ISBN: 978-0-7352-2199-4
-  issued:
-    - literal: 2019-09-0010
-  language: English
-  number-of-pages: '448'
-  publisher: Penguin Press
-  publisher-place: New York
-  title: >-
-    The Meritocracy Trap: How America's Foundational Myth Feeds Inequality,
-    Dismantles the Middle Class, and Devours the Elite
-  title-short: The Meritocracy Trap
-  type: book
 
 - id: markovitsMeritocracyTrapHow2019
   abstract: "A revolutionary new argument from eminent Yale Law professor Daniel Markovits attacking the false promise of meritocracy\_It is an axiom of American life that advantage should be earned through ability and effort. Even as the country divides itself at every turn, the meritocratic ideal – that social and economic rewards should follow achievement rather than breeding – reigns supreme.\_ Both Democrats and Republicans insistently repeat meritocratic notions. Meritocracy cuts to the heart of who we are. It sustains the American dream. \_ But what if, both up and down the social ladder, meritocracy is a sham? Today, meritocracy has become exactly what it was conceived to resist: a mechanism for the concentration and dynastic transmission of wealth and privilege across generations. Upward mobility has become a fantasy, and the embattled middle classes are now more likely to sink into the working poor than to rise into the professional elite. At the same time, meritocracy now ensnares even those who manage to claw their way to the top, requiring rich adults to work with crushing intensity, exploiting their expensive educations in order to extract a return. All this is not the result of deviations or retreats from meritocracy but rather stems directly from meritocracy’s successes. \_ This is the radical argument that\_Daniel Markovits prosecutes with rare force. Markovits is well placed to expose the sham of meritocracy. Having spent his life at elite universities, he knows from the inside the corrosive system we are trapped within. Markovits also knows that, if we understand that meritocratic inequality produces near-universal harm, we can cure it. When The Meritocracy Trap reveals the inner workings of the meritocratic machine, it also illuminates the first steps outward, towards a new world that might once again afford dignity and prosperity to the American people."
@@ -20745,26 +19042,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.34
 
-- id: Martelle2008
-  author:
-    - family: Martelle
-      given: Scott
-  citation-key: Martelle2008
-  event-place: New Brunswick
-  ISBN: 978-0-8135-4419-9
-  issued:
-    - year: 2008
-      month: 8
-  language: English
-  number-of-pages: '280'
-  publisher: Rutgers University Press
-  publisher-place: New Brunswick
-  title: >-
-    Blood Passion: The Ludlow Massacre and Class War in the American West, First
-    Paperback Edition
-  title-short: Blood Passion
-  type: book
-
 - id: martelleBloodPassionLudlow2008
   abstract: >-
     By early April 1914, Colorado Governor Elias Ammons thought the violence in
@@ -20825,24 +19102,6 @@ references:
   title: The International Labor Defense and Black America
   type: article-journal
   volume: '26'
-
-- id: Martin2010
-  author:
-    - family: Martin
-      given: Ann Smart
-  citation-key: Martin2010
-  edition: Reprint edition
-  event-place: Baltimore, Md.; London
-  ISBN: 978-0-8018-9826-6
-  issued:
-    - literal: 2010-08-0001
-  language: English
-  number-of-pages: '288'
-  publisher: Johns Hopkins University Press
-  publisher-place: Baltimore, Md.; London
-  title: 'Buying into the World of Goods: Early Consumers in Backcountry Virginia'
-  title-short: Buying into the World of Goods
-  type: book
 
 - id: martinBuyingWorldGoods2010
   abstract: >-
@@ -20905,25 +19164,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/00236568508584794
   volume: '26'
-
-- id: Marx1993
-  author:
-    - family: Marx
-      given: Karl
-  citation-key: Marx1993
-  edition: Reprint edition
-  ISBN: 978-0-14-044575-6
-  issued:
-    - literal: 1993-11-0007
-  language: English
-  number-of-pages: '912'
-  publisher: Penguin Classics
-  title: 'Grundrisse: Foundations of the Critique of Political Economy'
-  title-short: Grundrisse
-  translator:
-    - family: Nicolaus
-      given: Martin
-  type: book
 
 - id: marxCapitalCritiquePolitical1992
   abstract: "The first volume of a political treatise that changed the worldOne of the most notorious works of modern times, as well as one of the most influential,\_Capital\_is an incisive critique of private property and the social relations it generates. Living in exile in England, where this work was largely written, Marx drew on a wide-ranging knowledge of its society to support his analysis and create fresh insights. Arguing that capitalism would cause an ever-increasing division in wealth and welfare, he predicted its abolition and replacement by a system with common ownership of the means of production.\_Capital\_rapidly acquired readership among the leaders of social democratic parties, particularly in Russia in Germany, and ultimately throughout the world, to become a work described by Marx friend and collaborator Friedrich Engels as “the Bible of the working class.”For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
@@ -21155,22 +19395,6 @@ references:
   type: legal_case
   volume: '197'
 
-- id: Mattioli2020
-  author:
-    - family: Mattioli
-      given: Fabio
-  citation-key: Mattioli2020
-  ISBN: 978-1-5036-1294-5
-  issued:
-    - year: 2020
-      month: 6
-  language: en
-  number-of-pages: '297'
-  publisher: Stanford University Press
-  title: 'Dark Finance: Illiquidity and Authoritarianism at the Margins of Europe'
-  title-short: Dark Finance
-  type: book
-
 - id: mattioliDarkFinanceIlliquidity2020
   abstract: >-
     Dark Finance offers one of the first ethnographic accounts of financial
@@ -21219,19 +19443,6 @@ references:
   type: webpage
   URL: https://culanth.org/fieldsights/series/finance
 
-- id: Mauss1972
-  author:
-    - family: Mauss
-      given: Marcel
-  citation-key: Mauss1972
-  event-place: New York
-  issued:
-    - year: 1972
-  publisher: W. W. Norton
-  publisher-place: New York
-  title: A General Theory of Magic
-  type: book
-
 - id: maussGeneralTheoryMagic1972
   author:
     - family: Mauss
@@ -21245,41 +19456,6 @@ references:
   publisher: 'W. W. Norton <imprint: Norton Library>'
   publisher-place: New York
   title: A General Theory of Magic
-  type: book
-
-- id: May2016
-  citation-key: May2016
-  edition: 8th edition
-  editor:
-    - family: May
-      given: Kenneth
-  event-place: Arlington, VA
-  ISBN: 978-1-68267-057-6
-  issued:
-    - year: 2016
-      month: 11
-  language: English
-  number-of-pages: '1994'
-  publisher: Bloomberg BNA
-  publisher-place: Arlington, VA
-  title: How Arbitration Works, Eighth Edition
-  type: book
-
-- id: Mayer1989
-  author:
-    - family: Mayer
-      given: Robert N.
-  citation-key: Mayer1989
-  event-place: Boston
-  ISBN: 978-0-8057-9718-3
-  issued:
-    - literal: 1989-07-0001
-  language: English
-  number-of-pages: '197'
-  publisher: Twayne Pub
-  publisher-place: Boston
-  title: 'Consumer Movement: Guardians of the Marketplace'
-  title-short: Consumer Movement
   type: book
 
 - id: mayerConsumerMovementGuardians1989
@@ -21381,30 +19557,6 @@ references:
   URL: https://browzine.com/articles/164896683
   volume: '17'
 
-- id: McAdam2001
-  author:
-    - family: McAdam
-      given: Professor of Sociology Doug
-    - family: McAdam
-      given: Doug
-    - family: Tarrow
-      given: Sidney
-    - family: Tarrow
-      given: Charles
-    - family: Tilly
-      given: Charles
-    - family: PhD
-      given: Joseph L. Buttenwieser Professor of Social Science Charles Tilly
-  citation-key: McAdam2001
-  ISBN: 978-0-521-01187-7
-  issued:
-    - literal: 2001-09-0010
-  language: en
-  number-of-pages: '416'
-  publisher: Cambridge University Press
-  title: Dynamics of Contention
-  type: book
-
 - id: mcadamDynamicsContention2001
   abstract: >-
     Dissatisfied with the compartmentalization of studies concerning strikes,
@@ -21450,66 +19602,6 @@ references:
   publisher: Cambridge University Press
   source: Google Books
   title: Dynamics of Contention
-  type: book
-
-- id: Mcalevey2014
-  author:
-    - family: Mcalevey
-      given: Jane
-    - family: Ostertag
-      given: Bob
-  citation-key: Mcalevey2014
-  edition: Reprint edition
-  event-place: London
-  ISBN: 978-1-78168-315-6
-  issued:
-    - year: 2014
-      month: 5
-  language: English
-  number-of-pages: '332'
-  publisher: Verso
-  publisher-place: London
-  title: >-
-    Raising Expectations (and Raising Hell): My Decade Fighting for the Labor
-    Movement
-  title-short: Raising Expectations (and Raising Hell)
-  type: book
-
-- id: McAlevey2018
-  author:
-    - family: McAlevey
-      given: Jane F.
-  citation-key: McAlevey2018
-  edition: Reprint edition
-  event-place: New York
-  ISBN: 978-0-19-086865-9
-  issued:
-    - year: 2018
-      month: 4
-  language: English
-  number-of-pages: '280'
-  publisher: Oxford University Press
-  publisher-place: New York
-  title: 'No Shortcuts: Organizing for Power in the New Gilded Age'
-  title-short: No Shortcuts
-  type: book
-
-- id: McAlevey2020
-  author:
-    - family: McAlevey
-      given: Jane
-  citation-key: McAlevey2020
-  event-place: New York, NY
-  ISBN: 978-0-06-290859-9
-  issued:
-    - year: 2020
-      month: 1
-  language: English
-  number-of-pages: '304'
-  publisher: Ecco
-  publisher-place: New York, NY
-  title: 'A Collective Bargain: Unions, Organizing, and the Fight for Democracy'
-  title-short: A Collective Bargain
   type: book
 
 - id: mcaleveyCollectiveBargainUnions2020
@@ -21910,27 +20002,6 @@ references:
   type: chapter
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470674871.wbespm195
 
-- id: McCartin1998
-  author:
-    - family: McCartin
-      given: Joseph A.
-  citation-key: McCartin1998
-  edition: New edition edition
-  event-place: Chapel Hill
-  ISBN: 978-0-8078-4679-7
-  issued:
-    - year: 1998
-      month: 2
-  language: English
-  number-of-pages: '320'
-  publisher: The University of North Carolina Press
-  publisher-place: Chapel Hill
-  title: >-
-    Labor's Great War: The Struggle for Industrial Democracy and the Origins of
-    Modern American Labor Relations, 1912-1921
-  title-short: Labor's Great War
-  type: book
-
 - id: McCartin2008
   author:
     - family: McCartin
@@ -22008,20 +20079,6 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/25095467
   volume: '95'
-
-- id: McConnell-Sidorick2017
-  author:
-    - family: McConnell-Sidorick
-      given: Sharon
-  citation-key: McConnell-Sidorick2017
-  issued:
-    - year: 2017
-      month: 2
-  title: >-
-    Silk Stockings and Socialism: Philadelphia's Radical Hosiery Workers from
-    the Jazz Age to the New Deal
-  title-short: Silk Stockings and Socialism
-  type: book
 
 - id: mcconnell-sidorickSilkStockingsSocialism2017
   author:
@@ -22147,25 +20204,6 @@ references:
   title: 'Beyond the Water Cooler: Speech and the Workplace in an Era of Social Media'
   type: article-journal
   volume: '30'
-
-- id: McGrath2019
-  author:
-    - family: McGrath
-      given: Maria
-  citation-key: McGrath2019
-  event-place: Amherst
-  ISBN: 978-1-62534-422-9
-  issued:
-    - literal: 2019-06-0010
-  language: English
-  number-of-pages: '256'
-  publisher: University of Massachusetts Press
-  publisher-place: Amherst
-  title: >-
-    Food for Dissent: Natural Foods and the Consumer Counterculture since the
-    1960s
-  title-short: Food for Dissent
-  type: book
 
 - id: mcgrathFoodDissentNatural2019
   abstract: >-
@@ -22314,22 +20352,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/1512168
   volume: '36'
-
-- id: McNeil2011
-  author:
-    - family: McNeil
-      given: Genna Rae
-  citation-key: McNeil2011
-  ISBN: 978-0-8122-0083-6
-  issued:
-    - year: 2011
-      month: 6
-  language: en
-  number-of-pages: '336'
-  publisher: University of Pennsylvania Press
-  title: 'Groundwork: Charles Hamilton Houston and the Struggle for Civil Rights'
-  title-short: Groundwork
-  type: book
 
 - id: mcneilGroundworkCharlesHamilton2011
   abstract: >-
@@ -22684,7 +20706,7 @@ references:
 - id: MeyersI1984
   authority: N.L.R.B.
   citation-key: MeyersI1984
-  container-title: N.L.R.B.
+  container-title: NLRB
   issued:
     - year: 1984
   page: '493'
@@ -22737,36 +20759,13 @@ references:
 - id: MeyersII1986
   authority: N.L.R.B.
   citation-key: MeyersII1986
-  container-title: N.L.R.B.
+  container-title: NLRB
   issued:
     - year: 1986
   page: '493'
   title: Meyers Industries, Inc. ("Meyers II")
   type: legal_case
   volume: '281'
-
-- id: Mian2015
-  author:
-    - family: Mian
-      given: Atif
-    - family: Sufi
-      given: Amir
-  citation-key: Mian2015
-  edition: First Edition, Enlarged edition
-  event-place: Chicago; London
-  ISBN: 978-0-226-27165-1
-  issued:
-    - year: 2015
-      month: 5
-  language: English
-  number-of-pages: '238'
-  publisher: University of Chicago Press
-  publisher-place: Chicago; London
-  title: >-
-    House of Debt: How They (and You) Caused the Great Recession, and How We Can
-    Prevent It from Happening Again
-  title-short: House of Debt
-  type: book
 
 - id: mianHouseDebtHow2015
   abstract: >-
@@ -22818,23 +20817,6 @@ references:
     House of Debt: How They (and You) Caused the Great Recession, and How We Can
     Prevent It from Happening Again
   title-short: House of Debt
-  type: book
-
-- id: Micklitz2016
-  author:
-    - family: Micklitz
-      given: Hans-W.
-    - family: Domurath
-      given: Irina
-  citation-key: Micklitz2016
-  ISBN: 978-1-317-16125-7
-  issued:
-    - year: 2016
-      month: 3
-  language: en
-  number-of-pages: '273'
-  publisher: Routledge
-  title: Consumer Debt and Social Exclusion in Europe
   type: book
 
 - id: micklitzConsumerDebtSocial2016
@@ -22919,26 +20901,6 @@ references:
   title-short: Contesting household debt in Croatia
   type: article-journal
   volume: '43'
-
-- id: Mikus2021
-  author:
-    - family: Mikuš
-      given: Marek
-    - family: Rodik
-      given: Petra
-  citation-key: Mikus2021
-  ISBN: 978-1-00-039397-2
-  issued:
-    - year: 2021
-      month: 6
-  language: en
-  number-of-pages: '180'
-  publisher: Routledge
-  title: >-
-    Households and Financialization in Europe: Mapping Variegated Patterns in
-    Semi-Peripheries
-  title-short: Households and Financialization in Europe
-  type: book
 
 - id: mikusAnthropologyFinancializationEastern2021
   abstract: >-
@@ -23074,43 +21036,6 @@ references:
   title-short: Making Debt Work
   type: chapter
 
-- id: Milanovic2012
-  author:
-    - family: Milanovic
-      given: Branko
-  citation-key: Milanovic2012
-  edition: Reprint edition
-  event-place: New York
-  ISBN: 978-0-465-03141-2
-  issued:
-    - literal: 2012-08-0007
-  language: English
-  number-of-pages: '280'
-  publisher: Basic Books
-  publisher-place: New York
-  title: >-
-    The Haves and the Have-Nots: A Brief and Idiosyncratic History of Global
-    Inequality
-  title-short: The Haves and the Have-Nots
-  type: book
-
-- id: Milanovic2019
-  author:
-    - family: Milanovic
-      given: Branko
-  citation-key: Milanovic2019
-  event-place: Cambridge, Massachusetts
-  ISBN: 978-0-674-98759-3
-  issued:
-    - literal: 2019-09-0024
-  language: English
-  number-of-pages: '304'
-  publisher: 'Belknap Press: An Imprint of Harvard University Press'
-  publisher-place: Cambridge, Massachusetts
-  title: 'Capitalism, Alone: The Future of the System That Rules the World'
-  title-short: Capitalism, Alone
-  type: book
-
 - id: milanovicCapitalismAloneFuture2019
   abstract: >-
     A provocative account of capitalism’s rise to global dominance and, as
@@ -23180,20 +21105,6 @@ references:
   title-short: The Haves and the Have-Nots
   type: book
 
-- id: Miliband2009
-  author:
-    - family: Miliband
-      given: Ralph
-  citation-key: Miliband2009
-  ISBN: 978-0-85036-688-4
-  issued:
-    - year: 2009
-  language: en
-  number-of-pages: '141'
-  publisher: Merlin Press
-  title: The State in Capitalist Society
-  type: book
-
 - id: milibandStateCapitalistSociety2009
   abstract: >-
     Presenting a sustained and concrete challenge to the current political
@@ -23224,27 +21135,6 @@ references:
   publisher: Merlin Press
   source: Google Books
   title: The State in Capitalist Society
-  type: book
-
-- id: Milkman2004
-  citation-key: Milkman2004
-  edition: 1 edition
-  editor:
-    - family: Milkman
-      given: Ruth
-    - family: Voss
-      given: Kim
-  event-place: Ithaca, N.Y
-  ISBN: 978-0-8014-8902-0
-  issued:
-    - year: 2004
-      month: 7
-  language: English
-  number-of-pages: '320'
-  publisher: ILR Press
-  publisher-place: Ithaca, N.Y
-  title: 'Rebuilding Labor: Organizing and Organizers in the New Union Movement'
-  title-short: Rebuilding Labor
   type: book
 
 - id: milkmanRebuildingLaborOrganizing2004
@@ -23290,30 +21180,6 @@ references:
   title-short: Rebuilding Labor
   type: book
 
-- id: Miller2006
-  author:
-    - family: Miller
-      given: Connie Rose
-  citation-key: Miller2006
-  contributor:
-    - family: Charles
-      given: Barnett III
-    - family: Erwin
-      given: Steve
-  edition: 1st edition
-  event-place: Mankato, Minn
-  ISBN: 978-0-7368-9662-7
-  issued:
-    - year: 2006
-      month: 9
-  language: English
-  number-of-pages: '32'
-  publisher: Capstone Press
-  publisher-place: Mankato, Minn
-  title: 'Mother Jones: Labor Leader'
-  title-short: Mother Jones
-  type: book
-
 - id: millerMotherJonesLabor2006
   abstract: >-
     Tells the story of Mary "Mother" Jones, a leading labor union and child
@@ -23340,22 +21206,6 @@ references:
   source: Amazon
   title: 'Mother Jones: Labor Leader'
   title-short: Mother Jones
-  type: book
-
-- id: Mills2000
-  author:
-    - family: Mills
-      given: C. Wright
-    - family: Wolfe
-      given: Alan
-  citation-key: Mills2000
-  ISBN: 978-0-19-513354-7
-  issued:
-    - year: 2000
-  language: en
-  number-of-pages: '449'
-  publisher: Oxford University Press, USA
-  title: The Power Elite
   type: book
 
 - id: millsPowerElite2000
@@ -23392,19 +21242,6 @@ references:
   publisher: Oxford University Press, USA
   source: Google Books
   title: The Power Elite
-  type: book
-
-- id: Minchin1997
-  author:
-    - family: Minchin
-      given: Timothy
-  citation-key: Minchin1997
-  issued:
-    - year: 1997
-  language: en-US
-  publisher: Univ of North Carolina Press
-  title: What Do We Need a Union For? The TWUA in the South, 1945-1955
-  title-short: What Do We Need a Union For?
   type: book
 
 - id: Minchin2005
@@ -23507,36 +21344,6 @@ references:
   type: paper-conference
   volume: '25'
 
-- id: mohanStateArtWorkflow1996a
-  author:
-    - family: Mohan
-      given: C
-  citation-key: mohanStateArtWorkflow1996a
-  ISBN: 0-89791-794-4
-  issued:
-    - year: 1996
-  page: '544'
-  publisher: ACM
-  title: State of the art in workflow management research and products
-  type: paper-conference
-  volume: '25'
-
-- id: Moliterno2013
-  author:
-    - family: Moliterno
-      given: James E.
-  citation-key: Moliterno2013
-  ISBN: 978-0-19-934418-5
-  issued:
-    - year: 2013
-      month: 2
-  language: en
-  number-of-pages: '265'
-  publisher: Oxford University Press
-  title: 'The American Legal Profession in Crisis: Resistance and Responses to Change'
-  title-short: The American Legal Profession in Crisis
-  type: book
-
 - id: moliternoAmericanLegalProfession2013
   author:
     - family: Moliterno
@@ -23565,11 +21372,12 @@ references:
 - id: MontereyCounty1953
   authority: 9th Circuit
   citation-key: MontereyCounty1953
-  container-title: F.2d
+  container-title: F. 2d
   issued:
     - year: 1953
   page: '927'
   title: NLRB v. Monterey County B. & C. Trades Council
+  title-short: Monterey County B&C Trades Council
   type: legal_case
   volume: '335'
 
@@ -23677,24 +21485,6 @@ references:
   URL: http://www.sciencedirect.com/science/article/pii/S0016718518301519
   volume: '98'
 
-- id: Montgomery1989
-  author:
-    - family: Montgomery
-      given: ''
-  citation-key: Montgomery1989
-  edition: Reprint, 1999 edition
-  event-place: Cambridge
-  ISBN: 978-0-521-37982-3
-  issued:
-    - year: 1989
-      month: 1
-  language: English
-  number-of-pages: '508'
-  publisher: Cambridge University Press
-  publisher-place: Cambridge
-  title: The Fall of the House of Labor
-  type: book
-
 - id: montgomeryFallHouseLabor1989
   abstract: >-
     By studying the ways in which American industrial workers mobilized
@@ -23735,25 +21525,6 @@ references:
   title: The Determination of Bargaining Units for College Faculties
   type: article-journal
   volume: '37'
-
-- id: Moore1993
-  author:
-    - family: Moore
-      given: Barrington
-    - family: Moore
-      given: Lecturer on Sociology Barrington
-  citation-key: Moore1993
-  ISBN: 978-0-8070-5073-6
-  issued:
-    - year: 1993
-  language: en
-  number-of-pages: '598'
-  publisher: Beacon Press
-  title: >-
-    Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making
-    of the Modern World
-  title-short: Social Origins of Dictatorship and Democracy
-  type: book
 
 - id: mooreDeterminationBargainingUnits1975
   author:
@@ -24123,30 +21894,6 @@ references:
     https://read.dukeupress.edu/labor/article/15/4/37/137138/The-Strange-Career-of-the-Working-Class-in-US
   volume: '15'
 
-- id: Murolo2018
-  author:
-    - family: Murolo
-      given: Priscilla
-    - family: Chitty
-      given: A. B.
-  citation-key: Murolo2018
-  contributor:
-    - family: Sacco
-      given: Joe
-  edition: Illustrated edition
-  ISBN: 978-1-62097-448-3
-  issued:
-    - year: 2018
-      month: 8
-  language: English
-  number-of-pages: '416'
-  publisher: The New Press
-  title: >-
-    From the Folks Who Brought You the Weekend: A Short, Illustrated History of
-    Labor in the United States
-  title-short: From the Folks Who Brought You the Weekend
-  type: book
-
 - id: muroloFolksWhoBrought2018
   abstract: >-
     “A marvelously informed, carefully crafted, far-ranging history of working
@@ -24415,7 +22162,7 @@ references:
   URL: https://www.emeraldinsight.com/doi/full/10.1108/EL-03-2012-0031
   volume: '31'
 
-- id: NationalAgriculturalLawCenter2021
+- id: nationalagriculturallawcenterAggagLawsUpdate2021
   accessed:
     - year: 2022
       month: 1
@@ -24423,7 +22170,7 @@ references:
   author:
     - family: National Agricultural Law Center
       given: ''
-  citation-key: NationalAgriculturalLawCenter2021
+  citation-key: nationalagriculturallawcenterAggagLawsUpdate2021
   issued:
     - year: 2021
       month: 8
@@ -24676,7 +22423,7 @@ references:
   citation-key: NLRBNashFinchCo1971
   container-title: U.S.
   issued:
-    - year: 1971
+    - literal: 1971-12-0008
   page: '138'
   title: NLRB v. Nash-Finch Co.
   title-short: Nash-Finch
@@ -24722,23 +22469,6 @@ references:
   type: legislation
   URL: https://www.law.cornell.edu/uscode/text/29/101
   volume: '29'
-
-- id: North1990
-  author:
-    - family: North
-      given: Douglass C.
-  citation-key: North1990
-  edition: 59262nd edition
-  event-place: Cambridge; New York
-  ISBN: 978-0-521-39734-6
-  issued:
-    - literal: 1990-10-0026
-  language: English
-  number-of-pages: '164'
-  publisher: Cambridge University Press
-  publisher-place: Cambridge; New York
-  title: Institutions, Institutional Change and Economic Performance
-  type: book
 
 - id: NorthDakotaAgGag1991
   citation-key: NorthDakotaAgGag1991
@@ -24805,28 +22535,6 @@ references:
   title: Notepad++
   type: webpage
   URL: https://notepad-plus-plus.org/
-
-- id: Notepada
-  citation-key: Notepada
-  title: Notepad++
-  type: webpage
-  URL: https://notepad-plus-plus.org/
-
-- id: Nowogrodzki2001
-  author:
-    - family: Nowogrodzki
-      given: Emanuel
-  citation-key: Nowogrodzki2001
-  edition: 1st edition
-  ISBN: 978-0-88400-214-7
-  issued:
-    - year: 2001
-      month: 9
-  language: English
-  number-of-pages: '334'
-  publisher: Shengold Publishers Inc.,U.S.
-  title: The Jewish Labor Bund in Poland
-  type: book
 
 - id: nowogrodzkiJewishLaborBund2001
   author:
@@ -24981,19 +22689,6 @@ references:
   URL: www.jstor.org/stable/1894410
   volume: '74'
 
-- id: Offe1984
-  author:
-    - family: Offe
-      given: Claus
-  citation-key: Offe1984
-  issued:
-    - year: 1984
-  language: en
-  number-of-pages: '318'
-  publisher: Hutchinson
-  title: Contradictions of the Welfare State
-  type: book
-
 - id: offeContradictionsWelfareState1984
   author:
     - family: Offe
@@ -25016,26 +22711,6 @@ references:
   section: '901.511'
   title: Ohio Ag Terrorism
   type: legislation
-
-- id: Olson1971
-  author:
-    - family: Olson
-      given: Mancur
-  citation-key: Olson1971
-  edition: Revised edition
-  event-place: Cambridge, Mass.
-  ISBN: 978-0-674-53751-4
-  issued:
-    - literal: 1971-01-0001
-  language: English
-  number-of-pages: '186'
-  publisher: Harvard University Press
-  publisher-place: Cambridge, Mass.
-  title: >-
-    The Logic of Collective Action: Public Goods and the Theory of Groups,
-    Second Printing with a New Preface and Appendix
-  title-short: The Logic of Collective Action
-  type: book
 
 - id: olsonLogicCollectiveAction1971
   abstract: >-
@@ -25136,27 +22811,6 @@ references:
     https://columbialawreview.org/content/borrowing-equality-dispossession-and-the-need-for-an-abolitionist-approach-to-survival-debt/
   volume: '120'
 
-- id: Orleck1995
-  author:
-    - family: Orleck
-      given: Annelise
-  citation-key: Orleck1995
-  edition: New edition edition
-  event-place: Chapel Hill
-  ISBN: 978-0-8078-4511-0
-  issued:
-    - year: 1995
-      month: 5
-  language: English
-  number-of-pages: '400'
-  publisher: The University of North Carolina Press
-  publisher-place: Chapel Hill
-  title: >-
-    Common Sense and a Little Fire: Women and Working-Class Politics in the
-    United States, 1900-1965
-  title-short: Common Sense and a Little Fire
-  type: book
-
 - id: orleckCommonSenseLittle1995
   abstract: >-
     Common Sense and a Little Fire# traces the personal and public lives of four
@@ -25183,26 +22837,6 @@ references:
     Common Sense and a Little Fire: Women and Working-Class Politics in the
     United States, 1900-1965
   title-short: Common Sense and a Little Fire
-  type: book
-
-- id: Orren1992
-  author:
-    - family: Orren
-      given: Karen
-  citation-key: Orren1992
-  edition: First Printing edition
-  event-place: Cambridge England; New York
-  ISBN: 978-0-521-42254-3
-  issued:
-    - year: 1992
-  language: English
-  number-of-pages: '252'
-  publisher: Cambridge University Press
-  publisher-place: Cambridge England; New York
-  title: >-
-    Belated Feudalism: Labor, the Law, and Liberal Development in the United
-    States
-  title-short: Belated Feudalism
   type: book
 
 - id: orrenBelatedFeudalismLabor1992
@@ -25324,12 +22958,6 @@ references:
   type: webpage
   URL: https://osf.io/
 
-- id: OSFa
-  citation-key: OSFa
-  title: OSF
-  type: webpage
-  URL: https://osf.io/
-
 - id: ottPoliticsDebtHow2013
   archive: JSTOR
   author:
@@ -25397,18 +23025,6 @@ references:
   type: webpage
   URL: https://www.alwd.org/lcr-archives/fall-2004-volume-2/240-painting-with-print
 
-- id: PaintingPrintIncorporatinga
-  accessed:
-    - year: 2019
-      month: 9
-      day: 16
-  citation-key: PaintingPrintIncorporatinga
-  title: >-
-    Painting with Print: Incorporating Concepts of Typographic and Layout Design
-    into the Text of Legal Writing Documents
-  type: webpage
-  URL: https://www.alwd.org/lcr-archives/fall-2004-volume-2/240-painting-with-print
-
 - id: PalacioCitySpringfield2014
   authority: D. Mass.
   citation-key: PalacioCitySpringfield2014
@@ -25441,31 +23057,6 @@ references:
   title: Pandoc
   type: webpage
   URL: http://pandoc.org/
-
-- id: Pandoca
-  citation-key: Pandoca
-  title: Pandoc
-  type: webpage
-  URL: http://pandoc.org/
-
-- id: Parker2019
-  author:
-    - family: Parker
-      given: Traci
-  citation-key: Parker2019
-  event-place: Chapel Hill
-  ISBN: 978-1-4696-4867-5
-  issued:
-    - literal: 2019-04-0008
-  language: English
-  number-of-pages: '328'
-  publisher: The University of North Carolina Press
-  publisher-place: Chapel Hill
-  title: >-
-    Department Stores and the Black Freedom Movement: Workers, Consumers, and
-    Civil Rights from the 1930s to the 1980s
-  title-short: Department Stores and the Black Freedom Movement
-  type: book
 
 - id: parkerComplianceTrapMoral2014
   abstract: >-
@@ -25718,23 +23309,6 @@ references:
   type: webpage
   URL: https://borgenproject.org/personal-debt-in-the-czech-republic/
 
-- id: Pertschuk1983
-  author:
-    - family: Pertschuk
-      given: Michael
-  citation-key: Pertschuk1983
-  event-place: Berkeley
-  ISBN: 978-0-520-05074-7
-  issued:
-    - literal: 1983-12-0003
-  language: English
-  number-of-pages: '192'
-  publisher: University of California Press
-  publisher-place: Berkeley
-  title: 'Revolt Against Regulation: The Rise and Pause of the Consumer Movement'
-  title-short: Revolt Against Regulation
-  type: book
-
 - id: pertschukRevoltRegulationRise1983
   abstract: "\"Michael Pertschuk brings an insider's insight to the tumultuous years of the sixties and seventies, when the consumer protection bells rang from Washington throughout the land. An engrossing story of corporate versus consumer battles over health, safety, and the economic rights of Americans. The future of consumer justice is given wisdom by this eyewitness account.\"--Ralph Nadar\_\"This is a book that should be ready by everyone with a stake in regulation of business by bureaucrats in Washington. Whether you agree or disagree with his point of view--and I often disagree--you can always count on Mike Pertschuk to be provocative, stimulating, and certainly controversial.\"--Howard H. Bell, President, American Advertising Federation\_\"There is a lot of businessmen [sic] to disagree with in this book. It's troublesome and disturbing--not the least because Mike Pertschuk is a tough adversary. But any businessman [sic]--or citizen--who wants to know exactly how the politics of regulation work would be well advised to read this book--and be prepared.\"--George Koch, President and Chief Executive Officer Grocery Manufacturers of America\_\"Must reading for everyone who is a student of the consumer movement, past, present, and future, and its interaction with the government, media, private sector, et al. It is a superb 'How To' manual on tactics, and presents a rare inside look at how things really get done in that place called Washington, D.C.\"--Calvin Pond, Vice President, Public Affairs Division Safeway Stores, Inc.\_\"Pertschuk's book is outstanding; it is a beautiful blend of personal, firsthand observation and political and policy analysis.\"--Aaron Wildavsky, University of California, Berkeley\_\"A rare picture of how government works. . . sprightly, lucid, and appealing . . .remarkably candid and honest, not only in revealing the labyrinthian interplays of politics but in disclosing the author's own attitudes and motives. . . . An extraordinary document.\"--Charles Lindblom, Yale University\_\"There is no more controversial figure in Washington than Michael Pertschuk . . .\"--Senator John Danforth"
   author:
@@ -25797,17 +23371,6 @@ references:
   type: legal_case
   volume: '466'
 
-- id: PETAvStein2023-4thCir
-  authority: 4th Cir.
-  citation-key: PETAvStein2023-4thCir
-  issued:
-    - year: 2023
-      month: 2
-      day: 23
-  number: 20-1776
-  title: People for the Ethical Treatment of Animals v. Stein
-  type: legal_case
-
 - id: pexidrovaLackFinancialLiteracy2019
   author:
     - family: Pexídrová
@@ -25821,19 +23384,6 @@ references:
     Is the Lack of Financial Literacy the Reason for the Debt Trap in the Czech
     Republic?
   type: thesis
-
-- id: PhilipDray2011
-  author:
-    - family: Philip Dray
-      given: ''
-  citation-key: PhilipDray2011
-  issued:
-    - year: 2011
-  language: en-US
-  publisher: Anchor
-  title: 'There Is Power in a Union: The Epic Story of Labor in America'
-  title-short: There Is Power in a Union by Philip Dray
-  type: book
 
 - id: philipdrayTherePowerUnion2011
   abstract: >-
@@ -25857,22 +23407,6 @@ references:
   type: book
   URL: >-
     https://www.penguinrandomhouse.com/books/42830/there-is-power-in-a-union-by-philip-dray/9780307389763
-
-- id: Phillips-Fein2010
-  author:
-    - family: Phillips-Fein
-      given: Kim
-  citation-key: Phillips-Fein2010
-  edition: Reprint edition
-  ISBN: 978-0-393-33766-2
-  issued:
-    - literal: 2010-01-0011
-  language: English
-  number-of-pages: '376'
-  publisher: W. W. Norton & Company
-  title: 'Invisible Hands: The Businessmen''s Crusade Against the New Deal'
-  title-short: Invisible Hands
-  type: book
 
 - id: phillips-feinInvisibleHandsBusinessmen2010
   abstract: >-
@@ -25906,63 +23440,6 @@ references:
   source: Amazon
   title: 'Invisible Hands: The Businessmen''s Crusade Against the New Deal'
   title-short: Invisible Hands
-  type: book
-
-- id: Piketty2015
-  author:
-    - family: Piketty
-      given: Thomas
-  citation-key: Piketty2015
-  edition: Translation edition
-  event-place: Cambridge, Massachusetts; London, England
-  ISBN: 978-0-674-50480-6
-  issued:
-    - literal: 2015-08-0003
-  language: English
-  number-of-pages: '160'
-  publisher: 'Belknap Press: An Imprint of Harvard University Press'
-  publisher-place: Cambridge, Massachusetts; London, England
-  title: The Economics of Inequality
-  translator:
-    - family: Goldhammer
-      given: Arthur
-  type: book
-
-- id: Piketty2017
-  author:
-    - family: Piketty
-      given: Thomas
-  citation-key: Piketty2017
-  edition: Reprint edition
-  ISBN: 978-0-674-97985-7
-  issued:
-    - literal: 2017-08-0014
-  language: English
-  number-of-pages: '816'
-  publisher: 'Belknap Press: An Imprint of Harvard University Press'
-  title: Capital in the Twenty-First Century
-  translator:
-    - family: Goldhammer
-      given: Arthur
-  type: book
-
-- id: Piketty2020
-  author:
-    - family: Piketty
-      given: Thomas
-  citation-key: Piketty2020
-  event-place: Cambridge, Massachusetts
-  ISBN: 978-0-674-98082-2
-  issued:
-    - literal: 2020-03-0010
-  language: English
-  number-of-pages: '1150'
-  publisher: 'Belknap Press: An Imprint of Harvard University Press'
-  publisher-place: Cambridge, Massachusetts
-  title: Capital and Ideology
-  translator:
-    - family: Goldhammer
-      given: Arthur
   type: book
 
 - id: pikettyCapitalIdeology2020
@@ -26118,23 +23595,6 @@ references:
   URL: http://www.jstor.org/stable/42977762
   volume: '163'
 
-- id: Pistor2019
-  author:
-    - family: Pistor
-      given: Katharina
-  citation-key: Pistor2019
-  event-place: Princeton, NJ
-  ISBN: 978-0-691-17897-4
-  issued:
-    - literal: 2019-05-0028
-  language: English
-  number-of-pages: '320'
-  publisher: Princeton University Press
-  publisher-place: Princeton, NJ
-  title: 'The Code of Capital: How the Law Creates Wealth and Inequality'
-  title-short: The Code of Capital
-  type: book
-
 - id: pistorCodeCapitalHow2019
   abstract: >-
     A compelling explanation of how the law shapes the distribution of
@@ -26199,36 +23659,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/40862131
   volume: '7'
-
-- id: Poggi1978
-  author:
-    - family: Poggi
-      given: Gianfranco
-  citation-key: Poggi1978
-  ISBN: 978-0-8047-1042-8
-  issued:
-    - year: 1978
-  language: en
-  number-of-pages: '196'
-  publisher: Stanford University Press
-  title: 'The Development of the Modern State: A Sociological Introduction'
-  title-short: The Development of the Modern State
-  type: book
-
-- id: Poggi1990
-  author:
-    - family: Poggi
-      given: Gianfranco
-  citation-key: Poggi1990
-  ISBN: 978-0-8047-1877-6
-  issued:
-    - year: 1990
-  language: en
-  number-of-pages: '228'
-  publisher: Stanford University Press
-  title: 'The State: Its Nature, Development, and Prospects'
-  title-short: The State
-  type: book
 
 - id: poggiDevelopmentModernState1978
   abstract: >-
@@ -26302,24 +23732,6 @@ references:
   source: Google Books
   title: 'The State: Its Nature, Development, and Prospects'
   title-short: The State
-  type: book
-
-- id: Polanyi2001
-  author:
-    - family: Polanyi
-      given: Karl
-  citation-key: Polanyi2001
-  edition: 2 edition
-  event-place: Boston, MA
-  ISBN: 978-0-8070-5643-1
-  issued:
-    - literal: 2001-03-0028
-  language: English
-  number-of-pages: '360'
-  publisher: Beacon Press
-  publisher-place: Boston, MA
-  title: 'The Great Transformation: The Political and Economic Origins of Our Time'
-  title-short: The Great Transformation
   type: book
 
 - id: polanyiGreatTransformationPolitical2001
@@ -26584,25 +23996,6 @@ references:
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
 
-- id: Posner2018
-  author:
-    - family: Posner
-      given: Eric A.
-    - family: Weyl
-      given: E. Glen
-  citation-key: Posner2018
-  event-place: Princeton
-  ISBN: 978-0-691-17750-2
-  issued:
-    - literal: 2018-05-0015
-  language: English
-  number-of-pages: '368'
-  publisher: Princeton University Press
-  publisher-place: Princeton
-  title: 'Radical Markets: Uprooting Capitalism and Democracy for a Just Society'
-  title-short: Radical Markets
-  type: book
-
 - id: posnerFourEconomicPerspectives2003
   abstract: >-
     One of the main purposes of American labor law has been to reduce conflict
@@ -26701,20 +24094,6 @@ references:
   title-short: Anti-Semitism and National Socialism
   type: article-journal
   URL: http://www.jstor.org/stable/487974
-
-- id: Poulantzas2000
-  author:
-    - family: Poulantzas
-      given: Nicos Ar
-  citation-key: Poulantzas2000
-  ISBN: 978-1-85984-274-4
-  issued:
-    - year: 2000
-  language: en
-  number-of-pages: '292'
-  publisher: Verso
-  title: State, Power, Socialism
-  type: book
 
 - id: poulantzasStatePowerSocialism2000
   abstract: >-
@@ -26818,7 +24197,7 @@ references:
     https://features.propublica.org/medical-debt/when-medical-debt-collectors-decide-who-gets-arrested-coffeyville-kansas/
 
 - id: PulaskiCountyMedicalExchange2022
-  authority: E.D. Ark.
+  authority: E.D.Arkansas
   citation-key: PulaskiCountyMedicalExchange2022
   container-title: WL
   issued:
@@ -26830,70 +24209,6 @@ references:
   title: Pulaski County Medical Exchange v. Medcom Medical Messaging, Inc.
   type: legal_case
   volume: '2022'
-
-- id: Purcell1992
-  author:
-    - family: Purcell
-      given: Edward A.
-  citation-key: Purcell1992
-  issued:
-    - literal: 1992-12-0031
-  language: en
-  publisher: Oxford University Press
-  title: >-
-    Litigation and Inequality: Federal Diversity Jurisdiction in Industrial
-    America, 1870-1958
-  title-short: Litigation and Inequality
-  type: book
-
-- id: Purcell2000
-  author:
-    - family: Purcell
-      given: Edward A.
-  citation-key: Purcell2000
-  issued:
-    - year: 2000
-  language: en
-  publisher: Yale University Press
-  title: >-
-    Brandeis and the Progressive Constitution: Erie, the Judicial Power, and the
-    Politics of the Federal Courts in Twentieth-century America
-  title-short: Brandeis and the Progressive Constitution
-  type: book
-
-- id: Purcell2007
-  author:
-    - family: Purcell
-      given: Edward A.
-  citation-key: Purcell2007
-  ISBN: 978-0-300-12203-9
-  issued:
-    - year: 2007
-  language: en
-  number-of-pages: '311'
-  publisher: Yale University Press
-  title: >-
-    Originalism, Federalism, and the American Constitutional Enterprise: A
-    Historical Inquiry
-  title-short: Originalism, Federalism, and the American Constitutional Enterprise
-  type: book
-
-- id: Purcell2020
-  author:
-    - family: Purcell
-      given: Edward A.
-  citation-key: Purcell2020
-  ISBN: 978-0-19-750876-3
-  issued:
-    - year: 2020
-  language: en
-  number-of-pages: '329'
-  publisher: Oxford University Press
-  title: >-
-    Antonin Scalia and American Constitutionalism: The Historical Significance
-    of a Judicial Icon
-  title-short: Antonin Scalia and American Constitutionalism
-  type: book
 
 - id: purcellAntoninScaliaAmerican2020
   abstract: >-
@@ -27102,18 +24417,6 @@ references:
   title: Report on the Scottsboro, Ala. Case
   type: document
 
-- id: randsellReportScottsboroAla1931a
-  author:
-    - family: Randsell
-      given: Hollace
-  citation-key: randsellReportScottsboroAla1931a
-  issued:
-    - year: 1931
-      month: 5
-  publisher: American Civil Liberties Union
-  title: Report on the Scottsboro, Ala. Case
-  type: document
-
 - id: redmilesShelterStormNeed1989
   author:
     - family: Redmiles
@@ -27215,17 +24518,6 @@ references:
   type: article-journal
   volume: '11'
 
-- id: Reiner1978
-  author:
-    - family: Reiner
-      given: Robert
-  citation-key: Reiner1978
-  issued:
-    - year: 1978
-  publisher: Cambridge University Press Cambridge
-  title: 'The Blue-Coated Worker: A Sociological Study of Police Unionism'
-  type: book
-
 - id: reinerBlueCoatedWorkerSociological1978
   author:
     - family: Reiner
@@ -27280,18 +24572,6 @@ references:
   container-title: F3d
   issued:
     - literal: 2014-09-0023
-  page: '938'
-  title: Retail Property Trust v. United Broth. of Carpenters and Joiners of America
-  title-short: Retail Property Trust
-  type: legal_case
-  volume: '768'
-
-- id: RetailPropertyTrust2014
-  authority: 9th Cir.
-  citation-key: RetailPropertyTrust2014
-  container-title: F.3d
-  issued:
-    - year: 2014
   page: '938'
   title: Retail Property Trust v. United Broth. of Carpenters and Joiners of America
   title-short: Retail Property Trust
@@ -27491,22 +24771,6 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/advnce3&i=177
   volume: '3'
 
-- id: Rosenberg2008
-  author:
-    - family: Rosenberg
-      given: Gerald N.
-  citation-key: Rosenberg2008
-  ISBN: 978-0-226-72668-7
-  issued:
-    - year: 2008
-      month: 9
-  language: en
-  number-of-pages: '541'
-  publisher: University of Chicago Press
-  title: 'The Hollow Hope: Can Courts Bring About Social Change? Second Edition'
-  title-short: The Hollow Hope
-  type: book
-
 - id: rosenbergHollowHopeCan2008
   abstract: >-
     In follow-up studies, dozens of reviews, and even a book of essays
@@ -27545,24 +24809,6 @@ references:
   source: Google Books
   title: 'The Hollow Hope: Can Courts Bring About Social Change? Second Edition'
   title-short: The Hollow Hope
-  type: book
-
-- id: Rosenfeld2014
-  author:
-    - family: Rosenfeld
-      given: Jake
-  citation-key: Rosenfeld2014
-  edition: First Edition edition
-  event-place: Cambridge, Massachusetts; London, England
-  ISBN: 978-0-674-72511-9
-  issued:
-    - year: 2014
-      month: 2
-  language: English
-  number-of-pages: '288'
-  publisher: Harvard University Press
-  publisher-place: Cambridge, Massachusetts; London, England
-  title: What Unions No Longer Do
   type: book
 
 - id: rosenfeldWhatUnionsNo2014
@@ -27626,18 +24872,6 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/24052232
   volume: '27'
-
-- id: Ross2014a
-  author:
-    - family: Ross
-      given: ''
-  citation-key: Ross2014a
-  ISBN: 978-1-939293-38-1
-  issued:
-    - year: 2014
-  publisher: OR Books
-  title: Creditocracy and the Case for Debt Refusal
-  type: book
 
 - id: rossAmericanWorkersAmerican2001
   abstract: >-
@@ -27774,24 +25008,6 @@ references:
   URL: >-
     https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=sih&AN=96062680&site=ehost-live
   volume: '6'
-
-- id: Rothstein2017
-  author:
-    - family: Rothstein
-      given: Richard
-  citation-key: Rothstein2017
-  ISBN: 978-1-63149-286-0
-  issued:
-    - year: 2017
-      month: 5
-  language: en
-  number-of-pages: '246'
-  publisher: Liveright Publishing
-  title: >-
-    The Color of Law: A Forgotten History of How Our Government Segregated
-    America
-  title-short: The Color of Law
-  type: book
 
 - id: rothsteinColorLawForgotten2017
   abstract: "New York Times Bestseller • Notable Book of the Year • Editors' Choice Selection One of Bill Gates’ “Amazing Books” of the Year One of Publishers Weekly’s 10 Best Books of the Year Longlisted for the National Book Award for Nonfiction An NPR Best Book of the Year Winner of the Hillman Prize for Nonfiction Gold Winner • California Book Award (Nonfiction) Finalist • Los Angeles Times Book Prize (History) Finalist • Brooklyn Public Library Literary Prize This “powerful and disturbing history” exposes how American governments deliberately imposed racial segregation on metropolitan areas nationwide (New York Times Book Review). \_ Widely heralded as a “masterful” (Washington Post) and “essential” (Slate) history of the modern American metropolis, Richard Rothstein’s The Color of Law offers “the most forceful argument ever published on how federal, state, and local governments gave rise to and reinforced neighborhood segregation” (William Julius Wilson). Exploding the myth of de facto segregation arising from private prejudice or the unintended consequences of economic forces, Rothstein describes how the American government systematically imposed residential segregation: with undisguised racial zoning; public housing that purposefully segregated previously mixed communities; subsidies for builders to create whites-only suburbs; tax exemptions for institutions that enforced segregation; and support for violent resistance to African Americans in white neighborhoods. A groundbreaking, “virtually indispensable” study that has already transformed our understanding of twentieth-century urban history (Chicago Daily Observer), The Color of Law forces us to face the obligation to remedy our unconstitutional past."
@@ -27950,22 +25166,6 @@ references:
   URL: >-
     https://oxfordre.com/anthropology/view/10.1093/acrefore/9780190854584.001.0001/acrefore-9780190854584-e-228
 
-- id: Sacks2021a
-  author:
-    - family: Sacks
-      given: Oliver
-  citation-key: Sacks2021a
-  edition: Reissue edition
-  ISBN: 978-0-593-46667-4
-  issued:
-    - literal: 2021-09-0014
-  language: English
-  number-of-pages: '320'
-  publisher: Vintage
-  title: 'The Man Who Mistook His Wife for a Hat: And Other Clinical Tales'
-  title-short: The Man Who Mistook His Wife for a Hat
-  type: book
-
 - id: sacksEyesRight2021
   author:
     - family: Sacks
@@ -28000,26 +25200,6 @@ references:
   publisher: Vintage
   title: 'The Man Who Mistook His Wife for a Hat: And Other Clinical Tales'
   title-short: The Man Who Mistook His Wife for a Hat
-  type: book
-
-- id: Saez2019
-  author:
-    - family: Saez
-      given: Emmanuel
-    - family: Zucman
-      given: Gabriel
-  citation-key: Saez2019
-  edition: 1 edition
-  event-place: New York, NY
-  ISBN: 978-1-324-00272-7
-  issued:
-    - literal: 2019-10-0015
-  language: English
-  number-of-pages: '232'
-  publisher: W. W. Norton & Company
-  publisher-place: New York, NY
-  title: 'The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay'
-  title-short: The Triumph of Injustice
   type: book
 
 - id: saezTriumphInjusticeHow2019
@@ -28105,21 +25285,6 @@ references:
   URL: >-
     https://www.taylorfrancis.com/chapters/edit/10.4324/9781003028857-10/sake-consumer-protection-tomáš-hoření-samec
 
-- id: SakeConsumerProtection2021
-  citation-key: SakeConsumerProtection2021
-  ISBN: 978-1-00-302885-7
-  issued:
-    - year: 2021
-      month: 6
-  language: en
-  publisher: Routledge
-  title: >-
-    "For the sake of consumer protection" : Blending paternalism and
-    neoliberalism in the discursive financialization of households in the Czech
-    Republic
-  title-short: “For the sake of consumer protection”
-  type: book
-
 - id: salinasEducationalOpportunityContentious2012
   author:
     - family: Salinas
@@ -28141,25 +25306,6 @@ references:
   type: article-journal
   URL: https://escholarship.org/uc/item/60g9j416
   volume: '3'
-
-- id: Salvatore2007
-  author:
-    - family: Salvatore
-      given: Nick
-  citation-key: Salvatore2007
-  edition: 2nd edition
-  event-place: Urbana
-  ISBN: 978-0-252-07452-3
-  issued:
-    - year: 2007
-      month: 3
-  language: English
-  number-of-pages: '480'
-  publisher: University of Illinois Press
-  publisher-place: Urbana
-  title: 'Eugene V. Debs: Citizen and Socialist'
-  title-short: Eugene V. Debs
-  type: book
 
 - id: salvatoreEugeneDebsCitizen2007
   abstract: >-
@@ -28222,9 +25368,9 @@ references:
   URL: https://www.govtrack.us/congress/bills/116/s1389/text/is
 
 - id: SandersonFarms2003
-  authority: 5th Cir.
+  authority: 5th Circuit
   citation-key: SandersonFarms2003
-  container-title: F.3d
+  container-title: F. 3d
   issued:
     - year: 2003
   page: '445'
@@ -28244,29 +25390,6 @@ references:
   title: Sandy Lake Band of Mississippi Chippewa v. US
   type: legal_case
   volume: '714'
-
-- id: Sarat2004
-  citation-key: Sarat2004
-  editor:
-    - family: Sarat
-      given: Austin
-  ISBN: 978-0-470-69291-2
-  issued:
-    - year: 2004
-  publisher: John Wiley & Sons, Incorporated
-  title: The Blackwell Companion to Law and Society
-  type: book
-
-- id: Sarat2005
-  author:
-    - family: Sarat
-      given: Austin
-  citation-key: Sarat2005
-  issued:
-    - year: 2005
-  publisher: Stanford University Press
-  title: 'The Worlds Cause Lawyers Make: Structure and Agency in Legal Practice'
-  type: book
 
 - id: saratBlackwellCompanionLaw2004
   abstract: >-
@@ -28377,26 +25500,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.20
 
-- id: Savage2017
-  author:
-    - family: Savage
-      given: Larry
-    - family: Smith
-      given: Charles W.
-  citation-key: Savage2017
-  event-place: Vancouver; Toronto
-  ISBN: 978-0-7748-3538-1
-  issued:
-    - year: 2017
-      month: 3
-  language: English
-  number-of-pages: '280'
-  publisher: UBC Press
-  publisher-place: Vancouver; Toronto
-  title: 'Unions in Court: Organized Labour and the Charter of Rights and Freedoms'
-  title-short: Unions in Court
-  type: book
-
 - id: savageUnionsCourtOrganized2017
   abstract: >-
     Since the turn of the twenty-first century, Canadian unions have scored a
@@ -28473,24 +25576,6 @@ references:
     regulations
   type: article-journal
   volume: '15'
-
-- id: Schlozman2018
-  author:
-    - family: Schlozman
-      given: Kay Lehman
-    - family: Brady
-      given: Henry E.
-    - family: Verba
-      given: Sidney
-  citation-key: Schlozman2018
-  ISBN: 978-0-691-18055-7
-  issued:
-    - literal: 2018-06-0012
-  language: en
-  title: >-
-    Unequal and Unrepresented: Political Inequality and the People's Voice in
-    the New Gilded Age
-  type: book
 
 - id: schlozmanUnequalUnrepresentedPolitical2018
   accessed:
@@ -28583,24 +25668,6 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/montlr51&i=100
   volume: '51'
 
-- id: Schumpeter2008
-  author:
-    - family: Schumpeter
-      given: Joseph A.
-  citation-key: Schumpeter2008
-  edition: unknown edition
-  event-place: New York
-  ISBN: 978-0-06-156161-0
-  issued:
-    - literal: 2008-11-0004
-  language: English
-  number-of-pages: '431'
-  publisher: Harper Perennial Modern Classics
-  publisher-place: New York
-  title: 'Capitalism, Socialism, and Democracy: Third Edition'
-  title-short: Capitalism, Socialism, and Democracy
-  type: book
-
 - id: schumpeterCapitalismSocialismDemocracy2008
   abstract: >-
     In this definitive third and final edition (1950) of his masterwork, Joseph
@@ -28669,74 +25736,6 @@ references:
     Finance
   type: article-journal
   volume: '84'
-
-- id: Schwartz1995
-  author:
-    - family: Schwartz
-      given: Bernard
-  citation-key: Schwartz1995
-  edition: New Ed
-  ISBN: 0-19-509387-9
-  issued:
-    - year: 1995
-  number-of-pages: '480'
-  publisher: Oxford University Press Inc, USA
-  title: A History of the Supreme Court
-  type: book
-
-- id: Schwartz2006
-  author:
-    - family: Schwartz
-      given: Robert M.
-  citation-key: Schwartz2006
-  contributor:
-    - family: Thorkelson
-      given: Nick
-  edition: 4th edition
-  event-place: Cambridge, Mass
-  ISBN: 978-0-945902-16-4
-  issued:
-    - year: 2006
-      month: 7
-  language: English
-  publisher: Labor Notes
-  publisher-place: Cambridge, Mass
-  title: The Legal Rights of Union Stewards
-  type: book
-
-- id: Schwartz2006a
-  author:
-    - family: Schwartz
-      given: Robert M.
-  citation-key: Schwartz2006a
-  contributor:
-    - family: Thorkelson
-      given: Nick
-  edition: 1st edition
-  event-place: Cambridge, Mass
-  ISBN: 978-0-945902-15-7
-  issued:
-    - year: 2006
-      month: 1
-  language: English
-  number-of-pages: '164'
-  publisher: Work Rights Press
-  publisher-place: Cambridge, Mass
-  title: 'Strikes, Picketing and Inside Campaigns: A Legal Guide for Unions'
-  title-short: Strikes, Picketing and Inside Campaigns
-  type: book
-
-- id: Schwartz2012
-  author:
-    - family: Schwartz
-      given: Robert M.
-  citation-key: Schwartz2012
-  issued:
-    - year: 2012
-  publisher: Work Rights Pr
-  title: 'Just Cause: A Union Guide to Winning Discipline Cases by Robert M. Schwartz'
-  title-short: Just Cause
-  type: book
 
 - id: schwartzHistorySupremeCourt1995
   author:
@@ -28808,42 +25807,6 @@ references:
   source: Amazon
   title: 'Strikes, Picketing and Inside Campaigns: A Legal Guide for Unions'
   title-short: Strikes, Picketing and Inside Campaigns
-  type: book
-
-- id: Scott1987
-  author:
-    - family: Scott
-      given: James C.
-  citation-key: Scott1987
-  edition: Reprint edition
-  event-place: New Haven
-  ISBN: 978-0-300-03641-1
-  issued:
-    - literal: 1987-09-0010
-  language: English
-  number-of-pages: '392'
-  publisher: Yale University Press
-  publisher-place: New Haven
-  title: 'Weapons of the Weak: Everyday Forms of Peasant Resistance'
-  title-short: Weapons of the Weak
-  type: book
-
-- id: Scott2010
-  author:
-    - family: Scott
-      given: James C.
-  citation-key: Scott2010
-  edition: Yale Agrarian Studies Series edition
-  event-place: New Haven London
-  ISBN: 978-0-300-16917-1
-  issued:
-    - literal: 2010-11-0030
-  language: English
-  number-of-pages: '464'
-  publisher: Yale University Press
-  publisher-place: New Haven London
-  title: 'The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia'
-  title-short: The Art of Not Being Governed
   type: book
 
 - id: scottArtNotBeing2010
@@ -28979,22 +25942,6 @@ references:
   type: article-journal
   volume: '65'
 
-- id: Sears2019
-  author:
-    - family: Sears
-      given: Steve
-  citation-key: Sears2019
-  ISBN: 978-1-79661-495-4
-  issued:
-    - year: 2019
-      month: 2
-  language: English
-  number-of-pages: '231'
-  publisher: Independently published
-  title: 'Voices of Labor: History of the Working Class'
-  title-short: Voices of Labor
-  type: book
-
 - id: SearsRoebuckCo1978
   authority: U.S.
   citation-key: SearsRoebuckCo1978
@@ -29104,23 +26051,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/2518764
   volume: '5'
-
-- id: Seigel2010
-  author:
-    - family: Seigel
-      given: Michael L.
-    - family: Kelley
-      given: James L.
-  citation-key: Seigel2010
-  ISBN: 978-1-59460-684-7
-  issued:
-    - year: 2010
-  language: en
-  number-of-pages: '229'
-  publisher: Carolina Academic Press
-  title: 'Lawyers Crossing Lines: Ten Stories'
-  title-short: Lawyers Crossing Lines
-  type: book
 
 - id: seigelLawyersCrossingLines2010
   abstract: >-
@@ -29458,25 +26388,6 @@ references:
   type: article-journal
   URL: https://scholarship.richmond.edu/law-faculty-publications/1117
 
-- id: Skocpol1979
-  author:
-    - family: Skocpol
-      given: Theda
-    - family: Theda
-      given: Skocpol
-  citation-key: Skocpol1979
-  ISBN: 978-0-521-29499-7
-  issued:
-    - literal: 1979-02-0028
-  language: en
-  number-of-pages: '436'
-  publisher: Cambridge University Press
-  title: >-
-    States and Social Revolutions: A Comparative Analysis of France, Russia and
-    China
-  title-short: States and Social Revolutions
-  type: book
-
 - id: skocpolStatesSocialRevolutions1979
   abstract: >-
     State structures, international forces, and class relations: Theda Skocpol
@@ -29530,23 +26441,6 @@ references:
   type: article-journal
   volume: '18'
 
-- id: Skurzynski2008
-  author:
-    - family: Skurzynski
-      given: Gloria
-  citation-key: Skurzynski2008
-  event-place: Minneapolis
-  ISBN: 978-0-8225-7594-8
-  issued:
-    - year: 2008
-      month: 8
-  language: English
-  publisher: Twenty-First Century Books
-  publisher-place: Minneapolis
-  title: 'Sweat and Blood: A History of U.S. Labor Unions'
-  title-short: Sweat and Blood
-  type: book
-
 - id: skurzynskiSweatBloodHistory2008
   abstract: >-
     Traces the history of labor unions in the United States, including the first
@@ -29566,24 +26460,6 @@ references:
   source: Amazon
   title: 'Sweat and Blood: A History of U.S. Labor Unions'
   title-short: Sweat and Blood
-  type: book
-
-- id: Slater2017
-  author:
-    - family: Slater
-      given: Joseph E.
-  citation-key: Slater2017
-  ISBN: 978-1-5017-0747-6
-  issued:
-    - year: 2017
-      month: 4
-  language: en
-  number-of-pages: '271'
-  publisher: Cornell University Press
-  title: >-
-    Public Workers: Government Employee Unions, the Law, and the State,
-    1900–1962
-  title-short: Public Workers
   type: book
 
 - id: slaterPublicWorkersGovernment2017
@@ -29624,24 +26500,6 @@ references:
   title-short: Public Workers
   type: book
 
-- id: Slaughter2005
-  citation-key: Slaughter2005
-  editor:
-    - family: Slaughter
-      given: Jane
-  event-place: Detroit, Mich
-  ISBN: 978-0-914093-12-1
-  issued:
-    - year: 2005
-      month: 5
-  language: English
-  number-of-pages: '372'
-  publisher: Labor Notes
-  publisher-place: Detroit, Mich
-  title: 'A Troublemaker''s Handbook 2: How to Fight Back Where You Work and Win!'
-  title-short: A Troublemaker's Handbook 2
-  type: book
-
 - id: slaughterGlobalCommunityCourts2003
   author:
     - family: Slaughter
@@ -29676,22 +26534,6 @@ references:
   title-short: A Troublemaker's Handbook 2
   type: book
 
-- id: Sloan2018
-  author:
-    - family: Sloan
-      given: Amy E.
-  citation-key: Sloan2018
-  ISBN: 978-1-4548-9401-8
-  issued:
-    - year: 2018
-      month: 2
-  language: en
-  number-of-pages: '352'
-  publisher: Wolters Kluwer Law & Business
-  title: 'Basic Legal Research: Tools and Strategies'
-  title-short: Basic Legal Research
-  type: book
-
 - id: sloanBasicLegalResearch2018
   abstract: >-
     Basic Legal Research: Tools and Strategies, Seventh Edition by Amy E. Sloan
@@ -29724,25 +26566,6 @@ references:
   source: Google Books
   title: 'Basic Legal Research: Tools and Strategies'
   title-short: Basic Legal Research
-  type: book
-
-- id: Slucki2012
-  author:
-    - family: Slucki
-      given: Dr David
-  citation-key: Slucki2012
-  edition: 1st Ed. edition
-  event-place: New Brunswick, N.J
-  ISBN: 978-0-8135-5168-5
-  issued:
-    - year: 2012
-      month: 1
-  language: English
-  number-of-pages: '284'
-  publisher: Rutgers University Press
-  publisher-place: New Brunswick, N.J
-  title: 'The International Jewish Labor Bund after 1945: Toward a Global History'
-  title-short: The International Jewish Labor Bund after 1945
   type: book
 
 - id: sluckiInternationalJewishLabor2012
@@ -30056,11 +26879,11 @@ references:
     Conservative Causes
   type: article-journal
 
-- id: Spasser2013
+- id: spasserWinningHeartsMinds2013
   author:
     - family: Spasser
       given: Alison
-  citation-key: Spasser2013
+  citation-key: spasserWinningHeartsMinds2013
   event-place: San Francisco, CA
   genre: Master’s Thesis
   issued:
@@ -30170,13 +26993,14 @@ references:
   volume: '19'
 
 - id: StateDeAngelo2007
-  authority: N.J. Sup. Ct. App. Div.
+  authority: N.J. Super. Ct. App. Div.
   citation-key: StateDeAngelo2007
   container-title: A.2d
   issued:
-    - year: 2007
+    - literal: 2007-09-0013
   page: '1236'
   title: State v. DeAngelo
+  title-short: DeAngelo
   type: legal_case
   volume: '930'
 
@@ -30185,7 +27009,7 @@ references:
   citation-key: StateDeAngelo2009
   container-title: N.J.
   issued:
-    - year: 2009
+    - literal: 2009-02-0005
   page: '478'
   title: State v. DeAngelo
   title-short: DeAngelo
@@ -31354,17 +28178,6 @@ references:
   URL: >-
     https://www.alwd.org/lcr-archives/fall-2010-volume-7/134-telling-through-type-typography-and-narrative-in-legal-briefs
 
-- id: TellingTypeTypographya
-  accessed:
-    - year: 2019
-      month: 9
-      day: 16
-  citation-key: TellingTypeTypographya
-  title: 'Telling Through Type: Typography and Narrative in Legal Briefs'
-  type: webpage
-  URL: >-
-    https://www.alwd.org/lcr-archives/fall-2010-volume-7/134-telling-through-type-typography-and-narrative-in-legal-briefs
-
 - id: tepperMythCapitalismMonopolies2018
   abstract: >-
     The Myth of Capitalism tells the story of how America has gone from an open,
@@ -31646,7 +28459,7 @@ references:
   type: book
 
 - id: TimberAutomation-WDArk-2020
-  authority: W.D. Ark.
+  authority: W.D. Arkansas
   citation-key: TimberAutomation-WDArk-2020
   container-title: WL
   issued:
@@ -31906,9 +28719,9 @@ references:
   type: book
 
 - id: TriplePlaySports2014-NLRB
-  authority: N.L.R.B.
+  authority: NLRB
   citation-key: TriplePlaySports2014-NLRB
-  container-title: N.L.R.B.
+  container-title: NLRB
   issued:
     - year: 2014
   page: No. 31
@@ -32898,9 +29711,9 @@ references:
   volume: '196'
 
 - id: WesternWatersheds2017-10thCir
-  authority: 10th Cir.
+  authority: 10th Circuit
   citation-key: WesternWatersheds2017-10thCir
-  container-title: F.3d
+  container-title: F. 3d
   issued:
     - year: 2017
   page: '1189'
@@ -33242,35 +30055,6 @@ references:
   type: speech
   URL: https://sas-space.sas.ac.uk/3139/
 
-- id: wintertonOpenAccessFree2010a
-  author:
-    - family: Winterton
-      given: Jules
-  citation-key: wintertonOpenAccessFree2010a
-  event-place: Gothenburg, Sweden
-  genre: conference
-  issued:
-    - year: 2010
-  language: en
-  note: >-
-    This brief presentation addressed free access to primary legal materials,
-    discussing the scope and nature of open access, and referring to the Free
-    Access to Law Movement. The social imperatives for free access were
-    outlined. Various sectors providing free access and their funding models
-    were discussed. Requirements for freely accessible legal information were
-    enumerated including existing standards. The definition of added value and
-    the role of commercial publishers was discussed. The Presentation ended with
-    questions for the audience. This paper is an outline with notes on legal
-    publishing and extensive reference to websites and further reading. Paper by
-    Jules Winterton (President, International Association of Law Libraries and
-    Associate Director and Librarian, Institute of Advanced Legal Studies,
-    University of London) presented on Thursday, 12 August 2010, 13:45 – 15:45
-    at IFLA 2010.
-  publisher-place: Gothenburg, Sweden
-  title: Open Access – Free Access to Primary Legal Materials
-  type: speech
-  URL: https://sas-space.sas.ac.uk/3139/
-
 - id: witkinExecutiveBargainingCEOs2019
   author:
     - family: Witkin
@@ -33369,13 +30153,14 @@ references:
   volume: '66'
 
 - id: WolfStreetSupermarkets1985
-  authority: N. Y. App. Div.
+  authority: N.Y. App. Div.
   citation-key: WolfStreetSupermarkets1985
   container-title: A.D.2d
   issued:
-    - year: 1985
+    - literal: 1985-04-0005
   page: '25'
   title: Wolf Street Supermarkets, Inc. v. McPartland
+  title-short: McPartland
   type: legal_case
   volume: '108'
 
@@ -33585,9 +30370,10 @@ references:
   citation-key: WrightElecInc2004
   container-title: N.W.2d
   issued:
-    - year: 2004
+    - literal: 2004-09-0014
   page: '313'
   title: Wright Elec., Inc. v. Ouellette
+  title-short: Wright Elec.
   type: legal_case
   volume: '686'
 
@@ -34110,12 +30896,6 @@ references:
 
 - id: Zotero
   citation-key: Zotero
-  title: Zotero
-  type: webpage
-  URL: https://www.zotero.org/
-
-- id: Zoteroa
-  citation-key: Zoteroa
   title: Zotero
   type: webpage
   URL: https://www.zotero.org/

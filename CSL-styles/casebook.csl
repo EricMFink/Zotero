@@ -22,7 +22,7 @@
         name-as-sort-order="ko zh ja hu my km vi"
         name-never-short="my ko zh ja hu km vi" />
     <terms>
-      <term name="supreme.court">U.S.</term>
+      <term name="supreme.court"> </term>
       <term name="editor" form="verb-short">ed.</term>
       <term name="translator" form="verb-short">trans.</term>
       <term name="field" form="long">field</term>
