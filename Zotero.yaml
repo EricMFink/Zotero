@@ -881,7 +881,6 @@ references:
   issued:
     - year: 2017
   section: 16-118-113
-  title: Arkansas Exceeding Authorized Access
   type: legislation
 
 - id: ArkansasLabelingInc-EDArk
@@ -1449,7 +1448,7 @@ references:
   container-title: U.S.
   container-title-short: U.S.
   issued:
-    - literal: 1977-06-0027
+    - year: 1977
   page: '350'
   title: Bates v. State Bar of Ariz.
   type: legal_case
@@ -1946,7 +1945,7 @@ references:
   citation-key: BirbrowerMontalbanoCondon1998
   container-title: Cal. 4th
   issued:
-    - literal: 1998-01-0005
+    - year: 1998
   page: '119'
   title: Birbrower, Montalbano, Condon & Frank v. Superior Ct.
   type: legal_case
@@ -2069,7 +2068,7 @@ references:
   container-title: U.S.
   container-title-short: U.S.
   issued:
-    - literal: 1928-04-0009
+    - year: 1928
   page: '518'
   title: Black & White Taxicab Co. v. Brown & Yellow Taxican Co.
   type: legal_case
@@ -2478,6 +2477,21 @@ references:
     Cutting Laws
   title-short: National Politics as International Process
   type: chapter
+
+- id: BranscombLoyalty1993
+  author:
+    - family: Branscomb
+      given: Melinda J.
+  citation-key: BranscombLoyalty1993
+  container-title: Boston University Law Review
+  container-title-short: B.U. L. Rev.
+  issue: '3'
+  issued:
+    - year: 1993
+  page: 291-388
+  title: Labor, Loyalty, and the Corporate Campaign
+  type: article-journal
+  volume: '73'
 
 - id: Braune2019
   author:
@@ -2994,7 +3008,9 @@ references:
   authority: S.D. Cal.
   citation-key: CamachoBaseball2013
   issued:
-    - literal: 2013-12-0019
+    - year: 2013
+      month: 12
+      day: 19
   number: No. 12-cv-2859-L(BGS)
   title: Camacho v. Baseball
   type: legal_case
@@ -3417,7 +3433,7 @@ references:
   citation-key: ClarkCapitalManagement2001
   container-title: F. Supp. 2d
   issued:
-    - literal: 2001-07-0006
+    - year: 2001
   page: '193'
   title: Clark Capital Management v. Annuity Investors Life Ins. Co.
   type: legal_case
@@ -3609,7 +3625,9 @@ references:
   authority: E.D. Pa.
   citation-key: CompleteBusinessSolutions2020
   issued:
-    - literal: 2020-07-0016
+    - year: 2020
+      month: 7
+      day: 16
   number: No. 20-724
   title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops Llc
   type: legal_case
@@ -3895,6 +3913,23 @@ references:
   type: legal_case
   volume: '571'
 
+- id: Dall2002
+  author:
+    - family: Dall
+      given: Carey
+    - family: Cohen
+      given: Jonathan
+  citation-key: Dall2002
+  container-title: New Labor Forum
+  issue: '10'
+  issued:
+    - year: 2002
+      month: 4
+  page: 36-41
+  title: 'Salting the Earth: Organizing for the Long Haul'
+  title-short: Salting the Earth
+  type: article-journal
+
 - id: Dalton_Camp2001
   authority: N.C.
   citation-key: Dalton_Camp2001
@@ -4128,7 +4163,9 @@ references:
   authority: W.D. Wash.
   citation-key: DeutschSchoelkopf2016
   issued:
-    - literal: 2016-12-0014
+    - year: 2016
+      month: 12
+      day: 14
   number: No. 3:16-CV-05561-RBL
   title: Deutsch v. Schoelkopf
   type: legal_case
@@ -4748,6 +4785,20 @@ references:
   title-short: $2.00 a Day
   type: book
 
+- id: EffectuationNationalLabor2021
+  citation-key: EffectuationNationalLabor2021
+  genre: General Counsel Memo
+  issued:
+    - year: 2021
+      month: 3
+      day: 13
+  number: 21-03
+  title: >-
+    Effectuation of the National Labor Relations Act Through Vigorous
+    Enforcement of the Mutual Aid or Protection and Inherently Concerted
+    Doctrines
+  type: report
+
 - id: Ehrenreich2008
   author:
     - family: Ehrenreich
@@ -5147,6 +5198,23 @@ references:
     H. Comm. on Education and the Workforce
   title-short: Examining Union Salting Abuses
   type: hearing
+
+- id: ExaminingUnionSalting2004a
+  citation-key: ExaminingUnionSalting2004a
+  genre: Hearing
+  issued:
+    - year: 2004
+      month: 5
+      day: 10
+  note: >-
+    mlzsync1:0168{"extrafields":{"jurisdiction":"002usUnited
+    States|US","committee":"Subcommittee on Employer-Employee Relations of the
+    House Committee on Education and the Workforce"}}
+  title: >-
+    Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S.
+    Economy
+  title-short: Examining Union Salting Abuses
+  type: report
 
 - id: ExxonMobilCorp2005
   authority: U.S.
@@ -6501,6 +6569,22 @@ references:
   URL: >-
     http://jacobinmag.com/2017/02/labor-unions-workers-salts-students-organizing/
 
+- id: Forman2017a
+  author:
+    - family: Forman
+      given: Erik
+  citation-key: Forman2017a
+  container-title: Jacobin
+  issued:
+    - year: 2017
+      month: 2
+      day: 7
+  language: en-US
+  title: Let’s Get to Work
+  type: webpage
+  URL: >-
+    http://jacobinmag.com/2017/02/labor-unions-workers-salts-students-organizing/
+
 - id: Foster2021
   author:
     - family: Foster
@@ -6997,6 +7081,25 @@ references:
   title-short: Marginal Workers
   type: book
 
+- id: Garden2018
+  author:
+    - family: Garden
+      given: Charlotte
+  citation-key: Garden2018
+  container-title: Saint Louis University Law Journal
+  container-title-short: St. Louis U. L.J.
+  issue: '1'
+  issued:
+    - year: 2018
+    - year: 2019
+  page: 55-68
+  title: >-
+    Labor Organizing in the Age of Surveillance Symposium: Law, Technology, and
+    the Organization of Work
+  title-short: Labor Organizing in the Age of Surveillance Symposium
+  type: article-journal
+  volume: '63'
+
 - id: Garden2018a
   author:
     - family: Garden
@@ -7244,8 +7347,6 @@ references:
   author:
     - family: Gilmore
       given: Glenda Elizabeth
-    - family: Ph.D
-      given: Glenda Elizabeth Gilmore
   citation-key: Gilmore2008
   ISBN: 978-0-393-06244-1
   issued:
@@ -7261,8 +7362,10 @@ references:
   authority: D. Md.
   citation-key: GinwrightExeterFinance2016
   issued:
-    - literal: 2016-10-0006
-  number: No. TDC-16-0565
+    - year: 2016
+      month: 10
+      day: 5
+  number: TDC-16-0565
   title: Ginwright v. Exeter Finance Corp.
   type: legal_case
 
@@ -8006,7 +8109,9 @@ references:
   authority: M.D.N.C.
   citation-key: HanksCoan1999
   issued:
-    - literal: 1999-08-0017
+    - year: 1999
+      month: 8
+      day: 17
   number: No. 1:99CV00119
   title: Hanks v. Coan
   title-short: Hanks
@@ -8720,7 +8825,6 @@ references:
   issued:
     - year: 2014
   section: 18-7042
-  title: Idaho AgGag
   type: legislation
 
 - id: Ingalls1997
@@ -8773,7 +8877,6 @@ references:
   issued:
     - year: 2004
   section: 717A.3A
-  title: Iowa Ag Fraud
   type: legislation
 
 - id: IowaAgTrespass2004
@@ -8783,7 +8886,6 @@ references:
   issued:
     - year: 2004
   section: 717A.3B
-  title: Iowa Ag Trespass
   type: legislation
 
 - id: IowaAgTrespass2019
@@ -8792,7 +8894,6 @@ references:
   issued:
     - year: 2019
   section: 717A.3B
-  title: Iowa Ag Trespass
   type: legislation
 
 - id: Isaac2002
@@ -9207,6 +9308,21 @@ references:
   type: webpage
   URL: http://jacobinmag.com/2017/03/salts-union-organizing-nlrb-obama-trump-labor
 
+- id: Johnson2017a
+  author:
+    - family: Johnson
+      given: Nick
+  citation-key: Johnson2017a
+  container-title: Jacobin
+  issued:
+    - year: 2017
+      month: 3
+      day: 22
+  language: en-US
+  title: No Salt Added
+  type: webpage
+  URL: http://jacobinmag.com/2017/03/salts-union-organizing-nlrb-obama-trump-labor
+
 - id: JohnsonSpencer2020
   authority: 10th Cir.
   citation-key: JohnsonSpencer2020
@@ -9492,7 +9608,6 @@ references:
   issued:
     - year: 2006
   section: 47-1827
-  title: Kansas AgGag
   type: legislation
 
 - id: Karlip2013
@@ -9837,7 +9952,9 @@ references:
   authority: E.D. Mich.
   citation-key: KingWhitmer2021
   issued:
-    - literal: 2021-08-0025
+    - year: 2021
+      month: 8
+      day: 25
   number: No. 20-13134
   title: King v. Whitmer
   title-short: King
@@ -10233,7 +10350,7 @@ references:
   container-title: U.S.
   container-title-short: U.S.
   issued:
-    - literal: 1910-01-0003
+    - year: 1910
   page: '349'
   title: Kuhn v. Fairmont Coal Co.
   type: legal_case
@@ -10281,6 +10398,22 @@ references:
     - family: Lam
       given: Bourree
   citation-key: Lam2016
+  container-title: The Atlantic
+  issued:
+    - year: 2016
+      month: 3
+      day: 21
+  language: en-US
+  title: Life as an Undercover Union Organizer
+  type: webpage
+  URL: >-
+    https://www.theatlantic.com/business/archive/2016/03/undercover-union-organizer/474387/
+
+- id: Lam2016a
+  author:
+    - family: Lam
+      given: Bourree
+  citation-key: Lam2016a
   container-title: The Atlantic
   issued:
     - year: 2016
@@ -11481,6 +11614,20 @@ references:
   type: legal_case
   volume: '321'
 
+- id: Marceau2015
+  author:
+    - family: Marceau
+      given: Justin F.
+  citation-key: Marceau2015
+  container-title: Seattle University Law Review
+  container-title-short: Seattle Univ. Law Rev.
+  issued:
+    - year: 2015
+  page: '1317'
+  title: Ag-Gag Past and Present and Future
+  type: article-journal
+  volume: '38'
+
 - id: Marchand1985
   author:
     - family: Marchand
@@ -11662,8 +11809,6 @@ references:
   author:
     - family: Marx
       given: Karl
-    - family: Mandel
-      given: Ernest
   citation-key: Marx1992
   edition: Reprint edition
   event-place: London; New York, N.Y
@@ -11705,8 +11850,6 @@ references:
   author:
     - family: Marx
       given: Karl
-    - family: Mandel
-      given: Ernest
   citation-key: Marx1993a
   edition: Reprint edition
   event-place: London
@@ -11729,8 +11872,6 @@ references:
   author:
     - family: Marx
       given: Karl
-    - family: Mandel
-      given: Ernest
   citation-key: Marx1993b
   edition: Reissue edition
   event-place: New York, N.Y., U.S.A
@@ -11761,6 +11902,24 @@ references:
   type: legal_case
   volume: '489'
 
+- id: Matheny&CrainDisloyalty2003
+  author:
+    - family: Matheny
+      given: Ken
+    - family: Crain
+      given: Marion
+  citation-key: Matheny&CrainDisloyalty2003
+  container-title: North Carolina Law Review
+  container-title-short: N.C. L. Rev.
+  issue: '5'
+  issued:
+    - year: 2003
+    - year: 2004
+  page: 1705-1758
+  title: Disloyal Workers and the Un-American Labor Law
+  type: article-journal
+  volume: '82'
+
 - id: MatsushitaElecIndus1986
   authority: U.S.
   citation-key: MatsushitaElecIndus1986
@@ -11780,7 +11939,7 @@ references:
   container-title: N.E.2d
   container-title-short: N.E.2d
   issued:
-    - literal: 1994-03-0017
+    - year: 1994
   page: '1069'
   title: Matter of Cooperman
   type: legal_case
@@ -11792,7 +11951,7 @@ references:
   container-title: A.D.3d
   container-title-short: A.D.3d
   issued:
-    - literal: 2021-06-0024
+    - year: 2021
   page: '1'
   title: Matter of Giuliani
   type: legal_case
@@ -12180,6 +12339,22 @@ references:
   type: article-journal
   volume: '52'
 
+- id: McGinley2012
+  author:
+    - family: McGinley
+      given: Ann C
+    - family: McGinley-Stempel
+      given: Ryan P
+  citation-key: McGinley2012
+  container-title: Hofstra Labor & Employment Law Journal
+  container-title-short: Hofstra Labor Employ. Law J.
+  issued:
+    - year: 2012
+  page: '75'
+  title: 'Beyond the Water Cooler: Speech and the Workplace in an Era of Social Media'
+  type: article-journal
+  volume: '30'
+
 - id: McGrath2019
   author:
     - family: McGrath
@@ -12280,6 +12455,24 @@ references:
   citation-key: Merabet2013
   container-title: Suffolk University Law Review
   container-title-short: Suffolk Univ. Law Rev.
+  issue: '4'
+  issued:
+    - year: 2013
+  page: 1161-1186
+  title: >-
+    The Sword and Shield of Social Networking: Harming Employers' Goodwill
+    through Concerted Facebook Activity Note
+  title-short: The Sword and Shield of Social Networking
+  type: article-journal
+  volume: '46'
+
+- id: Merabet2013a
+  author:
+    - family: Merabet
+      given: Stephanie M.
+  citation-key: Merabet2013a
+  container-title: Suffolk University Law Review
+  container-title-short: Suffolk U. L. Rev.
   issue: '4'
   issued:
     - year: 2013
@@ -12707,7 +12900,6 @@ references:
   issued:
     - year: 2012
   section: 578.013.1
-  title: Missouri AgGag
   type: legislation
 
 - id: MitchellSherman1994
@@ -12758,7 +12950,6 @@ references:
   issued:
     - year: 1991
   section: 81-30-101
-  title: Montana AgGag
   type: legislation
 
 - id: MontereyCounty1953
@@ -13165,6 +13356,18 @@ references:
   title-short: Salting
   type: document
 
+- id: NationalRighttoWorkCommittee2003a
+  author:
+    - family: National Right to Work Committee
+      given: ''
+  citation-key: NationalRighttoWorkCommittee2003a
+  issued:
+    - year: 2003
+  publisher: National Right to Work Committee
+  title: 'Salting: Coercive Big Labor Scheme to Increase Forced Unionism'
+  title-short: Salting
+  type: document
+
 - id: NCPropertyProtectionAct2016
   citation-key: NCPropertyProtectionAct2016
   container-title: N.C. Gen. Stat.
@@ -13172,7 +13375,6 @@ references:
     - year: 2016
   language: en-US
   section: 99A-2
-  title: NC Property Protection Act
   type: legislation
 
 - id: NeJaime2011
@@ -13297,7 +13499,7 @@ references:
   container-title: U.S.
   container-title-short: U.S.
   issued:
-    - literal: 1986-02-0026
+    - year: 1986
   page: '157'
   title: Nix v. Whiteside
   type: legal_case
@@ -13376,7 +13578,6 @@ references:
   issued:
     - year: 1991
   section: 12.1-21.1-01
-  title: ND AgGag
   type: legislation
 
 - id: Notepad_nd
@@ -13509,7 +13710,6 @@ references:
   issued:
     - year: 2004
   section: '901.511'
-  title: Ohio Ag Terrorism
   type: legislation
 
 - id: Olson1971
@@ -14619,7 +14819,7 @@ references:
   language: English
   number-of-pages: '30'
   publisher: YIVO Institute for Jewish Research.
-  title: The Story of the Jewish Labor Bund, 1897-1997; A Centennial Exhibition
+  title: 'The Story of the Jewish Labor Bund, 1897-1997: A Centennial Exhibition'
   type: book
 
 - id: Ressl-Moyer2021
@@ -15165,7 +15365,7 @@ references:
   issued:
     - year: 2019
   language: eng
-  page: 491-530
+  page: '491'
   title: Ag-Gag Free Nation
   type: article-journal
   volume: '54'
@@ -15319,7 +15519,6 @@ references:
   issued:
     - year: 1992
   section: 47-21
-  title: SC AgGag
   type: legislation
 
 - id: Schill1995
@@ -15768,7 +15967,7 @@ references:
   container-title: U.S.
   container-title-short: U.S.
   issued:
-    - literal: 1988-06-0013
+    - year: 1988
   page: '466'
   title: Shapero v. Kentucky Bar Assn.
   type: legal_case
@@ -15797,7 +15996,9 @@ references:
   authority: 6th Cir.
   citation-key: Shillman2000
   issued:
-    - literal: 2000-06-0029
+    - year: 2000
+      month: 6
+      day: 29
   number: No. 99-3215
   title: Shillman v. U.S.
   title-short: Shillman
@@ -16152,7 +16353,7 @@ references:
   issue: '8'
   issued:
     - year: 1963
-  page: 1613-1645
+  page: '1613'
   title: >-
     The South's Amended Barratry Laws: An Attempt to End Group Pressure Through
     the Courts
@@ -16166,7 +16367,7 @@ references:
   container-title: U.S.
   container-title-short: U.S.
   issued:
-    - literal: 1916-02-0028
+    - year: 1916
   page: '205'
   title: Southern Pacific Co. v. Jensen
   type: legal_case
@@ -17133,7 +17334,7 @@ references:
   container-title: N.W.2d
   container-title-short: N.W.2d
   issued:
-    - literal: 1980-04-0011
+    - year: 1980
   page: '686'
   title: Togstad v. Vesely, Otto, Miller & Keefe
   type: legal_case
@@ -17317,7 +17518,9 @@ references:
   authority: N.D. Ga.
   citation-key: TrumpCNNBroadcasting2020
   issued:
-    - literal: 2020-11-0012
+    - year: 2020
+      month: 11
+      day: 12
   number: No. 1:20-cv-01045
   title: Trump v. CNN Broadcasting, Inc.
   type: legal_case
@@ -17328,7 +17531,7 @@ references:
   container-title: S.E.2d
   container-title-short: S.E.2d
   issued:
-    - literal: 2014-12-0031
+    - year: 2014
   page: '870'
   title: TSG Finishing, LLC v. Bollinger
   type: legal_case
@@ -17382,6 +17585,20 @@ references:
     - family: Twomey
       given: David P.
   citation-key: Twomey2004
+  container-title: Business Law Review
+  container-title-short: Bus. Law Rev.
+  issued:
+    - year: 2004
+  page: '103'
+  title: '"Salting": A Fair Organizing Strategy or a Negarious Tactic?'
+  type: article-journal
+  volume: '37'
+
+- id: Twomey2004a
+  author:
+    - family: Twomey
+      given: David P.
+  citation-key: Twomey2004a
   container-title: Business Law Review
   container-title-short: Bus. Law Rev.
   issued:
@@ -17467,7 +17684,6 @@ references:
   issued:
     - year: 2012
   section: 76-6-112
-  title: Utah AgGag
   type: legislation
 
 - id: Vaccaro2020
@@ -17545,6 +17761,24 @@ references:
   type: article-journal
   volume: '16'
 
+- id: VanBourg1998a
+  author:
+    - family: Van Bourg
+      given: Victor J.
+    - family: Moscowitz
+      given: Ellyn
+  citation-key: VanBourg1998a
+  container-title: Hofstra Labor & Employment Law Journal
+  container-title-short: Hofstra Labor Employ. Law J.
+  issued:
+    - year: 1998
+  page: '1'
+  title: >-
+    Salting the Mines: the Legal and Political Implications of Placing Paid
+    Union Organizers in the Employer's Workplace
+  type: article-journal
+  volume: '16'
+
 - id: VandeWalle2009
   author:
     - family: Van de Walle
@@ -17589,8 +17823,8 @@ references:
 
 - id: VECERNIK2008
   author:
-    - family: VEČERNÍK
-      given: JIŘĺ
+    - family: Večerník
+      given: Jiří
   citation-key: VECERNIK2008
   container-title: Polish Sociological Review
   container-title-short: Pol. Sociol. Rev.
@@ -17768,6 +18002,23 @@ references:
   URL: >-
     http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
 
+- id: Walsh2016b
+  author:
+    - family: Walsh
+      given: James D.
+  citation-key: Walsh2016b
+  container-title: New York Magazine Intelligencer
+  issued:
+    - year: 2016
+      month: 2
+      day: 19
+  language: en
+  title: The Double Life of an Undercover Union Organizer
+  title-short: Undercover Union Organizer
+  type: webpage
+  URL: >-
+    http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
+
 - id: Ward2004
   author:
     - family: Ward
@@ -17820,16 +18071,6 @@ references:
   title-short: Who is an Employer in the Triangular Employment Relationship?
   type: article-journal
   volume: '24'
-
-- id: WeatherModificationLLC2021
-  authority: D.N.D.
-  citation-key: WeatherModificationLLC2021
-  issued:
-    - literal: 2021-07-0006
-  number: No. 3:20-cv-73
-  title: Weather Modification LLC v. Brackin
-  title-short: Brackin
-  type: legal_case
 
 - id: WebbNolan1972
   authority: M.D.N.C.
@@ -18494,7 +18735,6 @@ references:
   issued:
     - year: 2015
   section: 40-27-101
-  title: Wyoming Civil Trespass
   type: legislation
 
 - id: WyomingCriminalTrespass2015
@@ -18505,7 +18745,6 @@ references:
     - year: 2015
   references: "Laws 2015, ch.\_146, § 1, eff. March 5, 2015; Laws 2016, ch.\_117, §§ 1, 2, eff. March 15, 2016."
   section: 6-3-414
-  title: Wyoming Criminal Trespass
   type: legislation
 
 - id: Yates2009
@@ -18651,7 +18890,7 @@ references:
   container-title: U.S.
   container-title-short: U.S.
   issued:
-    - literal: 1985-01-0007
+    - year: 1985
   page: '626'
   title: Zauderer v. Office of Disciplinary Counsel of Supreme Court of Ohio
   type: legal_case
