@@ -12,7 +12,7 @@
   <category citation-format="note"/>
   <category field="law"/>
   <summary>IndigoBook legal citation style with footnotes and bibliography.</summary>
-  <updated>2023-02-27T18:55:35+00:00</updated>
+  <updated>2023-02-27T14:35:00+00:00</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
 </info>
   
@@ -22,7 +22,7 @@
     <term name="editor" form="verb-short">ed.</term>
     <term name="translator" form="verb-short">trans.</term>
     <term name="number" form="long">number</term>
-    <term name="number" form="short">n°</term>
+    <term name="number" form="short">no.</term>
     <term name="and" form="symbol">&amp;</term>
     <term name="article">article</term>
     <term name="director">director</term>
@@ -193,7 +193,7 @@
       <text variable="title" font-variant="small-caps" suffix=", "/>
     </else-if>
     <else>
-      <text variable="title" suffix=", "/>
+      <text variable="title" suffix=""/>
     </else>
   </choose>
 </macro>
@@ -254,7 +254,7 @@
         <text macro="container"/>
       </group>
       <text variable="section" prefix=" § "/>
-      <text variable="locator" prefix=", § "/>
+      <text variable="locator" prefix=""/>
     </else-if>      
    	<else-if type="bill hearing" match="any">
 		<group delimiter=" ">
@@ -263,7 +263,7 @@
 		</group>
 	</else-if>
    	<else-if type="report">
-		<text variable="number"/>
+		<text variable="number" prefix=", "/>
 	</else-if>
     <else-if type="chapter paper-conference" match="any">
       <group prefix=", " delimiter=" " suffix=" ">
@@ -482,8 +482,7 @@
             <text macro="at_page"/>
           </if>
           <else-if type="legislation">
-            <text macro="short-source"/>
-            <text macro="at_page"/>
+            <text macro="source"/>
           </else-if>
           <else>
             <choose>
