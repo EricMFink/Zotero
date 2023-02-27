@@ -104,14 +104,11 @@
   </date>
 </locale>
 
-<!-- Authors -->
+<!-- sets up basics of dealing with authors -->
 <macro name="name-macro">
   <names variable="author">
     <name and="symbol" delimiter=", " delimiter-precedes-last="never"/>
     <label form="short" prefix=" "/>
-    <substitute>
-      <text variable="title" form="short"/>
-    </substitute>
   </names>
 </macro>
 
@@ -147,7 +144,7 @@
   </choose>
 </macro>
 
-<!-- Editors and translators -->
+<!-- sets up basics of dealing with editors and translators. Will generally only show up in book citations, as called in XXXX, below -->
 <macro name="editor-translator">
   <names variable="editor translator" suffix=" " delimiter=", ">
     <name and="symbol" delimiter=", "/>
@@ -155,7 +152,7 @@
   </names>
 </macro>
 
-<!-- link to online content -->
+<!-- link to online content, called in YYYYY -->
 <macro name="access">
   <choose>
     <if variable="URL">
@@ -172,65 +169,25 @@
   </choose>
 </macro>
 
-<!-- Titles -->
-<macro name="full-title">
-  <choose>
-    <if type="article-journal article-newspaper article-magazine chapter hearing legal_case paper-conference post-weblog thesis webpage" match="any">
-      <text variable="title" font-style="italic" suffix=", "/>
-    </if>
-    <else-if type="legislation">
-      <text variable="title" font-variant="normal"  suffix=", "/>
-    </else-if>
-    <else-if type="bill">
-      <group >
-      <text variable="title" font-variant="normal"  suffix=", "/>
-      <text variable="number" font-variant="normal"  suffix=", "/>
-      </group>
-    </else-if>
-    <else-if type="article-journal" match="any">
-      <text variable="title" font-style="italic" suffix=", "/>
-    </else-if>
-    <else-if type="book" match="any">
-      <text variable="title" font-variant="small-caps" suffix=", "/>
-    </else-if>
-    <else>
-      <text variable="title" suffix=""/>
-    </else>
-  </choose>
-</macro>
-
-<macro name="short-title">
-  <choose>
-    <if type="article-journal article-newspaper article-magazine chapter hearing legal_case paper-conference post-weblog thesis webpage" match="any">
-      <text form="short" variable="title" font-style="italic"/>
-    </if>
-    <else-if type="legislation bill" match="any">
-      <text form="short" variable="title" font-variant="normal"/>
-    </else-if>
-    <else-if type="article-journal" match="any">
-      <text form="short" variable="title" font-style="italic"/>
-    </else-if>
-    <else-if type="book" match="any">
-      <text form="short" variable="title" font-variant="small-caps"/>
-    </else-if>
-    <else>
-      <text form="short" variable="title"/>
-    </else>
-  </choose>
-</macro>
-
-<!-- Journal, Legal Reporter, etc.  -->
 <macro name="source">
+  <!-- This macro seems really problematic, with a ton of redundancy. I'd move some of
+  the conditional logic into the appropriate macros (like 'title') and try to remove this
+  macro entirely. -->
   <choose>
     <if type="article-journal" match="any">
-      <group delimiter=" ">
+      <text variable="title" font-style="italic"/>
+      <group prefix=", " delimiter=" ">
         <text variable="volume"/>
         <text macro="container"/>
       </group>
       <text variable="page" prefix=" "/>
       <text variable="locator" prefix=", "/>
+      <text macro="issuance" prefix=" (" suffix=")"/>
     </if>
+    
     <else-if type="legal_case">
+      <text form="short" variable="title" font-style="italic" suffix=", "/>
+        <!-- Reporter citation or case number (if unpublished) -->
         <group delimiter=" ">
             <choose>
               <if variable="container-title">
@@ -248,38 +205,22 @@
             </choose>
         </group>
       <text variable="locator" prefix=", "/>
+      <text macro="issuance" prefix=" (" suffix=")"/>
     </else-if>
+    
     <else-if type="legislation">
-      <group delimiter=" ">
+      <text variable="title" font-variant="normal"  suffix=", "/>
+      <group prefix=" " delimiter=" ">
         <text variable="volume"/>
         <text macro="container"/>
       </group>
       <text variable="section" prefix=" § "/>
-      <text variable="locator" prefix=""/>
+      <text variable="locator" prefix=", § "/>
+      <text macro="issuance" prefix=" (" suffix=")"/>
     </else-if>      
-   	<else-if type="bill hearing" match="any">
-		<group delimiter=" ">
-			<text variable="authority" form="short"/>
-			<text variable="chapter-number" form="short" prefix=", "/>
-		</group>
-	</else-if>
-   	<else-if type="report">
-		<text variable="number" prefix=", "/>
-	</else-if>
-    <else-if type="chapter paper-conference" match="any">
-      <group prefix=", " delimiter=" " suffix=" ">
-        <text variable="volume"/>
-        <text macro="container"/>
-      </group>
-      <text variable="page"/>
-      <text variable="locator" prefix=", "/>
-    </else-if>
-    <else-if type="book" match="any">
-      <text variable="page" prefix=" "/>
-      <text variable="locator" prefix=" "/>
-    </else-if>
     <else-if type="article-newspaper article-magazine thesis" match="any">
       <group delimiter=", ">
+        <text variable="title" font-style="italic"/>
         <group delimiter=" ">
           <text variable="volume"/>
           <text macro="container"/>
@@ -291,95 +232,92 @@
         </group>
       </group>
     </else-if>
+    <else-if type="chapter paper-conference" match="any">
+      <text variable="title" font-style="italic"/>
+      <group prefix=", " delimiter=" " suffix=" ">
+        <text variable="volume"/>
+        <text macro="container"/>
+      </group>
+      <text variable="page"/>
+      <text variable="locator" prefix=", "/>
+      <text macro="issuance" prefix=" (" suffix=")"/>
+    </else-if>
+    <else-if type="book" match="any">
+      <text variable="title" font-variant="small-caps"/>
+      <text variable="page" prefix=" "/>
+      <text variable="locator" prefix=" "/>
+      <text macro="issuance" prefix=" (" suffix=")"/>
+    </else-if>
     <else>
+      <text variable="title" font-style="italic"/>
       <group prefix=", " delimiter=" " suffix=" ">
         <text variable="volume"/>
         <text macro="container"/>
       </group>
       <text variable="page" prefix=" "/>
       <text variable="locator" prefix=" "/>
+      <text macro="issuance" prefix=" (" suffix=")"/>
     </else>
   </choose>
 </macro>
 
-<macro name="short-source">
-  <group>
-    <choose>
-    <if type="legislation">
-      <group delimiter=" ">
-        <text variable="volume"/>
-        <text macro="container"/>
-      </group>
-      <text variable="locator" prefix=" § "/>
-    </if>
-    </choose>
-  </group>
-</macro>
-
-<!-- Issuing Authority & Date -->
 <macro name="issuance">
   <choose>
     <if type="legal_case">
-      <choose>
-        <if variable="container-title">
-          <group delimiter=" " prefix=" (" suffix=")">
-            <text variable="authority" form="short"/>
-            <date variable="issued">
-            <date-part name="year"/>
-            </date>
-          </group>
+      <group delimiter=" ">
+      <text variable="authority" form="short"/>
+              <choose>
+                  <if variable="container-title">
+                      <group>
+                      <date variable="issued">
+                      <date-part name="year"/>
+                      </date>
+                      </group>
+                  </if>
+                  <else>
+                      <group delimiter=" ">
+                      <date variable="issued">
+                      <date-part name="month" form="short" suffix=" "/>
+                      <date-part name="day" suffix=", "/>
+                      <date-part name="year"/>
+                      </date>
+                      </group>
+                  </else>
+              </choose>
+              </group>
         </if>
-        <else>
-          <group delimiter=" " prefix=" (" suffix=")">
-          <text variable="authority" form="short"/>
-          <date variable="issued">
-          <date-part name="month" form="short" suffix=" "/>
-          <date-part name="day" suffix=", "/>
-          <date-part name="year"/>
-          </date>
-          </group>
-        </else>
-      </choose>
-    </if>
-    <else-if type="bill hearing legislation" match="any">
-      <group prefix=" (" suffix=")">
-        <date variable="issued">
-        <date-part name="year"/>
-        </date>
-      </group>
-    </else-if>	
     <else-if type="article-journal article-magazine article-newspaper broadcast interview manuscript map patent personal_communication song speech thesis webpage" match="any">
-      <group prefix=" (" suffix=")">
+      <group>
         <choose>
           <if type="article-newspaper thesis" match="any">
             <group suffix=", ">
-            <date variable="issued">
-            <date-part name="month"/>
-            <date-part name="day" prefix=" "/>
-            </date>
+              <date variable="issued">
+                <date-part name="month"/>
+                <date-part name="day" prefix=" "/>
+              </date>
             </group>
           </if>
         </choose>
         <date variable="issued">
-        <date-part name="year"/>
+          <date-part name="year"/>
         </date>
       </group>
     </else-if>
-
     <else>
-      <group delimiter=" " prefix=" (" suffix=")">
+      <!-- removed an extra space in the prefix here NS 20110511 -->
+      <group delimiter=" ">
         <text macro="editor-translator"/>
         <text variable="edition" suffix=" ed."/>
+        <!-- replaced a text element with a missing variable reference -->
         <date variable="issued">
-        <date-part name="year"/>
+          <date-part name="year"/>
         </date>
       </group>
     </else>
   </choose>
 </macro>
 
-
-<!-- Id. and subsequent references -->
+<!-- sets up citing to specific page numbers for id and supra cites -->
 <macro name="at_page">
   <group>
     <text value="at" prefix=" "/>
@@ -410,7 +348,6 @@
   </choose>
 </macro>
 
-<!-- dates -->
 <macro name="year-sort">
   <choose>
     <if variable="issued">
@@ -475,60 +412,26 @@
       </if>
       <else-if position="subsequent">
         <choose>
-          <if type="legal_case">
-            <text macro="short-title"/>
-            <text value="supra" font-style="italic" prefix=", "/>
-            <text value="note" prefix=" "/>
-            <text variable="first-reference-note-number" prefix=" "/>
-            <text macro="at_page"/>
+          <if type="book" match="any">
+            <text variable="volume" suffix=" "/>
           </if>
-          <else-if type="legislation">
-<<<<<<< HEAD
-            <text macro="short-source"/>
-            <text macro="at_page"/>
-=======
-            <text macro="source"/>
->>>>>>> parent of 20256e0 (Revert "Merge branch 'main' of github.com:EricMFink/JurisM")
-          </else-if>
-          <else>
-            <choose>
-              <if type="book" match="any">
-                <text variable="volume" suffix=" "/>
-              </if>
-            </choose>
-            <text macro="author-short"/>
-            <text value="supra" font-style="italic" prefix=", "/>
-            <text value="note" prefix=" "/>
-            <text variable="first-reference-note-number" prefix=" "/>
-            <text macro="at_page"/>
-          </else>
         </choose>
+        <text macro="author-short"/>
+        <text value="supra" font-style="italic" prefix=", "/>
+        <text value="note" prefix=" "/>
+        <text variable="first-reference-note-number" prefix=" "/>
+        <text macro="at_page"/>
       </else-if>
+
       <else>
         <choose>
           <if type="book" match="any">
             <text variable="volume" suffix=" "/>
           </if>
         </choose>
-        <choose>
-          <if type="article-newspaper article-magazine thesis" match="any">
-            <text macro="author" suffix=", "/>
-            <text macro="full-title"/>
-            <text macro="source"/>
-          </if>
-          <else-if type="bill hearing legal_case legislation" match="any">
-            <text macro="full-title"/>
-            <text macro="source"/>
-            <text macro="issuance"/>
-          </else-if>
-          <else>
-            <text macro="author" suffix=", "/>
-            <text macro="full-title"/>
-            <text macro="source"/>
-            <text macro="issuance"/>
-            <text macro="access" prefix=", "/>
-          </else>
-        </choose>
+        <text macro="author" suffix=", "/>
+        <text macro="source"/>
+        <text macro="access" prefix=", "/>
       </else>
     </choose>
   </layout>
