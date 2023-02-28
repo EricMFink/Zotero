@@ -126,6 +126,7 @@
       "Equal Employment Opportunity Commission": "EEOC",
       "Federal Trade Commission": "FTC",
       "National Labor Relations Board": "NLRB",
+      "N.L.R.B.": "",
       "Occupational Safety and Health Review Commission": "OSHRC",
       "Office of Federal Contract Compliance Programs": "OFCCP",
       "alaska": "Alaska",
@@ -245,19 +246,13 @@
       "tribunal": "Trib.",
       "worker's compensation": "Workmen's Comp."
     },
-    "container-phrase": {
-      "U.S.": "!authority>>>",
-      "S.Ct.": "!authority>>>",
-      "L.Ed.": "!authority>>>",
-      "L.Ed.2d": "!authority>>>",
-      "U.S. LEXIS": "!authority>>>"
-    }, 
     "container-title": {
-      "U.S.": "!authority>>>",
-      "S.Ct.": "!authority>>>",
-      "L.Ed.": "!authority>>>",
-      "L.Ed.2d": "!authority>>>",
-      "U.S. LEXIS": "!authority>>>",
+      "U.S.": "!authority>>>U.S.",
+      "S. Ct.": "!authority>>>S. Ct.",
+      "L. Ed.": "!authority>>>L. Ed.",
+      "L. Ed. 2d": "!authority>>>L. Ed. 2d",
+      "U.S. LEXIS": "!authority>>>U.S. LEXIS",
+      "N.L.R.B.": "!authority>>>N.L.R.B.",
       "U.S. Code": "U.S.C.",
       "aba journal": "A.B.A. J.",
       "ababna lawyers manual on professional conduct": "Laws. Man. on Prof. Conduct (ABA/BNA)",
