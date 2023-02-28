@@ -2495,11 +2495,11 @@ references:
   title-short: The Good Case
   type: chapter
 
-- id: ''
+- id: Corbett2005
   author:
     - family: Corbett
       given: William L.
-  citation-key: ''
+  citation-key: Corbett2005
   container-title: Montana Law Review
   container-title-short: Mont. Law Rev.
   issue: '2'
@@ -2577,11 +2577,11 @@ references:
   URL: >-
     https://roarmag.org/2018/01/30/reading-list-sociology-finance-debt-austerity/
 
-- id: ''
+- id: Crain2002
   author:
     - family: Crain
       given: Marion
-  citation-key: ''
+  citation-key: Crain2002
   container-title: Berkeley Journal of Employment and Labor Law
   container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
@@ -2592,7 +2592,7 @@ references:
   type: article-journal
   volume: '23'
 
-- id: ''
+- id: Crhova2015
   author:
     - family: Crhova
       given: Zuzana
@@ -2602,7 +2602,7 @@ references:
       given: Marie
     - family: Fiserova
       given: Zuzana
-  citation-key: ''
+  citation-key: Crhova2015
   container-title: 'Verslas: teorija ir praktika'
   container-title-short: Verslas Teor. Ir Prakt.
   ISSN: 1648-0627
@@ -2616,11 +2616,11 @@ references:
   type: article-journal
   volume: '16'
 
-- id: ''
+- id: Cummings2009
   author:
     - family: Cummings
       given: Scott L.
-  citation-key: ''
+  citation-key: Cummings2009
   container-title: Berkeley Journal of Employment and Labor Law
   container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
@@ -2632,11 +2632,11 @@ references:
   type: article-journal
   volume: '30'
 
-- id: ''
+- id: Cummings2016
   author:
     - family: Cummings
       given: Scott L.
-  citation-key: ''
+  citation-key: Cummings2016
   container-title: Fordham Law Review
   container-title-short: Fordham Law Rev.
   issue: '5'
@@ -2693,11 +2693,11 @@ references:
   type: legal_case
   volume: '353'
 
-- id: ''
+- id: Dannin2005
   author:
     - family: Dannin
       given: Ellen
-  citation-key: ''
+  citation-key: Dannin2005
   container-title: Berkeley Journal of Employment and Labor Law
   container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
@@ -2708,11 +2708,11 @@ references:
   type: article-journal
   volume: '26'
 
-- id: ''
+- id: Dannin2009
   author:
     - family: Dannin
       given: Ellen
-  citation-key: ''
+  citation-key: Dannin2009
   container-title: Employee Responsibilities and Rights Journal; New York
   container-title-short: Empl. Responsib. Rights J. N. Y.
   ISSN: '8927545'
@@ -2731,11 +2731,11 @@ references:
   type: webpage
   URL: http://daringfireball.net/projects/markdown/
 
-- id: ''
+- id: Dau-Schmidt1995
   author:
     - family: Dau-Schmidt
       given: Kenneth G.
-  citation-key: ''
+  citation-key: Dau-Schmidt1995
   container-title: Texas Law Review
   container-title-short: Tex. Law Rev.
   issue: '7'
@@ -2749,11 +2749,11 @@ references:
   type: article-journal
   volume: '74'
 
-- id: ''
+- id: Davey2019
   author:
     - family: Davey
       given: Ryan
-  citation-key: ''
+  citation-key: Davey2019
   container-title: Economy and Society
   container-title-short: Econ. Soc.
   ISSN: 0308-5147, 1469-5766
@@ -2830,11 +2830,11 @@ references:
   title: Deutsch v. Schoelkopf
   type: legal_case
 
-- id: ''
+- id: Deville2016
   author:
     - family: Deville
       given: Joe
-  citation-key: ''
+  citation-key: Deville2016
   container-title: Consumption Markets & Culture
   container-title-short: Consum. Mark. Cult.
   ISSN: 1025-3866
@@ -2929,13 +2929,13 @@ references:
   title: Lawyer Satisfaction in the Process of Structuring Legal Careers
   type: chapter
 
-- id: ''
+- id: Dobbie2008
   author:
     - family: Dobbie
       given: David
     - family: Robinson
       given: Ian
-  citation-key: ''
+  citation-key: Dobbie2008
   container-title: Labor Studies Journal
   container-title-short: Labor Stud. J.
   ISSN: 0160-449X
@@ -2951,7 +2951,7 @@ references:
   type: article-journal
   volume: '33'
 
-- id: ''
+- id: Dolenec2021
   author:
     - family: Dolenec
       given: Danijela
@@ -2959,7 +2959,7 @@ references:
       given: Karlo
     - family: Balković
       given: Ana
-  citation-key: ''
+  citation-key: Dolenec2021
   container-title: East European Politics
   container-title-short: East Eur. Polit.
   ISSN: 2159-9165
@@ -2987,11 +2987,11 @@ references:
   type: legal_case
   volume: '335'
 
-- id: ''
+- id: Donoghue2009
   author:
     - family: Donoghue
       given: Jane
-  citation-key: ''
+  citation-key: Donoghue2009
   container-title: International Journal of Law, Crime and Justice
   container-title-short: Int. J. Law Crime Justice
   ISSN: 1756-0616
@@ -3006,13 +3006,13 @@ references:
   type: article-journal
   volume: '37'
 
-- id: ''
+- id: Dorf2014
   author:
     - family: Dorf
       given: Michael C.
     - family: Tarrow
       given: Sidney
-  citation-key: ''
+  citation-key: Dorf2014
   container-title: Law & Social Inquiry
   container-title-short: Law Soc. Inq.
   ISSN: 0897-6546
@@ -3044,11 +3044,11 @@ references:
   type: article-newspaper
   URL: https://www.nytimes.com/2017/05/13/business/noncompete-clauses.html
 
-- id: ''
+- id: Douglas2003
   author:
     - family: Douglas
       given: Mary
-  citation-key: ''
+  citation-key: Douglas2003
   container-title: 'RES: Anthropology and Aesthetics'
   container-title-short: RES Anthropol. Aesthet.
   ISSN: 0277-1322
@@ -3058,11 +3058,11 @@ references:
   title: The Gender of the Trout
   type: article-journal
 
-- id: ''
+- id: Dubofsky1991
   author:
     - family: Dubofsky
       given: Melvyn
-  citation-key: ''
+  citation-key: Dubofsky1991
   container-title: 'Pennsylvania History: A Journal of Mid-Atlantic Studies'
   container-title-short: Pa. Hist. J. -Atl. Stud.
   ISSN: 0031-4528
@@ -3076,11 +3076,11 @@ references:
   type: article-journal
   volume: '58'
 
-- id: ''
+- id: Dudzic2005
   author:
     - family: Dudzic
       given: Mark
-  citation-key: ''
+  citation-key: Dudzic2005
   container-title: New Labor Forum
   ISSN: 1095-7960
   issue: '1'
@@ -3093,13 +3093,13 @@ references:
   type: article-journal
   volume: '14'
 
-- id: ''
+- id: Dukes2020
   author:
     - family: Dukes
       given: Ruth
     - family: Streeck
       given: Wolfgang
-  citation-key: ''
+  citation-key: Dukes2020
   container-title: Journal of Law and Society
   container-title-short: J. Law Soc.
   ISSN: 0263-323X
@@ -3113,11 +3113,11 @@ references:
   type: article-journal
   volume: '47'
 
-- id: ''
+- id: Duncan1998
   author:
     - family: Duncan
       given: John C. Jr.
-  citation-key: ''
+  citation-key: Duncan1998
   container-title: Indiana Law Journal
   container-title-short: Indiana Law J.
   issued:
@@ -3130,11 +3130,11 @@ references:
   type: article-journal
   volume: '74'
 
-- id: ''
+- id: Durrenberger2007
   author:
     - family: Durrenberger
       given: E. Paul
-  citation-key: ''
+  citation-key: Durrenberger2007
   container-title: Annual Review of Anthropology
   container-title-short: Annu. Rev. Anthropol.
   ISSN: 0084-6570
@@ -3144,11 +3144,11 @@ references:
   type: article-journal
   volume: '36'
 
-- id: ''
+- id: Dwyer2018
   author:
     - family: Dwyer
       given: Rachel E.
-  citation-key: ''
+  citation-key: Dwyer2018
   container-title: Annual Review of Sociology
   container-title-short: Annu. Rev. Sociol.
   ISSN: '3600572'
@@ -3160,11 +3160,11 @@ references:
   type: article-journal
   volume: '44'
 
-- id: ''
+- id: Dymski2009
   author:
     - family: Dymski
       given: Gary
-  citation-key: ''
+  citation-key: Dymski2009
   container-title: Historical Materialism
   container-title-short: Hist. Mater.
   ISSN: 1465-4466, 1569-206X
@@ -3188,11 +3188,11 @@ references:
   type: legal_case
   volume: '239'
 
-- id: ''
+- id: Eastman1995
   author:
     - family: Eastman
       given: Wayne
-  citation-key: ''
+  citation-key: Eastman1995
   container-title: Journal of Individual Employment Rights
   container-title-short: J. Individ. Employ. Rights
   ISSN: 10557512, 15413799
@@ -3234,11 +3234,11 @@ references:
   title-short: Internal Dispute Resolution
   type: chapter
 
-- id: ''
+- id: Ehrenreich2008
   author:
     - family: Ehrenreich
       given: Barbara
-  citation-key: ''
+  citation-key: Ehrenreich2008
   container-title: The Progressive
   issue: '10'
   issued:
@@ -3260,13 +3260,13 @@ references:
   type: legal_case
   volume: '346'
 
-- id: ''
+- id: Elliott-Negri2018
   author:
     - family: Elliott-Negri
       given: Luke
     - family: Kagan
       given: Marc
-  citation-key: ''
+  citation-key: Elliott-Negri2018
   container-title: New Labor Forum
   ISSN: 1095-7960
   issued:
@@ -3298,11 +3298,11 @@ references:
   title: The Violence of the Debtfare State
   type: chapter
 
-- id: ''
+- id: Ellmann1992
   author:
     - family: Ellmann
       given: Stephen
-  citation-key: ''
+  citation-key: Ellmann1992
   container-title: Virginia Law Review
   container-title-short: Va. Law Rev.
   ISSN: 0042-6601
@@ -3336,11 +3336,11 @@ references:
   title-short: Landscapes of the Law
   type: chapter
 
-- id: ''
+- id: Epstein1983
   author:
     - family: Epstein
       given: Richard
-  citation-key: ''
+  citation-key: Epstein1983
   container-title: Yale Law Journal
   container-title-short: Yale Law J.
   issued:
@@ -3351,11 +3351,11 @@ references:
   type: article-journal
   volume: '92'
 
-- id: ''
+- id: Epstein1984
   author:
     - family: Epstein
       given: Richard A.
-  citation-key: ''
+  citation-key: Epstein1984
   container-title: The University of Chicago Law Review
   container-title-short: Univ. Chic. Law Rev.
   ISSN: 0041-9494
@@ -3379,11 +3379,11 @@ references:
   type: legal_case
   volume: '304'
 
-- id: ''
+- id: Estlund1995
   author:
     - family: Estlund
       given: Cynthia L.
-  citation-key: ''
+  citation-key: Estlund1995
   container-title: Texas Law Review
   container-title-short: Tex. Law Rev.
   issue: '7'
@@ -3397,11 +3397,11 @@ references:
   type: article-journal
   volume: '74'
 
-- id: ''
+- id: Estlund2002
   author:
     - family: Estlund
       given: Cynthia L.
-  citation-key: ''
+  citation-key: Estlund2002
   container-title: New York University Law Review
   container-title-short: N. Y. Univ. Law Rev.
   issue: '1'
@@ -3416,11 +3416,11 @@ references:
   type: article-journal
   volume: '77'
 
-- id: ''
+- id: Estlund2005
   author:
     - family: Estlund
       given: Cynthia
-  citation-key: ''
+  citation-key: Estlund2005
   container-title: Columbia Law Review
   container-title-short: Columbia Law Rev.
   ISSN: 0010-1958
@@ -3431,11 +3431,11 @@ references:
   type: article-journal
   volume: '105'
 
-- id: ''
+- id: Estlund2020
   author:
     - family: Estlund
       given: Cynthia
-  citation-key: ''
+  citation-key: Estlund2020
   container-title: Research Handbook on Private Law Theory
   container-title-short: Res. Handb. Priv. Law Theory
   issued:
@@ -3445,13 +3445,13 @@ references:
   title: The fall and rise of the private law of work
   type: article-journal
 
-- id: ''
+- id: Estreicher2013
   author:
     - family: Estreicher
       given: Samuel
     - family: Hirsch
       given: Jeffrey M.
-  citation-key: ''
+  citation-key: Estreicher2013
   container-title: SSRN Electronic Journal
   container-title-short: SSRN Electron. J.
   ISSN: 1556-5068
@@ -3474,11 +3474,11 @@ references:
   type: legal_case
   volume: '861'
 
-- id: ''
+- id: Etienne2005
   author:
     - family: Etienne
       given: Margareth
-  citation-key: ''
+  citation-key: Etienne2005
   container-title: The Journal of Criminal Law and Criminology (1973-)
   container-title-short: J. Crim. Law Criminol. 1973-
   ISSN: 0091-4169
@@ -3504,7 +3504,7 @@ references:
   type: legal_case
   volume: '861'
 
-- id: ''
+- id: Ewing2005
   author:
     - family: Ewing
       given: Bradley T.
@@ -3512,7 +3512,7 @@ references:
       given: Charles M.
     - family: Taylor
       given: Beck A.
-  citation-key: ''
+  citation-key: Ewing2005
   container-title: ILR Review
   container-title-short: ILR Rev.
   ISSN: 0019-7939
@@ -3581,11 +3581,11 @@ references:
   type: chapter
   volume: '4'
 
-- id: ''
+- id: FarinacciFernos2018
   author:
     - family: Farinacci Fernos
       given: Jorge M.
-  citation-key: ''
+  citation-key: FarinacciFernos2018
   container-title: Montana Law Review
   container-title-short: Mont. Law Rev.
   issue: '2'
@@ -3597,13 +3597,13 @@ references:
   type: article-journal
   volume: '79'
 
-- id: ''
+- id: Fassbender2013
   author:
     - family: Fassbender
       given: Eric
     - family: Mamtora
       given: Jayshree
-  citation-key: ''
+  citation-key: Fassbender2013
   container-title: The Australian Library Journal
   container-title-short: Aust. Libr. J.
   ISSN: 0004-9670
@@ -3620,7 +3620,7 @@ references:
   type: article-journal
   volume: '62'
 
-- id: ''
+- id: Fassin2019
   author:
     - family: Fassin
       given: Didier
@@ -3628,7 +3628,7 @@ references:
       given: Shamus
     - family: Tahir
       given: Madiha
-  citation-key: ''
+  citation-key: Fassin2019
   container-title: Public Culture
   container-title-short: Public Cult.
   ISSN: 0899-2363
@@ -3641,13 +3641,13 @@ references:
   type: article-journal
   volume: '31'
 
-- id: ''
+- id: Favaro2012
   author:
     - family: Favaro
       given: Sharon
     - family: Hoadley
       given: Christopher
-  citation-key: ''
+  citation-key: Favaro2012
   container-title: Library Publications
   container-title-short: Libr. Publ.
   issued:
@@ -3705,11 +3705,11 @@ references:
   type: legal_case
   volume: '359'
 
-- id: ''
+- id: Federici2014
   author:
     - family: Federici
       given: S.
-  citation-key: ''
+  citation-key: Federici2014
   container-title: South Atlantic Quarterly
   container-title-short: South Atl. Q.
   ISSN: 0038-2876, 1527-8026
@@ -3725,11 +3725,11 @@ references:
   type: article-journal
   volume: '113'
 
-- id: ''
+- id: Feinman1991
   author:
     - family: Feinman
       given: Jay M.
-  citation-key: ''
+  citation-key: Feinman1991
   container-title: Arizona State Law Journal
   container-title-short: Ariz. State Law J.
   issued:
@@ -3739,7 +3739,7 @@ references:
   type: article-journal
   volume: '23'
 
-- id: ''
+- id: Felstiner1980
   author:
     - family: Felstiner
       given: William L.F.
@@ -3747,7 +3747,7 @@ references:
       given: Richard L.
     - family: Sarat
       given: Austin
-  citation-key: ''
+  citation-key: Felstiner1980
   container-title: Law & Society Review
   container-title-short: Law Soc. Rev.
   issue: 3/4
@@ -3760,11 +3760,11 @@ references:
   type: article-journal
   volume: '15'
 
-- id: ''
+- id: Felstiner2011
   author:
     - family: Felstiner
       given: Alek
-  citation-key: ''
+  citation-key: Felstiner2011
   container-title: Berkeley Journal of Employment and Labor Law
   container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
@@ -3776,11 +3776,11 @@ references:
   type: article-journal
   volume: '32'
 
-- id: ''
+- id: Ferguson2017
   author:
     - family: Ferguson
       given: Anneka
-  citation-key: ''
+  citation-key: Ferguson2017
   container-title: Journal of Learning Design
   container-title-short: J. Learn. Des.
   ISSN: 1832-8342
@@ -3792,7 +3792,7 @@ references:
   type: article-journal
   volume: '8'
 
-- id: ''
+- id: Ferguson2017a
   author:
     - family: Ferguson
       given: John-Paul
@@ -3800,7 +3800,7 @@ references:
       given: Thomas
     - family: Soule
       given: Sarah A.
-  citation-key: ''
+  citation-key: Ferguson2017a
   container-title: Administrative Science Quarterly
   container-title-short: Adm. Sci. Q.
   issued:
@@ -3815,13 +3815,13 @@ references:
     1960–1995
   type: article-journal
 
-- id: ''
+- id: Feuille1976
   author:
     - family: Feuille
       given: Peter
     - family: Juris
       given: Hervey A
-  citation-key: ''
+  citation-key: Feuille1976
   container-title: Work and Occupations
   container-title-short: Work Occup.
   issue: '1'
@@ -3831,11 +3831,11 @@ references:
   type: article-journal
   volume: '3'
 
-- id: ''
+- id: Fields1990
   author:
     - family: Fields
       given: Barbara Jeanne
-  citation-key: ''
+  citation-key: Fields1990
   container-title: New Left Review
   container-title-short: New Left Rev.
   issue: '181'
@@ -4225,11 +4225,11 @@ references:
   type: legal_case
   volume: '252'
 
-- id: ''
+- id: Fischer2004
   author:
     - family: Fischer
       given: Aron
-  citation-key: ''
+  citation-key: Fischer2004
   container-title: The Yale Law Journal
   container-title-short: Yale Law J.
   ISSN: 0044-0094
@@ -4240,11 +4240,11 @@ references:
   type: article-journal
   volume: '113'
 
-- id: ''
+- id: Fisk2002
   author:
     - family: Fisk
       given: Catherine
-  citation-key: ''
+  citation-key: Fisk2002
   container-title: Berkeley Journal of Employment & Labor Law
   container-title-short: Berkeley J. Employ. Labor Law
   issued:
@@ -5706,15 +5706,25 @@ references:
   type: article-journal
   volume: '644'
 
-- id: IdahoAgGag
+- id: IdahoAgriculturalProduction2014
   chapter-number: '2014'
-  citation-key: IdahoAgGag
+  citation-key: IdahoAgriculturalProduction2014
   container-title: Idaho Code
   container-title-short: Ida. Code
   issued:
     - year: 2014
   section: 18-7042
   title: Interference with Agricultural Production
+  type: legislation
+
+- id: IdahoAgriculturalResearch2002
+  citation-key: IdahoAgriculturalResearch2002
+  container-title: Idaho Code
+  container-title-short: Ida. Code
+  issued:
+    - year: 2002
+  section: 18-7040
+  title: Interference with agricultural research
   type: legislation
 
 - id: Ingalls1997
@@ -5759,12 +5769,11 @@ references:
   type: legal_case
   volume: '326'
 
-- id: IowaAgFraud2004
-  chapter-number: '2004'
-  citation-key: IowaAgFraud2004
+- id: IowaAgFraud2012
+  citation-key: IowaAgFraud2012
   container-title: Iowa Code
   issued:
-    - year: 2004
+    - year: 2012
   section: 717A.3A
   title: Agricultural Production Facility Fraud
   type: legislation
@@ -11302,6 +11311,38 @@ references:
     - year: 2012
   section: 76-6-112
   title: Agricultural Operation Interference
+  type: legislation
+
+- id: UtahCrimCodeRecodification2023
+  author:
+    - family: Gwynn
+      given: Matthew H.
+  authority: Utah State Legislature
+  chapter-number: 2023 General Session
+  citation-key: UtahCrimCodeRecodification2023
+  issued:
+    - year: 2023
+  number: H.B. 46
+  title: Criminal Code Recodification and Cross References
+  type: bill
+  URL: https://le.utah.gov/~2023/bills/static/HB0046.html
+
+- id: UtahCriminalTrespassAgricultural2022
+  citation-key: UtahCriminalTrespassAgricultural2022
+  container-title: Utah Crim. Code
+  issued:
+    - year: 2022
+  section: 76-6-206.3
+  title: Criminal trespass on agricultural land or range land
+  type: legislation
+
+- id: UtahOffensesAgainstAnimalEnterprises2021
+  citation-key: UtahOffensesAgainstAnimalEnterprises2021
+  container-title: Utah Crim. Code
+  issued:
+    - year: 2021
+  section: 76-6-110
+  title: Offenses committed against animal enterprises
   type: legislation
 
 - id: Vaccaro2020
