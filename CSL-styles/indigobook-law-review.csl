@@ -106,20 +106,28 @@
 
 <!-- Authors -->
 <macro name="name-macro">
-  <names variable="author">
-    <name and="symbol" delimiter=", " delimiter-precedes-last="never"/>
-    <label form="short" prefix=" "/>
-    <substitute>
-      <text variable="title" form="short"/>
-    </substitute>
-  </names>
+  <choose>
+    <if type="bill legal_case legislation" match="any">
+    </if> 
+    <else>
+      <names variable="author">
+      <name and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+      <label form="short" prefix=" "/>
+      <substitute>
+        <text variable="title" form="short"/>
+      </substitute>
+    </names>
+    </else>
+  </choose>
 </macro>
 
 <macro name="author-short">
   <choose>
-    <if type="book graphic motion_picture report song" match="any">
+    <if type="bill legal_case legislation" match="any">
+    </if> 
+    <else-if type="book graphic motion_picture report song" match="any">
       <text macro="name-short-macro" font-variant="small-caps"/>
-    </if>
+    </else-if>
     <else>
       <text macro="name-short-macro"/>
     </else>
@@ -127,6 +135,10 @@
 </macro>
 
 <macro name="name-short-macro">
+  <choose>
+  <if type="bill legal_case legislation" match="any">
+  </if> 
+  <else>
   <names variable="author">
     <name form="short" and="text" delimiter=", "/>
     <label form="verb-short" prefix=", "/>
@@ -134,13 +146,17 @@
       <text variable="title" form="short"/>
     </substitute>
   </names>
+  </else>
+  </choose>
 </macro>
 
 <macro name="author">
   <choose>
-    <if type="book graphic motion_picture report song" match="any">
+    <if type="bill legal_case legislation" match="any">
+    </if> 
+    <else-if type="book graphic motion_picture report song" match="any">
       <text macro="name-macro" font-variant="small-caps"/>
-    </if>
+    </else-if>
     <else>
       <text macro="name-macro"/>
     </else>
