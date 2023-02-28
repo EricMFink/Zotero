@@ -164,18 +164,6 @@ references:
   title: Causing the Loss of an Animal or Crop From an Animal or Crop Facility
   type: legislation
 
-- id: AlbertsonInc2007
-  authority: N.L.R.B.
-  citation-key: AlbertsonInc2007
-  container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
-  issued:
-    - year: 2007
-  page: '254'
-  title: Albertson's, Inc.
-  type: legal_case
-  volume: '351'
-
 - id: Albiston2014
   author:
     - family: Albiston
@@ -1214,6 +1202,17 @@ references:
   title-short: Government Lawyer as Cause Lawyer
   type: article-journal
   volume: '86'
+
+- id: BethIsraelHospital1978
+  authority: Supreme Court
+  citation-key: BethIsraelHospital1978
+  container-title: US
+  issued:
+    - year: 1978
+  page: '483'
+  title: Beth Israel Hospital v. NLRB
+  type: legal_case
+  volume: '437'
 
 - id: Biasi2016
   author:
@@ -2370,6 +2369,7 @@ references:
     - year: 1984
   page: '822'
   title: NLRB v. City Disposal Systems, Inc.
+  title-short: City Disposal
   type: legal_case
   volume: '465'
 
@@ -3188,6 +3188,18 @@ references:
   type: legal_case
   volume: '239'
 
+- id: EastexIncNLRB1978
+  authority: U.S.
+  citation-key: EastexIncNLRB1978
+  container-title: US
+  issued:
+    - year: 1978
+  page: '556'
+  title: Eastex, Inc. v. NLRB
+  title-short: Eastex
+  type: legal_case
+  volume: '437'
+
 - id: Eastman1995
   author:
     - family: Eastman
@@ -3501,6 +3513,7 @@ references:
     - year: 1988
   page: '353'
   title: Ewing v. N.L.R.B.
+  title-short: Ewing
   type: legal_case
   volume: '861'
 
@@ -4567,6 +4580,17 @@ references:
   type: legal_case
   volume: '767'
 
+- id: FriedgesDrywallInc2009
+  authority: Minn. Ct. App.
+  citation-key: FriedgesDrywallInc2009
+  issued:
+    - year: 2009
+      month: 12
+      day: 29
+  number: A-09-427
+  title: Friedges Drywall, Inc. v. North Central States Regional Council of Capenters
+  type: legal_case
+
 - id: Friedman1988
   author:
     - family: Friedman
@@ -4602,17 +4626,6 @@ references:
   title-short: Worker Militancy and Its Consequences
   type: article-journal
   volume: '40'
-
-- id: FriegesDrywallInc2009
-  authority: Minn. Ct. App.
-  citation-key: FriegesDrywallInc2009
-  issued:
-    - year: 2009
-      month: 12
-      day: 29
-  number: A-09-427
-  title: Frieges Drywall, Inc. v. North Central States Regional Council of Capenters
-  type: legal_case
 
 - id: Frohman2014
   author:
@@ -5210,6 +5223,17 @@ references:
   title: Do the “Haves” Still Come Out Ahead?
   type: chapter
 
+- id: GuardsmarkLlcNlrb2007
+  authority: Court of Appeals, Dist. of Columbia Circuit
+  citation-key: GuardsmarkLlcNlrb2007
+  container-title: F. 3d
+  issued:
+    - year: 2007
+  page: '369'
+  title: Guardsmark, Llc v. NLRB
+  type: legal_case
+  volume: '475'
+
 - id: Gupta2011
   author:
     - family: Gupta
@@ -5491,15 +5515,15 @@ references:
 - id: HelmsleySpearIncFishman2008
   authority: N.Y.
   citation-key: HelmsleySpearIncFishman2008
-  container-title: N.Y.3d
-  container-title-short: N.Y.3d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     - year: 2008
-  page: '470'
+  page: '934'
   title: Helmsley-Spear, Inc. v. Fishman
   title-short: Fishman
   type: legal_case
-  volume: '11'
+  volume: '900'
 
 - id: HennepinBroadcastingAssociates1974
   authority: Minn.
@@ -8046,6 +8070,7 @@ references:
     - year: 1984
   page: '493'
   title: Meyers Industries, Inc. ("Meyers I")
+  title-short: Meyers I
   type: legal_case
   volume: '268'
 
@@ -8058,6 +8083,7 @@ references:
     - year: 1986
   page: '493'
   title: Meyers Industries, Inc. ("Meyers II")
+  title-short: Meyers II
   type: legal_case
   volume: '281'
 
@@ -8371,6 +8397,26 @@ references:
     the Struggle for Workers' Rights
   type: article-journal
   volume: '23'
+
+- id: MotorCityPawn2020
+  accessed:
+    - year: 2023
+      month: 2
+      day: 28
+  authority: N.L.R.B.
+  citation-key: MotorCityPawn2020
+  container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
+  issued:
+    - year: 2020
+      month: 7
+      day: 24
+  page: No. 132
+  title: Motor City Pawn Brokers, Inc.
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Document/I3655e12fd15311eaaf3cedf8c55e6c34/View/FullText.html?navigationPath=RelatedInfo%2Fv4%2Fkeycite%2Fnav%2F%3Fguid%3DI3655e12fd15311eaaf3cedf8c55e6c34%26ss%3D2006786799%26ds%3D2051539983%26origDocGuid%3DI93962451fac611daa223cd6b838f54f9&listSource=RelatedInfo&list=NegativeCitingReferences&rank=0&ppcid=d7d5389a4fcb45eab9b38d3c398b7a9c&originationContext=docHeader&transitionType=NegativeTreatment&contextData=%28sc.DocLink%29
+  volume: '369'
 
 - id: Muncy2018
   author:
@@ -8923,6 +8969,20 @@ references:
   title: 'Lawyers of the Right: Networks and Organization'
   type: article-journal
   volume: '32'
+
+- id: PainReliefCenters2022
+  authority: N.L.R.B.
+  citation-key: PainReliefCenters2022
+  container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
+  issued:
+    - year: 2022
+      month: 9
+      day: 27
+  page: No. 143
+  title: Pain Relief Centers, P.A.
+  type: legal_case
+  volume: '371'
 
 - id: PaintingPrintIncorporating_nd
   accessed:
@@ -9553,6 +9613,21 @@ references:
   title-short: Movement Lawyering During a Crisis
   type: article-journal
   volume: '24'
+
+- id: RestEmploymentLaw2015
+  accessed:
+    - year: 2023
+      month: 2
+      day: 28
+  citation-key: RestEmploymentLaw2015
+  container-title: Restatement of Employment Law
+  issued:
+    - year: 2015
+  publisher: American Law Institute
+  title: § 8.01 Employee Duty of Loyalty to the Employer
+  type: chapter
+  URL: >-
+    https://1.next.westlaw.com/Document/I6cd2c731135c11e586bfe51da3272ff1/View/FullText.html?ppcid=1bf18228f6ea40b780b61ca397dad00e&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=%28sc.Search%29
 
 - id: RetailPropertyTrust2014
   authority: 9th Cir.
@@ -10571,6 +10646,17 @@ references:
   type: thesis
   URL: http://repository.usfca.edu/capstone/4
 
+- id: StanfordHospClinics2003
+  authority: Court of Appeals, Dist. of Columbia Circuit
+  citation-key: StanfordHospClinics2003
+  container-title: F. 3d
+  issued:
+    - year: 2003
+  page: '334'
+  title: Stanford Hosp. and Clinics v. NLRB
+  type: legal_case
+  volume: '325'
+
 - id: StateDeAngelo2007
   authority: N.J. Sup. Ct. App. Div.
   citation-key: StateDeAngelo2007
@@ -10586,15 +10672,15 @@ references:
 - id: StateDeAngelo2009
   authority: N.J.
   citation-key: StateDeAngelo2009
-  container-title: N.J.
-  container-title-short: N.J.
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 2009
-  page: '478'
+  page: '1200'
   title: State v. DeAngelo
   title-short: DeAngelo
   type: legal_case
-  volume: '197'
+  volume: '963'
 
 - id: Steinman2014
   author:
@@ -11642,6 +11728,7 @@ references:
     - year: 1962
   page: '9'
   title: NLRB v. Washington Aluminum Co.
+  title-short: Washington Aluminum
   type: legal_case
   volume: '370'
 
