@@ -266,14 +266,35 @@
       <text variable="locator" prefix=", "/>
     </else-if>
     <else-if type="legislation">
-      <group delimiter=" ">
-        <text variable="volume"/>
-        <text macro="container"/>
-      </group>
-      <text variable="section" prefix=" § "/>
-      <text variable="locator" prefix=""/>
-    </else-if>      
-   	<else-if type="bill hearing" match="any">
+      <choose>
+        <!-- FOR USC & CFR-->
+        <if variable="volume">  
+          <choose>
+            <if variable="locator">
+              <group delimiter=" ">
+              <text variable="volume"/>
+              <text macro="container"/>
+              <text variable="locator" prefix="§ "/>
+              </group>
+            </if>
+            <else>
+              <group delimiter=" ">
+              <text variable="volume"/>
+              <text macro="container"/>
+              <text variable="section" prefix="§ "/>
+              </group>
+            </else>
+          </choose>
+        </if>
+        <!-- FOR STATE STATUTES, FRCP, ETC.-->
+        <else>
+          <text macro="container"/>
+          <text variable="section" prefix=" § "/>
+          <text variable="locator" prefix=""/>
+        </else>
+      </choose>
+    </else-if> 
+    <else-if type="bill hearing" match="any">
 		<group delimiter=" ">
 			<text variable="authority" form="short"/>
 			<text variable="chapter-number" form="short" prefix=", "/>
@@ -480,13 +501,22 @@
 </choose>
 </macro>
 
+
 <!-- CITATION-->
 <citation et-al-min="4" et-al-use-first="1">
   <layout suffix="." delimiter="; ">
     <choose>
       <if position="ibid">
         <text value="id." text-case="capitalize-first" font-style="italic"/>
-        <text macro="at_page" suffix="."/>
+        <choose>
+        <if type="legislation">
+          <text variable="section" prefix=" § "/>
+          <text variable="locator" prefix=""/>
+        </if>
+        <else>
+          <text macro="at_page" suffix="."/>
+        </else>
+        </choose>
         <!-- period will not show up - this is for find-and-replace later. -->
       </if>
       <else-if position="subsequent">
@@ -527,7 +557,11 @@
             <text macro="full-title"/>
             <text macro="source"/>
           </if>
-          <else-if type="bill hearing legal_case legislation" match="any">
+          <else-if type="legislation" match="any">
+            <text macro="source"/>
+            <text macro="issuance"/>
+          </else-if>
+          <else-if type="bill hearing legal_case" match="any">
             <text macro="full-title"/>
             <text macro="source"/>
             <text macro="issuance"/>

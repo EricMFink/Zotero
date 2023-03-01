@@ -23,7 +23,6 @@ references:
       given: Steven E.
   citation-key: Abraham1998
   container-title: 'Industrial Relations: A Journal of Economy and Society'
-  container-title-short: Ind. Relat. J. Econ. Soc.
   ISSN: 1468-232X
   issue: '4'
   issued:
@@ -39,7 +38,6 @@ references:
       given: Steven E.
   citation-key: Abraham2008
   container-title: Employee Rights and Employment Policy Journal
-  container-title-short: Empl. Rights Employ. Policy J.
   issue: '1'
   issued:
     - year: 2008
@@ -59,7 +57,6 @@ references:
       given: Jörn-Steffen
   citation-key: Acemoglu1999
   container-title: The Economic Journal
-  container-title-short: Econ. J.
   ISSN: 0013-0133
   issue: '453'
   issued:
@@ -75,7 +72,6 @@ references:
       given: James M
   citation-key: Acheson1981
   container-title: Annual review of anthropology
-  container-title-short: Annu. Rev. Anthropol.
   ISSN: 0084-6570
   issue: '1'
   issued:
@@ -90,7 +86,6 @@ references:
       given: Lisa
   citation-key: Adkins2016
   container-title: Dialogues in Human Geography
-  container-title-short: Dialogues Hum. Geogr.
   ISSN: 2043-8206
   issue: '3'
   issued:
@@ -122,7 +117,6 @@ references:
   authority: 8th Cir.
   citation-key: AerotekInc2018
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2018
   page: '725'
@@ -161,7 +155,7 @@ references:
   issued:
     - year: 2002
   section: 13A-11-150
-  title: Causing the Loss of an Animal or Crop From an Animal or Crop Facility
+  title: Alabama Ag-Gag
   type: legislation
 
 - id: Albiston2014
@@ -191,7 +185,6 @@ references:
       given: Laura Beth
   citation-key: Albiston2014a
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   ISSN: 0897-6546
   issue: '1'
   issued:
@@ -231,7 +224,6 @@ references:
   authority: 10th Cir.
   citation-key: ALDFvKelly2021-10thCir
   container-title: F.4th
-  container-title-short: F.4th
   issued:
     - year: 2021
   page: '1219'
@@ -269,7 +261,6 @@ references:
   authority: 8th Cir.
   citation-key: ALDFvReynolds2021-8thCir
   container-title: F.4th
-  container-title-short: F.4th
   issued:
     - year: 2021
   page: '781'
@@ -306,7 +297,6 @@ references:
   authority: 8th Cir.
   citation-key: ALDFvVaught2021-8thCir
   container-title: F.4th
-  container-title-short: F.4th
   issued:
     - year: 2021
   page: '714'
@@ -319,7 +309,6 @@ references:
   authority: 9th Cir.
   citation-key: ALDFvWasden2018-9thCir
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2018
   page: '1184'
@@ -344,7 +333,6 @@ references:
   authority: N.L.R.B.
   citation-key: AlgrecoSportswearCo1984
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1984
   page: '499'
@@ -358,7 +346,6 @@ references:
       given: Soren
   citation-key: Ambrose2006
   container-title: Chicago Journal of International Law
-  container-title-short: Chic. J. Int. Law
   ISSN: 1529-0816
   issue: '1'
   issued:
@@ -378,7 +365,6 @@ references:
       given: Stella
   citation-key: Amery1980
   container-title: New German Critique
-  container-title-short: New Ger. Crit.
   ISSN: 0094-033X
   issue: '20'
   issued:
@@ -390,7 +376,6 @@ references:
   authority: U.S.
   citation-key: AndersonLibertyLobby1986
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1986
   page: '242'
@@ -407,7 +392,6 @@ references:
       given: Jack K.
   citation-key: Andreason1993
   container-title: Montana Business Quarterly; Missoula
-  container-title-short: Mont. Bus. Q. Missoula
   ISSN: '269921'
   issue: '2'
   issued:
@@ -423,7 +407,6 @@ references:
       given: Gregg
   citation-key: Andrews2008
   container-title: The Journal of Southern History
-  container-title-short: J. South. Hist.
   ISSN: 0022-4642
   issue: '3'
   issued:
@@ -443,7 +426,6 @@ references:
       given: Sarah
   citation-key: Andrews2015
   container-title: Sociological Forum
-  container-title-short: Sociol. Forum
   ISSN: 0884-8971
   issue: S1
   issued:
@@ -463,7 +445,6 @@ references:
       given: Kay
   citation-key: Andrews2018
   container-title: Law & Policy
-  container-title-short: Law Policy
   issued:
     - year: 2018
   language: en
@@ -477,7 +458,6 @@ references:
       given: Kate
   citation-key: Andrias2016
   container-title: Yale Law Journal
-  container-title-short: Yale Law J.
   issue: '1'
   issued:
     - year: 2016
@@ -515,7 +495,6 @@ references:
       given: H. C.
   citation-key: Appel2014
   container-title: Radical History Review
-  container-title-short: Radic. Hist. Rev.
   ISSN: 0163-6545, 1534-1453
   issue: '118'
   issued:
@@ -537,7 +516,6 @@ references:
       given: Roy
   citation-key: Arbel2020
   container-title: DePaul Law Review
-  container-title-short: DePaul Law Rev.
   ISSN: 0011-7188
   issue: '2'
   issued:
@@ -553,7 +531,6 @@ references:
       given: Olufunmilayo B
   citation-key: Arewa2006
   container-title: Lewis & Clark Law Review
-  container-title-short: Lewis Clark Law Rev.
   issued:
     - year: 2006
   language: en
@@ -569,7 +546,6 @@ references:
       given: Michael
   citation-key: Ariens2019
   container-title: St. Mary's Law Journal
-  container-title-short: St Marys Law J.
   issue: '2'
   issued:
     - year: 2019
@@ -584,7 +560,7 @@ references:
   issued:
     - year: 2017
   section: 16-118-113
-  title: Civil cause of action for unauthorized access to property
+  title: Arkansas Data Trespass
   type: legislation
 
 - id: ArkansasLabelingInc-EDArk
@@ -601,7 +577,6 @@ references:
       given: Timothy K.
   citation-key: Armstrong2009
   container-title: Santa Clara Computer & High Technology Law Journal
-  container-title-short: St. Clara Comput. High Technol. Law J.
   issued:
     - year: 2009
   language: eng
@@ -612,11 +587,11 @@ references:
   type: article-journal
   volume: '26'
 
-- id: Armstrong2010
+- id: armstrongRichTextsWikisource2010a
   author:
     - family: Armstrong
       given: Timothy K.
-  citation-key: Armstrong2010
+  citation-key: armstrongRichTextsWikisource2010a
   event-place: Rochester, NY
   genre: SSRN Scholarly Paper
   issued:
@@ -639,7 +614,6 @@ references:
       given: Eric
   citation-key: Arnesen2001
   container-title: International Labor and Working-Class History
-  container-title-short: Int. Labor Work.-Cl. Hist.
   ISSN: 0147-5479
   issue: '60'
   issued:
@@ -655,7 +629,6 @@ references:
       given: Blair
   citation-key: Arnold2019
   container-title: Journal of Social Justice
-  container-title-short: J. Soc. Justice
   ISSN: '21647100'
   issued:
     - year: 2019
@@ -669,7 +642,6 @@ references:
   authority: N.L.R.B.
   citation-key: ArrowFlintElectric1996
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1996
   page: '1208'
@@ -705,7 +677,6 @@ references:
   authority: U.S.
   citation-key: AshcroftIqbal2009
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 2009
   page: '662'
@@ -717,7 +688,6 @@ references:
   authority: N.L.R.B.
   citation-key: AshfordTRSNickel2018
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2018
   number: 19-CA-032761
@@ -736,7 +706,6 @@ references:
       given: Amanda
   citation-key: Ashiagbor2013
   container-title: Journal of Law and Society
-  container-title-short: J. Law Soc.
   ISSN: 0263-323X
   issue: '1'
   issued:
@@ -750,7 +719,6 @@ references:
   authority: N.L.R.B.
   citation-key: AssociatedBuildingContractors2000
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2000
   page: '132'
@@ -762,7 +730,6 @@ references:
   authority: N.L.R.B.
   citation-key: ATTMobility2021
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2021
       month: 5
@@ -776,7 +743,6 @@ references:
   authority: N.C. Ct. App.
   citation-key: AustinMaintenance2012
   container-title: S.E.2d
-  container-title-short: S.E.2d
   issued:
     - year: 2012
   page: '535'
@@ -794,7 +760,6 @@ references:
       given: Stewart J.
   citation-key: Autor2004
   container-title: The American Economic Review; Nashville
-  container-title-short: Am. Econ. Rev. Nashv.
   ISSN: '28282'
   issue: '2'
   issued:
@@ -818,7 +783,6 @@ references:
       given: Stewart J
   citation-key: Autor2006
   container-title: The Review of Economics and Statistics
-  container-title-short: Rev. Econ. Stat.
   ISSN: 0034-6535
   issue: '2'
   issued:
@@ -834,7 +798,6 @@ references:
       given: Constance
   citation-key: Backhouse2016
   container-title: International Journal of the Legal Profession
-  container-title-short: Int. J. Leg. Prof.
   ISSN: 0969-5958
   issue: '1'
   issued:
@@ -852,7 +815,6 @@ references:
       given: Gary
   citation-key: Baker2014
   container-title: Journal of Legal Studies
-  container-title-short: J. Leg. Stud.
   issued:
     - year: 2014
   title: A Model of Cause Lawyering
@@ -865,7 +827,6 @@ references:
       given: Étienne
   citation-key: Balibar2013
   container-title: Postmodern Culture
-  container-title-short: Postmod. Cult.
   ISSN: 1053-1920
   issue: '3'
   issued:
@@ -881,7 +842,6 @@ references:
       given: Deborah A.
   citation-key: Ballam1995
   container-title: Hofstra Labor Law Journal
-  container-title-short: Hofstra Labor Law J.
   issued:
     - year: 1995
   language: eng
@@ -922,7 +882,6 @@ references:
       given: Heather L.
   citation-key: Banaszak2016
   container-title: Social Forces
-  container-title-short: Soc. Forces
   ISSN: 0037-7732
   issue: '1'
   issued:
@@ -941,7 +900,6 @@ references:
       given: Daniel
   citation-key: Barclay2014
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 0023-9216
   issue: '3'
   issued:
@@ -960,7 +918,6 @@ references:
       given: Ted
   citation-key: Barnett202
   container-title: The University of Chicago Law Review
-  container-title-short: Univ. Chic. Law Rev.
   issued:
     - year: 202
   title: The Case for Noncompetes
@@ -1000,7 +957,6 @@ references:
       given: A Hudson
   citation-key: Basurto2012
   container-title: Human Ecology
-  container-title-short: Hum. Ecol.
   ISSN: 0300-7839
   issue: '4'
   issued:
@@ -1016,7 +972,6 @@ references:
   authority: U.S.
   citation-key: BatesStateBar1977
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1977
   page: '350'
@@ -1028,7 +983,6 @@ references:
   authority: U.S.
   citation-key: BaysideEnterprises1977
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1977
   page: '298'
@@ -1043,7 +997,6 @@ references:
       given: Jonathan C.
   citation-key: Beck2021
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   ISSN: 0897-6546
   issue: '1'
   issued:
@@ -1083,7 +1036,6 @@ references:
   authority: 8th Cir.
   citation-key: BeeckAquaslideNDive1977
   container-title: F.2d
-  container-title-short: F.2d
   issued:
     - year: 1977
   page: '537'
@@ -1098,7 +1050,6 @@ references:
       given: Stephen F.
   citation-key: befortDemystifyingFederalLabor1998
   container-title: The Labor Lawyer
-  container-title-short: Labor Lawyer
   ISSN: 8756-2995
   issue: '3'
   issued:
@@ -1115,7 +1066,6 @@ references:
       given: Derrick A.
   citation-key: Bell1976
   container-title: The Yale Law Journal
-  container-title-short: Yale Law J.
   ISSN: '440094'
   issue: '4'
   issued:
@@ -1132,7 +1082,6 @@ references:
   authority: U.S.
   citation-key: BellAerospace1974
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1974
   page: '267'
@@ -1144,7 +1093,6 @@ references:
   authority: U.S.
   citation-key: BellAtlanticCorp2007
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 2007
   page: '544'
@@ -1152,11 +1100,11 @@ references:
   type: legal_case
   volume: '550'
 
-- id: Benet1936
+- id: benetDevilDanielWebster1936a
   author:
     - family: Benét
       given: Stephen Vincent
-  citation-key: Benet1936
+  citation-key: benetDevilDanielWebster1936a
   container-title: The Saturday Evening Post
   issued:
     - year: 1936
@@ -1172,7 +1120,6 @@ references:
       given: Michael
   citation-key: Bennett1996
   container-title: Montana Law Review
-  container-title-short: Mont. Law Rev.
   issue: '1'
   issued:
     - year: 1996
@@ -1191,7 +1138,6 @@ references:
       given: Steven K.
   citation-key: Berenson2008
   container-title: Denver University Law Review
-  container-title-short: Denver Univ. Law Rev.
   issue: '2'
   issued:
     - year: 2008
@@ -1222,7 +1168,6 @@ references:
       given: Giovanni
   citation-key: Biasi2016
   container-title: SSRN Electronic Journal
-  container-title-short: SSRN Electron. J.
   ISSN: 1556-5068
   issued:
     - year: 2016
@@ -1241,7 +1186,6 @@ references:
       given: Stuart A.
   citation-key: Bierman1992
   container-title: Montana Law Review
-  container-title-short: Mont. Law Rev.
   issue: '1'
   issued:
     - year: 1992
@@ -1263,7 +1207,6 @@ references:
       given: Stuart A.
   citation-key: Bierman1993
   container-title: Montana Law Review
-  container-title-short: Mont. Law Rev.
   issue: '2'
   issued:
     - year: 1993
@@ -1281,7 +1224,6 @@ references:
       given: William J.
   citation-key: Billick1971
   container-title: Stanford Law Review
-  container-title-short: Stanford Law Rev.
   ISSN: 0038-9765
   issue: '4'
   issued:
@@ -1315,7 +1257,6 @@ references:
   authority: U.S.
   citation-key: BillJohnsonRestaurants1983
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1983
   page: '731'
@@ -1363,7 +1304,6 @@ references:
       given: Robert C.
   citation-key: Bird2004
   container-title: University of Cincinnati Law Review
-  container-title-short: Univ. Cincinnati Law Rev.
   issue: '2'
   issued:
     - year: 2004
@@ -1381,7 +1321,6 @@ references:
       given: Donald J.
   citation-key: Bird2008
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 0023-9216
   issue: '4'
   issued:
@@ -1401,7 +1340,6 @@ references:
       given: "John\_D."
   citation-key: Bird2009
   container-title: The Journal of Law and Economics
-  container-title-short: J. Law Econ.
   ISSN: 0022-2186
   issue: '2'
   issued:
@@ -1417,7 +1355,6 @@ references:
       given: Susan
   citation-key: Bisom-Rapp2003
   container-title: Comp. Lab. L. & Pol'y. J.
-  container-title-short: Comp Lab Pol J
   issued:
     - year: 2003
   title: >-
@@ -1434,7 +1371,6 @@ references:
   container-title: >-
     European Journal of Sociology / Archives Européennes de Sociologie /
     Europäisches Archiv für Soziologie
-  container-title-short: Eur. J. Sociol. Arch. Eur. Sociol. Eur. Arch. Für Soziol.
   editor:
     - family: Trumbull
       given: Gunnar
@@ -1467,7 +1403,6 @@ references:
   authority: U.S.
   citation-key: BlackWhiteTaxicab1928
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1928
   page: '518'
@@ -1520,7 +1455,6 @@ references:
       given: Anne
   citation-key: Bloom2008
   container-title: Law and Contemporary Problems
-  container-title-short: Law Contemp. Probl.
   ISSN: 0023-9186
   issue: '2'
   issued:
@@ -1533,7 +1467,6 @@ references:
   authority: U.S.
   citation-key: BlumInternationalAssociation1964
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1964
   page: '389'
@@ -1547,7 +1480,6 @@ references:
       given: Alfred W.
   citation-key: Blumrosen1983
   container-title: American Bar Association Journal
-  container-title-short: Am. Bar Assoc. J.
   ISSN: 0002-7596
   issue: '9'
   issued:
@@ -1562,7 +1494,6 @@ references:
       given: Matthew M.
   citation-key: Bodah2000
   container-title: Journal of Law & Education
-  container-title-short: J. Law Educ.
   issued:
     - year: 2000
   language: eng
@@ -1582,7 +1513,6 @@ references:
       given: Matthew T.
   citation-key: Bodie2016
   container-title: Georgetown Law Journal
-  container-title-short: Georgetown Law J.
   issued:
     - year: 2016
   language: eng
@@ -1594,7 +1524,6 @@ references:
   authority: N.L.R.B.
   citation-key: BoeingCompany2017
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2017
       month: 12
@@ -1626,7 +1555,6 @@ references:
       given: Werner
   citation-key: Bonefeld2019
   container-title: Journal of Social Justice
-  container-title-short: J. Soc. Justice
   ISSN: '21647100'
   issued:
     - year: 2019
@@ -1661,7 +1589,6 @@ references:
       given: Christos
   citation-key: Boukalas2013
   container-title: Social & Legal Studies
-  container-title-short: Soc. Leg. Stud.
   ISSN: 0964-6639
   issue: '3'
   issued:
@@ -1680,7 +1607,6 @@ references:
       given: Steven
   citation-key: Boutcher2013
   container-title: 'Mobilization: An International Quarterly'
-  container-title-short: Mobilization Int. Q.
   ISSN: 1086-671X
   issue: '2'
   issued:
@@ -1704,7 +1630,6 @@ references:
       given: Carroll
   citation-key: Boutcher2018
   container-title: Journal of Legal Education
-  container-title-short: J. Leg. Educ.
   ISSN: 0022-2208
   issue: '3'
   issued:
@@ -1722,7 +1647,6 @@ references:
       given: Anthony V
   citation-key: Bouza1985
   container-title: 'Police leadership in America: Crisis and opportunity'
-  container-title-short: Police Leadersh. Am. Crisis Oppor.
   issued:
     - year: 1985
   title: 'Police Unions: Paper Tigers or Roaring Lions'
@@ -1793,7 +1717,6 @@ references:
       given: Joan
   citation-key: Braune2019
   container-title: Journal of Social Justice
-  container-title-short: J. Soc. Justice
   ISSN: '21647100'
   issued:
     - year: 2019
@@ -1811,7 +1734,6 @@ references:
       given: Paul
   citation-key: Breines1980
   container-title: New German Critique
-  container-title-short: New Ger. Crit.
   ISSN: 0094-033X
   issue: '20'
   issued:
@@ -1830,7 +1752,6 @@ references:
       given: Daniel
   citation-key: Brocic2021
   container-title: Annual Review of Sociology
-  container-title-short: Annu. Rev. Sociol.
   ISSN: 0360-0572
   issue: '1'
   issued:
@@ -1859,7 +1780,6 @@ references:
       given: Bettina E.
   citation-key: Brownstein2008
   container-title: University of Arkansas at Little Rock Law Review
-  container-title-short: Univ. Ark. Little Rock Law Rev.
   issue: '4'
   issued:
     - year: 2008
@@ -1875,7 +1795,6 @@ references:
       given: Lisa
   citation-key: Buchter2020
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   ISSN: 0897-6546
   issue: '4'
   issued:
@@ -1891,7 +1810,6 @@ references:
   authority: 9th Cir.
   citation-key: BudAntleInc1994
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 1994
   page: '1261'
@@ -1906,7 +1824,6 @@ references:
       given: Shane
   citation-key: Burley2019
   container-title: Journal of Social Justice
-  container-title-short: J. Soc. Justice
   ISSN: '21647100'
   issued:
     - year: 2019
@@ -1924,7 +1841,6 @@ references:
       given: Alexander Reid
   citation-key: Burley2019a
   container-title: Journal of Social Justice
-  container-title-short: J. Soc. Justice
   ISSN: '21647100'
   issued:
     - year: 2019
@@ -1937,7 +1853,6 @@ references:
   authority: U.S.
   citation-key: ByrdBlueRidge1958
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1958
   page: '525'
@@ -1950,7 +1865,6 @@ references:
   authority: N.L.R.B.
   citation-key: CaesarsEntertainmentRio2015
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2015
   page: No. 190
@@ -1965,7 +1879,6 @@ references:
       given: George
   citation-key: Cafentzis2013
   container-title: South Atlantic Quarterly
-  container-title-short: South Atl. Q.
   ISSN: 0038-2876
   issue: '4'
   issued:
@@ -1981,7 +1894,6 @@ references:
       given: Timothy Reese
   citation-key: Cain2017
   container-title: ASHE Higher Education Report
-  container-title-short: ASHE High. Educ. Rep.
   ISSN: 1554-6306
   issue: '3'
   issued:
@@ -2037,7 +1949,6 @@ references:
   authority: U.S.
   citation-key: CalderJones1984
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1984
   page: '783'
@@ -2049,7 +1960,6 @@ references:
   authority: 5th Circuit
   citation-key: CalMaineFarms1993
   container-title: F.2d
-  container-title-short: F.2d
   issued:
     - year: 1993
   page: '1336'
@@ -2072,7 +1982,6 @@ references:
   authority: N.L.R.B.
   citation-key: CamscoProduceCo1990
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1990
   page: '905'
@@ -2084,7 +1993,6 @@ references:
   authority: D.C. Cir.
   citation-key: CanAmPlumbingInc2003
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2003
   page: '145'
@@ -2098,7 +2006,6 @@ references:
       given: Matthew
   citation-key: Canfield2019
   container-title: Public Culture
-  container-title-short: Public Cult.
   ISSN: 0899-2363
   issue: '1'
   issued:
@@ -2117,7 +2024,6 @@ references:
       given: Deborah
   citation-key: Cantrell2007
   container-title: Hamline Law Review
-  container-title-short: Hamline Law Rev.
   issued:
     - year: 2007
   title: >-
@@ -2132,7 +2038,6 @@ references:
       given: Eduardo RC
   citation-key: Capulong2009
   container-title: Clinical L. Rev.
-  container-title-short: Clin. Rev
   issued:
     - year: 2009
   title: Client Activism in Progressive Lawyering Theory
@@ -2145,7 +2050,6 @@ references:
       given: Lauren
   citation-key: Carasik2008
   container-title: Clinical Law Review
-  container-title-short: Clin. Law Rev.
   issued:
     - year: 2008
   title: >-
@@ -2160,7 +2064,6 @@ references:
       given: Susan
   citation-key: Carle2001
   container-title: The University of Chicago Law School Roundtable
-  container-title-short: Univ. Chic. Law Sch. Roundtable
   ISSN: 1075-9166
   issue: '2'
   issued:
@@ -2176,7 +2079,6 @@ references:
       given: Susan D.
   citation-key: Carle2002
   container-title: Law and History Review
-  container-title-short: Law Hist. Rev.
   ISSN: 0738-2480
   issue: '1'
   issued:
@@ -2193,7 +2095,6 @@ references:
       given: Scott
   citation-key: Carle2018
   container-title: Georgetown Journal of Legal Ethics
-  container-title-short: Georget. J. Leg. Ethics
   issue: '3'
   issued:
     - year: 2018
@@ -2207,7 +2108,6 @@ references:
       given: Susan D.
   citation-key: Carle2018a
   container-title: Wisconsin Law Review
-  container-title-short: Wis. Law Rev.
   issued:
     - year: 2018
   title: Ethics and the History of Social Movement Lawyering
@@ -2222,7 +2122,6 @@ references:
       given: Mattias
   citation-key: Carlsson2002
   container-title: Social and Legal Studies
-  container-title-short: Soc. Leg. Stud.
   issue: '2'
   issued:
     - year: 2002
@@ -2236,7 +2135,6 @@ references:
       given: Jeff
   citation-key: Carolin2014
   container-title: Journal of  Law & Social Policy
-  container-title-short: J. Law Soc. Policy
   issued:
     - year: 2014
   page: i
@@ -2252,7 +2150,6 @@ references:
       given: Kathleen W.
   citation-key: Carr1979
   container-title: University of Cincinnati Law Review
-  container-title-short: Univ. Cincinnati Law Rev.
   issued:
     - year: 1979
   language: eng
@@ -2267,7 +2164,6 @@ references:
       given: Kenneth M.
   citation-key: Casebeer2017
   container-title: Employee Rights and Employment Policy Journal
-  container-title-short: Empl. Rights Employ. Policy J.
   issue: '2'
   issued:
     - year: 2017
@@ -2285,7 +2181,6 @@ references:
       given: William R
   citation-key: Casto1987
   container-title: Tulane Law Review
-  container-title-short: Tulane Law Rev.
   issued:
     - year: 1987
   language: en
@@ -2297,7 +2192,6 @@ references:
   authority: U.S.
   citation-key: CelotexCorpCatrett1986
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1986
   page: '317'
@@ -2327,7 +2221,6 @@ references:
       given: Jesse M.
   citation-key: Cherednychenko2019
   container-title: Journal of Consumer Policy
-  container-title-short: J. Consum. Policy
   ISSN: 1573-0700
   issue: '4'
   issued:
@@ -2349,7 +2242,6 @@ references:
       given: Jiří
   citation-key: Cisar2016
   container-title: Social Movement Studies
-  container-title-short: Soc. Mov. Stud.
   ISSN: '14742837'
   issue: '1'
   issued:
@@ -2364,7 +2256,6 @@ references:
   authority: U.S.
   citation-key: CityDisposal1983
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1984
   page: '822'
@@ -2379,7 +2270,6 @@ references:
       given: Gabrielle E.
   citation-key: Clark2018
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   ISSN: '8976546'
   issue: '3'
   issued:
@@ -2419,7 +2309,6 @@ references:
       given: Dorothy Sue
   citation-key: Cobble2011
   container-title: ABA Journal of Labor & Employment Law
-  container-title-short: ABA J. Labor Employ. Law
   ISSN: 2156-4809
   issue: '2'
   issued:
@@ -2501,7 +2390,6 @@ references:
       given: William L.
   citation-key: Corbett2005
   container-title: Montana Law Review
-  container-title-short: Mont. Law Rev.
   issue: '2'
   issued:
     - year: 2005
@@ -2519,7 +2407,6 @@ references:
       given: Daniel B.
   citation-key: Cornfield1991
   container-title: Annual Review of Sociology
-  container-title-short: Annu. Rev. Sociol.
   ISSN: 0360-0572
   issued:
     - year: 1991
@@ -2542,7 +2429,6 @@ references:
       given: JoAnne Delfino
   citation-key: Correll2020
   container-title: American Sociological Review
-  container-title-short: Am. Sociol. Rev.
   ISSN: 0003-1224
   issue: '6'
   issued:
@@ -2560,7 +2446,6 @@ references:
       given: Roger
   citation-key: Cotterrell2012
   container-title: Comparative Law and Society
-  container-title-short: Comp. Law Soc.
   issued:
     - year: 2012
       month: 8
@@ -2568,8 +2453,8 @@ references:
   title: Comparative Sociology of Law
   type: article-journal
 
-- id: CourseOutlineSociology_nd
-  citation-key: CourseOutlineSociology_nd
+- id: CourseOutlineSociologya
+  citation-key: CourseOutlineSociologya
   title: >-
     Course outline: "The Sociology of Finance, Debt and Austerity" | ROAR
     Magazine
@@ -2583,7 +2468,6 @@ references:
       given: Marion
   citation-key: Crain2002
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '2'
   issued:
@@ -2604,7 +2488,6 @@ references:
       given: Zuzana
   citation-key: Crhova2015
   container-title: 'Verslas: teorija ir praktika'
-  container-title-short: Verslas Teor. Ir Prakt.
   ISSN: 1648-0627
   issue: '2'
   issued:
@@ -2622,7 +2505,6 @@ references:
       given: Scott L.
   citation-key: Cummings2009
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '1'
   issued:
@@ -2638,7 +2520,6 @@ references:
       given: Scott L.
   citation-key: Cummings2016
   container-title: Fordham Law Review
-  container-title-short: Fordham Law Rev.
   issue: '5'
   issued:
     - year: 2016
@@ -2656,7 +2537,6 @@ references:
   authority: U.S.
   citation-key: DaimlerAgBauman2014
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 2014
   page: '117'
@@ -2664,13 +2544,13 @@ references:
   type: legal_case
   volume: '571'
 
-- id: Dall2002
+- id: dallSaltingEarthOrganizing2002
   author:
     - family: Dall
       given: Carey
     - family: Cohen
       given: Jonathan
-  citation-key: Dall2002
+  citation-key: dallSaltingEarthOrganizing2002
   container-title: New Labor Forum
   issue: '10'
   issued:
@@ -2685,7 +2565,6 @@ references:
   authority: N.C.
   citation-key: Dalton_Camp2001
   container-title: N.C.
-  container-title-short: N.C.
   issued:
     - year: 2001
   page: '647'
@@ -2699,7 +2578,6 @@ references:
       given: Ellen
   citation-key: Dannin2005
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '2'
   issued:
@@ -2714,7 +2592,6 @@ references:
       given: Ellen
   citation-key: Dannin2009
   container-title: Employee Responsibilities and Rights Journal; New York
-  container-title-short: Empl. Responsib. Rights J. N. Y.
   ISSN: '8927545'
   issue: '2'
   issued:
@@ -2725,8 +2602,8 @@ references:
   type: article-journal
   volume: '21'
 
-- id: DaringFireballMarkdown_nd
-  citation-key: DaringFireballMarkdown_nd
+- id: DaringFireballMarkdowna
+  citation-key: DaringFireballMarkdowna
   title: 'Daring Fireball: Markdown'
   type: webpage
   URL: http://daringfireball.net/projects/markdown/
@@ -2737,7 +2614,6 @@ references:
       given: Kenneth G.
   citation-key: Dau-Schmidt1995
   container-title: Texas Law Review
-  container-title-short: Tex. Law Rev.
   issue: '7'
   issued:
     - year: 1995
@@ -2755,7 +2631,6 @@ references:
       given: Ryan
   citation-key: Davey2019
   container-title: Economy and Society
-  container-title-short: Econ. Soc.
   ISSN: 0308-5147, 1469-5766
   issue: '4'
   issued:
@@ -2791,11 +2666,11 @@ references:
   title-short: ‘Deferred lives'
   type: chapter
 
-- id: DeborahHurwitz_nd
+- id: deborahhurwitzLibraryGuidesLaTeXa
   author:
     - family: Deborah Hurwitz
       given: ''
-  citation-key: DeborahHurwitz_nd
+  citation-key: deborahhurwitzLibraryGuidesLaTeXa
   language: en
   note: >-
     Designed for University of Melbourne staff and students on the various
@@ -2811,7 +2686,6 @@ references:
   authority: N.Y. Sup. Ct.
   citation-key: DeltaSonicCarwashSystems1995
   container-title: Misc.
-  container-title-short: Misc.
   issued:
     - year: 1995
   page: '672'
@@ -2836,7 +2710,6 @@ references:
       given: Joe
   citation-key: Deville2016
   container-title: Consumption Markets & Culture
-  container-title-short: Consum. Mark. Cult.
   ISSN: 1025-3866
   issue: '1'
   issued:
@@ -2937,7 +2810,6 @@ references:
       given: Ian
   citation-key: Dobbie2008
   container-title: Labor Studies Journal
-  container-title-short: Labor Stud. J.
   ISSN: 0160-449X
   issue: '2'
   issued:
@@ -2961,7 +2833,6 @@ references:
       given: Ana
   citation-key: Dolenec2021
   container-title: East European Politics
-  container-title-short: East Eur. Polit.
   ISSN: 2159-9165
   issue: '0'
   issued:
@@ -2978,7 +2849,6 @@ references:
   authority: D. Minn.
   citation-key: DolphinKickboxingCo2020
   container-title: F.R.D.
-  container-title-short: F.R.D.
   issued:
     - year: 2020
   page: '393'
@@ -2993,7 +2863,6 @@ references:
       given: Jane
   citation-key: Donoghue2009
   container-title: International Journal of Law, Crime and Justice
-  container-title-short: Int. J. Law Crime Justice
   ISSN: 1756-0616
   issue: '1'
   issued:
@@ -3014,7 +2883,6 @@ references:
       given: Sidney
   citation-key: Dorf2014
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   ISSN: 0897-6546
   issue: '2'
   issued:
@@ -3026,11 +2894,11 @@ references:
   type: article-journal
   volume: '39'
 
-- id: Dougherty2017
+- id: doughertyHowNoncompeteClauses2017a
   author:
     - family: Dougherty
       given: Conor
-  citation-key: Dougherty2017
+  citation-key: doughertyHowNoncompeteClauses2017a
   container-title: The New York Times
   ISSN: 0362-4331
   issued:
@@ -3050,7 +2918,6 @@ references:
       given: Mary
   citation-key: Douglas2003
   container-title: 'RES: Anthropology and Aesthetics'
-  container-title-short: RES Anthropol. Aesthet.
   ISSN: 0277-1322
   issue: '44'
   issued:
@@ -3064,7 +2931,6 @@ references:
       given: Melvyn
   citation-key: Dubofsky1991
   container-title: 'Pennsylvania History: A Journal of Mid-Atlantic Studies'
-  container-title-short: Pa. Hist. J. -Atl. Stud.
   ISSN: 0031-4528
   issue: '4'
   issued:
@@ -3101,7 +2967,6 @@ references:
       given: Wolfgang
   citation-key: Dukes2020
   container-title: Journal of Law and Society
-  container-title-short: J. Law Soc.
   ISSN: 0263-323X
   issue: '4'
   issued:
@@ -3119,7 +2984,6 @@ references:
       given: John C. Jr.
   citation-key: Duncan1998
   container-title: Indiana Law Journal
-  container-title-short: Indiana Law J.
   issued:
     - year: 1998
   language: eng
@@ -3136,7 +3000,6 @@ references:
       given: E. Paul
   citation-key: Durrenberger2007
   container-title: Annual Review of Anthropology
-  container-title-short: Annu. Rev. Anthropol.
   ISSN: 0084-6570
   issued:
     - year: 2007
@@ -3150,7 +3013,6 @@ references:
       given: Rachel E.
   citation-key: Dwyer2018
   container-title: Annual Review of Sociology
-  container-title-short: Annu. Rev. Sociol.
   ISSN: '3600572'
   issue: '1'
   issued:
@@ -3166,7 +3028,6 @@ references:
       given: Gary
   citation-key: Dymski2009
   container-title: Historical Materialism
-  container-title-short: Hist. Mater.
   ISSN: 1465-4466, 1569-206X
   issue: '2'
   issued:
@@ -3179,7 +3040,6 @@ references:
   authority: N.L.R.B.
   citation-key: EastBeldenCorp1978
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1978
   page: '776'
@@ -3206,7 +3066,6 @@ references:
       given: Wayne
   citation-key: Eastman1995
   container-title: Journal of Individual Employment Rights
-  container-title-short: J. Individ. Employ. Rights
   ISSN: 10557512, 15413799
   issue: '1'
   issued:
@@ -3264,7 +3123,6 @@ references:
   authority: U.S.
   citation-key: ElectricalWorkers-JeffersonBroadcasting1953
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1953
   page: '464'
@@ -3316,7 +3174,6 @@ references:
       given: Stephen
   citation-key: Ellmann1992
   container-title: Virginia Law Review
-  container-title-short: Va. Law Rev.
   ISSN: 0042-6601
   issue: '5'
   issued:
@@ -3354,7 +3211,6 @@ references:
       given: Richard
   citation-key: Epstein1983
   container-title: Yale Law Journal
-  container-title-short: Yale Law J.
   issued:
     - year: 1983
   title: >-
@@ -3369,7 +3225,6 @@ references:
       given: Richard A.
   citation-key: Epstein1984
   container-title: The University of Chicago Law Review
-  container-title-short: Univ. Chic. Law Rev.
   ISSN: 0041-9494
   issue: '4'
   issued:
@@ -3382,7 +3237,6 @@ references:
   authority: U.S.
   citation-key: ErieCoTompkins1938
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1938
   page: '64'
@@ -3397,7 +3251,6 @@ references:
       given: Cynthia L.
   citation-key: Estlund1995
   container-title: Texas Law Review
-  container-title-short: Tex. Law Rev.
   issue: '7'
   issued:
     - year: 1995
@@ -3415,7 +3268,6 @@ references:
       given: Cynthia L.
   citation-key: Estlund2002
   container-title: New York University Law Review
-  container-title-short: N. Y. Univ. Law Rev.
   issue: '1'
   issued:
     - year: 2002
@@ -3434,7 +3286,6 @@ references:
       given: Cynthia
   citation-key: Estlund2005
   container-title: Columbia Law Review
-  container-title-short: Columbia Law Rev.
   ISSN: 0010-1958
   issue: '2'
   issued:
@@ -3449,7 +3300,6 @@ references:
       given: Cynthia
   citation-key: Estlund2020
   container-title: Research Handbook on Private Law Theory
-  container-title-short: Res. Handb. Priv. Law Theory
   issued:
     - year: 2020
       month: 12
@@ -3465,7 +3315,6 @@ references:
       given: Jeffrey M.
   citation-key: Estreicher2013
   container-title: SSRN Electronic Journal
-  container-title-short: SSRN Electron. J.
   ISSN: 1556-5068
   issued:
     - year: 2013
@@ -3478,7 +3327,6 @@ references:
   authority: 9th Cir.
   citation-key: EthridgeHarborHouse1988
   container-title: F.2d
-  container-title-short: F.2d
   issued:
     - year: 1988
   page: '1389'
@@ -3492,7 +3340,6 @@ references:
       given: Margareth
   citation-key: Etienne2005
   container-title: The Journal of Criminal Law and Criminology (1973-)
-  container-title-short: J. Crim. Law Criminol. 1973-
   ISSN: 0091-4169
   issue: '4'
   issued:
@@ -3508,7 +3355,6 @@ references:
   authority: 2d Cir.
   citation-key: Ewing1988
   container-title: F.2d
-  container-title-short: F.2d
   issued:
     - year: 1988
   page: '353'
@@ -3527,7 +3373,6 @@ references:
       given: Beck A.
   citation-key: Ewing2005
   container-title: ILR Review
-  container-title-short: ILR Rev.
   ISSN: 0019-7939
   issue: '1'
   issued:
@@ -3560,7 +3405,6 @@ references:
   authority: U.S.
   citation-key: ExxonMobilCorp2005
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 2005
   page: '546'
@@ -3600,7 +3444,6 @@ references:
       given: Jorge M.
   citation-key: FarinacciFernos2018
   container-title: Montana Law Review
-  container-title-short: Mont. Law Rev.
   issue: '2'
   issued:
     - year: 2018
@@ -3618,7 +3461,6 @@ references:
       given: Jayshree
   citation-key: Fassbender2013
   container-title: The Australian Library Journal
-  container-title-short: Aust. Libr. J.
   ISSN: 0004-9670
   issue: '1'
   issued:
@@ -3643,7 +3485,6 @@ references:
       given: Madiha
   citation-key: Fassin2019
   container-title: Public Culture
-  container-title-short: Public Cult.
   ISSN: 0899-2363
   issue: '3'
   issued:
@@ -3662,7 +3503,6 @@ references:
       given: Christopher
   citation-key: Favaro2012
   container-title: Library Publications
-  container-title-short: Libr. Publ.
   issued:
     - year: 2012
       month: 10
@@ -3710,7 +3550,6 @@ references:
   authority: N.L.R.B.
   citation-key: FederalSecurityInc2012
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2012
   page: '1'
@@ -3724,7 +3563,6 @@ references:
       given: S.
   citation-key: Federici2014
   container-title: South Atlantic Quarterly
-  container-title-short: South Atl. Q.
   ISSN: 0038-2876, 1527-8026
   issue: '2'
   issued:
@@ -3744,7 +3582,6 @@ references:
       given: Jay M.
   citation-key: Feinman1991
   container-title: Arizona State Law Journal
-  container-title-short: Ariz. State Law J.
   issued:
     - year: 1991
   language: eng
@@ -3762,7 +3599,6 @@ references:
       given: Austin
   citation-key: Felstiner1980
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   issue: 3/4
   issued:
     - year: 1980
@@ -3779,7 +3615,6 @@ references:
       given: Alek
   citation-key: Felstiner2011
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '1'
   issued:
@@ -3795,7 +3630,6 @@ references:
       given: Anneka
   citation-key: Ferguson2017
   container-title: Journal of Learning Design
-  container-title-short: J. Learn. Des.
   ISSN: 1832-8342
   issue: '2'
   issued:
@@ -3815,7 +3649,6 @@ references:
       given: Sarah A.
   citation-key: Ferguson2017a
   container-title: Administrative Science Quarterly
-  container-title-short: Adm. Sci. Q.
   issued:
     - year: 2017
       month: 6
@@ -3836,7 +3669,6 @@ references:
       given: Hervey A
   citation-key: Feuille1976
   container-title: Work and Occupations
-  container-title-short: Work Occup.
   issue: '1'
   issued:
     - year: 1976
@@ -3850,7 +3682,6 @@ references:
       given: Barbara Jeanne
   citation-key: Fields1990
   container-title: New Left Review
-  container-title-short: New Left Rev.
   issue: '181'
   issued:
     - year: 1990
@@ -3865,7 +3696,6 @@ references:
       given: Barbara J.
   citation-key: Fields2001
   container-title: International Labor and Working-Class History
-  container-title-short: Int. Labor Work.-Cl. Hist.
   ISSN: 0147-5479
   issue: '60'
   issued:
@@ -3879,7 +3709,6 @@ references:
       given: Barbara J.
   citation-key: Fields2003
   container-title: The American Historical Review
-  container-title-short: Am. Hist. Rev.
   ISSN: 0002-8762
   issue: '5'
   issued:
@@ -4047,55 +3876,62 @@ references:
   type: chapter
   volume: '4'
 
-- id: Fink2001
+- id: finkFederalStudentLoan2014
+  accessed:
+    - year: 2022
+      month: 1
+      day: 14
   author:
     - family: Fink
       given: Eric M.
-    - family: Davidson
-      given: Stuart W.
-  citation-key: Fink2001
-  container-title: 'The CyberUnion Handbook: Transforming Labor Through Computer Technology'
-  editor:
-    - family: Shostak
-      given: Arthur
-  event-place: New York
-  ISBN: 978-0-7656-0803-1
+    - family: Zullo
+      given: Roland
+  citation-key: finkFederalStudentLoan2014
   issued:
-    - year: 2001
-  page: 98-103
-  publisher: Routledge
-  publisher-place: New York
-  title: Union and Employee Access to Employer E-mail Systems Under Federal Labor Law
-  type: chapter
+    - year: 2014
+  language: en
+  publisher: Jobs With Justice Education Fund
+  title: 'Federal Student Loan Servicing: Contract Problems and Public Solutions'
+  title-short: Federal Student Loan Servicing
+  type: document
 
-- id: Fink2004
+- id: FinkinDisloyalty2007
   author:
-    - family: Fink
-      given: Eric
-  citation-key: Fink2004
-  container-title: Hastings Law Journal
-  container-title-short: Hastings Law J.
-  issue: '4'
+    - family: Finkin
+      given: Matthew W.
+  citation-key: FinkinDisloyalty2007
+  container-title: Berkeley Journal of Employment and Labor Law
+  container-title-short: Berkeley J. Emp. & Lab. L.
+  issue: '2'
   issued:
-    - year: 2004
-  license: >-
-    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-    License (CC-BY-NC-SA)
-  page: '931'
-  title: >-
-    Post-Realism, or the Jurisprudential Logic of Late Capitalism: A Socio-Legal
-    Analysis of the Rise and Diffusion of Law and Economics
-  title-short: Post-Realism, or the Jurisprudential Logic of Late Capitalism
+    - year: 2007
+  page: '541'
+  title: Disloyalty! Does Jefferson Standard Stalk Still?
   type: article-journal
-  volume: '55'
+  volume: '28'
 
-- id: Fink2008
+- id: finkLawSchoolWeb2010
+  author:
+    - family: Fink
+      given: Eric M
+  citation-key: finkLawSchoolWeb2010
+  container-title: John Marshall Journal of Computer & Information Law
+  issued:
+    - year: 2010
+  language: en
+  page: '325'
+  title: >-
+    Law School & The Web of Group Affiliation: Socializing, Socialization, and
+    Social Network Site Use Among Law Students
+  type: article-journal
+  volume: '27'
+
+- id: finkLiarsTerroristsJudges2008
   author:
     - family: Fink
       given: Eric
-  citation-key: Fink2008
+  citation-key: finkLiarsTerroristsJudges2008
   container-title: Notre Dame Law Review
-  container-title-short: Notre Dame Law Rev.
   ISSN: 0745-3515
   issue: '5'
   issued:
@@ -4113,52 +3949,12 @@ references:
   type: article-journal
   volume: '83'
 
-- id: Fink2010
-  author:
-    - family: Fink
-      given: Eric M
-  citation-key: Fink2010
-  container-title: John Marshall Journal of Computer & Information Law
-  container-title-short: John Marshall J. Comput. Inf. Law
-  issued:
-    - year: 2010
-  language: en
-  page: '325'
-  title: >-
-    Law School & The Web of Group Affiliation: Socializing, Socialization, and
-    Social Network Site Use Among Law Students
-  type: article-journal
-  volume: '27'
-
-- id: Fink2011
-  accessed:
-    - year: 2022
-      month: 1
-      day: 14
+- id: finkNoMoneyMo2013
   author:
     - family: Fink
       given: Eric
-  citation-key: Fink2011
-  container-title: Journal of Law, Information, and Science
-  container-title-short: J. Law Inf. Sci.
-  issue: '1'
-  issued:
-    - year: 2011
-  license: All rights reserved
-  page: 89-111
-  title: >-
-    The Virtual Construction of Legality: 'Griefing' and Normative Order in
-    Second Life
-  type: article-journal
-  volume: '21'
-
-- id: Fink2013
-  author:
-    - family: Fink
-      given: Eric
-  citation-key: Fink2013
+  citation-key: finkNoMoneyMo2013
   container-title: University of San Francisco Law Review
-  container-title-short: Univ. San Franc. Law Rev.
   issue: '3'
   issued:
     - year: 2013
@@ -4173,32 +3969,53 @@ references:
   type: article-journal
   volume: '47'
 
-- id: Fink2014
-  accessed:
-    - year: 2022
-      month: 1
-      day: 14
+- id: finkPostRealismJurisprudentialLogic2004
+  author:
+    - family: Fink
+      given: Eric
+  citation-key: finkPostRealismJurisprudentialLogic2004
+  container-title: Hastings Law Journal
+  issue: '4'
+  issued:
+    - year: 2004
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
+  page: '931'
+  title: >-
+    Post-Realism, or the Jurisprudential Logic of Late Capitalism: A Socio-Legal
+    Analysis of the Rise and Diffusion of Law and Economics
+  title-short: Post-Realism, or the Jurisprudential Logic of Late Capitalism
+  type: article-journal
+  volume: '55'
+
+- id: finkUnionEmployeeAccess2001
   author:
     - family: Fink
       given: Eric M.
-    - family: Zullo
-      given: Roland
-  citation-key: Fink2014
+    - family: Davidson
+      given: Stuart W.
+  citation-key: finkUnionEmployeeAccess2001
+  container-title: 'The CyberUnion Handbook: Transforming Labor Through Computer Technology'
+  editor:
+    - family: Shostak
+      given: Arthur
+  event-place: New York
+  ISBN: 978-0-7656-0803-1
   issued:
-    - year: 2014
-  language: en
-  publisher: Jobs With Justice Education Fund
-  title: 'Federal Student Loan Servicing: Contract Problems and Public Solutions'
-  title-short: Federal Student Loan Servicing
-  type: document
+    - year: 2001
+  page: 98-103
+  publisher: Routledge
+  publisher-place: New York
+  title: Union and Employee Access to Employer E-mail Systems Under Federal Labor Law
+  type: chapter
 
-- id: Fink2019
+- id: finkUnionOrganizingCollective2019
   author:
     - family: Fink
       given: Eric M
-  citation-key: Fink2019
+  citation-key: finkUnionOrganizingCollective2019
   container-title: Idaho Law Review
-  container-title-short: Ida. Law Rev.
   issued:
     - year: 2019
   language: en
@@ -4207,20 +4024,26 @@ references:
   type: article-journal
   volume: '52'
 
-- id: FinkinDisloyalty2007
+- id: finkVirtualConstructionLegality2011
+  accessed:
+    - year: 2022
+      month: 1
+      day: 14
   author:
-    - family: Finkin
-      given: Matthew W.
-  citation-key: FinkinDisloyalty2007
-  container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Emp. & Lab. L.
-  issue: '2'
+    - family: Fink
+      given: Eric
+  citation-key: finkVirtualConstructionLegality2011
+  container-title: Journal of Law, Information, and Science
+  issue: '1'
   issued:
-    - year: 2007
-  page: '541'
-  title: Disloyalty! Does Jefferson Standard Stalk Still?
+    - year: 2011
+  license: All rights reserved
+  page: 89-111
+  title: >-
+    The Virtual Construction of Legality: 'Griefing' and Normative Order in
+    Second Life
   type: article-journal
-  volume: '28'
+  volume: '21'
 
 - id: FirebirdStructuresLLC2017
   authority: D.N.M.
@@ -4244,7 +4067,6 @@ references:
       given: Aron
   citation-key: Fischer2004
   container-title: The Yale Law Journal
-  container-title-short: Yale Law J.
   ISSN: 0044-0094
   issue: '8'
   issued:
@@ -4259,7 +4081,6 @@ references:
       given: Catherine
   citation-key: Fisk2002
   container-title: Berkeley Journal of Employment & Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   issued:
     - year: 2002
       month: 1
@@ -4275,7 +4096,6 @@ references:
       given: Adam
   citation-key: Fisk2012
   container-title: Employee Rights and Employment Policy Journal
-  container-title-short: Empl. Rights Employ. Policy J.
   issued:
     - year: 2012
   language: eng
@@ -4294,7 +4114,6 @@ references:
       given: Diana S.
   citation-key: Fisk2020
   container-title: Emory Law Journal
-  container-title-short: Emory Law J.
   issue: '1'
   issued:
     - year: 2020
@@ -4323,7 +4142,6 @@ references:
   authority: N.L.R.B.
   citation-key: FlagstaffMedicalCenter2011
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2011
   page: '659'
@@ -4336,7 +4154,6 @@ references:
   authority: D.C. Cir.
   citation-key: FlagstaffMedicalCenter2013
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2013
   page: '928'
@@ -4354,7 +4171,6 @@ references:
     - literal: others
   citation-key: Fleming2001
   container-title: International Journal of Employment Studies
-  container-title-short: Int. J. Employ. Stud.
   issue: '2'
   issued:
     - year: 2001
@@ -4374,7 +4190,6 @@ references:
       given: Jennifer
   citation-key: Fleming2006
   container-title: Australian & New Zealand Journal of Criminology
-  container-title-short: Aust. N. Z. J. Criminol.
   issue: '1'
   issued:
     - year: 2006
@@ -4408,7 +4223,6 @@ references:
   authority: N.L.R.B.
   citation-key: FluorDanielInc1993
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1993
   page: '498'
@@ -4431,7 +4245,6 @@ references:
   authority: 4th Circuit
   citation-key: FoodLion1999-4thCir
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 1999
   page: '505'
@@ -4442,7 +4255,6 @@ references:
 - id: FordMotorCo2021a
   citation-key: FordMotorCo2021a
   container-title: S. Ct.
-  container-title-short: Ct
   issued:
     - year: 2021
   page: '1017'
@@ -4450,11 +4262,11 @@ references:
   type: legal_case
   volume: '141'
 
-- id: Forman2017
+- id: formanLetGetWork2017
   author:
     - family: Forman
       given: Erik
-  citation-key: Forman2017
+  citation-key: formanLetGetWork2017
   container-title: Jacobin
   issued:
     - year: 2017
@@ -4472,7 +4284,6 @@ references:
       given: Steven
   citation-key: Foster2021
   container-title: Ohio State Law Journal Online
-  container-title-short: Ohio State Law J. Online
   issued:
     - year: 2021
   language: en
@@ -4488,7 +4299,6 @@ references:
       given: Judith F.
   citation-key: Fox1980
   container-title: Bulletin of the History of Medicine
-  container-title-short: Bull. Hist. Med.
   ISSN: 0007-5140
   issue: '1'
   issued:
@@ -4506,7 +4316,6 @@ references:
       given: Lina
   citation-key: Frade2015
   container-title: Indiana Journal of Global Legal Studies
-  container-title-short: Indiana J. Glob. Leg. Stud.
   ISSN: 1080-0727
   issue: '2'
   issued:
@@ -4524,7 +4333,6 @@ references:
       given: Megan Ming
   citation-key: Francis2019
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 1540-5893
   issue: '1'
   issued:
@@ -4543,7 +4351,6 @@ references:
       given: Daniel D.
   citation-key: Freed1990
   container-title: Arizona State Law Journal
-  container-title-short: Ariz. State Law J.
   issued:
     - year: 1990
   language: eng
@@ -4572,7 +4379,6 @@ references:
   authority: 3rd Cir.
   citation-key: FreidrichDavis2014
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2014
   page: '374'
@@ -4597,7 +4403,6 @@ references:
       given: Gerald
   citation-key: Friedman1988
   container-title: Theory and Society
-  container-title-short: Theory Soc.
   ISSN: 0304-2421
   issue: '3'
   issued:
@@ -4615,7 +4420,6 @@ references:
       given: Gerald
   citation-key: Friedman1991
   container-title: International Labor and Working-Class History
-  container-title-short: Int. Labor Work.-Cl. Hist.
   ISSN: 0147-5479, 1471-6445
   issued:
     - year: 1991
@@ -4655,7 +4459,6 @@ references:
       given: Brian L.
   citation-key: Frye2018
   container-title: Akron Law Review
-  container-title-short: Akron Law Rev.
   issue: '2'
   issued:
     - year: 2018
@@ -4670,7 +4473,6 @@ references:
       given: Paul
   citation-key: Frymer2003
   container-title: The American Political Science Review
-  container-title-short: Am. Polit. Sci. Rev.
   ISSN: 0003-0554
   issue: '3'
   issued:
@@ -4762,7 +4564,6 @@ references:
       given: Mauricio
   citation-key: Garcia-Villegas2006
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   ISSN: 0897-6546, 1747-4469
   issue: '2'
   issued:
@@ -4797,7 +4598,6 @@ references:
   authority: U.S.
   citation-key: Garmon1959
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1959
   page: '236'
@@ -4853,7 +4653,6 @@ references:
       given: Jonathan
   citation-key: Gerber2016
   container-title: Ideology and Public Support for Police Use of Force (January 2, 2016)
-  container-title-short: Ideol. Public Support Police Use Force January 2 2016
   issued:
     - year: 2016
   title: >-
@@ -4869,7 +4668,6 @@ references:
       given: Lester
   citation-key: Gibson2010
   container-title: American Journal of Business Education (AJBE)
-  container-title-short: Am. J. Bus. Educ. AJBE
   ISSN: 1942-2512, 1942-2504
   issue: '2'
   issued:
@@ -4918,7 +4716,6 @@ references:
       given: Todd H.
   citation-key: Girshon1992
   container-title: Emory International Law Review
-  container-title-short: Emory Int. Law Rev.
   issue: '2'
   issued:
     - year: 1992
@@ -4930,8 +4727,8 @@ references:
   type: article-journal
   volume: '6'
 
-- id: GitHub_nd
-  citation-key: GitHub_nd
+- id: GitHuba
+  citation-key: GitHuba
   title: GitHub
   type: webpage
   URL: https://github.com/
@@ -4959,7 +4756,6 @@ references:
       given: John
   citation-key: Godard2009
   container-title: ILR Review
-  container-title-short: ILR Rev.
   ISSN: 0019-7939
   issue: '1'
   issued:
@@ -4974,7 +4770,6 @@ references:
       given: Michael J.
   citation-key: Goldberg1989
   container-title: Duke Law Journal
-  container-title-short: Duke Law J.
   ISSN: 0012-7086
   issue: '4'
   issued:
@@ -4996,7 +4791,6 @@ references:
       given: Madiha
   citation-key: Goldberg2019
   container-title: Public Culture
-  container-title-short: Public Cult.
   ISSN: 0899-2363
   issue: '3'
   issued:
@@ -5021,7 +4815,6 @@ references:
       given: Randall
   citation-key: Goldey2010
   container-title: Sociological Inquiry
-  container-title-short: Sociol. Inq.
   ISSN: 1475-682X
   issue: '3'
   issued:
@@ -5040,7 +4833,6 @@ references:
       given: George
   citation-key: Gonos1997
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 0023-9216
   issue: '1'
   issued:
@@ -5058,7 +4850,6 @@ references:
       given: Felipe
   citation-key: Gonzalez-Lopez2021
   container-title: Sociologia & Antropologia
-  container-title-short: Sociol. Antropol.
   ISSN: 2236-7527, 2238-3875
   issued:
     - year: 2021
@@ -5092,7 +4883,6 @@ references:
       given: Mark
   citation-key: Gough2020
   container-title: Industrial & labor relations review
-  container-title-short: Ind. Labor Relat. Rev.
   ISSN: 0019-7939
   issue: '4'
   issued:
@@ -5108,7 +4898,6 @@ references:
   authority: U.S.
   citation-key: GrableSonsMetal2005
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 2005
   page: '308'
@@ -5174,7 +4963,6 @@ references:
       given: Kati L.
   citation-key: Griffith2015
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '2'
   issued:
@@ -5190,7 +4978,6 @@ references:
       given: James A.
   citation-key: Gross2012
   container-title: Industrial and Labor Relations Review
-  container-title-short: Ind. Labor Relat. Rev.
   ISSN: 0019-7939
   issue: '1'
   issued:
@@ -5234,7 +5021,7 @@ references:
   type: legal_case
   volume: '475'
 
-- id: Gupta2011
+- id: guptaDesignImplementationWorkflow2011a
   author:
     - family: Gupta
       given: Abhishek
@@ -5248,10 +5035,9 @@ references:
       given: Subhashis
     - family: Saran
       given: Huzur
-  citation-key: Gupta2011
+  citation-key: guptaDesignImplementationWorkflow2011a
   collection-title: Lecture Notes in Computer Science
   container-title: Databases in Networked Information Systems
-  container-title-short: Databases Networked Inf. Syst.
   DOI: 10.1007/978-3-642-25731-5_2
   ISBN: 978-3-642-25730-8
   issued:
@@ -5275,7 +5061,6 @@ references:
       given: Ted Robert
   citation-key: Gurr1968
   container-title: American Political Science Review
-  container-title-short: Am. Polit. Sci. Rev.
   issued:
     - year: 1968
   title: 'A Causal Model of Civil Strife: A Comparative Analysis Using New Indices'
@@ -5349,7 +5134,6 @@ references:
       given: Helga Kristín
   citation-key: Hallgrimsdottir2006
   container-title: The Sociological Quarterly
-  container-title-short: Sociol. Q.
   ISSN: 0038-0253
   issue: '4'
   issued:
@@ -5368,7 +5152,6 @@ references:
       given: Victoria J.
   citation-key: Haneman2021
   container-title: Law and Contemporary Problems
-  container-title-short: Law Contemp. Probl.
   ISSN: 1556-5068
   issued:
     - year: 2021
@@ -5393,7 +5176,6 @@ references:
   authority: U.S.
   citation-key: HannaPlumer1965
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1965
   page: '460'
@@ -5408,7 +5190,6 @@ references:
       given: Ian
   citation-key: Hayes2012
   container-title: ABA Journal of Labor & Employment Law
-  container-title-short: ABA J. Labor Employ. Law
   ISSN: 2156-4809
   issue: '1'
   issued:
@@ -5427,7 +5208,6 @@ references:
       given: David W.
   citation-key: Head1979
   container-title: Journal of Law & Education
-  container-title-short: J. Law Educ.
   issued:
     - year: 1979
   language: eng
@@ -5435,11 +5215,11 @@ references:
   type: article-journal
   volume: '8'
 
-- id: Healy2019
+- id: healyPlainPersonGuide2019a
   author:
     - family: Healy
       given: Kieran
-  citation-key: Healy2019
+  citation-key: healyPlainPersonGuide2019a
   issued:
     - year: 2019
   title: The Plain Person's Guide to Plain Text Social Science
@@ -5476,7 +5256,6 @@ references:
       given: Anthony
   citation-key: Heinz2003
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 0023-9216
   issue: '1'
   issued:
@@ -5516,7 +5295,6 @@ references:
   authority: N.Y.
   citation-key: HelmsleySpearIncFishman2008
   container-title: N.E.2d
-  container-title-short: N.E.2d
   issued:
     - year: 2008
   page: '934'
@@ -5529,7 +5307,6 @@ references:
   authority: Minn.
   citation-key: HennepinBroadcastingAssociates1974
   container-title: Minn.
-  container-title-short: Minn.
   issued:
     - year: 1974
   page: '508'
@@ -5545,7 +5322,6 @@ references:
       given: William
   citation-key: Herbert2017
   container-title: Radio Higher Ed
-  container-title-short: Radio High. Ed
   issued:
     - year: 2017
       month: 3
@@ -5560,7 +5336,6 @@ references:
       given: Luke
   citation-key: Herrine2019
   container-title: Buffalo Law Review
-  container-title-short: Buffalo Law Rev.
   issue: '3'
   issued:
     - year: 2019
@@ -5575,7 +5350,6 @@ references:
       given: Alexander
   citation-key: Hertel-Fernandez2016
   container-title: Perspectives on Politics
-  container-title-short: Perspect. Polit.
   ISSN: 1537-5927, 1541-0986
   issue: '2'
   issued:
@@ -5592,7 +5366,6 @@ references:
   authority: U.S.
   citation-key: HertzCorpFriend2010
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 2010
   page: '77'
@@ -5606,7 +5379,6 @@ references:
       given: Susan
   citation-key: Hill2014
   container-title: 'Field Notes: A Journal of Collegiate Anthropology'
-  container-title-short: Field Notes J. Coll. Anthropol.
   issue: '1'
   issued:
     - year: 2014
@@ -5635,7 +5407,6 @@ references:
       given: Jeffrey M
   citation-key: Hirsch2005
   container-title: Boston College Law Review
-  container-title-short: Boston Coll. Law Rev.
   issued:
     - year: 2005
   title: Taking State Property Rights Out of Federal Labor Law
@@ -5648,7 +5419,6 @@ references:
       given: Jeffrey M
   citation-key: Hirsch2010
   container-title: 'Transactions: The Tennessee Journal of Business Law'
-  container-title-short: Trans. Tenn. J. Bus. Law
   issued:
     - year: 2010
   title: 'Nonemployee Access to Employer Property: A State or Federal Solution'
@@ -5660,7 +5430,6 @@ references:
   authority: U.S.
   citation-key: HollyFarms1966
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1966
   page: '392'
@@ -5672,7 +5441,6 @@ references:
   authority: U.S.
   citation-key: HolmesGroupInc2002
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 2002
   page: '826'
@@ -5702,7 +5470,6 @@ references:
       given: Alan
   citation-key: Hyde2017
   container-title: Employee Rights and Employment Policy Journal
-  container-title-short: Empl. Rights Employ. Policy J.
   issued:
     - year: 2017
   language: eng
@@ -5719,7 +5486,6 @@ references:
       given: Louis
   citation-key: Hyman2012
   container-title: The Annals of the American Academy of Political and Social Science
-  container-title-short: Ann. Am. Acad. Pol. Soc. Sci.
   ISSN: 0002-7162
   issued:
     - year: 2012
@@ -5734,21 +5500,19 @@ references:
   chapter-number: '2014'
   citation-key: IdahoAgriculturalProduction2014
   container-title: Idaho Code
-  container-title-short: Ida. Code
   issued:
     - year: 2014
   section: 18-7042
-  title: Interference with Agricultural Production
+  title: Idaho agricultural production
   type: legislation
 
 - id: IdahoAgriculturalResearch2002
   citation-key: IdahoAgriculturalResearch2002
   container-title: Idaho Code
-  container-title-short: Ida. Code
   issued:
     - year: 2002
   section: 18-7040
-  title: Interference with agricultural research
+  title: Idaho agricultural research
   type: legislation
 
 - id: Ingalls1997
@@ -5757,7 +5521,6 @@ references:
       given: Robert P.
   citation-key: Ingalls1997
   container-title: The Georgia Historical Quarterly
-  container-title-short: Ga. Hist. Q.
   ISSN: 0016-8297
   issue: '2'
   issued:
@@ -5773,7 +5536,6 @@ references:
   authority: U.S.
   citation-key: InternationalLongshoremenAss1986
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1986
   page: '380'
@@ -5785,7 +5547,6 @@ references:
   authority: U.S.
   citation-key: InternationalShoeCo1945
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1945
   page: '310'
@@ -5799,7 +5560,7 @@ references:
   issued:
     - year: 2012
   section: 717A.3A
-  title: Agricultural Production Facility Fraud
+  title: Iwo ag fraud
   type: legislation
 
 - id: IowaAgTrespass2019
@@ -5808,7 +5569,7 @@ references:
   issued:
     - year: 2019
   section: 717A.3B
-  title: Agricultural Production Facility Trespass
+  title: Iowa ag trespass
   type: legislation
 
 - id: IowaAntiRecording-2021
@@ -5817,7 +5578,7 @@ references:
   issued:
     - year: 2021
   section: 727.8A
-  title: Cameras or electronic surveillance devices--trespass
+  title: Iowa anti-recording
   type: legislation
 
 - id: Isaac2002
@@ -5828,7 +5589,6 @@ references:
       given: Lars
   citation-key: Isaac2002
   container-title: American Sociological Review
-  container-title-short: Am. Sociol. Rev.
   ISSN: 0003-1224
   issue: '5'
   issued:
@@ -5847,7 +5607,6 @@ references:
       given: Greg
   citation-key: Isaac2006
   container-title: American Journal of Sociology
-  container-title-short: Am. J. Sociol.
   ISSN: 0002-9602
   issue: '1'
   issued:
@@ -5877,7 +5636,6 @@ references:
       given: Peter J.
   citation-key: Jacques2015
   container-title: Journal of Environmental Studies and Sciences
-  container-title-short: J. Environ. Stud. Sci.
   ISSN: 2190-6483, 2190-6491
   issue: '3'
   issued:
@@ -5894,7 +5652,6 @@ references:
   authority: 9th Cir.
   citation-key: JanjuaNeufeld2019
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2019
   page: '1061'
@@ -5908,7 +5665,6 @@ references:
       given: Marc
   citation-key: Jarsulic1999
   container-title: Employee Rights and Employment Policy Journal
-  container-title-short: Empl. Rights Employ. Policy J.
   issue: '1'
   issued:
     - year: 1999
@@ -5943,7 +5699,6 @@ references:
       given: Martin
   citation-key: Jay1980
   container-title: New German Critique
-  container-title-short: New Ger. Crit.
   ISSN: 0094-033X
   issue: '19'
   issued:
@@ -5954,8 +5709,8 @@ references:
   title-short: The Jews and the Frankfurt School
   type: article-journal
 
-- id: Jekyll_nd
-  citation-key: Jekyll_nd
+- id: Jekylla
+  citation-key: Jekylla
   title: Jekyll
   type: webpage
   URL: https://jekyllrb.com/
@@ -5966,7 +5721,6 @@ references:
       given: J. Craig
   citation-key: Jenkins1983
   container-title: Annual Review of Sociology
-  container-title-short: Annu. Rev. Sociol.
   ISSN: 0360-0572
   issued:
     - year: 1983
@@ -5974,11 +5728,11 @@ references:
   type: article-journal
   volume: '9'
 
-- id: JennieMurack_nd
+- id: jenniemurackLibGuidesCitationManagementa
   author:
     - family: Jennie Murack
       given: ''
-  citation-key: JennieMurack_nd
+  citation-key: jenniemurackLibGuidesCitationManagementa
   language: en
   note: >-
     A guide describing software to help with citation management, writing, and
@@ -6022,7 +5776,6 @@ references:
       given: Kaleekal T.
   citation-key: Jentoft2009
   container-title: Human Organization
-  container-title-short: Hum. Organ.
   ISSN: 0018-7259
   issue: '1'
   issued:
@@ -6040,7 +5793,6 @@ references:
       given: Lucille A.
   citation-key: Jewel2008
   container-title: Buffalo Law Review
-  container-title-short: Buffalo Law Rev.
   issue: '4'
   issued:
     - year: 2008
@@ -6060,7 +5812,6 @@ references:
       given: Lucille A.
   citation-key: Jewel2012
   container-title: University of Memphis Law Review
-  container-title-short: Univ. Memphis Law Rev.
   issue: '2'
   issued:
     - year: 2012
@@ -6078,7 +5829,6 @@ references:
       given: Erik W.
   citation-key: Johnson2008
   container-title: Social Forces
-  container-title-short: Soc. Forces
   ISSN: 0037-7732
   issue: '3'
   issued:
@@ -6087,11 +5837,11 @@ references:
   type: article-journal
   volume: '86'
 
-- id: Johnson2017
+- id: johnsonNoSaltAdded2017
   author:
     - family: Johnson
       given: Nick
-  citation-key: Johnson2017
+  citation-key: johnsonNoSaltAdded2017
   container-title: Jacobin
   issued:
     - year: 2017
@@ -6106,7 +5856,6 @@ references:
   authority: 10th Cir.
   citation-key: JohnsonSpencer2020
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2020
   page: '680'
@@ -6163,7 +5912,6 @@ references:
   authority: 2d Cir.
   citation-key: JonesFordMotor2004
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2004
   page: '205'
@@ -6179,7 +5927,6 @@ references:
       given: Robert M.
   citation-key: Joy1996
   container-title: The Labor Lawyer
-  container-title-short: Labor Lawyer
   ISSN: 8756-2995
   issue: '1'
   issued:
@@ -6195,7 +5942,6 @@ references:
       given: Grant
   citation-key: Julin2016
   container-title: 'Soundings: An Interdisciplinary Journal'
-  container-title-short: Sound. Interdiscip. J.
   ISSN: 0038-1861
   issue: '2'
   issued:
@@ -6217,8 +5963,8 @@ references:
   title: 'The Impact of Police Unions: Summary Report.'
   type: article-journal
 
-- id: JurisM_nd
-  citation-key: JurisM_nd
+- id: JurisMa
+  citation-key: JurisMa
   title: Juris-M
   type: webpage
   URL: https://juris-m.github.io/
@@ -6229,7 +5975,6 @@ references:
       given: Emily
   citation-key: Kadens2019
   container-title: Columbia Law Review
-  container-title-short: Columbia Law Rev.
   ISSN: 0010-1958
   issue: '2'
   issued:
@@ -6268,7 +6013,6 @@ references:
       given: Jeffrey S.
   citation-key: Kahana2000
   container-title: Journal of the Early Republic
-  container-title-short: J. Early Repub.
   ISSN: 0275-1275
   issue: '1'
   issued:
@@ -6287,7 +6031,6 @@ references:
       given: Ken
   citation-key: Kalleberg2000
   container-title: American Sociological Review
-  container-title-short: Am. Sociol. Rev.
   ISSN: 0003-1224
   issue: '2'
   issued:
@@ -6305,7 +6048,6 @@ references:
       given: Arne L.
   citation-key: Kalleberg2000a
   container-title: Annual Review of Sociology
-  container-title-short: Annu. Rev. Sociol.
   ISSN: 0360-0572
   issued:
     - year: 2000
@@ -6320,7 +6062,7 @@ references:
   issued:
     - year: 2006
   section: 47-1827
-  title: Farm Animal and Field Crop and Research Facilities Protection Act
+  title: Kansas ag-gag
   type: legislation
 
 - id: KatzWestlawnCemetery1996
@@ -6341,7 +6083,6 @@ references:
       given: Leila
   citation-key: Kawar2011
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   ISSN: 0897-6546
   issue: '2'
   issued:
@@ -6382,7 +6123,6 @@ references:
       given: Thomas M.
   citation-key: Keck2009
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 0023-9216
   issue: '1'
   issued:
@@ -6398,7 +6138,6 @@ references:
       given: Benjamin J.
   citation-key: Keele2015
   container-title: Legal Reference Services Quarterly
-  container-title-short: Leg. Ref. Serv. Q.
   ISSN: 0270-319X
   issue: '2'
   issued:
@@ -6412,7 +6151,6 @@ references:
   authority: U.S.
   citation-key: KeetonHustlerMagazine1984
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1984
   page: '770'
@@ -6440,7 +6178,6 @@ references:
       given: ROBERT B
   citation-key: Kelling1996
   container-title: 'Police Violence: Understanding and Controlling Police Abuse of Force'
-  container-title-short: Police Violence Underst. Control. Police Abuse Force
   issued:
     - year: 1996
   title: Police Unions, Police Culture, and the Police Abuse of Force
@@ -6452,7 +6189,6 @@ references:
       given: Duncan
   citation-key: Kennedy1981
   container-title: Industrial Relations Law Journal
-  container-title-short: Ind. Relat. Law J.
   ISSN: 0145-188X
   issue: '3'
   issued:
@@ -6468,7 +6204,6 @@ references:
       given: Elizabeth
   citation-key: Kennedy2005
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '1'
   issued:
@@ -6484,7 +6219,6 @@ references:
   authority: N.L.R.B.
   citation-key: KinderCareLearningCenters1990
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1990
   page: '1171'
@@ -6508,7 +6242,6 @@ references:
   authority: M.D.N.C.
   citation-key: KirkcaldyRichmondCounty2002
   container-title: F.R.D.
-  container-title-short: F.R.D.
   issued:
     - year: 2002
   page: '289'
@@ -6608,7 +6341,6 @@ references:
       given: Barbara
   citation-key: Kiviat2019
   container-title: American Sociological Review
-  container-title-short: Am. Sociol. Rev.
   ISSN: 0003-1224
   issue: '6'
   issued:
@@ -6625,7 +6357,6 @@ references:
       given: Karl E.
   citation-key: Klare1982
   container-title: University of Pennsylvania Law Review
-  container-title-short: Univ. Pa. Law Rev.
   ISSN: 0041-9907
   issue: '6'
   issued:
@@ -6640,7 +6371,6 @@ references:
       given: Christopher
   citation-key: Kleps2022
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 1540-5893
   issue: '2'
   issued:
@@ -6661,7 +6391,6 @@ references:
       given: Loren D
   citation-key: Kooken1954
   container-title: The Annals of the American Academy of Political and Social Science
-  container-title-short: Ann. Am. Acad. Pol. Soc. Sci.
   issue: '1'
   issued:
     - year: 1954
@@ -6675,7 +6404,6 @@ references:
       given: Anthony W.
   citation-key: Kraus1993
   container-title: Labor Law Journal
-  container-title-short: Labor Law J.
   ISSN: '236586'
   issue: '1'
   issued:
@@ -6689,7 +6417,6 @@ references:
   authority: U.S.
   citation-key: KuhnFairmontCoal1910
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1910
   page: '349'
@@ -6697,13 +6424,34 @@ references:
   type: legal_case
   volume: '215'
 
+- id: kurtzWyomingFederalCourt2016
+  accessed:
+    - year: 2023
+      month: 3
+      day: 1
+  author:
+    - family: Kurtz
+      given: Lauren
+  citation-key: kurtzWyomingFederalCourt2016
+  container-title: Climate Law Blog
+  issued:
+    - year: 2016
+      month: 7
+      day: 28
+  language: en-US
+  title: >-
+    Wyoming Federal Court Upholds Law Criminalizing “Unlawful Collection of
+    Resource Data”
+  type: post-weblog
+  URL: >-
+    https://blogs.law.columbia.edu/climatechange/2016/07/28/wy-federal-court-upholds-law-criminalizing-resource-data-collection/
+
 - id: Kus2015
   author:
     - family: Kus
       given: Basak
   citation-key: Kus2015
   container-title: Sociology Compass
-  container-title-short: Sociol. Compass
   ISSN: 1751-9020
   issue: '3'
   issued:
@@ -6714,11 +6462,11 @@ references:
   type: article-journal
   volume: '9'
 
-- id: Lam2016
+- id: lamLifeUndercoverUnion2016
   author:
     - family: Lam
       given: Bourree
-  citation-key: Lam2016
+  citation-key: lamLifeUndercoverUnion2016
   container-title: The Atlantic
   issued:
     - year: 2016
@@ -6736,7 +6484,6 @@ references:
       given: Joseph R.
   citation-key: Landry2016
   container-title: Columbia Law Review
-  container-title-short: Columbia Law Rev.
   ISSN: 0010-1958
   issue: '1'
   issued:
@@ -6754,7 +6501,6 @@ references:
       given: William P
   citation-key: LaPiana1986
   container-title: Suffolk University Law Review
-  container-title-short: Suffolk Univ. Law Rev.
   issued:
     - year: 1986
   language: en
@@ -6771,7 +6517,6 @@ references:
       given: Ann
   citation-key: Larson2014a
   container-title: New Labor Forum (Sage Publications Inc.)
-  container-title-short: New Labor Forum Sage Publ. Inc
   ISSN: '10957960'
   issue: '2'
   issued:
@@ -6781,8 +6526,8 @@ references:
   type: article-journal
   volume: '23'
 
-- id: LaTeXDocumentPreparation_nd
-  citation-key: LaTeXDocumentPreparation_nd
+- id: LaTeXDocumentPreparationa
+  citation-key: LaTeXDocumentPreparationa
   title: LaTeX - A document preparation system
   type: webpage
   URL: http://www.latex-project.org/
@@ -6793,7 +6538,6 @@ references:
       given: Bruno
   citation-key: Latour2004
   container-title: Critical Inquiry
-  container-title-short: Crit. Inq.
   ISSN: 0093-1896
   issue: '2'
   issued:
@@ -6813,7 +6557,6 @@ references:
       given: John P.
   citation-key: Laumann1977
   container-title: American Bar Foundation Research Journal
-  container-title-short: Am. Bar Found. Res. J.
   ISSN: 0361-9486
   issue: '1'
   issued:
@@ -6833,7 +6576,6 @@ references:
       given: John P.
   citation-key: Laumann1979
   container-title: American Bar Foundation Research Journal
-  container-title-short: Am. Bar Found. Res. J.
   ISSN: 0361-9486
   issue: '2'
   issued:
@@ -6853,7 +6595,6 @@ references:
       given: Vicky
   citation-key: Law2013
   container-title: Qualitative Sociology
-  container-title-short: Qual. Sociol.
   ISSN: 1573-7837
   issue: '4'
   issued:
@@ -6892,7 +6633,6 @@ references:
       given: Genevieve
   citation-key: LeBaron2014
   container-title: Critical Sociology
-  container-title-short: Crit. Sociol.
   ISSN: 0896-9205
   issue: '5'
   issued:
@@ -6910,7 +6650,6 @@ references:
   authority: 1st Cir.
   citation-key: LehmanRevolutionPortfolio1999
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 1999
   page: '389'
@@ -6926,7 +6665,6 @@ references:
       given: Whitney K.
   citation-key: Lehoucq2019
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   ISSN: 0897-6546
   issue: '1'
   issued:
@@ -6946,7 +6684,6 @@ references:
       given: Paul
   citation-key: Lehr2017
   container-title: U.C. Davis Law Review
-  container-title-short: UC Davis Law Rev.
   issued:
     - year: 2017
   language: eng
@@ -6977,7 +6714,6 @@ references:
       given: Benjamin
   citation-key: Levin2020
   container-title: Columbia Law Review
-  container-title-short: Columbia Law Rev.
   issue: '5'
   issued:
     - year: 2020
@@ -6992,7 +6728,6 @@ references:
       given: Kate
   citation-key: Levine2021
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 0023-9216
   issue: '4'
   issued:
@@ -7060,7 +6795,6 @@ references:
       given: Nelson
   citation-key: Lichtenstein2000
   container-title: International Labor and Working-Class History
-  container-title-short: Int. Labor Work.-Cl. Hist.
   ISSN: 0147-5479
   issue: '58'
   issued:
@@ -7074,7 +6808,6 @@ references:
       given: Risa L.
   citation-key: Lieberwitz2006
   container-title: Cornell Journal of Law and Public Policy
-  container-title-short: Cornell J. Law Public Policy
   issued:
     - year: 2006
   language: eng
@@ -7111,7 +6844,6 @@ references:
       given: Ignacio
   citation-key: Linarelli_nd
   container-title: LAW AND CONTEMPORARY PROBLEMS
-  container-title-short: LAW Contemp. Probl.
   issue: '1'
   language: en
   title: Financial Inclusion, Access to Credit, and Sustainable Finance
@@ -7124,7 +6856,6 @@ references:
       given: Paul F.
   citation-key: Lipold2014
   container-title: Social Science History
-  container-title-short: Soc. Sci. Hist.
   ISSN: 0145-5532
   issue: 3-4
   issued:
@@ -7140,7 +6871,6 @@ references:
   authority: U.S.
   citation-key: LivadasBradshaw1994
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1994
   page: '107'
@@ -7155,7 +6885,6 @@ references:
       given: Orly
   citation-key: Lobel2003
   container-title: Texas Wesleyan Law Review
-  container-title-short: Tex. Wesley. Law Rev.
   issued:
     - year: 2003
   language: eng
@@ -7171,7 +6900,6 @@ references:
   authority: U.S.
   citation-key: Local926Intern1983
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1983
   page: '669'
@@ -7207,7 +6935,6 @@ references:
       given: John
   citation-key: Logan2006
   container-title: British Journal of Industrial Relations
-  container-title-short: Br. J. Ind. Relat.
   issue: '4'
   issued:
     - year: 2006
@@ -7234,7 +6961,6 @@ references:
       given: Charles P.
   citation-key: Loomis1930
   container-title: The North Carolina Historical Review
-  container-title-short: N. C. Hist. Rev.
   ISSN: 0029-2494
   issue: '4'
   issued:
@@ -7243,11 +6969,11 @@ references:
   type: article-journal
   volume: '7'
 
-- id: LorenaOEnglish_nd
+- id: lorenaoenglishLibGuidesZoteroWSUa
   author:
     - family: Lorena O'English
       given: ''
-  citation-key: LorenaOEnglish_nd
+  citation-key: lorenaoenglishLibGuidesZoteroWSUa
   language: en
   note: >-
     LibGuides: Zotero @ the WSU Libraries: Using Zotfile for Tablet Syncing and
@@ -7263,7 +6989,6 @@ references:
   authority: U.S.
   citation-key: LouisvilleNashvilleCo1908
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1908
   page: '149'
@@ -7299,7 +7024,6 @@ references:
       given: Renée B.
   citation-key: Lowy1980
   container-title: New German Critique
-  container-title-short: New Ger. Crit.
   ISSN: 0094-033X
   issue: '20'
   issued:
@@ -7313,7 +7037,6 @@ references:
       given: Michael
   citation-key: Lowy1996
   container-title: Theory and Society
-  container-title-short: Theory Soc.
   ISSN: 0304-2421
   issue: '3'
   issued:
@@ -7328,7 +7051,6 @@ references:
       given: Michael
   citation-key: Lowy1997
   container-title: New Politics
-  container-title-short: New Polit.
   issue: '3'
   issued:
     - year: 1997
@@ -7346,7 +7068,6 @@ references:
       given: Michael
   citation-key: Lowy2001
   container-title: New German Critique
-  container-title-short: New Ger. Crit.
   ISSN: 0094-033X
   issue: '83'
   issued:
@@ -7360,7 +7081,6 @@ references:
       given: David
   citation-key: Luban2012
   container-title: Fordham Law Review
-  container-title-short: Fordham Law Rev.
   issue: '2'
   issued:
     - year: 2012
@@ -7374,7 +7094,6 @@ references:
   authority: U.S.
   citation-key: MachinistsWisconsinEmployment1976
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1976
   page: '132'
@@ -7388,7 +7107,6 @@ references:
       given: Kenneth W.
   citation-key: Mack2006
   container-title: The Journal of American History
-  container-title-short: J. Am. Hist.
   ISSN: 0021-8723
   issue: '1'
   issued:
@@ -7405,7 +7123,6 @@ references:
       given: Raymond G
   citation-key: Magenau1996
   container-title: Human Relations
-  container-title-short: Hum. Relat.
   issue: '10'
   issued:
     - year: 1996
@@ -7434,7 +7151,6 @@ references:
       given: Tayyab
   citation-key: Mahmud2012
   container-title: American Quarterly
-  container-title-short: Am. Q.
   ISSN: 0003-0678
   issue: '3'
   issued:
@@ -7451,18 +7167,17 @@ references:
       given: Gary
   citation-key: Maitland2005
   container-title: The NEA 2005 Almanac of Higher Education
-  container-title-short: NEA 2005 Alm. High. Educ.
   issued:
     - year: 2005
   language: en
   title: Bargaining for Contingent Faculty
   type: article-journal
 
-- id: Malinowski_nd
+- id: malinowskiZoteroBibTexQuicka
   author:
     - family: Malinowski
       given: Christine
-  citation-key: Malinowski_nd
+  citation-key: malinowskiZoteroBibTexQuicka
   title: Zotero and BibTex Quick Guide
   type: document
   URL: https://libguides.mit.edu/ld.php?content_id=34248570
@@ -7471,7 +7186,6 @@ references:
   authority: U.S.
   citation-key: Maneja1955
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1955
   page: '254'
@@ -7483,7 +7197,6 @@ references:
   authority: N.L.R.B.
   citation-key: MannoElecInc1996
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1996
   page: '297'
@@ -7491,13 +7204,12 @@ references:
   type: legal_case
   volume: '321'
 
-- id: Marceau2015
+- id: marceauAgGagPresentFuture2015a
   author:
     - family: Marceau
       given: Justin F.
-  citation-key: Marceau2015
+  citation-key: marceauAgGagPresentFuture2015a
   container-title: Seattle University Law Review
-  container-title-short: Seattle Univ. Law Rev.
   issued:
     - year: 2015
   page: '1317'
@@ -7511,7 +7223,6 @@ references:
       given: David
   citation-key: Marcus2009
   container-title: Georgia Law Review
-  container-title-short: Ga. Law Rev.
   issued:
     - year: 2009
   title: >-
@@ -7526,7 +7237,6 @@ references:
       given: Monique
   citation-key: Marks2007
   container-title: 'Police Occupational Culture: New Debates and Directions. New York: Elsevier'
-  container-title-short: Police Occup. Cult. New Debates Dir. N. Y. Elsevier
   issued:
     - year: 2007
   title: 'Police Unions and Their Influence: Subculture or Counter Culture'
@@ -7540,7 +7250,6 @@ references:
       given: David
   citation-key: Marks2008
   container-title: 'Police Practice and Research: An International Journal'
-  container-title-short: Police Pract. Res. Int. J.
   issue: '2'
   issued:
     - year: 2008
@@ -7580,7 +7289,6 @@ references:
       given: Daniel Crocker
   citation-key: Marshall2014a
   container-title: Annual Review of Law and Social Science
-  container-title-short: Annu. Rev. Law Soc. Sci.
   issued:
     - year: 2014
   title: Cause Lawyering
@@ -7593,7 +7301,6 @@ references:
       given: Charles H.
   citation-key: Martin1985
   container-title: Labor History
-  container-title-short: Labor Hist.
   ISSN: 0023-656X
   issue: '2'
   issued:
@@ -7606,7 +7313,6 @@ references:
   authority: 5th Cir.
   citation-key: MasPerry1974
   container-title: F.2d
-  container-title-short: F.2d
   issued:
     - year: 1974
   page: '1396'
@@ -7635,7 +7341,6 @@ references:
   authority: U.S.
   citation-key: MatsushitaElecIndus1986
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1986
   page: '574'
@@ -7648,7 +7353,6 @@ references:
   authority: N.Y.
   citation-key: MatterCooperman1994
   container-title: N.E.2d
-  container-title-short: N.E.2d
   issued:
     - year: 1994
   page: '1069'
@@ -7660,7 +7364,6 @@ references:
   authority: Appellate Div., 1st Dept.
   citation-key: MatterGiuliani2021
   container-title: A.D.3d
-  container-title-short: A.D.3d
   issued:
     - year: 2021
   page: '1'
@@ -7676,7 +7379,6 @@ references:
       given: Tomáš
   citation-key: Mazak2017
   container-title: Social Movement Studies
-  container-title-short: Soc. Mov. Stud.
   ISSN: '14742837'
   issue: '2'
   issued:
@@ -7691,7 +7393,6 @@ references:
   authority: N.L.R.B.
   citation-key: McAllisterBros1986
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1986
   page: '601'
@@ -7706,7 +7407,6 @@ references:
       given: John J.
   citation-key: McCall2003
   container-title: Business Ethics Quarterly
-  container-title-short: Bus. Ethics Q.
   ISSN: 1052-150X
   issue: '2'
   issued:
@@ -7721,7 +7421,6 @@ references:
       given: Holly J.
   citation-key: McCammon1990
   container-title: Social Problems
-  container-title-short: Soc. Probl.
   ISSN: 0037-7791
   issue: '2'
   issued:
@@ -7739,7 +7438,6 @@ references:
       given: Holly J.
   citation-key: McCammon1993
   container-title: Social Forces
-  container-title-short: Soc. Forces
   ISSN: 0037-7732
   issue: '3'
   issued:
@@ -7759,7 +7457,6 @@ references:
       given: Cathryn
   citation-key: McCammon2021
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   ISSN: 0897-6546
   issue: '3'
   issued:
@@ -7807,7 +7504,6 @@ references:
       given: Joseph A.
   citation-key: McCartin2008
   container-title: The Journal of American History
-  container-title-short: J. Am. Hist.
   ISSN: 0021-8723
   issue: '1'
   issued:
@@ -7848,7 +7544,6 @@ references:
       given: Alec
   citation-key: McGail2021
   container-title: The American Sociologist
-  container-title-short: Am. Sociol.
   ISSN: 0003-1232
   issue: '2'
   issued:
@@ -7868,7 +7563,6 @@ references:
       given: Ryan P
   citation-key: mcginleyWaterCoolerSpeech2012b
   container-title: Hofstra Labor & Employment Law Journal
-  container-title-short: Hofstra Labor Employ. Law J.
   issued:
     - year: 2012
   page: '75'
@@ -7882,7 +7576,6 @@ references:
       given: Yates
   citation-key: McKee2013
   container-title: South Atlantic Quarterly
-  container-title-short: South Atl. Q.
   ISSN: 0038-2876, 1527-8026
   issue: '4'
   issued:
@@ -7902,7 +7595,6 @@ references:
       given: David C.
   citation-key: McMullan2002
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 0023-9216
   issue: '4'
   issued:
@@ -7978,7 +7670,6 @@ references:
       given: Elizabeth
   citation-key: Mertz1994
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   issue: '5'
   issued:
     - year: 1994
@@ -8013,7 +7704,6 @@ references:
       given: Parbudyal
   citation-key: Metchick2004
   container-title: Labor Studies Journal
-  container-title-short: Labor Stud. J.
   ISSN: 0160-449X
   issue: '4'
   issued:
@@ -8032,7 +7722,6 @@ references:
       given: Suzanne
   citation-key: Meyer1996
   container-title: American Journal of Sociology
-  container-title-short: Am. J. Sociol.
   ISSN: 0002-9602
   issue: '6'
   issued:
@@ -8049,7 +7738,6 @@ references:
       given: Steven A.
   citation-key: Meyer2007
   container-title: Perspectives on Politics
-  container-title-short: Perspect. Polit.
   ISSN: 1537-5927
   issue: '1'
   issued:
@@ -8065,7 +7753,6 @@ references:
   authority: N.L.R.B.
   citation-key: MeyersI1984
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1984
   page: '493'
@@ -8078,7 +7765,6 @@ references:
   authority: N.L.R.B.
   citation-key: MeyersII1986
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1986
   page: '493'
@@ -8091,7 +7777,6 @@ references:
   authority: 8th CIr.
   citation-key: MiklinEnterprisesInc2016
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2016
   page: '812'
@@ -8122,7 +7807,6 @@ references:
       given: Marek
   citation-key: Mikus2019
   container-title: Dialectical Anthropology
-  container-title-short: Dialect. Anthropol.
   ISSN: 0304-4092, 1573-0786
   issue: '3'
   issued:
@@ -8156,7 +7840,6 @@ references:
       given: Timothy J.
   citation-key: Minchin2005
   container-title: Journal of American Studies
-  container-title-short: J. Am. Stud.
   ISSN: 0021-8758
   issue: '3'
   issued:
@@ -8175,7 +7858,7 @@ references:
   issued:
     - year: 2012
   section: 578.013.1
-  title: Recordings of farm animals alleged to be abused or neglected
+  title: Missouri ag-gag
   type: legislation
 
 - id: MitchellSherman1994
@@ -8190,11 +7873,11 @@ references:
   type: legal_case
   volume: '187'
 
-- id: Mohan1996
+- id: mohanStateArtWorkflow1996a
   author:
     - family: Mohan
       given: C
-  citation-key: Mohan1996
+  citation-key: mohanStateArtWorkflow1996a
   ISBN: 0-89791-794-4
   issued:
     - year: 1996
@@ -8210,14 +7893,13 @@ references:
   issued:
     - year: 1991
   section: 81-30-101
-  title: Farm Animal and Research Facility Protection Act
+  title: Montana ag-gag
   type: legislation
 
 - id: MontereyCounty1953
   authority: 9th Circuit
   citation-key: MontereyCounty1953
   container-title: F.2d
-  container-title-short: F.2d
   issued:
     - year: 1953
   page: '927'
@@ -8274,7 +7956,6 @@ references:
       given: Elizabeth
   citation-key: Moore1975
   container-title: University of Pittsburgh Law Review
-  container-title-short: Univ. Pittsburgh Law Rev.
   issued:
     - year: 1975
   language: eng
@@ -8308,7 +7989,6 @@ references:
       given: Charles J.
   citation-key: Morris2012
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '1'
   issued:
@@ -8327,7 +8007,6 @@ references:
       given: Andrew P
   citation-key: Morriss_nd
   container-title: MISSOURI LAW REVIEW
-  container-title-short: Mo. LAW Rev.
   language: en
   title: >-
     Exploding Myths: An Empirical and Economic Reassessment of the Rise of
@@ -8341,7 +8020,6 @@ references:
       given: Andrew P.
   citation-key: Morriss1995
   container-title: Texas Law Review
-  container-title-short: Tex. Law Rev.
   issue: '7'
   issued:
     - year: 1995
@@ -8359,7 +8037,6 @@ references:
       given: Katharina
   citation-key: Moser2019
   container-title: Journal of Law and Society
-  container-title-short: J. Law Soc.
   ISSN: 0263323X
   issue: '2'
   issued:
@@ -8375,7 +8052,6 @@ references:
   authority: 8th Cir.
   citation-key: MosleyGeneralMotors1974
   container-title: F.2d
-  container-title-short: F.2d
   issued:
     - year: 1974
   page: '1330'
@@ -8406,7 +8082,6 @@ references:
   authority: N.L.R.B.
   citation-key: MotorCityPawn2020
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2020
       month: 7
@@ -8456,7 +8131,6 @@ references:
       given: Viren
   citation-key: Murthy2020
   container-title: Jewish Social Studies; Bloomington
-  container-title-short: Jew. Soc. Stud. Bloomingt.
   ISSN: '216704'
   issue: '2'
   issued:
@@ -8475,7 +8149,6 @@ references:
       given: Eli
   citation-key: Naduris-Weissman2009
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '1'
   issued:
@@ -8491,7 +8164,6 @@ references:
       given: Christian Riley
   citation-key: Nagler2018
   container-title: TDR/The Drama Review
-  container-title-short: TDR Drama Rev.
   ISSN: 1054-2043
   issue: '1'
   issued:
@@ -8512,7 +8184,6 @@ references:
       given: Ángel
   citation-key: Nandez2013
   container-title: The Electronic Library
-  container-title-short: Electron. Libr.
   ISSN: 0264-0473
   issue: '6'
   issued:
@@ -8551,11 +8222,11 @@ references:
   type: legislation
   volume: '29'
 
-- id: NationalRighttoWorkCommittee2003
+- id: nationalrighttoworkcommitteeSaltingCoerciveBig2003
   author:
     - family: National Right to Work Committee
       given: ''
-  citation-key: NationalRighttoWorkCommittee2003
+  citation-key: nationalrighttoworkcommitteeSaltingCoerciveBig2003
   issued:
     - year: 2003
   publisher: National Right to Work Committee
@@ -8570,7 +8241,7 @@ references:
     - year: 2016
   language: en-US
   section: 99A-2
-  title: N.C. Property Protection Act
+  title: NC Property Protection Act
   type: legislation
 
 - id: NeJaime2011
@@ -8597,7 +8268,6 @@ references:
       given: Douglas
   citation-key: NeJaime2012
   container-title: Fordham Law Review
-  container-title-short: Fordham Law Rev.
   issue: '2'
   issued:
     - year: 2012
@@ -8615,7 +8285,6 @@ references:
       given: John
   citation-key: Newman2013
   container-title: Learned Publishing
-  container-title-short: Learn. Publ.
   ISSN: 1741-4857
   issue: '2'
   issued:
@@ -8636,7 +8305,6 @@ references:
       given: Nathan S
   citation-key: Newman2013a
   container-title: Drake Law Review
-  container-title-short: Drake Law Rev.
   issued:
     - year: 2013
   title: >-
@@ -8654,7 +8322,6 @@ references:
       given: Catherine
   citation-key: Nielsen2006
   container-title: North Carolina Law Review
-  container-title-short: N. C. Law Rev.
   issue: '5'
   issued:
     - year: 2006
@@ -8689,7 +8356,6 @@ references:
   authority: U.S.
   citation-key: NixWhiteside1986
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1986
   page: '157'
@@ -8701,7 +8367,6 @@ references:
   authority: U.S.
   citation-key: NLRBNashFinchCo1971
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1971
   page: '138'
@@ -8714,7 +8379,6 @@ references:
   authority: U.S.
   citation-key: NLRBTownCountry1995
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1995
   page: '85'
@@ -8727,7 +8391,6 @@ references:
   authority: 9th Cir.
   citation-key: NoletteCityBoulder2020
   container-title: F. App'x
-  container-title-short: F Appx
   issued:
     - year: 2020
   page: '587'
@@ -8752,11 +8415,11 @@ references:
   issued:
     - year: 1991
   section: 12.1-21.1-01
-  title: Animal Research Famility Damage
+  title: ND ag-gag
   type: legislation
 
-- id: Notepad_nd
-  citation-key: Notepad_nd
+- id: Notepada
+  citation-key: Notepada
   title: Notepad++
   type: webpage
   URL: https://notepad-plus-plus.org/
@@ -8767,7 +8430,6 @@ references:
       given: Jim
   citation-key: Nys1990
   container-title: Graduate Student Theses, Dissertations, & Professional Papers
-  container-title-short: Grad. Stud. Theses Diss. Prof. Pap.
   issued:
     - year: 1990
       month: 1
@@ -8801,7 +8463,6 @@ references:
       given: Eric
   citation-key: Oberle2020
   container-title: Jewish Social Studies; Bloomington
-  container-title-short: Jew. Soc. Stud. Bloomingt.
   ISSN: '216704'
   issue: '2'
   issued:
@@ -8820,7 +8481,6 @@ references:
       given: Kevin M
   citation-key: OBrien1996
   container-title: Journal of Collective Negotiations in the Public Sector
-  container-title-short: J. Collect. Negotiations Public Sect.
   issued:
     - year: 1996
   title: >-
@@ -8835,7 +8495,6 @@ references:
       given: Richard
   citation-key: Oestreicher1988
   container-title: The Journal of American History
-  container-title-short: J. Am. Hist.
   ISSN: 0021-8723
   issue: '4'
   issued:
@@ -8846,21 +8505,10 @@ references:
   type: article-journal
   volume: '74'
 
-- id: OhioAgTerrorism2004
-  citation-key: OhioAgTerrorism2004
-  container-title: "Ohio Rev.\_Code"
-  container-title-short: Ohio Rev Code
-  issued:
-    - year: 2004
-  section: '901.511'
-  title: Prohibiting terrorism involving agricultural products or equipment
-  type: legislation
-
 - id: OilCapitolSheet2007
   authority: N.L.R.B.
   citation-key: OilCapitolSheet2007
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2007
   page: '1348'
@@ -8874,7 +8522,6 @@ references:
       given: Susan
   citation-key: Olzak2021
   container-title: American Sociological Review
-  container-title-short: Am. Sociol. Rev.
   ISSN: 0003-1224
   issue: '6'
   issued:
@@ -8890,7 +8537,6 @@ references:
   authority: U.S.
   citation-key: OsbornBankUnited1824
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1824
   page: '738'
@@ -8904,7 +8550,6 @@ references:
       given: Caroline L.
   citation-key: Osborne2016
   container-title: Legal Reference Services Quarterly
-  container-title-short: Leg. Ref. Serv. Q.
   ISSN: 0270-319X
   issue: '3'
   issued:
@@ -8917,8 +8562,8 @@ references:
   type: article-journal
   volume: '35'
 
-- id: OSF_nd
-  citation-key: OSF_nd
+- id: OSFa
+  citation-key: OSFa
   title: OSF
   type: webpage
   URL: https://osf.io/
@@ -8944,7 +8589,6 @@ references:
   authority: 7th Cir.
   citation-key: PaceTimmermannRanch2015
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2015
   page: '748'
@@ -8962,7 +8606,6 @@ references:
       given: John P
   citation-key: Paik2007
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   issue: '4'
   issued:
     - year: 2007
@@ -8974,7 +8617,6 @@ references:
   authority: N.L.R.B.
   citation-key: PainReliefCenters2022
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2022
       month: 9
@@ -8984,12 +8626,12 @@ references:
   type: legal_case
   volume: '371'
 
-- id: PaintingPrintIncorporating_nd
+- id: PaintingPrintIncorporatinga
   accessed:
     - year: 2019
       month: 9
       day: 16
-  citation-key: PaintingPrintIncorporating_nd
+  citation-key: PaintingPrintIncorporatinga
   title: >-
     Painting with Print: Incorporating Concepts of Typographic and Layout Design
     into the Text of Legal Writing Documents
@@ -9012,7 +8654,6 @@ references:
   authority: 2d Cir.
   citation-key: PalinNewYork2019
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2019
   page: '804'
@@ -9020,8 +8661,8 @@ references:
   type: legal_case
   volume: '940'
 
-- id: Pandoc_nd
-  citation-key: Pandoc_nd
+- id: Pandoca
+  citation-key: Pandoca
   title: Pandoc
   type: webpage
   URL: http://pandoc.org/
@@ -9052,7 +8693,6 @@ references:
   authority: U.S.
   citation-key: ParklaneHosieryCo1979
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1979
   page: '322'
@@ -9082,7 +8722,6 @@ references:
       given: Russell
   citation-key: Pearce1996
   container-title: S. Tex. L. Rev.
-  container-title-short: Tex Rev
   issued:
     - year: 1996
       month: 1
@@ -9101,7 +8740,6 @@ references:
       given: Devah
   citation-key: Pedulla2019
   container-title: American Sociological Review
-  container-title-short: Am. Sociol. Rev.
   ISSN: 0003-1224
   issue: '6'
   issued:
@@ -9135,7 +8773,6 @@ references:
       given: Wendy Collins
   citation-key: Perdue1987
   container-title: Washington Law Review
-  container-title-short: Wash. Law Rev.
   issue: '3'
   issued:
     - year: 1987
@@ -9167,7 +8804,6 @@ references:
       given: Henry H.
   citation-key: Perritt1992
   container-title: Journal of Individual Employment Rights
-  container-title-short: J. Individ. Employ. Rights
   ISSN: 10557512, 15413799
   issue: '3'
   issued:
@@ -9195,7 +8831,6 @@ references:
   authority: 4th Cir.
   citation-key: PETAvStein2018-4thCir
   container-title: Fed. App'x
-  container-title-short: Fed Appx
   issued:
     - year: 2018
       month: 6
@@ -9252,7 +8887,6 @@ references:
       given: Peter M.
   citation-key: Pitt1991
   container-title: The Labor Lawyer
-  container-title-short: Labor Lawyer
   ISSN: 8756-2995
   issue: '2'
   issued:
@@ -9267,7 +8901,6 @@ references:
       given: David
   citation-key: Policansky2002
   container-title: 'Recreational Fisheries: Ecological, Economic and Social Evaluation'
-  container-title-short: Recreat. Fish. Ecol. Econ. Soc. Eval.
   issued:
     - year: 2002
   title: 'Catch-and-release recreational fishing: a historical perspective'
@@ -9280,7 +8913,6 @@ references:
       given: Francesca
   citation-key: Polletta2000
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 0023-9216
   issue: '2'
   issued:
@@ -9298,7 +8930,6 @@ references:
       given: James Gray
   citation-key: Pope2002
   container-title: Columbia Law Review
-  container-title-short: Columbia Law Rev.
   ISSN: 0010-1958
   issue: '1'
   issued:
@@ -9316,7 +8947,6 @@ references:
       given: James Gray
   citation-key: Pope2004
   container-title: Michigan Law Review
-  container-title-short: Mich. Law Rev.
   ISSN: 0026-2234
   issue: '3'
   issued:
@@ -9331,7 +8961,6 @@ references:
       given: Jim
   citation-key: Pope2006
   container-title: Law and History Review
-  container-title-short: Law Hist. Rev.
   ISSN: 0738-2480
   issue: '1'
   issued:
@@ -9352,7 +8981,6 @@ references:
       given: Elling
   citation-key: Poppe2016
   container-title: Acta Sociologica
-  container-title-short: Acta Sociol.
   ISSN: 0001-6993
   issue: '1'
   issued:
@@ -9388,7 +9016,6 @@ references:
       given: Stephen R.
   citation-key: Porter2013
   container-title: ILR Review
-  container-title-short: ILR Rev.
   ISSN: 0019-7939
   issue: '5'
   issued:
@@ -9407,7 +9034,6 @@ references:
   container-title: >-
     Journal of Institutional and Theoretical Economics (JITE) / Zeitschrift für
     die gesamte Staatswissenschaft
-  container-title-short: J. Institutional Theor. Econ. JITE Z. Für Gesamte Staatswiss.
   ISSN: 0932-4569
   issue: '1'
   issued:
@@ -9424,7 +9050,6 @@ references:
       given: Moishe
   citation-key: Postone1980
   container-title: New German Critique
-  container-title-short: New Ger. Crit.
   ISSN: 0094-033X
   issue: '19'
   issued:
@@ -9441,7 +9066,6 @@ references:
       given: Roscoe
   citation-key: Pound1944
   container-title: Notre Dame Law Review
-  container-title-short: Notre Dame Law Rev.
   issued:
     - year: 1944
   language: en
@@ -9489,7 +9113,6 @@ references:
       given: Stephen
   citation-key: Raher2020
   container-title: Hastings Race and Poverty Law Journal
-  container-title-short: Hastings Race Poverty Law J.
   ISSN: 1546-4652
   issue: '1'
   issued:
@@ -9505,7 +9128,6 @@ references:
   authority: D. Haw.
   citation-key: RainbowManagementGroup1994
   container-title: F.R.D.
-  container-title-short: F.R.D.
   issued:
     - year: 1994
   page: '656'
@@ -9514,11 +9136,11 @@ references:
   type: legal_case
   volume: '158'
 
-- id: Randsell1931
+- id: randsellReportScottsboroAla1931a
   author:
     - family: Randsell
       given: Hollace
-  citation-key: Randsell1931
+  citation-key: randsellReportScottsboroAla1931a
   issued:
     - year: 1931
       month: 5
@@ -9532,7 +9154,6 @@ references:
       given: Mark A.
   citation-key: Redmiles1989
   container-title: Alaska Law Review
-  container-title-short: Alsk. Law Rev.
   issue: '2'
   issued:
     - year: 1989
@@ -9564,7 +9185,6 @@ references:
       given: M. Scott
   citation-key: Regan1995
   container-title: Montana Law Review
-  container-title-short: Mont. Law Rev.
   issued:
     - year: 1995
   language: eng
@@ -9581,7 +9201,6 @@ references:
       given: Danielle J.
   citation-key: Reid2018
   container-title: Vanderbilt Law Review
-  container-title-short: Vanderbilt Law Rev.
   issued:
     - year: 2018
   language: eng
@@ -9602,7 +9221,6 @@ references:
       given: Jaqueline Aranda
   citation-key: Ressl-Moyer2021
   container-title: City University of New York Law Review
-  container-title-short: City Univ. N. Y. Law Rev.
   ISSN: 2572-7788
   issue: '1'
   issued:
@@ -9633,7 +9251,6 @@ references:
   authority: 9th Cir.
   citation-key: RetailPropertyTrust2014
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2014
   page: '938'
@@ -9648,7 +9265,6 @@ references:
       given: Gary
   citation-key: Rhoades1996
   container-title: The Journal of Higher Education
-  container-title-short: J. High. Educ.
   ISSN: 0022-1546
   issue: '6'
   issued:
@@ -9685,7 +9301,6 @@ references:
       given: Mareike
   citation-key: Riedel2021
   container-title: Journal of Law and Society
-  container-title-short: J. Law Soc.
   ISSN: 0263-323X
   issued:
     - year: 2021
@@ -9699,7 +9314,6 @@ references:
       given: Lauren A.
   citation-key: Rivera2020
   container-title: Annual Review of Sociology
-  container-title-short: Annu. Rev. Sociol.
   ISSN: 0360-0572
   issue: '1'
   issued:
@@ -9715,7 +9329,6 @@ references:
       given: Donald C.
   citation-key: Robinson1996
   container-title: Montana Law Review
-  container-title-short: Mont. Law Rev.
   issue: '2'
   issued:
     - year: 1996
@@ -9732,7 +9345,6 @@ references:
       given: David
   citation-key: Roediger1997
   container-title: International Labor and Working-Class History
-  container-title-short: Int. Labor Work.-Cl. Hist.
   ISSN: 0147-5479
   issue: '51'
   issued:
@@ -9751,7 +9363,6 @@ references:
       given: Alya
   citation-key: Rona-Tas2018
   container-title: Annual Review of Sociology
-  container-title-short: Annu. Rev. Sociol.
   ISSN: '3600572'
   issue: '1'
   issued:
@@ -9767,7 +9378,6 @@ references:
       given: Barry D.
   citation-key: Roseman2009
   container-title: 'Advance: The Journal of the ACS Issue Briefs'
-  container-title-short: Adv. J. ACS Issue Briefs
   issue: '1'
   issued:
     - year: 2009
@@ -9783,7 +9393,6 @@ references:
       given: David
   citation-key: Rosenfeld2006
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '2'
   issued:
@@ -9801,7 +9410,6 @@ references:
       given: Steven J.
   citation-key: Ross2001
   container-title: International Labor and Working-Class History
-  container-title-short: Int. Labor Work.-Cl. Hist.
   ISSN: 0147-5479
   issue: '59'
   issued:
@@ -9816,7 +9424,6 @@ references:
       given: A.
   citation-key: Ross2013
   container-title: South Atlantic Quarterly
-  container-title-short: South Atl. Q.
   ISSN: 0038-2876, 1527-8026
   issue: '4'
   issued:
@@ -9833,7 +9440,6 @@ references:
       given: Andrew
   citation-key: Ross2013a
   container-title: New Labor Forum (Sage Publications Inc.)
-  container-title-short: New Labor Forum Sage Publ. Inc
   ISSN: '10957960'
   issue: '3'
   issued:
@@ -9849,7 +9455,6 @@ references:
       given: Andrew
   citation-key: Ross2014
   container-title: 'Culture Unbound: Journal of Current Cultural Research'
-  container-title-short: Cult. Unbound J. Curr. Cult. Res.
   ISSN: '20001525'
   issued:
     - year: 2014
@@ -9865,7 +9470,6 @@ references:
       given: Beth A.
   citation-key: Rubin1988
   container-title: Industrial and Labor Relations Review
-  container-title-short: Ind. Labor Relat. Rev.
   ISSN: 0019-7939
   issue: '4'
   issued:
@@ -9895,7 +9499,6 @@ references:
       given: George
   citation-key: Rutherglen_nd
   container-title: CONSTITUTIONAL COMMENTARY
-  container-title-short: Const. Comment.
   language: en
   title: 'Reconstructing Erie: A Comment on the Perils of Legal Positivism.'
   title-short: Reconstructing Erie
@@ -9908,7 +9511,6 @@ references:
       given: George
   citation-key: Rutherglen2001
   container-title: The Supreme Court Review
-  container-title-short: Supreme Court Rev.
   issued:
     - literal: 2001-01-0001
   title: International Shoe and the Legacy of Legal Realism
@@ -9925,7 +9527,6 @@ references:
       given: John
   citation-key: Ruyter2019
   container-title: Journal of International Affairs
-  container-title-short: J. Int. Aff.
   ISSN: 0022-197X
   issue: '1'
   issued:
@@ -9976,7 +9577,6 @@ references:
       given: Pablo
   citation-key: Salinas2012
   container-title: Berkeley Review of Education
-  container-title-short: Berkeley Rev. Educ.
   ISSN: 1947-5578
   issued:
     - year: 2012
@@ -10023,7 +9623,6 @@ references:
   authority: 5th Cir.
   citation-key: SandersonFarms2003
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2003
   page: '445'
@@ -10035,7 +9634,6 @@ references:
   authority: 8th Cir.
   citation-key: SandyLakeBand2013
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2013
   page: '1098'
@@ -10049,7 +9647,6 @@ references:
       given: Saskia
   citation-key: Sassen2013
   container-title: Public Culture
-  container-title-short: Public Cult.
   ISSN: 0899-2363
   issue: 2 70
   issued:
@@ -10089,7 +9686,6 @@ references:
       given: Logan E.
   citation-key: SawyerIII2001
   container-title: George Mason Law Review
-  container-title-short: George Mason Law Rev.
   issued:
     - year: 2001
   language: en
@@ -10100,15 +9696,6 @@ references:
   type: article-journal
   volume: '10'
 
-- id: SCAgGag1992
-  citation-key: SCAgGag1992
-  container-title: SC Code Ann.
-  issued:
-    - year: 1992
-  section: 47-21
-  title: Farm Animal, Crop Operation, and Research Facilities Protection Act
-  type: legislation
-
 - id: Schill1995
   author:
     - family: Schill
@@ -10117,7 +9704,6 @@ references:
       given: P A
   citation-key: Schill1995
   container-title: North American Journal of Fisheries Management
-  container-title-short: North Am. J. Fish. Manag.
   ISSN: 0275-5947
   issue: '4'
   issued:
@@ -10134,7 +9720,6 @@ references:
       given: Ted
   citation-key: Schneyer1991
   container-title: Journal of Legal Education
-  container-title-short: J. Leg. Educ.
   ISSN: 0022-2208
   issue: '1'
   issued:
@@ -10153,7 +9738,6 @@ references:
       given: Madiha
   citation-key: Schrader2019
   container-title: Public Culture
-  container-title-short: Public Cult.
   ISSN: 0899-2363
   issue: '3'
   issued:
@@ -10170,7 +9754,6 @@ references:
       given: LeRoy H.
   citation-key: Schramm1990
   container-title: Montana Law Review
-  container-title-short: Mont. Law Rev.
   issue: '1'
   issued:
     - year: 1990
@@ -10188,7 +9771,6 @@ references:
       given: Stewart J.
   citation-key: Schwab1995
   container-title: Texas Law Review
-  container-title-short: Tex. Law Rev.
   issue: '7'
   issued:
     - year: 1995
@@ -10208,7 +9790,6 @@ references:
       given: Theodore L
   citation-key: Schwarcz_nd
   container-title: LAW AND CONTEMPORARY PROBLEMS
-  container-title-short: LAW Contemp. Probl.
   issue: '1'
   language: en
   title: >-
@@ -10221,7 +9802,6 @@ references:
   authority: U.S.
   citation-key: ScottHarris2007
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 2007
   page: '372'
@@ -10234,7 +9814,6 @@ references:
   authority: U.S.
   citation-key: SearsRoebuckCo1978
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1978
   page: '180'
@@ -10249,7 +9828,6 @@ references:
       given: Paul M
   citation-key: Secunda2007
   container-title: Comp. Lab. L. & Pol'y J.
-  container-title-short: Comp Lab Pol J
   issued:
     - year: 2007
   title: >-
@@ -10264,7 +9842,6 @@ references:
       given: Jindřiška
   citation-key: Sedova2011
   container-title: International Journal of Economics and Management Engineering
-  container-title-short: Int. J. Econ. Manag. Eng.
   issue: '2'
   issued:
     - year: 2011
@@ -10278,7 +9855,6 @@ references:
       given: Robert M.
   citation-key: Segal1952
   container-title: Industrial and Labor Relations Review
-  container-title-short: Ind. Labor Relat. Rev.
   ISSN: 0019-7939
   issue: '3'
   issued:
@@ -10294,7 +9870,6 @@ references:
       given: Robert M.
   citation-key: Segal1958
   container-title: American Bar Association Journal
-  container-title-short: Am. Bar Assoc. J.
   ISSN: 0002-7596
   issue: '11'
   issued:
@@ -10340,7 +9915,6 @@ references:
       given: Clara
   citation-key: Seymour2008
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '2'
   issued:
@@ -10356,7 +9930,6 @@ references:
   authority: U.S.
   citation-key: ShadyGroveOrthopedic2010
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 2010
   page: '393'
@@ -10369,7 +9942,6 @@ references:
   authority: U.S.
   citation-key: ShaperoKentuckyBar1988
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1988
   page: '466'
@@ -10383,7 +9955,6 @@ references:
       given: Carl
   citation-key: Shapiro2019
   container-title: The Journal of Economic Perspectives
-  container-title-short: J. Econ. Perspect.
   ISSN: 0895-3309
   issue: '3'
   issued:
@@ -10413,7 +9984,6 @@ references:
       given: Rudra
   citation-key: Sil2017
   container-title: Journal of Industrial Relations
-  container-title-short: J. Ind. Relat.
   ISSN: 0022-1856
   issue: '4'
   issued:
@@ -10445,7 +10015,6 @@ references:
       given: Roger
   citation-key: Skalbeck2011
   container-title: Law Library Lights
-  container-title-short: Law Libr. Lights
   issued:
     - year: 2011
       month: 1
@@ -10459,7 +10028,6 @@ references:
       given: Wesley G
   citation-key: Skogan2008
   container-title: Policing & Society
-  container-title-short: Polic. Soc.
   issue: '1'
   issued:
     - year: 2008
@@ -10473,7 +10041,6 @@ references:
       given: Anne-Marie
   citation-key: Slaughter2003
   container-title: Harvard International Law Journal
-  container-title-short: Harv. Int. Law J.
   issued:
     - year: 2003
   title: A Global Community of Courts
@@ -10486,7 +10053,6 @@ references:
       given: Rebecca
   citation-key: Smith2008
   container-title: Social Indicators Research
-  container-title-short: Soc. Indic. Res.
   ISSN: 0303-8300
   issue: '1'
   issued:
@@ -10512,7 +10078,6 @@ references:
       given: Robert D.
   citation-key: Snow1986
   container-title: American Sociological Review
-  container-title-short: Am. Sociol. Rev.
   ISSN: 0003-1224
   issue: '4'
   issued:
@@ -10543,6 +10108,27 @@ references:
   title-short: Unsuitable Suitors
   type: chapter
 
+- id: solomonWyomingDataTrespass2016
+  accessed:
+    - year: 2023
+      month: 3
+      day: 1
+  author:
+    - family: Solomon
+      given: Hannah
+  citation-key: solomonWyomingDataTrespass2016
+  container-title: 'Vermont Journal of Environmental Law: Ecoperspectives Blog'
+  issued:
+    - year: 2016
+      month: 7
+      day: 25
+  language: en
+  title: 'Wyoming’s Data Trespass Laws Trample First Amendment Rights: A Preview'
+  title-short: Wyoming’s Data Trespass Laws Trample First Amendment Rights
+  type: post-weblog
+  URL: >-
+    https://vjel.vermontlaw.edu/wyomings-data-trespass-laws-trample-first-amendment-rights-preview
+
 - id: Sorg2023
   accessed:
     - year: 2023
@@ -10571,7 +10157,6 @@ references:
       given: Michael D.
   citation-key: Sousa2003
   container-title: The Labor Lawyer
-  container-title-short: Labor Lawyer
   ISSN: 8756-2995
   issue: '3'
   issued:
@@ -10586,7 +10171,6 @@ references:
 - id: SouthAmendedBarratry1963
   citation-key: SouthAmendedBarratry1963
   container-title: The Yale Law Journal
-  container-title-short: Yale Law J.
   ISSN: 0044-0094
   issue: '8'
   issued:
@@ -10602,7 +10186,6 @@ references:
   authority: U.S.
   citation-key: SouthernPacificCo1916
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1916
   page: '205'
@@ -10620,7 +10203,6 @@ references:
       given: S
   citation-key: Southworth2005
   container-title: The world cause lawyers make
-  container-title-short: World Cause Lawyers Make
   issued:
     - year: 2005
   title: >-
@@ -10661,7 +10243,6 @@ references:
   authority: N.J. Sup. Ct. App. Div.
   citation-key: StateDeAngelo2007
   container-title: A.2d
-  container-title-short: A.2d
   issued:
     - year: 2007
   page: '1236'
@@ -10673,7 +10254,6 @@ references:
   authority: N.J.
   citation-key: StateDeAngelo2009
   container-title: A.2d
-  container-title-short: A.2d
   issued:
     - year: 2009
   page: '1200'
@@ -10708,7 +10288,6 @@ references:
   authority: N.L.R.B.
   citation-key: StephensMedia2011
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2011
       month: 2
@@ -10724,7 +10303,6 @@ references:
       given: Stewart E.
   citation-key: Sterk1993
   container-title: Virginia Law Review
-  container-title-short: Va. Law Rev.
   ISSN: 0042-6601
   issue: '2'
   issued:
@@ -10739,7 +10317,6 @@ references:
       given: Marcel
   citation-key: Stoetzler2019
   container-title: Journal of Social Justice
-  container-title-short: J. Soc. Justice
   ISSN: '21647100'
   issued:
     - year: 2019
@@ -10757,7 +10334,6 @@ references:
       given: Katherine V. W.
   citation-key: Stone2001
   container-title: Connecticut Law Review
-  container-title-short: Conn. Law Rev.
   issued:
     - year: 2001
   language: eng
@@ -10774,7 +10350,6 @@ references:
       given: Katherine V.W.
   citation-key: Stone2006
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '2'
   issued:
@@ -10790,7 +10365,6 @@ references:
   authority: 5th Cir.
   citation-key: StoutVincent2018
   container-title: F. App'x
-  container-title-short: F Appx
   issued:
     - year: 2018
   page: '468'
@@ -10803,7 +10377,6 @@ references:
   authority: U.S.
   citation-key: StrawbridgeCurtiss1806
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1806
   page: '267'
@@ -10839,7 +10412,6 @@ references:
   authority: N.L.R.B.
   citation-key: SullivanLongHagerty1991
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1991
   page: '1007'
@@ -10853,7 +10425,6 @@ references:
       given: Clyde W.
   citation-key: Summers2000
   container-title: University of Pennsylvania Journal of Labor and Employment Law
-  container-title-short: Univ. Pa. J. Labor Employ. Law
   issue: '1'
   issued:
     - year: 2000
@@ -10869,7 +10440,6 @@ references:
       given: Spencer
   citation-key: Sunshine2019
   container-title: Journal of Social Justice
-  container-title-short: J. Soc. Justice
   ISSN: '21647100'
   issued:
     - year: 2019
@@ -10903,7 +10473,6 @@ references:
   authority: U.S.
   citation-key: SwiftTyson1842
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1842
   page: '1'
@@ -10921,7 +10490,6 @@ references:
       given: Madiha
   citation-key: Tahir2019
   container-title: Public Culture
-  container-title-short: Public Cult.
   ISSN: 0899-2363
   issue: '3'
   issued:
@@ -10938,7 +10506,6 @@ references:
       given: Ryan D.
   citation-key: Talbert2017
   container-title: Sociology Compass
-  container-title-short: Sociol. Compass
   ISSN: 1751-9020
   issue: '2'
   issued:
@@ -10977,7 +10544,6 @@ references:
       given: Aaron
   citation-key: Tang2019
   container-title: Columbia Law Review
-  container-title-short: Columbia Law Rev.
   ISSN: 0010-1958
   issue: '3'
   issued:
@@ -11018,7 +10584,6 @@ references:
       given: Riaz
   citation-key: Tejani2017
   container-title: American Ethnologist
-  container-title-short: Am. Ethnol.
   ISSN: 1548-1425
   issue: '3'
   issued:
@@ -11037,7 +10602,6 @@ references:
       given: Riaz
   citation-key: Tejani2018
   container-title: Dialectical Anthropology; Amsterdam
-  container-title-short: Dialect. Anthropol. Amst.
   ISSN: '3044092'
   issue: '2'
   issued:
@@ -11055,7 +10619,6 @@ references:
       given: Riaz
   citation-key: Tejani2022
   container-title: Alabama Law Review
-  container-title-short: Ala. Law Rev.
   issued:
     - year: 2022
   language: en
@@ -11065,12 +10628,12 @@ references:
   type: article-journal
   volume: '73'
 
-- id: TellingTypeTypography_nd
+- id: TellingTypeTypographya
   accessed:
     - year: 2019
       month: 9
       day: 16
-  citation-key: TellingTypeTypography_nd
+  citation-key: TellingTypeTypographya
   title: 'Telling Through Type: Typography and Narrative in Legal Briefs'
   type: webpage
   URL: >-
@@ -11082,7 +10645,6 @@ references:
       given: Magda
   citation-key: Teter2020
   container-title: Jewish Social Studies; Bloomington
-  container-title-short: Jew. Soc. Stud. Bloomingt.
   ISSN: '216704'
   issue: '1'
   issued:
@@ -11098,7 +10660,6 @@ references:
       given: Alfred B.
   citation-key: Teton1940
   container-title: Illinois Law Review
-  container-title-short: Ill. Law Rev.
   issued:
     - year: 1940
   title: The Story of Swift v. Tyson
@@ -11111,7 +10672,6 @@ references:
       given: András
   citation-key: Tilcsik2020
   container-title: American Sociological Review
-  container-title-short: Am. Sociol. Rev.
   ISSN: 0003-1224
   issue: '1'
   issued:
@@ -11139,7 +10699,6 @@ references:
   authority: N.L.R.B.
   citation-key: TimesHeraldRecord2001
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2001
   page: '350'
@@ -11152,7 +10711,6 @@ references:
   authority: N.L.R.B.
   citation-key: TMobileUSAInc2016
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2016
   page: No. 171
@@ -11164,7 +10722,6 @@ references:
   authority: N.L.R.B.
   citation-key: ToeringElectricCo2007
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2007
   page: '225'
@@ -11176,7 +10733,6 @@ references:
   authority: Minnesota
   citation-key: TogstadVeselyOtto1980
   container-title: N.W.2d
-  container-title-short: N.W.2d
   issued:
     - year: 1980
   page: '686'
@@ -11192,7 +10748,6 @@ references:
       given: William N.
   citation-key: Tomlinson2009
   container-title: Employee Responsibilities and Rights Journal; New York
-  container-title-short: Empl. Responsib. Rights J. N. Y.
   ISSN: '8927545'
   issue: '2'
   issued:
@@ -11208,7 +10763,6 @@ references:
   authority: N.L.R.B.
   citation-key: TriplePlaySports2014-NLRB
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2014
   page: No. 31
@@ -11220,7 +10774,6 @@ references:
   authority: 2d Cir.
   citation-key: TriplePlaySports2015-2dCir
   container-title: Fed. App'x
-  container-title-short: Fed Appx
   issued:
     - year: 2015
       month: 10
@@ -11236,7 +10789,6 @@ references:
       given: David L.
   citation-key: Trowbridge2022
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 1540-5893
   issue: '2'
   issued:
@@ -11285,7 +10837,6 @@ references:
   authority: N.C. Ct. App.
   citation-key: TSGFinishingLLC2014
   container-title: S.E.2d
-  container-title-short: S.E.2d
   issued:
     - year: 2014
   page: '870'
@@ -11308,13 +10859,12 @@ references:
   type: legal_case
   volume: '2017'
 
-- id: Twomey2004
+- id: twomeySaltingFairOrganizing2004
   author:
     - family: Twomey
       given: David P.
-  citation-key: Twomey2004
+  citation-key: twomeySaltingFairOrganizing2004
   container-title: Business Law Review
-  container-title-short: Bus. Law Rev.
   issued:
     - year: 2004
   page: '103'
@@ -11352,7 +10902,6 @@ references:
       given: Tom Tyler
   citation-key: Tyler2016
   container-title: Annual Review of Law and Social Science
-  container-title-short: Annu. Rev. Law Soc. Sci.
   ISSN: 1550-3585
   issue: '1'
   issued:
@@ -11368,7 +10917,6 @@ references:
       given: Thomas S.
   citation-key: Ulen2019
   container-title: Kansas Journal of Law & Public Policy
-  container-title-short: Kans. J. Law Public Policy
   issue: '3'
   issued:
     - year: 2019
@@ -11381,7 +10929,6 @@ references:
   authority: U.S.
   citation-key: UnitedMineWorkers1966
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1966
   page: '715'
@@ -11396,7 +10943,7 @@ references:
   issued:
     - year: 2012
   section: 76-6-112
-  title: Agricultural Operation Interference
+  title: Utah ag-gag
   type: legislation
 
 - id: UtahCrimCodeRecodification2023
@@ -11419,7 +10966,7 @@ references:
   issued:
     - year: 2022
   section: 76-6-206.3
-  title: Criminal trespass on agricultural land or range land
+  title: Utah ag trespass
   type: legislation
 
 - id: UtahOffensesAgainstAnimalEnterprises2021
@@ -11428,7 +10975,7 @@ references:
   issued:
     - year: 2021
   section: 76-6-110
-  title: Offenses committed against animal enterprises
+  title: Utah animal enterprises
   type: legislation
 
 - id: Vaccaro2020
@@ -11475,7 +11022,6 @@ references:
       given: Steve
   citation-key: Valocchi1994
   container-title: Social Problems
-  container-title-short: Soc. Probl.
   ISSN: 0037-7791
   issue: '3'
   issued:
@@ -11486,15 +11032,14 @@ references:
   type: article-journal
   volume: '41'
 
-- id: VanBourg1998
+- id: vanbourgSaltingMinesLegal1998
   author:
     - family: Van Bourg
       given: Victor J.
     - family: Moscowitz
       given: Ellyn
-  citation-key: VanBourg1998
+  citation-key: vanbourgSaltingMinesLegal1998
   container-title: Hofstra Labor & Employment Law Journal
-  container-title-short: Hofstra Labor Employ. Law J.
   issued:
     - year: 1998
   page: '1'
@@ -11510,7 +11055,6 @@ references:
       given: Julia S.
   citation-key: VandeWalle2009
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '2'
   issued:
@@ -11529,7 +11073,6 @@ references:
       given: Ann C.
   citation-key: VanJaarsveld2009
   container-title: Industrial and Labor Relations Review
-  container-title-short: Ind. Labor Relat. Rev.
   ISSN: 0019-7939
   issue: '4'
   issued:
@@ -11550,7 +11093,6 @@ references:
       given: JIŘĺ
   citation-key: VECERNIK2008
   container-title: Polish Sociological Review
-  container-title-short: Pol. Sociol. Rev.
   ISSN: 1231-1413
   issue: '162'
   issued:
@@ -11606,7 +11148,6 @@ references:
       given: Anthony
   citation-key: Wagner2004
   container-title: Human Organization
-  container-title-short: Hum. Organ.
   ISSN: 0018-7259
   issue: '3'
   issued:
@@ -11625,7 +11166,6 @@ references:
       given: Samuel
   citation-key: Walker2008
   container-title: 'Police Practice and Research: An International Journal'
-  container-title-short: Police Pract. Res. Int. J.
   issue: '2'
   issued:
     - year: 2008
@@ -11645,7 +11185,6 @@ references:
       given: Brian T.
   citation-key: Wallace1988
   container-title: Social Science History
-  container-title-short: Soc. Sci. Hist.
   ISSN: 0145-5532
   issue: '1'
   issued:
@@ -11661,7 +11200,6 @@ references:
       given: Michael
   citation-key: Wallace2007
   container-title: The Sociological Quarterly
-  container-title-short: Sociol. Q.
   ISSN: 0038-0253
   issue: '4'
   issued:
@@ -11685,11 +11223,11 @@ references:
   type: legal_case
   volume: '4'
 
-- id: Walsh2016a
+- id: walshDoubleLifeUndercover2016
   author:
     - family: Walsh
       given: James D.
-  citation-key: Walsh2016a
+  citation-key: walshDoubleLifeUndercover2016
   container-title: New York Magazine Intelligencer
   issued:
     - year: 2016
@@ -11708,7 +11246,6 @@ references:
       given: James Robert III
   citation-key: Ward2004
   container-title: Law and Psychology Review
-  container-title-short: Law Psychol. Rev.
   issued:
     - year: 2004
   language: eng
@@ -11723,7 +11260,6 @@ references:
   authority: U.S.
   citation-key: WashingtonAluminum1962
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1962
   page: '9'
@@ -11740,7 +11276,6 @@ references:
       given: Sandra L.
   citation-key: Wears2012
   container-title: Employee Responsibilities and Rights Journal
-  container-title-short: Empl. Responsib. Rights J.
   ISSN: 0892-7545, 1573-3378
   issue: '3'
   issued:
@@ -11787,7 +11322,6 @@ references:
       given: Laura M.
   citation-key: Weinrib2015
   container-title: The Supreme Court Review
-  container-title-short: Supreme Court Rev.
   ISSN: 0081-9557
   issue: '1'
   issued:
@@ -11813,7 +11347,6 @@ references:
   authority: N.L.R.B.
   citation-key: WellstreamCorp1994
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 1994
   page: '698'
@@ -11827,7 +11360,6 @@ references:
       given: Bruce
   citation-key: Western1995
   container-title: American Sociological Review
-  container-title-short: Am. Sociol. Rev.
   ISSN: 0003-1224
   issue: '2'
   issued:
@@ -11855,7 +11387,6 @@ references:
   authority: 10th Cir.
   citation-key: WesternWatersheds2017-10thCir
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2017
   page: '1189'
@@ -11882,7 +11413,6 @@ references:
       given: Ahmed A.
   citation-key: White2004
   container-title: Berkeley Journal of Employment and Labor Law
-  container-title-short: Berkeley J. Employ. Labor Law
   ISSN: 1067-7666
   issue: '2'
   issued:
@@ -11897,7 +11427,6 @@ references:
   authority: N.L.R.B.
   citation-key: WhiteOakManor2009
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2009
   page: '795'
@@ -11909,7 +11438,6 @@ references:
   authority: N.L.R.B.
   citation-key: WholeFoodsMarket2015
   container-title: N.L.R.B.
-  container-title-short: N.L.R.B.
   issued:
     - year: 2015
   page: No. 87
@@ -11922,7 +11450,6 @@ references:
   authority: U.S.
   citation-key: WholeWomanHealth2016
   container-title: S. Ct.
-  container-title-short: Ct
   issued:
     - year: 2016
   page: '2292'
@@ -11936,7 +11463,6 @@ references:
       given: Christine M.
   citation-key: Wickens2008
   container-title: Higher Education
-  container-title-short: High. Educ.
   ISSN: 0018-1560
   issue: '5'
   issued:
@@ -11965,7 +11491,6 @@ references:
       given: Laurent
   citation-key: Willemez2005
   container-title: 'The Worlds Cause Lawyers Make: Structure and Agency in Legal Practice'
-  container-title-short: Worlds Cause Lawyers Make Struct. Agency Leg. Pract.
   issued:
     - year: 2005
   title: A Political-Professional Commitment? French Workers' and Unions' Lawyers
@@ -11979,7 +11504,6 @@ references:
       given: Kevin
   citation-key: Wilson2010
   container-title: American Journal of Criminal Justice
-  container-title-short: Am. J. Crim. Justice
   issue: '4'
   issued:
     - year: 2010
@@ -11997,7 +11521,6 @@ references:
       given: Koji
   citation-key: Wingfield2020
   container-title: American Sociological Review
-  container-title-short: Am. Sociol. Rev.
   ISSN: 0003-1224
   issue: '1'
   issued:
@@ -12009,11 +11532,11 @@ references:
   type: article-journal
   volume: '85'
 
-- id: Winterton2010
+- id: wintertonOpenAccessFree2010a
   author:
     - family: Winterton
       given: Jules
-  citation-key: Winterton2010
+  citation-key: wintertonOpenAccessFree2010a
   event-place: Gothenburg, Sweden
   genre: conference
   issued:
@@ -12044,7 +11567,6 @@ references:
       given: Nathan
   citation-key: Witkin2019
   container-title: Kansas Journal of Law & Public Policy
-  container-title-short: Kans. J. Law Public Policy
   issue: '1'
   issued:
     - year: 2019
@@ -12062,7 +11584,6 @@ references:
       given: David
   citation-key: Witwer2005
   container-title: The Journal of American History
-  container-title-short: J. Am. Hist.
   ISSN: 0021-8723
   issue: '2'
   issued:
@@ -12075,7 +11596,6 @@ references:
   authority: N. Y. App. Div.
   citation-key: WolfStreetSupermarkets1985
   container-title: A.D.2d
-  container-title-short: A.D.2d
   issued:
     - year: 1985
   page: '25'
@@ -12087,7 +11607,6 @@ references:
   authority: 4th Cir.
   citation-key: WoodsCityGreensboro2017
   container-title: F.3d
-  container-title-short: F.3d
   issued:
     - year: 2017
   page: '639'
@@ -12102,7 +11621,6 @@ references:
       given: Jennifer
   citation-key: Woodward2015
   container-title: Law & Society Review
-  container-title-short: Law Soc. Rev.
   ISSN: 0023-9216
   issue: '3'
   issued:
@@ -12116,7 +11634,6 @@ references:
   authority: U.S.
   citation-key: WorldWideVolkswagenCorp1980
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1980
   page: '286'
@@ -12148,7 +11665,6 @@ references:
       given: Erik Olin
   citation-key: Wright2000
   container-title: American Journal of Sociology
-  container-title-short: Am. J. Sociol.
   ISSN: 0002-9602
   issue: '4'
   issued:
@@ -12161,7 +11677,6 @@ references:
   authority: Minn. Ct. App.
   citation-key: WrightElecInc2004
   container-title: N.W.2d
-  container-title-short: N.W.2d
   issued:
     - year: 2004
   page: '313'
@@ -12184,7 +11699,6 @@ references:
       given: Joanna
   citation-key: Wuest2021
   container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
   ISSN: 0897-6546
   issue: '4'
   issued:
@@ -12202,7 +11716,7 @@ references:
   issued:
     - year: 2015
   section: 40-27-101
-  title: Trespassing to unlawfully collect resource data (civil)
+  title: Wyoming civil trespass
   type: legislation
 
 - id: WyomingCriminalTrespass2015
@@ -12213,7 +11727,7 @@ references:
     - year: 2015
   references: "Laws 2015, ch.\_146, § 1, eff. March 5, 2015; Laws 2016, ch.\_117, §§ 1, 2, eff. March 15, 2016."
   section: 6-3-414
-  title: Trespassing to Unlawfully collect resource data (criminal)
+  title: Wyoming criminal trespass
   type: legislation
 
 - id: Zackin2014
@@ -12244,7 +11758,6 @@ references:
       given: Noah D.
   citation-key: Zatz2011
   container-title: ABA Journal of Labor & Employment Law
-  container-title-short: ABA J. Labor Employ. Law
   ISSN: 2156-4809
   issue: '2'
   issued:
@@ -12260,7 +11773,6 @@ references:
   authority: U.S.
   citation-key: ZaudererOfficeDisciplinary1985
   container-title: U.S.
-  container-title-short: U.S.
   issued:
     - year: 1985
   page: '626'
@@ -12317,8 +11829,8 @@ references:
   type: legal_case
   volume: '139'
 
-- id: Zotero_nd
-  citation-key: Zotero_nd
+- id: Zoteroa
+  citation-key: Zoteroa
   title: Zotero
   type: webpage
   URL: https://www.zotero.org/
@@ -12329,7 +11841,6 @@ references:
       given: Peer
   citation-key: Zumbansen2019
   container-title: Buffalo Law Review
-  container-title-short: Buffalo Law Rev.
   ISSN: 0023-9356
   issue: '3'
   issued:
