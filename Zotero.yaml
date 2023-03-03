@@ -340,6 +340,16 @@ references:
   type: legal_case
   volume: '312'
 
+- id: ALEC-AnimalTerrorism2003
+  author:
+    - family: American Legislative Exchange Council
+      given: ''
+  citation-key: ALEC-AnimalTerrorism2003
+  issued:
+    - year: 2003
+  title: Animal & Ecological Terrorism in America
+  type: document
+
 - id: AlgrecoSportswearCo1984
   authority: N.L.R.B.
   citation-key: AlgrecoSportswearCo1984
