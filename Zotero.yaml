@@ -2654,6 +2654,25 @@ references:
   type: article-journal
   volume: '85'
 
+- id: Curcio2022
+  author:
+    - family: Curcio
+      given: Andrea A.
+    - family: Martinez
+      given: Alexis
+  citation-key: Curcio2022
+  container-title: University of Maryland Journal of Race, Religion, Gender, and Class
+  container-title-short: Univ. Md. J. Race Relig. Gend. Cl.
+  issue: '1'
+  issued:
+    - year: 2022
+  page: '1'
+  title: >-
+    Are Discipline Code Proceedings Another Example of Racial Disparities in
+    Legal Education?
+  type: article-journal
+  volume: '22'
+
 - id: DaimlerAgBauman2014
   authority: U.S.
   citation-key: DaimlerAgBauman2014
@@ -2694,6 +2713,43 @@ references:
   title: Dalton v. Camp
   type: legal_case
   volume: '353'
+
+- id: Damm2020
+  abstract: >-
+    The quality of the legal system is of fundamental importance within any
+    society, but the economics of attorney discipline (AD) have not been studied
+    empirically. We rank states by AD resources, complaints, and convictions,
+    and explore the impact of AD on economic growth. The American Bar
+    Association’s annual Survey on Lawyer Discipline (SOLD) reports complaints
+    and charges regarding lawyer misconduct, the caseload per disciplinary
+    attorney, and each state’s budget for attorney discipline. We develop five
+    measures of attorney discipline and a composite measure. We consider low
+    levels of AD to indicate less effective legal systems. Since prior
+    literature finds a relation between corruption and state economic growth, we
+    assess the ability of our AD variables to explain growth, finding that
+    states with lower levels of AD experience slower growth. To our knowledge,
+    no other study has considered the SOLD data to evaluate the quality of
+    attorney discipline, or its impact on growth. One implication is that legal
+    ethics training adds value to society.
+  author:
+    - family: Damm
+      given: Jason
+    - family: McNulty
+      given: James
+  citation-key: Damm2020
+  container-title: The Quarterly Review of Economics and Finance
+  container-title-short: The Quarterly Review of Economics and Finance
+  DOI: 10.1016/j.qref.2020.10.005
+  issued:
+    - year: 2020
+      month: 11
+      day: 1
+  source: ResearchGate
+  title: >-
+    Attorney discipline, the quality of legal systems and economic growth within
+    the United States
+  type: article-journal
+  volume: '84'
 
 - id: Dannin2005
   author:
@@ -4697,6 +4753,30 @@ references:
   page: '215'
   title: The Law of the Workplace
   type: chapter
+
+- id: Furman2022
+  abstract: >-
+    Lawyers say a crackdown has particularly targeted attorneys who let their
+    administrative responsibilities slip, and small firm and solo practitioners
+    are bearing the brunt of change.
+  accessed:
+    - year: 2023
+      month: 3
+      day: 11
+  author:
+    - family: Furman
+      given: Aleeza
+  citation-key: Furman2022
+  container-title: The Legal Intelligencer
+  issued:
+    - year: 2022
+      month: 9
+      day: 1
+  language: en
+  title: Ethics Lawyers Say Attorney Discipline Has Gotten Tougher
+  type: webpage
+  URL: >-
+    https://www.law.com/thelegalintelligencer/2022/09/01/you-have-to-battle-when-it-should-be-a-walk-in-the-park-ethics-lawyers-say-attorney-discipline-has-gotten-tougher/
 
 - id: Gallagher2014
   author:
@@ -6981,6 +7061,34 @@ references:
   type: article-journal
   volume: '51'
 
+- id: Leong_nd
+  author:
+    - family: Leong
+      given: Nancy
+  citation-key: Leong_nd
+  container-title: FORDHAM LAW REVIEW
+  container-title-short: FORDHAM LAW Rev.
+  language: en
+  source: Zotero
+  title: State Court Diversity and Attorney Discipline
+  type: article-journal
+  volume: '89'
+
+- id: Leong2020
+  author:
+    - family: Leong
+      given: Nancy
+  citation-key: Leong2020
+  container-title: Fordham Law Review
+  container-title-short: Fordham Law Rev.
+  issue: '4'
+  issued:
+    - year: 2020
+  page: '1223'
+  title: State Court Diversity and Attorney Discipline
+  type: article-journal
+  volume: '89'
+
 - id: Lester2001
   author:
     - family: Lester
@@ -9110,6 +9218,27 @@ references:
   type: legal_case
   volume: '439'
 
+- id: Patrice2019
+  abstract: Black male attorneys are more likely to be disciplined than white attorneys.
+  accessed:
+    - year: 2023
+      month: 3
+      day: 11
+  author:
+    - family: Patrice
+      given: Joe
+  citation-key: Patrice2019
+  container-title: Above the Law
+  issued:
+    - year: 2019
+      month: 11
+      day: 19
+  language: en-US
+  title: Study Finds That Bar Discipline Is Totally Racist Shocking Absolutely No One
+  type: post-weblog
+  URL: >-
+    https://abovethelaw.com/2019/11/study-finds-that-bar-discipline-is-totally-racist-shocking-absolutely-no-one/
+
 - id: Paul2019
   author:
     - family: Paul
@@ -9986,6 +10115,32 @@ references:
   title-short: GIG WORK AND THE FOURTH INDUSTRIAL REVOLUTION
   type: article-journal
   volume: '72'
+
+- id: Ryan2022
+  abstract: >-
+    Black men have been disproportionately disciplined by the agency that
+    regulates California's legal profession.
+  accessed:
+    - year: 2023
+      month: 3
+      day: 11
+  author:
+    - family: Ryan
+      given: Harriet
+    - family: Hamilton
+      given: Matt
+  citation-key: Ryan2022
+  container-title: Los Angeles Times
+  issued:
+    - year: 2022
+      month: 12
+      day: 16
+  language: en-US
+  section: California
+  title: As Tom Girardi skated, California State Bar went after Black attorneys
+  type: article-newspaper
+  URL: >-
+    https://www.latimes.com/california/story/2022-12-16/as-tom-girardi-skated-the-state-bar-went-after-black-attorneys
 
 - id: SabateMuriel2020
   author:
@@ -10962,6 +11117,20 @@ references:
   type: article-journal
   volume: '9'
 
+- id: SurveyLawyerDiscipline_nd
+  abstract: Survey on Lawyer Discipline Systems
+  accessed:
+    - year: 2023
+      month: 3
+      day: 11
+  citation-key: SurveyLawyerDiscipline_nd
+  container-title: American Bar Association
+  language: en
+  title: Survey on Lawyer Discipline Systems 2019
+  type: webpage
+  URL: >-
+    https://www.americanbar.org/groups/professional_responsibility/resources/surveyonlawyerdisciplinesystems2014/
+
 - id: Swidler1995
   author:
     - family: Swidler
@@ -10994,6 +11163,27 @@ references:
   title: Swift v. Tyson
   type: legal_case
   volume: '41'
+
+- id: Switzer2021
+  abstract: Bar discipline skews toward minority lawyers; it's time to fix that.
+  accessed:
+    - year: 2023
+      month: 3
+      day: 11
+  author:
+    - family: Switzer
+      given: Jill
+  citation-key: Switzer2021
+  container-title: Above the Law
+  issued:
+    - year: 2021
+      month: 2
+      day: 11
+  language: en-US
+  title: Inequalities In Lawyer Discipline Demand Action
+  type: post-weblog
+  URL: >-
+    https://abovethelaw.com/2021/02/inequalities-in-lawyer-discipline-demand-action/
 
 - id: Tahir2019
   author:
@@ -11880,6 +12070,30 @@ references:
   type: article-journal
   volume: '2014'
 
+- id: Weiss2019
+  abstract: >-
+    A newly released study finding racial disparities in California’s lawyer
+    discipline system will help the bar address unintended bias, according to
+    the State Bar of California’s executive director.
+  accessed:
+    - year: 2023
+      month: 3
+      day: 11
+  author:
+    - family: Weiss
+      given: Debra Cassens
+  citation-key: Weiss2019
+  container-title: ABA Journal
+  issued:
+    - year: 2019
+      month: 11
+      day: 18
+  language: en
+  title: New California bar study finds racial disparities in lawyer discipline
+  type: post-weblog
+  URL: >-
+    https://www.abajournal.com/news/article/california-bar-study-finds-racial-disparities-in-lawyer-discipline
+
 - id: Weitzer2015
   author:
     - family: Weitzer
@@ -12299,6 +12513,24 @@ references:
   section: 6-3-414
   title: Wyoming criminal trespass
   type: legislation
+
+- id: Yesko_nd
+  abstract: >-
+    In most jurisdictions, district attorneys who break the rules are rarely
+    held accountable.
+  accessed:
+    - year: 2023
+      month: 3
+      day: 11
+  author:
+    - family: Yesko
+      given: Parker
+  citation-key: Yesko_nd
+  language: en
+  title: Why don't prosecutors get disciplined?
+  type: webpage
+  URL: >-
+    https://www.apmreports.org/story/2018/09/18/why-dont-prosecutors-get-disciplined
 
 - id: Zackin2014
   author:
