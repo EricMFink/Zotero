@@ -1855,6 +1855,19 @@ references:
   type: article-journal
   volume: '13'
 
+- id: BrownHotelRestaurant1984
+  authority: U.S.
+  citation-key: BrownHotelRestaurant1984
+  container-title: US
+  issued:
+    - year: 1984
+  page: '491'
+  title: >-
+    Brown v. Hotel and Restaurant Employees and Bartenders Intern. Union Local
+    54
+  type: legal_case
+  volume: '468'
+
 - id: Brownstein2008
   author:
     - family: Brownstein
@@ -3668,6 +3681,17 @@ references:
   type: article-journal
   volume: '79'
 
+- id: FarmerUnitedBrotherhood1977
+  authority: U.S.
+  citation-key: FarmerUnitedBrotherhood1977
+  container-title: US
+  issued:
+    - year: 1977
+  page: '290'
+  title: Farmer v. United Brotherhood of Carpenters & Joiners, Local 25
+  type: legal_case
+  volume: '430'
+
 - id: Fassbender2013
   author:
     - family: Fassbender
@@ -4310,6 +4334,20 @@ references:
   title: Is the Right to Organize Unconstitutional?
   type: article-journal
   volume: '113'
+
+- id: FisherCommunicationWorkers2011
+  authority: N.C. App.
+  citation-key: FisherCommunicationWorkers2011
+  container-title: SE 2d
+  issued:
+    - year: 2011
+      month: 8
+      day: 16
+  jurisdiction: NC
+  page: '396'
+  title: Fisher v. Communication Workers of America
+  type: legal_case
+  volume: '716'
 
 - id: Fisk2002
   author:
@@ -8929,6 +8967,20 @@ references:
   type: webpage
   URL: https://notepad-plus-plus.org/
 
+- id: NowakMajorLeague2015
+  authority: E.D. Pa.
+  citation-key: NowakMajorLeague2015
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2015
+      month: 2
+      day: 4
+  jurisdiction: ED Pennsylvania
+  page: '382'
+  title: Nowak v. Major League Soccer, LLC
+  type: legal_case
+  volume: '90'
+
 - id: Nys1990
   author:
     - family: Nys
@@ -11421,6 +11473,20 @@ references:
   title: Times-Herald Record
   type: legal_case
   volume: '334'
+
+- id: TKOFleetEnterprises1999
+  authority: E.D.N.Y.
+  citation-key: TKOFleetEnterprises1999
+  container-title: F. Supp. 2d
+  issued:
+    - year: 1999
+      month: 4
+      day: 12
+  jurisdiction: ED New York
+  page: '83'
+  title: TKO Fleet Enterprises v. District 15
+  type: legal_case
+  volume: '72'
 
 - id: TMobileUSAInc2016
   authority: N.L.R.B.
