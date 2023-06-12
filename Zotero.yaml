@@ -362,6 +362,20 @@ references:
   type: legal_case
   volume: '271'
 
+- id: AlstateMaintenanceLLC2019
+  authority: NLRB
+  citation-key: AlstateMaintenanceLLC2019
+  container-title: NLRB
+  issued:
+    - year: 2019
+      month: 1
+      day: 11
+  number: 29-CA-117101
+  page: No. 68
+  title: Alstate Maintenance, LLC
+  type: legal_case
+  volume: '367'
+
 - id: Ambrose2006
   author:
     - family: Ambrose
@@ -4676,6 +4690,17 @@ references:
   type: legal_case
   volume: '767'
 
+- id: FreshEasyNeighborhood2014
+  authority: N.L.R.B.
+  citation-key: FreshEasyNeighborhood2014
+  container-title: NLRB
+  issued:
+    - year: 2014
+  page: '151'
+  title: Fresh & Easy Neighborhood Market, Inc.
+  type: legal_case
+  volume: '361'
+
 - id: FriedgesDrywallInc2009
   authority: Minn. Ct. App.
   citation-key: FriedgesDrywallInc2009
@@ -8508,6 +8533,20 @@ references:
   title-short: What Counts as Knowledge?
   type: chapter
 
+- id: MorganCorp2022
+  authority: NLRB
+  citation-key: MorganCorp2022
+  container-title: NLRB
+  issued:
+    - year: 2022
+      month: 9
+      day: 27
+  number: 10-CA-250678
+  page: No. 142
+  title: Morgan Corp.
+  type: legal_case
+  volume: '371'
+
 - id: Morris2012
   author:
     - family: Morris
@@ -9693,6 +9732,20 @@ references:
   title: Pulaski County Medical Exchange v. Medcom Medical Messaging, Inc.
   type: legal_case
   volume: '2022'
+
+- id: QuickenLoansInc2019
+  authority: NLRB
+  citation-key: QuickenLoansInc2019
+  container-title: NLRB
+  issued:
+    - year: 2019
+      month: 4
+      day: 10
+  number: 28-CA-146517
+  page: No. 112
+  title: Quicken Loans, Inc.
+  type: legal_case
+  volume: '367'
 
 - id: Radomski2001
   author:
@@ -11543,6 +11596,31 @@ references:
   title-short: Avoiding Liability for Wrongful Termination
   type: article-journal
   volume: '21'
+
+- id: Townsend2023
+  abstract: >-
+    The US workplace is a private dictatorship where bosses exercise
+    extraordinary power and systematically union bust. “Salting,” or getting a
+    job with the intent to organize a workplace, is a completely justifiable
+    response to this workplace despotism.
+  accessed:
+    - year: 2023
+      month: 6
+      day: 7
+  author:
+    - family: Townsend
+      given: Chris
+  citation-key: Townsend2023
+  container-title: Jacobin
+  issued:
+    - year: 2023
+      month: 5
+      day: 23
+  language: en-US
+  title: Salting Wouldn’t Be Necessary If Employers Didn’t Union Bust
+  type: webpage
+  URL: >-
+    https://jacobin.com/2023/05/american-labor-movement-decline-salting-union-organizing/
 
 - id: TriplePlaySports2014-NLRB
   authority: N.L.R.B.
