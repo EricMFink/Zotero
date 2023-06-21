@@ -1,5 +1,65 @@
 ---
 references:
+- id: 14JudDist_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: 14JudDist_nd
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: >-
+    14 Jud. Dist. Case Mgmt. Sys. Rule 6 -- Peremptory, Priority,  Remanded, and
+    Exceptional Cases
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: 18JudDist_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: 18JudDist_nd
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: 18 Jud. Dist. Super. Rule 14.0. Miscellaneous
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: 26JudDist_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: 26JudDist_nd
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: 26 Jud. Dist. Sup. Civil Rule 7 -- Exceptional and Complex Business Cases
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: 3BJudDist_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: 3BJudDist_nd
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: >-
+    3B Jud.Dist. Super. Civ. Case Mgmt. Rule 3 -- Priority, Peremptory,
+    Remanded, Exceptional or Complex Business (Rule 2.1) Cases
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
 - id: Aaron&FinkinDisloyalty1998
   author:
     - family: Aaron
@@ -155,11 +215,14 @@ references:
   title-short: Labor Regulation, Corporate Governance, and Legal Origin
   type: chapter
 
-- id: AlabamaAgGag-2002
-  citation-key: AlabamaAgGag-2002
+- id: AlabamaAgGag2002
+  citation-key: AlabamaAgGag2002
   container-title: Ala. Code
   issued:
     - year: 2002
+  note: >-
+    mlzsync1:0056{"extrafields":{"jurisdiction":"002usUnited
+    States|US"}}Citation Key: AlabamaAgGag-2002
   section: 13A-11-150
   title: Alabama Ag-Gag
   type: legislation
@@ -202,18 +265,6 @@ references:
   title-short: Funding the Cause
   type: article-journal
   volume: '39'
-
-- id: ALDFvHerbert2017-DUtah
-  authority: D. Utah
-  citation-key: ALDFvHerbert2017-DUtah
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2017
-  page: '1193'
-  title: Animal Legal Defense Fund v. Herbert
-  title-short: ALDF v. Herbert
-  type: legal_case
-  volume: '263'
 
 - id: ALDFvKelly2020-DKansas
   authority: D. Kansas
@@ -370,6 +421,9 @@ references:
     - year: 2019
       month: 1
       day: 11
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"002usUnited
+    States|US","reporter":"NLRB"}}Citation Key: AlstateMaintenanceLLC2019
   number: 29-CA-117101
   page: No. 68
   title: Alstate Maintenance, LLC
@@ -509,6 +563,21 @@ references:
   title: The New Labor Law
   type: article-journal
   volume: '126'
+
+- id: AnimalLegalDefense2017
+  authority: D. Utah
+  citation-key: AnimalLegalDefense2017
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2017
+  note: >-
+    mlzsync1:0081{"extrafields":{"jurisdiction":"002usUnited
+    States|US","reporter":"F. Supp. 3d"}}Citation Key: ALDFvHerbert2017-DUtah
+  page: '1193'
+  title: Animal Legal Defense Fund v. Herbert
+  title-short: ALDF v. Herbert
+  type: legal_case
+  volume: '263'
 
 - id: animalwelfareinstitute2022
   accessed:
@@ -736,6 +805,9 @@ references:
   container-title-short: N.L.R.B.
   issued:
     - year: 2018
+  note: >-
+    mlzsync1:0078{"extrafields":{"jurisdiction":"002usUnited
+    States|US","reporter":"N.L.R.B."}}Citation Key: AshfordTRSNickel2018
   number: 19-CA-032761
   page: No. 6
   title: Ashford TRS Nickel, LLC
@@ -1040,13 +1112,16 @@ references:
   type: legal_case
   volume: '433'
 
-- id: BaysideEnterprises1977
+- id: BaysideEnterprisesInc1977
   authority: U.S.
-  citation-key: BaysideEnterprises1977
+  citation-key: BaysideEnterprisesInc1977
   container-title: U.S.
   container-title-short: U.S.
   issued:
     - year: 1977
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"002usUnited
+    States|US","reporter":"U.S."}}Citation Key: BaysideEnterprises1977
   page: '298'
   title: Bayside Enterprises, Inc. v. NLRB
   title-short: Bayside Enterprises
@@ -2903,6 +2978,38 @@ references:
   title: Delta-Sonic Carwash Systems, Inc. v. Building Trades Council, AFL-CIO
   type: legal_case
   volume: '168'
+
+- id: DesignationExceptionalCivil_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: DesignationExceptionalCivil_nd
+  container-title: N.C. R. Prac. Super. & Dist. Ct.
+  container-title-short: NC R Pr. Super Dist Ct
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}Citation Key: NCRP_2.1
+  section: '2.1'
+  title: Designation of Exceptional Civil Cases and Complex Business Cases
+  type: legislation
+  URL: >-
+    https://casetext.com/rule/north-carolina-court-rules/north-carolina-rules-of-practice-for-the-superior-and-district-courts-supplemental-to-the-rules-of-civil-procedure/general-rules-of-practice-for-the-superior-and-district-courts-supplemental-to-the-rules-of-civil-procedure-adopted-pursuant-to-gs-7a-34/rule-22-designation-of-special-superior-court-judge-for-complex-business-cases
+
+- id: DesignationSpecialSuperior_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: DesignationSpecialSuperior_nd
+  container-title: N.C. R. Prac. Super. & Dist. Ct.
+  container-title-short: NC R Pr. Super Dist Ct
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}Citation Key: NCRP_2.2
+  section: '2.2'
+  title: Designation of Special Superior Court Judge for Complex Business Cases
+  type: legislation
 
 - id: DeutschSchoelkopf2016
   authority: W.D. Wash.
@@ -5368,12 +5475,15 @@ references:
   title: Do the “Haves” Still Come Out Ahead?
   type: chapter
 
-- id: GuardsmarkLlcNlrb2007
+- id: GuardsmarkLlcNLRB2007
   authority: Court of Appeals, Dist. of Columbia Circuit
-  citation-key: GuardsmarkLlcNlrb2007
+  citation-key: GuardsmarkLlcNLRB2007
   container-title: F. 3d
   issued:
     - year: 2007
+  note: >-
+    mlzsync1:0075{"extrafields":{"jurisdiction":"002usUnited
+    States|US","reporter":"F. 3d"}}Citation Key: GuardsmarkLlcNlrb2007
   page: '369'
   title: Guardsmark, Llc v. NLRB
   type: legal_case
@@ -5664,6 +5774,9 @@ references:
   container-title-short: N.E.2d
   issued:
     - year: 2008
+  note: >-
+    mlzsync1:0076{"extrafields":{"jurisdiction":"002usUnited
+    States|US","reporter":"N.E.2d"}}Citation Key: HelmsleySpearIncFishman2008
   page: '934'
   title: Helmsley-Spear, Inc. v. Fishman
   title-short: Fishman
@@ -6333,6 +6446,38 @@ references:
   title-short: History of the Section of Labor and Employment Law
   type: article-journal
   volume: '12'
+
+- id: JudDistSuper_nd
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: JudDistSuper_nd
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: >-
+    7 Jud. Dist. Super Civil Calendar Section X. Exceptional Civil and Complex
+    Business Cases--Rule 2.1 General Rules of Practic
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: JudDistSuper_nda
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  citation-key: JudDistSuper_nda
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"005us:ncUnited States|US|North
+    Carolina"}}
+  title: >-
+    5 Jud.Dist. Super. Civil Rule 3. PRIORITY, PEREMPTORY, REMANDED, EXCEPTIONAL
+    OR COMPLEX BUSINESS (RULE 2.1) CASES
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
 
 - id: Julin2016
   author:
@@ -8962,11 +9107,30 @@ references:
   container-title-short: U.S.
   issued:
     - year: 1995
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"002usUnited
+    States|US","reporter":"U.S."}}Citation Key: NLRBTownCountry1995
   page: '85'
   title: NLRB v. Town & Country Elec., Inc.
   title-short: Town & Country Electric
   type: legal_case
   volume: '516'
+
+- id: NLRBWashingtonAluminum1962
+  authority: U.S.
+  citation-key: NLRBWashingtonAluminum1962
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1962
+  note: >-
+    mlzsync1:0074{"extrafields":{"jurisdiction":"002usUnited
+    States|US","reporter":"U.S."}}Citation Key: WashingtonAluminum1962
+  page: '9'
+  title: NLRB v. Washington Aluminum Co.
+  title-short: Washington Aluminum
+  type: legal_case
+  volume: '370'
 
 - id: NoletteCityBoulder2020
   authority: 9th Cir.
@@ -9087,6 +9251,24 @@ references:
     Outcomes
   type: article-journal
   volume: '25'
+
+- id: OBrien2002
+  author:
+    - family: O'Brien
+      given: Carrie A
+  citation-key: OBrien2002
+  container-title: N.C. Banking Institute
+  container-title-short: NC Bank. Inst.
+  issued:
+    - year: 2002
+  language: en
+  page: '367'
+  source: Zotero
+  title: >-
+    The North Carolina Business Court: North Carolina's Special Superior Court
+    for Complex Business Cases
+  type: article-journal
+  volume: '6'
 
 - id: Oestreicher1988
   author:
@@ -11560,6 +11742,9 @@ references:
   container-title-short: N.L.R.B.
   issued:
     - year: 2007
+  note: >-
+    mlzsync1:0078{"extrafields":{"jurisdiction":"002usUnited
+    States|US","reporter":"N.L.R.B."}}Citation Key: ToeringElectricCo2007
   page: '225'
   title: Toering Electric Co.
   type: legal_case
@@ -11922,6 +12107,25 @@ references:
   type: article-journal
   volume: '16'
 
+- id: Vanderlin_nd
+  abstract: >-
+    Learn how to use Zotero (a free citation management tool) to organize your
+    research and create Bluebook citations.
+  accessed:
+    - year: 2023
+      month: 6
+      day: 19
+  author:
+    - family: Vanderlin
+      given: Scott
+  citation-key: Vanderlin_nd
+  language: en
+  license: Copyright UChicago 2023
+  title: 'Library Guides: Citation Management for Law Students: Saving Your Research'
+  title-short: Library Guides
+  type: webpage
+  URL: https://guides.lib.uchicago.edu/zotero4law/research
+
 - id: VandeWalle2009
   author:
     - family: Van de Walle
@@ -12137,19 +12341,6 @@ references:
   type: article-journal
   volume: '28'
 
-- id: WashingtonAluminum1962
-  authority: U.S.
-  citation-key: WashingtonAluminum1962
-  container-title: U.S.
-  container-title-short: U.S.
-  issued:
-    - year: 1962
-  page: '9'
-  title: NLRB v. Washington Aluminum Co.
-  title-short: Washington Aluminum
-  type: legal_case
-  volume: '370'
-
 - id: Wears2012
   author:
     - family: Wears
@@ -12354,6 +12545,9 @@ references:
   container-title-short: N.L.R.B.
   issued:
     - year: 2015
+  note: >-
+    mlzsync1:0078{"extrafields":{"jurisdiction":"002usUnited
+    States|US","reporter":"N.L.R.B."}}Citation Key: WholeFoodsMarket2015
   page: No. 87
   title: Whole Foods Market, Inc.
   title-short: Whole Foods Market
