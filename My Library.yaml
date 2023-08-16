@@ -598,6 +598,7 @@ references:
   container-title: F.3d
   issued:
     - year: 2018
+  jurisdiction: 002usUnited States|US
   page: '725'
   title: Aerotek, Inc. v. N.L.R.B.
   title-short: Aerotek
@@ -9014,39 +9015,6 @@ references:
 
 - id: Ferguson2017
   abstract: >-
-    To examine whether and how social movements that target private firms are
-    influenced by larger protest cycles, we theorize about osmotic
-    mobilization—social mov...
-  archive_location: 'Sage CA: Los Angeles, CA'
-  author:
-    - family: Ferguson
-      given: John-Paul
-    - family: Dudley
-      given: Thomas
-    - family: Soule
-      given: Sarah A.
-  citation-key: Ferguson2017
-  container-title: Administrative Science Quarterly
-  DOI: 10.1177/0001839217715618
-  issued:
-    - literal: 2017-06-0008
-  language: en
-  note: >-
-    ":"SAGE PublicationsSage CA: Los Angeles, CA"}}Citation Key:
-    fergusonOsmoticMobilizationUnion2017
-  publisher: 'SAGE PublicationsSage CA: Los Angeles, CA'
-  source: journals.sagepub.com
-  title: >-
-    Osmotic Mobilization and Union Support during the Long Protest Wave,
-    1960–1995:
-  title-short: >-
-    Osmotic Mobilization and Union Support during the Long Protest Wave,
-    1960–1995
-  type: article-journal
-  URL: https://journals.sagepub.com/doi/10.1177/0001839217715618
-
-- id: Ferguson2017a
-  abstract: >-
     There is a growing movement to create successful, ethical, well-rounded and
     practice ready legal professionals both in terms of their content knowledge
     and their mental well-being. As a Legal Teaching “profession” it is
@@ -9066,7 +9034,7 @@ references:
   author:
     - family: Ferguson
       given: Anneka
-  citation-key: Ferguson2017a
+  citation-key: Ferguson2017
   container-title: Journal of Learning Design
   DOI: 10.5204/jld.v8i2.240
   ISSN: 1832-8342
@@ -9084,6 +9052,39 @@ references:
   type: article-journal
   URL: 240.html
   volume: '8'
+
+- id: Ferguson2017a
+  abstract: >-
+    To examine whether and how social movements that target private firms are
+    influenced by larger protest cycles, we theorize about osmotic
+    mobilization—social mov...
+  archive_location: 'Sage CA: Los Angeles, CA'
+  author:
+    - family: Ferguson
+      given: John-Paul
+    - family: Dudley
+      given: Thomas
+    - family: Soule
+      given: Sarah A.
+  citation-key: Ferguson2017a
+  container-title: Administrative Science Quarterly
+  DOI: 10.1177/0001839217715618
+  issued:
+    - literal: 2017-06-0008
+  language: en
+  note: >-
+    ":"SAGE PublicationsSage CA: Los Angeles, CA"}}Citation Key:
+    fergusonOsmoticMobilizationUnion2017
+  publisher: 'SAGE PublicationsSage CA: Los Angeles, CA'
+  source: journals.sagepub.com
+  title: >-
+    Osmotic Mobilization and Union Support during the Long Protest Wave,
+    1960–1995:
+  title-short: >-
+    Osmotic Mobilization and Union Support during the Long Protest Wave,
+    1960–1995
+  type: article-journal
+  URL: https://journals.sagepub.com/doi/10.1177/0001839217715618
 
 - id: feuillePoliceProfessionalizationPolice1976
   author:
@@ -14912,6 +14913,47 @@ references:
 
 - id: Johnston1995
   abstract: >-
+    In social movement analysis, the framing perspective has been at the
+    forefront of renewed interest in cultural and ideational processes. But
+    several persistent problems in frame analysis remain: how to do it
+    systematically, for example, and how to verify the content and relationships
+    between the concepts within frames that have been identified. This chapter
+    is a methodological essay— both practical and conceptual—that introduces one
+    way by which frames can be studied. It specifies certain procedures that
+    allow the analyst to demonstrate the relations between concepts, knowledge,
+    and experience that constitutute social movement frames, and to speak more
+    convincingly about
+  accessed:
+    - year: 2020
+      month: 4
+      day: 14
+  archive: JSTOR
+  author:
+    - family: Johnston
+      given: Hank
+  citation-key: Johnston1995
+  container-title: Social Movements and Culture
+  edition: NED - New edition
+  editor:
+    - family: Johnston
+      given: Hank
+    - family: Klandermans
+      given: Bert
+  ISBN: 978-0-8166-2574-1
+  issued:
+    - year: 1995
+  note: 'Select: zotero://select/library/items/5893YUTB'
+  page: 217-246
+  publisher: University of Minnesota Press
+  source: JSTOR
+  title: 'A Methodology for Frame Analysis:: From Discourse to Cognitive Schemata'
+  title-short: A Methodology for Frame Analysis
+  type: chapter
+  URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.14
+  volume: '4'
+
+- id: Johnston1995a
+  abstract: >-
     The pendulum of Kuhn’s normal science now seems to swing toward culture,
     gathering speed in what may well be a paradigmatic shift. Mueller (1992) in
     her introductory essay to *Frontiers in Social Movement Theory* —in more
@@ -14931,7 +14973,7 @@ references:
       given: Hank
     - family: Klandermans
       given: Bert
-  citation-key: Johnston1995
+  citation-key: Johnston1995a
   container-title: Social Movements and Culture
   edition: NED - New edition
   editor:
@@ -14949,47 +14991,6 @@ references:
   title: The Cultural Analysis of Social Movements
   type: chapter
   URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.4
-  volume: '4'
-
-- id: Johnston1995a
-  abstract: >-
-    In social movement analysis, the framing perspective has been at the
-    forefront of renewed interest in cultural and ideational processes. But
-    several persistent problems in frame analysis remain: how to do it
-    systematically, for example, and how to verify the content and relationships
-    between the concepts within frames that have been identified. This chapter
-    is a methodological essay— both practical and conceptual—that introduces one
-    way by which frames can be studied. It specifies certain procedures that
-    allow the analyst to demonstrate the relations between concepts, knowledge,
-    and experience that constitutute social movement frames, and to speak more
-    convincingly about
-  accessed:
-    - year: 2020
-      month: 4
-      day: 14
-  archive: JSTOR
-  author:
-    - family: Johnston
-      given: Hank
-  citation-key: Johnston1995a
-  container-title: Social Movements and Culture
-  edition: NED - New edition
-  editor:
-    - family: Johnston
-      given: Hank
-    - family: Klandermans
-      given: Bert
-  ISBN: 978-0-8166-2574-1
-  issued:
-    - year: 1995
-  note: 'Select: zotero://select/library/items/5893YUTB'
-  page: 217-246
-  publisher: University of Minnesota Press
-  source: JSTOR
-  title: 'A Methodology for Frame Analysis:: From Discourse to Cognitive Schemata'
-  title-short: A Methodology for Frame Analysis
-  type: chapter
-  URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.14
   volume: '4'
 
 - id: JonesFordMotor2004
@@ -15062,8 +15063,8 @@ references:
   citation-key: JudDistSuper_nd
   jurisdiction: 005us:ncUnited States|US|North Carolina
   title: >-
-    7 Jud. Dist. Super Civil Calendar Section X. Exceptional Civil and Complex
-    Business Cases--Rule 2.1 General Rules of Practic
+    5 Jud.Dist. Super. Civil Rule 3. PRIORITY, PEREMPTORY, REMANDED, EXCEPTIONAL
+    OR COMPLEX BUSINESS (RULE 2.1) CASES
   type: legislation
   URL: >-
     https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
@@ -15076,8 +15077,8 @@ references:
   citation-key: JudDistSuper_nda
   jurisdiction: 005us:ncUnited States|US|North Carolina
   title: >-
-    5 Jud.Dist. Super. Civil Rule 3. PRIORITY, PEREMPTORY, REMANDED, EXCEPTIONAL
-    OR COMPLEX BUSINESS (RULE 2.1) CASES
+    7 Jud. Dist. Super Civil Calendar Section X. Exceptional Civil and Complex
+    Business Cases--Rule 2.1 General Rules of Practic
   type: legislation
   URL: >-
     https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
@@ -22506,7 +22507,7 @@ references:
   title-short: Common Sense and a Little Fire
   type: book
 
-- id: Orren1992a
+- id: Orren1992
   abstract: >-
     Contrary to the idea that the United States was liberal from its inception,
     Orren argues that both capitalism and constitutionalism proceeded upon a
@@ -22522,7 +22523,7 @@ references:
   author:
     - family: Orren
       given: Karen
-  citation-key: Orren1992a
+  citation-key: Orren1992
   edition: First Printing edition
   event-place: Cambridge England ; New York
   ISBN: 978-0-521-42254-3
@@ -24981,25 +24982,6 @@ references:
     - family: Sacks
       given: Oliver
   citation-key: Sacks2021
-  container-title: 'The Man Who Mistook His Wife for a Hat: And Other Clinical Tales'
-  edition: Reissue edition
-  ISBN: 978-0-593-46667-4
-  issued:
-    - year: 2021
-      month: 9
-      day: 14
-  language: English
-  note: 'Select: zotero://select/library/items/WHJ9CFS9'
-  page: '90'
-  publisher: Vintage
-  title: Eyes Right
-  type: chapter
-
-- id: Sacks2021a
-  author:
-    - family: Sacks
-      given: Oliver
-  citation-key: Sacks2021a
   edition: Reissue edition
   ISBN: 978-0-593-46667-4
   issued:
@@ -25013,6 +24995,25 @@ references:
   title: 'The Man Who Mistook His Wife for a Hat: And Other Clinical Tales'
   title-short: The Man Who Mistook His Wife for a Hat
   type: book
+
+- id: Sacks2021a
+  author:
+    - family: Sacks
+      given: Oliver
+  citation-key: Sacks2021a
+  container-title: 'The Man Who Mistook His Wife for a Hat: And Other Clinical Tales'
+  edition: Reissue edition
+  ISBN: 978-0-593-46667-4
+  issued:
+    - year: 2021
+      month: 9
+      day: 14
+  language: English
+  note: 'Select: zotero://select/library/items/WHJ9CFS9'
+  page: '90'
+  publisher: Vintage
+  title: Eyes Right
+  type: chapter
 
 - id: Saez2019
   abstract: >-
