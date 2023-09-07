@@ -2852,6 +2852,49 @@ references:
   title: The Devil & Daniel Webster
   type: article-magazine
 
+- id: Benjamin1985
+  accessed:
+    - year: 2023
+      month: 8
+      day: 27
+  author:
+    - family: Benjamin
+      given: Walter
+    - family: Spencer
+      given: Lloyd
+    - family: Harrington
+      given: Mark
+  citation-key: Benjamin1985
+  container-title: New German Critique
+  DOI: 10.2307/488338
+  ISSN: 0094-033X
+  issue: '34'
+  issued:
+    - year: 1985
+  page: 32-58
+  publisher: '[New German Critique, Duke University Press]'
+  title: Central Park
+  type: article-journal
+
+- id: Benjamin1999
+  author:
+    - family: Benjamin
+      given: Walter
+  citation-key: Benjamin1999
+  ISBN: 978-0-674-04326-8
+  issued:
+    - year: 1999
+  language: en
+  number-of-pages: '1100'
+  publisher: Harvard University Press
+  title: The Arcades Project
+  translator:
+    - family: Eiland
+      given: Howard
+    - family: McLaughlin
+      given: Kevin
+  type: book
+
 - id: benjaminsLawSemanticWeb2005
   author:
     - family: Benjamins
