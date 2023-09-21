@@ -5729,6 +5729,44 @@ references:
   URL: https://www.law.cornell.edu/uscode/text/15/17
   volume: '15'
 
+- id: ClevelandBarAssn1998
+  authority: Supreme Court
+  citation-key: ClevelandBarAssn1998
+  container-title: Ohio St. 3d
+  issued:
+    - literal: Submitted March 24, 1998
+  jurisdiction: Ohio
+  page: '256'
+  title: Cleveland Bar Assn. v. Misch
+  type: legal_case
+  volume: '82'
+
+- id: ClevelandBarAssn2002
+  authority: Supreme Court
+  citation-key: ClevelandBarAssn2002
+  container-title: Ohio St. 3d
+  issued:
+    - literal: Submitted January 9, 2002
+  jurisdiction: Ohio
+  page: '91'
+  title: Cleveland Bar Assn. v. Henley
+  type: legal_case
+  volume: '95'
+
+- id: CoastIndusRelations1998
+  authority: Court of Appeals, 7th Appellate Dist.
+  citation-key: CoastIndusRelations1998
+  container-title: Ohio App. 3d
+  issued:
+    - year: 1998
+      month: 4
+      day: 13
+  jurisdiction: Ohio
+  page: '233'
+  title: W. Coast Indus. Relations Assn., Inc. v. Superior Beverage Group, Ltd.
+  type: legal_case
+  volume: '127'
+
 - id: cobbleDishingItOut1992
   abstract: "\"Rich in detail, studded with telling anecdotes, Dishing It Out \_\_\_\_ \_\_\_is just as vivid and evocative as its title suggests. . . . This book \_\_\_\_\_\_\_ speaks with clarity and good sense to the major debates in the history \_\_\_\_\_\_\_ of work and gender and will become a landmark in our growing understanding \_\_\_\_\_\_\_ of the relationships between the two.\" \_\_\_\_\_\_\_ -- Susan Porter Benson, author of Counter Cultures \_\_\_\_\_ \"In this imaginative study of waitresses, work, and unionism, Cobble \_\_\_\_\_\_\_ challenges us all to rethink the conventional wisdom about the relationship \_\_\_\_\_\_\_ between craft unionism and the possibilities for women workers' collective \_\_\_\_\_\_\_ action. Women's labor history will never be the same.\" \_\_\_\_\_\_\_ -- Ruth Milkman, author of Gender at Work: The Dynamics of Job \_\_\_\_\_\_\_ Segregation by Sex during World War II"
   author:
@@ -5946,6 +5984,20 @@ references:
   title: 'Representing Radicals: A Guide for Lawyers and Movements'
   title-short: Representing Radicals
   type: book
+
+- id: CommitteeProfessionalEthics1987
+  authority: Supreme Court
+  citation-key: CommitteeProfessionalEthics1987
+  container-title: NW 2d
+  issued:
+    - year: 1987
+      month: 3
+      day: 18
+  jurisdiction: Iowa
+  page: '434'
+  title: Committee on Professional Ethics v. Mahoney
+  type: legal_case
+  volume: '402'
 
 - id: commonsDocumentaryHistoryAmerican1910
   citation-key: commonsDocumentaryHistoryAmerican1910
@@ -8600,6 +8652,25 @@ references:
     H. Comm. on Education and the Workforce
   title-short: Examining Union Salting Abuses
   type: hearing
+
+- id: ExclusionHearingsRefusal_nd
+  accessed:
+    - year: 2023
+      month: 9
+      day: 12
+  authority: NLRB
+  citation-key: ExclusionHearingsRefusal_nd
+  container-title: C.F.R.
+  jurisdiction: 002usUnited States|US
+  language: en
+  section: '102.177'
+  title: >-
+    Exclusion from hearings; refusal of witness to answer questions; misconduct
+    by attorneys and party representatives before the Agency; procedures for
+    processing misconduct allegations.
+  type: regulation
+  URL: https://www.law.cornell.edu/cfr/text/29/102.177
+  volume: '29'
 
 - id: ExxonMobilCorp2005
   authority: supreme.court
@@ -22407,6 +22478,33 @@ references:
   title: Contradictions of the Welfare State
   type: book
 
+- id: OhioStateBar_nd
+  authority: Board on the Unauthorized Practice of Law of the Supreme Court of Ohio
+  citation-key: OhioStateBar_nd
+  jurisdiction: 005us:ohUnited States|US|Ohio
+  number: UPL 04-05
+  publication-date:
+    date-parts:
+      - - '2006'
+        - 4
+        - 28
+  title: >-
+    Ohio State Bar Association v. Burdzinski, Brinkman, Czarzasty, & Landwehr,
+    Inc.
+  type: legal_case
+
+- id: OhioStateBar2006
+  authority: Supreme Court
+  citation-key: OhioStateBar2006
+  container-title: NE 2d
+  issued:
+    - literal: Submitted August 8, 2006
+  jurisdiction: Ohio
+  page: '372'
+  title: Ohio State Bar Assn. v. Burdzinski, Brinkman, Czarzasty & Landwehr, Inc.
+  type: legal_case
+  volume: '858'
+
 - id: OilCapitolSheet2007
   authority: N.L.R.B.
   citation-key: OilCapitolSheet2007
@@ -24470,6 +24568,22 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/462540053
 
+- id: RightsParties_nd
+  accessed:
+    - year: 2023
+      month: 9
+      day: 12
+  authority: NLRB
+  citation-key: RightsParties_nd
+  container-title: C.F.R.
+  jurisdiction: 002usUnited States|US
+  language: en
+  section: '102.38'
+  title: Rights of parties.
+  type: regulation
+  URL: https://www.law.cornell.edu/cfr/text/29/102.38
+  volume: '29'
+
 - id: RiseDevelopmentGlobal
   citation-key: RiseDevelopmentGlobal
   note: 'Select: zotero://select/library/items/RS5C7MLP'
@@ -24912,6 +25026,24 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/2523590
   volume: '41'
+
+- id: RudolphCole2015
+  author:
+    - family: Rudolph Cole
+      given: Sarah
+  citation-key: RudolphCole2015
+  container-title: UC Davis Law Review
+  issued:
+    - year: 2015
+  language: en
+  page: '921'
+  source: Crossref
+  title: >-
+    Blurred Lines: Are Non-Attorneys Who Represent Parties in Arbitrations
+    Involving Statutory Claims Practicing Law?
+  title-short: Blurred Lines
+  type: article-journal
+  volume: '48'
 
 - id: rushinUsingDataReduce2016
   author:
@@ -26852,6 +26984,18 @@ references:
   type: thesis
   URL: http://repository.usfca.edu/capstone/4
 
+- id: SperryFloridaEx1963
+  authority: Supreme Court
+  citation-key: SperryFloridaEx1963
+  container-title: US
+  issued:
+    - literal: Argued March 25, 1963
+  jurisdiction: 002usUnited States|US
+  page: '379'
+  title: Sperry v. Florida ex rel. Florida Bar
+  type: legal_case
+  volume: '373'
+
 - id: Spitzer2000
   abstract: >-
     Politics and Constitutionalism presents a collection of eight original
@@ -27695,6 +27839,18 @@ references:
   title: 'Punitive Damages: How Juries Decide'
   title-short: Punitive Damages
   type: book
+
+- id: SurrickKillion2006
+  authority: Court of Appeals, 3rd Circuit
+  citation-key: SurrickKillion2006
+  container-title: F. 3d
+  issued:
+    - literal: Submitted May 9, 2006
+  jurisdiction: 002usUnited States|US
+  page: '520'
+  title: Surrick v. Killion
+  type: legal_case
+  volume: '449'
 
 - id: SurveyLawyerDiscipline_nd
   abstract: Survey on Lawyer Discipline Systems
@@ -31109,6 +31265,28 @@ references:
   title: Zielinski v. Philadelphia Piers
   type: legal_case
   volume: '139'
+
+- id: Zirkel2015
+  accessed:
+    - year: 2023
+      month: 9
+      day: 12
+  author:
+    - family: Zirkel
+      given: Perry
+  citation-key: Zirkel2015
+  container-title: Dispute Resolution Journal
+  issued:
+    - year: 2015
+  language: en
+  page: '1'
+  title: >-
+    Non-Attorney Representatives in Labor Arbitration: Unauthorized Practice of
+    Law?
+  type: article-journal
+  URL: >-
+    https://www.proquest.com/openview/b4867ba58ce7350ff375c898663f6bd3/1?pq-origsite=gscholar&cbl=25210
+  volume: '70'
 
 - id: Zotero_nd
   citation-key: Zotero_nd
