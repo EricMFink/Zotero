@@ -833,7 +833,6 @@ references:
   container-title: F.3d
   issued:
     - year: 2018
-  jurisdiction: us
   page: '1184'
   title: Animal Legal Defense Fund v. Wasden
   title-short: ALDF v Wasden
@@ -1124,6 +1123,36 @@ references:
   title-short: Private Government
   type: book
   URL: https://www.jstor.org/stable/j.ctvc775n0
+
+- id: AndersonCoastalCommunities2012
+  authority: N.C.Super.
+  citation-key: AndersonCoastalCommunities2012
+  container-title: WL
+  issued:
+    - year: 2012
+      month: 5
+      day: 30
+  jurisdiction: US|North Carolina
+  page: '1948767'
+  publisher: N.C.Super.
+  title: Anderson v. Coastal Communities at Ocean Ridge Plantation, Inc.
+  type: legal_case
+  volume: '2012'
+
+- id: AndersonCreekPartners2020
+  authority: N.C.App.
+  citation-key: AndersonCreekPartners2020
+  container-title: S.E.2d
+  issued:
+    - year: 2020
+      month: 12
+      day: 31
+  jurisdiction: US|North Carolina
+  page: '1'
+  publisher: N.C.App.
+  title: Anderson Creek Partners, L.P. v. County of Harnett
+  type: legal_case
+  volume: '854'
 
 - id: AndersonLibertyLobby1986
   authority: supreme.court
@@ -2121,6 +2150,21 @@ references:
   title-short: Beyond Defeat and Austerity
   type: book
 
+- id: BaileyState1998
+  authority: N.C.
+  citation-key: BaileyState1998
+  container-title: S.E.2d
+  issued:
+    - year: 1998
+      month: 5
+      day: 8
+  jurisdiction: US|North Carolina
+  page: '54'
+  publisher: N.C.
+  title: Bailey v. State
+  type: legal_case
+  volume: '500'
+
 - id: bakerModelCauseLawyering2014
   author:
     - family: Baker
@@ -2366,6 +2410,21 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/43670448
   volume: '48'
+
+- id: BarcliftMartin2018
+  authority: N.C.Super.
+  citation-key: BarcliftMartin2018
+  container-title: WL
+  issued:
+    - year: 2018
+      month: 1
+      day: 19
+  jurisdiction: US|North Carolina
+  page: '487285'
+  publisher: N.C.Super.
+  title: Barclift v. Martin
+  type: legal_case
+  volume: '2018'
 
 - id: Barrett2020
   abstract: >-
@@ -2963,6 +3022,21 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/denlr86&i=461
   volume: '86'
 
+- id: BergerNewHanover2013
+  authority: N.C.Super.
+  citation-key: BergerNewHanover2013
+  container-title: WL
+  issued:
+    - year: 2013
+      month: 9
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '4792508'
+  publisher: N.C.Super.
+  title: Berger v. New Hanover County Bd. of Com'rs
+  type: legal_case
+  volume: '2013'
+
 - id: bernsteinTurbulentYearsHistory2010
   abstract: >-
     "A broad panorama in brilliant prose." —American Historical ReviewIn this
@@ -2990,6 +3064,36 @@ references:
   title: 'The Turbulent Years: A History of the American Worker, 1933-1940'
   title-short: The Turbulent Years
   type: book
+
+- id: BerothOilCo2014
+  authority: N.C.
+  citation-key: BerothOilCo2014
+  container-title: S.E.2d
+  issued:
+    - year: 2014
+      month: 4
+      day: 11
+  jurisdiction: US|North Carolina
+  page: '466'
+  publisher: N.C.
+  title: Beroth Oil Co. v. North Carolina Dept. of Transp.
+  type: legal_case
+  volume: '757'
+
+- id: BerothOilCompany2017
+  authority: N.C.App.
+  citation-key: BerothOilCompany2017
+  container-title: S.E.2d
+  issued:
+    - year: 2017
+      month: 11
+      day: 21
+  jurisdiction: US|North Carolina
+  page: '488'
+  publisher: N.C.App.
+  title: Beroth Oil Company v. North Carolina Dept. of Transp.
+  type: legal_case
+  volume: '808'
 
 - id: BethIsraelHospital1978
   authority: Supreme Court
@@ -3488,6 +3592,36 @@ references:
   title: 'Red State Revolt: The Teachers'' Strike Wave and Working-Class Politics'
   title-short: Red State Revolt
   type: book
+
+- id: BlankenshipBartlett2007
+  authority: N.C.App.
+  citation-key: BlankenshipBartlett2007
+  container-title: S.E.2d
+  issued:
+    - year: 2007
+      month: 7
+      day: 3
+  jurisdiction: US|North Carolina
+  page: '584'
+  publisher: N.C.App.
+  title: Blankenship v. Bartlett
+  type: legal_case
+  volume: '646'
+
+- id: BlankenshipBartlett2009
+  authority: N.C.
+  citation-key: BlankenshipBartlett2009
+  container-title: S.E.2d
+  issued:
+    - year: 2009
+      month: 8
+      day: 28
+  jurisdiction: US|North Carolina
+  page: '759'
+  publisher: N.C.
+  title: Blankenship v. Bartlett
+  type: legal_case
+  volume: '681'
 
 - id: Blizzard2017
   accessed:
@@ -4079,6 +4213,21 @@ references:
   URL: https://www.jstor.org/stable/26890966
   volume: '67'
 
+- id: BouvierPorter2021
+  authority: N.C.App.
+  citation-key: BouvierPorter2021
+  container-title: S.E.2d
+  issued:
+    - year: 2021
+      month: 10
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '732'
+  publisher: N.C.App.
+  title: Bouvier v. Porter
+  type: legal_case
+  volume: '865'
+
 - id: bouzaPoliceUnionsPaper1985
   author:
     - family: Bouza
@@ -4125,6 +4274,51 @@ references:
   title-short: Memory, counter-memory and resistance
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvggx2fq.8
+
+- id: BoyceIsleyPLLC2005
+  authority: N.C.App.
+  citation-key: BoyceIsleyPLLC2005
+  container-title: S.E.2d
+  issued:
+    - year: 2005
+      month: 4
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '175'
+  publisher: N.C.App.
+  title: Boyce & Isley, PLLC v. Cooper
+  type: legal_case
+  volume: '611'
+
+- id: BoyceIsleyPLLC2009
+  authority: N.C.App.
+  citation-key: BoyceIsleyPLLC2009
+  container-title: S.E.2d
+  issued:
+    - year: 2009
+      month: 3
+      day: 17
+  jurisdiction: US|North Carolina
+  page: '694'
+  publisher: N.C.App.
+  title: Boyce & Isley, PLLC v. Cooper
+  type: legal_case
+  volume: '673'
+
+- id: BoyceNorthCarolina2018
+  authority: N.C.App.
+  citation-key: BoyceNorthCarolina2018
+  container-title: S.E.2d
+  issued:
+    - year: 2018
+      month: 4
+      day: 3
+  jurisdiction: US|North Carolina
+  page: '127'
+  publisher: N.C.App.
+  title: Boyce v. North Carolina State Bar
+  type: legal_case
+  volume: '814'
 
 - id: boyuleNationalPoliticsInternational2014
   abstract: >-
@@ -4656,6 +4850,21 @@ references:
   title-short: Wobblies!
   type: book
 
+- id: BumpersCommunityBank2010
+  authority: N.C.
+  citation-key: BumpersCommunityBank2010
+  container-title: S.E.2d
+  issued:
+    - year: 2010
+      month: 6
+      day: 17
+  jurisdiction: US|North Carolina
+  page: '442'
+  publisher: N.C.
+  title: Bumpers v. Community Bank of Northern Virginia
+  type: legal_case
+  volume: '695'
+
 - id: Burley2019
   abstract: >-
     As an introduction to the topic of anti-Semitism, this article brings
@@ -4833,6 +5042,23 @@ references:
   title-short: Byrd
   type: legal_case
   volume: '356'
+
+- id: CabarrusCountyBoard2018
+  authority: N.C.App.
+  citation-key: CabarrusCountyBoard2018
+  container-title: S.E.2d
+  issued:
+    - year: 2018
+      month: 9
+      day: 18
+  jurisdiction: US|North Carolina
+  page: '201'
+  publisher: N.C.App.
+  title: >-
+    Cabarrus County Board of Education v. Board of Trustees, Teachers' and State
+    Employees' Retirement System
+  type: legal_case
+  volume: '818'
 
 - id: CaesarsEntertainmentRio2015
   authority: N.L.R.B.
@@ -5654,6 +5880,21 @@ references:
   URL: https://search.proquest.com/docview/2091008005/4C21E13CCA3B4E92PQ/3
   volume: '43'
 
+- id: ClarkAlanVester2009
+  authority: N.C.Super.
+  citation-key: ClarkAlanVester2009
+  container-title: WL
+  issued:
+    - year: 2009
+      month: 7
+      day: 17
+  jurisdiction: US|North Carolina
+  page: '2181620'
+  publisher: N.C.Super.
+  title: Clark v. Alan Vester Auto Group, Inc.
+  type: legal_case
+  volume: '2009'
+
 - id: ClarkCapitalManagement2001
   authority: Dist. Court
   citation-key: ClarkCapitalManagement2001
@@ -5955,6 +6196,21 @@ references:
   title-short: Wobblies of the World
   type: book
 
+- id: ColeyState2006
+  authority: N.C.
+  citation-key: ColeyState2006
+  container-title: S.E.2d
+  issued:
+    - year: 2006
+      month: 6
+      day: 30
+  jurisdiction: US|North Carolina
+  page: '121'
+  publisher: N.C.
+  title: Coley v. State
+  type: legal_case
+  volume: '631'
+
 - id: collectiveRepresentingRadicalsGuide2021
   abstract: >-
     Representing Radicals helps lawyers understand ways to work with radical
@@ -5984,6 +6240,21 @@ references:
   title: 'Representing Radicals: A Guide for Lawyers and Movements'
   title-short: Representing Radicals
   type: book
+
+- id: CombsNorthCarolina1990
+  authority: N.C.
+  citation-key: CombsNorthCarolina1990
+  container-title: S.E.2d
+  issued:
+    - year: 1990
+      month: 11
+      day: 16
+  jurisdiction: US|North Carolina
+  page: '134'
+  publisher: N.C.
+  title: Combs v. North Carolina Hazardous Waste Management Com'n
+  type: legal_case
+  volume: '399'
 
 - id: CommitteeProfessionalEthics1987
   authority: Supreme Court
@@ -6024,6 +6295,21 @@ references:
   number: No. 20-724
   title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops Llc
   type: legal_case
+
+- id: CompositeFabricsAmerica2016
+  authority: N.C.Super.
+  citation-key: CompositeFabricsAmerica2016
+  container-title: WL
+  issued:
+    - year: 2016
+      month: 2
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '489451'
+  publisher: N.C.Super.
+  title: Composite Fabrics of America, LLC v. Edge Structural Composites, Inc.
+  type: legal_case
+  volume: '2016'
 
 - id: contiGoodCaseDecisions2014
   abstract: >-
@@ -6215,6 +6501,23 @@ references:
   type: article-journal
   URL: >-
     https://www.elgaronline.com/view/edcoll/9781849803618/9781849803618.00010.xml
+
+- id: CountyJohnstonNorth1990
+  authority: N.C.
+  citation-key: CountyJohnstonNorth1990
+  container-title: S.E.2d
+  issued:
+    - year: 1990
+      month: 11
+      day: 28
+  jurisdiction: US|North Carolina
+  page: '870'
+  publisher: N.C.
+  title: >-
+    County of Johnston v. North Carolina Hazardous Waste Management Com'n
+    Johnson County File No. 90cvd1930
+  type: legal_case
+  volume: '398'
 
 - id: CourseOutlineSociology_nd
   citation-key: CourseOutlineSociology_nd
@@ -6550,6 +6853,7 @@ references:
   container-title: N.C.
   issued:
     - year: 2001
+  jurisdiction: 005us:ncUnited States|US|North Carolina
   page: '647'
   title: Dalton v. Camp
   type: legal_case
@@ -6968,6 +7272,21 @@ references:
   title-short: Evicted
   type: book
 
+- id: DeutscheBankTrust2009
+  authority: N.C.Super.
+  citation-key: DeutscheBankTrust2009
+  container-title: WL
+  issued:
+    - year: 2009
+      month: 4
+      day: 29
+  jurisdiction: US|North Carolina
+  page: '1154861'
+  publisher: N.C.Super.
+  title: Deutsche Bank Trust Co. Americas v. Tradewinds Airlines, Inc.
+  type: legal_case
+  volume: '2009'
+
 - id: DeutschSchoelkopf2016
   authority: W.D. Wash.
   citation-key: DeutschSchoelkopf2016
@@ -7130,6 +7449,21 @@ references:
   title: 'The Company They Keep: How Partisan Divisions Came to the Supreme Court'
   title-short: The Company They Keep
   type: book
+
+- id: DewaltHooks2022
+  authority: N.C.
+  citation-key: DewaltHooks2022
+  container-title: S.E.2d
+  issued:
+    - year: 2022
+      month: 11
+      day: 4
+  jurisdiction: US|North Carolina
+  page: '179'
+  publisher: N.C.
+  title: Dewalt v. Hooks
+  type: legal_case
+  volume: '879'
 
 - id: dezalayMerchantsLawMoral2014
   abstract: >-
@@ -8178,6 +8512,21 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/1095796018817026
 
+- id: ElliottKBHome2012
+  authority: N.C.Super.
+  citation-key: ElliottKBHome2012
+  container-title: WL
+  issued:
+    - year: 2012
+      month: 11
+      day: 2
+  jurisdiction: US|North Carolina
+  page: '5385181'
+  publisher: N.C.Super.
+  title: Elliott v. KB Home North Carolina, Inc.
+  type: legal_case
+  volume: '2012'
+
 - id: ellisViolenceDebtfareState2017
   abstract: >-
     Debt can have devastating impacts upon individuals and families. To be
@@ -8865,6 +9214,21 @@ references:
     what libraries must do
   type: article-journal
   URL: https://scholarship.shu.edu/lib_pub/134
+
+- id: FazzariInfinityPartners2014
+  authority: N.C.App.
+  citation-key: FazzariInfinityPartners2014
+  container-title: S.E.2d
+  issued:
+    - year: 2014
+      month: 8
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '237'
+  publisher: N.C.App.
+  title: Fazzari v. Infinity Partners, LLC
+  type: legal_case
+  volume: '762'
 
 - id: featherstoneEcologiesIndebtedness2019
   abstract: >-
@@ -10551,6 +10915,21 @@ references:
   URL: www.jstor.org/stable/44441230
   volume: '54'
 
+- id: FoxCityGreensboro2021
+  authority: N.C.App.
+  citation-key: FoxCityGreensboro2021
+  container-title: S.E.2d
+  issued:
+    - year: 2021
+      month: 9
+      day: 21
+  jurisdiction: US|North Carolina
+  page: '270'
+  publisher: N.C.App.
+  title: Fox v. City of Greensboro
+  type: legal_case
+  volume: '866'
+
 - id: Frade2015
   abstract: >-
     Abstract In recent years, Southern European households have been facing
@@ -10812,6 +11191,21 @@ references:
   title: Freidrich v. Davis
   type: legal_case
   volume: '767'
+
+- id: FrenchBroadPlace2018
+  authority: N.C.App.
+  citation-key: FrenchBroadPlace2018
+  container-title: S.E.2d
+  issued:
+    - year: 2018
+      month: 6
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '886'
+  publisher: N.C.App.
+  title: French Broad Place, LLC v. Asheville Savings Bank, S.S.B.
+  type: legal_case
+  volume: '816'
 
 - id: FreshEasyNeighborhood2014
   authority: N.L.R.B.
@@ -12896,6 +13290,36 @@ references:
   URL: https://www.jstor.org/stable/4121181
   volume: '47'
 
+- id: HamiltonMortgageInformation2011
+  authority: N.C.App.
+  citation-key: HamiltonMortgageInformation2011
+  container-title: S.E.2d
+  issued:
+    - year: 2011
+      month: 5
+      day: 17
+  jurisdiction: US|North Carolina
+  page: '185'
+  publisher: N.C.App.
+  title: Hamilton v. Mortgage Information Services, Inc.
+  type: legal_case
+  volume: '711'
+
+- id: HammBlueCross2010
+  authority: N.C.Super.
+  citation-key: HammBlueCross2010
+  container-title: WL
+  issued:
+    - year: 2010
+      month: 8
+      day: 27
+  jurisdiction: US|North Carolina
+  page: '5557501'
+  publisher: N.C.Super.
+  title: Hamm v. Blue Cross and Blue Shield of North Carolina
+  type: legal_case
+  volume: '2010'
+
 - id: hanemanReFramingStudent2021
   author:
     - family: Haneman
@@ -12914,6 +13338,21 @@ references:
   type: article-journal
   URL: https://www.ssrn.com/abstract=3696566
   volume: '84'
+
+- id: HanesbrandsIncFowler2016
+  authority: N.C.
+  citation-key: HanesbrandsIncFowler2016
+  container-title: S.E.2d
+  issued:
+    - year: 2016
+      month: 12
+      day: 21
+  jurisdiction: US|North Carolina
+  page: '497'
+  publisher: N.C.
+  title: Hanesbrands Inc. v. Fowler
+  type: legal_case
+  volume: '794'
 
 - id: HanksCoan1999
   authority: M.D.N.C.
@@ -13027,6 +13466,21 @@ references:
   source: Google Books
   title: Judging the Jury
   type: book
+
+- id: HarcoNatIns2009
+  authority: N.C.Super.
+  citation-key: HarcoNatIns2009
+  container-title: WL
+  issued:
+    - year: 2009
+      month: 4
+      day: 20
+  jurisdiction: US|North Carolina
+  page: '1065404'
+  publisher: N.C.Super.
+  title: Harco Nat. Ins. Co. v. Grant Thornton, LLC
+  type: legal_case
+  volume: '2009'
 
 - id: Harrington1997
   abstract: >-
@@ -13251,6 +13705,21 @@ references:
   URL: www.jstor.org/stable/43489395
   volume: '28'
 
+- id: HCWRetirementFinancial2015
+  authority: N.C.Super.
+  citation-key: HCWRetirementFinancial2015
+  container-title: WL
+  issued:
+    - year: 2015
+      month: 7
+      day: 14
+  jurisdiction: US|North Carolina
+  page: '4238193'
+  publisher: N.C.Super.
+  title: HCW Retirement and Financial Services, LLC v. HCW Employee Ben. Services LLC
+  type: legal_case
+  volume: '2015'
+
 - id: headBargainingUnitStatus1979
   author:
     - family: Head
@@ -13270,6 +13739,21 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/jle8&i=371
   volume: '8'
+
+- id: HealthManagementAssociates2009
+  authority: N.C.Super.
+  citation-key: HealthManagementAssociates2009
+  container-title: WL
+  issued:
+    - year: 2009
+      month: 6
+      day: 1
+  jurisdiction: US|North Carolina
+  page: '1743828'
+  publisher: N.C.Super.
+  title: Health Management Associates, Inc. v. Yerby
+  type: legal_case
+  volume: '2009'
 
 - id: Healy2019
   author:
@@ -13927,6 +14411,21 @@ references:
   title-short: Nations and Nationalism Since 1780
   type: book
 
+- id: HokeCountyBd2004
+  authority: N.C.
+  citation-key: HokeCountyBd2004
+  container-title: S.E.2d
+  issued:
+    - year: 2004
+      month: 7
+      day: 30
+  jurisdiction: US|North Carolina
+  page: '365'
+  publisher: N.C.
+  title: Hoke County Bd. of Educ. v. State
+  type: legal_case
+  volume: '599'
+
 - id: Holloway1979
   author:
     - family: Holloway
@@ -14014,6 +14513,21 @@ references:
   title: Match.com Used Fake Ads to Swindle Users, F.T.C. Says
   type: article-newspaper
   URL: https://www.nytimes.com/2019/09/25/us/match-com-lawsuit-ftc.html
+
+- id: HomeIndemCo1997
+  authority: N.C.App.
+  citation-key: HomeIndemCo1997
+  container-title: S.E.2d
+  issued:
+    - year: 1997
+      month: 12
+      day: 16
+  jurisdiction: US|North Carolina
+  page: '806'
+  publisher: N.C.App.
+  title: Home Indem. Co. v. Hoechst Celanese Corp.
+  type: legal_case
+  volume: '493'
 
 - id: horwitzTransformationAmericanLaw1994
   author:
@@ -14417,6 +14931,21 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/10.1086/502692
   volume: '112'
+
+- id: JacksonHomeDepot2021
+  authority: N.C.App.
+  citation-key: JacksonHomeDepot2021
+  container-title: S.E.2d
+  issued:
+    - year: 2021
+      month: 4
+      day: 6
+  jurisdiction: US|North Carolina
+  page: '321'
+  publisher: N.C.App.
+  title: Jackson v. Home Depot, U.S.A., Inc.
+  type: legal_case
+  volume: '857'
 
 - id: jacksonLightsCameraPolice2016
   author:
@@ -15107,6 +15636,23 @@ references:
   URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.4
   volume: '4'
 
+- id: JohnstonCountyBoard2018
+  authority: N.C.App.
+  citation-key: JohnstonCountyBoard2018
+  container-title: S.E.2d
+  issued:
+    - year: 2018
+      month: 9
+      day: 18
+  jurisdiction: US|North Carolina
+  page: '922'
+  publisher: N.C.App.
+  title: >-
+    Johnston County Board of Education v. Board of Trustees, Teachers' and State
+    Employees' Retirement System
+  type: legal_case
+  volume: '817'
+
 - id: JonesFordMotor2004
   authority: 2d Cir.
   citation-key: JonesFordMotor2004
@@ -15260,6 +15806,36 @@ references:
   publisher: Lexington Books Lexington, MA
   title: 'Police Unionism: Power and Impact in Public-Sector Bargaining'
   type: book
+
+- id: JustusRosner2018
+  authority: N.C.
+  citation-key: JustusRosner2018
+  container-title: S.E.2d
+  issued:
+    - year: 2018
+      month: 12
+      day: 21
+  jurisdiction: US|North Carolina
+  page: '765'
+  publisher: N.C.
+  title: Justus v. Rosner
+  type: legal_case
+  volume: '821'
+
+- id: JVCEnterprisesLLC2019
+  authority: N.C.App.
+  citation-key: JVCEnterprisesLLC2019
+  container-title: S.E.2d
+  issued:
+    - year: 2019
+      month: 12
+      day: 17
+  jurisdiction: US|North Carolina
+  page: '206'
+  publisher: N.C.App.
+  title: JVC Enterprises, LLC v. City of Concord
+  type: legal_case
+  volume: '837'
 
 - id: Kadens2019
   abstract: >-
@@ -15471,6 +16047,21 @@ references:
   section: 47-1827
   title: Kansas ag-gag
   type: legislation
+
+- id: KaplanProlifeAction1996
+  authority: N.C.App.
+  citation-key: KaplanProlifeAction1996
+  container-title: S.E.2d
+  issued:
+    - year: 1996
+      month: 9
+      day: 17
+  jurisdiction: US|North Carolina
+  page: '247'
+  publisher: N.C.App.
+  title: Kaplan v. Prolife Action League of Greensboro
+  type: legal_case
+  volume: '475'
 
 - id: karlipTragedyGenerationRise2013
   author:
@@ -15950,6 +16541,21 @@ references:
   URL: www.jstor.org/stable/24052189
   volume: '26'
 
+- id: KennedySpeedwayMotorsports2006
+  authority: N.C.App.
+  citation-key: KennedySpeedwayMotorsports2006
+  container-title: S.E.2d
+  issued:
+    - year: 2006
+      month: 7
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '212'
+  publisher: N.C.App.
+  title: Kennedy v. Speedway Motorsports Inc.
+  type: legal_case
+  volume: '631'
+
 - id: kessler-harrisOutWorkHistory2003
   abstract: >-
     First published in 1982, this pioneering work traces the transformation of
@@ -16088,6 +16694,21 @@ references:
   title: King v. Whitmer
   title-short: King
   type: legal_case
+
+- id: KirbyNorthCarolina2016
+  authority: N.C.
+  citation-key: KirbyNorthCarolina2016
+  container-title: S.E.2d
+  issued:
+    - year: 2016
+      month: 6
+      day: 10
+  jurisdiction: US|North Carolina
+  page: '919'
+  publisher: N.C.
+  title: Kirby v. North Carolina Dept. of Transp.
+  type: legal_case
+  volume: '786'
 
 - id: KirkcaldyRichmondCounty2002
   authority: M.D.N.C.
@@ -16875,6 +17496,21 @@ references:
   title-short: A Troublemaker's Handbook
   type: book
 
+- id: LakeStateHealth2014
+  authority: N.C.App.
+  citation-key: LakeStateHealth2014
+  container-title: S.E.2d
+  issued:
+    - year: 2014
+      month: 6
+      day: 17
+  jurisdiction: US|North Carolina
+  page: '268'
+  publisher: N.C.App.
+  title: Lake v. State Health Plan for Teachers and State Employees
+  type: legal_case
+  volume: '760'
+
 - id: lamLifeUndercoverUnion2016
   author:
     - family: Lam
@@ -16936,6 +17572,21 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/43681850
   volume: '116'
+
+- id: LannanBoardGovernors2022
+  authority: N.C.App.
+  citation-key: LannanBoardGovernors2022
+  container-title: S.E.2d
+  issued:
+    - year: 2022
+      month: 10
+      day: 4
+  jurisdiction: US|North Carolina
+  page: '290'
+  publisher: N.C.App.
+  title: Lannan v. Board of Governors of University of North Carolina
+  type: legal_case
+  volume: '879'
 
 - id: LaPiana1986
   author:
@@ -17436,6 +18087,21 @@ references:
   URL: https://doi.org/10.1177/0896920513512695
   volume: '40'
 
+- id: LegalZoomComInc2012
+  authority: N.C.Super.
+  citation-key: LegalZoomComInc2012
+  container-title: WL
+  issued:
+    - year: 2012
+      month: 8
+      day: 27
+  jurisdiction: US|North Carolina
+  page: '3678650'
+  publisher: N.C.Super.
+  title: Legalzoom.Com, Inc. v. North Carolina State Bar
+  type: legal_case
+  volume: '2012'
+
 - id: LehmanRevolutionPortfolio1999
   authority: 1st Cir.
   citation-key: LehmanRevolutionPortfolio1999
@@ -17496,6 +18162,21 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/davlr51&i=667
   volume: '51'
+
+- id: LeiberArboretumJoint2009
+  authority: N.C.Super.
+  citation-key: LeiberArboretumJoint2009
+  container-title: WL
+  issued:
+    - year: 2009
+      month: 7
+      day: 8
+  jurisdiction: US|North Carolina
+  page: '1964971'
+  publisher: N.C.Super.
+  title: Leiber v. Arboretum Joint Venture, LLC
+  type: legal_case
+  volume: '2009'
 
 - id: leonardLifeLeftistLabor1986
   author:
@@ -18184,6 +18865,21 @@ references:
   type: legal_case
   volume: '460'
 
+- id: LockertLockert1994
+  authority: N.C.App.
+  citation-key: LockertLockert1994
+  container-title: S.E.2d
+  issued:
+    - year: 1994
+      month: 8
+      day: 16
+  jurisdiction: US|North Carolina
+  page: '606'
+  publisher: N.C.App.
+  title: Lockert v. Lockert
+  type: legal_case
+  volume: '446'
+
 - id: Lofland1995
   abstract: >-
     In this chapter I will discuss topics and questions important to address in
@@ -18267,6 +18963,21 @@ references:
   source: Zotero
   title: The real effects of household debt in the short and long run
   type: article-journal
+
+- id: LongHammond2004
+  authority: N.C.App.
+  citation-key: LongHammond2004
+  container-title: S.E.2d
+  issued:
+    - year: 2004
+      month: 6
+      day: 1
+  jurisdiction: US|North Carolina
+  page: '839'
+  publisher: N.C.App.
+  title: Long v. Hammond
+  type: legal_case
+  volume: '596'
 
 - id: LongHistoryDebt
   citation-key: LongHistoryDebt
@@ -18688,6 +19399,21 @@ references:
   type: manuscript
   URL: https://papers.ssrn.com/abstract=3431205
 
+- id: LuptonBlueCross2000
+  authority: N.C.App.
+  citation-key: LuptonBlueCross2000
+  container-title: S.E.2d
+  issued:
+    - year: 2000
+      month: 8
+      day: 1
+  jurisdiction: US|North Carolina
+  page: '270'
+  publisher: N.C.App.
+  title: Lupton v. Blue Cross and Blue Shield of North Carolina
+  type: legal_case
+  volume: '533'
+
 - id: lyndLaborLawRank2011
   abstract: "Blending cutting-edge legal strategies for winning justice at work with a theory of dramatic, bottom-up social change, this practical guide to workers’ rights aims to make work better while reinvigorating the labor movement. A powerful organization model called “solidarity unionism” is explained, showing how the labor force can avoid the pitfalls of the legal system and utilize direct action to win fair rights. The new edition includes new cases governing fundamental labor rights\_and can be used not only by union workers, but can serve as a guerrilla legal handbook for any employee in this unstable economy."
   author:
@@ -18900,6 +19626,21 @@ references:
   type: document
   URL: https://libguides.mit.edu/ld.php?content_id=34248570
 
+- id: MancinelliMomentumResearch2012
+  authority: N.C.Super.
+  citation-key: MancinelliMomentumResearch2012
+  container-title: WL
+  issued:
+    - year: 2012
+      month: 1
+      day: 12
+  jurisdiction: US|North Carolina
+  page: '116564'
+  publisher: N.C.Super.
+  title: Mancinelli v. Momentum Research, Inc.
+  type: legal_case
+  volume: '2012'
+
 - id: Maneja1955
   authority: U.S.
   citation-key: Maneja1955
@@ -19039,6 +19780,21 @@ references:
     Law Reform
   type: article-journal
   volume: '44'
+
+- id: MarineLLCAIG2023
+  authority: N.C.App.
+  citation-key: MarineLLCAIG2023
+  container-title: S.E.2d
+  issued:
+    - year: 2023
+      month: 3
+      day: 21
+  jurisdiction: US|North Carolina
+  page: '842'
+  publisher: N.C.App.
+  title: D & B Marine, LLC v. AIG Property Casualty Company
+  type: legal_case
+  volume: '885'
 
 - id: Markovits2019
   abstract: "A revolutionary new argument from eminent Yale Law professor Daniel Markovits attacking the false promise of meritocracy\_It is an axiom of American life that advantage should be earned through ability and effort. Even as the country divides itself at every turn, the meritocratic ideal – that social and economic rewards should follow achievement rather than breeding – reigns supreme.\_ Both Democrats and Republicans insistently repeat meritocratic notions. Meritocracy cuts to the heart of who we are. It sustains the American dream. \_ But what if, both up and down the social ladder, meritocracy is a sham? Today, meritocracy has become exactly what it was conceived to resist: a mechanism for the concentration and dynastic transmission of wealth and privilege across generations. Upward mobility has become a fantasy, and the embattled middle classes are now more likely to sink into the working poor than to rise into the professional elite. At the same time, meritocracy now ensnares even those who manage to claw their way to the top, requiring rich adults to work with crushing intensity, exploiting their expensive educations in order to extract a return. All this is not the result of deviations or retreats from meritocracy but rather stems directly from meritocracy’s successes. \_ This is the radical argument that\_Daniel Markovits prosecutes with rare force. Markovits is well placed to expose the sham of meritocracy. Having spent his life at elite universities, he knows from the inside the corrosive system we are trapped within. Markovits also knows that, if we understand that meritocratic inequality produces near-universal harm, we can cure it. When The Meritocracy Trap reveals the inner workings of the meritocratic machine, it also illuminates the first steps outward, towards a new world that might once again afford dignity and prosperity to the American people."
@@ -20258,6 +21014,21 @@ references:
     https://read.dukeupress.edu/south-atlantic-quarterly/article/112/4/784-803/3689
   volume: '112'
 
+- id: McMillanBlueRidge2021
+  authority: N.C.
+  citation-key: McMillanBlueRidge2021
+  container-title: S.E.2d
+  issued:
+    - year: 2021
+      month: 12
+      day: 17
+  jurisdiction: US|North Carolina
+  page: '700'
+  publisher: N.C.
+  title: McMillan v. Blue Ridge Companies, Inc.
+  type: legal_case
+  volume: '866'
+
 - id: McMullan2002
   abstract: >-
     This article studies law in action as it relates to organized lobster
@@ -20327,6 +21098,21 @@ references:
   title: 'Groundwork: Charles Hamilton Houston and the Struggle for Civil Rights'
   title-short: Groundwork
   type: book
+
+- id: MeherrinIndianTribe2014
+  authority: N.C.App.
+  citation-key: MeherrinIndianTribe2014
+  container-title: S.E.2d
+  issued:
+    - year: 2014
+      month: 3
+      day: 18
+  jurisdiction: US|North Carolina
+  page: '481'
+  publisher: N.C.App.
+  title: Meherrin Indian Tribe v. Lewis
+  type: legal_case
+  volume: '758'
 
 - id: Melucci1995
   abstract: >-
@@ -21020,6 +21806,36 @@ references:
   title: 'Rebuilding Labor: Organizing and Organizers in the New Union Movement'
   title-short: Rebuilding Labor
   type: book
+
+- id: MillerLongInc2011
+  authority: N.C.Super.
+  citation-key: MillerLongInc2011
+  container-title: WL
+  issued:
+    - year: 2011
+      month: 6
+      day: 21
+  jurisdiction: US|North Carolina
+  page: '2519545'
+  publisher: N.C.Super.
+  title: Miller & Long, Inc. v. Intracoastal Living LLC
+  type: legal_case
+  volume: '2011'
+
+- id: MillerLongInc2011a
+  authority: N.C.Super.
+  citation-key: MillerLongInc2011a
+  container-title: WL
+  issued:
+    - year: 2011
+      month: 6
+      day: 21
+  jurisdiction: US|North Carolina
+  page: '2519543'
+  publisher: N.C.Super.
+  title: Miller & Long, Inc. v. Intracoastal Living LLC
+  type: legal_case
+  volume: '2011'
 
 - id: millerMotherJonesLabor2006
   abstract: >-
@@ -22080,6 +22896,21 @@ references:
   type: article-journal
   volume: '62'
 
+- id: NewtonBarth2016
+  authority: N.C.App.
+  citation-key: NewtonBarth2016
+  container-title: S.E.2d
+  issued:
+    - year: 2016
+      month: 7
+      day: 19
+  jurisdiction: US|North Carolina
+  page: '653'
+  publisher: N.C.App.
+  title: Newton v. Barth
+  type: legal_case
+  volume: '788'
+
 - id: nielsenOrganizationPublicInterest2006
   author:
     - family: Nielsen
@@ -22257,6 +23088,36 @@ references:
   title: Institutions, Institutional Change and Economic Performance
   type: book
 
+- id: NorthCarolinaEx2022
+  authority: N.C.App.
+  citation-key: NorthCarolinaEx2022
+  container-title: S.E.2d
+  issued:
+    - year: 2022
+      month: 12
+      day: 20
+  jurisdiction: US|North Carolina
+  page: '660'
+  publisher: N.C.App.
+  title: North Carolina ex rel. Expert Discovery, LLC v. AT&T Corp.
+  type: legal_case
+  volume: '882'
+
+- id: NorthCarolinaTrust1998
+  authority: N.C.App.
+  citation-key: NorthCarolinaTrust1998
+  container-title: S.E.2d
+  issued:
+    - year: 1998
+      month: 12
+      day: 15
+  jurisdiction: US|North Carolina
+  page: '809'
+  publisher: N.C.App.
+  title: North Carolina Trust Co. v. Taylor
+  type: legal_case
+  volume: '508'
+
 - id: NorthDakotaAgGag1991
   citation-key: NorthDakotaAgGag1991
   container-title: ND Cent. Code
@@ -22271,6 +23132,21 @@ references:
   title: Notepad++
   type: webpage
   URL: https://notepad-plus-plus.org/
+
+- id: NovoNordiskPharmaceutical2008
+  authority: N.C.Super.
+  citation-key: NovoNordiskPharmaceutical2008
+  container-title: WL
+  issued:
+    - year: 2008
+      month: 9
+      day: 15
+  jurisdiction: US|North Carolina
+  page: '4234091'
+  publisher: N.C.Super.
+  title: Novo Nordisk Pharmaceutical Industries, Inc. v. Carolina Power & Light Co.
+  type: legal_case
+  volume: '2008'
 
 - id: NowakMajorLeague2015
   authority: E.D. Pa.
@@ -22618,6 +23494,36 @@ references:
   URL: >-
     https://columbialawreview.org/content/borrowing-equality-dispossession-and-the-need-for-an-abolitionist-approach-to-survival-debt/
   volume: '120'
+
+- id: OrionProcessing2015
+  authority: N.C.Super.
+  citation-key: OrionProcessing2015
+  container-title: WL
+  issued:
+    - year: 2015
+      month: 11
+      day: 9
+  jurisdiction: US|North Carolina
+  page: '6951967'
+  publisher: N.C.Super.
+  title: State ex rel. Cooper v. Orion Processing LLC
+  type: legal_case
+  volume: '2015'
+
+- id: OrionProcessing2016
+  authority: N.C.Super.
+  citation-key: OrionProcessing2016
+  container-title: WL
+  issued:
+    - year: 2016
+      month: 12
+      day: 20
+  jurisdiction: US|North Carolina
+  page: '7435679'
+  publisher: N.C.Super.
+  title: State ex rel. Cooper v. Orion Processing, LLC
+  type: legal_case
+  volume: '2016'
 
 - id: orleckCommonSenseLittle1995
   abstract: >-
@@ -23178,7 +24084,6 @@ references:
     - year: 2018
       month: 6
       day: 5
-  jurisdiction: us
   number: 17-1669
   page: '122'
   references: reversing 259 F.Supp. 3d 369 (M.D.N.C. 2017)
@@ -24356,6 +25261,66 @@ references:
   URL: https://www.jstor.org/stable/24718405
   volume: '22'
 
+- id: ReeseCharlottemecklenburgBd2009
+  authority: N.C.App.
+  citation-key: ReeseCharlottemecklenburgBd2009
+  container-title: S.E.2d
+  issued:
+    - year: 2009
+      month: 5
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '481'
+  publisher: N.C.App.
+  title: Reese v. Charlotte-Mecklenburg Bd. of Educ.
+  type: legal_case
+  volume: '676'
+
+- id: ReeseCityCharlotte2009
+  authority: N.C.App.
+  citation-key: ReeseCityCharlotte2009
+  container-title: S.E.2d
+  issued:
+    - year: 2009
+      month: 5
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '493'
+  publisher: N.C.App.
+  title: Reese v. City of Charlotte
+  type: legal_case
+  volume: '676'
+
+- id: ReeseMecklenburgCounty2009
+  authority: N.C.App.
+  citation-key: ReeseMecklenburgCounty2009
+  container-title: S.E.2d
+  issued:
+    - year: 2009
+      month: 11
+      day: 3
+  jurisdiction: US|North Carolina
+  page: '34'
+  publisher: N.C.App.
+  title: Reese v. Mecklenburg County
+  type: legal_case
+  volume: '685'
+
+- id: ReEstateMills2014
+  authority: N.C.App.
+  citation-key: ReEstateMills2014
+  container-title: S.E.2d
+  issued:
+    - year: 2014
+      month: 9
+      day: 2
+  jurisdiction: US|North Carolina
+  page: '122'
+  publisher: N.C.App.
+  title: In Re Estate of Mills
+  type: legal_case
+  volume: '765'
+
 - id: reganTonackMontanaBank1995
   author:
     - family: Regan
@@ -24410,6 +25375,36 @@ references:
   title: 'The Blue-Coated Worker: A Sociological Study of Police Unionism'
   type: book
 
+- id: RePedestrianWalkway2005
+  authority: N.C.App.
+  citation-key: RePedestrianWalkway2005
+  container-title: S.E.2d
+  issued:
+    - year: 2005
+      month: 9
+      day: 20
+  jurisdiction: US|North Carolina
+  page: '819'
+  publisher: N.C.App.
+  title: In Re Pedestrian Walkway Failure
+  type: legal_case
+  volume: '618'
+
+- id: RePedestrianWalkway2005a
+  authority: N.C.App.
+  citation-key: RePedestrianWalkway2005a
+  container-title: S.E.2d
+  issued:
+    - year: 2005
+      month: 9
+      day: 20
+  jurisdiction: US|North Carolina
+  page: '796'
+  publisher: N.C.App.
+  title: In Re Pedestrian Walkway Failure
+  type: legal_case
+  volume: '618'
+
 - id: researchStoryJewishLabor1998
   author:
     - family: Research
@@ -24424,6 +25419,66 @@ references:
   source: Amazon
   title: The Story of the Jewish Labor Bund, 1897-1997; A Centennial Exhibition
   type: book
+
+- id: ReSenergy2000
+  authority: N.C.Super.
+  citation-key: ReSenergy2000
+  container-title: WL
+  issued:
+    - year: 2000
+      month: 5
+      day: 17
+  jurisdiction: US|North Carolina
+  page: '33954581'
+  publisher: N.C.Super.
+  title: In Re Senergy, Inc.
+  type: legal_case
+  volume: '2000'
+
+- id: ReSenergyInc1999
+  authority: N.C.Super.
+  citation-key: ReSenergyInc1999
+  container-title: WL
+  issued:
+    - year: 1999
+      month: 7
+      day: 14
+  jurisdiction: US|North Carolina
+  page: '33563728'
+  publisher: N.C.Super.
+  title: In Re Senergy, Inc.
+  type: legal_case
+  volume: '1999'
+
+- id: ReSoutheasternEye2016
+  authority: N.C.Super.
+  citation-key: ReSoutheasternEye2016
+  container-title: WL
+  issued:
+    - year: 2016
+      month: 7
+      day: 22
+  jurisdiction: US|North Carolina
+  page: '4163928'
+  publisher: N.C.Super.
+  title: In Re Southeastern Eye Center-Pending Matters
+  type: legal_case
+  volume: '2016'
+
+- id: ReSoutheasternEye2017
+  authority: N.C.Super.
+  citation-key: ReSoutheasternEye2017
+  container-title: WL
+  issued:
+    - year: 2017
+      month: 5
+      day: 4
+  jurisdiction: US|North Carolina
+  page: '1838420'
+  publisher: N.C.Super.
+  title: In Re Southeastern Eye Center-Judgments
+  type: legal_case
+  volume: '2017'
 
 - id: ressl-moyerMovementLawyeringCrisis2021
   author:
@@ -24535,6 +25590,21 @@ references:
   URL: https://doi.org/10.1080/00221546.1996.11774819
   volume: '67'
 
+- id: RichardsonBankAmerica2007
+  authority: N.C.App.
+  citation-key: RichardsonBankAmerica2007
+  container-title: S.E.2d
+  issued:
+    - year: 2007
+      month: 4
+      day: 17
+  jurisdiction: US|North Carolina
+  page: '410'
+  publisher: N.C.App.
+  title: Richardson v. Bank of America, N.A.
+  type: legal_case
+  volume: '643'
+
 - id: rickfordBlackLivesMatter2016
   author:
     - family: Rickford
@@ -24613,6 +25683,36 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/388419473
   volume: '46'
+
+- id: RJMPlumbingInc2011
+  authority: N.C.Super.
+  citation-key: RJMPlumbingInc2011
+  container-title: WL
+  issued:
+    - year: 2011
+      month: 6
+      day: 21
+  jurisdiction: US|North Carolina
+  page: '2519547'
+  publisher: N.C.Super.
+  title: RJM Plumbing, Inc. v. Superior Const. Corp.
+  type: legal_case
+  volume: '2011'
+
+- id: RobertsonSterisCorp2014
+  authority: N.C.App.
+  citation-key: RobertsonSterisCorp2014
+  container-title: S.E.2d
+  issued:
+    - year: 2014
+      month: 7
+      day: 1
+  jurisdiction: US|North Carolina
+  page: '313'
+  publisher: N.C.App.
+  title: Robertson v. Steris Corp.
+  type: legal_case
+  volume: '760'
 
 - id: robinsonFirstDecadeJudicial1996
   author:
@@ -25045,6 +26145,21 @@ references:
   type: article-journal
   volume: '48'
 
+- id: RuffParexInc1999
+  authority: N.C.Super.
+  citation-key: RuffParexInc1999
+  container-title: WL
+  issued:
+    - year: 1999
+      month: 6
+      day: 16
+  jurisdiction: US|North Carolina
+  page: '33563729'
+  publisher: N.C.Super.
+  title: Ruff v. Parex, Inc.
+  type: legal_case
+  volume: '1999'
+
 - id: rushinUsingDataReduce2016
   author:
     - family: Rushin
@@ -25371,6 +26486,21 @@ references:
   title: Sanderson Farms, Inc. v. NLRB
   type: legal_case
   volume: '335'
+
+- id: SandersStatePersonnel2009
+  authority: N.C.App.
+  citation-key: SandersStatePersonnel2009
+  container-title: S.E.2d
+  issued:
+    - year: 2009
+      month: 6
+      day: 2
+  jurisdiction: US|North Carolina
+  page: '182'
+  publisher: N.C.App.
+  title: Sanders v. State Personnel Com'n
+  type: legal_case
+  volume: '677'
 
 - id: SandyLakeBand2013
   authority: 8th Cir.
@@ -26361,6 +27491,21 @@ references:
   URL: >-
     https://www.nytimes.com/2015/11/02/business/dealbook/in-arbitration-a-privatization-of-the-justice-system.html
 
+- id: SilverHalifaxCounty2017
+  authority: N.C.App.
+  citation-key: SilverHalifaxCounty2017
+  container-title: S.E.2d
+  issued:
+    - year: 2017
+      month: 9
+      day: 19
+  jurisdiction: US|North Carolina
+  page: '320'
+  publisher: N.C.App.
+  title: Silver v. Halifax County Board of Commissioners
+  type: legal_case
+  volume: '805'
+
 - id: silvermanWorldProcessor2014
   author:
     - family: Silverman
@@ -26693,6 +27838,36 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/27734694
   volume: '88'
+
+- id: SmithLewis2012
+  authority: N.C.Super.
+  citation-key: SmithLewis2012
+  container-title: WL
+  issued:
+    - year: 2012
+      month: 1
+      day: 27
+  jurisdiction: US|North Carolina
+  page: '256551'
+  publisher: N.C.Super.
+  title: Smith v. Lewis
+  type: legal_case
+  volume: '2012'
+
+- id: SmithSmith2020
+  authority: N.C.App.
+  citation-key: SmithSmith2020
+  container-title: S.E.2d
+  issued:
+    - year: 2020
+      month: 7
+      day: 21
+  jurisdiction: US|North Carolina
+  page: '819'
+  publisher: N.C.App.
+  title: Smith v. Smith
+  type: legal_case
+  volume: '846'
 
 - id: Snow1986
   abstract: >-
@@ -27128,6 +28303,51 @@ references:
   type: legal_case
   volume: '963'
 
+- id: StateExRel2007
+  authority: N.C.Super.
+  citation-key: StateExRel2007
+  container-title: WL
+  issued:
+    - year: 2007
+      month: 7
+      day: 19
+  jurisdiction: US|North Carolina
+  page: '2570249'
+  publisher: N.C.Super.
+  title: State ex rel. Cooper v. McClure
+  type: legal_case
+  volume: '2007'
+
+- id: StateExRel2017
+  authority: N.C.Super.
+  citation-key: StateExRel2017
+  container-title: WL
+  issued:
+    - year: 2017
+      month: 3
+      day: 7
+  jurisdiction: US|North Carolina
+  page: '939317'
+  publisher: N.C.Super.
+  title: State ex rel. Cooper v. Orion Processing, LLC
+  type: legal_case
+  volume: '2017'
+
+- id: StateKinstonCharter2019
+  authority: N.C.App.
+  citation-key: StateKinstonCharter2019
+  container-title: S.E.2d
+  issued:
+    - year: 2019
+      month: 12
+      day: 3
+  jurisdiction: US|North Carolina
+  page: '330'
+  publisher: N.C.App.
+  title: State v. Kinston Charter Academy
+  type: legal_case
+  volume: '836'
+
 - id: steinmanLegitimizingAmericanIndian2014
   abstract: >-
     On August 4, 1989, 25 federally recognized Washington tribes and the state
@@ -27389,6 +28609,21 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/24052226
   volume: '27'
+
+- id: StoneState2008
+  authority: N.C.App.
+  citation-key: StoneState2008
+  container-title: S.E.2d
+  issued:
+    - year: 2008
+      month: 8
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '32'
+  publisher: N.C.App.
+  title: Stone v. State
+  type: legal_case
+  volume: '664'
 
 - id: StoutVincent2018
   authority: 5th Cir.
@@ -28240,6 +29475,21 @@ references:
   title-short: Race for Profit
   type: book
 
+- id: TaylorBankAmerica2021
+  authority: N.C.App.
+  citation-key: TaylorBankAmerica2021
+  container-title: S.E.2d
+  issued:
+    - year: 2021
+      month: 10
+      day: 5
+  jurisdiction: US|North Carolina
+  page: '326'
+  publisher: N.C.App.
+  title: Taylor v. Bank of America, N.A.
+  type: legal_case
+  volume: '863'
+
 - id: Tejani2017
   abstract: >-
     After the 2008 global financial crisis, US law schools suffered a steep drop
@@ -28820,6 +30070,36 @@ references:
   title-short: The Debt System
   type: book
 
+- id: TownBelhavenNC2016
+  authority: N.C.App.
+  citation-key: TownBelhavenNC2016
+  container-title: S.E.2d
+  issued:
+    - year: 2016
+      month: 11
+      day: 15
+  jurisdiction: US|North Carolina
+  page: '711'
+  publisher: N.C.App.
+  title: Town of Belhaven, NC v. Pantego Creek LLC
+  type: legal_case
+  volume: '793'
+
+- id: TownBelvilleUrban2017
+  authority: N.C.App.
+  citation-key: TownBelvilleUrban2017
+  container-title: S.E.2d
+  issued:
+    - year: 2017
+      month: 2
+      day: 21
+  jurisdiction: US|North Carolina
+  page: '817'
+  publisher: N.C.App.
+  title: Town of Belville v. Urban Smart Growth, LLC
+  type: legal_case
+  volume: '796'
+
 - id: Townsend2023
   abstract: >-
     The US workplace is a private dictatorship where bosses exercise
@@ -28844,6 +30124,36 @@ references:
   type: webpage
   URL: >-
     https://jacobin.com/2023/05/american-labor-movement-decline-salting-union-organizing/
+
+- id: TravcoHotelsInc1991
+  authority: N.C.App.
+  citation-key: TravcoHotelsInc1991
+  container-title: S.E.2d
+  issued:
+    - year: 1991
+      month: 5
+      day: 7
+  jurisdiction: US|North Carolina
+  page: '593'
+  publisher: N.C.App.
+  title: Travco Hotels, Inc. v. Piedmont Natural Gas Co.
+  type: legal_case
+  volume: '403'
+
+- id: TravcoHotelsInc1992
+  authority: N.C.
+  citation-key: TravcoHotelsInc1992
+  container-title: S.E.2d
+  issued:
+    - year: 1992
+      month: 9
+      day: 4
+  jurisdiction: US|North Carolina
+  page: '426'
+  publisher: N.C.
+  title: Travco Hotels, Inc. v. Piedmont Natural Gas Co.
+  type: legal_case
+  volume: '420'
 
 - id: Trentmann2009
   abstract: >-
@@ -28983,6 +30293,21 @@ references:
     Century to the Twenty-First
   title-short: Empire of Things
   type: book
+
+- id: TrilliumRidgeCondominium2014
+  authority: N.C.App.
+  citation-key: TrilliumRidgeCondominium2014
+  container-title: S.E.2d
+  issued:
+    - year: 2014
+      month: 9
+      day: 16
+  jurisdiction: US|North Carolina
+  page: '203'
+  publisher: N.C.App.
+  title: Trillium Ridge Condominium Ass'n, Inc. v. Trillium Links & Village, LLC
+  type: legal_case
+  volume: '764'
 
 - id: TriplePlaySports2014-NLRB
   authority: N.L.R.B.
@@ -29327,6 +30652,23 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/kjpp29&i=362
   volume: '29'
 
+- id: UnionCountyBoard2018
+  authority: N.C.App.
+  citation-key: UnionCountyBoard2018
+  container-title: S.E.2d
+  issued:
+    - year: 2018
+      month: 9
+      day: 18
+  jurisdiction: US|North Carolina
+  page: '924'
+  publisher: N.C.App.
+  title: >-
+    Union County Board of Education v. Board of Trustees, Teachers' and State
+    Employees' Retirement System
+  type: legal_case
+  volume: '817'
+
 - id: UnitedMineWorkers1966
   authority: supreme.court
   citation-key: UnitedMineWorkers1966
@@ -29339,6 +30681,21 @@ references:
   title: United Mine Workers of America v. Gibbs
   type: legal_case
   volume: '383'
+
+- id: UnitedServicesAuto1997
+  authority: N.C.App.
+  citation-key: UnitedServicesAuto1997
+  container-title: S.E.2d
+  issued:
+    - year: 1997
+      month: 6
+      day: 3
+  jurisdiction: US|North Carolina
+  page: '337'
+  publisher: N.C.App.
+  title: United Services Auto. Ass'n v. Simpson
+  type: legal_case
+  volume: '485'
 
 - id: UtahAgGag2012
   chapter-number: '2012'
@@ -29481,6 +30838,21 @@ references:
   type: article-journal
   volume: '16'
 
+- id: VanceConstCo1997
+  authority: N.C.App.
+  citation-key: VanceConstCo1997
+  container-title: S.E.2d
+  issued:
+    - year: 1997
+      month: 10
+      day: 7
+  jurisdiction: US|North Carolina
+  page: '588'
+  publisher: N.C.App.
+  title: Vance Const. Co., Inc. v. Duane White Land Corp.
+  type: legal_case
+  volume: '490'
+
 - id: Vanderlin_nd
   abstract: >-
     Learn how to use Zotero (a free citation management tool) to organize your
@@ -29607,6 +30979,21 @@ references:
   URL: >-
     https://www.vice.com/en/article/7xap54/north-carolinas-ag-gag-law-might-be-the-worst-in-the-nation
 
+- id: VizantTechnologiesLLC2020
+  authority: N.C.
+  citation-key: VizantTechnologiesLLC2020
+  container-title: S.E.2d
+  issued:
+    - year: 2020
+      month: 2
+      day: 28
+  jurisdiction: US|North Carolina
+  page: '616'
+  publisher: N.C.
+  title: Vizant Technologies, LLC v. YRC Worldwide, Inc.
+  type: legal_case
+  volume: '838'
+
 - id: Vukovic2016
   author:
     - family: Vuković
@@ -29630,6 +31017,36 @@ references:
   type: article-journal
   URL: https://www.ceeol.com/search/article-detail?id=425987
   volume: '58'
+
+- id: WachoviaBankNat2009
+  authority: N.C.App.
+  citation-key: WachoviaBankNat2009
+  container-title: S.E.2d
+  issued:
+    - year: 2009
+      month: 12
+      day: 22
+  jurisdiction: US|North Carolina
+  page: '487'
+  publisher: N.C.App.
+  title: Wachovia Bank, N.A. v. Harbinger Capital Partners Master Fund I, Ltd.
+  type: legal_case
+  volume: '687'
+
+- id: WachoviaBankNat2010
+  authority: N.C.Super.
+  citation-key: WachoviaBankNat2010
+  container-title: WL
+  issued:
+    - year: 2010
+      month: 4
+      day: 23
+  jurisdiction: US|North Carolina
+  page: '1655494'
+  publisher: N.C.Super.
+  title: Wachovia Bank, N.A. v. Superior Const. Corp.
+  type: legal_case
+  volume: '2010'
 
 - id: Wagner2004
   abstract: >-
@@ -29824,6 +31241,21 @@ references:
   title-short: Washington Aluminum
   type: legal_case
   volume: '370'
+
+- id: WatkinsNorthCarolina1990
+  authority: N.C.
+  citation-key: WatkinsNorthCarolina1990
+  container-title: S.E.2d
+  issued:
+    - year: 1990
+      month: 9
+      day: 25
+  jurisdiction: US|North Carolina
+  page: '78'
+  publisher: N.C.
+  title: Watkins v. North Carolina Hazardous Waste Management Com'n Granville County
+  type: legal_case
+  volume: '397'
 
 - id: wearsWhoEmployerTriangular2012
   author:
@@ -30059,7 +31491,6 @@ references:
   container-title: F.3d
   issued:
     - year: 2017
-  jurisdiction: us
   page: '1189'
   title: Western Watersheds Project v. Michael
   title-short: Western Watersheds (10th Cir)
@@ -30221,6 +31652,23 @@ references:
   publisher: Boston Book Company
   title: The Judicial Function
   type: chapter
+
+- id: WilkesCountyBoard2018
+  authority: N.C.App.
+  citation-key: WilkesCountyBoard2018
+  container-title: S.E.2d
+  issued:
+    - year: 2018
+      month: 9
+      day: 18
+  jurisdiction: US|North Carolina
+  page: '202'
+  publisher: N.C.App.
+  title: >-
+    Wilkes County Board of Education v. Board of Trustees, Teachers' and State
+    Employees' Retirement System
+  type: legal_case
+  volume: '818'
 
 - id: willemezPoliticalProfessionalCommitmentFrench2005
   author:
