@@ -644,6 +644,55 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.16
 
+- id: Aidinlis2019
+  abstract: >-
+    In Nobody’s Law (2018), Marc Hertogh introduced the notion of legal
+    alienation as part of a ‘secular’ approach to legal consciousness, i.e. one
+    that does not assume law’s hegemonic power in everyday life. This approach
+    has been criticised, with it being suggested that it does not refute claims
+    about law’s hegemonic power but partly explains resistance to it. I argue
+    here that critical discussion of legal alienation is hampered by the
+    employment of different definitions of the ‘legal’ in legal consciousness
+    studies: from legality as an ongoing social structure to positive/State law.
+    Using the example of administrative justice studies, I demonstrate that this
+    definitional divergence results in confusion about the role of law as a
+    variable in legal consciousness research designs. Is the law what is to be
+    explained, or does the law explain another outcome? In the interest of
+    achieving meaningful and clear analytical constructions of the ‘legal’ in
+    this context, I argue that legal consciousness and legal alienation are
+    concepts that shall be conceived as embodying two different conceptions:
+    ‘identification/non-identification’ and ‘relevance/irrelevance to
+    behaviours, processes or outcomes’. Acknowledging this conceptual
+    distinction is integral to bridging the theoretical and methodological
+    divide between social-scientific and legal approaches to legal consciousness
+    research.
+  accessed:
+    - year: 2023
+      month: 11
+      day: 12
+  author:
+    - family: Aidinlis
+      given: Stergios
+  citation-key: Aidinlis2019
+  container-title: Journal of Social Welfare and Family Law
+  DOI: 10.1080/09649069.2019.1663024
+  ISSN: 0964-9069
+  issue: '4'
+  issued:
+    - year: 2019
+      month: 10
+      day: 2
+  page: 495-513
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Defining the ‘legal’: two conceptions of legal consciousness and legal
+    alienation in administrative justice research
+  title-short: Defining the ‘legal’
+  type: article-journal
+  URL: https://doi.org/10.1080/09649069.2019.1663024
+  volume: '41'
+
 - id: AlabamaAgGag-2002
   citation-key: AlabamaAgGag-2002
   container-title: Ala. Code
@@ -1993,6 +2042,7 @@ references:
     - year: 2021
       month: 5
       day: 3
+  jurisdiction: 002usUnited States|US
   page: No. 121
   title: AT&T Mobility, LLC
   type: legal_case
@@ -6311,6 +6361,30 @@ references:
   type: legal_case
   volume: '2016'
 
+- id: Conley1990
+  abstract: >-
+    In Rules versus Relationships, John M. Conley and William M. O’Barr examine
+    the experiences of litigants seeking redress of everyday difficulties
+    through the small claims courts of the American legal system. The authors
+    find two major and contrasting ways in which litigants formulate and express
+    their problems in terms of specific rule violations and seek concrete legal
+    remedies that would mend soured relationships and respond to their personal
+    and social needs.
+  author:
+    - family: Conley
+      given: John M.
+    - family: O'Barr
+      given: William M.
+  citation-key: Conley1990
+  event-place: Chicago
+  issued:
+    - year: 1990
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: 'Rules versus Relationships: the Ethnography of Legal Discourse'
+  type: book
+
 - id: contiGoodCaseDecisions2014
   abstract: >-
     This article examines the decision to initiate litigation in the dispute
@@ -8927,6 +9001,40 @@ references:
     Captains of Consciousness: Advertising and the Social Roots of the Consumer
     Culture, 25th Anniversary Edition
   title-short: Captains of Consciousness
+  type: book
+
+- id: Ewick1998
+  abstract: >-
+    Why do some people not hesitate to call the police to quiet a barking dog in
+    the middle of the night, while others accept the pain and losses associated
+    with defective products, unsuccesful surgery, and discrimination? Patricia
+    Ewick and Susan Silbey collected accounts of the law from more than four
+    hundred people of diverse backgrounds in order to explore the different ways
+    that people use and experience it. Their fascinating and original study
+    identifies three common narratives of law that are captured in the stories
+    people tell. One narrative is based on an idea of the law as magisterial and
+    remote. Another views the law as a game with rules that can be manipulated
+    to one’s advantage. A third narrative describes the law as an arbitrary
+    power that is actively resisted. Drawing on these extensive case studies,
+    Ewick and Silbey present individual experiences interwoven with an analysis
+    that charts a coherent and compelling theory of legality. A groundbreaking
+    study of law and narrative, The Common Place of Law depicts the institution
+    as it is lived: strange and familiar, imperfect and ordinary, and at the
+    center of daily life.
+  author:
+    - family: Ewick
+      given: Patricia
+    - family: Silbey
+      given: Susan S.
+  citation-key: Ewick1998
+  event-place: Chicago
+  issued:
+    - year: 1998
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: 'The Common Place of Law: Stories from Everyday Life'
+  title-short: Common Place of Law
   type: book
 
 - id: Ewing1988
@@ -13290,6 +13398,33 @@ references:
   URL: https://www.jstor.org/stable/4121181
   volume: '47'
 
+- id: Halliday2019
+  accessed:
+    - year: 2023
+      month: 11
+      day: 12
+  author:
+    - family: Halliday
+      given: Simon
+  citation-key: Halliday2019
+  container-title: Social & Legal Studies
+  DOI: 10.1177/0964663919869739
+  ISSN: 0964-6639
+  issue: '6'
+  issued:
+    - year: 2019
+      month: 12
+      day: 1
+  language: en
+  page: 859-878
+  publisher: SAGE Publications Ltd
+  source: SAGE Journals
+  title: 'After Hegemony: The Varieties of Legal Consciousness Research'
+  title-short: After Hegemony
+  type: article-journal
+  URL: https://doi.org/10.1177/0964663919869739
+  volume: '28'
+
 - id: HamiltonMortgageInformation2011
   authority: N.C.App.
   citation-key: HamiltonMortgageInformation2011
@@ -14153,6 +14288,31 @@ references:
     https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/how-employers-recruit-their-workers-into-politicsand-why-political-scientists-should-care/778AD469C15C4100DB0C29DB8C858C4B
   volume: '14'
 
+- id: Hertogh2018
+  abstract: >-
+    The first book to examine the erosion of legal legitimacy in everyday life.
+    Unlike previous studies on legal consciousness, it does not illustrate the
+    'hegemony' of law but rather the 'progressive divorce of law from the
+    consciousness of citizens'. Also, building on previous studies, this study
+    will introduce the concept of 'legal alienation'.
+  author:
+    - family: Hertogh
+      given: Marc
+  citation-key: Hertogh2018
+  event-place: London
+  ISBN: 978-1-137-60397-5
+  issued:
+    - year: 2018
+      month: 6
+      day: 14
+  language: en
+  number-of-pages: '222'
+  publisher: Palgrave Macmillan
+  publisher-place: London
+  title: 'Nobody''s Law: Legal Consciousness and Legal Alienation in Everyday Life'
+  title-short: Nobody's Law
+  type: book
+
 - id: HertzCorpFriend2010
   authority: supreme.court
   citation-key: HertzCorpFriend2010
@@ -14528,6 +14688,58 @@ references:
   title: Home Indem. Co. v. Hoechst Celanese Corp.
   type: legal_case
   volume: '493'
+
+- id: Horak2021
+  abstract: >-
+    This article reports on a conducted systematic review focused on
+    conceptualization and measurement methods of legal consciousness, which can
+    be understood as the equivalent for the legitimacy of law. A systematic
+    search identified 2,054 articles, resulting in the inclusion of 156 relevant
+    articles after two phases of the screening process. Articles analyzed lacked
+    a clear conceptualization of a legal consciousness construct and validated
+    methods of its measurement with satisfactory quality. A considerable room
+    for improvement was found for both conceptualization and measurement methods
+    of legal consciousness. This review identifies six separate components of
+    legal consciousness (general knowledge, skills, specific knowledge,
+    attitudes, trust, and identity) and offers a unifying and comprehensive
+    definition of legal consciousness based on those components. Using
+    descriptive characteristics and inference statistics, main methodological
+    weaknesses of selected articles were discussed and a set of criteria for
+    optimal measurement method of legal consciousness was introduced.
+  accessed:
+    - year: 2023
+      month: 11
+      day: 12
+  author:
+    - family: Horák
+      given: Filip
+    - family: Lacko
+      given: David
+    - family: Klocek
+      given: Adam
+  citation-key: Horak2021
+  container-title: Anuario de Psicologia Juridica
+  container-title-short: Anuario de Psicología Jurídica
+  DOI: 10.5093/apj2021a2
+  ISSN: 1133-0740
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 1
+      day: 14
+  language: en
+  license: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es_ES
+  page: 9-34
+  publisher: Colegio Oficial de Psicologos de Madrid (copmadrid)
+  section: research-article
+  source: journals.copmadrid.org
+  title: >-
+    Legal Consciousness: A Systematic Review of its Conceptualization and
+    Measurement Methods1
+  title-short: Legal Consciousness
+  type: article-journal
+  URL: https://journals.copmadrid.org/apj/art/apj2021a2
+  volume: '31'
 
 - id: horwitzTransformationAmericanLaw1994
   author:
@@ -21195,6 +21407,44 @@ references:
   URL: >-
     https://www.washingtonpost.com/business/2019/08/07/zombie-debt-how-collectors-trick-consumers-into-reviving-dead-debts/
 
+- id: Merry1990
+  abstract: >-
+    Ordinary Americans often bring family and neighborhood problems to court,
+    seeking justice or revenge. The litigants in these local squabbles encounter
+    law at its boundaries in the corridors of busy city courthouses, in the
+    offices of court clerks, and in the church parlors used by mediation
+    programs. Getting Justice and Getting Even concerns the legal consciousness
+    of working class Americans and their experiences with court and mediation.
+    Following cases into and through the courts, Sally Engle Merry provides an
+    ethnographic study of local law and of the people who use it in a New
+    England city. The litigants, primarily white, native-born, and working
+    class, go to court because as part of mainstream America they feel entitled
+    to use its legal system. Although neither powerful nor highly educated, they
+    expect the law’s support when they face intolerable infringements of their
+    rights, privacy, and safety. Yet as personal problems enter the legal system
+    and move through mediation sessions, clerk’s hearings, and prosecutor’s
+    conferences, the citizen plaintiff rapidly loses control of the process.
+    Court officials and mediators interpret and characterize the meaning of
+    these experiences, reframing and categorizing them in different discourses.
+    Some plaintiffs yield to these interpretations, but others resist,
+    struggling to assert their own version of the problem. Ultimately, Merry
+    exposes the paradox of legal entitlement. While going to court allows an
+    individual to dominate domestic relationships, the litigant must
+    increasingly yield control of the situation to the court that supplies that
+    power.
+  author:
+    - family: Merry
+      given: Sally Engle
+  citation-key: Merry1990
+  event-place: Chicago
+  issued:
+    - year: 1990
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: Getting Justice and Getting Even
+  type: book
+
 - id: merryRightsReligionCommunity2014
   abstract: >-
     As concern about gender violence mounts globally, it is increasingly viewed
@@ -22441,6 +22691,7 @@ references:
     - year: 2020
       month: 7
       day: 24
+  jurisdiction: 002usUnited States|US
   page: No. 132
   title: Motor City Pawn Brokers, Inc.
   type: legal_case
@@ -22840,6 +23091,51 @@ references:
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=662384
   volume: '54'
 
+- id: Nelson2023
+  abstract: >-
+    An unprecedented account of social stratification within the US legal
+    profession. How do race, class, gender, and law school status condition the
+    career trajectories of lawyers? And how do professionals then navigate these
+    parameters? The Making of Lawyers’ Careers provides an unprecedented account
+    of the last two decades of the legal profession in the US, offering a
+    data-backed look at the structure of the profession and the inequalities
+    that early-career lawyers face across race, gender, and class distinctions.
+    Starting in 2000, the authors collected over 10,000 survey responses from
+    more than 5,000 lawyers, following these lawyers through the first twenty
+    years of their careers. They also interviewed more than two hundred lawyers
+    and drew insights from their individual stories, contextualizing data with
+    theory and close attention to the features of a market-driven legal
+    profession.  Their findings show that lawyers’ careers both reflect and
+    reproduce inequalities within society writ large. They also reveal how
+    individuals exercise agency despite these constraints.
+  author:
+    - family: Nelson
+      given: Robert L.
+    - family: Dinovitzer
+      given: Ronit
+    - family: Garth
+      given: Bryant
+    - family: Sterling
+      given: Joyce
+    - family: Wilkins
+      given: David B.
+    - family: Dawe
+      given: Meghan
+    - family: Michelson
+      given: Ethan
+  citation-key: Nelson2023
+  event-place: Chicago
+  issued:
+    - year: 2023
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  source: press.uchicago.edu
+  title: >-
+    The Making of Lawyers’ Careers: Inequality and Opportunity in the American
+    Legal Profession
+  type: book
+
 - id: newmanInformationWorkflowAcademic2013
   abstract: >-
     Digital journals have been widely adopted by academic researchers and have
@@ -22910,6 +23206,53 @@ references:
   title: Newton v. Barth
   type: legal_case
   volume: '788'
+
+- id: Nielsen2000
+  abstract: >-
+    The legal consciousness of ordinary citizens concerning offensive public
+    speech is a phenomenon whose legal status has been vigorously debated, but
+    which has received little empirical analysis. Drawing on observations in
+    public spaces in three northern California communities and in-depth
+    interviews with 100 subjects recruited from these public locations, I
+    analyze variation across race and gender groups in experiences with
+    offensive public speech and attitudes about how such speech should be dealt
+    with by law. Among these respondents, white women and people of color are
+    far more likely than white men to report being the targets of offensive
+    public speech. However, white women and people of color are not
+    significantly more likely than white men to favor its legal regulation.
+    Respondents generally oppose the legal regulation of offensive public
+    speech, but they employ different discourses to explain why. Subjects' own
+    words suggest four relatively distinct paradigms that emphasize the First
+    Amendment, autonomy, impracticality, and distrust of authority. Members of
+    different racial and gender groups tend to use different discourses. These
+    differences suggest that the legal consciousness of ordinary citizens is not
+    a unitary phenomenon, but must be situated in relation to particular types
+    of laws, particular social hierarchies, and the experiences of different
+    groups with the law.
+  accessed:
+    - year: 2023
+      month: 11
+      day: 12
+  author:
+    - family: Nielsen
+      given: Laura Beth
+  citation-key: Nielsen2000
+  container-title: Law & Society Review
+  DOI: 10.2307/3115131
+  ISSN: 0023-9216
+  issue: '4'
+  issued:
+    - year: 2000
+  page: 1055-1090
+  publisher: '[Wiley, Law and Society Association]'
+  source: JSTOR
+  title: >-
+    Situating Legal Consciousness: Experiences and Attitudes of Ordinary
+    Citizens about Law and Street Harassment
+  title-short: Situating Legal Consciousness
+  type: article-journal
+  URL: https://www.jstor.org/stable/3115131
+  volume: '34'
 
 - id: nielsenOrganizationPublicInterest2006
   author:
@@ -25321,6 +25664,24 @@ references:
   type: legal_case
   volume: '765'
 
+- id: Regan2021
+  abstract: "The Great Recession intensified large law firms’ emphasis on financial performance, leading to claims that lawyers in these firms were now guided by business rather than professional values.\_ Based on interviews with more than 250 partners in large firms, Mitt Regan and Lisa H. Rohrer suggest that the reality is much more complex. It is true that large firm hiring, promotion, compensation, and termination policies are more influenced by business considerations than ever before and that firms actively recruit profitable partners from other firms to replace those they regard as unproductive. At the same time, law firm partners continue to seek the non-financial rewards of being members of a distinct profession and are sensitive to whether their firms are committed to providing them. Regan and Rohrer argue that modern firms responding effectively to business demands while credibly affirming the importance of non-financial professional values can create strong cultures that enhance their ability to weather the storms of the modern legal market."
+  author:
+    - family: Regan
+      given: Mitt
+    - family: Rohrer
+      given: Lisa H.
+  citation-key: Regan2021
+  event-place: Chicago
+  issued:
+    - year: 2021
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  source: press.uchicago.edu
+  title: BigLaw
+  type: book
+
 - id: reganTonackMontanaBank1995
   author:
     - family: Regan
@@ -27432,6 +27793,82 @@ references:
   URL: https://doi.org/10.1177/0022185617705684
   volume: '59'
 
+- id: Silbey2005
+  abstract: >-
+    Legal consciousness as a theoretical concept and topic of empirical research
+    developed to address issues of legal hegemony, particularly how the law
+    sustains its institutional power despite a persistent gap between the law on
+    the books and the law in action. Why do people acquiesce to a legal system
+    that, despite its promises of equal treatment, systematically reproduces
+    inequality? Recent studies have both broadened and narrowed the concept's
+    reach, while sacrificing much of the concept's critical edge and theoretical
+    utility. Rather than explaining how the different experiences of law become
+    synthesized into a set of circulating schemas and habits, the literature
+    tracks what particular individuals think and do. Because the relationships
+    among consciousness and processes of ideology and hegemony often go
+    unexplained, legal consciousness as an analytic concept is domesticated
+    within what appear to be policy projects: making specific laws work better
+    for particular groups or interests.
+  accessed:
+    - year: 2023
+      month: 11
+      day: 12
+  author:
+    - family: Silbey
+      given: Susan S.
+  citation-key: Silbey2005
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev.lawsocsci.1.041604.115938
+  issue: '1'
+  issued:
+    - year: 2005
+  page: 323-368
+  source: Annual Reviews
+  title: After Legal Consciousness
+  type: article-journal
+  URL: https://doi.org/10.1146/annurev.lawsocsci.1.041604.115938
+  volume: '1'
+
+- id: Silbey2019
+  abstract: >-
+    Susan Silbey began her academic training in political science and in the
+    course of her studies became a sociologist of law, the last two decades as a
+    member of the Massachusetts Institute of Technology's anthropology
+    department and management school. The disciplinary transformations ground,
+    in part, her attention to the ways in which the everyday life of scholarship
+    has led her to study the everyday life of the law. In this article, she
+    describes her scholarly life through seven chapters of relatively distinct
+    challenges and themes. Across the arc of her life, she identifies the
+    recurrent influence of both serendipity and theoretical inference acting
+    within the immediate constraints of family and personal capacity. Reading
+    across descriptions of her work on regulatory enforcement, dispute
+    negotiation and mediation, and popular legal culture and consciousness, she
+    points to the necessity of reconciling on-the-ground vicissitudes of doing
+    legal work with the theories and narratives social scientists construct to
+    make sense of institutions and history. She muses on theoretical attempts to
+    align the particular and the general, the micro and macro forces working in
+    legal cultures, and concludes by celebrating the ubiquity of social ordering
+    whose own momentum both seduces and frustrates social scientists.
+  accessed:
+    - year: 2023
+      month: 11
+      day: 12
+  author:
+    - family: Silbey
+      given: Susan S.
+  citation-key: Silbey2019
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev-lawsocsci-110316-113326
+  issue: '1'
+  issued:
+    - year: 2019
+  page: 1-18
+  source: Annual Reviews
+  title: The Every Day Work of Studying the Law in Everyday Life
+  type: article-journal
+  URL: https://doi.org/10.1146/annurev-lawsocsci-110316-113326
+  volume: '15'
+
 - id: Silver-Greenberg2015
   abstract: >-
     With a clause in complex contracts that few people read, corporations have
@@ -27538,6 +27975,46 @@ references:
   title-short: Mobile Legal Research
   type: article-journal
   URL: https://scholarship.richmond.edu/law-faculty-publications/1117
+
+- id: Skapska2023
+  abstract: >-
+    On the basis of a nationwide survey conducted in 2020, this article strives
+    to answer questions concerning
+
+    the legal consciousness of contemporary Poles. Above all, it aims to
+    establish whether the law is of value
+
+    in Polish society—used as a tool for the resolution of conflicts, protection
+    of...
+  accessed:
+    - year: 2023
+      month: 11
+      day: 12
+  author:
+    - family: Skąpska
+      given: Grażyna
+    - family: Radomska
+      given: Ewa
+    - family: Wróbel
+      given: Marcin
+  citation-key: Skapska2023
+  container-title: Polish Sociological Review
+  container-title-short: Polish Sociological Review
+  DOI: 10.26412/psr223.01
+  ISSN: 1231-1413, 2657-4276
+  issue: '3'
+  issued:
+    - year: 2023
+      month: 9
+      day: 27
+  language: english
+  page: 289-318
+  source: polish-sociological-review.eu
+  title: The Inconsistent, Everyday Legal Consciousness of Contemporary Poles
+  type: article-journal
+  URL: >-
+    https://polish-sociological-review.eu/-The-Inconsistent-Everyday-Legal-Consciousness-nof-Contemporary-Poles-,172987,0,2.html
+  volume: '223'
 
 - id: Skocpol1979
   abstract: >-
@@ -28121,6 +28598,27 @@ references:
   title: Southern Pacific Co. v. Jensen
   type: legal_case
   volume: '244'
+
+- id: Southworth2008
+  abstract: "A timely and multifaceted portrait of the lawyers who serve the diverse constituencies of the conservative movement, Lawyers of the Right explains what unites and divides lawyers for the three major groups—social conservatives, libertarians, and business advocates—that have coalesced in recent decades behind the Republican Party.\_ \_\_\_\_\_\_\_\_\_\_\_ Drawing on in-depth interviews with more than seventy lawyers who represent conservative and libertarian nonprofit organizations, Ann Southworth explores their values and identities and traces the implications of their shared interest in promoting political strategies that give lawyers leading roles. She goes on to illuminate the function of mediator organizations—such as the Heritage Foundation and the Federalist Society for Law and Public Policy—that have succeeded in promoting cooperation among different factions of conservative lawyers. Such cooperation, she finds, has aided efforts to drive law and the legal profession politically rightward and to give lawyers greater prominence in the conservative movement. Southworth concludes, though, that tensions between the conservative law movement’s elite and populist elements may ultimately lead to its undoing."
+  accessed:
+    - year: 2023
+      month: 11
+      day: 12
+  author:
+    - family: Southworth
+      given: Ann
+  citation-key: Southworth2008
+  event-place: Chicago
+  issued:
+    - year: 2008
+  language: en
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  source: press.uchicago.edu
+  title: Lawyers of the Right
+  type: book
+  URL: https://press.uchicago.edu/ucp/books/book/chicago/L/bo5928619.html
 
 - id: southworthProfessionalIdentityPolitical2005
   author:
