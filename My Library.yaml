@@ -29745,6 +29745,28 @@ references:
   title: The Capitalist State and the Politics of Class
   type: book
 
+- id: TacklingProblemCaptive_nd
+  abstract: >-
+    Political and religious coercion in the workplace is a growing problem
+    affecting workers from all backgrounds and across the political spectrum.
+    U.S. employers have tremendous power over worker conduct under current
+    federal laws. For example, employers can require workers to attend “captive
+    audience” meetings—and force employees to listen to political, religious, or
+    anti-union employer views—on…
+  accessed:
+    - year: 2023
+      month: 11
+      day: 20
+  citation-key: TacklingProblemCaptive_nd
+  container-title: Economic Policy Institute
+  language: en-US
+  title: >-
+    Tackling the problem of ‘captive audience’ meetings: How states are stepping
+    up to protect workers’ rights and freedoms
+  title-short: Tackling the problem of ‘captive audience’ meetings
+  type: webpage
+  URL: https://www.epi.org/blog/captive-audience-meetings/
+
 - id: tahirViolenceWorkPolice2019
   author:
     - family: Tahir
