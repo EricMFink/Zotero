@@ -746,11 +746,11 @@ references:
   URL: http://www.jstor.org/stable/24545700
   volume: '39'
 
-- id: albistonRuleLawLitigation2014
+- id: Albiston2014a
   author:
     - family: Albiston
       given: Catherine
-  citation-key: albistonRuleLawLitigation2014
+  citation-key: Albiston2014a
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -759,7 +759,6 @@ references:
       given: Patrick
   issued:
     - year: 2014
-  note: 'Select: zotero://select/library/items/L6SA9LGJ'
   page: 16-23
   publisher: NYU Press
   title: 'The Rule of Law and the Litigation Process: The Paradox of Losing by Winning'
@@ -1393,6 +1392,18 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/ylr126&i=12
   volume: '126'
 
+- id: AnimalLeagueDefense2023
+  authority: Dist. Court
+  citation-key: AnimalLeagueDefense2023
+  issued:
+    - year: 2023
+      month: 3
+      day: 31
+  jurisdiction: ED Arkansas
+  number: 4:19cv00442 JM
+  title: Animal League Defense Fund v. Peco Foods, Inc.
+  type: legal_case
+
 - id: animalwelfareinstitute2022
   accessed:
     - year: 2023
@@ -1686,6 +1697,7 @@ references:
 - id: ArkansasLabelingInc-EDArk
   authority: E.D. Ark.
   citation-key: ArkansasLabelingInc-EDArk
+  jurisdiction: us
   note: complaint filed Jan. 6, 2020
   number: 4:19-cv-00773-KGB
   title: Arkansas Labeling, Inc. v. Proctor
@@ -1969,9 +1981,6 @@ references:
   issue: '1'
   issued:
     - year: 2013
-  note: >-
-    sync1:0037{"extrafields":{"publisher":"Wiley"}}Citation Key:
-    ashiagborIntroductionMovingEconomic2013
   page: 1-6
   publisher: Wiley
   source: JSTOR
@@ -3145,6 +3154,43 @@ references:
   type: legal_case
   volume: '808'
 
+- id: Best2018
+  abstract: >-
+    The SAGE Handbook of Frankfurt School Critical Theory expounds the
+    development of critical theory from its founding thinkers to its
+    contemporary formulations in an interdisciplinary setting. It maps the
+    terrain of a critical social theory, expounding its distinctive character
+    vis-a-vis alternative theoretical perspectives, exploring its theoretical
+    foundations and developments, conceptualising its subject matters both past
+    and present, and signalling its possible future in a time of great
+    uncertainty. Taking a distinctively theoretical, interdisciplinary,
+    international and contemporary perspective on the topic, this wide-ranging
+    collection of chapters is arranged thematically over three volumes:   Volume
+    I: Key Texts and Contributions to a Critical Theory of Society  Volume II:
+    Themes  Volume III: Contexts   This Handbook is essential reading for
+    scholars and students in the field, showcasing the scholarly rigor,
+    intellectual acuteness and negative force of critical social theory, past
+    and present.
+  author:
+    - family: Best
+      given: Beverley
+    - family: Bonefeld
+      given: Werner
+    - family: O′Kane
+      given: Chris
+  citation-key: Best2018
+  ISBN: 978-1-5264-5562-8
+  issued:
+    - year: 2018
+      month: 6
+      day: 4
+  language: en
+  number-of-pages: '2920'
+  publisher: SAGE
+  source: Google Books
+  title: The SAGE Handbook of Frankfurt School Critical Theory
+  type: book
+
 - id: BethIsraelHospital1978
   authority: Supreme Court
   citation-key: BethIsraelHospital1978
@@ -4051,6 +4097,44 @@ references:
   URL: http://doi.acm.org/10.1145/2723872.2723882
   volume: '49'
 
+- id: Bonefeld2014
+  abstract: >-
+    The Nazi ideologue Arthur Rosenberg formulated the essence of modern
+    antisemitism succinctly when he portrayed it as an attack on communism,
+    Bolshevism, and “Jewish capitalism,” by which he and his fellow antisemites,
+    then and now, understand a capitalism not of productive labor and industry
+    but of parasites: money and finance, speculators and bankers.¹  There is of
+    course a difference between the antisemitism that culminated in Auschwitz
+    and the antisemitism of the post-1945 world. However, whether antisemitism
+    persists because of or despite Auschwitz is ultimately an idle question. The
+    terms *despite* and *because* give credence to the notion that Auschwitz,
+    this
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Bonefeld
+      given: Werner
+  citation-key: Bonefeld2014
+  container-title: Antisemitism and the Constitution of Sociology
+  DOI: 10.2307/j.ctt1d9nnbd.16
+  editor:
+    - family: Stoetzler
+      given: Marcel
+  ISBN: 978-0-8032-4864-9
+  issued:
+    - year: 2014
+  page: 314-332
+  publisher: University of Nebraska Press
+  source: JSTOR
+  title: >-
+    Antisemitism and the Power of Abstraction: From Political Economy to
+    Critical Theory
+  title-short: Antisemitism and the Power of Abstraction
+  type: chapter
+  URL: https://www.jstor.org/stable/j.ctt1d9nnbd.16
+
 - id: Bonefeld2019
   abstract: >-
     The paper argues that the critique of modern antisemitism is fundamentally a
@@ -4088,6 +4172,20 @@ references:
   type: article-journal
   URL: >-
     https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=sih&AN=144213342&site=ehost-live
+  volume: '9'
+
+- id: Bonefeld2019a
+  author:
+    - family: Bonefeld
+      given: Werner
+  citation-key: Bonefeld2019a
+  container-title: Journal of Social Justice
+  issued:
+    - year: 2019
+  title: >-
+    Critical Theory and the Critique of Antisemitism: On Society as Economic
+    Object
+  type: article-journal
   volume: '9'
 
 - id: borisFeminismLaborMovements2011
@@ -8375,6 +8473,7 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 1978
+  jurisdiction: us
   page: '776'
   references: enfd. 634 F.2d 635 (9th Cir. 1980)
   title: East Belden Corp.
@@ -9494,6 +9593,23 @@ references:
   title-short: Legal Blame
   type: book
 
+- id: Feinberg2018
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Feinberg
+      given: Joseph Grim
+  citation-key: Feinberg2018
+  container-title: Kontrradikce/Contradictions
+  issued:
+    - year: 2018
+      month: 3
+  title: 'Moishe Postone: Anticapitalism without Shortcuts'
+  type: webpage
+  URL: https://kontradikce.flu.cas.cz/en/online-content/146
+
 - id: feinmanDevelopmentEmploymentatWillRule1991
   author:
     - family: Feinman
@@ -10055,6 +10171,41 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.10
   volume: '4'
+
+- id: Fine2014
+  abstract: >-
+    Two views prevail concerning Karl Marx’s alleged antisemitism. The
+    disparaging view is that Marx, notwithstanding his Jewish origins, was
+    himself an antisemite *avant la lettre* or at least made use of antisemitic
+    tropes and reproduced antisemitic stereotypes in his own work. This view is
+    present among some commentators on Marx and firmly entrenched among students
+    of modern antisemitism.¹ It is based in particular on a reading of the
+    second of Marx’s two 1843 essays, “On the Jewish Question,” where he appears
+    to link Judaism to huckstering and global financial power and to equate
+    human emancipation with emancipation of society from
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Fine
+      given: Robert
+  citation-key: Fine2014
+  container-title: Antisemitism and the Constitution of Sociology
+  DOI: 10.2307/j.ctt1d9nnbd.9
+  editor:
+    - family: Stoetzler
+      given: Marcel
+  ISBN: 978-0-8032-4864-9
+  issued:
+    - year: 2014
+  page: 137-159
+  publisher: University of Nebraska Press
+  source: JSTOR
+  title: 'Rereading Marx on the “Jewish Question”: Marx as a Critic of Antisemitism?'
+  title-short: Rereading Marx on the “Jewish Question”
+  type: chapter
+  URL: https://www.jstor.org/stable/j.ctt1d9nnbd.9
 
 - id: Fink2001
   author:
@@ -15351,6 +15502,31 @@ references:
   title-short: The Jews and the Frankfurt School
   type: article-journal
   URL: http://www.jstor.org/stable/487976
+
+- id: Jay1980a
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Jay
+      given: Martin
+  citation-key: Jay1980a
+  container-title: New German Critique
+  DOI: 10.2307/487976
+  ISSN: 0094-033X
+  issue: '19'
+  issued:
+    - year: 1980
+  page: 137-149
+  publisher: '[New German Critique, Duke University Press]'
+  source: JSTOR
+  title: >-
+    The Jews and the Frankfurt School: Critical Theory's Analysis of
+    Anti-Semitism
+  title-short: The Jews and the Frankfurt School
+  type: article-journal
+  URL: https://www.jstor.org/stable/487976
 
 - id: Jekyll_nd
   citation-key: Jekyll_nd
@@ -21760,6 +21936,7 @@ references:
   container-title: F. 3d
   issued:
     - literal: 'Submitted: September 19, 2016'
+  jurisdiction: 002usUnited States|US
   note: >-
     Select: zotero://select/library/items/24CHPMJM
 
@@ -22301,6 +22478,7 @@ references:
   container-title: F.2d
   issued:
     - year: 1953
+  jurisdiction: us
   page: '927'
   title: NLRB v. Monterey County B. & C. Trades Council
   type: legal_case
@@ -22508,6 +22686,41 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.53
 
+- id: Morelock2018
+  abstract: >-
+    After President Trump’s election, BREXIT and the widespread rise of
+    far-Right political parties, much public discussion has intensely focused on
+    populism and authoritarianism. In the middle of the twentieth century,
+    members of the early Frankfurt School prolifically studied and theorized
+    fascism and anti-Semitism in Germany and the United States. In this volume,
+    leading European and American scholars apply insights from the early
+    Frankfurt School to present-day authoritarian populism, including the Trump
+    phenomenon and related developments across the globe. Chapters are arranged
+    into three sections exploring different aspects of the topic: theories,
+    historical foundations, and manifestations via social media. Contributions
+    examine the vital political, psychological and anthropological theories of
+    early Frankfurt School thinkers, and how their insights could be applied now
+    amidst the insecurities and confusions of twenty-first century life. The
+    many theorists considered include Adorno, Fromm, Löwenthal and Marcuse,
+    alongside analysis of Austrian Facebook pages and Trump’s tweets and
+    operatic media drama. This book is a major contribution towards deeper
+    understanding of populism’s resurgence in the age of digital capitalism.
+  author:
+    - family: Morelock
+      given: Jeremiah
+  citation-key: Morelock2018
+  ISBN: 978-1-912656-05-9
+  issued:
+    - year: 2018
+      month: 12
+      day: 17
+  language: en
+  number-of-pages: '299'
+  publisher: University of Westminster Press
+  source: Google Books
+  title: Critical Theory and Authoritarian Populism
+  type: book
+
 - id: MorganCorp2022
   authority: NLRB
   citation-key: MorganCorp2022
@@ -22521,6 +22734,44 @@ references:
   title: Morgan Corp.
   type: legal_case
   volume: '371'
+
+- id: Morris-Reich2014
+  abstract: >-
+    This essay delineates three responses to antisemitism by social scientists
+    of Jewish descent: Georg Simmel (1858–1918), one of the founders of academic
+    sociology; Franz Boas (1858–1942), the founder of American cultural
+    anthropology; and Arthur Ruppin (1876–1943), the founder of Jewish sociology
+    and demography. Simmel and Boas were both staunch supporters of Jewish
+    assimilation; Ruppin, a prominent Zionist leader, was an opponent of
+    assimilation. All three thinkers recognized the reality of modern
+    antisemitism and viewed it as a set of cognitive and social practices that
+    were irreducible to Christian animosity toward Jews. Their responses to
+    antisemitism diverge, though,
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Morris-Reich
+      given: Amos
+  citation-key: Morris-Reich2014
+  container-title: Antisemitism and the Constitution of Sociology
+  DOI: 10.2307/j.ctt1d9nnbd.10
+  editor:
+    - family: Stoetzler
+      given: Marcel
+  ISBN: 978-0-8032-4864-9
+  issued:
+    - year: 2014
+  page: 160-182
+  publisher: University of Nebraska Press
+  source: JSTOR
+  title: >-
+    From Assimilationist Antiracism to Zionist Anti-antisemitism: Georg Simmel,
+    Franz Boas, and Arthur Ruppin
+  title-short: From Assimilationist Antiracism to Zionist Anti-antisemitism
+  type: chapter
+  URL: https://www.jstor.org/stable/j.ctt1d9nnbd.10
 
 - id: morrisHowNationalLabor2012
   abstract: >-
@@ -23466,6 +23717,7 @@ references:
   container-title: ND Cent. Code
   issued:
     - year: 1991
+  jurisdiction: us
   section: 12.1-21.1-01
   title: ND ag-gag
   type: legislation
@@ -24406,6 +24658,18 @@ references:
   title-short: Revolt Against Regulation
   type: book
 
+- id: PetaNorthCarolina2021
+  authority: Court of Appeals, 4th Circuit
+  citation-key: PetaNorthCarolina2021
+  container-title: F. 4th
+  issued:
+    - literal: 'Argued: October 27, 2021'
+  jurisdiction: 002usUnited States|US
+  page: '815'
+  title: Peta v. North Carolina Farm Bureau Federation
+  type: legal_case
+  volume: '60'
+
 - id: PETAvStein2017-MDNC
   authority: M.D.N.C.
   citation-key: PETAvStein2017-MDNC
@@ -24454,6 +24718,7 @@ references:
     - year: 2023
       month: 2
       day: 23
+  jurisdiction: us
   number: 20-1776
   title: People for the Ethical Treatment of Animals v. Stein
   type: legal_case
@@ -25208,6 +25473,116 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/487974
 
+- id: Postone1980a
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Postone
+      given: Moishe
+  citation-key: Postone1980a
+  container-title: New German Critique
+  DOI: 10.2307/487974
+  ISSN: 0094-033X
+  issue: '19'
+  issued:
+    - year: 1980
+  page: 97-115
+  publisher: '[New German Critique, Duke University Press]'
+  source: JSTOR
+  title: >-
+    Anti-Semitism and National Socialism: Notes on the German Reaction to
+    "Holocaust"
+  title-short: Anti-Semitism and National Socialism
+  type: article-journal
+  URL: https://www.jstor.org/stable/487974
+
+- id: Postone1982
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Postone
+      given: Moishe
+    - family: Brick
+      given: Barbara
+  citation-key: Postone1982
+  container-title: Theory and Society
+  ISSN: 0304-2421
+  issue: '5'
+  issued:
+    - year: 1982
+  page: 617-658
+  publisher: Springer
+  source: JSTOR
+  title: Critical Pessimism and the Limits of Traditional Marxism
+  type: article-journal
+  URL: https://www.jstor.org/stable/657342
+  volume: '11'
+
+- id: Postone2005
+  abstract: >-
+    The far-reaching historical transformations of recent decades, including the
+    decline of the Keynesian/Fordist organization of polity and economy in the
+    West, the collapse of party-state command economies in the East, and the
+    emergence of a neo-liberal capitalist global order, suggest that
+    contemporary critical theory must be centrally concerned with historical
+    dynamics and large-scale structural changes. The paper argues that these
+    broad developments can best be apprehended by a theory premised on the
+    Marxian theory of capital, but only if that category is fundamentally
+    reconceptualized in ways that distinguish it from its usage in traditional
+    Marxist interpretations.
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Postone
+      given: Moishe
+  citation-key: Postone2005
+  container-title: International Journal of Politics, Culture, and Society
+  ISSN: 0891-4486
+  issue: 1/2
+  issued:
+    - year: 2005
+  page: 69-79
+  publisher: Springer
+  source: JSTOR
+  title: Critical Social Theory and the Contemporary World
+  type: article-journal
+  URL: https://www.jstor.org/stable/20059695
+  volume: '19'
+
+- id: Postone2006
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Postone
+      given: Moishe
+  citation-key: Postone2006
+  container-title: Public Culture
+  container-title-short: Public Culture
+  DOI: 10.1215/08992363-18-1-93
+  ISSN: 0899-2363
+  issue: '1'
+  issued:
+    - year: 2006
+      month: 1
+      day: 1
+  page: 93-110
+  source: Silverchair
+  title: >-
+    History and Helplessness: Mass Mobilization and Contemporary Forms of
+    Anticapitalism
+  title-short: History and Helplessness
+  type: article-journal
+  URL: https://doi.org/10.1215/08992363-18-1-93
+  volume: '18'
+
 - id: Poulantzas2000
   abstract: >-
     Developing themes of his earlier works, Poulantzas here advances a vigorous
@@ -25735,36 +26110,6 @@ references:
   publisher: Cambridge University Press Cambridge
   title: 'The Blue-Coated Worker: A Sociological Study of Police Unionism'
   type: book
-
-- id: RePedestrianWalkway2005
-  authority: N.C.App.
-  citation-key: RePedestrianWalkway2005
-  container-title: S.E.2d
-  issued:
-    - year: 2005
-      month: 9
-      day: 20
-  jurisdiction: US|North Carolina
-  page: '819'
-  publisher: N.C.App.
-  title: In Re Pedestrian Walkway Failure
-  type: legal_case
-  volume: '618'
-
-- id: RePedestrianWalkway2005a
-  authority: N.C.App.
-  citation-key: RePedestrianWalkway2005a
-  container-title: S.E.2d
-  issued:
-    - year: 2005
-      month: 9
-      day: 20
-  jurisdiction: US|North Carolina
-  page: '796'
-  publisher: N.C.App.
-  title: In Re Pedestrian Walkway Failure
-  type: legal_case
-  volume: '618'
 
 - id: researchStoryJewishLabor1998
   author:
@@ -28896,6 +29241,21 @@ references:
   type: legal_case
   volume: '356'
 
+- id: StericycleInc2023
+  authority: NLRB
+  citation-key: StericycleInc2023
+  container-title: NLRB
+  issued:
+    - year: 2023
+      month: 8
+      day: 2
+  jurisdiction: 002usUnited States|US
+  number: 04-CA-137660, 04-CA-145466, 04-CA-158277, 04-CA-160621
+  page: No. 113
+  title: Stericycle, Inc.
+  type: legal_case
+  volume: '372'
+
 - id: sterkRestraintsAlienationHuman1993
   author:
     - family: Sterk
@@ -28989,6 +29349,111 @@ references:
   title: Implementing Reproducible Research
   type: book
 
+- id: Stoetzler2014
+  abstract: >-
+    In this chapter I begin by arguing that in the very text that constitutes
+    one of the finest moments of classical sociology’s commitment and struggle
+    for progressive, liberal society, Durkheim’s 1898 intervention in the
+    Dreyfus affair, “Individualism and the Intellectuals,” ambivalences are
+    operative that undermine this commitment and point instead to contradictions
+    at the heart of modernity itself. Then I turn to another canonical text and
+    argue that Max Weber wrote *The Protestant Ethic and the Spirit of
+    Capitalism* as a pro-capitalist challenge to German nationalist
+    denunciations of the capitalist, or the American spirit, as mere
+    utilitarianism, while maintaining intact
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Stoetzler
+      given: Marcel
+  citation-key: Stoetzler2014
+  container-title: Antisemitism and the Constitution of Sociology
+  DOI: 10.2307/j.ctt1d9nnbd.6
+  editor:
+    - family: Stoetzler
+      given: Marcel
+  ISBN: 978-0-8032-4864-9
+  issued:
+    - year: 2014
+  page: 66-89
+  publisher: University of Nebraska Press
+  source: JSTOR
+  title: >-
+    Sociology’s Case for a Well-Tempered Modernity: Individualism, Capitalism,
+    and the Antisemitic Challenge
+  title-short: Sociology’s Case for a Well-Tempered Modernity
+  type: chapter
+  URL: https://www.jstor.org/stable/j.ctt1d9nnbd.6
+
+- id: Stoetzler2014a
+  abstract: >-
+    Thinking develops in the engagement with an object.¹ However, although
+    thinking is always about an issue, the concepts that are developed in the
+    process do not necessarily name that object or issue.  One of the principal
+    issues that served as the catalysts around which European (or “Western”)
+    modern social and political thought evolved in the long nineteenth century
+    was the question of Jewish emancipation, and after emancipation was
+    achieved, the question of whether, how, or to what extent it ought to be
+    revoked. These were the two incarnations of “the Jewish question” that
+    centered in either form on discussing Jewish
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Stoetzler
+      given: Marcel
+  citation-key: Stoetzler2014a
+  container-title: Antisemitism and the Constitution of Sociology
+  DOI: 10.2307/j.ctt1d9nnbd.4
+  editor:
+    - family: Stoetzler
+      given: Marcel
+  ISBN: 978-0-8032-4864-9
+  issued:
+    - year: 2014
+  page: 1-42
+  publisher: University of Nebraska Press
+  source: JSTOR
+  title: 'Introduction: The Theory of Society Talks Back to Its Travesty'
+  title-short: Introduction
+  type: chapter
+  URL: https://www.jstor.org/stable/j.ctt1d9nnbd.4
+
+- id: Stoetzler2018
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Stoetzler
+      given: Marcel
+  citation-key: Stoetzler2018
+  container-author:
+    - family: Best
+      given: Beverley
+    - family: Bonefeld
+      given: Werner
+    - family: O’Kane
+      given: Chris
+  container-title: The SAGE Handbook of Frankfurt School Critical Theory
+  DOI: 10.4135/9781526436122.n89
+  event-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  ISBN: 978-1-4739-5334-5 978-1-5264-3612-2
+  issued:
+    - year: 2018
+  language: en
+  page: 1467-1486
+  publisher: SAGE Publications Ltd
+  publisher-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
+  source: Crossref
+  title: Critical Theory and the Critique of Anti-Imperialism
+  type: chapter
+  URL: >-
+    https://sk.sagepub.com/reference/the-sage-handbook-of-frankfurt-school-critical-theory/i12503.xml
+
 - id: Stoetzler2019
   abstract: >-
     This essay aims to contribute to a better understanding of the concept of
@@ -29025,6 +29490,46 @@ references:
   URL: >-
     https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=sih&AN=144213340&site=ehost-live
   volume: '9'
+
+- id: Stoetzler2023
+  abstract: >-
+    This volume provides a systematic re-examination of the Frankfurt School's
+    theory of antisemitism and, employing this critical theory, investigates the
+    presence of antisemitism in 20th- and 21st-century politics and society. 
+    Critical Theory and the Critique of Antisemitism uncovers how critical
+    theory differs from mainstream socialist or liberal critiques of
+    antisemitism, as it frames its rejection of antisemitism in the critique of
+    other aspects of modern capitalist society, which traditional theories leave
+    unchallenged or critique only in passing. Amongst others, these include
+    issues of identity, nation, race, and sexuality. In exploring the Frankfurt
+    School's writings on antisemitism therefore, the chapters in this book
+    reveal connections to other pressing societal issues, such as racism more
+    broadly, patriarchy, statism, and the societal dynamics of the ever-evolving
+    capitalist mode of production.  Putting the theory to practice, this volume
+    brings together interdisciplinary scholars and activists who employ critical
+    theory to scrutinise right- and left-wing manifestations of antisemitism.
+    They develop, in their critique of antisemitism, a critique of capitalism,
+    as the authors ask: why does modern capitalist society seem bound to produce
+    antisemitism? And how do we challenge it?  At a time when the rise of
+    populism internationally has brought with it new strains of antisemitism,
+    this is an essential resource that demonstrates the continuing relevance of
+    the critical theory of the Frankfurt School for the struggle against
+    antisemitism today.
+  author:
+    - family: Stoetzler
+      given: Marcel
+  citation-key: Stoetzler2023
+  ISBN: 978-1-350-28139-4
+  issued:
+    - year: 2023
+      month: 11
+      day: 16
+  language: en
+  number-of-pages: '469'
+  publisher: Bloomsbury Publishing
+  source: Google Books
+  title: Critical Theory and the Critique of Antisemitism
+  type: book
 
 - id: stohrWorkflowAutomationOverview2001
   abstract: >-
@@ -33216,6 +33721,43 @@ references:
   type: article-journal
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/hypa.12401
   volume: '33'
+
+- id: Ziege2014
+  abstract: >-
+    Recent years have seen a major reassessment of the forced migration of the
+    1930s and 1940s to the United States with regard to the history of the
+    sciences and humanities. Mitchell G. Ash aptly phrased this reappraisal a
+    scientific innovation through forced migration. This was not a new concept.
+    The social scientist Paul Lazarsfeld, himself an émigré from Austria in the
+    1930s and a major figure in the innovation of the social sciences, stated as
+    an autobiographical and, as it were, autosociological observation that
+    innovation can often be traced back to individuals who belong to two worlds
+    while belonging to
+  accessed:
+    - year: 2023
+      month: 12
+      day: 18
+  author:
+    - family: Ziege
+      given: Eva-Maria
+  citation-key: Ziege2014
+  container-title: Antisemitism and the Constitution of Sociology
+  DOI: 10.2307/j.ctt1d9nnbd.14
+  editor:
+    - family: Stoetzler
+      given: Marcel
+  ISBN: 978-0-8032-4864-9
+  issued:
+    - year: 2014
+  page: 274-295
+  publisher: University of Nebraska Press
+  source: JSTOR
+  title: >-
+    The Irrationality of the Rational: The Frankfurt School and Its Theory of
+    Society in the 1940s
+  title-short: The Irrationality of the Rational
+  type: chapter
+  URL: https://www.jstor.org/stable/j.ctt1d9nnbd.14
 
 - id: ZielinskiPhiladelphiaPiers1956
   authority: E.D. Pa.
