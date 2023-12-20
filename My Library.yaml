@@ -6102,6 +6102,24 @@ references:
   title: The State Debate
   type: book
 
+- id: Classon2014
+  author:
+    - family: Classon
+      given: Sarah
+  citation-key: Classon2014
+  genre: Master of Liberal Studies
+  issued:
+    - year: 2014
+      month: 4
+      day: 1
+  publisher: Rollins College
+  title: >-
+    Kafka’s Identity Crisis: Examining The Metamorphosis as a Response to
+    Anti-Semitism and Assimilation in Turn-of-the-Century Europe
+  title-short: Kafka’s Identity Crisis
+  type: thesis
+  URL: https://scholarship.rollins.edu/mls/50
+
 - id: ClaytonAntitrustAct1914
   abstract: C
   citation-key: ClaytonAntitrustAct1914
@@ -24149,6 +24167,36 @@ references:
   title-short: Common Sense and a Little Fire
   type: book
 
+- id: Orlovsky-Schnitzler2023
+  abstract: >-
+    A Besere Velt, the Boston Worker’s Circle community chorus, performs for a
+    modern audience the music of Yiddish-speaking Jewish partisans and ghetto
+    resisters. Through active transmission and re-interpretation of partisan and
+    ghetto songs, A Besere Velt invokes East-European Jewish tradition and
+    creates a liminal space ripe with new possibility. In the process, the
+    chorus gives these old songs life for contemporary Jews. The analysis
+    situates the songs within the genre of Yiddish music and investigates
+    through interviews ways that members build meaning through the performance
+    of partisan music, the construction of Jewish space, and the promise of
+    Jewish futures.
+  author:
+    - family: Orlovsky-Schnitzler
+      given: Justine
+  citation-key: Orlovsky-Schnitzler2023
+  container-title: Jewish Folklore and Ethnology
+  issue: '1'
+  issued:
+    - year: 2023
+      month: 6
+      day: 14
+  title: >-
+    Yiddish Songs and Jewish Futures: A Besere Velt, Partisan Music, and Modern
+    Performance
+  title-short: Yiddish Songs and Jewish Futures
+  type: article-journal
+  URL: https://digitalcommons.wayne.edu/jewishfolklore/vol1/iss1/8
+  volume: '1'
+
 - id: Orren1992
   abstract: >-
     Contrary to the idea that the United States was liberal from its inception,
@@ -29228,6 +29276,30 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.49
 
+- id: Steinova2011
+  accessed:
+    - year: 2023
+      month: 12
+      day: 19
+  author:
+    - family: Steinová
+      given: Iva
+  citation-key: Steinova2011
+  container-title: ICOMOS – Hefte des Deutschen Nationalkomitees
+  DOI: 10.11588/ih.2011.0.20225
+  ISSN: 2365-5631
+  issued:
+    - year: 2011
+  language: en
+  license: Copyright (c) 2015
+  page: 136-142
+  source: journals.ub.uni-heidelberg.de
+  title: Jewish Cemeteries and Burial Heritage in the Czech Republic
+  type: article-journal
+  URL: >-
+    https://journals.ub.uni-heidelberg.de/index.php/icomoshefte/article/view/20225
+  volume: '53'
+
 - id: StephensMedia2011
   authority: N.L.R.B.
   citation-key: StephensMedia2011
@@ -30077,6 +30149,41 @@ references:
   title: 'Punitive Damages: How Juries Decide'
   title-short: Punitive Damages
   type: book
+
+- id: Suny2023a
+  abstract: >-
+    Abstract Stalin was a Marxist, but a certain kind of Marxist who selected
+    out of the body of work of Marx, Engels, and Lenin a non-democratic and
+    inhumane form of Marxism leaving out the humanist and democratic aspects of
+    the original Marxist programme. The means he chose to build what he
+    considered a socialist society fatally tainted the goal of a society in
+    which working people make the fundamental decisions that determine their
+    lives.
+  accessed:
+    - year: 2023
+      month: 12
+      day: 19
+  author:
+    - family: Suny
+      given: Ronald Grigor
+  citation-key: Suny2023a
+  container-title: Historical Materialism
+  DOI: 10.1163/1569206x-bja10007
+  ISSN: 1465-4466, 1569-206X
+  issue: '2'
+  issued:
+    - year: 2023
+      month: 6
+      day: 26
+  language: eng
+  page: 3-24
+  publisher: Brill
+  source: brill.com
+  title: Was Stalin a Marxist? And If He Was, What Does This Mean for Marxism?
+  title-short: Was Stalin a Marxist?
+  type: article-journal
+  URL: https://brill.com/view/journals/hima/31/2/article-p3_1.xml
+  volume: '31'
 
 - id: SurrickKillion2006
   authority: Court of Appeals, 3rd Circuit
