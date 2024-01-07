@@ -1802,7 +1802,6 @@ references:
 - id: ArkansasLabelingInc-EDArk
   authority: E.D. Ark.
   citation-key: ArkansasLabelingInc-EDArk
-  jurisdiction: us
   note: complaint filed Jan. 6, 2020
   number: 4:19-cv-00773-KGB
   title: Arkansas Labeling, Inc. v. Proctor
@@ -8028,6 +8027,16 @@ references:
   type: webpage
   URL: https://demandjustice.org/about-3/
 
+- id: DemographicDistributionReport_nd
+  accessed:
+    - year: 2024
+      month: 1
+      day: 6
+  citation-key: DemographicDistributionReport_nd
+  title: Demographic Distribution Report | North Carolina State Bar
+  type: webpage
+  URL: https://www.ncbar.gov/about-us/demographic-distribution-report/
+
 - id: Denis2009
   abstract: >-
     "Representing the fruit of in-depth dynamics it invites us to give all
@@ -9271,7 +9280,6 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 1978
-  jurisdiction: us
   page: '776'
   references: enfd. 634 F.2d 635 (9th Cir. 1980)
   title: East Belden Corp.
@@ -13350,6 +13358,24 @@ references:
   type: webpage
   URL: https://github.com/
 
+- id: GlacierNorthwestInc2023
+  authority: U.S.
+  citation-key: GlacierNorthwestInc2023
+  container-title: U.S.
+  issued:
+    - year: 2023
+      month: 6
+      day: 1
+  jurisdiction: 002usUnited States|US
+  page: '771'
+  title: >-
+    Glacier Northwest, Inc. v. International Brotherhood of Teamsters Local
+    Union No 174
+  type: legal_case
+  URL: >-
+    https://scholar.google.com/scholar_case?case=3989956949616872269&q=glacier+northwest+inc+v+international+brotherhood+of+teamsters+local+union+no+174&hl=en&as_sdt=3,34
+  volume: '598'
+
 - id: glendonChangesBondingEmployment1978
   author:
     - family: Glendon
@@ -16263,6 +16289,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1986
+  jurisdiction: us
   page: '380'
   title: International Longshoremen's Ass'n. v. Davis
   type: legal_case
@@ -20695,6 +20722,20 @@ references:
   title-short: Haymarket Scrapbook
   type: book
 
+- id: LionElastomersInc2023
+  authority: NLRB
+  citation-key: LionElastomersInc2023
+  container-title: NLRB
+  issued:
+    - year: 2023
+      month: 5
+      day: 1
+  jurisdiction: 002usUnited States|US
+  page: No. 83
+  title: Lion Elastomers, Inc.
+  type: legal_case
+  volume: '372'
+
 - id: lipoldStrikingDeathsTheir2014
   abstract: >-
     The seven decades framed by the Great Railway Strike of 1877 and
@@ -21589,6 +21630,34 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/4486059
   volume: '93'
+
+- id: MacLeod2019
+  author:
+    - family: MacLeod
+      given: Dag
+  citation-key: MacLeod2019
+  issued:
+    - year: 2019
+      month: 11
+      day: 19
+  publisher: State Bar of California
+  title: Report on Disparities in the Discipline System
+  type: document
+
+- id: MacLeod2020
+  author:
+    - family: MacLeod
+      given: Dag
+  citation-key: MacLeod2020
+  issued:
+    - year: 2020
+      month: 7
+      day: 16
+  publisher: State Bar of California
+  title: >-
+    Consideration of Recommendations to Implement Changes to Address Key
+    Findings of the Disparities in the Discipline System Study
+  type: document
 
 - id: magenauPoliceUnionsPolice1996
   author:
@@ -24010,6 +24079,20 @@ references:
   title-short: Mother Jones
   type: book
 
+- id: MillerPlasticProducts2023
+  authority: NLRB
+  citation-key: MillerPlasticProducts2023
+  container-title: NLRB
+  issued:
+    - year: 2023
+      month: 8
+      day: 25
+  jurisdiction: 002usUnited States|US
+  page: No. 134
+  title: Miller Plastic Products, Inc.
+  type: legal_case
+  volume: '372'
+
 - id: Mills2000
   abstract: >-
     First published in 1956, The Power Elite stands as a contemporary classic of
@@ -24211,7 +24294,6 @@ references:
   container-title: F.2d
   issued:
     - year: 1953
-  jurisdiction: us
   page: '927'
   title: NLRB v. Monterey County B. & C. Trades Council
   type: legal_case
@@ -25474,6 +25556,17 @@ references:
   URL: >-
     https://www.law360.com/articles/1687516/north-carolina-justice-anita-earls-opens-up-about-diversity
 
+- id: NorthCarolinaStateBar2022
+  author:
+    - family: North Carolina State Bar
+      given: ''
+  citation-key: NorthCarolinaStateBar2022
+  issued:
+    - year: 2022
+  publisher: North Carolina State Bar
+  title: The 2022 Lawyer's Handbook
+  type: document
+
 - id: NorthCarolinaSupreme2023
   abstract: >-
     The Supreme Court of the State of North Carolina is the state of North
@@ -25545,7 +25638,6 @@ references:
   container-title: ND Cent. Code
   issued:
     - year: 1991
-  jurisdiction: us
   section: 12.1-21.1-01
   title: ND ag-gag
   type: legislation
@@ -26725,7 +26817,6 @@ references:
     - year: 2023
       month: 2
       day: 23
-  jurisdiction: us
   number: 20-1776
   title: People for the Ethical Treatment of Animals v. Stein
   type: legal_case
@@ -31506,6 +31597,18 @@ references:
   URL: https://www.jstor.org/stable/10.2979/jewisocistud.19.3.1
   volume: '19'
 
+- id: StandingCommitteeonProfessionalRegulation2021
+  author:
+    - family: Standing Committee on Professional Regulation
+      given: ''
+  citation-key: StandingCommitteeonProfessionalRegulation2021
+  issued:
+    - year: 2021
+      month: 11
+  publisher: ABA Center for Professional Responsibility
+  title: 2019 Survey on Lawyer Discipline Systems
+  type: document
+
 - id: StanfordHospClinics2003
   authority: Court of Appeals, Dist. of Columbia Circuit
   citation-key: StanfordHospClinics2003
@@ -31516,6 +31619,20 @@ references:
   title: Stanford Hosp. and Clinics v. NLRB
   type: legal_case
   volume: '325'
+
+- id: StateBarofCalifornia2019
+  author:
+    - family: State Bar of California
+      given: ''
+  citation-key: StateBarofCalifornia2019
+  issued:
+    - year: 2019
+      month: 11
+      day: 13
+  title: >-
+    State Bar Conducts First of Its Kind Study on Racial Disparities in Attorney
+    Discipline
+  type: document
 
 - id: StateDeAngelo2007
   authority: N.J. Sup. Ct. App. Div.
