@@ -69,6 +69,18 @@ references:
   type: article-journal
   volume: '20'
 
+- id: ABAProfileLegal_nd
+  accessed:
+    - year: 2024
+      month: 1
+      day: 18
+  citation-key: ABAProfileLegal_nd
+  issued:
+    - year: 2023
+  title: ABA Profile of the Legal Profession - Lawyer Demographics
+  type: webpage
+  URL: https://www.abalegalprofile.com/demographics.html
+
 - id: abbottSystemProfessionsEssay1988
   author:
     - family: Abbott
@@ -25872,6 +25884,21 @@ references:
   type: article-journal
   volume: '25'
 
+- id: OccupationalEmploymentWage_nd
+  accessed:
+    - year: 2024
+      month: 1
+      day: 18
+  author:
+    - family: U.S. Bureau of Labor Statistics
+      given: ''
+  citation-key: OccupationalEmploymentWage_nd
+  language: en
+  title: Occupational Employment and Wage Statistics
+  type: webpage
+  URL: >-
+    https://data.bls.gov/oes/#/occGeo/One%20occupation%20for%20multiple%20geographical%20areas
+
 - id: Oestreicher1988
   accessed:
     - year: 2019
@@ -26461,6 +26488,25 @@ references:
   type: webpage
   URL: >-
     https://www.ncbar.org/nc-lawyer/2023-05/diversity-and-the-north-carolina-supreme-court-a-look-at-the-advocates/
+
+- id: Park2023a
+  accessed:
+    - year: 2024
+      month: 1
+      day: 18
+  author:
+    - family: Park
+      given: Ryan
+  citation-key: Park2023a
+  container-title: North Carolina Bar Association
+  issued:
+    - year: 2023
+      month: 5
+      day: 17
+  title: 'Diversity and the North Carolina Supreme Court: A Look At The Advocates'
+  type: webpage
+  URL: >-
+    https://www.ncbar.org/nc-lawyer/2023-05/diversity-and-the-north-carolina-supreme-court-a-look-at-the-advocates/#_edn3
 
 - id: Parker2019
   abstract: >-
@@ -31668,6 +31714,16 @@ references:
   type: legal_case
   volume: '325'
 
+- id: StateBarNumbers_nd
+  accessed:
+    - year: 2024
+      month: 1
+      day: 18
+  citation-key: StateBarNumbers_nd
+  title: N.C. State Bar by the Numbers - Lawyers Mutual Insurance Company
+  type: webpage
+  URL: https://www.lawyersmutualnc.com/blog/nc-state-bar-by-the-numbers
+
 - id: StateBarofCalifornia2019
   author:
     - family: State Bar of California
@@ -34403,6 +34459,23 @@ references:
   title-short: Three Strikes and You Are Out, but Why?
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.32
+
+- id: U.S.BureauofLaborStatistics_nd
+  accessed:
+    - year: 2024
+      month: 1
+      day: 18
+  author:
+    - family: U.S. Bureau of Labor Statistics
+      given: ''
+  citation-key: U.S.BureauofLaborStatistics_nd
+  issued:
+    - year: 2022
+      month: 5
+  language: en
+  title: 'Occupatuional Employment and Wages, May 2022: Lawyers'
+  type: webpage
+  URL: https://www.bls.gov/oes/current/oes231011.htm
 
 - id: ulenDisruptiveTechnologyWork2019
   author:
