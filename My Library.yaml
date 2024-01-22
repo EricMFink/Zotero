@@ -74,6 +74,9 @@ references:
     - year: 2024
       month: 1
       day: 18
+  author:
+    - family: American Bar Association
+      given: ''
   citation-key: ABAProfileLegal_nd
   issued:
     - year: 2023
@@ -94,102 +97,6 @@ references:
   publisher: University of Chicago Press
   publisher-place: Chicago
   title: 'The System of Professions: An Essay on the Division of Expert Labor'
-  type: book
-
-- id: Abel1995
-  abstract: >-
-    Politics by Other Means explores the fundamental question of how law can
-    constrain political power by offering a pathbreaking account of the
-    triumphant final decade of the struggle against apartheid.  Richard Abel
-    presents case studies of ten major legal campaigns including: challenges to
-    pass laws; black trade union demands for recognition; state terror;
-    censorship; resistance to the "independent" homelands; and treason trials.
-  author:
-    - family: Abel
-      given: Richard L.
-    - family: Abel
-      given: Peter
-  citation-key: Abel1995
-  ISBN: 978-0-415-90817-7
-  issued:
-    - year: 1995
-  language: en
-  note: 'Select: zotero://select/library/items/PX7TFAMU'
-  number-of-pages: '670'
-  publisher: Psychology Press
-  source: Google Books
-  title: 'Politics by Other Means: Law in the Struggle Against Apartheid, 1980-1994'
-  title-short: Politics by Other Means
-  type: book
-
-- id: Abel2018
-  abstract: >-
-    The US 'war on terror' has repeatedly violated fundamental rule of law
-    values. When executive and legislature commit such egregious wrongs, courts
-    represent the ultimate defense. Law's Trials: The Performance of Legal
-    Institutions in the US 'War on Terror' offers the first comprehensive
-    account of judicial performance during the 16 years of the Bush and Obama
-    administrations. Abel examines criminal prosecutions of alleged terrorists,
-    courts martial of military personnel accused of law of war violations,
-    military commission trials of 'high value detainees', habeas corpus
-    petitions by Guantánamo detainees, civil damage actions by victims of both
-    the 'war on terror' and terrorism, and civil liberties violations by
-    government officials and Islamophobic campaigners. Law's Trials identifies
-    successful defenses of the rule of law through qualitative and quantitative
-    analyses, comparing the behavior of judges within and between each category
-    of cases and locating those actions in a comparative history of efforts to
-    redress fundamental injustices.
-  author:
-    - family: Abel
-      given: Richard L.
-  citation-key: Abel2018
-  ISBN: 978-1-108-69141-3
-  issued:
-    - year: 2018
-      month: 8
-      day: 9
-  language: en
-  note: 'Select: zotero://select/library/items/G6B8SH6T'
-  number-of-pages: '861'
-  publisher: Cambridge University Press
-  source: Google Books
-  title: >-
-    Law's Trials: The Performance of Legal Institutions in the US 'War on
-    Terror'
-  title-short: Law's Trials
-  type: book
-
-- id: Abel2018a
-  abstract: >-
-    The US 'war on terror', which Bush declared and Obama continued, repeatedly
-    violated fundamental rule of law values. Law's Wars: The Fate of the Rule of
-    Law in the US 'War on Terror' is the first comprehensive account of efforts
-    to resist and correct those violations. It focuses on responses to abuses in
-    Abu Ghraib, efforts by Guantánamo Bay detainees to improve conditions of
-    confinement in and win release, exposés of and efforts to end torture and
-    electronic surveillance, and civilian casualties on the battlefield,
-    including targeted killings. Abel deploys a law and society perspective to
-    construct and analyze detailed narratives of the roles of victims,
-    whistle-blowers, the media, NGOs, lawyers, doctors, politicians, military
-    personnel, foreign governments and international organizations in defending
-    the rule of law. Only by understanding past errors can we hope to prevent
-    their repetition in what promises to be an endless 'war on terror'.
-  author:
-    - family: Abel
-      given: Richard L.
-  citation-key: Abel2018a
-  ISBN: 978-1-108-42981-8
-  issued:
-    - year: 2018
-      month: 8
-      day: 16
-  language: en
-  note: 'Select: zotero://select/library/items/XYJZ8IJF'
-  number-of-pages: '939'
-  publisher: Cambridge University Press
-  source: Google Books
-  title: 'Law''s Wars: The Fate of the Rule of Law in the US ''War on Terror'''
-  title-short: Law's Wars
   type: book
 
 - id: abelAmericanLawyers1991
@@ -306,6 +213,76 @@ references:
   publisher: NYU Press
   source: Google Books
   title: The Law and Society Reader
+  type: book
+
+- id: abelLawTrialsPerformance2018
+  abstract: >-
+    The US 'war on terror' has repeatedly violated fundamental rule of law
+    values. When executive and legislature commit such egregious wrongs, courts
+    represent the ultimate defense. Law's Trials: The Performance of Legal
+    Institutions in the US 'War on Terror' offers the first comprehensive
+    account of judicial performance during the 16 years of the Bush and Obama
+    administrations. Abel examines criminal prosecutions of alleged terrorists,
+    courts martial of military personnel accused of law of war violations,
+    military commission trials of 'high value detainees', habeas corpus
+    petitions by Guantánamo detainees, civil damage actions by victims of both
+    the 'war on terror' and terrorism, and civil liberties violations by
+    government officials and Islamophobic campaigners. Law's Trials identifies
+    successful defenses of the rule of law through qualitative and quantitative
+    analyses, comparing the behavior of judges within and between each category
+    of cases and locating those actions in a comparative history of efforts to
+    redress fundamental injustices.
+  author:
+    - family: Abel
+      given: Richard L.
+  citation-key: abelLawTrialsPerformance2018
+  ISBN: 978-1-108-69141-3
+  issued:
+    - year: 2018
+      month: 8
+      day: 9
+  language: en
+  note: 'Select: zotero://select/library/items/G6B8SH6T'
+  number-of-pages: '861'
+  publisher: Cambridge University Press
+  source: Google Books
+  title: >-
+    Law's Trials: The Performance of Legal Institutions in the US 'War on
+    Terror'
+  title-short: Law's Trials
+  type: book
+
+- id: abelLawWarsFate2018
+  abstract: >-
+    The US 'war on terror', which Bush declared and Obama continued, repeatedly
+    violated fundamental rule of law values. Law's Wars: The Fate of the Rule of
+    Law in the US 'War on Terror' is the first comprehensive account of efforts
+    to resist and correct those violations. It focuses on responses to abuses in
+    Abu Ghraib, efforts by Guantánamo Bay detainees to improve conditions of
+    confinement in and win release, exposés of and efforts to end torture and
+    electronic surveillance, and civilian casualties on the battlefield,
+    including targeted killings. Abel deploys a law and society perspective to
+    construct and analyze detailed narratives of the roles of victims,
+    whistle-blowers, the media, NGOs, lawyers, doctors, politicians, military
+    personnel, foreign governments and international organizations in defending
+    the rule of law. Only by understanding past errors can we hope to prevent
+    their repetition in what promises to be an endless 'war on terror'.
+  author:
+    - family: Abel
+      given: Richard L.
+  citation-key: abelLawWarsFate2018
+  ISBN: 978-1-108-42981-8
+  issued:
+    - year: 2018
+      month: 8
+      day: 16
+  language: en
+  note: 'Select: zotero://select/library/items/XYJZ8IJF'
+  number-of-pages: '939'
+  publisher: Cambridge University Press
+  source: Google Books
+  title: 'Law''s Wars: The Fate of the Rule of Law in the US ''War on Terror'''
+  title-short: Law's Wars
   type: book
 
 - id: abelLawyersDock2011
@@ -438,6 +415,32 @@ references:
   title: The Making of the English Legal Profession
   type: book
 
+- id: abelPoliticsOtherMeans1995
+  abstract: >-
+    Politics by Other Means explores the fundamental question of how law can
+    constrain political power by offering a pathbreaking account of the
+    triumphant final decade of the struggle against apartheid.  Richard Abel
+    presents case studies of ten major legal campaigns including: challenges to
+    pass laws; black trade union demands for recognition; state terror;
+    censorship; resistance to the "independent" homelands; and treason trials.
+  author:
+    - family: Abel
+      given: Richard L.
+    - family: Abel
+      given: Peter
+  citation-key: abelPoliticsOtherMeans1995
+  ISBN: 978-0-415-90817-7
+  issued:
+    - year: 1995
+  language: en
+  note: 'Select: zotero://select/library/items/PX7TFAMU'
+  number-of-pages: '670'
+  publisher: Psychology Press
+  source: Google Books
+  title: 'Politics by Other Means: Law in the Struggle Against Apartheid, 1980-1994'
+  title-short: Politics by Other Means
+  type: book
+
 - id: abrahamArizonaEmploymentProtection2008
   author:
     - family: Abraham
@@ -540,85 +543,6 @@ references:
   type: article-journal
   volume: '10'
 
-- id: Achury2023
-  abstract: >-
-    Despite evidence that racial diversification has increased support for the
-    judiciary, political scientists know little about the heterogeneous effects
-    of diversification across different population segments. Previous research
-    illustrates that including Black judges increases judicial legitimacy among
-    the Black population, but it decreases the legitimacy of the courts among
-    the White population. We expand on this knowledge by examining the impact of
-    adding Latinos to the bench. Our survey experiment compares White
-    respondents? perception of the courts based on differing levels of Latino
-    representation in the ruling panel. Does descriptive representation in the
-    racialized issue area of immigration signal fairness and legitimacy to White
-    respondents? Or does the inclusion of Latino jurists in immigration cases
-    trigger racial animosity and decreasing support for the courts? We find that
-    when the court rules against the White respondent?s preference, they tend to
-    penalize all-White judicial panels that rule against the perceived interest
-    of Latinos. Additionally, we find that when presented with a Latino majority
-    panel, White respondents who disagree with the ruling are more likely to
-    punish the anti-Latino decisions as their levels of group consciousness
-    increase. Ultimately, our findings illustrate how judicial diversity may
-    affect the countermajoritarian capacity of the judiciary.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Achury
-      given: Susan
-    - family: Casellas
-      given: Jason P.
-    - family: Hofer
-      given: Scott J.
-    - family: Ward
-      given: Matthew
-  citation-key: Achury2023
-  container-title: Political Research Quarterly
-  DOI: 10.1177/10659129211066875
-  ISSN: 1065-9129
-  issue: '1'
-  issued:
-    - year: 2023
-      month: 3
-      day: 1
-  language: en
-  page: 158-172
-  publisher: SAGE Publications Inc
-  source: SAGE Journals
-  title: >-
-    The Impact of Racial Representation on Judicial Legitimacy: White Reactions
-    to Latinos on the Bench
-  title-short: The Impact of Racial Representation on Judicial Legitimacy
-  type: article-journal
-  URL: https://doi.org/10.1177/10659129211066875
-  volume: '76'
-
-- id: Adkins2016
-  author:
-    - family: Adkins
-      given: Lisa
-  citation-key: Adkins2016
-  container-title: Dialogues in Human Geography
-  container-title-short: Dialogues in Human Geography
-  DOI: 10.1177/2043820616676728
-  ISSN: 2043-8206
-  issue: '3'
-  issued:
-    - literal: 2016-11-0001
-  language: en
-  note: >-
-    extrafields":{"publisher":"SAGE Publications"}}Citation Key:
-    adkinsNotesSociologyDebt2016
-  page: 318-321
-  publisher: SAGE Publications
-  source: SAGE Journals
-  title: Notes toward a sociology of debt
-  type: article-journal
-  URL: https://doi.org/10.1177/2043820616676728
-  volume: '6'
-
 - id: adkinsDebtComplexitySociological2019
   abstract: >-
     Since the financial crisis of 2007-08 there has been a growing interest
@@ -649,6 +573,30 @@ references:
   title: Debt, complexity and the sociological imagination
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvggx2fq.6
+
+- id: adkinsNotesSociologyDebt2016
+  author:
+    - family: Adkins
+      given: Lisa
+  citation-key: adkinsNotesSociologyDebt2016
+  container-title: Dialogues in Human Geography
+  container-title-short: Dialogues in Human Geography
+  DOI: 10.1177/2043820616676728
+  ISSN: 2043-8206
+  issue: '3'
+  issued:
+    - literal: 2016-11-0001
+  language: en
+  note: >-
+    extrafields":{"publisher":"SAGE Publications"}}Citation Key:
+    adkinsNotesSociologyDebt2016
+  page: 318-321
+  publisher: SAGE Publications
+  source: SAGE Journals
+  title: Notes toward a sociology of debt
+  type: article-journal
+  URL: https://doi.org/10.1177/2043820616676728
+  volume: '6'
 
 - id: AdministrativeOfficeoftheU.S.Courts_nd
   author:
@@ -711,7 +659,7 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.16
 
-- id: Aidinlis2019
+- id: aidinlisDefiningLegalTwo2019
   abstract: >-
     In Nobody’s Law (2018), Marc Hertogh introduced the notion of legal
     alienation as part of a ‘secular’ approach to legal consciousness, i.e. one
@@ -740,7 +688,7 @@ references:
   author:
     - family: Aidinlis
       given: Stergios
-  citation-key: Aidinlis2019
+  citation-key: aidinlisDefiningLegalTwo2019
   container-title: Journal of Social Welfare and Family Law
   DOI: 10.1080/09649069.2019.1663024
   ISSN: 0964-9069
@@ -770,7 +718,7 @@ references:
   title: Alabama Ag-Gag
   type: legislation
 
-- id: Albiston2014
+- id: albistonFundingCauseHow2014
   abstract: >-
     Most of the work of public interest law organizations does not make money.
     How do these organizations survive, given the economic realities of law
@@ -793,7 +741,7 @@ references:
       given: Catherine R.
     - family: Nielsen
       given: Laura Beth
-  citation-key: Albiston2014
+  citation-key: albistonFundingCauseHow2014
   container-title: Law & Social Inquiry
   ISSN: 0897-6546
   issue: '1'
@@ -813,11 +761,11 @@ references:
   URL: http://www.jstor.org/stable/24545700
   volume: '39'
 
-- id: Albiston2014a
+- id: albistonRuleLawLitigation2014
   author:
     - family: Albiston
       given: Catherine
-  citation-key: Albiston2014a
+  citation-key: albistonRuleLawLitigation2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -976,7 +924,7 @@ references:
   title: Animal & Ecological Terrorism in America
   type: document
 
-- id: Alford1985
+- id: alfordPowersTheoryCapitalism1985
   abstract: >-
     Existing theories of the nature of the state in Western capitalist
     democracies have been mostly propounded from one of three major theoretical
@@ -1006,7 +954,7 @@ references:
       given: Robert R.
     - family: Friedland
       given: Roger
-  citation-key: Alford1985
+  citation-key: alfordPowersTheoryCapitalism1985
   ISBN: 978-0-521-31635-4
   issued:
     - year: 1985
@@ -1032,31 +980,11 @@ references:
   type: legal_case
   volume: '271'
 
-- id: AllegraCollinsNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: AllegraCollinsNorth_nd
-  title: Allegra Collins | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/allegra-collins
-
-- id: AllisonRiggsNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: AllisonRiggsNorth_nd
-  title: Allison Riggs | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/allison-riggs
-
-- id: Almeida2019
+- id: almeidaSocialMovements2019
   author:
     - family: Almeida
       given: Paul
-  citation-key: Almeida2019
+  citation-key: almeidaSocialMovements2019
   collection-title: The Structure of Collective Mobilization
   ISBN: 978-0-520-29091-4
   issued:
@@ -1119,91 +1047,6 @@ references:
   title: On the Necessity and Impossibility of Being a Jew
   type: article-journal
   URL: http://www.jstor.org/stable/487703
-
-- id: Anderson1979
-  abstract: >-
-    "The political nature of Absolutism has long been a subject of controversy
-    within historical materialism. Developing considerations advanced in
-    Passages from Antiquity to Feudalism, this book situates the Absolutist
-    states of the early modern epoch against the prior background of European
-    feudalism. It is divided into two parts. The first discusses the overall
-    structures of Absolutism as a state-system in Western Europe, from the
-    Renaissance onwards; and the difficult question of the relations between
-    monarchy and nobility institutionalised by it, for which it suggests a
-    general periodization. It then looks in turn at the trajectory of each of
-    the specific Absolutist states in the dominant countries of the West -
-    Spain, France, England and Sweden, set off against the case of Italy, where
-    no major indigenous Absolutism developed. The second part of the work
-    sketches a comparative prospect of Absolutism in Eastern Europe. It begins
-    with an enquiry into the reasons why the divergent social conditions in
-    themore backward half of the continent should have produced political forms
-    apparently similar to those of the more advanced West. The peculiarities, as
-    well as affinities, of Eastern Absolutism as a distinct type of royal state,
-    are examined. The variegated monarchies of Prussia, Austria and Russia are
-    surveyed, and the lessons asked of the counter-example of Poland. Finally,
-    the structure of the Ottoman Empire in the Balkans is taken as an external
-    gauge by which the singularity of Absolutism as a European phenomenon is
-    assessed. The work ends with some observations on the special position
-    occupied by European development within universal history, which draws
-    themes from both Passages from Antiquity to Feudalism and Lineages of the
-    Absolutist State together into a single argument -- within their common
-    limits -- as materials for debate. Two postscript notes treat, respectively,
-    the notion of the 'Asiatic mode of production,' with particular reference to
-    Islamic and Chinese history, and the experience of Japanese feudalism, as
-    relevant controls for a study of the evolution of Europe up to the advent of
-    industrial capitalism." -- from http://www.amazon.com (April 18, 2011).
-  author:
-    - family: Anderson
-      given: Perry
-  citation-key: Anderson1979
-  ISBN: 978-0-86091-710-6
-  issued:
-    - year: 1979
-  language: en
-  note: 'Select: zotero://select/library/items/9PWRLXIX'
-  number-of-pages: '580'
-  publisher: Verso
-  source: Google Books
-  title: Lineages of the Absolutist State
-  type: book
-
-- id: Anderson2006
-  abstract: >-
-    The definitive, bestselling book on the origins of nationalism, and the
-    processes that have shaped it.Imagined Communities, Benedict Anderson’s
-    brilliant book on nationalism, forged a new field of study when it first
-    appeared in 1983. Since then it has sold over a quarter of a million copies
-    and is widely considered the most important book on the subject. In this
-    greatly anticipated revised edition, Anderson updates and elaborates on the
-    core question: what makes people live and die for nations, as well as hate
-    and kill in their name? Anderson examines the creation and global spread of
-    the ‘imagined communities’ of nationality, and explores the processes that
-    created these communities: the territorialization of religious faiths, the
-    decline of antique kinship, the interaction between capitalism and print,
-    the development of secular languages-of-state, and changing conceptions of
-    time and space. He shows how an originary nationalism born in the Americas
-    was adopted by popular movements in Europe, by imperialist powers, and by
-    the movements of anti-imperialist resistance in Asia and Africa.In a new
-    afterword, Anderson examines the extraordinary influence of Imagined
-    Communities, and the book's international publication and reception, from
-    the end of the Cold War era to the present day.
-  author:
-    - family: Anderson
-      given: Benedict
-  citation-key: Anderson2006
-  ISBN: 978-1-84467-086-4
-  issued:
-    - year: 2006
-      month: 11
-      day: 17
-  language: en
-  note: 'Select: zotero://select/library/items/8V2INH2B'
-  number-of-pages: '266'
-  publisher: Verso
-  source: Google Books
-  title: 'Imagined Communities: Reflections on the Origin and Spread of Nationalism'
-  title-short: Imagined Communities
-  type: book
 
 - id: Anderson2017
   abstract: >-
@@ -1286,6 +1129,44 @@ references:
   type: legal_case
   volume: '854'
 
+- id: andersonImaginedCommunitiesReflections2006
+  abstract: >-
+    The definitive, bestselling book on the origins of nationalism, and the
+    processes that have shaped it.Imagined Communities, Benedict Anderson’s
+    brilliant book on nationalism, forged a new field of study when it first
+    appeared in 1983. Since then it has sold over a quarter of a million copies
+    and is widely considered the most important book on the subject. In this
+    greatly anticipated revised edition, Anderson updates and elaborates on the
+    core question: what makes people live and die for nations, as well as hate
+    and kill in their name? Anderson examines the creation and global spread of
+    the ‘imagined communities’ of nationality, and explores the processes that
+    created these communities: the territorialization of religious faiths, the
+    decline of antique kinship, the interaction between capitalism and print,
+    the development of secular languages-of-state, and changing conceptions of
+    time and space. He shows how an originary nationalism born in the Americas
+    was adopted by popular movements in Europe, by imperialist powers, and by
+    the movements of anti-imperialist resistance in Asia and Africa.In a new
+    afterword, Anderson examines the extraordinary influence of Imagined
+    Communities, and the book's international publication and reception, from
+    the end of the Cold War era to the present day.
+  author:
+    - family: Anderson
+      given: Benedict
+  citation-key: andersonImaginedCommunitiesReflections2006
+  ISBN: 978-1-84467-086-4
+  issued:
+    - year: 2006
+      month: 11
+      day: 17
+  language: en
+  note: 'Select: zotero://select/library/items/8V2INH2B'
+  number-of-pages: '266'
+  publisher: Verso
+  source: Google Books
+  title: 'Imagined Communities: Reflections on the Origin and Spread of Nationalism'
+  title-short: Imagined Communities
+  type: book
+
 - id: AndersonLibertyLobby1986
   authority: supreme.court
   citation-key: AndersonLibertyLobby1986
@@ -1300,7 +1181,54 @@ references:
   type: legal_case
   volume: '477'
 
-- id: Andreason1993
+- id: andersonLineagesAbsolutistState1979
+  abstract: >-
+    "The political nature of Absolutism has long been a subject of controversy
+    within historical materialism. Developing considerations advanced in
+    Passages from Antiquity to Feudalism, this book situates the Absolutist
+    states of the early modern epoch against the prior background of European
+    feudalism. It is divided into two parts. The first discusses the overall
+    structures of Absolutism as a state-system in Western Europe, from the
+    Renaissance onwards; and the difficult question of the relations between
+    monarchy and nobility institutionalised by it, for which it suggests a
+    general periodization. It then looks in turn at the trajectory of each of
+    the specific Absolutist states in the dominant countries of the West -
+    Spain, France, England and Sweden, set off against the case of Italy, where
+    no major indigenous Absolutism developed. The second part of the work
+    sketches a comparative prospect of Absolutism in Eastern Europe. It begins
+    with an enquiry into the reasons why the divergent social conditions in
+    themore backward half of the continent should have produced political forms
+    apparently similar to those of the more advanced West. The peculiarities, as
+    well as affinities, of Eastern Absolutism as a distinct type of royal state,
+    are examined. The variegated monarchies of Prussia, Austria and Russia are
+    surveyed, and the lessons asked of the counter-example of Poland. Finally,
+    the structure of the Ottoman Empire in the Balkans is taken as an external
+    gauge by which the singularity of Absolutism as a European phenomenon is
+    assessed. The work ends with some observations on the special position
+    occupied by European development within universal history, which draws
+    themes from both Passages from Antiquity to Feudalism and Lineages of the
+    Absolutist State together into a single argument -- within their common
+    limits -- as materials for debate. Two postscript notes treat, respectively,
+    the notion of the 'Asiatic mode of production,' with particular reference to
+    Islamic and Chinese history, and the experience of Japanese feudalism, as
+    relevant controls for a study of the evolution of Europe up to the advent of
+    industrial capitalism." -- from http://www.amazon.com (April 18, 2011).
+  author:
+    - family: Anderson
+      given: Perry
+  citation-key: andersonLineagesAbsolutistState1979
+  ISBN: 978-0-86091-710-6
+  issued:
+    - year: 1979
+  language: en
+  note: 'Select: zotero://select/library/items/9PWRLXIX'
+  number-of-pages: '580'
+  publisher: Verso
+  source: Google Books
+  title: Lineages of the Absolutist State
+  type: book
+
+- id: andreasonAvoidingWrongfulDischarge1993
   abstract: >-
     Across the US each year, thousands of employees sue their employers for
     wrongful discharge, and the stakes can be quit high. In Flanigan vs.
@@ -1321,7 +1249,7 @@ references:
       given: Aaron W.
     - family: Morton
       given: Jack K.
-  citation-key: Andreason1993
+  citation-key: andreasonAvoidingWrongfulDischarge1993
   container-title: Montana Business Quarterly; Missoula
   event-place: Missoula, United States, Missoula
   ISSN: '00269921'
@@ -1477,7 +1405,7 @@ references:
   volume: '126'
 
 - id: AnimalLeagueDefense2023
-  authority: Dist. Court
+  authority: E.D. Ark.
   citation-key: AnimalLeagueDefense2023
   issued:
     - year: 2023
@@ -1503,17 +1431,7 @@ references:
   type: webpage
   URL: https://awionline.org/content/anti-whistleblower-legislation
 
-- id: AnitaEarlsNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: AnitaEarlsNorth_nd
-  title: Anita Earls | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/anita-earls
-
-- id: Appelbaum2019
+- id: appelbaumEconomistsHourFalse2019
   abstract: >-
     A Wall Street Journal Business Bestseller  In this "lively and entertaining"
     (Liaquat Ahamed, The New Yorker) history of ideas, New York Times editorial
@@ -1545,7 +1463,7 @@ references:
   author:
     - family: Appelbaum
       given: Binyamin
-  citation-key: Appelbaum2019
+  citation-key: appelbaumEconomistsHourFalse2019
   ISBN: 978-0-316-51232-9
   issued:
     - year: 2019
@@ -1586,19 +1504,6 @@ references:
   URL: >-
     https://read.dukeupress.edu/radical-history-review/article/2014/118/159-173/88498
   volume: '2014'
-
-- id: AppellateProject_nd
-  abstract: We empower law students of color to thrive in the appellate field.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: AppellateProject_nd
-  container-title: The Appellate Project
-  language: en-US
-  title: The Appellate Project
-  type: webpage
-  URL: https://theappellateproject.org
 
 - id: appelPowerDebtIdentity2019
   abstract: >-
@@ -1679,16 +1584,6 @@ references:
     Czechoslovakia
   title-short: Empire of Friends
   type: book
-
-- id: AprilWoodNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: AprilWoodNorth_nd
-  title: April Wood | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/april-wood
 
 - id: apuzzoDataUseForce2015
   abstract: >-
@@ -2101,7 +1996,7 @@ references:
   type: legal_case
   volume: '366'
 
-- id: Ashiagbor2013
+- id: ashiagborIntroductionMovingEconomic2013
   author:
     - family: Ashiagbor
       given: Diamond
@@ -2109,7 +2004,7 @@ references:
       given: Prabha
     - family: Perry-Kessaris
       given: Amanda
-  citation-key: Ashiagbor2013
+  citation-key: ashiagborIntroductionMovingEconomic2013
   container-title: Journal of Law and Society
   ISSN: 0263-323X
   issue: '1'
@@ -3600,42 +3495,6 @@ references:
   URL: >-
     https://www.wral.com/lawmakers-override-mccrory-veto-on-controversial-private-property-bill/14687952/
 
-- id: BiographiesHistoriesNC_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: BiographiesHistoriesNC_nd
-  title: >-
-    Biographies and Histories of the NC Supreme Court Collection - North
-    Carolina Digital Collections
-  type: webpage
-  URL: >-
-    https://digital.ncdcr.gov/spotlights/biographies-and-histories-of-the-nc-supreme-court-collection
-
-- id: BiographiesHistoriesNC_nda
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: BiographiesHistoriesNC_nda
-  title: >-
-    Biographies and Histories of the NC Supreme Court - North Carolina Digital
-    Collections
-  type: webpage
-  URL: >-
-    https://digital.ncdcr.gov/collections/biographies-and-histories-of-the-nc-supreme-court
-
-- id: BiographiesJudgesNorth_nda
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: BiographiesJudgesNorth_nda
-  title: Biographies of the Judges | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/courts/court-of-appeals/biographies-of-the-judges
-
 - id: BirbrowerMontalbanoCondon1998
   authority: Supreme Court
   citation-key: BirbrowerMontalbanoCondon1998
@@ -4288,58 +4147,6 @@ references:
   URL: http://doi.acm.org/10.1145/2723872.2723882
   volume: '49'
 
-- id: Boldt2021
-  abstract: >-
-    The pretrial detention decision has critical implications for a defendant’s
-    employment opportunities, family ties, likelihood of conviction, and length
-    of prison sentence. While prior researchers have assessed the disparities
-    that exist in the bail decision based on defendant and case characteristics,
-    little systematic empirical attention has been paid to the effects of the
-    pretrial detention judge on decisions at this stage of criminal case
-    proceedings. Here, we focus specifically on judge race and sex, exploring
-    not only the unconditional effects of judge sex and race but also whether
-    the effects of these judge characteristics at the bail decision are
-    conditioned on the sex and race of the defendant. Using newly collected
-    pretrial detention data from 22 federal district courts from 2003 to 2013,
-    we empirically examine the effects of judge and defendant race and sex on
-    whether defendants are released on their own recognizance before trial or,
-    instead, are given a more punitive pretrial outcome. Our results indicate
-    important judge and defendant-based differences in bail setting leniency
-    provided to defendants including that Black judges are more likely to grant
-    pretrial release without hefty conditions to white defendants than are white
-    judges. We also find that female judges are more likely to detain or require
-    monetary bail for male defendants and less likely to do so for female
-    defendants relative to male judges.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Boldt
-      given: Ethan D.
-    - family: Boyd
-      given: Christina L.
-    - family: Carlos
-      given: Roberto F.
-    - family: Baker
-      given: Matthew E.
-  citation-key: Boldt2021
-  container-title: Justice System Journal
-  DOI: 10.1080/0098261X.2021.1881665
-  ISSN: 0098-261X
-  issue: 3-4
-  issued:
-    - year: 2021
-      month: 10
-      day: 2
-  page: 341-358
-  publisher: Routledge
-  source: Taylor and Francis+NEJM
-  title: The Effects of Judge Race and Sex on Pretrial Detention Decisions
-  type: article-journal
-  URL: https://doi.org/10.1080/0098261X.2021.1881665
-  volume: '42'
-
 - id: Bonefeld2014
   abstract: >-
     The Nazi ideologue Arthur Rosenberg formulated the essence of modern
@@ -4412,20 +4219,6 @@ references:
   type: article-journal
   URL: >-
     https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=sih&AN=144213342&site=ehost-live
-  volume: '9'
-
-- id: Bonefeld2019a
-  author:
-    - family: Bonefeld
-      given: Werner
-  citation-key: Bonefeld2019a
-  container-title: Journal of Social Justice
-  issued:
-    - year: 2019
-  title: >-
-    Critical Theory and the Critique of Antisemitism: On Society as Economic
-    Object
-  type: article-journal
   volume: '9'
 
 - id: borisFeminismLaborMovements2011
@@ -4708,44 +4501,6 @@ references:
   type: legal_case
   volume: '814'
 
-- id: Boyd2016
-  abstract: >-
-    Scholars have long sought to resolve whether and to what degree political
-    actor diversity influences the outputs of political institutions like
-    legislatures, administrative agencies, and courts.  When it comes to the
-    judiciary, diverse judges may greatly affect outcomes.  Despite this
-    potential, no consensus exists for whether judicial diversity affects
-    behavior in trial courts -- i.e., the stage where the vast majority of
-    litigants interact with the judicial branch.  After addressing the research
-    design limitations in previous trial court-diversity studies, the
-    statistical results here indicate that a trial judge's sex and race have
-    very large effects on his or her decision making.  These results have
-    important implications for how we view diversity throughout the judiciary
-    and are particularly timely given the Obama Administration's nearly 200
-    female and minority appointments to the federal trial courts.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Boyd
-      given: Christina L.
-  citation-key: Boyd2016
-  DOI: 10.2139/ssrn.2587325
-  event-place: Rochester, NY
-  genre: SSRN Scholarly Paper
-  issued:
-    - year: 2016
-      month: 1
-      day: 4
-  language: en
-  publisher-place: Rochester, NY
-  source: Social Science Research Network
-  title: Representation on the Courts? The Effects of Trial Judges' Sex and Race
-  title-short: Representation on the Courts?
-  type: article
-  URL: https://papers.ssrn.com/abstract=2587325
-
 - id: boyuleNationalPoliticsInternational2014
   abstract: >-
     Social science literature tends to assume a link between national policies
@@ -4784,54 +4539,6 @@ references:
   title-short: National Politics as International Process
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.44
-
-- id: Bracic2023
-  abstract: >-
-    How does a judge’s identity affect perceptions of their ability to preside
-    fairly? We theorize that identity categories operate as ideological cues and
-    that the public views judges perceived as ideologically proximate to be
-    fairer, more impartial, and more inspiring of trust in courts broadly. Using
-    a conjoint survey experiment with a diverse national sample, we find support
-    for this theory and show that race, gender, and especially sexuality are
-    used as ideological cues. The effect of identities is conditioned by
-    respondent partisanship. Democratic respondents trust judges with
-    marginalized identities more than judges with dominant identities.
-    Republicans are relatively indifferent to judges’ race or gender but are
-    significantly less trusting of gay judges. We also uncover limited effects
-    when judges preside over a case in which their identity is salient. These
-    results suggest that the public does not seek descriptive representation as
-    such but uses identity categories to achieve ideological congruence.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Bracic
-      given: Ana
-    - family: Israel-Trummel
-      given: Mackenzie
-    - family: Johnson
-      given: Tyler
-    - family: Tipler
-      given: Kathleen
-  citation-key: Bracic2023
-  container-title: The Journal of Politics
-  DOI: 10.1086/723996
-  ISSN: 0022-3816
-  issue: '4'
-  issued:
-    - year: 2023
-      month: 10
-  page: 1167-1181
-  publisher: The University of Chicago Press
-  source: journals.uchicago.edu (Atypon)
-  title: >-
-    “Because He Is Gay”: How Race, Gender, and Sexuality Shape Perceptions of
-    Judicial Fairness
-  title-short: “Because He Is Gay”
-  type: article-journal
-  URL: https://www.journals.uchicago.edu/doi/10.1086/723996
-  volume: '85'
 
 - id: BranscombLoyalty1993
   author:
@@ -5210,7 +4917,7 @@ references:
   title-short: A Debtor World
   type: book
 
-- id: Brudney2000
+- id: brudneyJudicialHostilityLabor2000
   abstract: >-
     Brudney, Schiavoni, and Merritt address an important debate dividing lawyers
     and political scientists: To what extent do extradoctrinal factors such as
@@ -5238,7 +4945,7 @@ references:
       given: Sara
     - family: Merritt
       given: Deborah Jones
-  citation-key: Brudney2000
+  citation-key: brudneyJudicialHostilityLabor2000
   DOI: 10.2139/ssrn.223520
   event-place: Rochester, NY
   genre: SSRN Scholarly Paper
@@ -5800,7 +5507,7 @@ references:
   type: legal_case
   volume: '321'
 
-- id: Cane2010
+- id: caneOxfordHandbookEmpirical2010
   abstract: >-
     The empirical study of law, legal systems and legal institutions is widely
     viewed as one of the most exciting and important intellectual developments
@@ -5825,7 +5532,7 @@ references:
       given: Peter
     - family: Kritzer
       given: Herbert M.
-  citation-key: Cane2010
+  citation-key: caneOxfordHandbookEmpirical2010
   ISBN: 978-0-19-954247-5
   issued:
     - year: 2010
@@ -6125,16 +5832,6 @@ references:
   type: article-journal
   volume: '23'
 
-- id: CarolynThompsonNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: CarolynThompsonNorth_nd
-  title: Carolyn Thompson | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/carolyn-thompson
-
 - id: carrManagerialEmployeeLabel1979
   author:
     - family: Carr
@@ -6407,36 +6104,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1007/s10603-019-09421-4
   volume: '42'
-
-- id: ChrisDillonNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: ChrisDillonNorth_nd
-  title: Chris Dillon | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/chris-dillon
-
-- id: ChrisDillonNorth_nda
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: ChrisDillonNorth_nda
-  title: Chris Dillon | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/chris-dillon
-
-- id: ChrisDillonNorth_ndb
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: ChrisDillonNorth_ndb
-  title: Chris Dillon | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/chris-dillon
 
 - id: Cicero1928
   author:
@@ -6927,79 +6594,6 @@ references:
   title-short: Representing Radicals
   type: book
 
-- id: Collins2008
-  abstract: >-
-    While theoretical justifications predict that a judge's gender and race may
-    influence judicial decisions, empirical support for these arguments has been
-    mixed. However, recent increases in judicial diversity necessitate a
-    reexamination of these earlier studies. Rather than examining individual
-    judges on a single characteristic, such as gender or race alone, this
-    research note argues that the intersection of individual characteristics may
-    provide an alternative approach for evaluating the effects of diversity on
-    the federal appellate bench. The results of cohort models examining the
-    joint effects of race and gender suggest that minority female judges are
-    more likely to support criminal defendants' claims when compared to their
-    colleagues on the bench, even after controlling for other important factors.
-    This suggests that our understanding of judicial behaviors may be assisted
-    by the inclusion of how individual characteristics overlap rather than
-    examining those characteristics alone.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Collins
-      given: Todd
-    - family: Moyer
-      given: Laura
-  citation-key: Collins2008
-  container-title: Political Research Quarterly
-  DOI: 10.1177/1065912907306467
-  ISSN: 1065-9129
-  issue: '2'
-  issued:
-    - year: 2008
-      month: 6
-      day: 1
-  language: en
-  page: 219-227
-  publisher: SAGE Publications Inc
-  source: SAGE Journals
-  title: Gender, Race, and Intersectionality on the Federal Appellate Bench
-  type: article-journal
-  URL: https://doi.org/10.1177/1065912907306467
-  volume: '61'
-
-- id: CollinsJr.2010
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Collins Jr.
-      given: Paul M.
-    - family: Manning
-      given: Kenneth L.
-    - family: Carp
-      given: Robert A.
-  citation-key: CollinsJr.2010
-  container-title: Law & Policy
-  DOI: 10.1111/j.1467-9930.2010.00317.x
-  ISSN: '02658240'
-  issue: '2'
-  issued:
-    - year: 2010
-      month: 3
-      day: 15
-  language: en
-  page: 260-281
-  source: Crossref
-  title: Gender, Critical Mass, and Judicial Decision Making
-  title-short: Gender, Critical Mass, and Judicial Decision Making
-  type: article-journal
-  URL: https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9930.2010.00317.x
-  volume: '32'
-
 - id: CombsNorthCarolina1990
   authority: N.C.
   citation-key: CombsNorthCarolina1990
@@ -7070,7 +6664,7 @@ references:
   type: legal_case
   volume: '2016'
 
-- id: Conley1990
+- id: conleyRulesRelationshipsEthnography1990
   abstract: >-
     In Rules versus Relationships, John M. Conley and William M. O’Barr examine
     the experiences of litigants seeking redress of everyday difficulties
@@ -7084,7 +6678,7 @@ references:
       given: John M.
     - family: O'Barr
       given: William M.
-  citation-key: Conley1990
+  citation-key: conleyRulesRelationshipsEthnography1990
   event-place: Chicago
   issued:
     - year: 1990
@@ -7263,85 +6857,6 @@ references:
   title-short: The Great Arch
   type: book
 
-- id: Corriher2021
-  abstract: >-
-    The book discusses the Republican-led North Carolina legislature's quest to
-    control state courts. The legislature in 2011 drew biased election districts
-    that ensured Republicans kept their majority, even when Democrats got more
-    total votes. In 2013, Republicans even passed a law designed to keep African
-    Americans from voting. Civil rights lawyer Anita Earls took the legislature
-    to court for discriminating against Black voters in their voter ID law and
-    their election districts. She laid out the undeniable evidence of racial
-    discrimination. And the legislators' attorney, Thomas Farr, justified their
-    actions as attempts to comply with the Voting Rights Act. The federal courts
-    struck down the voter ID law and the racially gerrymandered districts. When
-    lawmakers redrew the districts, Lewis stated clearly that the new boundaries
-    would discriminate against Democrats. To keep the courts from blocking their
-    power grabs, legislators tried to control the judicial branch. A 2013 memo
-    from a GOP consultant advised legislators that "supreme court races are
-    critical for long-term Republican dominance." Republicans tried to cancel
-    the 2016 North Carolina Supreme Court election. When that failed and voters
-    elected a progressive majority, they briefly considered a proposal to pack
-    the court and overturn the results. Instead, legislators passed bills giving
-    themselves more power over the other branches.Legislators passed bills that
-    gerrymandered judges, un-packed the court of appeals, and manipulated
-    election ballots to help Republican judicial candidates. Lawmakers passed a
-    constitutional amendment that would give themselves control over filling
-    vacant judicial seats. It would've opened the door to another court-packing
-    scheme.Republicans in Washington, D.C., were pushing to nominate Farr, the
-    GOP's lawyer, to a federal court in Eastern North Carolina, where around
-    half of the population is Black. Rev. Barber and other activists around the
-    country raised concerns about Farr's history of defending discrimination and
-    his ties to a racist lawyer. In 2018, as Republicans were reshaping the
-    federal courts, Earls ran for a seat on the state supreme court. It was a
-    challenge for a quiet, reserved lawyer. She campaigned on a platform of
-    judicial independence, as legislators passed laws intended to hurt her
-    campaign.
-  author:
-    - family: Corriher
-      given: Billy
-  citation-key: Corriher2021
-  ISBN: 978-0-578-91588-3
-  issued:
-    - year: 2021
-      month: 10
-      day: 18
-  language: en
-  number-of-pages: '207'
-  publisher: William Corriher
-  source: Google Books
-  title: 'Usurpers: How Voters Stopped the GOP Takeover of North Carolina''s Courts'
-  title-short: Usurpers
-  type: book
-
-- id: Corriher2023
-  abstract: >-
-    Earls, the only Black woman on North Carolina’s high court, spoke out about
-    racial bias in her courtroom.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Corriher
-      given: Billy
-  citation-key: Corriher2023
-  container-title: Slate
-  ISSN: 1091-2339
-  issued:
-    - year: 2023
-      month: 8
-      day: 30
-  language: en-US
-  section: Jurisprudence
-  source: slate.com
-  title: >-
-    State Republicans Try to Remove Top Jurist for Mentioning the Existence of
-    Racial Bias
-  type: article-magazine
-  URL: >-
-    https://slate.com/news-and-politics/2023/08/north-carolina-gop-anita-earls-ethics-case.html
-
 - id: Cotterrell2012
   abstract: >-
     "Comparative Sociology of Law" published on 31 Aug 2012 by Edward Elgar
@@ -7389,22 +6904,6 @@ references:
   type: webpage
   URL: >-
     https://roarmag.org/2018/01/30/reading-list-sociology-finance-debt-austerity/
-
-- id: CourtStatisticsProject2022
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: CourtStatisticsProject2022
-  issued:
-    - year: 2022
-      month: 1
-      day: 20
-  language: en
-  note: 'Last Modified: 2022-12-30T10:53:38-05:00'
-  title: Court Statistics Project
-  type: webpage
-  URL: https://www.courtstatistics.org
 
 - id: crainWhitewashedLaborLaw2002
   archive: JSTOR
@@ -7836,7 +7335,7 @@ references:
   type: webpage
   URL: http://daringfireball.net/projects/markdown/
 
-- id: Dartmouth_nd
+- id: dartmouthUSDistrictCourt
   accessed:
     - year: 2023
       month: 12
@@ -7844,7 +7343,7 @@ references:
   author:
     - family: Dartmouth
       given: University of Massachusetts
-  citation-key: Dartmouth_nd
+  citation-key: dartmouthUSDistrictCourt
   language: en
   title: US District Court Database
   type: webpage
@@ -7937,27 +7436,6 @@ references:
   title: Social Movements and Organization Theory
   type: book
 
-- id: Davis2020
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  author:
-    - family: Davis
-      given: Mark
-  citation-key: Davis2020
-  issued:
-    - year: 2020
-  language: en
-  publisher: Carolina Academic Press
-  source: cap-press.com
-  title: >-
-    A Warren Court of Our Own: The Exum Court and the Expansion of Individual
-    Rights in North Carolina
-  title-short: A Warren Court of Our Own
-  type: book
-  URL: https://cap-press.com/books/isbn/9781531014490/A-Warren-Court-of-Our-Own
-
 - id: davisDeferredLivesMoney2019
   abstract: >-
     The systemic necessity to take on ever more unsecured credit simply to go
@@ -8044,21 +7522,6 @@ references:
   title: Delta-Sonic Carwash Systems, Inc. v. Building Trades Council, AFL-CIO
   type: legal_case
   volume: '168'
-
-- id: DemandJusticeLeading_nd
-  abstract: >-
-    The Supreme Court has been hijacked, democracy is at stake, and it’s time
-    for progressives to fight back by calling to reform the court.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: DemandJusticeLeading_nd
-  container-title: Demand Justice
-  language: en-US
-  title: Demand Justice is leading the fight to expand the Supreme Court
-  type: webpage
-  URL: https://demandjustice.org/about-3/
 
 - id: DemographicDistributionReport_nd
   accessed:
@@ -8814,26 +8277,6 @@ references:
   source: Google Books
   title: The Power Elite and the State
   type: book
-
-- id: DonnaStroudNorth_nda
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: DonnaStroudNorth_nda
-  title: Donna Stroud | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/donna-stroud
-
-- id: DonnaStroudNorth_ndb
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: DonnaStroudNorth_ndb
-  title: Donna Stroud | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/donna-stroud
 
 - id: donoghueReflectionsSociologyLaw2009
   abstract: >-
@@ -9624,28 +9067,6 @@ references:
   URL: http://www.jstor.org/stable/1073394
   volume: '78'
 
-- id: EndlessWarHow2021
-  abstract: >-
-    Across the country, legislators are trying to gain more control over their
-    states' courts. Many of the efforts are from Republicans aiming to diminish
-    the role of judicial nominating commissions.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: EndlessWarHow2021
-  container-title: Governing
-  issued:
-    - year: 2021
-      month: 2
-      day: 10
-  language: en
-  section: State and Local Politics and Policy
-  title: The Endless War Over How Judges Are Selected
-  type: webpage
-  URL: >-
-    https://www.governing.com/now/The-Endless-War-Over-How-Judges-Are-Selected.html
-
 - id: engelLandscapesLawInjury2014
   abstract: >-
     From an airplane, northern Thailand is a panorama of wild mountains, rice
@@ -9990,7 +9411,7 @@ references:
   title-short: Captains of Consciousness
   type: book
 
-- id: Ewick1998
+- id: ewickCommonPlaceLaw1998
   abstract: >-
     Why do some people not hesitate to call the police to quiet a barking dog in
     the middle of the night, while others accept the pain and losses associated
@@ -10013,7 +9434,7 @@ references:
       given: Patricia
     - family: Silbey
       given: Susan S.
-  citation-key: Ewick1998
+  citation-key: ewickCommonPlaceLaw1998
   event-place: Chicago
   issued:
     - year: 1998
@@ -11116,27 +10537,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt1d9nnbd.9
 
-- id: Fink2001
-  author:
-    - family: Fink
-      given: Eric M.
-    - family: Davidson
-      given: Stuart W.
-  citation-key: Fink2001
-  container-title: 'The CyberUnion Handbook: Transforming Labor Through Computer Technology'
-  editor:
-    - family: Shostak
-      given: Arthur
-  event-place: New York
-  ISBN: 978-0-7656-0803-1
-  issued:
-    - year: 2001
-  page: 98-103
-  publisher: Routledge
-  publisher-place: New York
-  title: Union and Employee Access to Employer E-mail Systems Under Federal Labor Law
-  type: chapter
-
 - id: Fink2004
   author:
     - family: Fink
@@ -11256,20 +10656,6 @@ references:
   title-short: Federal Student Loan Servicing
   type: document
 
-- id: Fink2019
-  author:
-    - family: Fink
-      given: Eric M
-  citation-key: Fink2019
-  container-title: Idaho Law Review
-  issued:
-    - year: 2019
-  language: en
-  page: 953-973
-  title: Union Organizing & Collective Bargaining for Incarcerated Workers
-  type: article-journal
-  volume: '52'
-
 - id: FinkinDisloyalty2007
   author:
     - family: Finkin
@@ -11284,6 +10670,41 @@ references:
   title: Disloyalty! Does Jefferson Standard Stalk Still?
   type: article-journal
   volume: '28'
+
+- id: finkUnionEmployeeAccess2001
+  author:
+    - family: Fink
+      given: Eric M.
+    - family: Davidson
+      given: Stuart W.
+  citation-key: finkUnionEmployeeAccess2001
+  container-title: 'The CyberUnion Handbook: Transforming Labor Through Computer Technology'
+  editor:
+    - family: Shostak
+      given: Arthur
+  event-place: New York
+  ISBN: 978-0-7656-0803-1
+  issued:
+    - year: 2001
+  page: 98-103
+  publisher: Routledge
+  publisher-place: New York
+  title: Union and Employee Access to Employer E-mail Systems Under Federal Labor Law
+  type: chapter
+
+- id: finkUnionOrganizingCollective2019
+  author:
+    - family: Fink
+      given: Eric M
+  citation-key: finkUnionOrganizingCollective2019
+  container-title: Idaho Law Review
+  issued:
+    - year: 2019
+  language: en
+  page: 953-973
+  title: Union Organizing & Collective Bargaining for Incarcerated Workers
+  type: article-journal
+  volume: '52'
 
 - id: FirebirdStructuresLLC2017
   authority: D.N.M.
@@ -12253,16 +11674,6 @@ references:
   title: 'Bananeras: Women Transforming the Banana Unions of Latin America'
   title-short: Bananeras
   type: book
-
-- id: FredGoreNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: FredGoreNorth_nd
-  title: Fred Gore | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/fred-gore
 
 - id: freedDoubtfulProvenanceWood1990
   author:
@@ -14574,7 +13985,7 @@ references:
   URL: https://www.jstor.org/stable/4121181
   volume: '47'
 
-- id: Halliday2019
+- id: hallidayHegemonyVarietiesLegal2019
   accessed:
     - year: 2023
       month: 11
@@ -14582,7 +13993,7 @@ references:
   author:
     - family: Halliday
       given: Simon
-  citation-key: Halliday2019
+  citation-key: hallidayHegemonyVarietiesLegal2019
   container-title: Social & Legal Studies
   DOI: 10.1177/0964663919869739
   ISSN: 0964-6639
@@ -14870,44 +14281,6 @@ references:
   title: The Urgency and Equity of Student Debt Cancellation
   type: report
   URL: https://papers.ssrn.com/abstract=3757034
-
-- id: Harris2019
-  abstract: >-
-    How do we know whether judges of different backgrounds are biased? We review
-    the substantial political science literature on judicial decision making,
-    paying close attention to how judges' demographics and ideology can
-    influence or structure their decision making. As the research demonstrates,
-    characteristics such as race, ethnicity, and gender can sometimes predict
-    judicial decision making in limited kinds of cases; however, the literature
-    also suggests that these characteristics are far less important in shaping
-    or predicting outcomes than is ideology (or partisanship), which in turn
-    correlates closely with gender, race, and ethnicity. This leads us to
-    conclude that assuming judges of different backgrounds are biased because
-    they rule differently is questionable. Given that the application of the law
-    rarely provides one objectively correct answer, it is no surprise that
-    judges' decisions vary according to their personal backgrounds and, more
-    importantly, according to their ideology.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Harris
-      given: Allison P.
-    - family: Sen
-      given: Maya
-  citation-key: Harris2019
-  container-title: Annual Review of Political Science
-  DOI: 10.1146/annurev-polisci-051617-090650
-  issue: '1'
-  issued:
-    - year: 2019
-  page: 241-259
-  source: Annual Reviews
-  title: Bias and Judging
-  type: article-journal
-  URL: https://doi.org/10.1146/annurev-polisci-051617-090650
-  volume: '22'
 
 - id: hartleyComparativeAnalysisStudent
   author:
@@ -15502,7 +14875,7 @@ references:
     https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/how-employers-recruit-their-workers-into-politicsand-why-political-scientists-should-care/778AD469C15C4100DB0C29DB8C858C4B
   volume: '14'
 
-- id: Hertogh2018
+- id: hertoghNobodyLawLegal2018
   abstract: >-
     The first book to examine the erosion of legal legitimacy in everyday life.
     Unlike previous studies on legal consciousness, it does not illustrate the
@@ -15512,7 +14885,7 @@ references:
   author:
     - family: Hertogh
       given: Marc
-  citation-key: Hertogh2018
+  citation-key: hertoghNobodyLawLegal2018
   event-place: London
   ISBN: 978-1-137-60397-5
   issued:
@@ -15785,101 +15158,6 @@ references:
   title-short: Nations and Nationalism Since 1780
   type: book
 
-- id: Hofer2020
-  abstract: >-
-    As the Latino population in the United States grows, it is increasingly
-    important to understand how the unique experience of Latino judges
-    translates into legal decisions. This experience has included, until
-    recently, a bipartisan prioritization to appoint Latinos to the federal
-    judiciary. For the first time, we analyze the judicial decision-making of
-    Latino judges with enough observations to provide robust results. We find
-    that the differences in priorities between the two parties have typically
-    meant more conservative Latino judges on the bench. Using the Carp-Manning
-    U.S. District Court Case Database, we analyze the decisions of Latino judges
-    to determine policy areas where they diverge from their non-Latino
-    counterparts. We find strong evidence that, under certain partisan,
-    ideological, and policy-specific conditions, Latino judges decide
-    differently than non-Latino judges.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Hofer
-      given: Scott
-    - family: Casellas
-      given: Jason
-  citation-key: Hofer2020
-  container-title: American Politics Research
-  DOI: 10.1177/1532673X19867052
-  ISSN: 1532-673X
-  issue: '3'
-  issued:
-    - year: 2020
-      month: 5
-      day: 1
-  language: en
-  page: 343-354
-  publisher: SAGE Publications Inc
-  source: SAGE Journals
-  title: 'Latino Judges on the Federal District Court: ¿Cómo Deciden?'
-  title-short: Latino Judges on the Federal District Court
-  type: article-journal
-  URL: https://doi.org/10.1177/1532673X19867052
-  volume: '48'
-
-- id: Hofer2021
-  abstract: >-
-    The American judiciary has seen a significant rise in diversity with active
-    efforts by presidents to confirm women and racial minorities to the bench,
-    yet a lack of representation remains an issue. While most of the scholarship
-    on the influx of jurists from diverse backgrounds is centered on identifying
-    differences in judicial decision making, we empirically test the impact of
-    racial and gender diversification on the ability of selectors to influence
-    case outcomes by nominating ideologically-aligned judges. Does the selection
-    of judges from underrepresented backgrounds affect the ability of the
-    elected branches to align their ideological preferences on the federal
-    bench? We argue that differences in uncertainty, network integration, and
-    ideological availability within the candidate pool can make it more
-    difficult for selectors to predict the ideological preferences of racial
-    minorities; therefore, their decisions on the bench are less aligned with
-    their selectors’ preferences. Using case outcomes on the federal district
-    courts (1985–2012), we find that decisions adopted by White judges tend to
-    closely align with the ideological preferences of their selectors regardless
-    of their gender; however, the ideology of selectors has no relationship with
-    decisions adopted by most jurists of color, with the exception of Latinas
-    and Asian-Americans. Our results show that diversifying the bench has an
-    ideological cost for the political actors involved in the appointment of
-    district court judges. Weak links between the ideology of the selectors and
-    the behavior of the judges mean lower judicial deference to political
-    actors, and to that extent, the judiciary may become more independent of
-    ongoing ideological battles in American politics.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Hofer
-      given: Scott
-    - family: Achury
-      given: Susan
-  citation-key: Hofer2021
-  container-title: The Justice System Journal
-  ISSN: 0098-261X
-  issue: 3/4
-  issued:
-    - year: 2021
-  page: 306-324
-  publisher: National Center for State Courts
-  source: JSTOR
-  title: >-
-    The Consequences of Diversifying the US District Courts: Race, Gender, and
-    Ideological Alignment through Judicial Appointments
-  title-short: The Consequences of Diversifying the US District Courts
-  type: article-journal
-  URL: https://www.jstor.org/stable/27224784
-  volume: '42'
-
 - id: HokeCountyBd2004
   authority: N.C.
   citation-key: HokeCountyBd2004
@@ -15998,7 +15276,7 @@ references:
   type: legal_case
   volume: '493'
 
-- id: Horak2021
+- id: horakLegalConsciousnessSystematic2021
   abstract: >-
     This article reports on a conducted systematic review focused on
     conceptualization and measurement methods of legal consciousness, which can
@@ -16026,7 +15304,7 @@ references:
       given: David
     - family: Klocek
       given: Adam
-  citation-key: Horak2021
+  citation-key: horakLegalConsciousnessSystematic2021
   container-title: Anuario de Psicologia Juridica
   container-title-short: Anuario de Psicología Jurídica
   DOI: 10.5093/apj2021a2
@@ -16216,26 +15494,6 @@ references:
   type: webpage
   URL: http://gohugo.io/
 
-- id: HunterMurphyNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: HunterMurphyNorth_nd
-  title: Hunter Murphy | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/hunter-murphy
-
-- id: HunterMurphyNorth_nda
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: HunterMurphyNorth_nda
-  title: Hunter Murphy | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/hunter-murphy
-
 - id: huqLitigatingBlueWall2016
   author:
     - family: Huq
@@ -16349,7 +15607,6 @@ references:
   container-title: U.S.
   issued:
     - year: 1986
-  jurisdiction: us
   page: '380'
   title: International Longshoremen's Ass'n. v. Davis
   type: legal_case
@@ -16700,51 +15957,6 @@ references:
   title-short: The Jews and the Frankfurt School
   type: article-journal
   URL: http://www.jstor.org/stable/487976
-
-- id: Jay1980a
-  accessed:
-    - year: 2023
-      month: 12
-      day: 18
-  author:
-    - family: Jay
-      given: Martin
-  citation-key: Jay1980a
-  container-title: New German Critique
-  DOI: 10.2307/487976
-  ISSN: 0094-033X
-  issue: '19'
-  issued:
-    - year: 1980
-  page: 137-149
-  publisher: '[New German Critique, Duke University Press]'
-  source: JSTOR
-  title: >-
-    The Jews and the Frankfurt School: Critical Theory's Analysis of
-    Anti-Semitism
-  title-short: The Jews and the Frankfurt School
-  type: article-journal
-  URL: https://www.jstor.org/stable/487976
-
-- id: JeffersonGriffinNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: JeffersonGriffinNorth_nd
-  title: Jefferson Griffin | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/jefferson-griffin
-
-- id: JefferyCarpenterNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: JefferyCarpenterNorth_nd
-  title: Jeffery Carpenter | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/jeffery-carpenter
 
 - id: Jekyll_nd
   citation-key: Jekyll_nd
@@ -17140,16 +16352,6 @@ references:
   URL: >-
     https://jewish-heritage-europe.eu/2018/07/08/on-the-road-in-cz-a-holocaust-memorial/
 
-- id: JohnArrowoodNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: JohnArrowoodNorth_nd
-  title: John Arrowood | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/john-arrowood
-
 - id: Johnson2008
   abstract: >-
     During the 1960s and 70s the United States environmental movement
@@ -17312,26 +16514,6 @@ references:
   type: legal_case
   volume: '817'
 
-- id: JohnTysonNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: JohnTysonNorth_nd
-  title: John Tyson | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/john-tyson
-
-- id: JohnTysonNorth_nda
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: JohnTysonNorth_nda
-  title: John Tyson | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/john-tyson
-
 - id: JonesFordMotor2004
   authority: 2d Cir.
   citation-key: JonesFordMotor2004
@@ -17422,30 +16604,6 @@ references:
   URL: >-
     https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
 
-- id: JudicialDiversityNot_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: JudicialDiversityNot_nd
-  language: en
-  title: >-
-    Judicial Diversity Is Not Just Important on the Supreme Court | Brennan
-    Center for Justice
-  type: webpage
-  URL: >-
-    https://www.brennancenter.org/our-work/analysis-opinion/judicial-diversity-not-just-important-supreme-court
-
-- id: JuleeFloodNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: JuleeFloodNorth_nd
-  title: Julee Flood | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/julee-flood
-
 - id: Julin2016
   abstract: >-
     This article offers a Nietzschean analysis of Occupy Wall Street offshoot
@@ -17509,38 +16667,6 @@ references:
   publisher: Lexington Books Lexington, MA
   title: 'Police Unionism: Power and Impact in Public-Sector Bargaining'
   type: book
-
-- id: JusticesNCCourt_nd
-  abstract: >-
-    Justices of the NC Court of Appeals from the North Carolina Supreme Court
-    Historical Society
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: JusticesNCCourt_nd
-  language: en-US
-  title: >-
-    Justices of the NC Court of Appeals | North Carolina Supreme Court
-    Historical Society | North Carolina Supreme Court Historical Society
-  type: webpage
-  URL: https://ncschs.net/justices-judges-members/chief-judges-nc-court-of-appeals/
-
-- id: JusticesNCSupreme_nd
-  abstract: >-
-    Justices of the NC Supreme Court from the North Carolina Supreme Court
-    Historical Society
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: JusticesNCSupreme_nd
-  language: en-US
-  title: >-
-    Justices of the NC Supreme Court | North Carolina Supreme Court Historical
-    Society | North Carolina Supreme Court Historical Society
-  type: webpage
-  URL: https://ncschs.net/justices-judges-members/chief-justices-nc-supreme-court/
 
 - id: JustusRosner2018
   authority: N.C.
@@ -17840,100 +16966,6 @@ references:
     Eastern Europe
   title-short: The Tragedy of a Generation
   type: book
-
-- id: Kaslovsky2018DescriptiveR
-  author:
-    - family: Kaslovsky
-      given: Jaclyn
-    - family: Rogowski
-      given: C.
-    - family: Stone
-      given: Andrew R.
-  citation-key: Kaslovsky2018DescriptiveR
-  issued:
-    - year: 2018
-  title: Descriptive Representation, Public Opinion , and the Courts
-  type: paper-conference
-  URL: https://api.semanticscholar.org/CorpusID:264921474
-
-- id: Kastellec2011
-  abstract: >-
-    This paper evaluates the substantive consequences of judicial diversity on
-    the U.S. Courts of Appeals. Because of the small percentage of racial
-    minorities on the federal bench, the key question in evaluating these
-    consequences is not whether minority judges simply vote differently from
-    non-minority judges, but whether their presence on appellate courts
-    influences their colleagues and also affects case outcomes. Using matching
-    methods, I show that black judges are significantly more likely than white
-    judges to support affirmative action programs. In fact, the random
-    assignment of a black counter-judge - a black judge sitting with two white
-    judges - to a three-judge panel of the Courts of Appeals nearly ensures that
-    the panel will vote in favor of an affirmative action program. Thus, the
-    substantive consequences of racial diversity on the Courts of Appeals are
-    quite large.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Kastellec
-      given: Jonathan P.
-  citation-key: Kastellec2011
-  DOI: 10.2139/ssrn.1674052
-  event-place: Rochester, NY
-  genre: SSRN Scholarly Paper
-  issued:
-    - year: 2011
-      month: 11
-      day: 11
-  language: en
-  publisher-place: Rochester, NY
-  source: Social Science Research Network
-  title: Racial Diversity and Judicial Influence on Appellate Courts
-  type: article
-  URL: https://papers.ssrn.com/abstract=1674052
-
-- id: Kastellec2016
-  abstract: >-
-    I examine how the identities of judges on multimember courts interact with
-    case context to influence judicial decision making.  Specifically, I
-    leverage variation in panel composition and defendant race to examine
-    race-based panel effects in death penalty cases on the Courts of Appeals. 
-    Using a dataset that accounts for several characteristics of a defendant and
-    his crime, I find that the random assignment of a black judge to an
-    otherwise all-nonblack panel substantially increases the probability that
-    the panel will grant relief to a defendant on death row -- but only in cases
-    where the defendant is black. The size of the increase is substantially
-    large: conditional on the defendant being black, a three-judge panel with a
-    single African-American judge is about 25 percentage points more likely to
-    grant relief than an all-nonblack panel.  These results have important
-    implications for assessing the role of diversity on the federal courts and
-    contribute to the empirical literature on the application of the death
-    penalty in the United States.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Kastellec
-      given: Jonathan P.
-  citation-key: Kastellec2016
-  DOI: 10.2139/ssrn.2594946
-  event-place: Rochester, NY
-  genre: SSRN Scholarly Paper
-  issued:
-    - year: 2016
-      month: 7
-      day: 26
-  language: en
-  publisher-place: Rochester, NY
-  source: Social Science Research Network
-  title: >-
-    Race, Context and Judging on the Courts of Appeals: Race-Based Panel Effects
-    in Death Penalty Cases
-  title-short: Race, Context and Judging on the Courts of Appeals
-  type: article
-  URL: https://papers.ssrn.com/abstract=2594946
 
 - id: katzIntroductionCollectiveBargaining2017
   abstract: >-
@@ -18657,48 +17689,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.48
 
-- id: Kirkpatrick2020
-  abstract: >-
-    While a rich and developed body of literature focuses on questions of
-    diversity in legislatures, a growing body of scholarship addresses these
-    questions for the judiciary. This burgeoning area of study presents several
-    challenges, three of which are illuminated by papers in this Dialogue
-    section. As the papers show, these three research challenges are empirical
-    and normative. By bringing together political theory and empirical research,
-    and by focusing on both the US and comparative judiciaries, the essays build
-    our understanding of processes of representation in the judiciary and the
-    complexities of the relationships between race, ethnicity, and gender.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Kirkpatrick
-      given: Jennet
-    - family: Kittilson
-      given: Miki Caul
-    - family: Hoekstra
-      given: Valerie
-  citation-key: Kirkpatrick2020
-  container-title: Politics, Groups, and Identities
-  DOI: 10.1080/21565503.2020.1782953
-  ISSN: 2156-5503
-  issue: '4'
-  issued:
-    - year: 2020
-      month: 8
-      day: 7
-  page: 786-789
-  publisher: Routledge
-  source: Taylor and Francis+NEJM
-  title: >-
-    Diversity in the judiciary: how diversity matters for democratic inclusion,
-    representation, and inequalities
-  title-short: Diversity in the judiciary
-  type: article-journal
-  URL: https://doi.org/10.1080/21565503.2020.1782953
-  volume: '8'
-
 - id: kirschMeltdownFinancialCrisis2017
   abstract: >-
     Meltdown reveals how the Consumer Financial Protection Bureau was able to
@@ -19139,7 +18129,7 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/lasr.12606
   volume: '56'
 
-- id: Klerman2022
+- id: klermanLawMattersLess2022
   abstract: >-
     In a pre-registered 2 × 2 × 2 factorial between-subject randomized lab
     experiment with 61 federal judges, we test if the law influences judicial
@@ -19158,7 +18148,7 @@ references:
       given: Daniel
     - family: Spamann
       given: Holger
-  citation-key: Klerman2022
+  citation-key: klermanLawMattersLess2022
   container-title: The Journal of Law, Economics, and Organization
   container-title-short: The Journal of Law, Economics, and Organization
   DOI: 10.1093/jleo/ewac008
@@ -19246,17 +18236,6 @@ references:
   title: Police Unions and the Public Safety
   type: article-journal
   volume: '291'
-
-- id: Kopko2010TheEO
-  author:
-    - family: Kopko
-      given: Kyle C.
-  citation-key: Kopko2010TheEO
-  issued:
-    - year: 2010
-  title: The Effect of Partisanship in Election Law Judicial Decision-Making
-  type: paper-conference
-  URL: https://api.semanticscholar.org/CorpusID:157137144
 
 - id: Kramer2004
   abstract: >-
@@ -20070,52 +19049,6 @@ references:
   URL: https://doi.org/10.1177/0896920513512695
   volume: '40'
 
-- id: Lee2022
-  abstract: >-
-    Women constitute an increasing presence in American political institutions,
-    raising the question: does their growing presence affect attitudes about
-    these institutions’ legitimacy? According to descriptive representation, the
-    legitimacy of institutions should increase as institutions diversify. Yet,
-    research finds that descriptive representation’s effect is not uniformly
-    positive. Individuals who perceive their group as losing representation
-    profess lower levels of institutional support. We test whether women and men
-    react differently to seeing a woman leading an institution – a State Supreme
-    Court. Using an experiment where subjects were exposed to seeing a woman
-    chief justice, we found that men have lower levels of diffuse support than
-    do men who do not see a woman chief justice. Meanwhile, we find that women
-    with lower levels of education have significantly higher legitimacy scores
-    when they see a woman leading the court.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Lee
-      given: Claire
-    - family: Solberg
-      given: Rorie
-    - family: Waltenburg
-      given: Eric N.
-  citation-key: Lee2022
-  container-title: Politics, Groups, and Identities
-  DOI: 10.1080/21565503.2020.1864651
-  ISSN: 2156-5503
-  issue: '4'
-  issued:
-    - year: 2022
-      month: 8
-      day: 8
-  page: 581-596
-  publisher: Routledge
-  source: Taylor and Francis+NEJM
-  title: >-
-    See Jane judge: descriptive representation and diffuse support for a State
-    Supreme Court
-  title-short: See Jane judge
-  type: article-journal
-  URL: https://doi.org/10.1080/21565503.2020.1864651
-  volume: '10'
-
 - id: LegalZoomComInc2012
   authority: N.C.Super.
   citation-key: LegalZoomComInc2012
@@ -20837,82 +19770,12 @@ references:
   URL: www.jstor.org/stable/90017047
   volume: '38'
 
-- id: ListJusticesNorth2023
-  abstract: Following is a list of justices of the North Carolina Supreme Court.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: ListJusticesNorth2023
-  container-title: Wikipedia
-  issued:
-    - year: 2023
-      month: 12
-      day: 22
-  language: en
-  license: Creative Commons Attribution-ShareAlike License
-  source: Wikipedia
-  title: List of justices of the North Carolina Supreme Court
-  type: entry-encyclopedia
-  URL: >-
-    https://en.wikipedia.org/wiki/List_of_justices_of_the_North_Carolina_Supreme_Court
-
 - id: LiteratureLatteScrivener
   citation-key: LiteratureLatteScrivener
   note: 'Select: zotero://select/library/items/LRCUKCCD'
   title: Literature and Latte - Scrivener Writing Software
   type: webpage
   URL: https://www.literatureandlatte.com/scrivener.php
-
-- id: Liu2020
-  abstract: >-
-    This study examines the role of judges' political affiliation in determining
-    the outcomes of environmental lawsuits filed against public corporations and
-    their economic impacts on the defendant firms. Drawing on legal theories of
-    judicial decision making, individual judges are expected to play an
-    important role in influencing lawsuit outcomes and consequently the sued
-    firms' shareholder wealth. This study employs a hand-collected sample of
-    environmental lawsuits filed in the U.S. Federal District Courts against
-    public firms during 2000–2015, utilizing the random assignment of judges to
-    lawsuits to combat endogeneity concerns. The empirical evidence shows that
-    lawsuits with Republican-appointed judges are approximately 12% less likely
-    to succeed in reaching a settlement compared with those adjudicated by
-    Democratic-appointed judges, holding constant other lawsuit-, judge-, and
-    firm-specific factors. Further, investors of defendant firms react more
-    favorably to the outcome of a lawsuit adjudicated by a Republican-appointed
-    judge compared with a Democratic appointee: the difference of 0.6% of market
-    value during the three-day period surrounding the lawsuit conclusion
-    represents a substantial saving of shareholder wealth. These significant
-    differences are not attributable to alternative explanations, such as other
-    judge idiosyncrasies or firm characteristics, and remain robust to a series
-    of additional analyses. These empirical findings offer new insights into the
-    significant impacts of judge political affiliation on corporate
-    environmental litigation and provide novel evidence on the magnitude of
-    their economic consequences.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Liu
-      given: Chelsea
-  citation-key: Liu2020
-  container-title: Journal of Corporate Finance
-  container-title-short: Journal of Corporate Finance
-  DOI: 10.1016/j.jcorpfin.2020.101670
-  ISSN: 0929-1199
-  issued:
-    - year: 2020
-      month: 10
-      day: 1
-  page: '101670'
-  source: ScienceDirect
-  title: >-
-    Judge political affiliation and impacts of corporate environmental
-    litigation
-  type: article-journal
-  URL: https://www.sciencedirect.com/science/article/pii/S0929119920301140
-  volume: '64'
 
 - id: LivadasBradshaw1994
   authority: U.S.
@@ -21100,62 +19963,6 @@ references:
   URL: >-
     http://bostonreview.net/class-inequality-politics/olivia-schwob-long-history-debt-cancellation
 
-- id: Lonsway2002
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Lonsway
-      given: Kimberly A.
-    - family: Freeman
-      given: Leslie V.
-    - family: Cortina
-      given: Lilia M.
-    - family: Magley
-      given: Vicki J.
-    - family: Fitzgerald
-      given: Louise F.
-  citation-key: Lonsway2002
-  container-title: Law & Social Inquiry
-  DOI: 10.1111/j.1747-4469.2002.tb00803.x
-  ISSN: 0897-6546, 1747-4469
-  issue: '2'
-  issued:
-    - year: 2002
-      month: 4
-  language: en
-  page: 205-234
-  source: Crossref
-  title: >-
-    Understanding the Judicial Role in Addressing Gender Bias: A View from the
-    Eighth Circuit Federal Court System
-  title-short: Understanding the Judicial Role in Addressing Gender Bias
-  type: article-journal
-  URL: http://doi.wiley.com/10.1111/j.1747-4469.2002.tb00803.x
-  volume: '27'
-
-- id: Loomis1930
-  author:
-    - family: Loomis
-      given: Charles P.
-  citation-key: Loomis1930
-  container-title: The North Carolina Historical Review
-  ISSN: 0029-2494
-  issue: '4'
-  issued:
-    - year: 1930
-  note: >-
-    orth Carolina Office of Archives and History"}}Citation Key:
-    loomisActivitiesNorthCarolina1930
-  page: 443-462
-  publisher: North Carolina Office of Archives and History
-  source: JSTOR
-  title: Activities of the North Carolina Farmers' Union
-  type: article-journal
-  URL: http://www.jstor.org/stable/23515092
-  volume: '7'
-
 - id: Loomis2015
   abstract: >-
     When jobs can move anywhere in the world, bosses have no incentive to
@@ -21200,6 +20007,27 @@ references:
     Catastrophe
   title-short: Out of Sight
   type: book
+
+- id: loomisActivitiesNorthCarolina1930
+  author:
+    - family: Loomis
+      given: Charles P.
+  citation-key: loomisActivitiesNorthCarolina1930
+  container-title: The North Carolina Historical Review
+  ISSN: 0029-2494
+  issue: '4'
+  issued:
+    - year: 1930
+  note: >-
+    orth Carolina Office of Archives and History"}}Citation Key:
+    loomisActivitiesNorthCarolina1930
+  page: 443-462
+  publisher: North Carolina Office of Archives and History
+  source: JSTOR
+  title: Activities of the North Carolina Farmers' Union
+  type: article-journal
+  URL: http://www.jstor.org/stable/23515092
+  volume: '7'
 
 - id: loomisEmpireTimberLabor2017
   abstract: >-
@@ -21454,7 +20282,7 @@ references:
     https://www.historicalmaterialism.org/articles/not-your-good-germans?utm_source=pocket_saves
   volume: '32'
 
-- id: Loyal2017
+- id: loyalBourdieuTheoryState2017
   abstract: >-
     This book critically examines Pierre Bourdieu's theory of the state by
     assessing its theoretical and empirical value. Steven Loyal expertly
@@ -21465,7 +20293,7 @@ references:
   author:
     - family: Loyal
       given: Steven
-  citation-key: Loyal2017
+  citation-key: loyalBourdieuTheoryState2017
   ISBN: 978-1-137-58350-5
   issued:
     - year: 2017
@@ -21736,7 +20564,7 @@ references:
   type: article-journal
   volume: '49'
 
-- id: Maharg2007
+- id: mahargSimulationsLearningMetaverse2007
   abstract: >-
     Simulation is one of the major applications of the web in entertainment and
     training, but has so far received little attention from HE and FE. It is
@@ -21757,7 +20585,7 @@ references:
       given: Paul
     - family: Owen
       given: Martin
-  citation-key: Maharg2007
+  citation-key: mahargSimulationsLearningMetaverse2007
   issued:
     - year: 2007
       month: 7
@@ -21770,12 +20598,12 @@ references:
   title-short: Simulations, Learning and the Metaverse
   type: article-journal
 
-- id: Mahmud2012
+- id: mahmudDebtDiscipline2012
   archive: JSTOR
   author:
     - family: Mahmud
       given: Tayyab
-  citation-key: Mahmud2012
+  citation-key: mahmudDebtDiscipline2012
   container-title: American Quarterly
   ISSN: 0003-0678
   issue: '3'
@@ -21809,11 +20637,11 @@ references:
   title: Bargaining for Contingent Faculty
   type: article-journal
 
-- id: Malinowski_nd
+- id: malinowskiZoteroBibTexQuick
   author:
     - family: Malinowski
       given: Christine
-  citation-key: Malinowski_nd
+  citation-key: malinowskiZoteroBibTexQuick
   title: Zotero and BibTex Quick Guide
   type: document
   URL: https://libguides.mit.edu/ld.php?content_id=34248570
@@ -21844,7 +20672,18 @@ references:
   type: legal_case
   volume: '349'
 
-- id: Mann1986
+- id: MannoElecInc1996
+  authority: N.L.R.B.
+  citation-key: MannoElecInc1996
+  container-title: N.L.R.B.
+  issued:
+    - year: 1996
+  page: '297'
+  title: Manno Elec., Inc.
+  type: legal_case
+  volume: '321'
+
+- id: mannSourcesSocialPower1986
   abstract: >-
     This second volume of Michael Mann's analytical history of social power
     deals with power relations between the Industrial Revolution and the First
@@ -21860,7 +20699,7 @@ references:
   author:
     - family: Mann
       given: Michael
-  citation-key: Mann1986
+  citation-key: mannSourcesSocialPower1986
   ISBN: 978-0-521-44585-6
   issued:
     - year: 1986
@@ -21875,14 +20714,14 @@ references:
   title-short: The Sources of Social Power
   type: book
 
-- id: Mann1988
+- id: mannStatesWarCapitalism1988
   abstract: >-
     Examines the interrelationship between states, war and the economy and shows
     how an overall theory of these must involve consideration of them all.
   author:
     - family: Mann
       given: Michael
-  citation-key: Mann1988
+  citation-key: mannStatesWarCapitalism1988
   ISBN: 978-0-631-15973-5
   issued:
     - year: 1988
@@ -21894,17 +20733,6 @@ references:
   title: 'States, War, and Capitalism: Studies in Political Sociology'
   title-short: States, War, and Capitalism
   type: book
-
-- id: MannoElecInc1996
-  authority: N.L.R.B.
-  citation-key: MannoElecInc1996
-  container-title: N.L.R.B.
-  issued:
-    - year: 1996
-  page: '297'
-  title: Manno Elec., Inc.
-  type: legal_case
-  volume: '321'
 
 - id: Marceau2015
   author:
@@ -21988,12 +20816,12 @@ references:
   type: legal_case
   volume: '885'
 
-- id: Markovits2019
+- id: markovitsMeritocracyTrapHow2019
   abstract: "A revolutionary new argument from eminent Yale Law professor Daniel Markovits attacking the false promise of meritocracy\_It is an axiom of American life that advantage should be earned through ability and effort. Even as the country divides itself at every turn, the meritocratic ideal – that social and economic rewards should follow achievement rather than breeding – reigns supreme.\_ Both Democrats and Republicans insistently repeat meritocratic notions. Meritocracy cuts to the heart of who we are. It sustains the American dream. \_ But what if, both up and down the social ladder, meritocracy is a sham? Today, meritocracy has become exactly what it was conceived to resist: a mechanism for the concentration and dynastic transmission of wealth and privilege across generations. Upward mobility has become a fantasy, and the embattled middle classes are now more likely to sink into the working poor than to rise into the professional elite. At the same time, meritocracy now ensnares even those who manage to claw their way to the top, requiring rich adults to work with crushing intensity, exploiting their expensive educations in order to extract a return. All this is not the result of deviations or retreats from meritocracy but rather stems directly from meritocracy’s successes. \_ This is the radical argument that\_Daniel Markovits prosecutes with rare force. Markovits is well placed to expose the sham of meritocracy. Having spent his life at elite universities, he knows from the inside the corrosive system we are trapped within. Markovits also knows that, if we understand that meritocratic inequality produces near-universal harm, we can cure it. When The Meritocracy Trap reveals the inner workings of the meritocratic machine, it also illuminates the first steps outward, towards a new world that might once again afford dignity and prosperity to the American people."
   author:
     - family: Markovits
       given: Daniel
-  citation-key: Markovits2019
+  citation-key: markovitsMeritocracyTrapHow2019
   event-place: New York
   ISBN: 978-0-7352-2199-4
   issued:
@@ -22207,14 +21035,14 @@ references:
   URL: https://doi.org/10.1080/00236568508584794
   volume: '26'
 
-- id: Marx1992
+- id: marxCapitalCritiquePolitical1992
   abstract: "The first volume of a political treatise that changed the worldOne of the most notorious works of modern times, as well as one of the most influential,\_Capital\_is an incisive critique of private property and the social relations it generates. Living in exile in England, where this work was largely written, Marx drew on a wide-ranging knowledge of its society to support his analysis and create fresh insights. Arguing that capitalism would cause an ever-increasing division in wealth and welfare, he predicted its abolition and replacement by a system with common ownership of the means of production.\_Capital\_rapidly acquired readership among the leaders of social democratic parties, particularly in Russia in Germany, and ultimately throughout the world, to become a work described by Marx friend and collaborator Friedrich Engels as “the Bible of the working class.”For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
   author:
     - family: Marx
       given: Karl
     - family: Mandel
       given: Ernest
-  citation-key: Marx1992
+  citation-key: marxCapitalCritiquePolitical1992
   edition: Reprint edition
   event-place: London ; New York, N.Y
   ISBN: 978-0-14-044568-8
@@ -22236,48 +21064,7 @@ references:
   type: book
   volume: '1'
 
-- id: Marx1993
-  abstract: >-
-    The second volume of a political treatise that changed the worldA vital
-    cornerstone to Marx’s overall theory of economics, the second volume of
-    Capital considers in depth the nature of commodity and the market-place
-    bourgeois society. This immensely powerful work argues that prosperity in a
-    capitalist society inevitably holds within itself the seeds of its own
-    destruction.For more than seventy years, Penguin has been the leading
-    publisher of classic literature in the English-speaking world. With more
-    than 1,700 titles, Penguin Classics represents a global bookshelf of the
-    best works throughout history and across genres and disciplines. Readers
-    trust the series to provide authoritative texts enhanced by introductions
-    and notes by distinguished scholars and contemporary authors, as well as
-    up-to-date translations by award-winning translators.
-  author:
-    - family: Marx
-      given: Karl
-    - family: Mandel
-      given: Ernest
-  citation-key: Marx1993
-  edition: Reprint edition
-  event-place: London
-  ISBN: 978-0-14-044569-5
-  issued:
-    - year: 1993
-      month: 3
-      day: 1
-  language: English
-  note: 'Select: zotero://select/library/items/5N8V2CPD'
-  number-of-pages: '624'
-  publisher: Penguin Classics
-  publisher-place: London
-  source: Amazon
-  title: 'Capital: A Critique of Political Economy, vol. 2'
-  title-short: Capital
-  translator:
-    - family: Fernbach
-      given: David
-  type: book
-  volume: '2'
-
-- id: Marx1993a
+- id: marxCapitalCritiquePolitical1993
   abstract: >-
     The third volume of a political treatise that changed the worldUnfinished at
     the time of Marx’s death in 1883 and first published with a preface by
@@ -22302,7 +21089,7 @@ references:
       given: Karl
     - family: Mandel
       given: Ernest
-  citation-key: Marx1993a
+  citation-key: marxCapitalCritiquePolitical1993
   edition: Reissue edition
   event-place: New York, N.Y., U.S.A
   ISBN: 978-0-14-044570-1
@@ -22324,7 +21111,48 @@ references:
   type: book
   volume: '3'
 
-- id: Marx1993b
+- id: marxCapitalCritiquePolitical1993a
+  abstract: >-
+    The second volume of a political treatise that changed the worldA vital
+    cornerstone to Marx’s overall theory of economics, the second volume of
+    Capital considers in depth the nature of commodity and the market-place
+    bourgeois society. This immensely powerful work argues that prosperity in a
+    capitalist society inevitably holds within itself the seeds of its own
+    destruction.For more than seventy years, Penguin has been the leading
+    publisher of classic literature in the English-speaking world. With more
+    than 1,700 titles, Penguin Classics represents a global bookshelf of the
+    best works throughout history and across genres and disciplines. Readers
+    trust the series to provide authoritative texts enhanced by introductions
+    and notes by distinguished scholars and contemporary authors, as well as
+    up-to-date translations by award-winning translators.
+  author:
+    - family: Marx
+      given: Karl
+    - family: Mandel
+      given: Ernest
+  citation-key: marxCapitalCritiquePolitical1993a
+  edition: Reprint edition
+  event-place: London
+  ISBN: 978-0-14-044569-5
+  issued:
+    - year: 1993
+      month: 3
+      day: 1
+  language: English
+  note: 'Select: zotero://select/library/items/5N8V2CPD'
+  number-of-pages: '624'
+  publisher: Penguin Classics
+  publisher-place: London
+  source: Amazon
+  title: 'Capital: A Critique of Political Economy, vol. 2'
+  title-short: Capital
+  translator:
+    - family: Fernbach
+      given: David
+  type: book
+  volume: '2'
+
+- id: marxGrundrisseFoundationsCritique1993
   abstract: >-
     Written during the winter of 1857-8, the Grundrisse was considered by Marx
     to be the first scientific elaboration of communist theory. A collection of
@@ -22347,7 +21175,7 @@ references:
   author:
     - family: Marx
       given: Karl
-  citation-key: Marx1993b
+  citation-key: marxGrundrisseFoundationsCritique1993
   edition: Reprint edition
   ISBN: 978-0-14-044575-6
   issued:
@@ -22490,12 +21318,12 @@ references:
   type: webpage
   URL: https://culanth.org/fieldsights/series/finance
 
-- id: Mauss1972
+- id: maussGeneralTheoryMagic1972
   author:
     - family: Mauss
       given: Marcel
   call-number: '0000'
-  citation-key: Mauss1972
+  citation-key: maussGeneralTheoryMagic1972
   event-place: New York
   issued:
     - year: 1972
@@ -22591,7 +21419,7 @@ references:
   URL: https://browzine.com/articles/164896683
   volume: '17'
 
-- id: McAdam2001
+- id: mcadamDynamicsContention2001
   abstract: >-
     Dissatisfied with the compartmentalization of studies concerning strikes,
     wars, revolutions, social movements, and other forms of political struggle,
@@ -22625,7 +21453,7 @@ references:
       given: Charles
     - family: PhD
       given: Joseph L. Buttenwieser Professor of Social Science Charles Tilly
-  citation-key: McAdam2001
+  citation-key: mcadamDynamicsContention2001
   ISBN: 978-0-521-01187-7
   issued:
     - year: 2001
@@ -22785,7 +21613,7 @@ references:
   type: legal_case
   volume: '278'
 
-- id: McCall2003
+- id: mccallDefenseJustCause2003
   abstract: >-
     The United States is distinctive among advanced economies in that its
     employment laws and practices are governed by Employment at Will (EAW). Most
@@ -22797,7 +21625,7 @@ references:
   author:
     - family: McCall
       given: John J.
-  citation-key: McCall2003
+  citation-key: mccallDefenseJustCause2003
   container-title: Business Ethics Quarterly
   ISSN: 1052-150X
   issue: '2'
@@ -22930,7 +21758,7 @@ references:
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=351500
 
-- id: McCarthy2013
+- id: mccarthySocialMovementOrganization2013
   abstract: >-
     Traditional approaches to understanding the emergence and mobilization of
     social movements focused primarily upon fluctuations in the hearts and minds
@@ -22961,7 +21789,7 @@ references:
   author:
     - family: McCarthy
       given: John D.
-  citation-key: McCarthy2013
+  citation-key: mccarthySocialMovementOrganization2013
   container-title: The Wiley-Blackwell Encyclopedia of Social and Political Movements
   DOI: 10.1002/9780470674871.wbespm195
   ISBN: 978-0-470-67487-1
@@ -23306,7 +22134,7 @@ references:
   type: legal_case
   volume: '758'
 
-- id: Melucci1995
+- id: melucciProcessCollectiveIdentity1995
   abstract: >-
     Interest in cultural analysis has grown in the past two decades together
     with an extraordinary cultural transformation of planetary society. We are
@@ -23326,7 +22154,7 @@ references:
   author:
     - family: Melucci
       given: Alberto
-  citation-key: Melucci1995
+  citation-key: melucciProcessCollectiveIdentity1995
   container-title: Social Movements and Culture
   edition: NED - New edition
   editor:
@@ -23345,38 +22173,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/10.5749/j.ctttt0p8.6
   volume: '4'
-
-- id: MembersNCCourt_nd
-  abstract: >-
-    Members of the NC Court of Appeals from the North Carolina Supreme Court
-    Historical Society
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: MembersNCCourt_nd
-  language: en-US
-  title: >-
-    Members of the NC Court of Appeals | North Carolina Supreme Court Historical
-    Society | North Carolina Supreme Court Historical Society
-  type: webpage
-  URL: https://ncschs.net/justices-judges-members/members-nc-court-of-appeals/
-
-- id: MembersNCSupreme_nd
-  abstract: >-
-    Members of the NC Supreme Court of the North Carolina Supreme Court
-    Historical Society
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: MembersNCSupreme_nd
-  language: en-US
-  title: >-
-    Members of the NC Supreme Court | North Carolina Supreme Court Historical
-    Society | North Carolina Supreme Court Historical Society
-  type: webpage
-  URL: https://ncschs.net/justices-judges-members/members-supreme-court-of-nc/
 
 - id: merabetSwordShieldSocial2013a
   author:
@@ -23419,7 +22215,7 @@ references:
   URL: >-
     https://www.washingtonpost.com/business/2019/08/07/zombie-debt-how-collectors-trick-consumers-into-reviving-dead-debts/
 
-- id: Merry1990
+- id: merryGettingJusticeGetting1990
   abstract: >-
     Ordinary Americans often bring family and neighborhood problems to court,
     seeking justice or revenge. The litigants in these local squabbles encounter
@@ -23447,7 +22243,7 @@ references:
   author:
     - family: Merry
       given: Sally Engle
-  citation-key: Merry1990
+  citation-key: merryGettingJusticeGetting1990
   event-place: Chicago
   issued:
     - year: 1990
@@ -23580,41 +22376,6 @@ references:
   URL: https://doi.org/10.1177/0160449X0402800403
   volume: '28'
 
-- id: Meyer1996
-  abstract: >-
-    Movement-countermovement interaction is an ongoing feature of contemporary
-    social movements and, indeed, of contemporary politics. Yet the interplay of
-    contending movements is understudied and undertheorized. This article begins
-    to remedy this deficit by arguing that new work on political opportunity
-    structure provides important insights and significant theoretical leverage
-    for this study. Through a review of the literatures on countermovements and
-    political opportunity, this article argues that this interaction increases
-    when states enable but do not satisfy challengers. This article presents a
-    general framework of theoretical propositions for understanding the
-    interplay of movements and their opponents to animate and guide subsequent
-    research.
-  author:
-    - family: Meyer
-      given: David S.
-    - family: Staggenborg
-      given: Suzanne
-  citation-key: Meyer1996
-  container-title: American Journal of Sociology
-  ISSN: 0002-9602
-  issue: '6'
-  issued:
-    - year: 1996
-  note: >-
-    s":{"publisher":"University of Chicago Press"}}Citation Key:
-    meyerMovementsCountermovementsStructure1996
-  page: 1628-1660
-  publisher: University of Chicago Press
-  source: JSTOR
-  title: Movements, Countermovements, and the Structure of Political Opportunity
-  type: article-journal
-  URL: http://www.jstor.org/stable/2782114
-  volume: '101'
-
 - id: Meyer2007
   abstract: >-
     The watershed Supreme Court decision in "Brown v. Board of Education"
@@ -23656,6 +22417,41 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/20446351
   volume: '5'
+
+- id: meyerMovementsCountermovementsStructure1996
+  abstract: >-
+    Movement-countermovement interaction is an ongoing feature of contemporary
+    social movements and, indeed, of contemporary politics. Yet the interplay of
+    contending movements is understudied and undertheorized. This article begins
+    to remedy this deficit by arguing that new work on political opportunity
+    structure provides important insights and significant theoretical leverage
+    for this study. Through a review of the literatures on countermovements and
+    political opportunity, this article argues that this interaction increases
+    when states enable but do not satisfy challengers. This article presents a
+    general framework of theoretical propositions for understanding the
+    interplay of movements and their opponents to animate and guide subsequent
+    research.
+  author:
+    - family: Meyer
+      given: David S.
+    - family: Staggenborg
+      given: Suzanne
+  citation-key: meyerMovementsCountermovementsStructure1996
+  container-title: American Journal of Sociology
+  ISSN: 0002-9602
+  issue: '6'
+  issued:
+    - year: 1996
+  note: >-
+    s":{"publisher":"University of Chicago Press"}}Citation Key:
+    meyerMovementsCountermovementsStructure1996
+  page: 1628-1660
+  publisher: University of Chicago Press
+  source: JSTOR
+  title: Movements, Countermovements, and the Structure of Political Opportunity
+  type: article-journal
+  URL: http://www.jstor.org/stable/2782114
+  volume: '101'
 
 - id: MeyersI1984
   authority: N.L.R.B.
@@ -23734,16 +22530,6 @@ references:
   title-short: House of Debt
   type: book
 
-- id: MichaelStadingNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: MichaelStadingNorth_nd
-  title: Michael Stading | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/michael-stading
-
 - id: micklitzConsumerDebtSocial2016
   abstract: >-
     This book analyses the dichotomy between the goal of social inclusion and
@@ -23792,30 +22578,6 @@ references:
   title: Miklin Enterprises, Inc. v. Nlrb
   type: legal_case
   volume: '861'
-
-- id: Mikus2015
-  author:
-    - family: Mikuš
-      given: Marek
-  citation-key: Mikus2015
-  container-title: Sociologija
-  ISSN: 0038-0318
-  issue: '4'
-  issued:
-    - year: 2015
-  language: English
-  note: >-
-    publisher":"Sociološko naučno društvo Srbije"}}Citation Key:
-    mikusInformalNetworksInterstitial2015
-  page: 571-592
-  publisher: Sociološko naučno društvo Srbije
-  source: www.ceeol.com
-  title: >-
-    Informal Networks and Interstitial Arenas of Power in the Making of Civil
-    Society Law in Serbia
-  type: article-journal
-  URL: https://www.ceeol.com/search/article-detail?id=341297
-  volume: '57'
 
 - id: mikusAnthropologyFinancializationEastern2021
   abstract: >-
@@ -23906,6 +22668,30 @@ references:
   title-short: Households and Financialization in Europe
   type: book
 
+- id: mikusInformalNetworksInterstitial2015
+  author:
+    - family: Mikuš
+      given: Marek
+  citation-key: mikusInformalNetworksInterstitial2015
+  container-title: Sociologija
+  ISSN: 0038-0318
+  issue: '4'
+  issued:
+    - year: 2015
+  language: English
+  note: >-
+    publisher":"Sociološko naučno društvo Srbije"}}Citation Key:
+    mikusInformalNetworksInterstitial2015
+  page: 571-592
+  publisher: Sociološko naučno društvo Srbije
+  source: www.ceeol.com
+  title: >-
+    Informal Networks and Interstitial Arenas of Power in the Making of Civil
+    Society Law in Serbia
+  type: article-journal
+  URL: https://www.ceeol.com/search/article-detail?id=341297
+  volume: '57'
+
 - id: mikusMakingDebtWork2020
   abstract: >-
     Debt collection is a crucial stage in the life-cycle of debt, but so far it
@@ -23932,32 +22718,7 @@ references:
   title-short: Making Debt Work
   type: chapter
 
-- id: Milanovic2012
-  abstract: "Who is the richest person in the world, ever? Does where you were born affect how much money you’ll earn over a lifetime? How would we know? Why—beyond the idle curiosity—do these questions even matter? In The Haves and the Have-Nots, Branko Milanovic, one of the world’s leading experts on wealth, poverty, and the gap that separates them, explains these and other mysteries of how wealth is unevenly spread throughout our world, now and through time.\_Milanovic uses history, literature and stories straight out of today’s newspapers, to discuss one of the major divisions in our social lives: between the haves and the have-nots. He reveals just how rich Elizabeth Bennet’s suitor Mr. Darcy really was; how much Anna Karenina gained by falling in love; how wealthy ancient Romans compare to today’s super-rich; where in Kenyan income distribution was Obama’s grandfather; how we should think about Marxism in a modern world; and how location where one is born determines his wealth. He goes beyond mere entertainment to explain why inequality matters, how it damages our economics prospects, and how it can threaten the foundations of the social order that we take for granted.\_ Bold, engaging, and illuminating, The Haves and the Have-Nots teaches us not only how to think about inequality, but why we should."
-  author:
-    - family: Milanovic
-      given: Branko
-  citation-key: Milanovic2012
-  edition: Reprint edition
-  event-place: New York
-  ISBN: 978-0-465-03141-2
-  issued:
-    - year: 2012
-      month: 8
-      day: 7
-  language: English
-  note: 'Select: zotero://select/library/items/5ZREFAKQ'
-  number-of-pages: '280'
-  publisher: Basic Books
-  publisher-place: New York
-  source: Amazon
-  title: >-
-    The Haves and the Have-Nots: A Brief and Idiosyncratic History of Global
-    Inequality
-  title-short: The Haves and the Have-Nots
-  type: book
-
-- id: Milanovic2019
+- id: milanovicCapitalismAloneFuture2019
   abstract: >-
     A provocative account of capitalism’s rise to global dominance and, as
     different models of capitalism vie for world leadership, a look into what
@@ -23986,7 +22747,7 @@ references:
   author:
     - family: Milanovic
       given: Branko
-  citation-key: Milanovic2019
+  citation-key: milanovicCapitalismAloneFuture2019
   event-place: Cambridge, Massachusetts
   ISBN: 978-0-674-98759-3
   issued:
@@ -24003,7 +22764,32 @@ references:
   title-short: Capitalism, Alone
   type: book
 
-- id: Miliband2009
+- id: milanovicHavesHaveNotsBrief2012
+  abstract: "Who is the richest person in the world, ever? Does where you were born affect how much money you’ll earn over a lifetime? How would we know? Why—beyond the idle curiosity—do these questions even matter? In The Haves and the Have-Nots, Branko Milanovic, one of the world’s leading experts on wealth, poverty, and the gap that separates them, explains these and other mysteries of how wealth is unevenly spread throughout our world, now and through time.\_Milanovic uses history, literature and stories straight out of today’s newspapers, to discuss one of the major divisions in our social lives: between the haves and the have-nots. He reveals just how rich Elizabeth Bennet’s suitor Mr. Darcy really was; how much Anna Karenina gained by falling in love; how wealthy ancient Romans compare to today’s super-rich; where in Kenyan income distribution was Obama’s grandfather; how we should think about Marxism in a modern world; and how location where one is born determines his wealth. He goes beyond mere entertainment to explain why inequality matters, how it damages our economics prospects, and how it can threaten the foundations of the social order that we take for granted.\_ Bold, engaging, and illuminating, The Haves and the Have-Nots teaches us not only how to think about inequality, but why we should."
+  author:
+    - family: Milanovic
+      given: Branko
+  citation-key: milanovicHavesHaveNotsBrief2012
+  edition: Reprint edition
+  event-place: New York
+  ISBN: 978-0-465-03141-2
+  issued:
+    - year: 2012
+      month: 8
+      day: 7
+  language: English
+  note: 'Select: zotero://select/library/items/5ZREFAKQ'
+  number-of-pages: '280'
+  publisher: Basic Books
+  publisher-place: New York
+  source: Amazon
+  title: >-
+    The Haves and the Have-Nots: A Brief and Idiosyncratic History of Global
+    Inequality
+  title-short: The Haves and the Have-Nots
+  type: book
+
+- id: milibandStateCapitalistSociety2009
   abstract: >-
     Presenting a sustained and concrete challenge to the current political
     consensus, this reference identifies the radical alternative of adopting
@@ -24024,7 +22810,7 @@ references:
   author:
     - family: Miliband
       given: Ralph
-  citation-key: Miliband2009
+  citation-key: milibandStateCapitalistSociety2009
   ISBN: 978-0-85036-688-4
   issued:
     - year: 2009
@@ -24153,7 +22939,7 @@ references:
   type: legal_case
   volume: '372'
 
-- id: Mills2000
+- id: millsPowerElite2000
   abstract: >-
     First published in 1956, The Power Elite stands as a contemporary classic of
     social science and social criticism. C. Wright Mills examines and critiques
@@ -24178,7 +22964,7 @@ references:
       given: C. Wright
     - family: Wolfe
       given: Alan
-  citation-key: Mills2000
+  citation-key: millsPowerElite2000
   ISBN: 978-0-19-513354-7
   issued:
     - year: 2000
@@ -24190,7 +22976,7 @@ references:
   title: The Power Elite
   type: book
 
-- id: Minchin2005
+- id: minchinDonSleepStevens2005
   accessed:
     - year: 2023
       month: 1
@@ -24198,7 +22984,7 @@ references:
   author:
     - family: Minchin
       given: Timothy J.
-  citation-key: Minchin2005
+  citation-key: minchinDonSleepStevens2005
   container-title: Journal of American Studies
   ISSN: 0021-8758
   issue: '3'
@@ -24291,22 +23077,6 @@ references:
   title-short: Mitchell
   type: legal_case
   volume: '187'
-
-- id: Moffett2022
-  author:
-    - family: Moffett
-      given: Morgan
-    - family: Gibson
-      given: Sarah
-  citation-key: Moffett2022
-  issued:
-    - year: 2022
-      month: 12
-  language: en
-  publisher: Court Statistics Project
-  source: Zotero
-  title: Racial Justice in State Courts
-  type: document
 
 - id: Mohan1996
   author:
@@ -24473,40 +23243,6 @@ references:
   title: The Fall of the House of Labor
   type: book
 
-- id: Moore1993
-  abstract: >-
-    Social Origins of Dictatorship and Democracy is a comparative survey of some
-    of what Moore considers the major/most indicative world economies as they
-    evolved out of pre-modern political systems into industrialism. As the title
-    suggests, Moore is not ultimately concerned with explaining economic
-    development so much as exploring why modes of development produced different
-    political forms that managed the transition to industrialism and
-    modernization. Why did one society modernize into a "relatively free,"
-    democratic society (by which Moore means England) while others metamorphosed
-    into fascist or communist states? His core thesis is that in each country,
-    the relationship between the landlord class and the peasants was a primary
-    influence on the ultimate form of government the society arrived at upon
-    arrival in its modern age.
-  author:
-    - family: Moore
-      given: Barrington
-    - family: Moore
-      given: Lecturer on Sociology Barrington
-  citation-key: Moore1993
-  ISBN: 978-0-8070-5073-6
-  issued:
-    - year: 1993
-  language: en
-  note: 'Select: zotero://select/library/items/C7D6NQN7'
-  number-of-pages: '598'
-  publisher: Beacon Press
-  source: Google Books
-  title: >-
-    Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making
-    of the Modern World
-  title-short: Social Origins of Dictatorship and Democracy
-  type: book
-
 - id: mooreDeterminationBargainingUnits1975
   author:
     - family: Moore
@@ -24525,6 +23261,40 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/upitt37&i=55
   volume: '37'
+
+- id: mooreSocialOriginsDictatorship1993
+  abstract: >-
+    Social Origins of Dictatorship and Democracy is a comparative survey of some
+    of what Moore considers the major/most indicative world economies as they
+    evolved out of pre-modern political systems into industrialism. As the title
+    suggests, Moore is not ultimately concerned with explaining economic
+    development so much as exploring why modes of development produced different
+    political forms that managed the transition to industrialism and
+    modernization. Why did one society modernize into a "relatively free,"
+    democratic society (by which Moore means England) while others metamorphosed
+    into fascist or communist states? His core thesis is that in each country,
+    the relationship between the landlord class and the peasants was a primary
+    influence on the ultimate form of government the society arrived at upon
+    arrival in its modern age.
+  author:
+    - family: Moore
+      given: Barrington
+    - family: Moore
+      given: Lecturer on Sociology Barrington
+  citation-key: mooreSocialOriginsDictatorship1993
+  ISBN: 978-0-8070-5073-6
+  issued:
+    - year: 1993
+  language: en
+  note: 'Select: zotero://select/library/items/C7D6NQN7'
+  number-of-pages: '598'
+  publisher: Beacon Press
+  source: Google Books
+  title: >-
+    Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making
+    of the Modern World
+  title-short: Social Origins of Dictatorship and Democracy
+  type: book
 
 - id: moranWhatCountsKnowledge2014
   abstract: >-
@@ -24825,7 +23595,7 @@ references:
     https://1.next.westlaw.com/Document/I3655e12fd15311eaaf3cedf8c55e6c34/View/FullText.html?navigationPath=RelatedInfo%2Fv4%2Fkeycite%2Fnav%2F%3Fguid%3DI3655e12fd15311eaaf3cedf8c55e6c34%26ss%3D2006786799%26ds%3D2051539983%26origDocGuid%3DI93962451fac611daa223cd6b838f54f9&listSource=RelatedInfo&list=NegativeCitingReferences&rank=0&ppcid=d7d5389a4fcb45eab9b38d3c398b7a9c&originationContext=docHeader&transitionType=NegativeTreatment&contextData=%28sc.DocLink%29
   volume: '369'
 
-- id: Muncy2018
+- id: muncyStrangeCareerWorking2018
   accessed:
     - year: 2019
       month: 12
@@ -24833,7 +23603,7 @@ references:
   author:
     - family: Muncy
       given: Robyn
-  citation-key: Muncy2018
+  citation-key: muncyStrangeCareerWorking2018
   container-title: Labor
   container-title-short: Labor
   DOI: 10.1215/15476715-7127250
@@ -25035,7 +23805,7 @@ references:
   URL: www.jstor.org/stable/24052581
   volume: '30'
 
-- id: Nagler2018
+- id: naglerStrikeDebtRolling2018
   abstract: >-
     With their Rolling Jubilee campaign of debt forgiveness, the group Strike
     Debt restored the behavior of finance capitalists to reveal vulnerabilities
@@ -25047,7 +23817,7 @@ references:
   author:
     - family: Nagler
       given: Christian Riley
-  citation-key: Nagler2018
+  citation-key: naglerStrikeDebtRolling2018
   container-title: TDR/The Drama Review
   DOI: 10.1162/DRAM_a_00722
   ISSN: 1054-2043
@@ -25214,7 +23984,7 @@ references:
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=662384
   volume: '54'
 
-- id: Nelson2023
+- id: nelsonMakingLawyersCareers2023
   abstract: >-
     An unprecedented account of social stratification within the US legal
     profession. How do race, class, gender, and law school status condition the
@@ -25246,7 +24016,7 @@ references:
       given: Meghan
     - family: Michelson
       given: Ethan
-  citation-key: Nelson2023
+  citation-key: nelsonMakingLawyersCareers2023
   event-place: Chicago
   issued:
     - year: 2023
@@ -25330,7 +24100,26 @@ references:
   type: legal_case
   volume: '788'
 
-- id: Nielsen2000
+- id: nielsenOrganizationPublicInterest2006
+  author:
+    - family: Nielsen
+      given: Laura
+    - family: Albiston
+      given: Catherine
+  citation-key: nielsenOrganizationPublicInterest2006
+  container-title: North Carolina Law Review
+  issue: '5'
+  issued:
+    - year: 2006
+  note: 'Select: zotero://select/library/items/VLZ7WTYK'
+  page: '1591'
+  title: 'The Organization of Public Interest Practice: 1975-2004'
+  title-short: The Organization of Public Interest Practice
+  type: article-journal
+  URL: https://scholarship.law.unc.edu/nclr/vol84/iss5/9
+  volume: '84'
+
+- id: nielsenSituatingLegalConsciousness2000
   abstract: >-
     The legal consciousness of ordinary citizens concerning offensive public
     speech is a phenomenon whose legal status has been vigorously debated, but
@@ -25359,7 +24148,7 @@ references:
   author:
     - family: Nielsen
       given: Laura Beth
-  citation-key: Nielsen2000
+  citation-key: nielsenSituatingLegalConsciousness2000
   container-title: Law & Society Review
   DOI: 10.2307/3115131
   ISSN: 0023-9216
@@ -25376,25 +24165,6 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/3115131
   volume: '34'
-
-- id: nielsenOrganizationPublicInterest2006
-  author:
-    - family: Nielsen
-      given: Laura
-    - family: Albiston
-      given: Catherine
-  citation-key: nielsenOrganizationPublicInterest2006
-  container-title: North Carolina Law Review
-  issue: '5'
-  issued:
-    - year: 2006
-  note: 'Select: zotero://select/library/items/VLZ7WTYK'
-  page: '1591'
-  title: 'The Organization of Public Interest Practice: 1975-2004'
-  title-short: The Organization of Public Interest Practice
-  type: article-journal
-  URL: https://scholarship.law.unc.edu/nclr/vol84/iss5/9
-  volume: '84'
 
 - id: nielsonSituatingLegalConsciousness2014
   abstract: >-
@@ -25554,35 +24324,6 @@ references:
   title: Institutions, Institutional Change and Economic Performance
   type: book
 
-- id: NorthCarolinaCourt2023
-  abstract: >-
-    The North Carolina Court of Appeals (in case citation, N.C. Ct. App.) is the
-    only intermediate appellate court in the state of North Carolina. It is
-    composed of fifteen members who sit in rotating panels of three. The Court
-    of Appeals was created by the North Carolina General Assembly in 1967 after
-    voters approved a constitutional amendment in 1965 which "authorized the
-    creation of an intermediate court of appeals to relieve pressure on the
-    North Carolina Supreme Court."Judges serve eight-year terms and are elected
-    in statewide elections. The General Assembly made Court of Appeals elections
-    non-partisan starting with the 2004 elections, but later made them partisan
-    again after the 2016 elections.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: NorthCarolinaCourt2023
-  container-title: Wikipedia
-  issued:
-    - year: 2023
-      month: 12
-      day: 26
-  language: en
-  license: Creative Commons Attribution-ShareAlike License
-  source: Wikipedia
-  title: North Carolina Court of Appeals
-  type: entry-encyclopedia
-  URL: https://en.wikipedia.org/wiki/North_Carolina_Court_of_Appeals
-
 - id: NorthCarolinaEx2022
   authority: N.C.App.
   citation-key: NorthCarolinaEx2022
@@ -25598,24 +24339,6 @@ references:
   type: legal_case
   volume: '882'
 
-- id: NorthCarolinaJustice_nd
-  abstract: >-
-    In an interview with Law360, North Carolina Supreme Court Justice Anita
-    Earls discusses what's behind a glaring lack of diversity on the state's
-    appellate bench and among advocates who argue before her court, and how the
-    newest chief justice derailed initiatives addressing implicit bias and
-    racial inequities in the state's justice system.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: NorthCarolinaJustice_nd
-  language: en
-  title: North Carolina Justice Anita Earls Opens Up About Diversity - Law360
-  type: webpage
-  URL: >-
-    https://www.law360.com/articles/1687516/north-carolina-justice-anita-earls-opens-up-about-diversity
-
 - id: NorthCarolinaStateBar2022
   author:
     - family: North Carolina State Bar
@@ -25626,57 +24349,6 @@ references:
   publisher: North Carolina State Bar
   title: The 2022 Lawyer's Handbook
   type: document
-
-- id: NorthCarolinaSupreme2023
-  abstract: >-
-    The Supreme Court of the State of North Carolina is the state of North
-    Carolina's highest appellate court. Until the creation of the North Carolina
-    Court of Appeals in the 1960s, it was the state's only appellate court. The
-    Supreme Court consists of six associate justices and one chief justice,
-    although the number of justices has varied.  The primary function of the
-    Supreme Court is to decide questions of law that have arisen in the lower
-    courts and before state administrative agencies.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: NorthCarolinaSupreme2023
-  container-title: Wikipedia
-  issued:
-    - year: 2023
-      month: 12
-      day: 21
-  language: en
-  license: Creative Commons Attribution-ShareAlike License
-  note: 'Page Version ID: 1191055736'
-  source: Wikipedia
-  title: North Carolina Supreme Court
-  type: entry-encyclopedia
-  URL: >-
-    https://en.wikipedia.org/w/index.php?title=North_Carolina_Supreme_Court&oldid=1191055736
-
-- id: NorthCarolinaSupreme2023a
-  abstract: >-
-    Editor’s note: A previous version of this article stated incorrectly the
-    number of total justices before Michael Morgan’s announced resignation and
-    the number of women total on the cour…
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: NorthCarolinaSupreme2023a
-  container-title: FOX8 WGHP
-  issued:
-    - year: 2023
-      month: 8
-      day: 29
-  language: en-US
-  title: >-
-    North Carolina Supreme Court justice sues standards commission over
-    ‘intrusive’ investigations into her comments on diversity
-  type: post-weblog
-  URL: >-
-    https://myfox8.com/news/north-carolina/north-carolina-supreme-court-justice-sues-standards-commission-over-intrusive-investigations-into-her-comments-on-diversity/
 
 - id: NorthCarolinaTrust1998
   authority: N.C.App.
@@ -26085,91 +24757,6 @@ references:
     https://columbialawreview.org/content/borrowing-equality-dispossession-and-the-need-for-an-abolitionist-approach-to-survival-debt/
   volume: '120'
 
-- id: Ono2022
-  abstract: >-
-    Perceptions of procedural fairness influence the legitimacy of the law and
-    because procedures are mutable, reforming them can buttress support for the
-    rule of law. Yet legal authorities have recently faced a distinct challenge:
-    accusations of impropriety based on their ascriptive characteristics (e.g.,
-    gender, ethnicity). We study the effect of these traits in the context of
-    the U.S. legal system, focusing on the conditions under which citizens
-    perceive female and minority judges as exhibiting impropriety and how this
-    compares with perceptions of their white and male counterparts. We find that
-    Americans use a judge's race and gender to make inferences about which
-    groups the judge favors, whether she is inherently biased, and whether she
-    should recuse. Notably, we find drastically different evaluations of female
-    and Hispanic judges among the political right and left.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Ono
-      given: Yoshikuni
-    - family: Zilis
-      given: Michael A.
-  citation-key: Ono2022
-  container-title: American Journal of Political Science
-  DOI: 10.1111/ajps.12599
-  ISSN: 1540-5907
-  issue: '1'
-  issued:
-    - year: 2022
-  language: en
-  license: >-
-    © 2021 The Authors. American Journal of Political Science published by Wiley
-    Periodicals LLC on behalf of Midwest Political Science Association
-  page: 43-58
-  source: Wiley Online Library
-  title: >-
-    Ascriptive Characteristics and Perceptions of Impropriety in the Rule of
-    Law: Race, Gender, and Public Assessments of Whether Judges Can Be Impartial
-  title-short: Ascriptive Characteristics and Perceptions of Impropriety in the Rule of Law
-  type: article-journal
-  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12599
-  volume: '66'
-
-- id: Ono2023
-  abstract: >-
-    Although women and minorities hold an increasing share of judgships in the
-    United States, they remain underrepresented. We explore Americans’
-    perceptions of the bias of women and minority judges – one of the possible
-    challenges to creating a diverse bench. We argue that prejudice against
-    these groups manifests in a subtle way, in the belief that diverse judges
-    cannot fairly adjudicate controversies that involve their ingroup. To test
-    our theory, we use a list experiment specifically developed to minimize
-    social desirability effects. We find that many respondents rate female and
-    Hispanic judges to be biased decision makers. Our results highlight the
-    nature of prejudice against female and Hispanic judges and suggest multiple
-    important implications. They shed light on the reasons why female and
-    Hispanic candidates for judgships may win at a lower rate and also suggest
-    negative implications for the legitimacy of their decisions.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Ono
-      given: Yoshikuni
-    - family: Zilis
-      given: Michael A.
-  citation-key: Ono2023
-  container-title: Politics, Groups, and Identities
-  DOI: 10.1080/21565503.2021.1960867
-  ISSN: 2156-5503
-  issue: '2'
-  issued:
-    - year: 2023
-      month: 3
-      day: 15
-  page: 335-344
-  publisher: Routledge
-  source: Taylor and Francis+NEJM
-  title: Do Americans perceive diverse judges as inherently biased?
-  type: article-journal
-  URL: https://doi.org/10.1080/21565503.2021.1960867
-  volume: '11'
-
 - id: OrionProcessing2015
   authority: N.C.Super.
   citation-key: OrionProcessing2015
@@ -26462,33 +25049,6 @@ references:
   type: webpage
   URL: http://pandoc.org/
 
-- id: Park2023
-  abstract: >-
-    By Ryan Park, with Mary Gen Sanner and Emma Ritter The first time I set foot
-    in the North Carolina Supreme Court was to observe oral argument in a
-    technical tax appeal, one of my first cases as an attorney in the state
-    Solicitor General’s office. Our opposing counsel included a senior member of
-    the bar, who had driven from...
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Park
-      given: Ryan
-  citation-key: Park2023
-  container-title: North Carolina Bar Association
-  issued:
-    - year: 2023
-      month: 5
-      day: 17
-  language: en-US
-  title: 'Diversity and the North Carolina Supreme Court: A Look At The Advocates'
-  title-short: Diversity and the North Carolina Supreme Court
-  type: webpage
-  URL: >-
-    https://www.ncbar.org/nc-lawyer/2023-05/diversity-and-the-north-carolina-supreme-court-a-look-at-the-advocates/
-
 - id: Park2023a
   accessed:
     - year: 2024
@@ -26617,16 +25177,6 @@ references:
   type: post-weblog
   URL: >-
     https://abovethelaw.com/2019/11/study-finds-that-bar-discipline-is-totally-racist-shocking-absolutely-no-one/
-
-- id: PaulNewbyNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: PaulNewbyNorth_nd
-  title: Paul Newby | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/paul-newby
 
 - id: paulRecoveringLaborAntimonopoly2019
   author:
@@ -26757,33 +25307,6 @@ references:
   title: 'Sin, Scandal, and Substantive Due Process: Legal Lore'
   type: article-journal
   volume: '18'
-
-- id: Peresie_nd
-  abstract: >-
-    114 Yale L.J. 1759 (2005)  This Note finds that the gender composition of
-    the bench affected federal appellate court outcomes in Title VII sexual
-    harassment and sex discrimination cases in 1999, 2000, and 2001. An
-    empirical study (n = 1666) shows that female judges decided for plaintiffs
-    more often than did male judges. Moreover, male judges on panels with female
-    judges decided for plaintiffs more than twice as often as those on all-male
-    panels. Gender mattered more than ideology in determining outcomes. The Note
-    discusses four explanations for the observed effect of gender on collegial
-    decisionmaking: deliberation, deference, logrolling, and moderation.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Peresie
-      given: Jennifer L.
-  citation-key: Peresie_nd
-  title: >-
-    Female Judges Matter: Gender and Collegial Decisionmaking in the Federal
-    Appellate Courts
-  title-short: Female Judges Matter
-  type: webpage
-  URL: >-
-    https://www.yalelawjournal.org/note/female-judges-matter-gender-and-collegial-decisionmaking-in-the-federal-appellate-courts
 
 - id: perrittStateWrongfulDismissal1992
   abstract: >-
@@ -26929,16 +25452,6 @@ references:
     Is the Lack of Financial Literacy the Reason for the Debt Trap in the Czech
     Republic?
   type: thesis
-
-- id: PhilipBergerJr_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: PhilipBergerJr_nd
-  title: Philip Berger Jr. | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/philip-berger-jr
 
 - id: philipdrayTherePowerUnion2011
   abstract: >-
@@ -27573,51 +26086,6 @@ references:
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
 
-- id: Posner2008
-  abstract: >-
-    Recent empirical scholarship that shows that judges decide cases in a manner
-    that is consistent with their political biases has motivated a stream of
-    proposals for reform, including judicial term limits, limitations on
-    judicial review of statutes and agency actions, revision of the judicial
-    appointments process, and mandatory mixed party representation on judicial
-    panels. However, these proposals incorrectly assume that judicial bias is
-    necessarily harmful, and do not fully consider the costs to other values
-    even when reduction of judicial bias is justified. To evaluate proposals for
-    reform, one needs a theory of judicial review, one that explains how bias
-    and other characteristics of judicial behavior result in socially good or
-    bad outcomes. This paper supplies such a theory, drawing on rational-choice
-    accounts of the role of the judiciary in the legislative process. It argues
-    that judicial bias is not harmful in a broad range of circumstances, and
-    that the merits of the reform proposals depend on many factors, including,
-    among others, the degree of supermajoritarianism of the legislative process,
-    the magnitude of legislative bargaining costs, judicial competence, and the
-    extent to which the judicial appointments process and party competition
-    result in an ideologically diverse judiciary.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Posner
-      given: Eric A.
-  citation-key: Posner2008
-  DOI: 10.2139/ssrn.1082055
-  event-place: Rochester, NY
-  genre: SSRN Scholarly Paper
-  issued:
-    - year: 2008
-      month: 1
-      day: 1
-  language: en
-  publisher-place: Rochester, NY
-  source: Social Science Research Network
-  title: >-
-    Does Political Bias in the Judiciary Matter?: Implications of Judicial Bias
-    Studies for Legal and Constitutional Reform
-  title-short: Does Political Bias in the Judiciary Matter?
-  type: article
-  URL: https://papers.ssrn.com/abstract=1082055
-
 - id: Posner2018
   abstract: >-
     Revolutionary ideas on how to use markets to bring about fairness and
@@ -27695,27 +26163,6 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/40752376
   volume: '159'
-
-- id: Postone1980
-  author:
-    - family: Postone
-      given: Moishe
-  citation-key: Postone1980
-  container-title: New German Critique
-  DOI: 10.2307/487974
-  ISSN: 0094-033X
-  issue: '19'
-  issued:
-    - year: 1980
-  page: 97-115
-  publisher: '[New German Critique, Duke University Press]'
-  source: JSTOR
-  title: >-
-    Anti-Semitism and National Socialism: Notes on the German Reaction to
-    "Holocaust"
-  title-short: Anti-Semitism and National Socialism
-  type: article-journal
-  URL: http://www.jstor.org/stable/487974
 
 - id: Postone1980a
   accessed:
@@ -27955,35 +26402,6 @@ references:
   type: webpage
   URL: >-
     https://www.elliswinters.com/trade/procedural-pitfalls-in-the-north-carolina-business-court-designation-process-the-stout-story/
-
-- id: ProfessionalDiversityNew_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: ProfessionalDiversityNew_nd
-  language: en
-  title: >-
-    Professional Diversity on the New York Court of Appeals | Brennan Center for
-    Justice
-  type: webpage
-  URL: >-
-    https://www.brennancenter.org/our-work/research-reports/professional-diversity-new-york-court-appeals
-
-- id: ProfessionallyDiverseJudges_nd
-  abstract: >-
-    Professionally diverse judges, with experience representing real people and
-    advocating for our rights, positively impacts judicial outcomes.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: ProfessionallyDiverseJudges_nd
-  container-title: Demand Justice
-  language: en-US
-  title: Professionally Diverse Judges - Background and Life Experience Matter
-  type: webpage
-  URL: https://demandjustice.org/priorities/diversifying-the-bench/
 
 - id: PulaskiCountyMedicalExchange2022
   authority: E.D. Ark.
@@ -28383,14 +26801,14 @@ references:
   type: legal_case
   volume: '765'
 
-- id: Regan2021
+- id: reganBigLaw2021
   abstract: "The Great Recession intensified large law firms’ emphasis on financial performance, leading to claims that lawyers in these firms were now guided by business rather than professional values.\_ Based on interviews with more than 250 partners in large firms, Mitt Regan and Lisa H. Rohrer suggest that the reality is much more complex. It is true that large firm hiring, promotion, compensation, and termination policies are more influenced by business considerations than ever before and that firms actively recruit profitable partners from other firms to replace those they regard as unproductive. At the same time, law firm partners continue to seek the non-financial rewards of being members of a distinct profession and are sensitive to whether their firms are committed to providing them. Regan and Rohrer argue that modern firms responding effectively to business demands while credibly affirming the importance of non-financial professional values can create strong cultures that enhance their ability to weather the storms of the modern legal market."
   author:
     - family: Regan
       given: Mitt
     - family: Rohrer
       given: Lisa H.
-  citation-key: Regan2021
+  citation-key: reganBigLaw2021
   event-place: Chicago
   issued:
     - year: 2021
@@ -28638,16 +27056,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/00221546.1996.11774819
   volume: '67'
-
-- id: RichardDietzNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: RichardDietzNorth_nd
-  title: Richard Dietz | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/richard-dietz
 
 - id: RichardsonBankAmerica2007
   authority: N.C.App.
@@ -29734,50 +28142,6 @@ references:
   type: article-journal
   volume: '10'
 
-- id: Scherer2010
-  abstract: >-
-    In the past two decades, numerous studies have tested empirically the
-    normative theory of descriptive race representation. Here, we focus
-    specifically on one aspect of descriptive representation—the relationship
-    between increased racial representation and institutional legitimacy. Does
-    greater racial diversity within a political institution increase its
-    reservoir of good will? Using a novel experimental design centered on the
-    federal courts, we find that greater descriptive representation for blacks
-    causes increased legitimacy for the institution among African Americans.
-    However, we also find that white support declines under the same
-    experimental condition. In probing our data further, we discover that
-    increased diversity does not impact blacks and whites in the same manner
-    across the ideological spectrum. Rather, a person's ideology mediates how he
-    or she assesses racial diversity on the bench. We conclude by discussing the
-    implications of our findings.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Scherer
-      given: Nancy
-    - family: Curry
-      given: Brett
-  citation-key: Scherer2010
-  container-title: The Journal of Politics
-  DOI: 10.1017/S0022381609990491
-  ISSN: 0022-3816
-  issue: '1'
-  issued:
-    - year: 2010
-      month: 1
-  page: 90-104
-  publisher: The University of Chicago Press
-  source: journals.uchicago.edu (Atypon)
-  title: >-
-    Does Descriptive Race Representation Enhance Institutional Legitimacy? The
-    Case of the U.S. Courts
-  title-short: Does Descriptive Race Representation Enhance Institutional Legitimacy?
-  type: article-journal
-  URL: https://www.journals.uchicago.edu/doi/abs/10.1017/S0022381609990491
-  volume: '72'
-
 - id: Schill1995
   author:
     - family: Schill
@@ -30453,22 +28817,6 @@ references:
   URL: www.jstor.org/stable/26732322
   volume: '33'
 
-- id: Shepherd2021
-  author:
-    - family: Shepherd
-      given: Joanna
-  citation-key: Shepherd2021
-  issued:
-    - year: 2021
-      month: 2
-  language: en
-  publisher: Demand Justice
-  source: Zotero
-  title: >-
-    Jobs, Judges, and Justice: The Relationship between Professional Diversity
-    and Judicial Decisions
-  type: document
-
 - id: sheppardBlackLivesMatter2015
   author:
     - family: Sheppard
@@ -30497,100 +28845,6 @@ references:
   title: Shillman v. U.S.
   title-short: Shillman
   type: legal_case
-
-- id: Shortell2022
-  abstract: >-
-    While we know that women's presence in the legislature positively impacts
-    how citizens view the institution, little is known about the impact of
-    women's presence on the legitimacy of high courts. We argue that despite
-    differences in public expectations for courts, women's presence on the high
-    court does impact citizen perceptions of legitimacy. However, this effect is
-    dependent on both the level and the type of bias held by citizens. That is,
-    when a person feels hostile bias toward women, the bias disrupts the
-    potential legitimacy that the court could gain. On the other hand, we argue
-    that benevolent sexism does not trigger any change in how citizens view the
-    high court in a democracy. Using evidence from an experiment, we find that
-    the presence of women on the high court has a strong positive impact on
-    citizen perceptions of court legitimacy, though not among those with hostile
-    gender bias.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Shortell
-      given: Christopher
-    - family: Valdini
-      given: Melody E.
-  citation-key: Shortell2022
-  container-title: Politics & Gender
-  DOI: 10.1017/S1743923X21000404
-  ISSN: 1743-923X, 1743-9248
-  issue: '3'
-  issued:
-    - year: 2022
-      month: 9
-  language: en
-  page: 858-877
-  publisher: Cambridge University Press
-  source: Cambridge University Press
-  title: >-
-    The Politics of Women's Presence on High Courts: Bias and the Conditional
-    Nature of Cultivating Legitimacy
-  title-short: The Politics of Women's Presence on High Courts
-  type: article-journal
-  URL: >-
-    https://www.cambridge.org/core/journals/politics-and-gender/article/abs/politics-of-womens-presence-on-high-courts-bias-and-the-conditional-nature-of-cultivating-legitimacy/05B70204E1F46C3B73B714202158B092
-  volume: '18'
-
-- id: Shortell2023
-  abstract: >-
-    While existing literature has established that women leaders are stereotyped
-    as more likely to uphold the norms of democracy, the power of this effect in
-    the non-democratic context is not established. We address this gap and argue
-    that the context of regime transition cultivates a unique dynamic in which
-    the stereotypes associated with women justices become especially valuable to
-    both citizens and the state. However, we argue that this perception of women
-    contributing to the health of democracy is not constant across all citizens
-    equally; instead, those people with high levels of hostile bias against
-    women are more likely to view women as the potential saviors of the
-    democracy. To test our theories, we offer original survey data from Thailand
-    and Poland, two countries in the midst of regime transition. We find
-    evidence that suggests that the impact of women justices on assessments of
-    democratic health is indeed dependent on hostile bias in Thailand, but that
-    the relationship is not found in Poland. Our results suggest that bias can
-    sometimes operate in unexpected ways, and that scholars should consider
-    multiple measures of different types of bias when investigating its effects
-    on behavior.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  author:
-    - family: Shortell
-      given: Christopher
-    - family: Valdini
-      given: Melody E.
-  citation-key: Shortell2023
-  container-title: Political Research Quarterly
-  DOI: 10.1177/10659129231169712
-  ISSN: 1065-9129
-  issue: '4'
-  issued:
-    - year: 2023
-      month: 12
-      day: 1
-  language: en
-  page: 1619-1631
-  publisher: SAGE Publications Inc
-  source: SAGE Journals
-  title: >-
-    Madame Justice Will Save Our Democracy: Gender Bias and Perceptions of the
-    High Court in Transitional Regimes
-  title-short: Madame Justice Will Save Our Democracy
-  type: article-journal
-  URL: https://doi.org/10.1177/10659129231169712
-  volume: '76'
 
 - id: Sil2017
   abstract: >-
@@ -30642,43 +28896,7 @@ references:
   URL: https://doi.org/10.1177/0022185617705684
   volume: '59'
 
-- id: Silbey2005
-  abstract: >-
-    Legal consciousness as a theoretical concept and topic of empirical research
-    developed to address issues of legal hegemony, particularly how the law
-    sustains its institutional power despite a persistent gap between the law on
-    the books and the law in action. Why do people acquiesce to a legal system
-    that, despite its promises of equal treatment, systematically reproduces
-    inequality? Recent studies have both broadened and narrowed the concept's
-    reach, while sacrificing much of the concept's critical edge and theoretical
-    utility. Rather than explaining how the different experiences of law become
-    synthesized into a set of circulating schemas and habits, the literature
-    tracks what particular individuals think and do. Because the relationships
-    among consciousness and processes of ideology and hegemony often go
-    unexplained, legal consciousness as an analytic concept is domesticated
-    within what appear to be policy projects: making specific laws work better
-    for particular groups or interests.
-  accessed:
-    - year: 2023
-      month: 11
-      day: 12
-  author:
-    - family: Silbey
-      given: Susan S.
-  citation-key: Silbey2005
-  container-title: Annual Review of Law and Social Science
-  DOI: 10.1146/annurev.lawsocsci.1.041604.115938
-  issue: '1'
-  issued:
-    - year: 2005
-  page: 323-368
-  source: Annual Reviews
-  title: After Legal Consciousness
-  type: article-journal
-  URL: https://doi.org/10.1146/annurev.lawsocsci.1.041604.115938
-  volume: '1'
-
-- id: Silbey2019
+- id: silbeyEveryDayWork2019
   abstract: >-
     Susan Silbey began her academic training in political science and in the
     course of her studies became a sociologist of law, the last two decades as a
@@ -30705,7 +28923,7 @@ references:
   author:
     - family: Silbey
       given: Susan S.
-  citation-key: Silbey2019
+  citation-key: silbeyEveryDayWork2019
   container-title: Annual Review of Law and Social Science
   DOI: 10.1146/annurev-lawsocsci-110316-113326
   issue: '1'
@@ -30717,6 +28935,42 @@ references:
   type: article-journal
   URL: https://doi.org/10.1146/annurev-lawsocsci-110316-113326
   volume: '15'
+
+- id: silbeyLegalConsciousness2005
+  abstract: >-
+    Legal consciousness as a theoretical concept and topic of empirical research
+    developed to address issues of legal hegemony, particularly how the law
+    sustains its institutional power despite a persistent gap between the law on
+    the books and the law in action. Why do people acquiesce to a legal system
+    that, despite its promises of equal treatment, systematically reproduces
+    inequality? Recent studies have both broadened and narrowed the concept's
+    reach, while sacrificing much of the concept's critical edge and theoretical
+    utility. Rather than explaining how the different experiences of law become
+    synthesized into a set of circulating schemas and habits, the literature
+    tracks what particular individuals think and do. Because the relationships
+    among consciousness and processes of ideology and hegemony often go
+    unexplained, legal consciousness as an analytic concept is domesticated
+    within what appear to be policy projects: making specific laws work better
+    for particular groups or interests.
+  accessed:
+    - year: 2023
+      month: 11
+      day: 12
+  author:
+    - family: Silbey
+      given: Susan S.
+  citation-key: silbeyLegalConsciousness2005
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev.lawsocsci.1.041604.115938
+  issue: '1'
+  issued:
+    - year: 2005
+  page: 323-368
+  source: Annual Reviews
+  title: After Legal Consciousness
+  type: article-journal
+  URL: https://doi.org/10.1146/annurev.lawsocsci.1.041604.115938
+  volume: '1'
 
 - id: Silver-Greenberg2015
   abstract: >-
@@ -30825,7 +29079,7 @@ references:
   type: article-journal
   URL: https://scholarship.richmond.edu/law-faculty-publications/1117
 
-- id: Skapska2023
+- id: skapskaInconsistentEverydayLegal2023
   abstract: >-
     On the basis of a nationwide survey conducted in 2020, this article strives
     to answer questions concerning
@@ -30846,7 +29100,7 @@ references:
       given: Ewa
     - family: Wróbel
       given: Marcin
-  citation-key: Skapska2023
+  citation-key: skapskaInconsistentEverydayLegal2023
   container-title: Polish Sociological Review
   container-title-short: Polish Sociological Review
   DOI: 10.26412/psr223.01
@@ -31475,17 +29729,6 @@ references:
   URL: http://www.jstor.org/stable/794526
   volume: '72'
 
-- id: SouthernJudicialElections_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: SouthernJudicialElections_nd
-  title: Southern judicial elections hint at big spending this fall | Facing South
-  type: webpage
-  URL: >-
-    https://www.facingsouth.org/2022/05/southern-judicial-elections-hint-big-spending-fall
-
 - id: SouthernPacificCo1916
   authority: Supreme Court
   citation-key: SouthernPacificCo1916
@@ -31499,7 +29742,7 @@ references:
   type: legal_case
   volume: '244'
 
-- id: Southworth2008
+- id: southworthLawyersRight2008
   abstract: "A timely and multifaceted portrait of the lawyers who serve the diverse constituencies of the conservative movement, Lawyers of the Right explains what unites and divides lawyers for the three major groups—social conservatives, libertarians, and business advocates—that have coalesced in recent decades behind the Republican Party.\_ \_\_\_\_\_\_\_\_\_\_\_ Drawing on in-depth interviews with more than seventy lawyers who represent conservative and libertarian nonprofit organizations, Ann Southworth explores their values and identities and traces the implications of their shared interest in promoting political strategies that give lawyers leading roles. She goes on to illuminate the function of mediator organizations—such as the Heritage Foundation and the Federalist Society for Law and Public Policy—that have succeeded in promoting cooperation among different factions of conservative lawyers. Such cooperation, she finds, has aided efforts to drive law and the legal profession politically rightward and to give lawyers greater prominence in the conservative movement. Southworth concludes, though, that tensions between the conservative law movement’s elite and populist elements may ultimately lead to its undoing."
   accessed:
     - year: 2023
@@ -31508,7 +29751,7 @@ references:
   author:
     - family: Southworth
       given: Ann
-  citation-key: Southworth2008
+  citation-key: southworthLawyersRight2008
   event-place: Chicago
   issued:
     - year: 2008
@@ -31805,40 +30048,6 @@ references:
   title: State v. Kinston Charter Academy
   type: legal_case
   volume: '836'
-
-- id: StateSupremeCourt2019
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: StateSupremeCourt2019
-  issued:
-    - year: 2019
-      month: 7
-      day: 23
-  language: en
-  publisher: Brennan Center for Justice
-  title: State Supreme Court Diversity
-  type: document
-  URL: >-
-    https://www.brennancenter.org/our-work/research-reports/state-supreme-court-diversity
-
-- id: StateSupremeCourt2023
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: StateSupremeCourt2023
-  issued:
-    - year: 2023
-      month: 5
-      day: 15
-  language: en
-  publisher: Brennan Center for Justice
-  title: State Supreme Court Diversity — May 2023 Update
-  type: document
-  URL: >-
-    https://www.brennancenter.org/our-work/research-reports/state-supreme-court-diversity-may-2023-update
 
 - id: Steiner2002
   accessed:
@@ -32807,16 +31016,6 @@ references:
   URL: https://brill.com/view/journals/hima/31/2/article-p3_1.xml
   volume: '31'
 
-- id: SupremeCourtNorth_nda
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: SupremeCourtNorth_nda
-  title: Supreme Court | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/courts/supreme-court
-
 - id: SurrickKillion2006
   authority: Court of Appeals, 3rd Circuit
   citation-key: SurrickKillion2006
@@ -32991,7 +31190,7 @@ references:
   title: The Capitalist State and the Politics of Class
   type: book
 
-- id: TacklingProblemCaptive_nd
+- id: TacklingProblemCaptive
   abstract: >-
     Political and religious coercion in the workplace is a growing problem
     affecting workers from all backgrounds and across the political spectrum.
@@ -33003,7 +31202,7 @@ references:
     - year: 2023
       month: 11
       day: 20
-  citation-key: TacklingProblemCaptive_nd
+  citation-key: TacklingProblemCaptive
   container-title: Economic Policy Institute
   language: en-US
   title: >-
@@ -33120,16 +31319,6 @@ references:
   title-short: The Privatization of Public Legal Rights
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.18
-
-- id: TamaraBarringerNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: TamaraBarringerNorth_nd
-  title: Tamara Barringer | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/tamara-barringer
 
 - id: tangLifeJanus2019
   abstract: >-
@@ -33752,16 +31941,6 @@ references:
   type: legal_case
   volume: '363'
 
-- id: TobyHampsonNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: TobyHampsonNorth_nd
-  title: Toby Hampson | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/toby-hampson
-
 - id: ToeringElectricCo2007
   authority: N.L.R.B.
   citation-key: ToeringElectricCo2007
@@ -34077,16 +32256,6 @@ references:
   title-short: Empire of Things
   type: book
 
-- id: TreyAllenNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: TreyAllenNorth_nd
-  title: Trey Allen | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/trey-allen
-
 - id: TrilliumRidgeCondominium2014
   authority: N.C.App.
   citation-key: TrilliumRidgeCondominium2014
@@ -34125,28 +32294,6 @@ references:
   title: Three D, LLC d/b/a Triple Play Sports Bar and Grille v. NLRB
   type: legal_case
   volume: '629'
-
-- id: TriumphsSetbacksEfforts2022
-  abstract: >-
-    With tens of millions of dollars flowing into high-court elections,
-    Republicans did better in partisan races in two states, while Democrats held
-    on to their majorities elsewhere.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: TriumphsSetbacksEfforts2022
-  container-title: Governing
-  issued:
-    - year: 2022
-      month: 11
-      day: 15
-  language: en
-  section: State and Local Politics and Policy
-  title: Triumphs and Setbacks in Efforts to Reshape State Supreme Courts
-  type: webpage
-  URL: >-
-    https://www.governing.com/now/triumphs-and-setbacks-in-efforts-to-reshape-state-supreme-courts
 
 - id: Trnka2020
   abstract: >-
@@ -34632,26 +32779,6 @@ references:
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=351500
 
-- id: ValerieZacharyNorth_nd
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: ValerieZacharyNorth_nd
-  title: Valerie Zachary | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/valerie-zachary
-
-- id: ValerieZacharyNorth_nda
-  accessed:
-    - year: 2023
-      month: 12
-      day: 28
-  citation-key: ValerieZacharyNorth_nda
-  title: Valerie Zachary | North Carolina Judicial Branch
-  type: webpage
-  URL: https://www.nccourts.gov/judicial-directory/valerie-zachary
-
 - id: Valocchi1994
   abstract: >-
     This paper describes the ways in which African Americans were written out of
@@ -34717,25 +32844,6 @@ references:
   title: Vance Const. Co., Inc. v. Duane White Land Corp.
   type: legal_case
   volume: '490'
-
-- id: Vanderlin_nd
-  abstract: >-
-    Learn how to use Zotero (a free citation management tool) to organize your
-    research and create Bluebook citations.
-  accessed:
-    - year: 2023
-      month: 6
-      day: 19
-  author:
-    - family: Vanderlin
-      given: Scott
-  citation-key: Vanderlin_nd
-  language: en
-  license: Copyright UChicago 2023
-  title: 'Library Guides: Citation Management for Law Students: Saving Your Research'
-  title-short: Library Guides
-  type: webpage
-  URL: https://guides.lib.uchicago.edu/zotero4law/research
 
 - id: vandewalleDoeWalMartRevisiting2009
   author:
@@ -35404,46 +33512,6 @@ references:
   title-short: Michael
   type: legal_case
   volume: '353'
-
-- id: WhatDemocratsRepublicans2021
-  abstract: >-
-    Political partisanship is playing out across the country as lawmakers move
-    to change how their states’ supreme courts are elected.
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: WhatDemocratsRepublicans2021
-  container-title: Governing
-  issued:
-    - year: 2021
-      month: 6
-      day: 14
-  language: en
-  section: State and Local Politics and Policy
-  title: 'What Democrats and Republicans Agree On: Gerrymandering the Courts'
-  title-short: What Democrats and Republicans Agree On
-  type: webpage
-  URL: >-
-    https://www.governing.com/now/what-democrats-and-republicans-agree-on-gerrymandering-the-courts
-
-- id: WhatResearchShows2022
-  accessed:
-    - year: 2023
-      month: 12
-      day: 29
-  citation-key: WhatResearchShows2022
-  issued:
-    - year: 2022
-      month: 3
-      day: 18
-  language: en
-  title: >-
-    What Research Shows About the Importance of Supreme Court Diversity |
-    Brennan Center for Justice
-  type: webpage
-  URL: >-
-    https://www.brennancenter.org/our-work/analysis-opinion/what-research-shows-about-importance-supreme-court-diversity
 
 - id: Wheeler1989
   author:
@@ -36709,8 +34777,8 @@ references:
     https://www.proquest.com/openview/b4867ba58ce7350ff375c898663f6bd3/1?pq-origsite=gscholar&cbl=25210
   volume: '70'
 
-- id: Zotero_nd
-  citation-key: Zotero_nd
+- id: Zotero
+  citation-key: Zotero
   title: Zotero
   type: webpage
   URL: https://www.zotero.org/
