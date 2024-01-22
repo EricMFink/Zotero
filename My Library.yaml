@@ -10756,6 +10756,21 @@ references:
   type: legal_case
   volume: '716'
 
+- id: Fisk_nd
+  author:
+    - family: Fisk
+      given: Catherine
+  citation-key: Fisk_nd
+  container-title: INDIANA LAW JOURNAL
+  issued:
+    - year: 2022
+  language: en
+  page: '755'
+  source: Zotero
+  title: 'Movement Lawyers: The Tension Between Solidarity and Independence'
+  type: article-journal
+  volume: '97'
+
 - id: fiskContingentLoyaltyRestricted2012
   author:
     - family: Fisk
@@ -19230,6 +19245,46 @@ references:
   title: 'Bureaucratic Insurgency: The Case of Police Unions'
   type: book
 
+- id: Levin2009
+  abstract: >-
+    This article presents findings from a qualitative study of seventy-one New
+    York immigration lawyers who are engaged in private practice. It focuses on
+    the lawyers' backgrounds, career paths, and early professional training and
+    describes, inter alia, the unusual diversity of this bar, the lawyers'
+    reasons for practicing immigration law, the ways in which they learn to
+    practice law, and the strong sense of community within the private
+    immigration bar. It uses the idea of communities of practice to help
+    understand how lawyers learn from their colleagues and are influenced by
+    them. The article identifies several factors that may contribute to the
+    supportiveness of the bar and the strong sense of community within that
+    practice specialty, notwithstanding its great diversity. It concludes by
+    making some preliminary comparisons between immigration lawyers and lawyers
+    in other practice specialties and by identifying some questions for future
+    study.
+  accessed:
+    - year: 2024
+      month: 1
+      day: 22
+  author:
+    - family: Levin
+      given: Leslie C.
+  citation-key: Levin2009
+  container-title: Law & Social Inquiry
+  ISSN: 0897-6546
+  issue: '2'
+  issued:
+    - year: 2009
+  page: 399-436
+  publisher: '[American Bar Foundation, Wiley]'
+  source: JSTOR
+  title: >-
+    Guardians at the Gate: The Backgrounds, Career Paths, and Professional
+    Development of Private US Immigration Lawyers
+  title-short: Guardians at the Gate
+  type: article-journal
+  URL: https://www.jstor.org/stable/30234230
+  volume: '34'
+
 - id: levineFreeJusticeHistory2021
   author:
     - family: Levine
@@ -24958,6 +25013,88 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/24718429
   volume: '22'
+
+- id: Oyer2011
+  abstract: >-
+    We profile the lawyers that work at the largest 300 American law firms as of
+    the Summer of 2008. We show how gender, years of experience, prestige of law
+    school, and other qualities vary across lawyers of different rank and firms
+    of different prestige. Geography is an important determinant of where
+    lawyers work, with many going to undergraduate school and law school near
+    where they ultimately practice. Geography is less important, however, at
+    more prestigious firms and for graduates of higher ranked firms. We then go
+    on to rank law firms based on the prestige of the law schools they attended
+    and we rank law schools based on their success at placing lawyers at BigLaw
+    firms. Chicago, Harvard, and Yale law schools are the clear leaders in
+    placing graduates at BigLaw firms. We provide important caveats about these
+    rankings.
+  accessed:
+    - year: 2024
+      month: 1
+      day: 22
+  author:
+    - family: Oyer
+      given: Paul D.
+    - family: Schaefer
+      given: Scott
+  citation-key: Oyer2011
+  issued:
+    - year: 2011
+  source: Semantic Scholar
+  title: >-
+    American BigLaw Lawyers and the Schools that Produce Them: A Profile and
+    Rankings
+  title-short: American BigLaw Lawyers and the Schools that Produce Them
+  type: paper-conference
+  URL: >-
+    https://www.semanticscholar.org/paper/American-BigLaw-Lawyers-and-the-Schools-that-Them%3A-Oyer-Schaefer/a27399f8db40773176efdf0838ac9a954128a189
+
+- id: Oyer2016
+  abstract: >-
+    The authors study the sources of match-specific value at large U.S. law
+    firms by analyzing how graduates of law schools group into law firms. They
+    measure the degree to which lawyers from certain schools concentrate within
+    certain firms and then analyze how this agglomeration can be explained by
+    ?natural advantage?? factors (such as geographic proximity) and by
+    productive complementarities across graduates of a given school. Large law
+    firms tend to hire from a select group of law schools, and individual
+    offices within these firms are substantially more concentrated in terms of
+    hires from particular schools. The degree of concentration is highly
+    variable, as there is substantial variation in firms? hiring strategies. Two
+    main drivers of variation in law school concentration occur within law
+    offices. First, geography drives a large amount of concentration, as most
+    firms hire largely from local schools. Second, school-based networks (and
+    possibly productive complementarities) appear to be important because
+    partners? law schools drive associates? law school composition even when
+    controlling for firm, school, and firm/school match characteristics and when
+    instrumenting for partners? law schools.
+  accessed:
+    - year: 2024
+      month: 1
+      day: 22
+  author:
+    - family: Oyer
+      given: Paul
+    - family: Schaefer
+      given: Scott
+  citation-key: Oyer2016
+  container-title: ILR Review
+  DOI: 10.1177/0019793915605506
+  ISSN: 0019-7939
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 3
+      day: 1
+  language: en
+  page: 378-404
+  publisher: SAGE Publications Inc
+  source: SAGE Journals
+  title: 'Firm/Employee Matching: An Industry Study of U.S. Lawyers'
+  title-short: Firm/Employee Matching
+  type: article-journal
+  URL: https://doi.org/10.1177/0019793915605506
+  volume: '69'
 
 - id: PaceTimmermannRanch2015
   authority: 7th Cir.
@@ -33673,6 +33810,31 @@ references:
     Employees' Retirement System
   type: legal_case
   volume: '818'
+
+- id: Willemez2005
+  accessed:
+    - year: 2024
+      month: 1
+      day: 22
+  author:
+    - family: Willemez
+      given: Laurent
+  citation-key: Willemez2005
+  container-title: The Worlds Cause Lawyers Make
+  DOI: 10.1515/9781503625440-005
+  ISBN: 978-1-5036-2544-0
+  issued:
+    - year: 2005
+      month: 7
+      day: 12
+  language: en
+  page: 63-82
+  publisher: Stanford University Press
+  title: >-
+    A Political-Professional Commitment?: French Workers' and Unions' Lawyers as
+    Cause Lawyers
+  title-short: French Workers' and Union Lawyers
+  type: chapter
 
 - id: willemezPoliticalProfessionalCommitmentFrench2005
   author:
