@@ -17122,6 +17122,46 @@ references:
   URL: http://www.jstor.org/stable/23011896
   volume: '36'
 
+- id: Kawar2011a
+  abstract: >-
+    Scholarship on law and social movements has focused attention primarily on
+    the United States, and secondarily on countries that share the
+    Anglo-American legal tradition. The politics of law and social movements in
+    other national legal contexts remains underexamined. The analysis in this
+    article contrasts legal mobilizations for immigrant rights in France and the
+    United States, and explores the relations between national fields of power
+    and legal practices. I trace the institutionalization of immigrant rights
+    legal organizations in each country and argue that the divergent
+    organizational forms and litigation strategies adopted by professionalized
+    movement organizations reflect the dynamics of the nationally distinct
+    fields of power relations within which law reform has been conducted. My
+    analysis links the material and symbolic resources available to law
+    reformers to the relative authority of private and public juridical actors
+    in each state.
+  accessed:
+    - year: 2024
+      month: 1
+      day: 22
+  author:
+    - family: Kawar
+      given: Leila
+  citation-key: Kawar2011a
+  container-title: Law & Social Inquiry
+  ISSN: 0897-6546
+  issue: '2'
+  issued:
+    - year: 2011
+  page: 354-387
+  publisher: Wiley
+  source: JSTOR
+  title: >-
+    Legal Mobilization on the Terrain of the State: Creating a Field of
+    Immigrant Rights Lawyering in France and the United States
+  title-short: Legal Mobilization on the Terrain of the State
+  type: article-journal
+  URL: https://www.jstor.org/stable/23011896
+  volume: '36'
+
 - id: Kazaglis2015
   accessed:
     - year: 2018
@@ -25108,6 +25148,51 @@ references:
   title: Pace v. Timmermann's Ranch and Saddle Shop Inc.
   type: legal_case
   volume: '795'
+
+- id: Paik2011
+  abstract: >-
+    Some research on fowyers active in politics has found that the ties among
+    them create networks in which a center or core of influential actors is
+    surrounded by more peripheral participants. Other studies, however, found
+    more segmented networks, sometimes lacking central players. This research
+    examines the structure and determinants of political ties among forty-seven
+    elite lawyers who served organizations prominent in fourteen national policy
+    issues in 2004-05. The analysis finds a network structure that resembles a
+    rough circle with Republicans on one side and Democrats on the other.
+    Lawyers affiliated with organizations representing a broad consteUaúon of
+    interests are closer to the center of the network, while those working for
+    specialized or narrow causes tend to be located in the periphery. Ties are
+    more dense among conservatives than among liberals. Lawyers who work as
+    organizational leaders or managers are more likely to be near the center
+    than are litigators. Central actors contribute larger amounts to election
+    campaigns. The organized bar, especially the American Bar Association,
+    appears to provide links between liberals and conservatives in one segment
+    of the network.
+  accessed:
+    - year: 2024
+      month: 1
+      day: 22
+  author:
+    - family: Paik
+      given: Anthony
+    - family: Heinz
+      given: John P.
+    - family: Southworth
+      given: Ann
+  citation-key: Paik2011
+  container-title: Law & Social Inquiry
+  ISSN: 0897-6546
+  issue: '4'
+  issued:
+    - year: 2011
+  page: 892-918
+  publisher: Wiley
+  source: JSTOR
+  title: 'Political Lawyers: The Structure of a National Network'
+  title-short: Political Lawyers
+  type: article-journal
+  URL: https://www.jstor.org/stable/41349662
+  volume: '36'
 
 - id: paikLawyersRightNetworks2007
   author:
