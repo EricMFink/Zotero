@@ -7096,6 +7096,30 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/flr85&i=2027
   volume: '85'
 
+- id: Cunningham-Parmeter2023
+  abstract: >-
+    Abstract From Uber to Home Depot to Starbucks, companies are increasingly
+    asking customers to rate workers. Gathering data from these ratings, many
+    firms utilize algorithms to make employment decisions. The proliferation of
+    customer ratings raises the possibility that some customers may review
+    workers negatively for racist, sexist, or other illegal reasons. Absent a
+    legal framework […]
+  author:
+    - family: Cunningham-Parmeter
+      given: Keith
+  citation-key: Cunningham-Parmeter2023
+  container-title: UCLA Law Review
+  issued:
+    - year: 2023
+  language: en-US
+  page: '92'
+  title: >-
+    Discrimination by Algorithm: Employer Accountability for Biased Customer
+    Reviews
+  title-short: Discrimination by Algorithm
+  type: article-journal
+  volume: '70'
+
 - id: Curcio2022
   author:
     - family: Curcio
@@ -18924,6 +18948,17 @@ references:
   type: article-journal
   URL: https://doi.org/10.1007/s11133-013-9263-7
   volume: '36'
+
+- id: LawJournalLibrary_nd
+  accessed:
+    - year: 2024
+      month: 1
+      day: 29
+  citation-key: LawJournalLibrary_nd
+  title: Law Journal Library - HeinOnline.org
+  type: webpage
+  URL: >-
+    https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/uclalr70&id=102&men_tab=srchresults
 
 - id: lazarus-blackAlternativeReadingsStatus2014
   abstract: >-
