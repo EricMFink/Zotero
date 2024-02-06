@@ -52,6 +52,24 @@ references:
   URL: >-
     https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
 
+- id: 4thCircPauses_nd
+  abstract: >-
+    The Fourth Circuit agreed Wednesday to pause a lawsuit brought by South
+    Carolina's NAACP chapter challenging the legality of a state law that bars
+    non-attorneys from giving legal advice while the merits of the NAACP
+    eviction relief program at issue are under consideration at the state-court
+    level.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: 4thCircPauses_nd
+  language: en
+  title: 4th Circ. Pauses Fight Over SC Non-Atty Legal Advice Law - Law360
+  type: webpage
+  URL: >-
+    https://www.law360.com/articles/1777285/4th-circ-pauses-fight-over-sc-non-atty-legal-advice-law
+
 - id: Aaron&FinkinDisloyalty1998
   author:
     - family: Aaron
@@ -84,6 +102,26 @@ references:
   type: webpage
   URL: https://www.abalegalprofile.com/demographics.html
 
+- id: ABAProfileLegal_nda
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: ABAProfileLegal_nda
+  title: ABA Profile of the Legal Profession 2023 | Homepage
+  type: webpage
+  URL: https://www.abalegalprofile.com/
+
+- id: ABAProfileLegal_ndb
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: ABAProfileLegal_ndb
+  title: ABA Profile of the Legal Profession - Lawyer Demographics
+  type: webpage
+  URL: https://www.abalegalprofile.com/demographics.html
+
 - id: abbottSystemProfessionsEssay1988
   author:
     - family: Abbott
@@ -97,6 +135,102 @@ references:
   publisher: University of Chicago Press
   publisher-place: Chicago
   title: 'The System of Professions: An Essay on the Division of Expert Labor'
+  type: book
+
+- id: Abel1995
+  abstract: >-
+    Politics by Other Means explores the fundamental question of how law can
+    constrain political power by offering a pathbreaking account of the
+    triumphant final decade of the struggle against apartheid.  Richard Abel
+    presents case studies of ten major legal campaigns including: challenges to
+    pass laws; black trade union demands for recognition; state terror;
+    censorship; resistance to the "independent" homelands; and treason trials.
+  author:
+    - family: Abel
+      given: Richard L.
+    - family: Abel
+      given: Peter
+  citation-key: Abel1995
+  ISBN: 978-0-415-90817-7
+  issued:
+    - year: 1995
+  language: en
+  note: 'Select: zotero://select/library/items/PX7TFAMU'
+  number-of-pages: '670'
+  publisher: Psychology Press
+  source: Google Books
+  title: 'Politics by Other Means: Law in the Struggle Against Apartheid, 1980-1994'
+  title-short: Politics by Other Means
+  type: book
+
+- id: Abel2018
+  abstract: >-
+    The US 'war on terror' has repeatedly violated fundamental rule of law
+    values. When executive and legislature commit such egregious wrongs, courts
+    represent the ultimate defense. Law's Trials: The Performance of Legal
+    Institutions in the US 'War on Terror' offers the first comprehensive
+    account of judicial performance during the 16 years of the Bush and Obama
+    administrations. Abel examines criminal prosecutions of alleged terrorists,
+    courts martial of military personnel accused of law of war violations,
+    military commission trials of 'high value detainees', habeas corpus
+    petitions by Guantánamo detainees, civil damage actions by victims of both
+    the 'war on terror' and terrorism, and civil liberties violations by
+    government officials and Islamophobic campaigners. Law's Trials identifies
+    successful defenses of the rule of law through qualitative and quantitative
+    analyses, comparing the behavior of judges within and between each category
+    of cases and locating those actions in a comparative history of efforts to
+    redress fundamental injustices.
+  author:
+    - family: Abel
+      given: Richard L.
+  citation-key: Abel2018
+  ISBN: 978-1-108-69141-3
+  issued:
+    - year: 2018
+      month: 8
+      day: 9
+  language: en
+  note: 'Select: zotero://select/library/items/G6B8SH6T'
+  number-of-pages: '861'
+  publisher: Cambridge University Press
+  source: Google Books
+  title: >-
+    Law's Trials: The Performance of Legal Institutions in the US 'War on
+    Terror'
+  title-short: Law's Trials
+  type: book
+
+- id: Abel2018a
+  abstract: >-
+    The US 'war on terror', which Bush declared and Obama continued, repeatedly
+    violated fundamental rule of law values. Law's Wars: The Fate of the Rule of
+    Law in the US 'War on Terror' is the first comprehensive account of efforts
+    to resist and correct those violations. It focuses on responses to abuses in
+    Abu Ghraib, efforts by Guantánamo Bay detainees to improve conditions of
+    confinement in and win release, exposés of and efforts to end torture and
+    electronic surveillance, and civilian casualties on the battlefield,
+    including targeted killings. Abel deploys a law and society perspective to
+    construct and analyze detailed narratives of the roles of victims,
+    whistle-blowers, the media, NGOs, lawyers, doctors, politicians, military
+    personnel, foreign governments and international organizations in defending
+    the rule of law. Only by understanding past errors can we hope to prevent
+    their repetition in what promises to be an endless 'war on terror'.
+  author:
+    - family: Abel
+      given: Richard L.
+  citation-key: Abel2018a
+  ISBN: 978-1-108-42981-8
+  issued:
+    - year: 2018
+      month: 8
+      day: 16
+  language: en
+  note: 'Select: zotero://select/library/items/XYJZ8IJF'
+  number-of-pages: '939'
+  publisher: Cambridge University Press
+  source: Google Books
+  title: 'Law''s Wars: The Fate of the Rule of Law in the US ''War on Terror'''
+  title-short: Law's Wars
   type: book
 
 - id: abelAmericanLawyers1991
@@ -213,76 +347,6 @@ references:
   publisher: NYU Press
   source: Google Books
   title: The Law and Society Reader
-  type: book
-
-- id: abelLawTrialsPerformance2018
-  abstract: >-
-    The US 'war on terror' has repeatedly violated fundamental rule of law
-    values. When executive and legislature commit such egregious wrongs, courts
-    represent the ultimate defense. Law's Trials: The Performance of Legal
-    Institutions in the US 'War on Terror' offers the first comprehensive
-    account of judicial performance during the 16 years of the Bush and Obama
-    administrations. Abel examines criminal prosecutions of alleged terrorists,
-    courts martial of military personnel accused of law of war violations,
-    military commission trials of 'high value detainees', habeas corpus
-    petitions by Guantánamo detainees, civil damage actions by victims of both
-    the 'war on terror' and terrorism, and civil liberties violations by
-    government officials and Islamophobic campaigners. Law's Trials identifies
-    successful defenses of the rule of law through qualitative and quantitative
-    analyses, comparing the behavior of judges within and between each category
-    of cases and locating those actions in a comparative history of efforts to
-    redress fundamental injustices.
-  author:
-    - family: Abel
-      given: Richard L.
-  citation-key: abelLawTrialsPerformance2018
-  ISBN: 978-1-108-69141-3
-  issued:
-    - year: 2018
-      month: 8
-      day: 9
-  language: en
-  note: 'Select: zotero://select/library/items/G6B8SH6T'
-  number-of-pages: '861'
-  publisher: Cambridge University Press
-  source: Google Books
-  title: >-
-    Law's Trials: The Performance of Legal Institutions in the US 'War on
-    Terror'
-  title-short: Law's Trials
-  type: book
-
-- id: abelLawWarsFate2018
-  abstract: >-
-    The US 'war on terror', which Bush declared and Obama continued, repeatedly
-    violated fundamental rule of law values. Law's Wars: The Fate of the Rule of
-    Law in the US 'War on Terror' is the first comprehensive account of efforts
-    to resist and correct those violations. It focuses on responses to abuses in
-    Abu Ghraib, efforts by Guantánamo Bay detainees to improve conditions of
-    confinement in and win release, exposés of and efforts to end torture and
-    electronic surveillance, and civilian casualties on the battlefield,
-    including targeted killings. Abel deploys a law and society perspective to
-    construct and analyze detailed narratives of the roles of victims,
-    whistle-blowers, the media, NGOs, lawyers, doctors, politicians, military
-    personnel, foreign governments and international organizations in defending
-    the rule of law. Only by understanding past errors can we hope to prevent
-    their repetition in what promises to be an endless 'war on terror'.
-  author:
-    - family: Abel
-      given: Richard L.
-  citation-key: abelLawWarsFate2018
-  ISBN: 978-1-108-42981-8
-  issued:
-    - year: 2018
-      month: 8
-      day: 16
-  language: en
-  note: 'Select: zotero://select/library/items/XYJZ8IJF'
-  number-of-pages: '939'
-  publisher: Cambridge University Press
-  source: Google Books
-  title: 'Law''s Wars: The Fate of the Rule of Law in the US ''War on Terror'''
-  title-short: Law's Wars
   type: book
 
 - id: abelLawyersDock2011
@@ -415,32 +479,6 @@ references:
   title: The Making of the English Legal Profession
   type: book
 
-- id: abelPoliticsOtherMeans1995
-  abstract: >-
-    Politics by Other Means explores the fundamental question of how law can
-    constrain political power by offering a pathbreaking account of the
-    triumphant final decade of the struggle against apartheid.  Richard Abel
-    presents case studies of ten major legal campaigns including: challenges to
-    pass laws; black trade union demands for recognition; state terror;
-    censorship; resistance to the "independent" homelands; and treason trials.
-  author:
-    - family: Abel
-      given: Richard L.
-    - family: Abel
-      given: Peter
-  citation-key: abelPoliticsOtherMeans1995
-  ISBN: 978-0-415-90817-7
-  issued:
-    - year: 1995
-  language: en
-  note: 'Select: zotero://select/library/items/PX7TFAMU'
-  number-of-pages: '670'
-  publisher: Psychology Press
-  source: Google Books
-  title: 'Politics by Other Means: Law in the Struggle Against Apartheid, 1980-1994'
-  title-short: Politics by Other Means
-  type: book
-
 - id: abrahamArizonaEmploymentProtection2008
   author:
     - family: Abraham
@@ -505,6 +543,23 @@ references:
   title: 'Advocate and Activist: Memoirs of an American Communist Lawyer'
   type: book
 
+- id: AccessJusticeNorth_nd
+  abstract: >-
+    The Justice for All Project (JFAP) advocates for regulatory reform regarding
+    the practice of law. We support implementing a court navigator program, a
+    regulatory sandbox, and limited licensing. We have submitted a proposal to
+    license paraprofessionals to provide affordable options for NC residents.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: AccessJusticeNorth_nd
+  container-title: NC Justice Project
+  language: en
+  title: Access To Justice | North Carolina Justice for All Project
+  type: webpage
+  URL: https://www.ncjfap.org
+
 - id: acemogluBeckerTrainingImperfect1999
   author:
     - family: Acemoglu
@@ -543,6 +598,30 @@ references:
   type: article-journal
   volume: '10'
 
+- id: Adkins2016
+  author:
+    - family: Adkins
+      given: Lisa
+  citation-key: Adkins2016
+  container-title: Dialogues in Human Geography
+  container-title-short: Dialogues in Human Geography
+  DOI: 10.1177/2043820616676728
+  ISSN: 2043-8206
+  issue: '3'
+  issued:
+    - literal: 2016-11-0001
+  language: en
+  note: >-
+    extrafields":{"publisher":"SAGE Publications"}}Citation Key:
+    adkinsNotesSociologyDebt2016
+  page: 318-321
+  publisher: SAGE Publications
+  source: SAGE Journals
+  title: Notes toward a sociology of debt
+  type: article-journal
+  URL: https://doi.org/10.1177/2043820616676728
+  volume: '6'
+
 - id: adkinsDebtComplexitySociological2019
   abstract: >-
     Since the financial crisis of 2007-08 there has been a growing interest
@@ -573,30 +652,6 @@ references:
   title: Debt, complexity and the sociological imagination
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvggx2fq.6
-
-- id: adkinsNotesSociologyDebt2016
-  author:
-    - family: Adkins
-      given: Lisa
-  citation-key: adkinsNotesSociologyDebt2016
-  container-title: Dialogues in Human Geography
-  container-title-short: Dialogues in Human Geography
-  DOI: 10.1177/2043820616676728
-  ISSN: 2043-8206
-  issue: '3'
-  issued:
-    - literal: 2016-11-0001
-  language: en
-  note: >-
-    extrafields":{"publisher":"SAGE Publications"}}Citation Key:
-    adkinsNotesSociologyDebt2016
-  page: 318-321
-  publisher: SAGE Publications
-  source: SAGE Journals
-  title: Notes toward a sociology of debt
-  type: article-journal
-  URL: https://doi.org/10.1177/2043820616676728
-  volume: '6'
 
 - id: AdministrativeOfficeoftheU.S.Courts_nd
   author:
@@ -659,7 +714,7 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.16
 
-- id: aidinlisDefiningLegalTwo2019
+- id: Aidinlis2019
   abstract: >-
     In Nobody’s Law (2018), Marc Hertogh introduced the notion of legal
     alienation as part of a ‘secular’ approach to legal consciousness, i.e. one
@@ -688,7 +743,7 @@ references:
   author:
     - family: Aidinlis
       given: Stergios
-  citation-key: aidinlisDefiningLegalTwo2019
+  citation-key: Aidinlis2019
   container-title: Journal of Social Welfare and Family Law
   DOI: 10.1080/09649069.2019.1663024
   ISSN: 0964-9069
@@ -718,7 +773,7 @@ references:
   title: Alabama Ag-Gag
   type: legislation
 
-- id: albistonFundingCauseHow2014
+- id: Albiston2014
   abstract: >-
     Most of the work of public interest law organizations does not make money.
     How do these organizations survive, given the economic realities of law
@@ -741,7 +796,7 @@ references:
       given: Catherine R.
     - family: Nielsen
       given: Laura Beth
-  citation-key: albistonFundingCauseHow2014
+  citation-key: Albiston2014
   container-title: Law & Social Inquiry
   ISSN: 0897-6546
   issue: '1'
@@ -761,11 +816,11 @@ references:
   URL: http://www.jstor.org/stable/24545700
   volume: '39'
 
-- id: albistonRuleLawLitigation2014
+- id: Albiston2014a
   author:
     - family: Albiston
       given: Catherine
-  citation-key: albistonRuleLawLitigation2014
+  citation-key: Albiston2014a
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -924,7 +979,7 @@ references:
   title: Animal & Ecological Terrorism in America
   type: document
 
-- id: alfordPowersTheoryCapitalism1985
+- id: Alford1985
   abstract: >-
     Existing theories of the nature of the state in Western capitalist
     democracies have been mostly propounded from one of three major theoretical
@@ -954,7 +1009,7 @@ references:
       given: Robert R.
     - family: Friedland
       given: Roger
-  citation-key: alfordPowersTheoryCapitalism1985
+  citation-key: Alford1985
   ISBN: 978-0-521-31635-4
   issued:
     - year: 1985
@@ -980,11 +1035,11 @@ references:
   type: legal_case
   volume: '271'
 
-- id: almeidaSocialMovements2019
+- id: Almeida2019
   author:
     - family: Almeida
       given: Paul
-  citation-key: almeidaSocialMovements2019
+  citation-key: Almeida2019
   collection-title: The Structure of Collective Mobilization
   ISBN: 978-0-520-29091-4
   issued:
@@ -1047,6 +1102,91 @@ references:
   title: On the Necessity and Impossibility of Being a Jew
   type: article-journal
   URL: http://www.jstor.org/stable/487703
+
+- id: Anderson1979
+  abstract: >-
+    "The political nature of Absolutism has long been a subject of controversy
+    within historical materialism. Developing considerations advanced in
+    Passages from Antiquity to Feudalism, this book situates the Absolutist
+    states of the early modern epoch against the prior background of European
+    feudalism. It is divided into two parts. The first discusses the overall
+    structures of Absolutism as a state-system in Western Europe, from the
+    Renaissance onwards; and the difficult question of the relations between
+    monarchy and nobility institutionalised by it, for which it suggests a
+    general periodization. It then looks in turn at the trajectory of each of
+    the specific Absolutist states in the dominant countries of the West -
+    Spain, France, England and Sweden, set off against the case of Italy, where
+    no major indigenous Absolutism developed. The second part of the work
+    sketches a comparative prospect of Absolutism in Eastern Europe. It begins
+    with an enquiry into the reasons why the divergent social conditions in
+    themore backward half of the continent should have produced political forms
+    apparently similar to those of the more advanced West. The peculiarities, as
+    well as affinities, of Eastern Absolutism as a distinct type of royal state,
+    are examined. The variegated monarchies of Prussia, Austria and Russia are
+    surveyed, and the lessons asked of the counter-example of Poland. Finally,
+    the structure of the Ottoman Empire in the Balkans is taken as an external
+    gauge by which the singularity of Absolutism as a European phenomenon is
+    assessed. The work ends with some observations on the special position
+    occupied by European development within universal history, which draws
+    themes from both Passages from Antiquity to Feudalism and Lineages of the
+    Absolutist State together into a single argument -- within their common
+    limits -- as materials for debate. Two postscript notes treat, respectively,
+    the notion of the 'Asiatic mode of production,' with particular reference to
+    Islamic and Chinese history, and the experience of Japanese feudalism, as
+    relevant controls for a study of the evolution of Europe up to the advent of
+    industrial capitalism." -- from http://www.amazon.com (April 18, 2011).
+  author:
+    - family: Anderson
+      given: Perry
+  citation-key: Anderson1979
+  ISBN: 978-0-86091-710-6
+  issued:
+    - year: 1979
+  language: en
+  note: 'Select: zotero://select/library/items/9PWRLXIX'
+  number-of-pages: '580'
+  publisher: Verso
+  source: Google Books
+  title: Lineages of the Absolutist State
+  type: book
+
+- id: Anderson2006
+  abstract: >-
+    The definitive, bestselling book on the origins of nationalism, and the
+    processes that have shaped it.Imagined Communities, Benedict Anderson’s
+    brilliant book on nationalism, forged a new field of study when it first
+    appeared in 1983. Since then it has sold over a quarter of a million copies
+    and is widely considered the most important book on the subject. In this
+    greatly anticipated revised edition, Anderson updates and elaborates on the
+    core question: what makes people live and die for nations, as well as hate
+    and kill in their name? Anderson examines the creation and global spread of
+    the ‘imagined communities’ of nationality, and explores the processes that
+    created these communities: the territorialization of religious faiths, the
+    decline of antique kinship, the interaction between capitalism and print,
+    the development of secular languages-of-state, and changing conceptions of
+    time and space. He shows how an originary nationalism born in the Americas
+    was adopted by popular movements in Europe, by imperialist powers, and by
+    the movements of anti-imperialist resistance in Asia and Africa.In a new
+    afterword, Anderson examines the extraordinary influence of Imagined
+    Communities, and the book's international publication and reception, from
+    the end of the Cold War era to the present day.
+  author:
+    - family: Anderson
+      given: Benedict
+  citation-key: Anderson2006
+  ISBN: 978-1-84467-086-4
+  issued:
+    - year: 2006
+      month: 11
+      day: 17
+  language: en
+  note: 'Select: zotero://select/library/items/8V2INH2B'
+  number-of-pages: '266'
+  publisher: Verso
+  source: Google Books
+  title: 'Imagined Communities: Reflections on the Origin and Spread of Nationalism'
+  title-short: Imagined Communities
+  type: book
 
 - id: Anderson2017
   abstract: >-
@@ -1129,44 +1269,6 @@ references:
   type: legal_case
   volume: '854'
 
-- id: andersonImaginedCommunitiesReflections2006
-  abstract: >-
-    The definitive, bestselling book on the origins of nationalism, and the
-    processes that have shaped it.Imagined Communities, Benedict Anderson’s
-    brilliant book on nationalism, forged a new field of study when it first
-    appeared in 1983. Since then it has sold over a quarter of a million copies
-    and is widely considered the most important book on the subject. In this
-    greatly anticipated revised edition, Anderson updates and elaborates on the
-    core question: what makes people live and die for nations, as well as hate
-    and kill in their name? Anderson examines the creation and global spread of
-    the ‘imagined communities’ of nationality, and explores the processes that
-    created these communities: the territorialization of religious faiths, the
-    decline of antique kinship, the interaction between capitalism and print,
-    the development of secular languages-of-state, and changing conceptions of
-    time and space. He shows how an originary nationalism born in the Americas
-    was adopted by popular movements in Europe, by imperialist powers, and by
-    the movements of anti-imperialist resistance in Asia and Africa.In a new
-    afterword, Anderson examines the extraordinary influence of Imagined
-    Communities, and the book's international publication and reception, from
-    the end of the Cold War era to the present day.
-  author:
-    - family: Anderson
-      given: Benedict
-  citation-key: andersonImaginedCommunitiesReflections2006
-  ISBN: 978-1-84467-086-4
-  issued:
-    - year: 2006
-      month: 11
-      day: 17
-  language: en
-  note: 'Select: zotero://select/library/items/8V2INH2B'
-  number-of-pages: '266'
-  publisher: Verso
-  source: Google Books
-  title: 'Imagined Communities: Reflections on the Origin and Spread of Nationalism'
-  title-short: Imagined Communities
-  type: book
-
 - id: AndersonLibertyLobby1986
   authority: supreme.court
   citation-key: AndersonLibertyLobby1986
@@ -1181,54 +1283,7 @@ references:
   type: legal_case
   volume: '477'
 
-- id: andersonLineagesAbsolutistState1979
-  abstract: >-
-    "The political nature of Absolutism has long been a subject of controversy
-    within historical materialism. Developing considerations advanced in
-    Passages from Antiquity to Feudalism, this book situates the Absolutist
-    states of the early modern epoch against the prior background of European
-    feudalism. It is divided into two parts. The first discusses the overall
-    structures of Absolutism as a state-system in Western Europe, from the
-    Renaissance onwards; and the difficult question of the relations between
-    monarchy and nobility institutionalised by it, for which it suggests a
-    general periodization. It then looks in turn at the trajectory of each of
-    the specific Absolutist states in the dominant countries of the West -
-    Spain, France, England and Sweden, set off against the case of Italy, where
-    no major indigenous Absolutism developed. The second part of the work
-    sketches a comparative prospect of Absolutism in Eastern Europe. It begins
-    with an enquiry into the reasons why the divergent social conditions in
-    themore backward half of the continent should have produced political forms
-    apparently similar to those of the more advanced West. The peculiarities, as
-    well as affinities, of Eastern Absolutism as a distinct type of royal state,
-    are examined. The variegated monarchies of Prussia, Austria and Russia are
-    surveyed, and the lessons asked of the counter-example of Poland. Finally,
-    the structure of the Ottoman Empire in the Balkans is taken as an external
-    gauge by which the singularity of Absolutism as a European phenomenon is
-    assessed. The work ends with some observations on the special position
-    occupied by European development within universal history, which draws
-    themes from both Passages from Antiquity to Feudalism and Lineages of the
-    Absolutist State together into a single argument -- within their common
-    limits -- as materials for debate. Two postscript notes treat, respectively,
-    the notion of the 'Asiatic mode of production,' with particular reference to
-    Islamic and Chinese history, and the experience of Japanese feudalism, as
-    relevant controls for a study of the evolution of Europe up to the advent of
-    industrial capitalism." -- from http://www.amazon.com (April 18, 2011).
-  author:
-    - family: Anderson
-      given: Perry
-  citation-key: andersonLineagesAbsolutistState1979
-  ISBN: 978-0-86091-710-6
-  issued:
-    - year: 1979
-  language: en
-  note: 'Select: zotero://select/library/items/9PWRLXIX'
-  number-of-pages: '580'
-  publisher: Verso
-  source: Google Books
-  title: Lineages of the Absolutist State
-  type: book
-
-- id: andreasonAvoidingWrongfulDischarge1993
+- id: Andreason1993
   abstract: >-
     Across the US each year, thousands of employees sue their employers for
     wrongful discharge, and the stakes can be quit high. In Flanigan vs.
@@ -1249,7 +1304,7 @@ references:
       given: Aaron W.
     - family: Morton
       given: Jack K.
-  citation-key: andreasonAvoidingWrongfulDischarge1993
+  citation-key: Andreason1993
   container-title: Montana Business Quarterly; Missoula
   event-place: Missoula, United States, Missoula
   ISSN: '00269921'
@@ -1431,7 +1486,7 @@ references:
   type: webpage
   URL: https://awionline.org/content/anti-whistleblower-legislation
 
-- id: appelbaumEconomistsHourFalse2019
+- id: Appelbaum2019
   abstract: >-
     A Wall Street Journal Business Bestseller  In this "lively and entertaining"
     (Liaquat Ahamed, The New Yorker) history of ideas, New York Times editorial
@@ -1463,7 +1518,7 @@ references:
   author:
     - family: Appelbaum
       given: Binyamin
-  citation-key: appelbaumEconomistsHourFalse2019
+  citation-key: Appelbaum2019
   ISBN: 978-0-316-51232-9
   issued:
     - year: 2019
@@ -1996,7 +2051,7 @@ references:
   type: legal_case
   volume: '366'
 
-- id: ashiagborIntroductionMovingEconomic2013
+- id: Ashiagbor2013
   author:
     - family: Ashiagbor
       given: Diamond
@@ -2004,7 +2059,7 @@ references:
       given: Prabha
     - family: Perry-Kessaris
       given: Amanda
-  citation-key: ashiagborIntroductionMovingEconomic2013
+  citation-key: Ashiagbor2013
   container-title: Journal of Law and Society
   ISSN: 0263-323X
   issue: '1'
@@ -2855,6 +2910,19 @@ references:
   URL: https://browzine.com/articles/499700112
   volume: '47'
 
+- id: BecomingChangeStory_nd
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: BecomingChangeStory_nd
+  title: >-
+    Becoming the Change: The Story of the North Carolina Justice for All Project
+    | IAALS
+  type: webpage
+  URL: >-
+    https://iaals.du.edu/blog/becoming-change-story-north-carolina-justice-all-project
+
 - id: BeeckAquaslideNDive1977
   authority: 8th Cir.
   citation-key: BeeckAquaslideNDive1977
@@ -3680,6 +3748,15 @@ references:
   title: Debt drive and the imperative of growth
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvggx2fq.7
+
+- id: BlackPolaskiStein2024
+  citation-key: BlackPolaskiStein2024
+  issued:
+    - year: 2024
+      month: 1
+      day: 4
+  title: 'Black Polaski v. Stein: Complaint (E.D.N.C.)'
+  type: document
 
 - id: BlackWhiteTaxicab1928
   authority: Supreme Court
@@ -4917,7 +4994,7 @@ references:
   title-short: A Debtor World
   type: book
 
-- id: brudneyJudicialHostilityLabor2000
+- id: Brudney2000
   abstract: >-
     Brudney, Schiavoni, and Merritt address an important debate dividing lawyers
     and political scientists: To what extent do extradoctrinal factors such as
@@ -4945,7 +5022,7 @@ references:
       given: Sara
     - family: Merritt
       given: Deborah Jones
-  citation-key: brudneyJudicialHostilityLabor2000
+  citation-key: Brudney2000
   DOI: 10.2139/ssrn.223520
   event-place: Rochester, NY
   genre: SSRN Scholarly Paper
@@ -5507,7 +5584,7 @@ references:
   type: legal_case
   volume: '321'
 
-- id: caneOxfordHandbookEmpirical2010
+- id: Cane2010
   abstract: >-
     The empirical study of law, legal systems and legal institutions is widely
     viewed as one of the most exciting and important intellectual developments
@@ -5532,7 +5609,7 @@ references:
       given: Peter
     - family: Kritzer
       given: Herbert M.
-  citation-key: caneOxfordHandbookEmpirical2010
+  citation-key: Cane2010
   ISBN: 978-0-19-954247-5
   issued:
     - year: 2010
@@ -6664,7 +6741,7 @@ references:
   type: legal_case
   volume: '2016'
 
-- id: conleyRulesRelationshipsEthnography1990
+- id: Conley1990
   abstract: >-
     In Rules versus Relationships, John M. Conley and William M. O’Barr examine
     the experiences of litigants seeking redress of everyday difficulties
@@ -6678,7 +6755,7 @@ references:
       given: John M.
     - family: O'Barr
       given: William M.
-  citation-key: conleyRulesRelationshipsEthnography1990
+  citation-key: Conley1990
   event-place: Chicago
   issued:
     - year: 1990
@@ -7096,6 +7173,30 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/flr85&i=2027
   volume: '85'
 
+- id: Cunningham-Parmeter2023
+  abstract: >-
+    Abstract From Uber to Home Depot to Starbucks, companies are increasingly
+    asking customers to rate workers. Gathering data from these ratings, many
+    firms utilize algorithms to make employment decisions. The proliferation of
+    customer ratings raises the possibility that some customers may review
+    workers negatively for racist, sexist, or other illegal reasons. Absent a
+    legal framework […]
+  author:
+    - family: Cunningham-Parmeter
+      given: Keith
+  citation-key: Cunningham-Parmeter2023
+  container-title: UCLA Law Review
+  issued:
+    - year: 2023
+  language: en-US
+  page: '92'
+  title: >-
+    Discrimination by Algorithm: Employer Accountability for Biased Customer
+    Reviews
+  title-short: Discrimination by Algorithm
+  type: article-journal
+  volume: '70'
+
 - id: Curcio2022
   author:
     - family: Curcio
@@ -7335,7 +7436,7 @@ references:
   type: webpage
   URL: http://daringfireball.net/projects/markdown/
 
-- id: dartmouthUSDistrictCourt
+- id: Dartmouth_nd
   accessed:
     - year: 2023
       month: 12
@@ -7343,7 +7444,7 @@ references:
   author:
     - family: Dartmouth
       given: University of Massachusetts
-  citation-key: dartmouthUSDistrictCourt
+  citation-key: Dartmouth_nd
   language: en
   title: US District Court Database
   type: webpage
@@ -9143,6 +9244,30 @@ references:
   type: article-journal
   volume: '92'
 
+- id: EqualJusticeNot2023
+  abstract: >-
+    “Equal justice is not for all if you are of low or moderate income in NC.
+    Low-income North Carolinians face a severe shortfall in affordable legal
+    resources,”
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: EqualJusticeNot2023
+  issued:
+    - year: 2023
+      month: 6
+      day: 29
+  language: en-US
+  section: Special Feature
+  title: >-
+    Equal Justice Is Not for All: Report Card Three Years After the Floyd &
+    Taylor Murders | Attorney at Law Magazine
+  title-short: Equal Justice Is Not for All
+  type: post-weblog
+  URL: >-
+    https://attorneyatlawmagazine.com/special-feature/equal-justice-is-not-for-all-report-card-three-years-after-the-floyd-taylor-murders
+
 - id: ErieCoTompkins1938
   authority: supreme.court
   citation-key: ErieCoTompkins1938
@@ -9411,7 +9536,7 @@ references:
   title-short: Captains of Consciousness
   type: book
 
-- id: ewickCommonPlaceLaw1998
+- id: Ewick1998
   abstract: >-
     Why do some people not hesitate to call the police to quiet a barking dog in
     the middle of the night, while others accept the pain and losses associated
@@ -9434,7 +9559,7 @@ references:
       given: Patricia
     - family: Silbey
       given: Susan S.
-  citation-key: ewickCommonPlaceLaw1998
+  citation-key: Ewick1998
   event-place: Chicago
   issued:
     - year: 1998
@@ -9549,6 +9674,30 @@ references:
   title: Exxon Mobil Corp. v. Allapattah Services, Inc.
   type: legal_case
   volume: '545'
+
+- id: FamilyLaw2022
+  abstract: >-
+    By Alicia Mitchell-Mercer and S.M. Kernodle-Hodges “If one wishes to know
+    how justice is administered, one does not question the policemen, the
+    judges, or the protected members of the middle class. One goes to the
+    unprotected— those, precisely, who need the law's protection most! — and
+    listens to their testimony. ~James Baldwin, "No Name on
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - literal: FamilyLaw
+  citation-key: FamilyLaw2022
+  issued:
+    - year: 2022
+      month: 10
+      day: 14
+  language: en-US
+  title: Looking Beyond Lawyers to Close the Access to Justice Gap - NCBarBlog
+  type: webpage
+  URL: >-
+    https://www.ncbarblog.com/fl-looking-beyond-lawyers-to-close-the-access-to-justice-gap/
 
 - id: Fantasia1995
   abstract: >-
@@ -9834,6 +9983,26 @@ references:
   source: Amazon
   title: The Sociology of Debt
   type: book
+
+- id: FederalLegalChallenges_nd
+  abstract: >-
+    Discover key federal legal challenges shaping the future of legal access in
+    the United States. This website provides comprehensive coverage of pivotal
+    cases, including Wayne Nutt vs. NC Board of Engineering, Upsolve vs. New
+    York Attorney General, and NAACP vs. South Carolina Attorney General. Stay
+    updated with the latest developments in these landmark cases that are set to
+    impact not just legal professionals, but also the wider public in accessing
+    justice.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: FederalLegalChallenges_nd
+  container-title: NC Justice Project
+  language: en
+  title: Federal Legal Challenges
+  type: webpage
+  URL: https://www.ncjfap.org/federal-legal-challenges
 
 - id: FederalSecurityInc2012
   authority: N.L.R.B.
@@ -10537,6 +10706,27 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt1d9nnbd.9
 
+- id: Fink2001
+  author:
+    - family: Fink
+      given: Eric M.
+    - family: Davidson
+      given: Stuart W.
+  citation-key: Fink2001
+  container-title: 'The CyberUnion Handbook: Transforming Labor Through Computer Technology'
+  editor:
+    - family: Shostak
+      given: Arthur
+  event-place: New York
+  ISBN: 978-0-7656-0803-1
+  issued:
+    - year: 2001
+  page: 98-103
+  publisher: Routledge
+  publisher-place: New York
+  title: Union and Employee Access to Employer E-mail Systems Under Federal Labor Law
+  type: chapter
+
 - id: Fink2004
   author:
     - family: Fink
@@ -10656,6 +10846,20 @@ references:
   title-short: Federal Student Loan Servicing
   type: document
 
+- id: Fink2019
+  author:
+    - family: Fink
+      given: Eric M
+  citation-key: Fink2019
+  container-title: Idaho Law Review
+  issued:
+    - year: 2019
+  language: en
+  page: 953-973
+  title: Union Organizing & Collective Bargaining for Incarcerated Workers
+  type: article-journal
+  volume: '52'
+
 - id: FinkinDisloyalty2007
   author:
     - family: Finkin
@@ -10670,41 +10874,6 @@ references:
   title: Disloyalty! Does Jefferson Standard Stalk Still?
   type: article-journal
   volume: '28'
-
-- id: finkUnionEmployeeAccess2001
-  author:
-    - family: Fink
-      given: Eric M.
-    - family: Davidson
-      given: Stuart W.
-  citation-key: finkUnionEmployeeAccess2001
-  container-title: 'The CyberUnion Handbook: Transforming Labor Through Computer Technology'
-  editor:
-    - family: Shostak
-      given: Arthur
-  event-place: New York
-  ISBN: 978-0-7656-0803-1
-  issued:
-    - year: 2001
-  page: 98-103
-  publisher: Routledge
-  publisher-place: New York
-  title: Union and Employee Access to Employer E-mail Systems Under Federal Labor Law
-  type: chapter
-
-- id: finkUnionOrganizingCollective2019
-  author:
-    - family: Fink
-      given: Eric M
-  citation-key: finkUnionOrganizingCollective2019
-  container-title: Idaho Law Review
-  issued:
-    - year: 2019
-  language: en
-  page: 953-973
-  title: Union Organizing & Collective Bargaining for Incarcerated Workers
-  type: article-journal
-  volume: '52'
 
 - id: FirebirdStructuresLLC2017
   authority: D.N.M.
@@ -14000,7 +14169,7 @@ references:
   URL: https://www.jstor.org/stable/4121181
   volume: '47'
 
-- id: hallidayHegemonyVarietiesLegal2019
+- id: Halliday2019
   accessed:
     - year: 2023
       month: 11
@@ -14008,7 +14177,7 @@ references:
   author:
     - family: Halliday
       given: Simon
-  citation-key: hallidayHegemonyVarietiesLegal2019
+  citation-key: Halliday2019
   container-title: Social & Legal Studies
   DOI: 10.1177/0964663919869739
   ISSN: 0964-6639
@@ -14890,7 +15059,7 @@ references:
     https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/how-employers-recruit-their-workers-into-politicsand-why-political-scientists-should-care/778AD469C15C4100DB0C29DB8C858C4B
   volume: '14'
 
-- id: hertoghNobodyLawLegal2018
+- id: Hertogh2018
   abstract: >-
     The first book to examine the erosion of legal legitimacy in everyday life.
     Unlike previous studies on legal consciousness, it does not illustrate the
@@ -14900,7 +15069,7 @@ references:
   author:
     - family: Hertogh
       given: Marc
-  citation-key: hertoghNobodyLawLegal2018
+  citation-key: Hertogh2018
   event-place: London
   ISBN: 978-1-137-60397-5
   issued:
@@ -15291,7 +15460,7 @@ references:
   type: legal_case
   volume: '493'
 
-- id: horakLegalConsciousnessSystematic2021
+- id: Horak2021
   abstract: >-
     This article reports on a conducted systematic review focused on
     conceptualization and measurement methods of legal consciousness, which can
@@ -15319,7 +15488,7 @@ references:
       given: David
     - family: Klocek
       given: Adam
-  citation-key: horakLegalConsciousnessSystematic2021
+  citation-key: Horak2021
   container-title: Anuario de Psicologia Juridica
   container-title-short: Anuario de Psicología Jurídica
   DOI: 10.5093/apj2021a2
@@ -15622,6 +15791,7 @@ references:
   container-title: U.S.
   issued:
     - year: 1986
+  jurisdiction: us
   page: '380'
   title: International Longshoremen's Ass'n. v. Davis
   type: legal_case
@@ -15745,6 +15915,15 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/10.1086/502692
   volume: '112'
+
+- id: IssuesSubcommitteeRegulatory2022
+  citation-key: IssuesSubcommitteeRegulatory2022
+  issued:
+    - year: 2022
+      month: 1
+  publisher: North Carolina State Bar
+  title: 'Issues Subcommittee on Regulatory Change: Report and Recommendations'
+  type: document
 
 - id: JacksonHomeDepot2021
   authority: N.C.App.
@@ -16682,6 +16861,15 @@ references:
   publisher: Lexington Books Lexington, MA
   title: 'Police Unionism: Power and Impact in Public-Sector Bargaining'
   type: book
+
+- id: JusticeGapUnmet2022
+  citation-key: JusticeGapUnmet2022
+  issued:
+    - year: 2022
+      month: 4
+  publisher: Legal Services Corporation
+  title: 'The Justice Gap: The Unmet Civil Legal Needs of Low-Income Americans'
+  type: document
 
 - id: JustusRosner2018
   authority: N.C.
@@ -18184,7 +18372,7 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/lasr.12606
   volume: '56'
 
-- id: klermanLawMattersLess2022
+- id: Klerman2022
   abstract: >-
     In a pre-registered 2 × 2 × 2 factorial between-subject randomized lab
     experiment with 61 federal judges, we test if the law influences judicial
@@ -18203,7 +18391,7 @@ references:
       given: Daniel
     - family: Spamann
       given: Holger
-  citation-key: klermanLawMattersLess2022
+  citation-key: Klerman2022
   container-title: The Journal of Law, Economics, and Organization
   container-title-short: The Journal of Law, Economics, and Organization
   DOI: 10.1093/jleo/ewac008
@@ -18924,6 +19112,17 @@ references:
   type: article-journal
   URL: https://doi.org/10.1007/s11133-013-9263-7
   volume: '36'
+
+- id: LawJournalLibrary_nd
+  accessed:
+    - year: 2024
+      month: 1
+      day: 29
+  citation-key: LawJournalLibrary_nd
+  title: Law Journal Library - HeinOnline.org
+  type: webpage
+  URL: >-
+    https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/uclalr70&id=102&men_tab=srchresults
 
 - id: lazarus-blackAlternativeReadingsStatus2014
   abstract: >-
@@ -20058,6 +20257,27 @@ references:
   URL: >-
     http://bostonreview.net/class-inequality-politics/olivia-schwob-long-history-debt-cancellation
 
+- id: Loomis1930
+  author:
+    - family: Loomis
+      given: Charles P.
+  citation-key: Loomis1930
+  container-title: The North Carolina Historical Review
+  ISSN: 0029-2494
+  issue: '4'
+  issued:
+    - year: 1930
+  note: >-
+    orth Carolina Office of Archives and History"}}Citation Key:
+    loomisActivitiesNorthCarolina1930
+  page: 443-462
+  publisher: North Carolina Office of Archives and History
+  source: JSTOR
+  title: Activities of the North Carolina Farmers' Union
+  type: article-journal
+  URL: http://www.jstor.org/stable/23515092
+  volume: '7'
+
 - id: Loomis2015
   abstract: >-
     When jobs can move anywhere in the world, bosses have no incentive to
@@ -20102,27 +20322,6 @@ references:
     Catastrophe
   title-short: Out of Sight
   type: book
-
-- id: loomisActivitiesNorthCarolina1930
-  author:
-    - family: Loomis
-      given: Charles P.
-  citation-key: loomisActivitiesNorthCarolina1930
-  container-title: The North Carolina Historical Review
-  ISSN: 0029-2494
-  issue: '4'
-  issued:
-    - year: 1930
-  note: >-
-    orth Carolina Office of Archives and History"}}Citation Key:
-    loomisActivitiesNorthCarolina1930
-  page: 443-462
-  publisher: North Carolina Office of Archives and History
-  source: JSTOR
-  title: Activities of the North Carolina Farmers' Union
-  type: article-journal
-  URL: http://www.jstor.org/stable/23515092
-  volume: '7'
 
 - id: loomisEmpireTimberLabor2017
   abstract: >-
@@ -20377,7 +20576,7 @@ references:
     https://www.historicalmaterialism.org/articles/not-your-good-germans?utm_source=pocket_saves
   volume: '32'
 
-- id: loyalBourdieuTheoryState2017
+- id: Loyal2017
   abstract: >-
     This book critically examines Pierre Bourdieu's theory of the state by
     assessing its theoretical and empirical value. Steven Loyal expertly
@@ -20388,7 +20587,7 @@ references:
   author:
     - family: Loyal
       given: Steven
-  citation-key: loyalBourdieuTheoryState2017
+  citation-key: Loyal2017
   ISBN: 978-1-137-58350-5
   issued:
     - year: 2017
@@ -20659,7 +20858,7 @@ references:
   type: article-journal
   volume: '49'
 
-- id: mahargSimulationsLearningMetaverse2007
+- id: Maharg2007
   abstract: >-
     Simulation is one of the major applications of the web in entertainment and
     training, but has so far received little attention from HE and FE. It is
@@ -20680,7 +20879,7 @@ references:
       given: Paul
     - family: Owen
       given: Martin
-  citation-key: mahargSimulationsLearningMetaverse2007
+  citation-key: Maharg2007
   issued:
     - year: 2007
       month: 7
@@ -20693,12 +20892,12 @@ references:
   title-short: Simulations, Learning and the Metaverse
   type: article-journal
 
-- id: mahmudDebtDiscipline2012
+- id: Mahmud2012
   archive: JSTOR
   author:
     - family: Mahmud
       given: Tayyab
-  citation-key: mahmudDebtDiscipline2012
+  citation-key: Mahmud2012
   container-title: American Quarterly
   ISSN: 0003-0678
   issue: '3'
@@ -20732,11 +20931,11 @@ references:
   title: Bargaining for Contingent Faculty
   type: article-journal
 
-- id: malinowskiZoteroBibTexQuick
+- id: Malinowski_nd
   author:
     - family: Malinowski
       given: Christine
-  citation-key: malinowskiZoteroBibTexQuick
+  citation-key: Malinowski_nd
   title: Zotero and BibTex Quick Guide
   type: document
   URL: https://libguides.mit.edu/ld.php?content_id=34248570
@@ -20767,18 +20966,7 @@ references:
   type: legal_case
   volume: '349'
 
-- id: MannoElecInc1996
-  authority: N.L.R.B.
-  citation-key: MannoElecInc1996
-  container-title: N.L.R.B.
-  issued:
-    - year: 1996
-  page: '297'
-  title: Manno Elec., Inc.
-  type: legal_case
-  volume: '321'
-
-- id: mannSourcesSocialPower1986
+- id: Mann1986
   abstract: >-
     This second volume of Michael Mann's analytical history of social power
     deals with power relations between the Industrial Revolution and the First
@@ -20794,7 +20982,7 @@ references:
   author:
     - family: Mann
       given: Michael
-  citation-key: mannSourcesSocialPower1986
+  citation-key: Mann1986
   ISBN: 978-0-521-44585-6
   issued:
     - year: 1986
@@ -20809,14 +20997,14 @@ references:
   title-short: The Sources of Social Power
   type: book
 
-- id: mannStatesWarCapitalism1988
+- id: Mann1988
   abstract: >-
     Examines the interrelationship between states, war and the economy and shows
     how an overall theory of these must involve consideration of them all.
   author:
     - family: Mann
       given: Michael
-  citation-key: mannStatesWarCapitalism1988
+  citation-key: Mann1988
   ISBN: 978-0-631-15973-5
   issued:
     - year: 1988
@@ -20828,6 +21016,17 @@ references:
   title: 'States, War, and Capitalism: Studies in Political Sociology'
   title-short: States, War, and Capitalism
   type: book
+
+- id: MannoElecInc1996
+  authority: N.L.R.B.
+  citation-key: MannoElecInc1996
+  container-title: N.L.R.B.
+  issued:
+    - year: 1996
+  page: '297'
+  title: Manno Elec., Inc.
+  type: legal_case
+  volume: '321'
 
 - id: Marceau2015
   author:
@@ -20911,12 +21110,12 @@ references:
   type: legal_case
   volume: '885'
 
-- id: markovitsMeritocracyTrapHow2019
+- id: Markovits2019
   abstract: "A revolutionary new argument from eminent Yale Law professor Daniel Markovits attacking the false promise of meritocracy\_It is an axiom of American life that advantage should be earned through ability and effort. Even as the country divides itself at every turn, the meritocratic ideal – that social and economic rewards should follow achievement rather than breeding – reigns supreme.\_ Both Democrats and Republicans insistently repeat meritocratic notions. Meritocracy cuts to the heart of who we are. It sustains the American dream. \_ But what if, both up and down the social ladder, meritocracy is a sham? Today, meritocracy has become exactly what it was conceived to resist: a mechanism for the concentration and dynastic transmission of wealth and privilege across generations. Upward mobility has become a fantasy, and the embattled middle classes are now more likely to sink into the working poor than to rise into the professional elite. At the same time, meritocracy now ensnares even those who manage to claw their way to the top, requiring rich adults to work with crushing intensity, exploiting their expensive educations in order to extract a return. All this is not the result of deviations or retreats from meritocracy but rather stems directly from meritocracy’s successes. \_ This is the radical argument that\_Daniel Markovits prosecutes with rare force. Markovits is well placed to expose the sham of meritocracy. Having spent his life at elite universities, he knows from the inside the corrosive system we are trapped within. Markovits also knows that, if we understand that meritocratic inequality produces near-universal harm, we can cure it. When The Meritocracy Trap reveals the inner workings of the meritocratic machine, it also illuminates the first steps outward, towards a new world that might once again afford dignity and prosperity to the American people."
   author:
     - family: Markovits
       given: Daniel
-  citation-key: markovitsMeritocracyTrapHow2019
+  citation-key: Markovits2019
   event-place: New York
   ISBN: 978-0-7352-2199-4
   issued:
@@ -21130,14 +21329,14 @@ references:
   URL: https://doi.org/10.1080/00236568508584794
   volume: '26'
 
-- id: marxCapitalCritiquePolitical1992
+- id: Marx1992
   abstract: "The first volume of a political treatise that changed the worldOne of the most notorious works of modern times, as well as one of the most influential,\_Capital\_is an incisive critique of private property and the social relations it generates. Living in exile in England, where this work was largely written, Marx drew on a wide-ranging knowledge of its society to support his analysis and create fresh insights. Arguing that capitalism would cause an ever-increasing division in wealth and welfare, he predicted its abolition and replacement by a system with common ownership of the means of production.\_Capital\_rapidly acquired readership among the leaders of social democratic parties, particularly in Russia in Germany, and ultimately throughout the world, to become a work described by Marx friend and collaborator Friedrich Engels as “the Bible of the working class.”For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
   author:
     - family: Marx
       given: Karl
     - family: Mandel
       given: Ernest
-  citation-key: marxCapitalCritiquePolitical1992
+  citation-key: Marx1992
   edition: Reprint edition
   event-place: London ; New York, N.Y
   ISBN: 978-0-14-044568-8
@@ -21159,7 +21358,48 @@ references:
   type: book
   volume: '1'
 
-- id: marxCapitalCritiquePolitical1993
+- id: Marx1993
+  abstract: >-
+    The second volume of a political treatise that changed the worldA vital
+    cornerstone to Marx’s overall theory of economics, the second volume of
+    Capital considers in depth the nature of commodity and the market-place
+    bourgeois society. This immensely powerful work argues that prosperity in a
+    capitalist society inevitably holds within itself the seeds of its own
+    destruction.For more than seventy years, Penguin has been the leading
+    publisher of classic literature in the English-speaking world. With more
+    than 1,700 titles, Penguin Classics represents a global bookshelf of the
+    best works throughout history and across genres and disciplines. Readers
+    trust the series to provide authoritative texts enhanced by introductions
+    and notes by distinguished scholars and contemporary authors, as well as
+    up-to-date translations by award-winning translators.
+  author:
+    - family: Marx
+      given: Karl
+    - family: Mandel
+      given: Ernest
+  citation-key: Marx1993
+  edition: Reprint edition
+  event-place: London
+  ISBN: 978-0-14-044569-5
+  issued:
+    - year: 1993
+      month: 3
+      day: 1
+  language: English
+  note: 'Select: zotero://select/library/items/5N8V2CPD'
+  number-of-pages: '624'
+  publisher: Penguin Classics
+  publisher-place: London
+  source: Amazon
+  title: 'Capital: A Critique of Political Economy, vol. 2'
+  title-short: Capital
+  translator:
+    - family: Fernbach
+      given: David
+  type: book
+  volume: '2'
+
+- id: Marx1993a
   abstract: >-
     The third volume of a political treatise that changed the worldUnfinished at
     the time of Marx’s death in 1883 and first published with a preface by
@@ -21184,7 +21424,7 @@ references:
       given: Karl
     - family: Mandel
       given: Ernest
-  citation-key: marxCapitalCritiquePolitical1993
+  citation-key: Marx1993a
   edition: Reissue edition
   event-place: New York, N.Y., U.S.A
   ISBN: 978-0-14-044570-1
@@ -21206,48 +21446,7 @@ references:
   type: book
   volume: '3'
 
-- id: marxCapitalCritiquePolitical1993a
-  abstract: >-
-    The second volume of a political treatise that changed the worldA vital
-    cornerstone to Marx’s overall theory of economics, the second volume of
-    Capital considers in depth the nature of commodity and the market-place
-    bourgeois society. This immensely powerful work argues that prosperity in a
-    capitalist society inevitably holds within itself the seeds of its own
-    destruction.For more than seventy years, Penguin has been the leading
-    publisher of classic literature in the English-speaking world. With more
-    than 1,700 titles, Penguin Classics represents a global bookshelf of the
-    best works throughout history and across genres and disciplines. Readers
-    trust the series to provide authoritative texts enhanced by introductions
-    and notes by distinguished scholars and contemporary authors, as well as
-    up-to-date translations by award-winning translators.
-  author:
-    - family: Marx
-      given: Karl
-    - family: Mandel
-      given: Ernest
-  citation-key: marxCapitalCritiquePolitical1993a
-  edition: Reprint edition
-  event-place: London
-  ISBN: 978-0-14-044569-5
-  issued:
-    - year: 1993
-      month: 3
-      day: 1
-  language: English
-  note: 'Select: zotero://select/library/items/5N8V2CPD'
-  number-of-pages: '624'
-  publisher: Penguin Classics
-  publisher-place: London
-  source: Amazon
-  title: 'Capital: A Critique of Political Economy, vol. 2'
-  title-short: Capital
-  translator:
-    - family: Fernbach
-      given: David
-  type: book
-  volume: '2'
-
-- id: marxGrundrisseFoundationsCritique1993
+- id: Marx1993b
   abstract: >-
     Written during the winter of 1857-8, the Grundrisse was considered by Marx
     to be the first scientific elaboration of communist theory. A collection of
@@ -21270,7 +21469,7 @@ references:
   author:
     - family: Marx
       given: Karl
-  citation-key: marxGrundrisseFoundationsCritique1993
+  citation-key: Marx1993b
   edition: Reprint edition
   ISBN: 978-0-14-044575-6
   issued:
@@ -21413,12 +21612,12 @@ references:
   type: webpage
   URL: https://culanth.org/fieldsights/series/finance
 
-- id: maussGeneralTheoryMagic1972
+- id: Mauss1972
   author:
     - family: Mauss
       given: Marcel
   call-number: '0000'
-  citation-key: maussGeneralTheoryMagic1972
+  citation-key: Mauss1972
   event-place: New York
   issued:
     - year: 1972
@@ -21514,7 +21713,7 @@ references:
   URL: https://browzine.com/articles/164896683
   volume: '17'
 
-- id: mcadamDynamicsContention2001
+- id: McAdam2001
   abstract: >-
     Dissatisfied with the compartmentalization of studies concerning strikes,
     wars, revolutions, social movements, and other forms of political struggle,
@@ -21548,7 +21747,7 @@ references:
       given: Charles
     - family: PhD
       given: Joseph L. Buttenwieser Professor of Social Science Charles Tilly
-  citation-key: mcadamDynamicsContention2001
+  citation-key: McAdam2001
   ISBN: 978-0-521-01187-7
   issued:
     - year: 2001
@@ -21708,7 +21907,7 @@ references:
   type: legal_case
   volume: '278'
 
-- id: mccallDefenseJustCause2003
+- id: McCall2003
   abstract: >-
     The United States is distinctive among advanced economies in that its
     employment laws and practices are governed by Employment at Will (EAW). Most
@@ -21720,7 +21919,7 @@ references:
   author:
     - family: McCall
       given: John J.
-  citation-key: mccallDefenseJustCause2003
+  citation-key: McCall2003
   container-title: Business Ethics Quarterly
   ISSN: 1052-150X
   issue: '2'
@@ -21853,7 +22052,7 @@ references:
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=351500
 
-- id: mccarthySocialMovementOrganization2013
+- id: McCarthy2013
   abstract: >-
     Traditional approaches to understanding the emergence and mobilization of
     social movements focused primarily upon fluctuations in the hearts and minds
@@ -21884,7 +22083,7 @@ references:
   author:
     - family: McCarthy
       given: John D.
-  citation-key: mccarthySocialMovementOrganization2013
+  citation-key: McCarthy2013
   container-title: The Wiley-Blackwell Encyclopedia of Social and Political Movements
   DOI: 10.1002/9780470674871.wbespm195
   ISBN: 978-0-470-67487-1
@@ -22229,7 +22428,7 @@ references:
   type: legal_case
   volume: '758'
 
-- id: melucciProcessCollectiveIdentity1995
+- id: Melucci1995
   abstract: >-
     Interest in cultural analysis has grown in the past two decades together
     with an extraordinary cultural transformation of planetary society. We are
@@ -22249,7 +22448,7 @@ references:
   author:
     - family: Melucci
       given: Alberto
-  citation-key: melucciProcessCollectiveIdentity1995
+  citation-key: Melucci1995
   container-title: Social Movements and Culture
   edition: NED - New edition
   editor:
@@ -22287,6 +22486,67 @@ references:
   type: article-journal
   volume: '46'
 
+- id: Merken2022
+  abstract: >-
+    New York's attorney general has asked an appeals court to overturn a ruling
+    that blocked the state from enforcing rules against the unauthorized
+    practice of law against a nonprofit that wants to provide limited legal
+    advice to poor New Yorkers.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - family: Merken
+      given: Sara
+    - family: Merken
+      given: Sara
+  citation-key: Merken2022
+  container-title: Reuters
+  issued:
+    - year: 2022
+      month: 10
+      day: 6
+  language: en
+  section: Legal Industry
+  source: www.reuters.com
+  title: >-
+    New York asks court to allow state to police nonprofit's legal advice
+    program
+  type: article-newspaper
+  URL: >-
+    https://www.reuters.com/legal/legalindustry/new-york-asks-court-allow-state-police-nonprofits-legal-advice-program-2022-10-06/
+
+- id: Merken2022a
+  abstract: >-
+    Nonprofit Upsolve Inc has opened up its legal advice program to non-lawyer
+    volunteers after a Manhattan federal judge ruled in favor of its First
+    Amendment argument in a lawsuit against the state attorney general.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - family: Merken
+      given: Sara
+    - family: Merken
+      given: Sara
+  citation-key: Merken2022a
+  container-title: Reuters
+  issued:
+    - year: 2022
+      month: 5
+      day: 25
+  language: en
+  section: Government
+  source: www.reuters.com
+  title: >-
+    N.Y. nonprofit may help debtors without breaking legal practice rules, judge
+    says
+  type: article-newspaper
+  URL: >-
+    https://www.reuters.com/legal/government/ny-nonprofit-may-help-debtors-without-breaking-legal-practice-rules-judge-says-2022-05-25/
+
 - id: merleZombieDebtHow
   abstract: >-
     Consumer advocates say there's an accelerating effort within the $11 billion
@@ -22310,7 +22570,7 @@ references:
   URL: >-
     https://www.washingtonpost.com/business/2019/08/07/zombie-debt-how-collectors-trick-consumers-into-reviving-dead-debts/
 
-- id: merryGettingJusticeGetting1990
+- id: Merry1990
   abstract: >-
     Ordinary Americans often bring family and neighborhood problems to court,
     seeking justice or revenge. The litigants in these local squabbles encounter
@@ -22338,7 +22598,7 @@ references:
   author:
     - family: Merry
       given: Sally Engle
-  citation-key: merryGettingJusticeGetting1990
+  citation-key: Merry1990
   event-place: Chicago
   issued:
     - year: 1990
@@ -22471,6 +22731,41 @@ references:
   URL: https://doi.org/10.1177/0160449X0402800403
   volume: '28'
 
+- id: Meyer1996
+  abstract: >-
+    Movement-countermovement interaction is an ongoing feature of contemporary
+    social movements and, indeed, of contemporary politics. Yet the interplay of
+    contending movements is understudied and undertheorized. This article begins
+    to remedy this deficit by arguing that new work on political opportunity
+    structure provides important insights and significant theoretical leverage
+    for this study. Through a review of the literatures on countermovements and
+    political opportunity, this article argues that this interaction increases
+    when states enable but do not satisfy challengers. This article presents a
+    general framework of theoretical propositions for understanding the
+    interplay of movements and their opponents to animate and guide subsequent
+    research.
+  author:
+    - family: Meyer
+      given: David S.
+    - family: Staggenborg
+      given: Suzanne
+  citation-key: Meyer1996
+  container-title: American Journal of Sociology
+  ISSN: 0002-9602
+  issue: '6'
+  issued:
+    - year: 1996
+  note: >-
+    s":{"publisher":"University of Chicago Press"}}Citation Key:
+    meyerMovementsCountermovementsStructure1996
+  page: 1628-1660
+  publisher: University of Chicago Press
+  source: JSTOR
+  title: Movements, Countermovements, and the Structure of Political Opportunity
+  type: article-journal
+  URL: http://www.jstor.org/stable/2782114
+  volume: '101'
+
 - id: Meyer2007
   abstract: >-
     The watershed Supreme Court decision in "Brown v. Board of Education"
@@ -22512,41 +22807,6 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/20446351
   volume: '5'
-
-- id: meyerMovementsCountermovementsStructure1996
-  abstract: >-
-    Movement-countermovement interaction is an ongoing feature of contemporary
-    social movements and, indeed, of contemporary politics. Yet the interplay of
-    contending movements is understudied and undertheorized. This article begins
-    to remedy this deficit by arguing that new work on political opportunity
-    structure provides important insights and significant theoretical leverage
-    for this study. Through a review of the literatures on countermovements and
-    political opportunity, this article argues that this interaction increases
-    when states enable but do not satisfy challengers. This article presents a
-    general framework of theoretical propositions for understanding the
-    interplay of movements and their opponents to animate and guide subsequent
-    research.
-  author:
-    - family: Meyer
-      given: David S.
-    - family: Staggenborg
-      given: Suzanne
-  citation-key: meyerMovementsCountermovementsStructure1996
-  container-title: American Journal of Sociology
-  ISSN: 0002-9602
-  issue: '6'
-  issued:
-    - year: 1996
-  note: >-
-    s":{"publisher":"University of Chicago Press"}}Citation Key:
-    meyerMovementsCountermovementsStructure1996
-  page: 1628-1660
-  publisher: University of Chicago Press
-  source: JSTOR
-  title: Movements, Countermovements, and the Structure of Political Opportunity
-  type: article-journal
-  URL: http://www.jstor.org/stable/2782114
-  volume: '101'
 
 - id: MeyersI1984
   authority: N.L.R.B.
@@ -22674,6 +22934,30 @@ references:
   type: legal_case
   volume: '861'
 
+- id: Mikus2015
+  author:
+    - family: Mikuš
+      given: Marek
+  citation-key: Mikus2015
+  container-title: Sociologija
+  ISSN: 0038-0318
+  issue: '4'
+  issued:
+    - year: 2015
+  language: English
+  note: >-
+    publisher":"Sociološko naučno društvo Srbije"}}Citation Key:
+    mikusInformalNetworksInterstitial2015
+  page: 571-592
+  publisher: Sociološko naučno društvo Srbije
+  source: www.ceeol.com
+  title: >-
+    Informal Networks and Interstitial Arenas of Power in the Making of Civil
+    Society Law in Serbia
+  type: article-journal
+  URL: https://www.ceeol.com/search/article-detail?id=341297
+  volume: '57'
+
 - id: mikusAnthropologyFinancializationEastern2021
   abstract: >-
     "The Anthropology of Financialization in Eastern Europe" published on  by
@@ -22763,30 +23047,6 @@ references:
   title-short: Households and Financialization in Europe
   type: book
 
-- id: mikusInformalNetworksInterstitial2015
-  author:
-    - family: Mikuš
-      given: Marek
-  citation-key: mikusInformalNetworksInterstitial2015
-  container-title: Sociologija
-  ISSN: 0038-0318
-  issue: '4'
-  issued:
-    - year: 2015
-  language: English
-  note: >-
-    publisher":"Sociološko naučno društvo Srbije"}}Citation Key:
-    mikusInformalNetworksInterstitial2015
-  page: 571-592
-  publisher: Sociološko naučno društvo Srbije
-  source: www.ceeol.com
-  title: >-
-    Informal Networks and Interstitial Arenas of Power in the Making of Civil
-    Society Law in Serbia
-  type: article-journal
-  URL: https://www.ceeol.com/search/article-detail?id=341297
-  volume: '57'
-
 - id: mikusMakingDebtWork2020
   abstract: >-
     Debt collection is a crucial stage in the life-cycle of debt, but so far it
@@ -22813,7 +23073,32 @@ references:
   title-short: Making Debt Work
   type: chapter
 
-- id: milanovicCapitalismAloneFuture2019
+- id: Milanovic2012
+  abstract: "Who is the richest person in the world, ever? Does where you were born affect how much money you’ll earn over a lifetime? How would we know? Why—beyond the idle curiosity—do these questions even matter? In The Haves and the Have-Nots, Branko Milanovic, one of the world’s leading experts on wealth, poverty, and the gap that separates them, explains these and other mysteries of how wealth is unevenly spread throughout our world, now and through time.\_Milanovic uses history, literature and stories straight out of today’s newspapers, to discuss one of the major divisions in our social lives: between the haves and the have-nots. He reveals just how rich Elizabeth Bennet’s suitor Mr. Darcy really was; how much Anna Karenina gained by falling in love; how wealthy ancient Romans compare to today’s super-rich; where in Kenyan income distribution was Obama’s grandfather; how we should think about Marxism in a modern world; and how location where one is born determines his wealth. He goes beyond mere entertainment to explain why inequality matters, how it damages our economics prospects, and how it can threaten the foundations of the social order that we take for granted.\_ Bold, engaging, and illuminating, The Haves and the Have-Nots teaches us not only how to think about inequality, but why we should."
+  author:
+    - family: Milanovic
+      given: Branko
+  citation-key: Milanovic2012
+  edition: Reprint edition
+  event-place: New York
+  ISBN: 978-0-465-03141-2
+  issued:
+    - year: 2012
+      month: 8
+      day: 7
+  language: English
+  note: 'Select: zotero://select/library/items/5ZREFAKQ'
+  number-of-pages: '280'
+  publisher: Basic Books
+  publisher-place: New York
+  source: Amazon
+  title: >-
+    The Haves and the Have-Nots: A Brief and Idiosyncratic History of Global
+    Inequality
+  title-short: The Haves and the Have-Nots
+  type: book
+
+- id: Milanovic2019
   abstract: >-
     A provocative account of capitalism’s rise to global dominance and, as
     different models of capitalism vie for world leadership, a look into what
@@ -22842,7 +23127,7 @@ references:
   author:
     - family: Milanovic
       given: Branko
-  citation-key: milanovicCapitalismAloneFuture2019
+  citation-key: Milanovic2019
   event-place: Cambridge, Massachusetts
   ISBN: 978-0-674-98759-3
   issued:
@@ -22859,32 +23144,7 @@ references:
   title-short: Capitalism, Alone
   type: book
 
-- id: milanovicHavesHaveNotsBrief2012
-  abstract: "Who is the richest person in the world, ever? Does where you were born affect how much money you’ll earn over a lifetime? How would we know? Why—beyond the idle curiosity—do these questions even matter? In The Haves and the Have-Nots, Branko Milanovic, one of the world’s leading experts on wealth, poverty, and the gap that separates them, explains these and other mysteries of how wealth is unevenly spread throughout our world, now and through time.\_Milanovic uses history, literature and stories straight out of today’s newspapers, to discuss one of the major divisions in our social lives: between the haves and the have-nots. He reveals just how rich Elizabeth Bennet’s suitor Mr. Darcy really was; how much Anna Karenina gained by falling in love; how wealthy ancient Romans compare to today’s super-rich; where in Kenyan income distribution was Obama’s grandfather; how we should think about Marxism in a modern world; and how location where one is born determines his wealth. He goes beyond mere entertainment to explain why inequality matters, how it damages our economics prospects, and how it can threaten the foundations of the social order that we take for granted.\_ Bold, engaging, and illuminating, The Haves and the Have-Nots teaches us not only how to think about inequality, but why we should."
-  author:
-    - family: Milanovic
-      given: Branko
-  citation-key: milanovicHavesHaveNotsBrief2012
-  edition: Reprint edition
-  event-place: New York
-  ISBN: 978-0-465-03141-2
-  issued:
-    - year: 2012
-      month: 8
-      day: 7
-  language: English
-  note: 'Select: zotero://select/library/items/5ZREFAKQ'
-  number-of-pages: '280'
-  publisher: Basic Books
-  publisher-place: New York
-  source: Amazon
-  title: >-
-    The Haves and the Have-Nots: A Brief and Idiosyncratic History of Global
-    Inequality
-  title-short: The Haves and the Have-Nots
-  type: book
-
-- id: milibandStateCapitalistSociety2009
+- id: Miliband2009
   abstract: >-
     Presenting a sustained and concrete challenge to the current political
     consensus, this reference identifies the radical alternative of adopting
@@ -22905,7 +23165,7 @@ references:
   author:
     - family: Miliband
       given: Ralph
-  citation-key: milibandStateCapitalistSociety2009
+  citation-key: Miliband2009
   ISBN: 978-0-85036-688-4
   issued:
     - year: 2009
@@ -23034,7 +23294,7 @@ references:
   type: legal_case
   volume: '372'
 
-- id: millsPowerElite2000
+- id: Mills2000
   abstract: >-
     First published in 1956, The Power Elite stands as a contemporary classic of
     social science and social criticism. C. Wright Mills examines and critiques
@@ -23059,7 +23319,7 @@ references:
       given: C. Wright
     - family: Wolfe
       given: Alan
-  citation-key: millsPowerElite2000
+  citation-key: Mills2000
   ISBN: 978-0-19-513354-7
   issued:
     - year: 2000
@@ -23071,7 +23331,7 @@ references:
   title: The Power Elite
   type: book
 
-- id: minchinDonSleepStevens2005
+- id: Minchin2005
   accessed:
     - year: 2023
       month: 1
@@ -23079,7 +23339,7 @@ references:
   author:
     - family: Minchin
       given: Timothy J.
-  citation-key: minchinDonSleepStevens2005
+  citation-key: Minchin2005
   container-title: Journal of American Studies
   ISSN: 0021-8758
   issue: '3'
@@ -23160,6 +23420,20 @@ references:
   section: 578.013.1
   title: Missouri farm animal recordings
   type: legislation
+
+- id: Mitchell-Mercer2023
+  author:
+    - family: Mitchell-Mercer
+      given: Alicia
+  citation-key: Mitchell-Mercer2023
+  issued:
+    - year: 2023
+      month: 2
+  publisher: North Carolina Justice for All Project
+  title: Looking Beyond Lawyers to Bridge the Civil Access to Justice Gap
+  type: document
+  URL: >-
+    https://www.ncjfap.org/_files/ugd/8a3baf_416293fe5c5b42a9b92473cc44c78691.pdf
 
 - id: MitchellSherman1994
   authority: Wis.
@@ -23338,26 +23612,7 @@ references:
   title: The Fall of the House of Labor
   type: book
 
-- id: mooreDeterminationBargainingUnits1975
-  author:
-    - family: Moore
-      given: Elizabeth
-  citation-key: mooreDeterminationBargainingUnits1975
-  container-title: University of Pittsburgh Law Review
-  container-title-short: U. Pitt. L. Rev.
-  issued:
-    - year: 1975
-    - year: 1976
-  language: eng
-  note: 'Select: zotero://select/library/items/TJSIWP5G'
-  page: 43-62
-  source: HeinOnline
-  title: The Determination of Bargaining Units for College Faculties
-  type: article-journal
-  URL: https://heinonline.org/HOL/P?h=hein.journals/upitt37&i=55
-  volume: '37'
-
-- id: mooreSocialOriginsDictatorship1993
+- id: Moore1993
   abstract: >-
     Social Origins of Dictatorship and Democracy is a comparative survey of some
     of what Moore considers the major/most indicative world economies as they
@@ -23376,7 +23631,7 @@ references:
       given: Barrington
     - family: Moore
       given: Lecturer on Sociology Barrington
-  citation-key: mooreSocialOriginsDictatorship1993
+  citation-key: Moore1993
   ISBN: 978-0-8070-5073-6
   issued:
     - year: 1993
@@ -23390,6 +23645,25 @@ references:
     of the Modern World
   title-short: Social Origins of Dictatorship and Democracy
   type: book
+
+- id: mooreDeterminationBargainingUnits1975
+  author:
+    - family: Moore
+      given: Elizabeth
+  citation-key: mooreDeterminationBargainingUnits1975
+  container-title: University of Pittsburgh Law Review
+  container-title-short: U. Pitt. L. Rev.
+  issued:
+    - year: 1975
+    - year: 1976
+  language: eng
+  note: 'Select: zotero://select/library/items/TJSIWP5G'
+  page: 43-62
+  source: HeinOnline
+  title: The Determination of Bargaining Units for College Faculties
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/upitt37&i=55
+  volume: '37'
 
 - id: moranWhatCountsKnowledge2014
   abstract: >-
@@ -23690,7 +23964,7 @@ references:
     https://1.next.westlaw.com/Document/I3655e12fd15311eaaf3cedf8c55e6c34/View/FullText.html?navigationPath=RelatedInfo%2Fv4%2Fkeycite%2Fnav%2F%3Fguid%3DI3655e12fd15311eaaf3cedf8c55e6c34%26ss%3D2006786799%26ds%3D2051539983%26origDocGuid%3DI93962451fac611daa223cd6b838f54f9&listSource=RelatedInfo&list=NegativeCitingReferences&rank=0&ppcid=d7d5389a4fcb45eab9b38d3c398b7a9c&originationContext=docHeader&transitionType=NegativeTreatment&contextData=%28sc.DocLink%29
   volume: '369'
 
-- id: muncyStrangeCareerWorking2018
+- id: Muncy2018
   accessed:
     - year: 2019
       month: 12
@@ -23698,7 +23972,7 @@ references:
   author:
     - family: Muncy
       given: Robyn
-  citation-key: muncyStrangeCareerWorking2018
+  citation-key: Muncy2018
   container-title: Labor
   container-title-short: Labor
   DOI: 10.1215/15476715-7127250
@@ -23900,7 +24174,7 @@ references:
   URL: www.jstor.org/stable/24052581
   volume: '30'
 
-- id: naglerStrikeDebtRolling2018
+- id: Nagler2018
   abstract: >-
     With their Rolling Jubilee campaign of debt forgiveness, the group Strike
     Debt restored the behavior of finance capitalists to reveal vulnerabilities
@@ -23912,7 +24186,7 @@ references:
   author:
     - family: Nagler
       given: Christian Riley
-  citation-key: naglerStrikeDebtRolling2018
+  citation-key: Nagler2018
   container-title: TDR/The Drama Review
   DOI: 10.1162/DRAM_a_00722
   ISSN: 1054-2043
@@ -24001,6 +24275,68 @@ references:
   title-short: Salting
   type: document
 
+- id: NCLimitedLaw_nd
+  abstract: >-
+    Please read carefully:
+
+
+    On Jan. 22, 2021, the North Carolina Justice for All Project (JFAP) team
+    submitted a proposal to the North Carolina State Bar and the North Carolina
+    Supreme Court seeking changes to N.C.G.S. § 84 (Unauthorized Practice of
+    Law) to allow certain non-lawyers to provide limited legal services to low-
+    and moderate-income North Carolinians. The proposal contemplates completing
+    specific requirements (e.g., examination, certification, education,
+    experience) before licensing.
+
+    Our proposal is an evolving concept. As an organization, we have learned a
+    great deal since the 2021 Civil Legal Needs Assessment was published, since
+    S.M. Kernodle-Hodges and Alicia Mitchell-Mercer had the benefit of sitting
+    on the State Bar Regulatory Subcommittee to explore access to justice
+    issues, and after hearing from other stakeholders in our legal and public
+    communities.
+
+    The January 2021 proposal was the first step.  We are working on an updated
+    draft of the proposal and, ultimately, a legislative brief. 
+
+    Completing this survey will help us develop an updated proposal and bill.
+    Please keep in mind as you answer this survey that to meet the needs of
+    those in the access to justice gap and attract those who might be interested
+    in holding a limited law license, we need to have high standards but not so
+    high that the barrier to entry becomes an impediment as seen in Washington
+    State. If you'd like to learn more about What Happened in Washington before
+    completing this survey, click on the hyperlink. 
+
+    January 2021 Proposal Documents:
+
+    Letter to Chief Justice Paul Newby and the North Carolina State Bar
+
+    Executive Summary of the Proposal
+
+    Proposal for a Limited Practice Rule to Narrow North Carolina’s Access to
+    Justice Gap
+
+    Appendix to Proposal
+
+    Confidentiality:
+
+
+    Your responses are voluntary and will be confidential. While responses may
+    be shared with state leadership, responses will never be identified by
+    individuals outside of our organization. All responses will be compiled
+    together, anonymized, and analyzed as a group. If you have any questions or
+    concerns, please contact justiceforallproject@gmail.com.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: NCLimitedLaw_nd
+  container-title: Google Docs
+  language: en
+  title: NC Limited Law License Requirements Survey
+  type: webpage
+  URL: >-
+    https://docs.google.com/forms/d/e/1FAIpQLSf6Neb2ND39vMjr8rSbErzmYbTbPbib2eaSDevKwaouQFZuOw/viewform?usp=embed_facebook
+
 - id: NCPropertyProtectionAct2016
   citation-key: NCPropertyProtectionAct2016
   container-title: N.C. Gen. Stat.
@@ -24079,7 +24415,7 @@ references:
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=662384
   volume: '54'
 
-- id: nelsonMakingLawyersCareers2023
+- id: Nelson2023
   abstract: >-
     An unprecedented account of social stratification within the US legal
     profession. How do race, class, gender, and law school status condition the
@@ -24111,7 +24447,7 @@ references:
       given: Meghan
     - family: Michelson
       given: Ethan
-  citation-key: nelsonMakingLawyersCareers2023
+  citation-key: Nelson2023
   event-place: Chicago
   issued:
     - year: 2023
@@ -24195,26 +24531,7 @@ references:
   type: legal_case
   volume: '788'
 
-- id: nielsenOrganizationPublicInterest2006
-  author:
-    - family: Nielsen
-      given: Laura
-    - family: Albiston
-      given: Catherine
-  citation-key: nielsenOrganizationPublicInterest2006
-  container-title: North Carolina Law Review
-  issue: '5'
-  issued:
-    - year: 2006
-  note: 'Select: zotero://select/library/items/VLZ7WTYK'
-  page: '1591'
-  title: 'The Organization of Public Interest Practice: 1975-2004'
-  title-short: The Organization of Public Interest Practice
-  type: article-journal
-  URL: https://scholarship.law.unc.edu/nclr/vol84/iss5/9
-  volume: '84'
-
-- id: nielsenSituatingLegalConsciousness2000
+- id: Nielsen2000
   abstract: >-
     The legal consciousness of ordinary citizens concerning offensive public
     speech is a phenomenon whose legal status has been vigorously debated, but
@@ -24243,7 +24560,7 @@ references:
   author:
     - family: Nielsen
       given: Laura Beth
-  citation-key: nielsenSituatingLegalConsciousness2000
+  citation-key: Nielsen2000
   container-title: Law & Society Review
   DOI: 10.2307/3115131
   ISSN: 0023-9216
@@ -24260,6 +24577,25 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/3115131
   volume: '34'
+
+- id: nielsenOrganizationPublicInterest2006
+  author:
+    - family: Nielsen
+      given: Laura
+    - family: Albiston
+      given: Catherine
+  citation-key: nielsenOrganizationPublicInterest2006
+  container-title: North Carolina Law Review
+  issue: '5'
+  issued:
+    - year: 2006
+  note: 'Select: zotero://select/library/items/VLZ7WTYK'
+  page: '1591'
+  title: 'The Organization of Public Interest Practice: 1975-2004'
+  title-short: The Organization of Public Interest Practice
+  type: article-journal
+  URL: https://scholarship.law.unc.edu/nclr/vol84/iss5/9
+  volume: '84'
 
 - id: nielsonSituatingLegalConsciousness2014
   abstract: >-
@@ -24352,6 +24688,28 @@ references:
   type: legal_case
   volume: '804'
 
+- id: NonprofitParalegalsSue2024
+  abstract: >-
+    A North Carolina nonprofit is challenging a state law banning anyone but a
+    fully licensed attorney from offering legal advice, saying in a federal
+    lawsuit Thursday that the regulations amount to an unconstitutional
+    restraint on free speech in violation of the First Amendment.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: NonprofitParalegalsSue2024
+  container-title: Law360
+  issued:
+    - year: 2024
+      month: 1
+      day: 4
+  language: en
+  title: Nonprofit, Paralegals Sue To Take Down NC Legal Advice Law - Law360
+  type: webpage
+  URL: >-
+    https://www.law360.com/articles/1782238/nonprofit-paralegals-sue-to-take-down-nc-legal-advice-law
+
 - id: NorrisLaGuardiaAct1932
   citation-key: NorrisLaGuardiaAct1932
   container-title: U.S. Code
@@ -24434,6 +24792,38 @@ references:
   type: legal_case
   volume: '882'
 
+- id: NorthCarolinaJusticeforAllProject2023
+  author:
+    - family: North Carolina Justice for All Project
+      given: ''
+  citation-key: NorthCarolinaJusticeforAllProject2023
+  issued:
+    - year: 2023
+  title: Policy Brief
+  type: document
+  URL: >-
+    https://www.ncjfap.org/_files/ugd/8a3baf_182d357bd73344049cfb1adcf7b21802.pdf
+
+- id: NorthCarolinaLegal2024
+  abstract: >-
+    The First Amendment’s protection for free speech isn’t limited to political
+    advocacy or expressions of personal opinion—it extends to speech on all
+    topics. That includes […]
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: NorthCarolinaLegal2024
+  container-title: Institute for Justice
+  issued:
+    - year: 2024
+      month: 1
+      day: 4
+  language: en-us
+  title: North Carolina Legal Advice
+  type: webpage
+  URL: https://ij.org/case/north-carolina-upl/
+
 - id: NorthCarolinaStateBar2022
   author:
     - family: North Carolina State Bar
@@ -24444,6 +24834,26 @@ references:
   publisher: North Carolina State Bar
   title: The 2022 Lawyer's Handbook
   type: document
+
+- id: NorthCarolinaSuit_nd
+  abstract: >-
+    A nonprofit group in North Carolina is challenging the state’s restrictions
+    on non-lawyers providing legal advice.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: NorthCarolinaSuit_nd
+  container-title: Bloomberg Law
+  issued:
+    - year: 2024
+      month: 1
+      day: 5
+  language: en
+  title: North Carolina Suit Aims to Broaden Who Can Provide Legal Advice
+  type: webpage
+  URL: >-
+    https://news.bloomberglaw.com/business-and-practice/north-carolina-suit-aims-to-broaden-who-can-provide-legal-advice
 
 - id: NorthCarolinaTrust1998
   authority: N.C.App.
@@ -24519,6 +24929,28 @@ references:
   source: Amazon
   title: The Jewish Labor Bund in Poland
   type: book
+
+- id: Numbers10States2023
+  abstract: >-
+    At least 10 states and DC moved to boost access to justice this year by
+    considering or implementing programs that allow non-lawyers to work as legal
+    advocates or own law firms.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: Numbers10States2023
+  container-title: Bloomberg Law
+  issued:
+    - year: 2023
+      month: 12
+      day: 28
+  language: en
+  title: 'By the Numbers: 10 States Allowed Non-Lawyers to Offer Services'
+  title-short: By the Numbers
+  type: webpage
+  URL: >-
+    https://news.bloomberglaw.com/business-and-practice/by-the-numbers-10-states-allowed-non-lawyers-to-offer-services
 
 - id: nysMontanaWrongfulDischarge1990
   author:
@@ -25053,6 +25485,16 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/24718429
   volume: '22'
+
+- id: OurLegalDeserts_nd
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: OurLegalDeserts_nd
+  title: Our Legal Deserts | North Carolina Advocates for Justice
+  type: webpage
+  URL: https://www.ncaj.com/news/our-legal-deserts
 
 - id: Oyer2011
   abstract: >-
@@ -26762,6 +27204,17 @@ references:
   title-short: Antonin Scalia and American Constitutionalism
   type: book
 
+- id: PursuitJusticeAssessment2021
+  citation-key: PursuitJusticeAssessment2021
+  issued:
+    - year: 2021
+      month: 6
+  publisher: NC Equal Access to Justice Commission & NC Equal Justice Alliance
+  title: >-
+    In Pursuit of Justice: An Assessment of the Civil Legal Needs of North
+    Carolina
+  type: document
+
 - id: Putik1999
   abstract: >-
     The State and Church Jewish Policies • Extirpation Attempts • Security
@@ -26918,6 +27371,15 @@ references:
   title: Report on the Scottsboro, Ala. Case
   type: document
 
+- id: RecommendationsStrentheningUnified2017
+  citation-key: RecommendationsStrentheningUnified2017
+  issued:
+    - year: 2017
+      month: 3
+  publisher: North Carolina Commission on the Administration of Law & Justice
+  title: Recommendations for Strenthening the Unified Court System of North Carolina
+  type: document
+
 - id: redmilesShelterStormNeed1989
   author:
     - family: Redmiles
@@ -27023,14 +27485,14 @@ references:
   type: legal_case
   volume: '765'
 
-- id: reganBigLaw2021
+- id: Regan2021
   abstract: "The Great Recession intensified large law firms’ emphasis on financial performance, leading to claims that lawyers in these firms were now guided by business rather than professional values.\_ Based on interviews with more than 250 partners in large firms, Mitt Regan and Lisa H. Rohrer suggest that the reality is much more complex. It is true that large firm hiring, promotion, compensation, and termination policies are more influenced by business considerations than ever before and that firms actively recruit profitable partners from other firms to replace those they regard as unproductive. At the same time, law firm partners continue to seek the non-financial rewards of being members of a distinct profession and are sensitive to whether their firms are committed to providing them. Regan and Rohrer argue that modern firms responding effectively to business demands while credibly affirming the importance of non-financial professional values can create strong cultures that enhance their ability to weather the storms of the modern legal market."
   author:
     - family: Regan
       given: Mitt
     - family: Rohrer
       given: Lisa H.
-  citation-key: reganBigLaw2021
+  citation-key: Regan2021
   event-place: Chicago
   issued:
     - year: 2021
@@ -29118,7 +29580,43 @@ references:
   URL: https://doi.org/10.1177/0022185617705684
   volume: '59'
 
-- id: silbeyEveryDayWork2019
+- id: Silbey2005
+  abstract: >-
+    Legal consciousness as a theoretical concept and topic of empirical research
+    developed to address issues of legal hegemony, particularly how the law
+    sustains its institutional power despite a persistent gap between the law on
+    the books and the law in action. Why do people acquiesce to a legal system
+    that, despite its promises of equal treatment, systematically reproduces
+    inequality? Recent studies have both broadened and narrowed the concept's
+    reach, while sacrificing much of the concept's critical edge and theoretical
+    utility. Rather than explaining how the different experiences of law become
+    synthesized into a set of circulating schemas and habits, the literature
+    tracks what particular individuals think and do. Because the relationships
+    among consciousness and processes of ideology and hegemony often go
+    unexplained, legal consciousness as an analytic concept is domesticated
+    within what appear to be policy projects: making specific laws work better
+    for particular groups or interests.
+  accessed:
+    - year: 2023
+      month: 11
+      day: 12
+  author:
+    - family: Silbey
+      given: Susan S.
+  citation-key: Silbey2005
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev.lawsocsci.1.041604.115938
+  issue: '1'
+  issued:
+    - year: 2005
+  page: 323-368
+  source: Annual Reviews
+  title: After Legal Consciousness
+  type: article-journal
+  URL: https://doi.org/10.1146/annurev.lawsocsci.1.041604.115938
+  volume: '1'
+
+- id: Silbey2019
   abstract: >-
     Susan Silbey began her academic training in political science and in the
     course of her studies became a sociologist of law, the last two decades as a
@@ -29145,7 +29643,7 @@ references:
   author:
     - family: Silbey
       given: Susan S.
-  citation-key: silbeyEveryDayWork2019
+  citation-key: Silbey2019
   container-title: Annual Review of Law and Social Science
   DOI: 10.1146/annurev-lawsocsci-110316-113326
   issue: '1'
@@ -29157,42 +29655,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1146/annurev-lawsocsci-110316-113326
   volume: '15'
-
-- id: silbeyLegalConsciousness2005
-  abstract: >-
-    Legal consciousness as a theoretical concept and topic of empirical research
-    developed to address issues of legal hegemony, particularly how the law
-    sustains its institutional power despite a persistent gap between the law on
-    the books and the law in action. Why do people acquiesce to a legal system
-    that, despite its promises of equal treatment, systematically reproduces
-    inequality? Recent studies have both broadened and narrowed the concept's
-    reach, while sacrificing much of the concept's critical edge and theoretical
-    utility. Rather than explaining how the different experiences of law become
-    synthesized into a set of circulating schemas and habits, the literature
-    tracks what particular individuals think and do. Because the relationships
-    among consciousness and processes of ideology and hegemony often go
-    unexplained, legal consciousness as an analytic concept is domesticated
-    within what appear to be policy projects: making specific laws work better
-    for particular groups or interests.
-  accessed:
-    - year: 2023
-      month: 11
-      day: 12
-  author:
-    - family: Silbey
-      given: Susan S.
-  citation-key: silbeyLegalConsciousness2005
-  container-title: Annual Review of Law and Social Science
-  DOI: 10.1146/annurev.lawsocsci.1.041604.115938
-  issue: '1'
-  issued:
-    - year: 2005
-  page: 323-368
-  source: Annual Reviews
-  title: After Legal Consciousness
-  type: article-journal
-  URL: https://doi.org/10.1146/annurev.lawsocsci.1.041604.115938
-  volume: '1'
 
 - id: Silver-Greenberg2015
   abstract: >-
@@ -29301,7 +29763,7 @@ references:
   type: article-journal
   URL: https://scholarship.richmond.edu/law-faculty-publications/1117
 
-- id: skapskaInconsistentEverydayLegal2023
+- id: Skapska2023
   abstract: >-
     On the basis of a nationwide survey conducted in 2020, this article strives
     to answer questions concerning
@@ -29322,7 +29784,7 @@ references:
       given: Ewa
     - family: Wróbel
       given: Marcin
-  citation-key: skapskaInconsistentEverydayLegal2023
+  citation-key: Skapska2023
   container-title: Polish Sociological Review
   container-title-short: Polish Sociological Review
   DOI: 10.26412/psr223.01
@@ -29493,6 +29955,33 @@ references:
   title: 'A Troublemaker''s Handbook 2: How to Fight Back Where You Work and Win!'
   title-short: A Troublemaker's Handbook 2
   type: book
+
+- id: Sloan2022
+  abstract: >-
+    Attorneys have a lot to say about allowing competition from so-called
+    paraprofessionals in California.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - family: Sloan
+      given: Karen
+    - family: Sloan
+      given: Karen
+  citation-key: Sloan2022
+  container-title: Reuters
+  issued:
+    - year: 2022
+      month: 1
+      day: 19
+  language: en
+  section: Legal Industry
+  source: www.reuters.com
+  title: California plan to license nonlawyers draws heated response
+  type: article-newspaper
+  URL: >-
+    https://www.reuters.com/legal/legalindustry/california-plan-license-nonlawyers-draws-heated-response-2022-01-19/
 
 - id: sloanBasicLegalResearch2018
   abstract: >-
@@ -29964,7 +30453,7 @@ references:
   type: legal_case
   volume: '244'
 
-- id: southworthLawyersRight2008
+- id: Southworth2008
   abstract: "A timely and multifaceted portrait of the lawyers who serve the diverse constituencies of the conservative movement, Lawyers of the Right explains what unites and divides lawyers for the three major groups—social conservatives, libertarians, and business advocates—that have coalesced in recent decades behind the Republican Party.\_ \_\_\_\_\_\_\_\_\_\_\_ Drawing on in-depth interviews with more than seventy lawyers who represent conservative and libertarian nonprofit organizations, Ann Southworth explores their values and identities and traces the implications of their shared interest in promoting political strategies that give lawyers leading roles. She goes on to illuminate the function of mediator organizations—such as the Heritage Foundation and the Federalist Society for Law and Public Policy—that have succeeded in promoting cooperation among different factions of conservative lawyers. Such cooperation, she finds, has aided efforts to drive law and the legal profession politically rightward and to give lawyers greater prominence in the conservative movement. Southworth concludes, though, that tensions between the conservative law movement’s elite and populist elements may ultimately lead to its undoing."
   accessed:
     - year: 2023
@@ -29973,7 +30462,7 @@ references:
   author:
     - family: Southworth
       given: Ann
-  citation-key: southworthLawyersRight2008
+  citation-key: Southworth2008
   event-place: Chicago
   issued:
     - year: 2008
@@ -30058,6 +30547,33 @@ references:
   title: Sperry v. Florida ex rel. Florida Bar
   type: legal_case
   volume: '373'
+
+- id: Spiezio2020
+  abstract: >-
+    Washington's high court has voted to end the state's program that allows
+    non-lawyers trained in family law to practice law on a limited license,
+    which has been held up as an example by some advocates for relaxing rules on
+    who can practice law or share lawyer fees as a way to increase access to
+    civil legal aid for low-income Americans.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - family: Spiezio
+      given: Caroline
+  citation-key: Spiezio2020
+  container-title: Reuters
+  issued:
+    - year: 2020
+      month: 6
+      day: 8
+  language: en
+  section: Legal
+  source: www.reuters.com
+  title: Washington state to end program that gives non-lawyers limited license
+  type: article-newspaper
+  URL: https://www.reuters.com/article/idUSL1N2DL2L9/
 
 - id: Spitzer2000
   abstract: >-
@@ -31412,7 +31928,7 @@ references:
   title: The Capitalist State and the Politics of Class
   type: book
 
-- id: TacklingProblemCaptive
+- id: TacklingProblemCaptive_nd
   abstract: >-
     Political and religious coercion in the workplace is a growing problem
     affecting workers from all backgrounds and across the political spectrum.
@@ -31424,7 +31940,7 @@ references:
     - year: 2023
       month: 11
       day: 20
-  citation-key: TacklingProblemCaptive
+  citation-key: TacklingProblemCaptive_nd
   container-title: Economic Policy Institute
   language: en-US
   title: >-
@@ -32911,6 +33427,14 @@ references:
   type: legal_case
   volume: '485'
 
+- id: UpsolveIncJames_nd
+  authority: S.D.N.Y.
+  citation-key: UpsolveIncJames_nd
+  jurisdiction: 011us:c2:ny.sdUnited States|US|Second Circuit|S.D. New York
+  number: 22-cv-627 (PAC)
+  title: Upsolve, Inc. v. James
+  type: legal_case
+
 - id: UtahAgGag2012
   chapter-number: '2012'
   citation-key: UtahAgGag2012
@@ -34043,6 +34567,27 @@ references:
   type: article-journal
   volume: '35'
 
+- id: Wimer_nd
+  abstract: >-
+    Rising costs make legal advice unaffordable for many Americans. Paralegals
+    in North Carolina have launched a First Amendment lawsuit to reach people
+    who need assistance.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - family: Wimer
+      given: Andrew
+  citation-key: Wimer_nd
+  container-title: Forbes
+  language: en
+  section: Policy
+  title: Paralegals Look To The First Amendment To Open Access To Justice
+  type: webpage
+  URL: >-
+    https://www.forbes.com/sites/instituteforjustice/2024/01/18/paralegals-look-to-the-first-amendment-to-open-access-to-justice/
+
 - id: wingfieldGettingGettingHired2020
   author:
     - family: Wingfield
@@ -35024,8 +35569,8 @@ references:
     https://www.proquest.com/openview/b4867ba58ce7350ff375c898663f6bd3/1?pq-origsite=gscholar&cbl=25210
   volume: '70'
 
-- id: Zotero
-  citation-key: Zotero
+- id: Zotero_nd
+  citation-key: Zotero_nd
   title: Zotero
   type: webpage
   URL: https://www.zotero.org/
