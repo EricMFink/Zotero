@@ -52,6 +52,24 @@ references:
   URL: >-
     https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
 
+- id: 4thCircPauses_nd
+  abstract: >-
+    The Fourth Circuit agreed Wednesday to pause a lawsuit brought by South
+    Carolina's NAACP chapter challenging the legality of a state law that bars
+    non-attorneys from giving legal advice while the merits of the NAACP
+    eviction relief program at issue are under consideration at the state-court
+    level.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: 4thCircPauses_nd
+  language: en
+  title: 4th Circ. Pauses Fight Over SC Non-Atty Legal Advice Law - Law360
+  type: webpage
+  URL: >-
+    https://www.law360.com/articles/1777285/4th-circ-pauses-fight-over-sc-non-atty-legal-advice-law
+
 - id: Aaron&FinkinDisloyalty1998
   author:
     - family: Aaron
@@ -84,6 +102,26 @@ references:
   type: webpage
   URL: https://www.abalegalprofile.com/demographics.html
 
+- id: ABAProfileLegal_nda
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: ABAProfileLegal_nda
+  title: ABA Profile of the Legal Profession 2023 | Homepage
+  type: webpage
+  URL: https://www.abalegalprofile.com/
+
+- id: ABAProfileLegal_ndb
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: ABAProfileLegal_ndb
+  title: ABA Profile of the Legal Profession - Lawyer Demographics
+  type: webpage
+  URL: https://www.abalegalprofile.com/demographics.html
+
 - id: abbottSystemProfessionsEssay1988
   author:
     - family: Abbott
@@ -98,6 +136,32 @@ references:
   publisher-place: Chicago
   title: 'The System of Professions: An Essay on the Division of Expert Labor'
   type: book
+
+- id: Abel2012
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Abel
+      given: Richard L
+  citation-key: Abel2012
+  container-title: Legal Ethics
+  container-title-short: Legal Ethics
+  DOI: 10.5235/LE.15.2.187
+  ISSN: 1460-728X, 1757-8450
+  issue: '2'
+  issued:
+    - year: 2012
+      month: 12
+      day: 15
+  language: en
+  page: 187-195
+  source: DOI.org (Crossref)
+  title: Comparative Studies of Lawyer Deviance and Discipline
+  type: article-journal
+  URL: https://www.tandfonline.com/doi/full/10.5235/LE.15.2.187
+  volume: '15'
 
 - id: abelAmericanLawyers1991
   abstract: >-
@@ -505,6 +569,23 @@ references:
   title: 'Advocate and Activist: Memoirs of an American Communist Lawyer'
   type: book
 
+- id: AccessJusticeNorth_nd
+  abstract: >-
+    The Justice for All Project (JFAP) advocates for regulatory reform regarding
+    the practice of law. We support implementing a court navigator program, a
+    regulatory sandbox, and limited licensing. We have submitted a proposal to
+    license paraprofessionals to provide affordable options for NC residents.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: AccessJusticeNorth_nd
+  container-title: NC Justice Project
+  language: en
+  title: Access To Justice | North Carolina Justice for All Project
+  type: webpage
+  URL: https://www.ncjfap.org
+
 - id: acemogluBeckerTrainingImperfect1999
   author:
     - family: Acemoglu
@@ -779,6 +860,49 @@ references:
   title: 'The Rule of Law and the Litigation Process: The Paradox of Losing by Winning'
   title-short: The Rule of Law and the Litigation Process
   type: chapter
+
+- id: Albrecht2023
+  abstract: >-
+    Colleges and universities are legally required to attempt to prevent and
+    redress sexual violations on campus. Neo-institutional theory suggests that
+    the implementation of law by compliance professionals rarely achieves law?s
+    goals. It is critical in claims-based systems that those who are potential
+    claimants understand the law. This article demonstrates that (a) intended
+    subjects of the law (colleges and universities) interpret and frame the law
+    in very similar ways; (b) resultant policies are complex and difficult to
+    navigate; and (c) university undergraduates in an experimental setting are
+    not able to comprehend the Title IX policies designed to protect them. These
+    findings suggest that current implementations of Title IX policies leave
+    them structurally ineffective to combat sexual assaults on campus.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 9
+  author:
+    - family: Albrecht
+      given: Kat
+    - family: Nielsen
+      given: Laura Beth
+    - family: Wuorinen
+      given: Lydia
+  citation-key: Albrecht2023
+  container-title: Educational Evaluation and Policy Analysis
+  DOI: 10.3102/01623737221113576
+  ISSN: 0162-3737
+  issue: '2'
+  issued:
+    - year: 2023
+      month: 6
+      day: 1
+  language: en
+  page: 247-267
+  publisher: American Educational Research Association
+  source: SAGE Journals
+  title: 'Misunderstanding Law: Undergraduates’ Analysis of Campus Title IX Policies'
+  title-short: Misunderstanding Law
+  type: article-journal
+  URL: https://doi.org/10.3102/01623737221113576
+  volume: '45'
 
 - id: ALDFvHerbert2017-DUtah
   authority: D. Utah
@@ -1098,6 +1222,46 @@ references:
   title-short: Private Government
   type: book
   URL: https://www.jstor.org/stable/j.ctvc775n0
+
+- id: Anderson2019
+  abstract: >-
+    State bar licensing authorities and law schools have been debating whether
+    the passing score on the bar exam is set at the right level or should be
+    lowered. Much of the debate centers on generalizations without evidence
+    about the effect that changes to the bar exam may have.We present data
+    suggesting that lowering the bar examination passing score will likely
+    increase the amount of malpractice, misconduct, and discipline among
+    lawyers. Using a large dataset drawn from publicly available California
+    State Bar records, our analysis shows that bar exam score is significantly
+    related to likelihood of State Bar discipline throughout a lawyer’s career.
+    We investigate these claims by collecting data on disciplinary actions and
+    disbar-ments among California-licensed attorneys. We find support for the
+    assertion that attorneys with lower bar examination performance are more
+    likely to be disciplined and disbarred than those with higher
+    performance.Although our measures of bar performance have only modest
+    predictive power of subsequent discipline, we project that lowering the
+    passing score would result in the admission of attorneys with a
+    substantially higher probabil-ity of bar discipline over the course of their
+    careers. But we admit that our anal-ysis is limited due to the imperfect
+    data available to the public. And we do not infer a causal relationship
+    between low bar scores and high discipline rates. For a precise calculation,
+    we call on state licensing authorities to use their in-ternal records on bar
+    scores and discipline outcomes to determine the likely impact of changes to
+    the passing score.
+  author:
+    - family: Anderson
+      given: Robert
+    - family: Muller
+      given: Derek T.
+  citation-key: Anderson2019
+  container-title: Georgetown Journal of Legal Ethics
+  issued:
+    - year: 2019
+  language: en
+  page: '307'
+  title: The High Cost of Lowering the Bar
+  type: article-journal
+  volume: '32'
 
 - id: AndersonCoastalCommunities2012
   authority: N.C.Super.
@@ -1809,6 +1973,49 @@ references:
   title: Whiteness and the Historians' Imagination
   type: article-journal
   URL: https://www.jstor.org/stable/27672732
+
+- id: Arnold1992
+  abstract: >-
+    We develop a career model of prosecuted misconduct among lawyers. This model
+    combines labeling theory's emphasis on the role of sanctions in structuring
+    deviant careers with a focus on the asynchronic interaction between life
+    cycle changes among precariously positioned actors and system conditions.
+    This conceptualization suggests that complaints of misconduct against
+    inexperienced solo practitioners are more prone to prosecution because of
+    social conceptions and lay theories about lawyer misconduct, perceived
+    threats to the profession's public image, and the relative powerlessness of
+    these lawyers to defend themselves, especially during economic recession. An
+    event history analysis of misconduct complaints against lawyers in a
+    Canadian province confirms that complaints against inexperienced solo
+    practitioners are more likely to move to prosecution during an economic
+    recession. Our findings encourage the application of career
+    conceptualizations to other research on deviance.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Arnold
+      given: Bruce L.
+    - family: Hagan
+      given: John
+  citation-key: Arnold1992
+  container-title: American Sociological Review
+  DOI: 10.2307/2096122
+  ISSN: 0003-1224
+  issue: '6'
+  issued:
+    - year: 1992
+  page: 771-780
+  publisher: '[American Sociological Association, Sage Publications, Inc.]'
+  source: JSTOR
+  title: >-
+    Careers of Misconduct: The Structure of Prosecuted Professional Deviance
+    Among Lawyers
+  title-short: Careers of Misconduct
+  type: article-journal
+  URL: https://www.jstor.org/stable/2096122
+  volume: '57'
 
 - id: Arnold2019
   abstract: >-
@@ -2855,6 +3062,19 @@ references:
   URL: https://browzine.com/articles/499700112
   volume: '47'
 
+- id: BecomingChangeStory_nd
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: BecomingChangeStory_nd
+  title: >-
+    Becoming the Change: The Story of the North Carolina Justice for All Project
+    | IAALS
+  type: webpage
+  URL: >-
+    https://iaals.du.edu/blog/becoming-change-story-north-carolina-justice-all-project
+
 - id: BeeckAquaslideNDive1977
   authority: 8th Cir.
   citation-key: BeeckAquaslideNDive1977
@@ -3680,6 +3900,15 @@ references:
   title: Debt drive and the imperative of growth
   type: chapter
   URL: https://www.jstor.org/stable/j.ctvggx2fq.7
+
+- id: BlackPolaskiStein2024
+  citation-key: BlackPolaskiStein2024
+  issued:
+    - year: 2024
+      month: 1
+      day: 4
+  title: 'Black Polaski v. Stein: Complaint (E.D.N.C.)'
+  type: document
 
 - id: BlackWhiteTaxicab1928
   authority: Supreme Court
@@ -5832,6 +6061,51 @@ references:
   type: article-journal
   volume: '23'
 
+- id: Carpenter2017
+  abstract: >-
+    Nonlawyer advocates are one proposed solution to the access to justice
+    crisis. Theory and research suggest that nonlawyers might be effective, yet
+    scholars know very little, empirically, about nonlawyer practice in the
+    United States. Using data from more than 5,000 unemployment insurance appeal
+    hearings and interviews with lawyers and nonlawyers who represent employers
+    in these hearings, this article explores how both types of representatives
+    develop expertise and what this means for effectiveness. We find judges play
+    a critical role in shaping nonlawyer legal expertise and nonlawyers develop
+    expertise almost exclusively through “trial and error.” We find evidence
+    that while experienced nonlawyers can help parties through their expertise
+    with common court procedures and basic substantive legal concepts, they are
+    not equipped to challenge judges on contested issues of substantive or
+    procedural law in individual cases, advance novel legal claims, or advocate
+    for law reform on a broader scale. These findings have implications for
+    future access to justice research and interventions.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Carpenter
+      given: Anna E.
+    - family: Mark
+      given: Alyx
+    - family: Shanahan
+      given: Colleen F.
+  citation-key: Carpenter2017
+  container-title: Law & Social Inquiry
+  DOI: 10.1111/lsi.12252
+  ISSN: 1747-4469
+  issue: '4'
+  issued:
+    - year: 2017
+  language: en
+  license: © 2016 American Bar Foundation.
+  page: 1023-1057
+  source: Wiley Online Library
+  title: 'Trial and Error: Lawyers and Nonlawyer Advocates'
+  title-short: Trial and Error
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/lsi.12252
+  volume: '42'
+
 - id: carrManagerialEmployeeLabel1979
   author:
     - family: Carr
@@ -6664,6 +6938,32 @@ references:
   type: legal_case
   volume: '2016'
 
+- id: Conley2003
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Conley
+      given: John M.
+  citation-key: Conley2003
+  container-title: North Carolina Law Review
+  container-title-short: N.C. L. Rev.
+  issue: '6'
+  issued:
+    - year: 2003
+    - year: 2004
+  language: eng
+  page: 1943-2016
+  source: HeinOnline
+  title: >-
+    How Bad Is It out There: Teaching and Learning about the State of the Legal
+    Profession in North Carolina
+  title-short: How Bad Is It out There
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/nclr82&i=1957
+  volume: '82'
+
 - id: conleyRulesRelationshipsEthnography1990
   abstract: >-
     In Rules versus Relationships, John M. Conley and William M. O’Barr examine
@@ -7137,6 +7437,62 @@ references:
     Legal Education?
   type: article-journal
   volume: '22'
+
+- id: Curtis2003
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Curtis
+      given: Debra Moss
+    - family: Kaufman
+      given: Billie Jo
+  citation-key: Curtis2003
+  container-title: Nova Law Review
+  container-title-short: Nova L. Rev.
+  issue: '3'
+  issued:
+    - year: 2003
+    - year: 2004
+  language: eng
+  page: 669-720
+  source: HeinOnline
+  title: >-
+    A Public View of Attorney Discipline in Florida: Statistics, Commentary, and
+    Analysis of Disciplinary Actions against Licensed Attorneys in the State of
+    Florida from 1998-2002 Articles and Essays
+  title-short: A Public View of Attorney Discipline in Florida
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/novalr28&i=677
+  volume: '28'
+
+- id: Curtis2004
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Curtis
+      given: Debra Moss
+  citation-key: Curtis2004
+  container-title: Nova Law Review
+  container-title-short: Nova L. Rev.
+  issue: '2'
+  issued:
+    - year: 2004
+    - year: 2005
+  language: eng
+  page: 339-396
+  source: HeinOnline
+  title: >-
+    Licensing and Discipline of Fiscal Professionals ini the State of Florida:
+    Attorneys, Certified Public Accountants, and Real Estate Professionals
+    Florida Legal Affairs
+  title-short: Licensing and Discipline of Fiscal Professionals ini the State of Florida
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/novalr29&i=347
+  volume: '29'
 
 - id: curtisWhatWrongPublic2019
   abstract: >-
@@ -9167,6 +9523,30 @@ references:
   type: article-journal
   volume: '92'
 
+- id: EqualJusticeNot2023
+  abstract: >-
+    “Equal justice is not for all if you are of low or moderate income in NC.
+    Low-income North Carolinians face a severe shortfall in affordable legal
+    resources,”
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: EqualJusticeNot2023
+  issued:
+    - year: 2023
+      month: 6
+      day: 29
+  language: en-US
+  section: Special Feature
+  title: >-
+    Equal Justice Is Not for All: Report Card Three Years After the Floyd &
+    Taylor Murders | Attorney at Law Magazine
+  title-short: Equal Justice Is Not for All
+  type: post-weblog
+  URL: >-
+    https://attorneyatlawmagazine.com/special-feature/equal-justice-is-not-for-all-report-card-three-years-after-the-floyd-taylor-murders
+
 - id: ErieCoTompkins1938
   authority: supreme.court
   citation-key: ErieCoTompkins1938
@@ -9574,6 +9954,30 @@ references:
   type: legal_case
   volume: '545'
 
+- id: FamilyLaw2022
+  abstract: >-
+    By Alicia Mitchell-Mercer and S.M. Kernodle-Hodges “If one wishes to know
+    how justice is administered, one does not question the policemen, the
+    judges, or the protected members of the middle class. One goes to the
+    unprotected— those, precisely, who need the law's protection most! — and
+    listens to their testimony. ~James Baldwin, "No Name on
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - literal: FamilyLaw
+  citation-key: FamilyLaw2022
+  issued:
+    - year: 2022
+      month: 10
+      day: 14
+  language: en-US
+  title: Looking Beyond Lawyers to Close the Access to Justice Gap - NCBarBlog
+  type: webpage
+  URL: >-
+    https://www.ncbarblog.com/fl-looking-beyond-lawyers-to-close-the-access-to-justice-gap/
+
 - id: Fantasia1995
   abstract: >-
     Theorists recently have made strides in answering key questions about social
@@ -9858,6 +10262,26 @@ references:
   source: Amazon
   title: The Sociology of Debt
   type: book
+
+- id: FederalLegalChallenges_nd
+  abstract: >-
+    Discover key federal legal challenges shaping the future of legal access in
+    the United States. This website provides comprehensive coverage of pivotal
+    cases, including Wayne Nutt vs. NC Board of Engineering, Upsolve vs. New
+    York Attorney General, and NAACP vs. South Carolina Attorney General. Stay
+    updated with the latest developments in these landmark cases that are set to
+    impact not just legal professionals, but also the wider public in accessing
+    justice.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: FederalLegalChallenges_nd
+  container-title: NC Justice Project
+  language: en
+  title: Federal Legal Challenges
+  type: webpage
+  URL: https://www.ncjfap.org/federal-legal-challenges
 
 - id: FederalSecurityInc2012
   authority: N.L.R.B.
@@ -11496,6 +11920,31 @@ references:
   URL: >-
     http://jacobinmag.com/2017/02/labor-unions-workers-salts-students-organizing/
 
+- id: Fortney2009
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Fortney
+      given: Susan Saab
+  citation-key: Fortney2009
+  container-title: Georgetown Journal of Legal Ethics
+  container-title-short: Geo. J. Legal Ethics
+  issue: '4'
+  issued:
+    - year: 2009
+  language: eng
+  page: 1473-1484
+  source: HeinOnline
+  title: >-
+    Taking Empirical Research Seriously Symposium: Empirical Research on the
+    Legal Profession: Insights from Theory and Practice
+  title-short: Taking Empirical Research Seriously Symposium
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/geojlege22&i=1481
+  volume: '22'
+
 - id: fosterDoesMultistateBar2021
   abstract: >-
     2020 brought many challenges, which included administering the bar exam. 
@@ -12770,6 +13219,42 @@ references:
   title-short: The Nation-State and Violence
   type: book
 
+- id: Gilmore2017
+  abstract: >-
+    Jailhouse lawyers provide an important legal service to other inmates. A
+    jailhouse lawyer is an inmate with legal expertise who files his own legal
+    documents or aids other inmates in the legal process. The US Supreme Court
+    has long held that prison officials must provide the means by which inmates
+    will have “meaningful” access to the courts. The Court has not, however,
+    specifically defined how states are to do so, and have, instead, narrowly
+    tailored its decisions to allow prison administrators discretion in meeting
+    this requirement. The Antiterrorism and Effective Death Penalty Act and the
+    Prison Litigation Reform Act independently present significant barriers to
+    inmates who seek to advance legal claims.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Gilmore
+      given: Elizabeth L.
+    - family: Buckler
+      given: Kevin G.
+  citation-key: Gilmore2017
+  container-title: The Encyclopedia of Corrections
+  DOI: 10.1002/9781118845387.wbeoc164
+  ISBN: 978-1-118-84538-7
+  issued:
+    - year: 2017
+  language: en
+  license: Copyright © 2017 John Wiley & Sons, Inc.
+  page: 1-3
+  publisher: John Wiley & Sons, Ltd
+  source: Wiley Online Library
+  title: Jailhouse Lawyers
+  type: chapter
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118845387.wbeoc164
+
 - id: gilmoreDefyingDixieRadical2008
   abstract: >-
     A groundbreaking history of the Southern movement for social justice that
@@ -13373,6 +13858,52 @@ references:
   title-short: The Reconstitution of Law in Local Settings
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.10
+
+- id: Green2022
+  abstract: >-
+    After lawsuits challenging the results of the 2020 presidential election
+    failed spectacularly, some wondered whether the plaintiffs’ lawyers would be
+    disciplined for filing frivolous complaints. Time will tell. But, if these
+    lawyers are not disciplined, one should not be surprised. This Article
+    presents an empirical study of the New York disciplinary process, which
+    confirms that advocates who violate disciplinary rules by overzealously
+    pursuing their clients’ interests, such as by making frivolous claims, are
+    rarely punished in the disciplinary process. That is because disciplinary
+    prosecutors, operating in secret, have discretion as to whether to bring
+    formal charges against lawyers who violate the rules. They ordinarily
+    exercise that discretion by weeding out cases involving advocacy misconduct
+    that they regard as minor or that they believe to be better addressed by
+    trial courts.
+
+    Employing the allegedly frivolous election challenges as an illustration,
+    this Article argues that disciplinary charging discretion raises four
+    questions that the legal profession and the public should give greater
+    consideration: whether rule drafters should remove rarely-enforced advocacy
+    rules from the disciplinary codes; whether disciplinary agencies are
+    under-enforcing advocacy rules; whether disciplinary authorities are
+    arbitrary or unprincipled in selecting whom to prosecute for advocacy
+    misconduct; and whether disciplinary authorities should be more transparent
+    about how they make charging decisions so that the public can better
+    understand whether advocacy rules, and authorities’ exercise of discretion
+    in enforcing them, serve the public interest.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 8
+  author:
+    - family: Green
+      given: Bruce A.
+  citation-key: Green2022
+  container-title: Conn. L. Rev.
+  issued:
+    - year: 2022
+  language: en
+  page: '151'
+  source: ir.lawnet.fordham.edu
+  title: Selectively Disciplining Advocates
+  type: article-journal
+  URL: https://ir.lawnet.fordham.edu/faculty_scholarship/1200
+  volume: '54'
 
 - id: greenbergBrownBoardEducation2004
   abstract: >-
@@ -14228,6 +14759,31 @@ references:
   title: Judging the Jury
   type: book
 
+- id: Hansen2003
+  accessed:
+    - year: 2024
+      month: 2
+      day: 8
+  author:
+    - family: Hansen
+      given: Mark
+  citation-key: Hansen2003
+  container-title: ABA Journal
+  ISSN: 0747-0088
+  issue: '3'
+  issued:
+    - year: 2003
+  page: 30-34
+  publisher: American Bar Association
+  source: JSTOR
+  title: >-
+    Picking on the Little Guy: Perception Lingers That Discipline Falls Hardest
+    on Solos, Small Firms
+  title-short: Picking on the Little Guy
+  type: article-journal
+  URL: https://www.jstor.org/stable/27842439
+  volume: '89'
+
 - id: HarcoNatIns2009
   authority: N.C.Super.
   citation-key: HarcoNatIns2009
@@ -14444,6 +15000,27 @@ references:
   source: Google Books
   title: Inside the Jury
   type: book
+
+- id: Hatamyar2004
+  author:
+    - family: Hatamyar
+      given: Patricia
+    - family: Simmons
+      given: Kevin
+  citation-key: Hatamyar2004
+  container-title: Florida State University Law Review
+  ISSN: 0096-3070
+  issue: '4'
+  issued:
+    - year: 2004
+      month: 1
+      day: 1
+  page: '785'
+  title: Are Women More Ethical Lawyers? An Empirical Study
+  title-short: Are Women More Ethical Lawyers?
+  type: article-journal
+  URL: https://ir.law.fsu.edu/lr/vol31/iss4/2
+  volume: '31'
 
 - id: hayesUnconstitutionalitySectionIi2012
   archive: JSTOR
@@ -15770,6 +16347,15 @@ references:
   URL: www.jstor.org/stable/10.1086/502692
   volume: '112'
 
+- id: IssuesSubcommitteeRegulatory2022
+  citation-key: IssuesSubcommitteeRegulatory2022
+  issued:
+    - year: 2022
+      month: 1
+  publisher: North Carolina State Bar
+  title: 'Issues Subcommittee on Regulatory Change: Report and Recommendations'
+  type: document
+
 - id: JacksonHomeDepot2021
   authority: N.C.App.
   citation-key: JacksonHomeDepot2021
@@ -15996,6 +16582,23 @@ references:
   title-short: The Jews and the Frankfurt School
   type: article-journal
   URL: http://www.jstor.org/stable/487976
+
+- id: JeffreyS.Kinsler2018
+  author:
+    - family: Jeffrey S. Kinsler
+      given: ''
+  citation-key: JeffreyS.Kinsler2018
+  container-title: St. John's Law Review
+  issue: '4'
+  issued:
+    - year: 2018
+      month: 6
+      day: 27
+  page: '883'
+  title: Is Bar Exam Failure a Harbinger of Professional Discipline?
+  type: article-journal
+  URL: https://scholarship.law.stjohns.edu/lawreview/vol91/iss4/4
+  volume: '91'
 
 - id: Jekyll_nd
   citation-key: Jekyll_nd
@@ -16591,6 +17194,28 @@ references:
   title-short: Mother Jones Speaks
   type: book
 
+- id: Journal_nd
+  abstract: >-
+    The ABA Journal is read by half of the nation's 1 million lawyers every
+    month. It covers the trends, people and finances of the legal profession
+    from Wall Street to Main Street to Pennsylvania Avenue.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Journal
+      given: A. B. A.
+  citation-key: Journal_nd
+  container-title: ABA Journal
+  language: en
+  title: >-
+    Using data, law prof finds many disciplined lawyers represent consumers—with
+    no oversight
+  type: webpage
+  URL: >-
+    https://www.abajournal.com/web/article/using-data-law-prof-finds-many-disciplined-lawyers-represent-consumers-with-no-oversight
+
 - id: Joy1996
   author:
     - family: Joy
@@ -16706,6 +17331,15 @@ references:
   publisher: Lexington Books Lexington, MA
   title: 'Police Unionism: Power and Impact in Public-Sector Bargaining'
   type: book
+
+- id: JusticeGapUnmet2022
+  citation-key: JusticeGapUnmet2022
+  issued:
+    - year: 2022
+      month: 4
+  publisher: Legal Services Corporation
+  title: 'The Justice Gap: The Unmet Civil Legal Needs of Low-Income Americans'
+  type: document
 
 - id: JustusRosner2018
   authority: N.C.
@@ -17731,6 +18365,30 @@ references:
   type: legal_case
   volume: '212'
 
+- id: Kirkland2004
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Kirkland
+      given: Kimberly
+  citation-key: Kirkland2004
+  container-title: University of Memphis Law Review
+  container-title-short: U. Mem. L. Rev.
+  issue: '4'
+  issued:
+    - year: 2004
+    - year: 2005
+  language: eng
+  page: 631-730
+  source: HeinOnline
+  title: 'Ethics in Large Law Firms: The Principle of Pragmatism'
+  title-short: Ethics in Large Law Firms
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/umem35&i=641
+  volume: '35'
+
 - id: kirklandThinkHippopotamusRights2014
   abstract: >-
     Everyone is talking about fat people. Contemporary American society is
@@ -18410,6 +19068,46 @@ references:
     https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=5807630&site=ehost-live
   volume: '44'
 
+- id: Kritzer2015
+  abstract: >-
+    All professionals make mistakes and sometimes those mistakes harm the
+    clients or patients. What happens when this occurs and the professional
+    involved is a lawyer? Surprisingly, there is virtually no empirical research
+    on legal malpractice. In contrast, there is an extensive empirical 
+    literature on medical malpractice and the legal handling of legal
+    malpractice claims. This literature examines the frequency of medical
+    malpractice claims, how they are handled, how they are resolved, and their
+    impact on access to and cost of medical care. The absence of a similar
+    literature concerning legal malpractice is at least somewhat surprising
+    given that there are roughly equal numbers of private practice lawyers and
+    patient care physicians in the United States.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Kritzer
+      given: Herbert M.
+    - family: Vidmar
+      given: Neil
+  citation-key: Kritzer2015
+  DOI: 10.2139/ssrn.2627735
+  event-place: Rochester, NY
+  genre: SSRN Scholarly Paper
+  issued:
+    - year: 2015
+      month: 7
+      day: 7
+  language: en
+  publisher-place: Rochester, NY
+  source: Social Science Research Network
+  title: >-
+    When the Lawyer Screws Up: A Portrait of Legal Malpractice Claims and Their
+    Resolution
+  title-short: When the Lawyer Screws Up
+  type: article
+  URL: https://papers.ssrn.com/abstract=2627735
+
 - id: kruegerProposalProtectingLow2018
   author:
     - family: Krueger
@@ -18536,6 +19234,43 @@ references:
   title: 'A Troublemaker''s Handbook: How to Fight Back Where You Work - And Win!'
   title-short: A Troublemaker's Handbook
   type: book
+
+- id: Lacy1997
+  abstract: >-
+    Case-control designs involve samples stratified disproportionately on a
+    binary dependent variable. This design, though infrequently used by
+    sociologists, offers tremendous logistical efficiency in the study of rare
+    events, such as divorce, joining a religious cult, or committing a crime.
+    This paper attempts to sensitize sociologists to the many situations in
+    which this design is useful, and offers general and accessible guidance on
+    the practice of case-control research. Using the epidemiologic literature, I
+    explain the underlying logic of case-control design, discuss how to conduct
+    case-control sampling, and briefly cover data analysis issues. I conclude
+    with an empirical illustration of a case-control study examining factors
+    associated with the change of chief administrative officers at
+    post-secondary educational institutions.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Lacy
+      given: Michael G.
+  citation-key: Lacy1997
+  container-title: Sociological Perspectives
+  DOI: 10.2307/1389496
+  ISSN: 0731-1214
+  issue: '1'
+  issued:
+    - year: 1997
+  page: 129-154
+  publisher: Sage Publications, Inc.
+  source: JSTOR
+  title: 'Efficiently Studying Rare Events: Case-Control Methods for Sociologists'
+  title-short: Efficiently Studying Rare Events
+  type: article-journal
+  URL: https://www.jstor.org/stable/1389496
+  volume: '40'
 
 - id: LakeStateHealth2014
   authority: N.C.App.
@@ -19320,6 +20055,45 @@ references:
   title: 'Bureaucratic Insurgency: The Case of Police Unions'
   type: book
 
+- id: Levin2004
+  author:
+    - family: Levin
+      given: Leslie
+  citation-key: Levin2004
+  container-title: Faculty Articles and Papers
+  issued:
+    - year: 2004
+      month: 1
+      day: 1
+  page: '309'
+  title: Ethical World of Solo and Small Law Firm Practitioners, The
+  type: article-journal
+  URL: https://digitalcommons.lib.uconn.edu/law_papers/210
+  volume: '41'
+
+- id: Levin2004a
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Levin
+      given: Leslie C.
+  citation-key: Levin2004a
+  container-title: Houston Law Review
+  container-title-short: Hous. L. Rev.
+  issue: '2'
+  issued:
+    - year: 2004
+    - year: 2005
+  language: eng
+  page: 309-392
+  source: HeinOnline
+  title: The Ethical World of Solo and Small Law Firm Practitioners
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/hulr41&i=321
+  volume: '41'
+
 - id: Levin2009
   abstract: >-
     This article presents findings from a qualitative study of seventy-one New
@@ -19359,6 +20133,84 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/30234230
   volume: '34'
+
+- id: Levin2009a
+  abstract: >-
+    This article presents findings from a qualitative study of seventy-one New
+    York immigration lawyers who are engaged in private practice. It focuses on
+    the lawyers' backgrounds, career paths, and early professional training and
+    describes, inter alia, the unusual diversity of this bar, the lawyers'
+    reasons for practicing immigration law, the ways in which they learn to
+    practice law, and the strong sense of community within the private
+    immigration bar. It uses the idea of communities of practice to help
+    understand how lawyers learn from their colleagues and are influenced by
+    them. The article identifies several factors that may contribute to the
+    supportiveness of the bar and the strong sense of community within that
+    practice specialty, notwithstanding its great diversity. It concludes by
+    making some preliminary comparisons between immigration lawyers and lawyers
+    in other practice specialties and by identifying some questions for future
+    study.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Levin
+      given: Leslie C.
+  citation-key: Levin2009a
+  container-title: Law & Social Inquiry
+  DOI: 10.1111/j.1747-4469.2009.01151.x
+  ISSN: 1747-4469
+  issue: '2'
+  issued:
+    - year: 2009
+  language: en
+  page: 399-436
+  source: Wiley Online Library
+  title: >-
+    Guardians at the Gate: The Backgrounds, Career Paths, and Professional
+    Development of Private US Immigration Lawyers
+  title-short: Guardians at the Gate
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1747-4469.2009.01151.x
+  volume: '34'
+
+- id: Levin2012
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Levin
+      given: Leslie C.
+  citation-key: Levin2012
+  container-title: Legal Ethics
+  DOI: 10.5235/LE.15.2.357
+  issued:
+    - year: 2012
+  language: en
+  page: '357'
+  title: 'Misbehaving Lawyers: Cross-Country Comparisons'
+  title-short: Misbehaving Lawyers
+  type: article-journal
+  URL: https://www.tandfonline.com/doi/epdf/10.5235/LE.15.2.357?src=getftr
+  volume: '15'
+
+- id: Levin2015
+  author:
+    - family: Levin
+      given: Leslie
+    - family: Siegelman
+      given: Peter
+  citation-key: Levin2015
+  container-title: Law & Social Inquiry
+  issued:
+    - year: 2015
+  page: '70'
+  title: The Questionable Character of the Bar's Character and Fitness Inquiry
+  type: article-journal
+  URL: https://digitalcommons.lib.uconn.edu/law_papers/419
+  volume: '40'
 
 - id: levineFreeJusticeHistory2021
   author:
@@ -21354,6 +22206,25 @@ references:
   type: article-journal
   volume: '82'
 
+- id: Mather2011
+  author:
+    - family: Mather
+      given: Lynn
+  citation-key: Mather2011
+  container-title: Contributions to Books
+  DOI: >-
+    <a
+    href="https://doi.org/10.1017/CBO9780511921506.007">10.1017/CBO9780511921506.007</a>
+  issued:
+    - year: 2011
+      month: 2
+      day: 21
+  page: 109-131
+  title: How and Why Do Lawyers Misbehave? Lawyers, Discipline, and Collegial Control
+  title-short: How and Why Do Lawyers Misbehave?
+  type: article-journal
+  URL: https://digitalcommons.law.buffalo.edu/book_sections/301
+
 - id: MatsushitaElecIndus1986
   authority: supreme.court
   citation-key: MatsushitaElecIndus1986
@@ -22322,6 +23193,67 @@ references:
   type: article-journal
   volume: '46'
 
+- id: Merken2022
+  abstract: >-
+    New York's attorney general has asked an appeals court to overturn a ruling
+    that blocked the state from enforcing rules against the unauthorized
+    practice of law against a nonprofit that wants to provide limited legal
+    advice to poor New Yorkers.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - family: Merken
+      given: Sara
+    - family: Merken
+      given: Sara
+  citation-key: Merken2022
+  container-title: Reuters
+  issued:
+    - year: 2022
+      month: 10
+      day: 6
+  language: en
+  section: Legal Industry
+  source: www.reuters.com
+  title: >-
+    New York asks court to allow state to police nonprofit's legal advice
+    program
+  type: article-newspaper
+  URL: >-
+    https://www.reuters.com/legal/legalindustry/new-york-asks-court-allow-state-police-nonprofits-legal-advice-program-2022-10-06/
+
+- id: Merken2022a
+  abstract: >-
+    Nonprofit Upsolve Inc has opened up its legal advice program to non-lawyer
+    volunteers after a Manhattan federal judge ruled in favor of its First
+    Amendment argument in a lawsuit against the state attorney general.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - family: Merken
+      given: Sara
+    - family: Merken
+      given: Sara
+  citation-key: Merken2022a
+  container-title: Reuters
+  issued:
+    - year: 2022
+      month: 5
+      day: 25
+  language: en
+  section: Government
+  source: www.reuters.com
+  title: >-
+    N.Y. nonprofit may help debtors without breaking legal practice rules, judge
+    says
+  type: article-newspaper
+  URL: >-
+    https://www.reuters.com/legal/government/ny-nonprofit-may-help-debtors-without-breaking-legal-practice-rules-judge-says-2022-05-25/
+
 - id: merleZombieDebtHow
   abstract: >-
     Consumer advocates say there's an accelerating effort within the $11 billion
@@ -22996,6 +23928,30 @@ references:
   title-short: Rebuilding Labor
   type: book
 
+- id: Miller2020
+  author:
+    - family: Miller
+      given: Keishawna
+  citation-key: Miller2020
+  issued:
+    - year: 2020
+  language: en
+  source: Zotero
+  title: 2020 Survey on Lawyer Discipline Systems (SOLD)
+  type: article-journal
+
+- id: Miller2021
+  author:
+    - family: Miller
+      given: Keishawna
+  citation-key: Miller2021
+  issued:
+    - year: 2021
+  language: en
+  source: Zotero
+  title: 2021 Survey on Lawyer Discipline Systems (SOLD)
+  type: article-journal
+
 - id: MillerLongInc2011
   authority: N.C.Super.
   citation-key: MillerLongInc2011
@@ -23195,6 +24151,20 @@ references:
   section: 578.013.1
   title: Missouri farm animal recordings
   type: legislation
+
+- id: Mitchell-Mercer2023
+  author:
+    - family: Mitchell-Mercer
+      given: Alicia
+  citation-key: Mitchell-Mercer2023
+  issued:
+    - year: 2023
+      month: 2
+  publisher: North Carolina Justice for All Project
+  title: Looking Beyond Lawyers to Bridge the Civil Access to Justice Gap
+  type: document
+  URL: >-
+    https://www.ncjfap.org/_files/ugd/8a3baf_416293fe5c5b42a9b92473cc44c78691.pdf
 
 - id: MitchellSherman1994
   authority: Wis.
@@ -24036,6 +25006,68 @@ references:
   title-short: Salting
   type: document
 
+- id: NCLimitedLaw_nd
+  abstract: >-
+    Please read carefully:
+
+
+    On Jan. 22, 2021, the North Carolina Justice for All Project (JFAP) team
+    submitted a proposal to the North Carolina State Bar and the North Carolina
+    Supreme Court seeking changes to N.C.G.S. § 84 (Unauthorized Practice of
+    Law) to allow certain non-lawyers to provide limited legal services to low-
+    and moderate-income North Carolinians. The proposal contemplates completing
+    specific requirements (e.g., examination, certification, education,
+    experience) before licensing.
+
+    Our proposal is an evolving concept. As an organization, we have learned a
+    great deal since the 2021 Civil Legal Needs Assessment was published, since
+    S.M. Kernodle-Hodges and Alicia Mitchell-Mercer had the benefit of sitting
+    on the State Bar Regulatory Subcommittee to explore access to justice
+    issues, and after hearing from other stakeholders in our legal and public
+    communities.
+
+    The January 2021 proposal was the first step.  We are working on an updated
+    draft of the proposal and, ultimately, a legislative brief. 
+
+    Completing this survey will help us develop an updated proposal and bill.
+    Please keep in mind as you answer this survey that to meet the needs of
+    those in the access to justice gap and attract those who might be interested
+    in holding a limited law license, we need to have high standards but not so
+    high that the barrier to entry becomes an impediment as seen in Washington
+    State. If you'd like to learn more about What Happened in Washington before
+    completing this survey, click on the hyperlink. 
+
+    January 2021 Proposal Documents:
+
+    Letter to Chief Justice Paul Newby and the North Carolina State Bar
+
+    Executive Summary of the Proposal
+
+    Proposal for a Limited Practice Rule to Narrow North Carolina’s Access to
+    Justice Gap
+
+    Appendix to Proposal
+
+    Confidentiality:
+
+
+    Your responses are voluntary and will be confidential. While responses may
+    be shared with state leadership, responses will never be identified by
+    individuals outside of our organization. All responses will be compiled
+    together, anonymized, and analyzed as a group. If you have any questions or
+    concerns, please contact justiceforallproject@gmail.com.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: NCLimitedLaw_nd
+  container-title: Google Docs
+  language: en
+  title: NC Limited Law License Requirements Survey
+  type: webpage
+  URL: >-
+    https://docs.google.com/forms/d/e/1FAIpQLSf6Neb2ND39vMjr8rSbErzmYbTbPbib2eaSDevKwaouQFZuOw/viewform?usp=embed_facebook
+
 - id: NCPropertyProtectionAct2016
   citation-key: NCPropertyProtectionAct2016
   container-title: N.C. Gen. Stat.
@@ -24387,6 +25419,28 @@ references:
   type: legal_case
   volume: '804'
 
+- id: NonprofitParalegalsSue2024
+  abstract: >-
+    A North Carolina nonprofit is challenging a state law banning anyone but a
+    fully licensed attorney from offering legal advice, saying in a federal
+    lawsuit Thursday that the regulations amount to an unconstitutional
+    restraint on free speech in violation of the First Amendment.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: NonprofitParalegalsSue2024
+  container-title: Law360
+  issued:
+    - year: 2024
+      month: 1
+      day: 4
+  language: en
+  title: Nonprofit, Paralegals Sue To Take Down NC Legal Advice Law - Law360
+  type: webpage
+  URL: >-
+    https://www.law360.com/articles/1782238/nonprofit-paralegals-sue-to-take-down-nc-legal-advice-law
+
 - id: NorrisLaGuardiaAct1932
   citation-key: NorrisLaGuardiaAct1932
   container-title: U.S. Code
@@ -24469,6 +25523,38 @@ references:
   type: legal_case
   volume: '882'
 
+- id: NorthCarolinaJusticeforAllProject2023
+  author:
+    - family: North Carolina Justice for All Project
+      given: ''
+  citation-key: NorthCarolinaJusticeforAllProject2023
+  issued:
+    - year: 2023
+  title: Policy Brief
+  type: document
+  URL: >-
+    https://www.ncjfap.org/_files/ugd/8a3baf_182d357bd73344049cfb1adcf7b21802.pdf
+
+- id: NorthCarolinaLegal2024
+  abstract: >-
+    The First Amendment’s protection for free speech isn’t limited to political
+    advocacy or expressions of personal opinion—it extends to speech on all
+    topics. That includes […]
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: NorthCarolinaLegal2024
+  container-title: Institute for Justice
+  issued:
+    - year: 2024
+      month: 1
+      day: 4
+  language: en-us
+  title: North Carolina Legal Advice
+  type: webpage
+  URL: https://ij.org/case/north-carolina-upl/
+
 - id: NorthCarolinaStateBar2022
   author:
     - family: North Carolina State Bar
@@ -24479,6 +25565,26 @@ references:
   publisher: North Carolina State Bar
   title: The 2022 Lawyer's Handbook
   type: document
+
+- id: NorthCarolinaSuit_nd
+  abstract: >-
+    A nonprofit group in North Carolina is challenging the state’s restrictions
+    on non-lawyers providing legal advice.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: NorthCarolinaSuit_nd
+  container-title: Bloomberg Law
+  issued:
+    - year: 2024
+      month: 1
+      day: 5
+  language: en
+  title: North Carolina Suit Aims to Broaden Who Can Provide Legal Advice
+  type: webpage
+  URL: >-
+    https://news.bloomberglaw.com/business-and-practice/north-carolina-suit-aims-to-broaden-who-can-provide-legal-advice
 
 - id: NorthCarolinaTrust1998
   authority: N.C.App.
@@ -24554,6 +25660,28 @@ references:
   source: Amazon
   title: The Jewish Labor Bund in Poland
   type: book
+
+- id: Numbers10States2023
+  abstract: >-
+    At least 10 states and DC moved to boost access to justice this year by
+    considering or implementing programs that allow non-lawyers to work as legal
+    advocates or own law firms.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: Numbers10States2023
+  container-title: Bloomberg Law
+  issued:
+    - year: 2023
+      month: 12
+      day: 28
+  language: en
+  title: 'By the Numbers: 10 States Allowed Non-Lawyers to Offer Services'
+  title-short: By the Numbers
+  type: webpage
+  URL: >-
+    https://news.bloomberglaw.com/business-and-practice/by-the-numbers-10-states-allowed-non-lawyers-to-offer-services
 
 - id: nysMontanaWrongfulDischarge1990
   author:
@@ -25088,6 +26216,16 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/24718429
   volume: '22'
+
+- id: OurLegalDeserts_nd
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  citation-key: OurLegalDeserts_nd
+  title: Our Legal Deserts | North Carolina Advocates for Justice
+  type: webpage
+  URL: https://www.ncaj.com/news/our-legal-deserts
 
 - id: Oyer2011
   abstract: >-
@@ -25926,6 +27064,43 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/42977762
   volume: '163'
+
+- id: Piquero2016
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Piquero
+      given: Nicole Leeper
+    - family: Meitl
+      given: Michele Bisaccia
+    - family: Brank
+      given: Eve M.
+    - family: Woolard
+      given: Jennifer L.
+    - family: Lanza-Kaduce
+      given: Lonn
+    - family: Piquero
+      given: Alex R.
+  citation-key: Piquero2016
+  container-title: Deviant Behavior
+  container-title-short: Deviant Behavior
+  DOI: 10.1080/01639625.2015.1060795
+  ISSN: 0163-9625, 1521-0456
+  issue: '5'
+  issued:
+    - year: 2016
+      month: 5
+      day: 3
+  language: en
+  page: 573-584
+  source: DOI.org (Crossref)
+  title: 'Exploring Lawyer Misconduct: An Examination of the Self-Regulation Process'
+  title-short: Exploring Lawyer Misconduct
+  type: article-journal
+  URL: http://www.tandfonline.com/doi/full/10.1080/01639625.2015.1060795
+  volume: '37'
 
 - id: Pistor2019
   abstract: >-
@@ -26797,6 +27972,17 @@ references:
   title-short: Antonin Scalia and American Constitutionalism
   type: book
 
+- id: PursuitJusticeAssessment2021
+  citation-key: PursuitJusticeAssessment2021
+  issued:
+    - year: 2021
+      month: 6
+  publisher: NC Equal Access to Justice Commission & NC Equal Justice Alliance
+  title: >-
+    In Pursuit of Justice: An Assessment of the Civil Legal Needs of North
+    Carolina
+  type: document
+
 - id: Putik1999
   abstract: >-
     The State and Church Jewish Policies • Extirpation Attempts • Security
@@ -26951,6 +28137,15 @@ references:
   note: 'Select: zotero://select/library/items/KJE5MX5Q'
   publisher: American Civil Liberties Union
   title: Report on the Scottsboro, Ala. Case
+  type: document
+
+- id: RecommendationsStrentheningUnified2017
+  citation-key: RecommendationsStrentheningUnified2017
+  issued:
+    - year: 2017
+      month: 3
+  publisher: North Carolina Commission on the Administration of Law & Justice
+  title: Recommendations for Strenthening the Unified Court System of North Carolina
   type: document
 
 - id: redmilesShelterStormNeed1989
@@ -27810,6 +29005,85 @@ references:
   type: article-journal
   volume: '24'
 
+- id: Rozema2021
+  abstract: >-
+    I study the effects of requiring lawyers to pass the bar exam on whether
+    they are later publicly disciplined for misconduct. In the 1980s, by
+    abolishing what is known as a diploma privilege, four states began to
+    require graduates from all law schools to pass the bar exam. My research
+    design exploits these events to estimate the effect of the bar passage
+    requirement on the share of lawyers publicly sanctioned by state discipline
+    bodies. I find that during the first decade of their careers lawyers
+    licensed without a bar passage requirement are publicly sanctioned at
+    similar rates to lawyers licensed after passing a bar exam. Small
+    differences do begin to emerge after a decade, however, and larger though
+    still modest differences form after two decades.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Rozema
+      given: Kyle
+  citation-key: Rozema2021
+  container-title: Journal of Empirical Legal Studies
+  DOI: 10.1111/jels.12299
+  ISSN: 1740-1461
+  issue: '4'
+  issued:
+    - year: 2021
+  language: en
+  license: © 2021 Cornell Law School and Wiley Periodicals LLC.
+  page: 801-848
+  source: Wiley Online Library
+  title: Does the Bar Exam Protect the Public?
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jels.12299
+  volume: '18'
+
+- id: Rozema2023
+  abstract: >-
+    I investigate the labor market outcomes of American lawyers after they are
+    professionally disciplined. To do so, I match employment data for 672k
+    lawyers in 2012 and 2020 to novel data on public disciplinary measures
+    imposed by state licensing bodies since 1990. I use this data to study
+    discipline and employment in three ways. First, I document the prevalence
+    and distribution of discipline. I find that 4.4 percent of lawyers are
+    professionally disciplined and that half of disciplined lawyers who are not
+    disbarred go on to reoffend. I also find that disciplined lawyers are not
+    representative of the legal profession in terms of the type of law firms
+    they work for and their practice areas. Second, I document the labor market
+    outcomes of disciplined lawyers after they are disciplined and compare them
+    to the labor market outcomes of similar non-disciplined lawyers. I find that
+    disciplined lawyers are more likely to subsequently end up in law firms with
+    limited oversight and in practice areas with unsophisticated clients.
+    Finally, I investigate causal channels that could explain the labor market
+    outcomes of disciplined lawyers and find suggestive evidence that they
+    likely operate through law firms' concerns over reputation and by serving as
+    a signal of lawyer type.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Rozema
+      given: Kyle
+  citation-key: Rozema2023
+  DOI: 10.2139/ssrn.4381417
+  event-place: Rochester, NY
+  genre: SSRN Scholarly Paper
+  issued:
+    - year: 2023
+      month: 9
+      day: 1
+  language: en
+  publisher-place: Rochester, NY
+  source: Social Science Research Network
+  title: 'Professional Discipline and the Labor Market: Evidence from Lawyers'
+  title-short: Professional Discipline and the Labor Market
+  type: article
+  URL: https://papers.ssrn.com/abstract=4381417
+
 - id: rubinInequalityWorkingClass1988
   abstract: >-
     This paper explores one possible explanation for the uniquely apolitical
@@ -28398,6 +29672,33 @@ references:
   title-short: Jurisdiction, Jurisprudence and Legal Change
   type: article-journal
   volume: '10'
+
+- id: Schemenauer2007
+  accessed:
+    - year: 2024
+      month: 2
+      day: 8
+  author:
+    - family: Schemenauer
+      given: Stephen E.
+  citation-key: Schemenauer2007
+  container-title: Hamline Law Review
+  container-title-short: Hamline L. Rev.
+  issue: '3'
+  issued:
+    - year: 2007
+  language: eng
+  page: 629-682
+  source: HeinOnline
+  title: >-
+    What We've Got Here... Is a Failure... to Communicate: A Statistical
+    Analysis of the Nation's Most Common Ethical Complaint Symposium Issue: A
+    Century Later: Answering Roscoe Pound's Call for Change in the
+    Administration of Justice - Comment
+  title-short: What We've Got Here... Is a Failure... to Communicate
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/hamlrv30&i=635
+  volume: '30'
 
 - id: Schill1995
   author:
@@ -28989,6 +30290,26 @@ references:
   type: webpage
   URL: https://www.eeoc.gov/sex-based-discrimination
 
+- id: Seymore2021
+  accessed:
+    - year: 2024
+      month: 2
+      day: 8
+  author:
+    - family: Seymore
+      given: Malinda L.
+  citation-key: Seymore2021
+  container-title: Notre Dame Journal of Law, Ethics, & Public Policy
+  issued:
+    - year: 2021
+  page: '49'
+  title: >-
+    Specialty Bar Associations and the Marketing of Ethics: The Example of the
+    Academy of Adoption Attorneys
+  type: article-journal
+  URL: https://scholarship.law.tamu.edu/facscholar/1474/
+  volume: '35'
+
 - id: seymourNLRBFriendlyCab2008
   archive: JSTOR
   author:
@@ -29376,6 +30697,111 @@ references:
     https://polish-sociological-review.eu/-The-Inconsistent-Everyday-Legal-Consciousness-nof-Contemporary-Poles-,172987,0,2.html
   volume: '223'
 
+- id: Sklar2019
+  abstract: >-
+    Regulators of the legal profession are charged with protecting the public by
+    ensuring lawyers are fit to practice law. However, their approach tends to
+    be reactive and case based, focusing on the resolution of individual
+    complaints. Regulators generally do not seek to identify patterns and trends
+    across their broader caseloads and the legal profession as a whole. Using
+    administrative data routinely collected by the main regulator of the legal
+    profession in Victoria, Australia, we characterized complaints lodged
+    between 2005 and 2015 and the lawyers against whom they were made. We also
+    analyzed risk factors for complaints and misconduct findings. We found that
+    the odds of being subject to a complaint were higher among lawyers who were
+    male, older, had trust account authority, and whose legal practices were
+    smaller, in nonurban locations, and incorporated. A deeper understanding of
+    these risk factors could support efforts to improve professional standards
+    and reform regulatory practices.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Sklar
+      given: Tara
+    - family: Taouk
+      given: Yamna
+    - family: Studdert
+      given: David
+    - family: Spittal
+      given: Matthew
+    - family: Paterson
+      given: Ron
+    - family: Bismark
+      given: Marie
+  citation-key: Sklar2019
+  container-title: Journal of Empirical Legal Studies
+  DOI: 10.1111/jels.12216
+  ISSN: 1740-1461
+  issue: '2'
+  issued:
+    - year: 2019
+  language: en
+  license: © 2019 Cornell Law School and Wiley Periodicals, Inc.
+  page: 318-342
+  source: Wiley Online Library
+  title: >-
+    Characteristics of Lawyers Who Are Subject to Complaints and Misconduct
+    Findings
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jels.12216
+  volume: '16'
+
+- id: Sklar2020
+  abstract: >-
+    Public trust in the legal profession rests on regulators taking timely and
+    effective action in response to misconduct. Usually, case-by-case analysis
+    occurs after a claim or complaint is lodged with little attention on factors
+    that may predispose a lawyer to misconduct. Vulnerability is a useful
+    concept for understanding individuals’ susceptibility to harm and for
+    identifying safeguards to protect against that harm. This empirical study
+    adds to the largely normative research on vulnerability with an analysis of
+    67 “problem lawyers” who were the subject of multiple complaints and at
+    least one disciplinary hearing, a paid financial misconduct claim, or
+    striking from the roll in Victoria, Australia between 2005 and 2015. We
+    analysed determinations about these lawyers and identified a concatenation
+    of factors associated with legal misconduct. Personal vulnerabilities
+    included older age, male sex, poor health, and patterns of behaviour such as
+    low conscientiousness. Situational vulnerabilities included working as a
+    sole principal or in a small practice, excessive workload, and pressures
+    from relationship breakdowns, death or illness in the family, or financial
+    difficulties. These findings shed light on vulnerabilities to legal
+    misconduct, and have implications for lawyer education and well-being,
+    protection of clients, and efforts to reduce lapses in professionalism.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Sklar
+      given: Tara
+    - family: Moore
+      given: Jennifer Schulz
+    - family: Bismark
+      given: Marie
+    - family: Taouk
+      given: Yamna
+  citation-key: Sklar2020
+  container-title: International Journal of the Legal Profession
+  DOI: 10.1080/09695958.2020.1751166
+  ISSN: 0969-5958
+  issue: '3'
+  issued:
+    - year: 2020
+      month: 9
+      day: 1
+  page: 269-289
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Vulnerability to legal misconduct: a profile of problem lawyers in Victoria,
+    Australia
+  title-short: Vulnerability to legal misconduct
+  type: article-journal
+  URL: https://doi.org/10.1080/09695958.2020.1751166
+  volume: '27'
+
 - id: Skocpol1979
   abstract: >-
     State structures, international forces, and class relations: Theda Skocpol
@@ -29528,6 +30954,33 @@ references:
   title: 'A Troublemaker''s Handbook 2: How to Fight Back Where You Work and Win!'
   title-short: A Troublemaker's Handbook 2
   type: book
+
+- id: Sloan2022
+  abstract: >-
+    Attorneys have a lot to say about allowing competition from so-called
+    paraprofessionals in California.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - family: Sloan
+      given: Karen
+    - family: Sloan
+      given: Karen
+  citation-key: Sloan2022
+  container-title: Reuters
+  issued:
+    - year: 2022
+      month: 1
+      day: 19
+  language: en
+  section: Legal Industry
+  source: www.reuters.com
+  title: California plan to license nonlawyers draws heated response
+  type: article-newspaper
+  URL: >-
+    https://www.reuters.com/legal/legalindustry/california-plan-license-nonlawyers-draws-heated-response-2022-01-19/
 
 - id: sloanBasicLegalResearch2018
   abstract: >-
@@ -30093,6 +31546,33 @@ references:
   title: Sperry v. Florida ex rel. Florida Bar
   type: legal_case
   volume: '373'
+
+- id: Spiezio2020
+  abstract: >-
+    Washington's high court has voted to end the state's program that allows
+    non-lawyers trained in family law to practice law on a limited license,
+    which has been held up as an example by some advocates for relaxing rules on
+    who can practice law or share lawyer fees as a way to increase access to
+    civil legal aid for low-income Americans.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - family: Spiezio
+      given: Caroline
+  citation-key: Spiezio2020
+  container-title: Reuters
+  issued:
+    - year: 2020
+      month: 6
+      day: 8
+  language: en
+  section: Legal
+  source: www.reuters.com
+  title: Washington state to end program that gives non-lawyers limited license
+  type: article-newspaper
+  URL: https://www.reuters.com/article/idUSL1N2DL2L9/
 
 - id: Spitzer2000
   abstract: >-
@@ -31085,6 +32565,19 @@ references:
   title: Bringing the State Back In
   type: book
 
+- id: StudyRelationshipBar_nd
+  accessed:
+    - year: 2024
+      month: 2
+      day: 8
+  citation-key: StudyRelationshipBar_nd
+  title: >-
+    A Study of the Relationship Between Bar Admissions Data and Subsequent
+    Lawyer Discipline (GR 13-01) | The Law School Admission Council
+  type: webpage
+  URL: >-
+    https://www.lsac.org/data-research/research/study-relationship-between-bar-admissions-data-and-subsequent-lawyer
+
 - id: SullivanLongHagerty1991
   authority: N.L.R.B.
   citation-key: SullivanLongHagerty1991
@@ -31286,20 +32779,6 @@ references:
   title: Surrick v. Killion
   type: legal_case
   volume: '449'
-
-- id: SurveyLawyerDiscipline_nd
-  abstract: Survey on Lawyer Discipline Systems
-  accessed:
-    - year: 2023
-      month: 3
-      day: 11
-  citation-key: SurveyLawyerDiscipline_nd
-  container-title: American Bar Association
-  language: en
-  title: Survey on Lawyer Discipline Systems 2019
-  type: webpage
-  URL: >-
-    https://www.americanbar.org/groups/professional_responsibility/resources/surveyonlawyerdisciplinesystems2014/
 
 - id: Suwandi2019
   abstract: >-
@@ -31576,6 +33055,55 @@ references:
   title-short: The Privatization of Public Legal Rights
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.18
+
+- id: Tang2020
+  abstract: >-
+    This paper examines the ethical behaviour of new lawyers from two
+    contrasting points of view. First, we review the prevalence and type of
+    ethical misconduct by lawyers in the Australian state of Victoria during
+    their first three years of practice. This examination is based upon data
+    provided by the professional conduct oversight body, the Victorian Legal
+    Services Board & Commissioner. An analysis of this data provides some
+    understanding of how often and what kinds of misconduct occur, and how new
+    lawyers differ from lawyers, however the data yields limited insight into
+    how we might prevent ethical problems. Consequently, we turn to examine the
+    findings from our empirical study into the ethical climate of legal
+    workplaces. That study investigated the perceptions of new lawyers about the
+    ethical climate of their workplaces and revealed that those perceptions
+    influence new lawyers’ understandings of professionalism and ethical
+    conduct, as well as their job and career satisfaction and psychological
+    wellbeing. By interrogating the developmental and situational context in
+    which ordinary ethicality develops or is inhibited, a new opportunity
+    becomes available to shape new lawyers’ practice towards better ethical
+    outcomes.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 12
+  author:
+    - family: Tang
+      given: Stephen
+    - family: Foley
+      given: Tony
+    - family: Holmes
+      given: Vivien
+  citation-key: Tang2020
+  container-title: International Journal of the Legal Profession
+  DOI: 10.1080/09695958.2020.1765782
+  ISSN: 0969-5958
+  issue: '3'
+  issued:
+    - year: 2020
+      month: 9
+      day: 1
+  page: 245-267
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: 'Ethical misconduct by new Australian lawyers: prevalence and prevention'
+  title-short: Ethical misconduct by new Australian lawyers
+  type: article-journal
+  URL: https://doi.org/10.1080/09695958.2020.1765782
+  volume: '27'
 
 - id: tangLifeJanus2019
   abstract: >-
@@ -32946,6 +34474,14 @@ references:
   type: legal_case
   volume: '485'
 
+- id: UpsolveIncJames_nd
+  authority: S.D.N.Y.
+  citation-key: UpsolveIncJames_nd
+  jurisdiction: 011us:c2:ny.sdUnited States|US|Second Circuit|S.D. New York
+  number: 22-cv-627 (PAC)
+  title: Upsolve, Inc. v. James
+  type: legal_case
+
 - id: UtahAgGag2012
   chapter-number: '2012'
   citation-key: UtahAgGag2012
@@ -34031,6 +35567,25 @@ references:
   title-short: Our Enemies in Blue
   type: book
 
+- id: WilliamWesleyPatton2019
+  author:
+    - family: William Wesley Patton
+      given: ''
+  citation-key: WilliamWesleyPatton2019
+  container-title: St. John's Law Review
+  issue: '1'
+  issued:
+    - year: 2019
+      month: 10
+      day: 7
+  page: '43'
+  title: >-
+    A Rebuttal to Kinsler's and to Anderson and Muller's Studies on the
+    Purported Relationship Between Bar Passage Rates and Attorney Discipline
+  type: article-journal
+  URL: https://scholarship.law.stjohns.edu/lawreview/vol93/iss1/3
+  volume: '93'
+
 - id: Willis1981
   abstract: >-
     Hailed by the New Society as the "best book on male working class youth,"
@@ -34077,6 +35632,27 @@ references:
     Oversight and Resistance by Police Unions
   type: article-journal
   volume: '35'
+
+- id: Wimer_nd
+  abstract: >-
+    Rising costs make legal advice unaffordable for many Americans. Paralegals
+    in North Carolina have launched a First Amendment lawsuit to reach people
+    who need assistance.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 2
+  author:
+    - family: Wimer
+      given: Andrew
+  citation-key: Wimer_nd
+  container-title: Forbes
+  language: en
+  section: Policy
+  title: Paralegals Look To The First Amendment To Open Access To Justice
+  type: webpage
+  URL: >-
+    https://www.forbes.com/sites/instituteforjustice/2024/01/18/paralegals-look-to-the-first-amendment-to-open-access-to-justice/
 
 - id: wingfieldGettingGettingHired2020
   author:
@@ -34832,6 +36408,23 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/llj105&i=491
   volume: '105'
+
+- id: Zacharias2001
+  author:
+    - family: Zacharias
+      given: Fred
+  citation-key: Zacharias2001
+  container-title: North Carolina Law Review
+  issue: '3'
+  issued:
+    - year: 2001
+      month: 3
+      day: 1
+  page: '721'
+  title: The Professional Discipline of Prosecutors
+  type: article-journal
+  URL: https://scholarship.law.unc.edu/nclr/vol79/iss3/4
+  volume: '79'
 
 - id: zackinPopularConstitutionalismHard2014
   abstract: >-
