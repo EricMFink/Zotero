@@ -954,6 +954,19 @@ references:
   type: legal_case
   volume: '118'
 
+- id: ALDFvPecoFoodsEDArk2023
+  authority: E.D. Ark.
+  citation-key: ALDFvPecoFoodsEDArk2023
+  issued:
+    - year: 2023
+      month: 3
+      day: 31
+  jurisdiction: ED Arkansas
+  number: 4:19cv00442 JM
+  title: Animal League Defense Fund v. Peco Foods, Inc.
+  title-short: Peco Foods
+  type: legal_case
+
 - id: ALDFvReynolds2018-SDIowa
   authority: S.D. Iowa
   citation-key: ALDFvReynolds2018-SDIowa
@@ -1008,6 +1021,7 @@ references:
   container-title: F.4th
   issued:
     - year: 2021
+  jurisdiction: 002usUnited States|US
   page: '714'
   title: Animal Legal Defense Fund v. Vaught
   title-short: ALDF v. Vaught
@@ -1568,17 +1582,25 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/ylr126&i=12
   volume: '126'
 
-- id: AnimalLeagueDefense2023
-  authority: E.D. Ark.
-  citation-key: AnimalLeagueDefense2023
+- id: AnimalLegalDefense2024
+  accessed:
+    - year: 2024
+      month: 2
+      day: 19
+  authority: 8th Cir.
+  citation-key: AnimalLegalDefense2024
+  container-title: F.4th
   issued:
-    - year: 2023
-      month: 3
-      day: 31
-  jurisdiction: ED Arkansas
-  number: 4:19cv00442 JM
-  title: Animal League Defense Fund v. Peco Foods, Inc.
+    - year: 2024
+      month: 1
+      day: 8
+  jurisdiction: 005us:c8United States|US|Eighth Circuit
+  page: '1065'
+  title: Animal Legal Defense Fund v. Reynolds
   type: legal_case
+  URL: >-
+    https://scholar.google.com/scholar_case?case=1905269866144960239&q=Animal+Legal+Defense+Fund+v+Reynolds&hl=en&as_sdt=3,34
+  volume: '89'
 
 - id: animalwelfareinstitute2022
   accessed:
@@ -5088,6 +5110,21 @@ references:
     54
   type: legal_case
   volume: '468'
+
+- id: BrownKemp2023
+  authority: Court of Appeals, 7th Circuit
+  citation-key: BrownKemp2023
+  container-title: F. 4th
+  division: 7th Circuit
+  issued:
+    - year: 2023
+      month: 11
+      day: 13
+  jurisdiction: 002usUnited States|US
+  page: '745'
+  title: Brown v. Kemp
+  type: legal_case
+  volume: '86'
 
 - id: brownsteinPrivatePracticeCause2008
   author:
@@ -26769,12 +26806,14 @@ references:
   title-short: Revolt Against Regulation
   type: book
 
-- id: PetaNorthCarolina2021
+- id: PetaNorthCarolina2023
   authority: Court of Appeals, 4th Circuit
-  citation-key: PetaNorthCarolina2021
+  citation-key: PetaNorthCarolina2023
   container-title: F. 4th
   issued:
-    - literal: 'Argued: October 27, 2021'
+    - year: 2023
+      month: 2
+      day: 23
   jurisdiction: 002usUnited States|US
   page: '815'
   title: Peta v. North Carolina Farm Bureau Federation
@@ -26821,17 +26860,6 @@ references:
   title-short: Stein
   type: legal_case
   volume: '466'
-
-- id: PETAvStein2023-4thCir
-  authority: 4th Cir.
-  citation-key: PETAvStein2023-4thCir
-  issued:
-    - year: 2023
-      month: 2
-      day: 23
-  number: 20-1776
-  title: People for the Ethical Treatment of Animals v. Stein
-  type: legal_case
 
 - id: pexidrovaLackFinancialLiteracy2019
   author:
@@ -33683,6 +33711,7 @@ references:
     - year: 2020
       month: 10
       day: 20
+  jurisdiction: us
   number: 6:20-CV-06076
   page: '5878211'
   title: Timber Automation, LLC v. FiberPro, LLC
@@ -34208,6 +34237,7 @@ references:
     - year: 2017
       month: 7
       day: 10
+  jurisdiction: 002usUnited States|US
   number: 1:15-cv-893
   page: '2930926'
   title: Tucker-Auto-Mation of North Carolina, LLC v. Rutledge
