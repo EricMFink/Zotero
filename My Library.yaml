@@ -5352,6 +5352,31 @@ references:
   type: legal_case
   volume: '695'
 
+- id: Burger2020
+  accessed:
+    - year: 2024
+      month: 2
+      day: 28
+  author:
+    - family: Burger
+      given: Ethan S.
+  citation-key: Burger2020
+  container-title: St. Mary's Journal on Legal Malpractice and Ethics
+  container-title-short: St. Mary's J. on Legal Malpractice & Ethics
+  issue: '2'
+  issued:
+    - year: 2020
+    - year: 2021
+  language: eng
+  page: 234-310
+  source: HeinOnline
+  title: >-
+    Professional Responsibility, Legal Malpractice, Cybersecurity, and
+    Cyber-Insurance in the COVID-19 Era
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/smjmale11&i=231
+  volume: '11'
+
 - id: Burley2019
   abstract: >-
     As an introduction to the topic of anti-Semitism, this article brings
@@ -15059,6 +15084,18 @@ references:
   URL: https://ir.law.fsu.edu/lr/vol31/iss4/2
   volume: '31'
 
+- id: Hauptman_nd
+  author:
+    - family: Hauptman
+      given: William D
+    - family: Beckwith
+      given: Kendr A N
+  citation-key: Hauptman_nd
+  language: en
+  source: Zotero
+  title: The Duty of Competence in the New Normal
+  type: article-journal
+
 - id: hayesUnconstitutionalitySectionIi2012
   archive: JSTOR
   author:
@@ -19732,6 +19769,44 @@ references:
   URL: >-
     https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/uclalr70&id=102&men_tab=srchresults
 
+- id: Lawson2021
+  accessed:
+    - year: 2024
+      month: 2
+      day: 28
+  author:
+    - family: Lawson
+      given: Nicholas D.
+  citation-key: Lawson2021
+  container-title: Georgetown Journal of Legal Ethics
+  container-title-short: Geo. J. Legal Ethics
+  issue: '1'
+  issued:
+    - year: 2021
+  language: eng
+  page: 65-124
+  source: HeinOnline
+  title: >-
+    "To Be a Good Lawyer, One Has to Be a Healthy Lawyer": Lawyer Well-Being,
+    Discrimination, and Discretionary Systems of Discipline
+  title-short: To Be a Good Lawyer, One Has to Be a Healthy Lawyer
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/geojlege34&i=70
+  volume: '34'
+
+- id: LawyerSufferingPandemic_nd
+  accessed:
+    - year: 2024
+      month: 2
+      day: 28
+  citation-key: LawyerSufferingPandemic_nd
+  title: >-
+    Lawyer suffering from pandemic stress censured for accessing judge's
+    computer, changing clerk's time card
+  type: webpage
+  URL: >-
+    https://www.abajournal.com/news/article/lawyer-censured-for-accessing-judges-computer-changing-clerks-time-card-during-pandemic-stress
+
 - id: lazarus-blackAlternativeReadingsStatus2014
   abstract: >-
     English colonists settled Antigua [one of the Leeward Islands in the eastern
@@ -20248,6 +20323,33 @@ references:
   type: article-journal
   URL: https://digitalcommons.lib.uconn.edu/law_papers/419
   volume: '40'
+
+- id: Levin2023
+  accessed:
+    - year: 2024
+      month: 2
+      day: 28
+  author:
+    - family: Levin
+      given: Leslie C.
+    - family: Fortney
+      given: Susan Saab
+  citation-key: Levin2023
+  container-title: Georgetown Journal of Legal Ethics
+  container-title-short: Geo. J. Legal Ethics
+  issue: '2'
+  issued:
+    - year: 2023
+  language: eng
+  page: '[i]-351'
+  source: HeinOnline
+  title: >-
+    "They Don't Know What They Don't Know": A Study of Diversion in Lieu of
+    Lawyer Discipline
+  title-short: They Don't Know What They Don't Know
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/geojlege36&i=317
+  volume: '36'
 
 - id: levineFreeJusticeHistory2021
   author:
@@ -22225,6 +22327,21 @@ references:
   title: Mas v. Perry
   type: legal_case
   volume: '489'
+
+- id: Mass.BoardofBarOverseersn.d.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 28
+  author:
+    - family: Mass. Board of Bar Overseers
+      given: ''
+  citation-key: Mass.BoardofBarOverseersn.d.
+  issued:
+    - literal: n.d.
+  title: Legal Ethics During the COVID-19 Pandemic
+  type: document
+  URL: https://bbopublic.blob.core.windows.net/web/f/OBC-OGC-COVID-FAQs.pdf
 
 - id: Matheny&CrainDisloyalty2004
   author:
@@ -27197,6 +27314,32 @@ references:
   URL: http://www.jstor.org/stable/40862131
   volume: '7'
 
+- id: Platt2020
+  accessed:
+    - year: 2024
+      month: 2
+      day: 28
+  author:
+    - family: Platt
+      given: Ellen
+  citation-key: Platt2020
+  container-title: Texas Tech Law Review
+  container-title-short: Tex. Tech L. Rev.
+  issue: '4'
+  issued:
+    - year: 2020
+    - year: 2021
+  language: eng
+  page: 809-842
+  source: HeinOnline
+  title: >-
+    Zooming into a Malpractice Suit: Updating the Model Rules of Professional
+    Conduct in Response to Socially Distanced Lawyering Comments
+  title-short: Zooming into a Malpractice Suit
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/text53&i=851
+  volume: '53'
+
 - id: Poggi1978
   abstract: >-
     The institutional features and the past and future role of the state should
@@ -27863,6 +28006,17 @@ references:
   URL: >-
     https://www.elliswinters.com/trade/procedural-pitfalls-in-the-north-carolina-business-court-designation-process-the-stout-story/
 
+- id: ProfessionalResponsibilityPandemic_nd
+  accessed:
+    - year: 2024
+      month: 2
+      day: 28
+  citation-key: ProfessionalResponsibilityPandemic_nd
+  title: Professional Responsibility in a Pandemic | North Carolina State Bar
+  type: webpage
+  URL: >-
+    https://www.ncbar.gov/for-lawyers/ethics/ethics-articles/professional-responsibility-in-a-pandemic/
+
 - id: PulaskiCountyMedicalExchange2022
   authority: E.D. Ark.
   citation-key: PulaskiCountyMedicalExchange2022
@@ -28154,6 +28308,53 @@ references:
   title-short: Rainbow Management Group, Ltd.
   type: legal_case
   volume: '158'
+
+- id: RajKumar2022
+  abstract: >-
+    COVID-19 is a deadly pandemic that has impacted all walks of human life. As
+    we write this editorial, the traces of coronavirus still continue to remain
+    in the world amid many continuing human efforts to wipe them out. Although
+    the light of hope—the luminosity of freedom—is brimming on the horizon, it
+    only consoles the soul. The sigh of relief is far off. Losses caused by this
+    deadly monster have been countless—of lives, health, peace, love,
+    protection, care, and security. Everyone’s heart goes out to the other—we
+    are human, after all. But that’s not the best we can do in our fight against
+    the Pandemic. We need to battle the malady. We need to gather the fragments
+    strewn by the blow of the Pandemic and secure them from further destruction.
+    We need to renew our creative energies. We need to renew our collective
+    willing and acting.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 28
+  author:
+    - family: Raj Kumar
+      given: C.
+    - family: Sreejith
+      given: S. G.
+  citation-key: RajKumar2022
+  container-title: Legal Education and Legal Profession During and After COVID-19
+  DOI: 10.1007/978-981-19-2568-9_1
+  editor:
+    - family: Raj Kumar
+      given: C.
+    - family: Sreejith
+      given: S.G.
+  event-place: Singapore
+  ISBN: 978-981-19256-8-9
+  issued:
+    - year: 2022
+  language: en
+  page: 3-24
+  publisher: Springer Nature
+  publisher-place: Singapore
+  source: Springer Link
+  title: >-
+    Recording the New Renaissance: Legal Education and Legal Profession During
+    and After COVID-19
+  title-short: Recording the New Renaissance
+  type: chapter
+  URL: https://doi.org/10.1007/978-981-19-2568-9_1
 
 - id: randsellReportScottsboroAla1931
   author:
@@ -35093,6 +35294,32 @@ references:
   title-short: Brackin
   type: legal_case
 
+- id: Webb2022
+  accessed:
+    - year: 2024
+      month: 2
+      day: 28
+  author:
+    - family: Webb
+      given: Julia M.
+  citation-key: Webb2022
+  container-title: Georgia State University Law Review
+  container-title-short: Ga. St. U. L. Rev.
+  issue: '2'
+  issued:
+    - year: 2022
+    - year: 2023
+  language: eng
+  page: 551-604
+  source: HeinOnline
+  title: >-
+    The Lawyer's Duty of Tech Competence Post-COVID: Why Georgia Needs a New
+    Professional Rule Now - More than Ever Notes
+  title-short: The Lawyer's Duty of Tech Competence Post-COVID
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/gslr39&i=576
+  volume: '39'
+
 - id: WebbNolan1972
   authority: M.D.N.C.
   citation-key: WebbNolan1972
@@ -36533,6 +36760,31 @@ references:
   title: Zauderer v. Office of Disciplinary Counsel of Supreme Court of Ohio
   type: legal_case
   volume: '471'
+
+- id: Zavieh2023
+  accessed:
+    - year: 2024
+      month: 2
+      day: 28
+  author:
+    - family: Zavieh
+      given: Megan
+  citation-key: Zavieh2023
+  container-title: GP Solo
+  container-title-short: GPSolo
+  issue: '4'
+  issued:
+    - year: 2023
+  language: eng
+  page: 67-70
+  source: HeinOnline
+  title: >-
+    Attorney Disciplinary Cases: The Toll on Lawyer Respondents Disabilities in
+    Law and in Law Practice
+  title-short: Attorney Disciplinary Cases
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/gpsolo40&i=280
+  volume: '40'
 
 - id: zernerGreenLensConstruction2014
   abstract: >-
