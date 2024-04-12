@@ -2500,6 +2500,32 @@ references:
     https://www-jstor-org.ezproxy.elon.edu/stable/10.1086/673530?seq=1#metadata_info_tab_contents
   volume: '43'
 
+- id: BalaComUnemployment1979
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: Commonwealth Court
+  citation-key: BalaComUnemployment1979
+  container-title: Pa.Cmwlth.
+  issued:
+    - year: 1979
+      month: 5
+      day: 8
+  jurisdiction: 005us:paUnited States|US|Pennsylvania
+  page: '487'
+  submitted:
+    date-parts:
+      - - '1979'
+        - 5
+        - 8
+  title: Bala v. Com., Unemployment Compensation Bd. of Review
+  title-short: Bala
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:42%20Pa.Cmwlth.%20487#autoLogin
+  volume: '42'
+
 - id: balibarPoliticsDebt2013
   author:
     - family: Balibar
@@ -6331,6 +6357,20 @@ references:
   type: post-weblog
   URL: https://lpeblog.org/2019/10/02/the-market-does-not-bind-us/
 
+- id: CavanaughDoherty1998
+  authority: Appellate Division of the Supreme Court
+  citation-key: CavanaughDoherty1998
+  container-title: AD 2d
+  issued:
+    - year: 1998
+      month: 6
+      day: 4
+  jurisdiction: NY
+  page: '92'
+  title: Cavanaugh v. Doherty
+  type: legal_case
+  volume: '243'
+
 - id: CelotexCorpCatrett1986
   authority: supreme.court
   citation-key: CelotexCorpCatrett1986
@@ -9534,6 +9574,18 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/1073394
   volume: '78'
+
+- id: EmploymentDivDept1990
+  authority: Supreme Court
+  citation-key: EmploymentDivDept1990
+  container-title: US
+  issued:
+    - year: 1990
+  jurisdiction: 002usUnited States|US
+  page: '872'
+  title: Employment Div., Dept. of Human Resources of Ore. v. Smith
+  type: legal_case
+  volume: '494'
 
 - id: engelLandscapesLawInjury2014
   abstract: >-
@@ -12921,6 +12973,85 @@ references:
   title-short: Marginal Workers
   type: book
 
+- id: Garden_nd
+  abstract: >-
+    Charlotte Garden, Seattle University School of Law
+
+
+    “At-will” employment is sometimes shorthanded as employers’ rights to fire
+    employees (and employees’ right to quit) for a bad or arbitrary reason, or
+    for no reason at all. [togglable text="expand abstract"] Among the bad or
+    arbitrary reasons that employers sometimes fire workers: something the
+    worker said, or something they didn’t say. Employees have been fired, often
+    without legal recourse, for criticizing their companies on social media, for
+    running for office, or even for having a bumper sticker supporting a
+    political candidate whose election the boss opposes. The freedom of speech
+    that so many Americans valorize is in practical effect illusory for many
+    American workers.
+
+
+    This report traces the legal rules governing freedom of speech at work.
+    Following a summary that emphasizes the scope of the problem and gives
+    examples, it begins by discussing the background rules of at-will
+    employment, which establish that employers may generally terminate workers
+    for what they say. This rule has its limits---for example, employers may not
+    fire workers in contravention of a state’s explicit public policy---but
+    judges tend to apply these exceptions in a patchy and inconsistent fashion.
+    Further, because the First Amendment does not constrain private actors,
+    private-sector workers cannot fall back on the constitution at all; even
+    public-sector employers are often free to fire or discipline workers for
+    their speech.
+
+
+    Beyond common law rules, the report also discusses federal, state, and local
+    statutes that protect certain types of employee speech. These laws tend to
+    apply only to specific subjects and manners of expression. For example, the
+    National Labor Relations Act protects employees’ conversations about their
+    working conditions---but only as long as those conversations occur at the
+    right time, in the right place, and in the right manner. For example, among
+    other limits, the NLRA protects only those conversations or meetings that
+    occur during “nonwork time,” and the Trump NLRB has recently held that the
+    NLRA does not protect employees’ use of their work-issued email addresses.
+    Likewise, some states and localities forbid employers from retaliating
+    against employees for their political views. But each of those laws has
+    serious limitations in coverage, enforcement, or both. Worse, employers
+    sometimes challenge even limited protections for workers’ expression on the
+    grounds that those protections violate the employer’s own rights under the
+    First Amendment.
+
+
+    Finally, some workers have meaningful contractual protections that curb the
+    effects of the at-will doctrine, including as it applies to their speech and
+    expression. But workers cannot achieve these protections without either
+    individual or collective power, both of which have eroded for many workers
+    over the last 80 years. The result is that one real source of protection for
+    workers who speak out---collective bargaining agreements in which employers
+    agree to discipline or fire workers only for good cause---are increasingly
+    out of reach, especially for private-sector workers.
+
+
+    This&nbsp;report aims to help readers understand the legal landscape that
+    effectuates the&nbsp;“freedom of speech” at&nbsp;work. It shows how
+    employers have come to monopolize&nbsp;that freedom for themselves, and why
+    workers&nbsp;experience speech control instead&nbsp;of speech freedom.
+
+
+    [/togglable]
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  author:
+    - family: Garden
+      given: Charlotte
+  citation-key: Garden_nd
+  container-title: Economic Policy Institute
+  language: en-US
+  title: 'Was it something I said?: Legal protections for employee speech'
+  title-short: Was it something I said?
+  type: webpage
+  URL: https://www.epi.org/unequalpower/publications/free-speech-in-the-workplace/
+
 - id: Garden2018
   author:
     - family: Garden
@@ -13307,6 +13438,32 @@ references:
   title-short: The Nation-State and Violence
   type: book
 
+- id: GilbertFlandreauSantee2006
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: supreme.court
+  citation-key: GilbertFlandreauSantee2006
+  container-title: N.W.2d
+  issued:
+    - year: 2006
+      month: 11
+      day: 29
+  jurisdiction: 005us:sdUnited States|US|South Dakota
+  page: '249'
+  submitted:
+    date-parts:
+      - - '2006'
+        - 11
+        - 29
+  title: Gilbert v. Flandreau Santee Sioux Tribe
+  title-short: Gilbert
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:725%20N.W.2d%20249#autoLogin
+  volume: '725'
+
 - id: Gilmore2017
   abstract: >-
     Jailhouse lawyers provide an important legal service to other inmates. A
@@ -13627,6 +13784,26 @@ references:
     - family: Zuckerman
       given: Marvin S.
   type: book
+
+- id: Goldstein2024
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  author:
+    - family: Goldstein
+      given: Joseph
+  citation-key: Goldstein2024
+  container-title: The New York Times
+  issued:
+    - year: 2024
+      month: 2
+      day: 1
+  page: '17'
+  section: A
+  title: NYU Removed 2 Doctors Over Israel-Hamas Posts. Then Their Fates Diverged
+  type: article-newspaper
+  URL: https://www.nytimes.com/2024/02/01/nyregion/nyu-langone-israel-firing.html
 
 - id: goluboffLostPromiseCivil2007
   abstract: >-
@@ -14291,6 +14468,96 @@ references:
   title-short: The Legal Process and the Promise of Justice
   type: book
 
+- id: GregoLevine1974
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: GregoLevine1974
+  container-title: A.D.2d
+  issued:
+    - year: 1974
+      month: 12
+      day: 18
+  jurisdiction: 005us:nyUnited States|US|New York
+  page: '253'
+  submitted:
+    date-parts:
+      - - '1974'
+        - 12
+        - 18
+  title: De Grego v. Levine
+  title-short: De Grego
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:46%20A.D.2d%20253#autoLogin
+  volume: '46'
+
+- id: GriffinGarrison2011
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  archive: WL
+  archive_location: '111882'
+  authority: district.court
+  citation-key: GriffinGarrison2011
+  collection-number: '2011'
+  issued:
+    - year: 2011
+      month: 1
+      day: 13
+  jurisdiction: 010us:c1:nh.dUnited States|US|First Circuit|D. New Hampshire
+  submitted:
+    date-parts:
+      - - '2011'
+        - 1
+        - 13
+  title: Griffin v. Garrison
+  title-short: Griffin
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:2011%20WL%20111882#autoLogin
+
+- id: GriffinNewHampshire2009
+  authority: District Court
+  citation-key: GriffinNewHampshire2009
+  issued:
+    - year: 2009
+      month: 10
+      day: 2
+  jurisdiction: D. New Hampshire
+  number: Civil No. 09-cv-00250-SM
+  title: Griffin v. New Hampshire Department of Employment Security
+  type: legal_case
+
+- id: GriffinNewHampshire2009a
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  archive: WL
+  archive_location: '3837658'
+  authority: district.court
+  citation-key: GriffinNewHampshire2009a
+  collection-number: '2009'
+  issued:
+    - year: 2009
+      month: 11
+      day: 16
+  jurisdiction: 010us:c1:nh.dUnited States|US|First Circuit|D. New Hampshire
+  submitted:
+    date-parts:
+      - - '2009'
+        - 11
+        - 16
+  title: Griffin v. New Hampshire Dept. of Employment Sec.
+  title-short: Griffin
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:2009%20WL%203837658#autoLogin
+
 - id: griffithWorkerCentersLabor2015
   author:
     - family: Griffith
@@ -14445,6 +14712,32 @@ references:
   publisher: distributed in the U.S.A. by Pathﬁnder Press]
   title: 100 Years of Labor in the USA
   type: book
+
+- id: GunnCityNew2019
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: GunnCityNew2019
+  container-title: A.D.3d
+  issued:
+    - year: 2019
+      month: 5
+      day: 30
+  jurisdiction: 005us:nyUnited States|US|New York
+  page: '1865'
+  submitted:
+    date-parts:
+      - - '2019'
+        - 5
+        - 30
+  title: Gunn v. City of New York
+  title-short: Gunn
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:172%20A.D.3d%201865#autoLogin
+  volume: '172'
 
 - id: Gupta2011
   author:
@@ -15835,6 +16128,32 @@ references:
   type: webpage
   URL: http://www.cadtm.org/History-of-the-CADTM-Anti-Debt
 
+- id: HobbieUnemploymentAppeals1987
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: supreme.court
+  citation-key: HobbieUnemploymentAppeals1987
+  container-title: U.S.
+  issued:
+    - year: 1987
+      month: 2
+      day: 25
+  jurisdiction: 002usUnited States|US
+  page: '136'
+  submitted:
+    date-parts:
+      - - '1987'
+        - 2
+        - 25
+  title: Hobbie v. Unemployment Appeals Com'n of Florida
+  title-short: Hobbie
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:480%20U.S.%20136#autoLogin
+  volume: '480'
+
 - id: Hobsbawm1992
   abstract: >-
     Eric Hobsbawm's brilliant enquiry into the question of nationalism won
@@ -16316,6 +16635,31 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/40583649
   volume: '81'
+
+- id: InReCummings2010
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: InReCummings2010
+  container-title: A.D.3d
+  issued:
+    - year: 2010
+      month: 1
+      day: 14
+  jurisdiction: 005us:nyUnited States|US|New York
+  page: '1088'
+  submitted:
+    date-parts:
+      - - '2010'
+        - 1
+        - 14
+  title: In re Cummings
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:69%20A.D.3d%201088#autoLogin
+  volume: '69'
 
 - id: InternationalLongshoremenAss1986
   authority: U.S.
@@ -18423,6 +18767,32 @@ references:
   type: legal_case
   volume: '299'
 
+- id: KingCaliforniaUnemployment1972
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: Court of Appeal
+  citation-key: KingCaliforniaUnemployment1972
+  container-title: Cal.App.3d
+  issued:
+    - year: 1972
+      month: 4
+      day: 27
+  jurisdiction: 005us:caUnited States|US|California
+  page: '199'
+  submitted:
+    date-parts:
+      - - '1972'
+        - 4
+        - 27
+  title: King v. California Unemployment Ins. Appeals Bd.
+  title-short: King
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:25%20Cal.App.3d%20199#autoLogin
+  volume: '25'
+
 - id: KingWhitmer2021
   authority: E.D. Mich.
   citation-key: KingWhitmer2021
@@ -19737,6 +20107,32 @@ references:
   URL: http://www.jstor.org/stable/828067
   volume: '4'
 
+- id: LavelleHaydenEmploymentDepartment2023
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: court.appeals
+  citation-key: LavelleHaydenEmploymentDepartment2023
+  container-title: Or.App.
+  issued:
+    - year: 2023
+      month: 6
+      day: 22
+  jurisdiction: 005us:orUnited States|US|Oregon
+  page: '490'
+  submitted:
+    date-parts:
+      - - '2023'
+        - 6
+        - 22
+  title: Lavelle-Hayden v. Employment Department
+  title-short: Lavelle-Hayden
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:326%20Or.App.%20490#autoLogin
+  volume: '326'
+
 - id: Law2013
   abstract: >-
     While it is possible to define ANT in a series of abstract bullet points to
@@ -20164,6 +20560,32 @@ references:
     Chicago
   title-short: The Origins of Right to Work
   type: book
+
+- id: LesterButler2015
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: court.appeals
+  citation-key: LesterButler2015
+  container-title: Ga.App.
+  issued:
+    - year: 2015
+      month: 3
+      day: 17
+  jurisdiction: 005us:gaUnited States|US|Georgia
+  page: '223'
+  submitted:
+    date-parts:
+      - - '2015'
+        - 3
+        - 17
+  title: Lester v. Butler
+  title-short: Lester
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:331%20Ga.App.%20223#autoLogin
+  volume: '331'
 
 - id: lesterRestrictiveCovenantsEmployee2001
   author:
@@ -23583,6 +24005,32 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.27
 
+- id: MessinaIowaDept1983
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: supreme.court
+  citation-key: MessinaIowaDept1983
+  container-title: N.W.2d
+  issued:
+    - year: 1983
+      month: 11
+      day: 23
+  jurisdiction: 005us:iaUnited States|US|Iowa
+  page: '52'
+  submitted:
+    date-parts:
+      - - '1983'
+        - 11
+        - 23
+  title: Messina v. Iowa Dept. of Job Service
+  title-short: Messina
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:341%20N.W.2d%2052#autoLogin
+  volume: '341'
+
 - id: metchickYeshivaFacultyUnionization2004
   abstract: >-
     It has been over two decades since the United States Supreme Court handed
@@ -24032,6 +24480,22 @@ references:
   title-short: Capitalism, Alone
   type: book
 
+- id: Miles_nd
+  abstract: A labor and employment law blog covering federal and Pennsylvania law.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  author:
+    - family: Miles
+      given: Philip K.
+  citation-key: Miles_nd
+  language: en
+  title: First Amendment (SPEECH) Unemployment Compensation
+  type: post-weblog
+  URL: >-
+    https://www.lawfficespace.com/2009/12/first-amendment-speech-unemployment.html
+
 - id: Miliband2009
   abstract: >-
     Presenting a sustained and concrete challenge to the current political
@@ -24205,6 +24669,32 @@ references:
   title: Miller Plastic Products, Inc.
   type: legal_case
   volume: '372'
+
+- id: MillerReviewBd1982
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: court.appeals
+  citation-key: MillerReviewBd1982
+  container-title: N.E.2d
+  issued:
+    - year: 1982
+      month: 6
+      day: 15
+  jurisdiction: 005us:inUnited States|US|Indiana
+  page: '804'
+  submitted:
+    date-parts:
+      - - '1982'
+        - 6
+        - 15
+  title: Miller v. Review Bd. of Indiana Employment Sec. Div.
+  title-short: Miller
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:436%20N.E.2d%20804#autoLogin
+  volume: '436'
 
 - id: Mills2000
   abstract: >-
@@ -25864,6 +26354,53 @@ references:
   URL: >-
     https://news.bloomberglaw.com/business-and-practice/by-the-numbers-10-states-allowed-non-lawyers-to-offer-services
 
+- id: NYLaborLaw201d
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  citation-key: NYLaborLaw201d
+  container-title: McKinndey's Labor Law
+  jurisdiction: 005us:nyUnited States|US|New York
+  publication-date:
+    date-parts:
+      - - '2023'
+        - 9
+        - 6
+  section: § 201-d
+  title: Discrimination against the engagement in certain activities
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
+
+- id: NYLaborLaw500
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  citation-key: NYLaborLaw500
+  container-title: McKinney's Labor Law
+  jurisdiction: 005us:nyUnited States|US|New York
+  section: § 500 et seq.
+  title: Unemployment Insurance Law
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+
+- id: NYLaborLaw593
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  citation-key: NYLaborLaw593
+  container-title: McKinney's Labor Law
+  jurisdiction: 005us:nyUnited States|US|New York
+  section: § 593
+  title: Disqualification for benefits
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+
 - id: nysMontanaWrongfulDischarge1990
   author:
     - family: Nys
@@ -26407,6 +26944,22 @@ references:
   title: Our Legal Deserts | North Carolina Advocates for Justice
   type: webpage
   URL: https://www.ncaj.com/news/our-legal-deserts
+
+- id: OverviewUnconstitutionalConditions_nd
+  abstract: >-
+    An annotation about the First Amendment of the Constitution of the United
+    States.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  citation-key: OverviewUnconstitutionalConditions_nd
+  language: en
+  title: >-
+    Overview of Unconstitutional Conditions Doctrine | Constitution Annotated |
+    Congress.gov | Library of Congress
+  type: webpage
+  URL: https://constitution.congress.gov/browse/essay/amdt1-7-13-1/ALDE_00000771/
 
 - id: Oyer2011
   abstract: >-
@@ -28449,6 +29002,31 @@ references:
   URL: https://www.jstor.org/stable/24718405
   volume: '22'
 
+- id: ReEngel2013
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: ReEngel2013
+  container-title: A.D.3d
+  issued:
+    - year: 2013
+      month: 5
+      day: 16
+  jurisdiction: 005us:nyUnited States|US|New York
+  page: '1318'
+  submitted:
+    date-parts:
+      - - '2013'
+        - 5
+        - 16
+  title: In re Engel
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:106%20A.D.3d%201318#autoLogin
+  volume: '106'
+
 - id: ReeseCharlottemecklenburgBd2009
   authority: N.C.App.
   citation-key: ReeseCharlottemecklenburgBd2009
@@ -28548,6 +29126,31 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/montlr56&i=591
   volume: '56'
 
+- id: ReHall2016
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: ReHall2016
+  container-title: A.D.3d
+  issued:
+    - year: 2016
+      month: 5
+      day: 12
+  jurisdiction: 005us:nyUnited States|US|New York
+  page: '1229'
+  submitted:
+    date-parts:
+      - - '2016'
+        - 5
+        - 12
+  title: In re Hall
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:139%20A.D.3d%201229#autoLogin
+  volume: '139'
+
 - id: reidCombatingEnemyRegulating2018
   author:
     - family: Reid
@@ -28580,6 +29183,81 @@ references:
   publisher: Cambridge University Press Cambridge
   title: 'The Blue-Coated Worker: A Sociological Study of Police Unionism'
   type: book
+
+- id: ReKessler2001
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: ReKessler2001
+  container-title: A.D.2d
+  issued:
+    - year: 2001
+      month: 9
+      day: 27
+  jurisdiction: 005us:nyUnited States|US|New York
+  page: '844'
+  submitted:
+    date-parts:
+      - - '2001'
+        - 9
+        - 27
+  title: In re Kessler
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:286%20A.D.2d%20844#autoLogin
+  volume: '286'
+
+- id: ReMoniz2015
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: ReMoniz2015
+  container-title: A.D.3d
+  issued:
+    - year: 2015
+      month: 3
+      day: 26
+  jurisdiction: 005us:nyUnited States|US|New York
+  page: '1251'
+  submitted:
+    date-parts:
+      - - '2015'
+        - 3
+        - 26
+  title: In re Moniz
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:126%20A.D.3d%201251#autoLogin
+  volume: '126'
+
+- id: ReRoy2016
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: ReRoy2016
+  container-title: A.D.3d
+  issued:
+    - year: 2016
+      month: 4
+      day: 14
+  jurisdiction: 005us:nyUnited States|US|New York
+  page: '1284'
+  submitted:
+    date-parts:
+      - - '2016'
+        - 4
+        - 14
+  title: In re Roy
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:138%20A.D.3d%201284#autoLogin
+  volume: '138'
 
 - id: Research1998
   author:
@@ -28705,6 +29383,56 @@ references:
   title-short: Retail Property Trust
   type: legal_case
   volume: '768'
+
+- id: ReValvo2016
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: ReValvo2016
+  container-title: A.D.3d
+  issued:
+    - year: 2016
+      month: 6
+      day: 23
+  jurisdiction: 005us:nyUnited States|US|New York
+  page: '1520'
+  submitted:
+    date-parts:
+      - - '2016'
+        - 6
+        - 23
+  title: In re Valvo
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:140%20A.D.3d%201520#autoLogin
+  volume: '140'
+
+- id: ReVetro2012
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: Appellate Division of the Supreme Court
+  citation-key: ReVetro2012
+  container-title: A.D.3d
+  issued:
+    - year: 2012
+      month: 4
+      day: 19
+  jurisdiction: 005us:nyUnited States|US|New York
+  page: '1321'
+  submitted:
+    date-parts:
+      - - '2012'
+        - 4
+        - 19
+  title: In re Vetro
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:94%20A.D.3d%201321#autoLogin
+  volume: '94'
 
 - id: rhoadesAcademicCapitalismSecondary2015
   abstract: >-
@@ -30665,6 +31393,32 @@ references:
   page: '20'
   title: Black Lives Matter Facing Growing Smear Campaign
   type: article-journal
+
+- id: SherbertVerner1963
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: supreme.court
+  citation-key: SherbertVerner1963
+  container-title: U.S.
+  issued:
+    - year: 1963
+      month: 6
+      day: 17
+  jurisdiction: 002usUnited States|US
+  page: '398'
+  submitted:
+    date-parts:
+      - - '1963'
+        - 6
+        - 17
+  title: Sherbert v. Verner
+  title-short: Sherbert
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:374%20U.S.%20398#autoLogin
+  volume: '374'
 
 - id: Shillman2000
   authority: 6th Cir.
@@ -33791,6 +34545,32 @@ references:
   URL: >-
     https://www.dissentmagazine.org/online_articles/there-is-power-in-a-debtors-union
 
+- id: ThomasReviewBd1981
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: supreme.court
+  citation-key: ThomasReviewBd1981
+  container-title: U.S.
+  issued:
+    - year: 1981
+      month: 4
+      day: 6
+  jurisdiction: 002usUnited States|US
+  page: '707'
+  submitted:
+    date-parts:
+      - - '1981'
+        - 4
+        - 6
+  title: Thomas v. Review Bd. of Indiana Employment Sec. Division
+  title-short: Thomas
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:450%20U.S.%20707#autoLogin
+  volume: '450'
+
 - id: thompsonWorkingDockBay2018
   abstract: >-
     Working on the Dock of the Bay explores the history of waterfront labor and
@@ -34730,6 +35510,32 @@ references:
   title: United Services Auto. Ass'n v. Simpson
   type: legal_case
   volume: '485'
+
+- id: UniversalFoundryCo1979
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: supreme.court
+  citation-key: UniversalFoundryCo1979
+  container-title: Wis.2d
+  issued:
+    - year: 1979
+      month: 1
+      day: 9
+  jurisdiction: 005us:wiUnited States|US|Wisconsin
+  page: '582'
+  submitted:
+    date-parts:
+      - - '1979'
+        - 1
+        - 9
+  title: Universal Foundry Co. v. Department of Industry, Labor and Human Relations
+  title-short: Universal Foundry
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:86%20Wis.2d%20582#autoLogin
+  volume: '86'
 
 - id: UpsolveIncJames_nd
   authority: S.D.N.Y.
