@@ -3868,19 +3868,6 @@ references:
     https://read.dukeupress.edu/public-culture/article/31/1/69/137316/Banana-BrokersCommunicative-Labor-Translocal
   volume: '31'
 
-- id: CanPrivateEmployees_nd
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  citation-key: CanPrivateEmployees_nd
-  title: >-
-    Can Private Employees Be Fired for Out-of-Office Political Speech? - New
-    York State Bar Association
-  type: webpage
-  URL: >-
-    https://nysba.org/can-private-employees-be-fired-for-out-of-office-political-speech/#_ednref17
-
 - id: cantrellSensationalReportsEthical2007
   author:
     - family: Cantrell
@@ -4149,13 +4136,12 @@ references:
 - id: CavanaughDoherty1998
   authority: Appellate Division of the Supreme Court
   citation-key: CavanaughDoherty1998
+  container-title: AD2d
   issued:
     - year: 1998
       month: 6
       day: 4
-  note: >-
-    mlzsync1:0087{"extrafields":{"jurisdiction":"005us:nyUnited States|US|New
-    York","reporter":"AD 2d"}}Jurisdiction: NY
+  jurisdiction: NY
   page: '92'
   title: Cavanaugh v. Doherty
   type: legal_case
@@ -4816,6 +4802,26 @@ references:
   title-short: The Modern State
   type: book
 
+- id: Cummings2010
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: NY App. Div.
+  citation-key: Cummings2010
+  container-title: AD3d
+  issued:
+    - year: 2010
+      month: 1
+      day: 14
+  jurisdiction: NY App. Div.
+  page: '1088'
+  title: Matter of Cummings
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:69%20A.D.3d%201088#autoLogin
+  volume: '69'
+
 - id: cummingsHemmedLegalMobilization2009
   author:
     - family: Cummings
@@ -5181,9 +5187,9 @@ references:
     - year: 1974
       month: 12
       day: 18
-  jurisdiction: NY
+  jurisdiction: NY App. Div.
   page: '253'
-  title: Matter of De Grego
+  title: Matter of DeGrego
   title-short: De Grego
   type: legal_case
   URL: >-
@@ -5191,7 +5197,7 @@ references:
   volume: '46'
 
 - id: DeGrego1976
-  authority: Court of Appeals
+  authority: NY
   citation-key: DeGrego1976
   container-title: NY 2d
   issued:
@@ -5882,19 +5888,6 @@ references:
   URL: >-
     https://cap-press.com/books/isbn/9781531013011/Understanding-Labor-Law-Fifth-Edition
 
-- id: DoxxingCampaignsAre_nd
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  citation-key: DoxxingCampaignsAre_nd
-  title: >-
-    Doxxing campaigns are a cancel culture tool. What happens after they end? :
-    NPR
-  type: webpage
-  URL: >-
-    https://www.npr.org/2024/04/11/1231084790/israel-kidnapped-posters-tore-down-doxxed
-
 - id: DreamingDumplingsCamps_nd
   abstract: >-
     At age 91, veteran writer and translator Ruth Bondy is publishing a book
@@ -6379,9 +6372,7 @@ references:
   container-title: US
   issued:
     - year: 1990
-  note: >-
-    mlzsync1:0072{"extrafields":{"jurisdiction":"002usUnited
-    States|US","reporter":"US"}}Citation Key: EmploymentDivDept1990
+  jurisdiction: US
   page: '872'
   title: Employment Div., Dept. of Human Resources of Ore. v. Smith
   type: legal_case
@@ -7377,6 +7368,20 @@ references:
   title: Disloyalty! Does Jefferson Standard Stalk Still?
   type: article-journal
   volume: '28'
+
+- id: FinoMdEmp1959
+  authority: Court of Appeals
+  citation-key: FinoMdEmp1959
+  container-title: A. 2d
+  issued:
+    - year: 1959
+      month: 1
+      day: 19
+  jurisdiction: Md
+  page: '738'
+  title: Fino v. Md. Emp. Security Bd.
+  type: legal_case
+  volume: '147'
 
 - id: FirebirdStructuresLLC2017
   authority: D.N.M.
@@ -8423,6 +8428,18 @@ references:
     https://www.cambridge.org/core/product/identifier/S0147547900001101/type/journal_article
   volume: '40'
 
+- id: FrigmUnempComp1994
+  authority: Commonwealth Court
+  citation-key: FrigmUnempComp1994
+  container-title: A. 2d
+  issued:
+    - literal: May24, 1994
+  jurisdiction: Pa
+  page: '629'
+  title: Frigm v. Unemp. Comp. Bd. of Review
+  type: legal_case
+  volume: '642'
+
 - id: frohmanConvictabilityDiscordantLocales2014
   abstract: >-
     What categories do prosecutors use to assess sexual assault cases? What are
@@ -8717,7 +8734,25 @@ references:
   title-short: Marginal Workers
   type: book
 
-- id: Garden_nd
+- id: Garden2018
+  author:
+    - family: Garden
+      given: Charlotte
+  citation-key: Garden2018
+  container-title: Saint Louis University Law Journal
+  container-title-short: St. Louis U. L.J.
+  issue: '1'
+  issued:
+    - year: 2018
+  page: '55'
+  title: >-
+    Labor Organizing in the Age of Surveillance Symposium: Law, Technology, and
+    the Organization of Work
+  title-short: Labor Organizing in the Age of Surveillance Symposium
+  type: article-journal
+  volume: '63'
+
+- id: Garden2022
   abstract: >-
     Charlotte Garden, Seattle University School of Law
 
@@ -8788,31 +8823,17 @@ references:
   author:
     - family: Garden
       given: Charlotte
-  citation-key: Garden_nd
+  citation-key: Garden2022
   container-title: Economic Policy Institute
+  issued:
+    - year: 2022
+      month: 5
+      day: 5
   language: en-US
   title: 'Was it something I said?: Legal protections for employee speech'
   title-short: Was it something I said?
   type: webpage
   URL: https://www.epi.org/unequalpower/publications/free-speech-in-the-workplace/
-
-- id: Garden2018
-  author:
-    - family: Garden
-      given: Charlotte
-  citation-key: Garden2018
-  container-title: Saint Louis University Law Journal
-  container-title-short: St. Louis U. L.J.
-  issue: '1'
-  issued:
-    - year: 2018
-  page: '55'
-  title: >-
-    Labor Organizing in the Age of Surveillance Symposium: Law, Technology, and
-    the Organization of Work
-  title-short: Labor Organizing in the Age of Surveillance Symposium
-  type: article-journal
-  volume: '63'
 
 - id: Garmon1959
   authority: U.S.
@@ -9135,6 +9156,18 @@ references:
     Historical Materialism
   title-short: The Nation-State and Violence
   type: book
+
+- id: GieseEmploymentDivision1976
+  authority: Court of Appeals
+  citation-key: GieseEmploymentDivision1976
+  container-title: P. 2d
+  issued:
+    - year: 1976
+  jurisdiction: Or
+  page: '1354'
+  title: Giese v. Employment Division
+  type: legal_case
+  volume: '557'
 
 - id: GilbertFlandreauSantee2006
   accessed:
@@ -9834,7 +9867,7 @@ references:
     - year: 2011
       month: 1
       day: 13
-  jurisdiction: US
+  jurisdiction: D.N.H.
   page: '111882'
   title: Griffin v. Garrison
   title-short: Griffin
@@ -9851,7 +9884,7 @@ references:
     - year: 2009
       month: 10
       day: 2
-  jurisdiction: US
+  jurisdiction: D.N.H.
   number: Civil No. 09-cv-00250-SM
   page: '3213438'
   title: Griffin v. New Hampshire Department of Employment Security
@@ -9869,8 +9902,8 @@ references:
     - year: 2009
       month: 11
       day: 16
-  jurisdiction: US
-  title: Griffin v. New Hampshire Dept. of Employment Sec.
+  jurisdiction: DNH
+  title: Griffin v. New Hampshire Department of Employment Security
   title-short: Griffin
   type: legal_case
   URL: >-
@@ -10029,29 +10062,6 @@ references:
   publisher: distributed in the U.S.A. by Pathﬁnder Press]
   title: 100 Years of Labor in the USA
   type: book
-
-- id: GunnCityNew2019
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: appellate.division.supreme.court
-  citation-key: GunnCityNew2019
-  issued:
-    - year: 2019
-      month: 5
-      day: 30
-  note: >-
-    mlzsync1:0116{"extrafields":{"jurisdiction":"005us:nyUnited States|US|New
-    York","reporter":"A.D.3d","filingDate":"May 30, 2019"}}Citation Key:
-    GunnCityNew2019
-  page: '1865'
-  title: Gunn v. City of New York
-  title-short: Gunn
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:172%20A.D.3d%201865#autoLogin
-  volume: '172'
 
 - id: Gurr1968
   author:
@@ -11046,16 +11056,14 @@ references:
     - year: 2024
       month: 4
       day: 12
-  authority: supreme.court
+  authority: US
   citation-key: HobbieUnemploymentAppeals1987
+  container-title: US
   issued:
     - year: 1987
       month: 2
       day: 25
-  note: >-
-    mlzsync1:0107{"extrafields":{"jurisdiction":"002usUnited
-    States|US","reporter":"U.S.","filingDate":"February 25, 1987"}}Citation Key:
-    HobbieUnemploymentAppeals1987
+  jurisdiction: US
   page: '136'
   title: Hobbie v. Unemployment Appeals Com'n of Florida
   title-short: Hobbie
@@ -12754,6 +12762,27 @@ references:
   title-short: Women Have Always Worked
   type: book
 
+- id: Khurana2024
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  author:
+    - family: Khurana
+      given: Mansee
+  citation-key: Khurana2024
+  container-title: npr.org
+  issued:
+    - year: 2024
+      month: 4
+      day: 11
+  title: >-
+    Doxxing campaigns are a cancel culture tool. What happens after they end? :
+    NPR
+  type: webpage
+  URL: >-
+    https://www.npr.org/2024/04/11/1231084790/israel-kidnapped-posters-tore-down-doxxed
+
 - id: Kieval2012
   abstract: >-
     During the last three decades of the nineteenth century Czech nationalist
@@ -12817,16 +12846,14 @@ references:
     - year: 2024
       month: 4
       day: 12
-  authority: Court of Appeal
+  authority: Cal. App.
   citation-key: KingCaliforniaUnemployment1972
+  container-title: Cal.App.3d
   issued:
     - year: 1972
       month: 4
       day: 27
-  note: >-
-    mlzsync1:0124{"extrafields":{"jurisdiction":"005us:caUnited
-    States|US|California","reporter":"Cal.App.3d","filingDate":"April 27,
-    1972"}}Citation Key: KingCaliforniaUnemployment1972
+  jurisdiction: Cal. App.
   page: '199'
   title: King v. California Unemployment Ins. Appeals Bd.
   title-short: King
@@ -13441,16 +13468,14 @@ references:
     - year: 2024
       month: 4
       day: 12
-  authority: court.appeals
+  authority: Or. App.
   citation-key: LavelleHaydenEmploymentDepartment2023
+  container-title: Or. App.
   issued:
     - year: 2023
       month: 6
       day: 22
-  note: >-
-    mlzsync1:0116{"extrafields":{"jurisdiction":"005us:orUnited
-    States|US|Oregon","reporter":"Or.App.","filingDate":"June 22,
-    2023"}}Citation Key: LavelleHaydenEmploymentDepartment2023
+  jurisdiction: Or. App.
   page: '490'
   title: Lavelle-Hayden v. Employment Department
   title-short: Lavelle-Hayden
@@ -13682,16 +13707,14 @@ references:
     - year: 2024
       month: 4
       day: 12
-  authority: court.appeals
+  authority: Ga. App.
   citation-key: LesterButler2015
+  container-title: Ga. App.
   issued:
     - year: 2015
       month: 3
       day: 17
-  note: >-
-    mlzsync1:0118{"extrafields":{"jurisdiction":"005us:gaUnited
-    States|US|Georgia","reporter":"Ga.App.","filingDate":"March 17,
-    2015"}}Citation Key: LesterButler2015
+  jurisdiction: Ga. App.
   page: '223'
   title: Lester v. Butler
   title-short: Lester
@@ -15273,6 +15296,27 @@ references:
   type: article-journal
   URL: https://digitalcommons.law.buffalo.edu/book_sections/301
 
+- id: MatterGunn2019
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: MatterGunn2019
+  container-title: AD3d
+  issued:
+    - year: 2019
+      month: 5
+      day: 30
+  jurisdiction: NY App. Div.
+  page: '1865'
+  title: Matter of Gunn
+  title-short: Gunn
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:172%20A.D.3d%201865#autoLogin
+  volume: '172'
+
 - id: Mauss1972
   author:
     - family: Mauss
@@ -16032,7 +16076,7 @@ references:
     - year: 2024
       month: 4
       day: 12
-  authority: Supreme Court
+  authority: Iowa
   citation-key: MessinaIowaDept1983
   container-title: N.W.2d
   issued:
@@ -16250,7 +16294,7 @@ references:
   title-short: Capitalism, Alone
   type: book
 
-- id: Miles_nd
+- id: Miles2009
   abstract: A labor and employment law blog covering federal and Pennsylvania law.
   accessed:
     - year: 2024
@@ -16259,7 +16303,12 @@ references:
   author:
     - family: Miles
       given: Philip K.
-  citation-key: Miles_nd
+  citation-key: Miles2009
+  container-title: Lawffice Space
+  issued:
+    - year: 2009
+      month: 12
+      day: 16
   language: en
   title: First Amendment (SPEECH) Unemployment Compensation
   type: post-weblog
@@ -16413,7 +16462,7 @@ references:
     - year: 2024
       month: 4
       day: 12
-  authority: court.appeals
+  authority: Indiana App.
   citation-key: MillerReviewBd1982
   container-title: N.E.2d
   issued:
@@ -17727,6 +17776,9 @@ references:
       month: 4
       day: 12
   citation-key: OverviewUnconstitutionalConditions_nd
+  container-title: Constitution Annotated
+  issued:
+    - literal: n.d.
   language: en
   title: >-
     Overview of Unconstitutional Conditions Doctrine | Constitution Annotated |
@@ -17817,6 +17869,27 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/0019793915605506
   volume: '69'
+
+- id: Pace2023
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  author:
+    - family: Pace
+      given: Joseph
+  citation-key: Pace2023
+  container-title: NY State Bar Association
+  issued:
+    - year: 2023
+      month: 3
+      day: 28
+  title: >-
+    Can Private Employees Be Fired for Out-of-Office Political Speech? - New
+    York State Bar Association
+  type: webpage
+  URL: >-
+    https://nysba.org/can-private-employees-be-fired-for-out-of-office-political-speech/#_ednref17
 
 - id: Paik2011
   abstract: >-
@@ -19151,28 +19224,6 @@ references:
   type: chapter
   URL: https://doi.org/10.1007/978-981-19-2568-9_1
 
-- id: ReCummings2010
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: appellate.division.supreme.court
-  citation-key: ReCummings2010
-  issued:
-    - year: 2010
-      month: 1
-      day: 14
-  note: >-
-    mlzsync1:0120{"extrafields":{"jurisdiction":"005us:nyUnited States|US|New
-    York","reporter":"A.D.3d","filingDate":"January 14, 2010"}}Citation Key:
-    InReCummings2010
-  page: '1088'
-  title: In re Cummings
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:69%20A.D.3d%201088#autoLogin
-  volume: '69'
-
 - id: Reed2013
   accessed:
     - year: 2022
@@ -19194,28 +19245,6 @@ references:
   URL: https://www.jstor.org/stable/24718405
   volume: '22'
 
-- id: ReEngel2013
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: appellate.division.supreme.court
-  citation-key: ReEngel2013
-  issued:
-    - year: 2013
-      month: 5
-      day: 16
-  note: >-
-    mlzsync1:0116{"extrafields":{"jurisdiction":"005us:nyUnited States|US|New
-    York","reporter":"A.D.3d","filingDate":"May 16, 2013"}}Citation Key:
-    ReEngel2013
-  page: '1318'
-  title: In re Engel
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:106%20A.D.3d%201318#autoLogin
-  volume: '106'
-
 - id: Regan2021
   abstract: "The Great Recession intensified large law firms’ emphasis on financial performance, leading to claims that lawyers in these firms were now guided by business rather than professional values.\_ Based on interviews with more than 250 partners in large firms, Mitt Regan and Lisa H. Rohrer suggest that the reality is much more complex. It is true that large firm hiring, promotion, compensation, and termination policies are more influenced by business considerations than ever before and that firms actively recruit profitable partners from other firms to replace those they regard as unproductive. At the same time, law firm partners continue to seek the non-financial rewards of being members of a distinct profession and are sensitive to whether their firms are committed to providing them. Regan and Rohrer argue that modern firms responding effectively to business demands while credibly affirming the importance of non-financial professional values can create strong cultures that enhance their ability to weather the storms of the modern legal market."
   author:
@@ -19233,28 +19262,6 @@ references:
   source: press.uchicago.edu
   title: BigLaw
   type: book
-
-- id: ReHall2016
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: appellate.division.supreme.court
-  citation-key: ReHall2016
-  issued:
-    - year: 2016
-      month: 5
-      day: 12
-  note: >-
-    mlzsync1:0116{"extrafields":{"jurisdiction":"005us:nyUnited States|US|New
-    York","reporter":"A.D.3d","filingDate":"May 12, 2016"}}Citation Key:
-    ReHall2016
-  page: '1229'
-  title: In re Hall
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:139%20A.D.3d%201229#autoLogin
-  volume: '139'
 
 - id: reidCombatingEnemyRegulating2018
   author:
@@ -19277,67 +19284,21 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/vanlr71&i=1067
   volume: '71'
 
-- id: ReKessler2001
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: appellate.division.supreme.court
-  citation-key: ReKessler2001
-  issued:
-    - year: 2001
-      month: 9
-      day: 27
-  note: >-
-    mlzsync1:0122{"extrafields":{"jurisdiction":"005us:nyUnited States|US|New
-    York","reporter":"A.D.2d","filingDate":"September 27, 2001"}}Citation Key:
-    ReKessler2001
-  page: '844'
-  title: In re Kessler
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:286%20A.D.2d%20844#autoLogin
-  volume: '286'
-
-- id: ReMoniz2015
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: appellate.division.supreme.court
-  citation-key: ReMoniz2015
-  issued:
-    - year: 2015
-      month: 3
-      day: 26
-  note: >-
-    mlzsync1:0118{"extrafields":{"jurisdiction":"005us:nyUnited States|US|New
-    York","reporter":"A.D.3d","filingDate":"March 26, 2015"}}Citation Key:
-    ReMoniz2015
-  page: '1251'
-  title: In re Moniz
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:126%20A.D.3d%201251#autoLogin
-  volume: '126'
-
 - id: ReRoy2016
   accessed:
     - year: 2024
       month: 4
       day: 12
-  authority: appellate.division.supreme.court
+  authority: NY App. Div.
   citation-key: ReRoy2016
+  container-title: AD3d
   issued:
     - year: 2016
       month: 4
       day: 14
-  note: >-
-    mlzsync1:0118{"extrafields":{"jurisdiction":"005us:nyUnited States|US|New
-    York","reporter":"A.D.3d","filingDate":"April 14, 2016"}}Citation Key:
-    ReRoy2016
+  jurisdiction: NY App. Div.
   page: '1284'
-  title: In re Roy
+  title: Matter of Roy
   type: legal_case
   URL: >-
     https://1.next.westlaw.com/Search/Results.html?query=find:138%20A.D.3d%201284#autoLogin
@@ -19407,50 +19368,6 @@ references:
   title-short: Retail Property Trust
   type: legal_case
   volume: '768'
-
-- id: ReValvo2016
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: appellate.division.supreme.court
-  citation-key: ReValvo2016
-  issued:
-    - year: 2016
-      month: 6
-      day: 23
-  note: >-
-    mlzsync1:0117{"extrafields":{"jurisdiction":"005us:nyUnited States|US|New
-    York","reporter":"A.D.3d","filingDate":"June 23, 2016"}}Citation Key:
-    ReValvo2016
-  page: '1520'
-  title: In re Valvo
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:140%20A.D.3d%201520#autoLogin
-  volume: '140'
-
-- id: ReVetro2012
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: Appellate Division of the Supreme Court
-  citation-key: ReVetro2012
-  issued:
-    - year: 2012
-      month: 4
-      day: 19
-  note: >-
-    mlzsync1:0118{"extrafields":{"jurisdiction":"005us:nyUnited States|US|New
-    York","reporter":"A.D.3d","filingDate":"April 19, 2012"}}Citation Key:
-    ReVetro2012
-  page: '1321'
-  title: In re Vetro
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:94%20A.D.3d%201321#autoLogin
-  volume: '94'
 
 - id: rhoadesAcademicCapitalismSecondary2015
   abstract: >-
@@ -20634,7 +20551,7 @@ references:
     - year: 2024
       month: 4
       day: 12
-  authority: supreme.court
+  authority: US
   citation-key: SherbertVerner1963
   container-title: US
   issued:
@@ -22904,27 +22821,6 @@ references:
   title-short: What Does the Ruling Class Do When it Rules?
   type: book
 
-- id: ThomasReviewBd1981
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: supreme.court
-  citation-key: ThomasReviewBd1981
-  container-title: U.S.
-  issued:
-    - year: 1981
-      month: 4
-      day: 6
-  jurisdiction: US
-  page: '707'
-  title: Thomas v. Review Bd. of Indiana Employment Sec. Division
-  title-short: Thomas
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:450%20U.S.%20707#autoLogin
-  volume: '450'
-
 - id: thompsonWorkingDockBay2018
   abstract: >-
     Working on the Dock of the Bay explores the history of waterfront labor and
@@ -23410,7 +23306,7 @@ references:
     - year: 2024
       month: 4
       day: 12
-  authority: supreme.court
+  authority: Wisc.
   citation-key: UniversalFoundryCo1979
   container-title: Wis.2d
   issued:
@@ -24296,6 +24192,29 @@ references:
   title-short: Democracy Against Capitalism
   type: book
 
+- id: Wright1991
+  accessed:
+    - year: 2024
+      month: 5
+      day: 16
+  author:
+    - family: Wright
+      given: Douglas M.
+      suffix: Jr.
+  citation-key: Wright1991
+  container-title: Mississippi Law Journal
+  issued:
+    - year: 1991
+  page: '223'
+  title: >-
+    CONSTITUTIONAL LAW—FIRST AMENDMENT—FREE EXERCISE CLAUSE—EXPRESSION OF
+    CULTURAL AND RELIGIOUS HERITAGE IS NOT GROUNDS FOR DENIAL OF UNEMPLOYMENT
+    COMPENSATION | Secondary Sources | National | Westlaw Precision
+  type: article-journal
+  URL: >-
+    https://1.next.westlaw.com/Document/Ifbfdfd815a2811dbbe1cf2d29fe2afe6/View/FullText.html?navigationPath=%2FRelatedInfo%2Fv1%2FkcCitingReferences%2Fnav%3FdocGuid%3DI86291a5dff1f11d9b386b232635db992%26midlineIndex%3D4%26warningFlag%3DN%26planIcons%3DNO%26skipOutOfPlan%3DNO%26sort%3Ddepthdesc%26filterGuid%3Dhe2c946cad0287a6a5f92b2d2c89e8854%26category%3DkcCitingReferences%26origRank%3D5%26origDocSource%3D6fce665600934f05ba735af6751edeb1&listSource=RelatedInfo&list=CitingReferences&rank=4&docFamilyGuid=I35901d8765db11d8a524d4816c3e3768&overruleRisk=true&ppcid=41efaf201cff43ff957865bcc4f6cc64&originationContext=citingreferences&transitionType=CitingReferencesItem&contextData=%28sc.Keycite%29
+  volume: '61'
+
 - id: Wright2016
   abstract: >-
     One of the major works of the new American Marxism, Wright’s book draws a
@@ -24323,6 +24242,23 @@ references:
   source: Google Books
   title: Class, Crisis and the State
   type: book
+
+- id: WrightComUnemployment1979
+  accessed:
+    - year: 2024
+      month: 5
+      day: 16
+  authority: Pa. Commonwealth
+  citation-key: WrightComUnemployment1979
+  container-title: Pa. Cmwlth.
+  issued:
+    - year: 1979
+  page: '117'
+  title: Wright v. Com., Unemployment Compensation Bd. of Review
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=1979109926&pubNum=0000162&originatingDoc=I86291a5dff1f11d9b386b232635db992&refType=RP&originationContext=document&transitionType=DocumentItem&ppcid=b0249b2b13204b3eb6709139effed1e7&contextData=(sc.Keycite)
+  volume: '45'
 
 - id: WrightElecInc2004
   authority: Minn. Ct. App.
