@@ -1512,6 +1512,18 @@ references:
   type: legal_case
   volume: '370'
 
+- id: Ault1960
+  authority: Supreme Court
+  citation-key: Ault1960
+  container-title: Pa.
+  issued:
+    - year: 1960
+  jurisdiction: Pa
+  page: '250'
+  title: Ault Unemployment Compensation Case
+  type: legal_case
+  volume: '398'
+
 - id: AustinMaintenance2012
   authority: N.C. Ct. App.
   citation-key: AustinMaintenance2012
@@ -1571,13 +1583,13 @@ references:
     https://www-jstor-org.ezproxy.elon.edu/stable/10.1086/673530?seq=1#metadata_info_tab_contents
   volume: '43'
 
-- id: BalaComUnemployment1979
+- id: Bala1979
   accessed:
     - year: 2024
       month: 4
       day: 12
   authority: Commonwealth Court
-  citation-key: BalaComUnemployment1979
+  citation-key: Bala1979
   container-title: Pa.Cmwlth.
   issued:
     - year: 1979
@@ -4132,20 +4144,6 @@ references:
   type: book
   URL: >-
     https://cap-press.com/books/isbn/9781611638721/American-Labor-Struggles-and-Law-Histories-Second-Edition
-
-- id: CavanaughDoherty1998
-  authority: Appellate Division of the Supreme Court
-  citation-key: CavanaughDoherty1998
-  container-title: AD2d
-  issued:
-    - year: 1998
-      month: 6
-      day: 4
-  jurisdiction: NY
-  page: '92'
-  title: Cavanaugh v. Doherty
-  type: legal_case
-  volume: '243'
 
 - id: CenterforConstitutionalRights2017
   author:
@@ -7369,9 +7367,9 @@ references:
   type: article-journal
   volume: '28'
 
-- id: FinoMdEmp1959
+- id: Fino1959
   authority: Court of Appeals
-  citation-key: FinoMdEmp1959
+  citation-key: Fino1959
   container-title: A. 2d
   issued:
     - year: 1959
@@ -8428,9 +8426,9 @@ references:
     https://www.cambridge.org/core/product/identifier/S0147547900001101/type/journal_article
   volume: '40'
 
-- id: FrigmUnempComp1994
+- id: Frigm1994
   authority: Commonwealth Court
-  citation-key: FrigmUnempComp1994
+  citation-key: Frigm1994
   container-title: A. 2d
   issued:
     - literal: May24, 1994
@@ -9157,9 +9155,9 @@ references:
   title-short: The Nation-State and Violence
   type: book
 
-- id: GieseEmploymentDivision1976
+- id: Giese1976
   authority: Court of Appeals
-  citation-key: GieseEmploymentDivision1976
+  citation-key: Giese1976
   container-title: P. 2d
   issued:
     - year: 1976
@@ -9876,9 +9874,9 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:2011%20WL%20111882#autoLogin
   volume: '2011'
 
-- id: GriffinNewHampshire2009
+- id: GriffinNH2009
   authority: D.N.H.
-  citation-key: GriffinNewHampshire2009
+  citation-key: GriffinNH2009
   container-title: WL
   issued:
     - year: 2009
@@ -9891,13 +9889,13 @@ references:
   type: legal_case
   volume: '2009'
 
-- id: GriffinNewHampshire2009a
+- id: GriffinNH2009a
   accessed:
     - year: 2024
       month: 4
       day: 12
   authority: D.N.H.
-  citation-key: GriffinNewHampshire2009a
+  citation-key: GriffinNH2009a
   issued:
     - year: 2009
       month: 11
@@ -10062,6 +10060,49 @@ references:
   publisher: distributed in the U.S.A. by Pathﬁnder Press]
   title: 100 Years of Labor in the USA
   type: book
+
+- id: GuidanceEmployeesResponse2023
+  abstract: >-
+    See CAIR's new guidance for employees responding to Islamophobic and/or
+    anti-Palestinian rhetoric at work.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 22
+  citation-key: GuidanceEmployeesResponse2023
+  container-title: Monitoring and Combating Islamophobia
+  issued:
+    - year: 2023
+      month: 10
+      day: 23
+  language: en-US
+  title: >-
+    Guidance to U.S. Employees in Response to Islamophobic and Anti-Palestinian
+    Rhetoric in the Workplace
+  type: post-weblog
+  URL: >-
+    https://islamophobia.org/anti-prejudice-tools/guidance-to-u-s-employees-in-response-to-islamophobic-and-anti-palestinian-rhetoric-in-the-workplace/
+
+- id: Gunn2019
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: appellate.division.supreme.court
+  citation-key: Gunn2019
+  container-title: AD3d
+  issued:
+    - year: 2019
+      month: 5
+      day: 30
+  jurisdiction: NY App. Div.
+  page: '1865'
+  title: Matter of Gunn
+  title-short: Gunn
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:172%20A.D.3d%201865#autoLogin
+  volume: '172'
 
 - id: Gurr1968
   author:
@@ -11051,13 +11092,13 @@ references:
     https://harvardlawreview.org/print/vol-135/animal-legal-defense-fund-v-reynolds/
   volume: '135'
 
-- id: HobbieUnemploymentAppeals1987
+- id: Hobbie1987
   accessed:
     - year: 2024
       month: 4
       day: 12
   authority: US
-  citation-key: HobbieUnemploymentAppeals1987
+  citation-key: Hobbie1987
   container-title: US
   issued:
     - year: 1987
@@ -12841,13 +12882,13 @@ references:
   type: legal_case
   volume: '299'
 
-- id: KingCaliforniaUnemployment1972
+- id: King1972
   accessed:
     - year: 2024
       month: 4
       day: 12
   authority: Cal. App.
-  citation-key: KingCaliforniaUnemployment1972
+  citation-key: King1972
   container-title: Cal.App.3d
   issued:
     - year: 1972
@@ -13463,13 +13504,13 @@ references:
   URL: http://www.jstor.org/stable/828067
   volume: '4'
 
-- id: LavelleHaydenEmploymentDepartment2023
+- id: LavelleHayden2023
   accessed:
     - year: 2024
       month: 4
       day: 12
   authority: Or. App.
-  citation-key: LavelleHaydenEmploymentDepartment2023
+  citation-key: LavelleHayden2023
   container-title: Or. App.
   issued:
     - year: 2023
@@ -15296,27 +15337,6 @@ references:
   type: article-journal
   URL: https://digitalcommons.law.buffalo.edu/book_sections/301
 
-- id: MatterGunn2019
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: appellate.division.supreme.court
-  citation-key: MatterGunn2019
-  container-title: AD3d
-  issued:
-    - year: 2019
-      month: 5
-      day: 30
-  jurisdiction: NY App. Div.
-  page: '1865'
-  title: Matter of Gunn
-  title-short: Gunn
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:172%20A.D.3d%201865#autoLogin
-  volume: '172'
-
 - id: Mauss1972
   author:
     - family: Mauss
@@ -16071,13 +16091,13 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.27
 
-- id: MessinaIowaDept1983
+- id: Messina1983
   accessed:
     - year: 2024
       month: 4
       day: 12
   authority: Iowa
-  citation-key: MessinaIowaDept1983
+  citation-key: Messina1983
   container-title: N.W.2d
   issued:
     - year: 1983
@@ -16392,6 +16412,27 @@ references:
   title-short: Rebuilding Labor
   type: book
 
+- id: Miller1982
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: Indiana App.
+  citation-key: Miller1982
+  container-title: N.E.2d
+  issued:
+    - year: 1982
+      month: 6
+      day: 15
+  jurisdiction: Indiana
+  page: '804'
+  title: Miller v. Review Bd. of Indiana Employment Sec. Div.
+  title-short: Miller
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:436%20N.E.2d%20804#autoLogin
+  volume: '436'
+
 - id: Miller2020
   author:
     - family: Miller
@@ -16456,27 +16497,6 @@ references:
   title: Miller Plastic Products, Inc.
   type: legal_case
   volume: '372'
-
-- id: MillerReviewBd1982
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: Indiana App.
-  citation-key: MillerReviewBd1982
-  container-title: N.E.2d
-  issued:
-    - year: 1982
-      month: 6
-      day: 15
-  jurisdiction: Indiana
-  page: '804'
-  title: Miller v. Review Bd. of Indiana Employment Sec. Div.
-  title-short: Miller
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:436%20N.E.2d%20804#autoLogin
-  volume: '436'
 
 - id: Mills2000
   abstract: >-
@@ -17516,6 +17536,19 @@ references:
   title: The Jewish Labor Bund in Poland
   type: book
 
+- id: NYUnemploymentInsuranceLaw_nd
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  citation-key: NYUnemploymentInsuranceLaw_nd
+  container-title: McKinney's Labor Law
+  section: § 500 et seq.
+  title: Unemployment Insurance Law
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+
 - id: obasogieBlindPeopleSee2014
   abstract: >-
     Until the mid-twentieth century, the dominant perspective was that social
@@ -17767,24 +17800,17 @@ references:
   URL: https://digitalcommons.wayne.edu/jewishfolklore/vol1/iss1/8
   volume: '1'
 
-- id: OverviewUnconstitutionalConditions_nd
-  abstract: >-
-    An annotation about the First Amendment of the Constitution of the United
-    States.
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  citation-key: OverviewUnconstitutionalConditions_nd
-  container-title: Constitution Annotated
+- id: Ostrofsky1959
+  authority: Court of Appeals
+  citation-key: Ostrofsky1959
+  container-title: A. 2d
   issued:
-    - literal: n.d.
-  language: en
-  title: >-
-    Overview of Unconstitutional Conditions Doctrine | Constitution Annotated |
-    Congress.gov | Library of Congress
-  type: webpage
-  URL: https://constitution.congress.gov/browse/essay/amdt1-7-13-1/ALDE_00000771/
+    - year: 1959
+  jurisdiction: Md
+  page: '741'
+  title: Ostrofsky v. Md. Emp. Security Bd.
+  type: legal_case
+  volume: '147'
 
 - id: Oyer2011
   abstract: >-
@@ -19284,26 +19310,6 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/vanlr71&i=1067
   volume: '71'
 
-- id: ReRoy2016
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  authority: NY App. Div.
-  citation-key: ReRoy2016
-  container-title: AD3d
-  issued:
-    - year: 2016
-      month: 4
-      day: 14
-  jurisdiction: NY App. Div.
-  page: '1284'
-  title: Matter of Roy
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:138%20A.D.3d%201284#autoLogin
-  volume: '138'
-
 - id: Research1998
   author:
     - family: Research
@@ -19582,6 +19588,26 @@ references:
   title-short: American Workers, American Movies
   type: article-journal
   URL: www.jstor.org/stable/27672711
+
+- id: Roy2016
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: NY App. Div.
+  citation-key: Roy2016
+  container-title: AD3d
+  issued:
+    - year: 2016
+      month: 4
+      day: 14
+  jurisdiction: NY App. Div.
+  page: '1284'
+  title: Matter of Roy
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:138%20A.D.3d%201284#autoLogin
+  volume: '138'
 
 - id: Rozema2021
   abstract: >-
@@ -23288,26 +23314,32 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/kjpp29&i=362
   volume: '29'
 
-- id: UnemploymentInsuranceLaw_nd
+- id: UnconstitutionalConditions
+  abstract: >-
+    An annotation about the First Amendment of the Constitution of the United
+    States.
   accessed:
     - year: 2024
       month: 4
       day: 12
-  citation-key: UnemploymentInsuranceLaw_nd
-  container-title: McKinney's Labor Law
-  section: § 500 et seq.
-  title: Unemployment Insurance Law
-  type: legislation
-  URL: >-
-    https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+  citation-key: UnconstitutionalConditions
+  container-title: Constitution Annotated
+  issued:
+    - literal: n.d.
+  language: en
+  title: >-
+    Overview of Unconstitutional Conditions Doctrine | Constitution Annotated |
+    Congress.gov | Library of Congress
+  type: webpage
+  URL: https://constitution.congress.gov/browse/essay/amdt1-7-13-1/ALDE_00000771/
 
-- id: UniversalFoundryCo1979
+- id: UniversalFoundry1979
   accessed:
     - year: 2024
       month: 4
       day: 12
   authority: Wisc.
-  citation-key: UniversalFoundryCo1979
+  citation-key: UniversalFoundry1979
   container-title: Wis.2d
   issued:
     - year: 1979
@@ -24192,6 +24224,23 @@ references:
   title-short: Democracy Against Capitalism
   type: book
 
+- id: Wright1979
+  accessed:
+    - year: 2024
+      month: 5
+      day: 16
+  authority: Pa. Commonwealth
+  citation-key: Wright1979
+  container-title: Pa. Cmwlth.
+  issued:
+    - year: 1979
+  page: '117'
+  title: Wright v. Com., Unemployment Compensation Bd. of Review
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=1979109926&pubNum=0000162&originatingDoc=I86291a5dff1f11d9b386b232635db992&refType=RP&originationContext=document&transitionType=DocumentItem&ppcid=b0249b2b13204b3eb6709139effed1e7&contextData=(sc.Keycite)
+  volume: '45'
+
 - id: Wright1991
   accessed:
     - year: 2024
@@ -24242,23 +24291,6 @@ references:
   source: Google Books
   title: Class, Crisis and the State
   type: book
-
-- id: WrightComUnemployment1979
-  accessed:
-    - year: 2024
-      month: 5
-      day: 16
-  authority: Pa. Commonwealth
-  citation-key: WrightComUnemployment1979
-  container-title: Pa. Cmwlth.
-  issued:
-    - year: 1979
-  page: '117'
-  title: Wright v. Com., Unemployment Compensation Bd. of Review
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=1979109926&pubNum=0000162&originatingDoc=I86291a5dff1f11d9b386b232635db992&refType=RP&originationContext=document&transitionType=DocumentItem&ppcid=b0249b2b13204b3eb6709139effed1e7&contextData=(sc.Keycite)
-  volume: '45'
 
 - id: WrightElecInc2004
   authority: Minn. Ct. App.
@@ -24716,6 +24748,32 @@ references:
   title-short: The Irrationality of the Rational
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt1d9nnbd.14
+
+- id: Zituni2023
+  abstract: >-
+    Palestine Legal has received an unprecedented surge in requests for legal
+    support over the past week. Activists and community members have been
+    doxxed, threatened, investigated, censored, questioned, fired, and even
+    assaulted simply because of their views, while government officials appear
+    to be mob
+  accessed:
+    - year: 2024
+      month: 5
+      day: 22
+  author:
+    - family: Zituni
+      given: Danya
+  citation-key: Zituni2023
+  container-title: Palestine Legal
+  issued:
+    - year: 2023
+      month: 10
+      day: 13
+  language: en-US
+  title: Legal Resources for Activists Advocating for Palestine Across the U.S.
+  type: webpage
+  URL: >-
+    https://palestinelegal.org/news/2023/10/12/resources-for-advocating-for-palestine-across-us
 
 - id: Zuboff2019
   abstract: >-
