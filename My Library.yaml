@@ -1,5 +1,130 @@
 ---
 references:
+- id: 2002FEO8
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: 2002FEO8
+  issued:
+    - year: 2003
+      month: 1
+      day: 24
+  publisher: NC State Bar
+  title: >-
+    2002 Formal Ethics Opinion 8: Direct Contact with Lawyer Appointed Guardian
+    Ad Litem for Minor Plaintiff
+  type: document
+  URL: >-
+    https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2002-formal-ethics-opinion-8/
+
+- id: 2004FEO11
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: 2004FEO11
+  issued:
+    - year: 2005
+      month: 1
+      day: 31
+  publisher: NC State Bar
+  title: '2004 Formal Ethics Opinion 11: Lawyer as Appointed Guardian Ad Litem'
+  type: document
+  URL: >-
+    https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2004-formal-ethics-opinion-11/
+
+- id: 2006FEO19
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: 2006FEO19
+  issued:
+    - year: 2007
+      month: 1
+      day: 19
+  publisher: NC State Bar
+  title: >-
+    2006 Formal Ethics Opinion 19: Communications by Guardian Ad Litem With
+    Represented Person
+  type: document
+  URL: >-
+    https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2006-formal-ethics-opinion-19/
+
+- id: 2006FEO9
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: 2006FEO9
+  issued:
+    - year: 2006
+      month: 7
+      day: 21
+  publisher: NC State Bar
+  title: >-
+    2006 Formal Ethics Opinion 9 Pursuing Frivolous Claim at the Direction of
+    GAL for Plaintiff
+  type: document
+  URL: >-
+    https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2006-formal-ethics-opinion-9/
+
+- id: 2012FEO9
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: 2012FEO9
+  issued:
+    - year: 2013
+      month: 1
+      day: 25
+  publisher: NC State Bar
+  title: >-
+    2012 Formal Ethics Opinion 9: Identifying the Roles and Responsibilities of
+    a Lawyer Appinted to Represent a Child or the Child's Best Interests in a
+    Contested Custody or Visitation Case
+  type: document
+  URL: >-
+    https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2012-formal-ethics-opinion-9/
+
+- id: 2022FEO1
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: 2022FEO1
+  issued:
+    - year: 2022
+      month: 4
+      day: 22
+  publisher: NC State Bar
+  title: >-
+    2022 Formal Ethics Opinion 1: Attorney Serving Dual Role of Guardian Ad
+    Litem and Advocate
+  type: document
+  URL: >-
+    https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2022-formal-ethics-opinion-1/
+
+- id: 98FEO16
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: 98FEO16
+  issued:
+    - year: 1999
+      month: 1
+      day: 15
+  publisher: NC State Bar
+  title: >-
+    98 Formal Ethics Opinion 16: Representation of Client Resisting an
+    Incompetency Petition
+  type: document
+  URL: >-
+    https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/98-formal-ethics-opinion-16/
+
 - id: Aaron&FinkinDisloyalty1998
   author:
     - family: Aaron
@@ -915,6 +1040,31 @@ references:
   title-short: Conclusion
   type: book
 
+- id: Aloni2016
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Aloni
+      given: Gila
+  citation-key: Aloni2016
+  container-title: South Atlantic Review
+  ISSN: 0277-335X
+  issue: '1'
+  issued:
+    - year: 2016
+  page: 174-193
+  publisher: South Atlantic Modern Language Association
+  source: JSTOR
+  title: >-
+    From Medieval to Pop Culture: An Old-World New Text, the Golem of Prague—A
+    Traveling Monster/Hero
+  title-short: From Medieval to Pop Culture
+  type: article-journal
+  URL: https://www-jstor-org.elon.idm.oclc.org/stable/soutatlarevi.81.1.174
+  volume: '81'
+
 - id: AlstateMaintenanceLLC2019
   authority: NLRB
   citation-key: AlstateMaintenanceLLC2019
@@ -930,6 +1080,10 @@ references:
   volume: '367'
 
 - id: Amery1980
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
   author:
     - family: Améry
       given: Jean
@@ -944,14 +1098,12 @@ references:
   issue: '20'
   issued:
     - year: 1980
-  note: >-
-    mlzsync1:0076{"extrafields":{"publisher":"[New German Critique, Duke
-    University Press]"}}Citation Key: Amery1980
   page: 15-29
+  publisher: '[New German Critique, Duke University Press]'
   source: JSTOR
   title: On the Necessity and Impossibility of Being a Jew
   type: article-journal
-  URL: http://www.jstor.org/stable/487703
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/487703
 
 - id: Anderson1979
   abstract: >-
@@ -1512,6 +1664,16 @@ references:
   type: legal_case
   volume: '370'
 
+- id: AttorneyGuardianEthicsProgram_nd
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: AttorneyGuardianEthicsProgram_nd
+  title: Attorney-Guardian Ethics Program | Maryland Courts
+  type: webpage
+  URL: https://www.courts.state.md.us/family/guardianship/attorneyguardians
+
 - id: Ault1960
   authority: Supreme Court
   citation-key: Ault1960
@@ -1711,6 +1873,29 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/24754276
   volume: '95'
+
+- id: Band1988
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Band
+      given: Arnold J.
+  citation-key: Band1988
+  container-title: Modern Judaism
+  ISSN: 0276-1114
+  issue: '2'
+  issued:
+    - year: 1988
+  page: 139-155
+  publisher: Oxford University Press
+  source: JSTOR
+  title: 'Kafka: The Margins of Assimilation'
+  title-short: Kafka
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/1396381
+  volume: '8'
 
 - id: Baradaran2019
   abstract: >-
@@ -2991,6 +3176,32 @@ references:
   URL: https://doi.org/10.1177/0964663912471552
   volume: '22'
 
+- id: Boumil2011
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  author:
+    - family: Boumil
+      given: Marcia M.
+    - family: Freitas
+      given: Cristina F.
+    - family: Freitas
+      given: Debbie F.
+  citation-key: Boumil2011
+  container-title: Journal of Law & Family Studies
+  container-title-short: J.L. & Fam. Stud.
+  issue: '1'
+  issued:
+    - year: 2011
+  language: eng
+  page: 43-80
+  source: HeinOnline
+  title: Legal and Ethical Issue Confronting Guardian ad Litem Practice
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/jlfst13&i=45
+  volume: '13'
+
 - id: Boutcher2013
   author:
     - family: Boutcher
@@ -3050,6 +3261,34 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/26890966
   volume: '67'
+
+- id: Boxx2012
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  author:
+    - family: Boxx
+      given: Karen E.
+    - family: Hammond
+      given: Terry W.
+  citation-key: Boxx2012
+  container-title: Utah Law Review
+  container-title-short: Utah L. Rev.
+  issue: '3'
+  issued:
+    - year: 2012
+  language: eng
+  page: 1207-1274
+  source: HeinOnline
+  title: >-
+    A Call for Standards: An Overview of the Current Status and Need for
+    Guardian Standards of Conduct and Codes of Ethics Symposium: Third National
+    Guardianship Summit: Standards of Excellence
+  title-short: A Call for Standards
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/utahlr2012&i=1231
+  volume: '2012'
 
 - id: boyuleNationalPoliticsInternational2014
   abstract: >-
@@ -4125,6 +4364,33 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/ucinlr48&i=457
   volume: '48'
 
+- id: Casasanto1989
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  author:
+    - family: Casasanto
+      given: Michael D.
+    - family: Simon
+      given: Mitchell
+    - family: Roman
+      given: Judith
+  citation-key: Casasanto1989
+  container-title: Whittier Law Review
+  container-title-short: Whittier L. Rev.
+  issue: '3'
+  issued:
+    - year: 1989
+    - year: 1990
+  language: eng
+  page: 543-568
+  source: HeinOnline
+  title: A Model Code of Ethics for Guardians
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/whitlr11&i=555
+  volume: '11'
+
 - id: casebeerAmericanLaborStruggles2016
   author:
     - family: Casebeer
@@ -4440,6 +4706,29 @@ references:
     Process
   title-short: Litigating within Relationships
   type: chapter
+
+- id: Cohen1977
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Cohen
+      given: Gary B.
+  citation-key: Cohen1977
+  container-title: Central European History
+  ISSN: 0008-9389
+  issue: '1'
+  issued:
+    - year: 1977
+  page: 28-54
+  publisher: '[Cambridge University Press, Central European History Society]'
+  source: JSTOR
+  title: 'Jews in German Society: Prague, 1860-1914'
+  title-short: Jews in German Society
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/4545787
+  volume: '10'
 
 - id: cohenCollectiveBargainingPriority2005
   archive: JSTOR
@@ -5206,6 +5495,32 @@ references:
   type: legal_case
   volume: '39'
 
+- id: Dekel2013
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Dekel
+      given: Edan
+    - family: Gurley
+      given: David Gantt
+  citation-key: Dekel2013
+  container-title: The Jewish Quarterly Review
+  ISSN: 0021-6682
+  issue: '2'
+  issued:
+    - year: 2013
+  page: 241-258
+  publisher: >-
+    [University of Pennsylvania Press, Center for Advanced Judaic Studies,
+    University of Pennsylvania]
+  source: JSTOR
+  title: How the Golem Came to Prague
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/43298695
+  volume: '103'
+
 - id: DeltaSonicCarwashSystems1995
   authority: N.Y. Sup. Ct.
   citation-key: DeltaSonicCarwashSystems1995
@@ -5645,6 +5960,27 @@ references:
   type: legislation
   URL: >-
     https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+
+- id: Dlugacz2011
+  author:
+    - family: Dlugacz
+      given: Henry
+    - family: Winner
+      given: Christopher
+  citation-key: Dlugacz2011
+  container-title: Saint Louis University Journal of Health Law & Policy
+  ISSN: 1941-4145
+  issue: '2'
+  issued:
+    - year: 2011
+      month: 1
+      day: 1
+  title: >-
+    The Ethics of Representing Clients with Limited Competency in Guardianship
+    Proceedings
+  type: article-journal
+  URL: https://scholarship.law.slu.edu/jhlp/vol4/iss2/4
+  volume: '4'
 
 - id: dobbieReorganizingHigherEducation2008
   abstract: >-
@@ -6530,6 +6866,17 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/4099314
   volume: '105'
+
+- id: EthicalConsiderationsMaryland_nd
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: EthicalConsiderationsMaryland_nd
+  title: Ethical Considerations | Maryland Courts
+  type: webpage
+  URL: >-
+    https://www.courts.state.md.us/family/guardianship/videoseries/ethicalconsiderations
 
 - id: EthridgeHarborHouse1988
   authority: 9th Cir.
@@ -10888,6 +11235,43 @@ references:
   title-short: Nobody's Law
   type: book
 
+- id: Heyde2018
+  abstract: >-
+    The “Annales” of Jan Długosz (1415–1480)¹ comprise the greatest chronicle of
+    medieval Poland. The chronicler tells the history of Poland across twelve
+    books, from its mythological beginnings up to the second half of the
+    fifteenth century, against a European background.² Inspired by the 500th
+    anniversary of the chronicler’s death in 1980, and his 600th birthday in
+    2015, a broad range of studies have been initiated on Jan Długosz and his
+    work in recent decades.³ The chronicle reaches beyond a dynastic point of
+    view; the monarchs and their families are not at the heart of the story, but
+    rather the
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Heyde
+      given: Jürgen
+  citation-key: Heyde2018
+  collection-title: Shared and Comparative Histories
+  container-title: Jews and Germans in Eastern Europe
+  edition: '1'
+  editor:
+    - family: Grill
+      given: Tobias
+  issued:
+    - year: 2018
+  page: 21-45
+  publisher: De Gruyter
+  source: JSTOR
+  title: >-
+    Images and Narratives: Germans and Jews in the “Annales seu Cronicae incliti
+    Regni Poloniae” of Jan Długosz
+  title-short: Images and Narratives
+  type: chapter
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/j.ctvbkk4bs.5
+
 - id: HillhavenOaklandNursing1996
   authority: Cal. Ct. App.
   citation-key: HillhavenOaklandNursing1996
@@ -11315,6 +11699,20 @@ references:
   section: 18-7040
   title: Idaho agricultural research
   type: legislation
+
+- id: Imbasciani2020
+  author:
+    - family: Imbasciani
+      given: Taylor
+  citation-key: Imbasciani2020
+  container-title: Hofstra Law Student Works
+  issued:
+    - year: 2020
+      month: 4
+      day: 1
+  title: The Ethics of Guardians ad Litem in Family Law
+  type: article-journal
+  URL: https://scholarlycommons.law.hofstra.edu/hofstra_law_student_works/15
 
 - id: ingallsWagnerActTrial1997
   archive: JSTOR
@@ -12824,6 +13222,31 @@ references:
   URL: >-
     https://www.npr.org/2024/04/11/1231084790/israel-kidnapped-posters-tore-down-doxxed
 
+- id: Kieval1997
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Kieval
+      given: Hillel J.
+  citation-key: Kieval1997
+  container-title: Modern Judaism
+  ISSN: 0276-1114
+  issue: '1'
+  issued:
+    - year: 1997
+  page: 1-23
+  publisher: Oxford University Press
+  source: JSTOR
+  title: >-
+    Pursuing the Golem of Prague: Jewish Culture and the Invention of a
+    Tradition
+  title-short: Pursuing the Golem of Prague
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/1396572
+  volume: '17'
+
 - id: Kieval2012
   abstract: >-
     During the last three decades of the nineteenth century Czech nationalist
@@ -12846,9 +13269,9 @@ references:
     individual and collective identity in national terms. The Czech Jewish
     movement was one result; so, too, was Prague Zionism.
   accessed:
-    - year: 2023
-      month: 12
-      day: 23
+    - year: 2024
+      month: 7
+      day: 14
   author:
     - family: Kieval
       given: Hillel J.
@@ -12858,17 +13281,15 @@ references:
   issue: '4'
   issued:
     - year: 2012
-  note: >-
-    mlzsync1:0055{"extrafields":{"publisher":"Purdue University Press"}}Citation
-    Key: Kieval2012
   page: 1-17
+  publisher: Purdue University Press
   source: JSTOR
   title: >-
     Imperial Embraces and Ethnic Challenges: The Politics of Jewish Identity in
     the Bohemian Lands
   title-short: Imperial Embraces and Ethnic Challenges
   type: article-journal
-  URL: https://www.jstor.org/stable/10.5703/shofar.30.4.1
+  URL: https://www-jstor-org.elon.idm.oclc.org/stable/10.5703/shofar.30.4.1
   volume: '30'
 
 - id: KinderCareLearningCenters1990
@@ -13072,6 +13493,33 @@ references:
   source: Amazon
   title: The Transformation of American Industrial Relations
   type: book
+
+- id: Kohn2016
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  author:
+    - family: Kohn
+      given: Nina A.
+    - family: Koss
+      given: Catheryn
+  citation-key: Kohn2016
+  container-title: Washington Law Review
+  container-title-short: Wash. L. Rev.
+  issue: '2'
+  issued:
+    - year: 2016
+  language: eng
+  page: 581-636
+  source: HeinOnline
+  title: >-
+    Lawyers for Legal Ghosts: The Legality and Ethics of Representing Persons
+    Subject to Guardianship
+  title-short: Lawyers for Legal Ghosts
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/washlr91&i=597
+  volume: '91'
 
 - id: Kramer2004
   abstract: >-
@@ -14597,6 +15045,19 @@ references:
   title: A History of America in Ten Strikes
   type: book
 
+- id: Louro2012
+  author:
+    - family: Louro
+      given: Philip Daniel
+  citation-key: Louro2012
+  container-title: Journal of Social Justice
+  issued:
+    - year: 2012
+  page: '1'
+  title: Beyond Master and Servant
+  type: article-journal
+  volume: '2'
+
 - id: lovellJusticeExcusedDeployment2014
   abstract: >-
     In June 1939, Layle Lane wrote to U.S. Attorney General Frank Murphy to ask
@@ -15908,6 +16369,29 @@ references:
   URL: http://www.jstor.org/stable/1512168
   volume: '36'
 
+- id: Meissner1960
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Meissner
+      given: Frank
+  citation-key: Meissner1960
+  container-title: Publications of the American Jewish Historical Society
+  ISSN: 0146-5511
+  issue: '2'
+  issued:
+    - year: 1960
+  page: 98-120
+  publisher: '[Johns Hopkins University Press, American Jewish Historical Society]'
+  source: JSTOR
+  title: 'German Jews of Prague: A Quest for Self-Realization'
+  title-short: German Jews of Prague
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/43059122
+  volume: '50'
+
 - id: Melucci1995
   abstract: >-
     Interest in cultural analysis has grown in the past two decades together
@@ -16610,6 +17094,21 @@ references:
   type: legal_case
   volume: '187'
 
+- id: Moander2020
+  author:
+    - family: Moander
+      given: Garth A.
+  citation-key: Moander2020
+  container-title: NAELA Journal
+  issued:
+    - year: 2020
+  page: '59'
+  title: >-
+    Do Elder Law Practitioners and the American Legal Profession Need an Ethical
+    Confidentiality Rule or Can Both Do Without ABA Model Rule 1.6?
+  type: article-journal
+  volume: '16'
+
 - id: moliternoAmericanLegalProfession2013
   author:
     - family: Moliterno
@@ -16709,6 +17208,28 @@ references:
   title-short: Social Origins of Dictatorship and Democracy
   type: book
 
+- id: Moore1993a
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Moore
+      given: Deborah Dash
+  citation-key: Moore1993a
+  container-title: CrossCurrents
+  ISSN: 0011-1953
+  issue: '4'
+  issued:
+    - year: 1993
+  page: 503-516
+  publisher: Wiley
+  source: JSTOR
+  title: On the Necessity and Impossibility of Being a Jew in the Academy
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/24459446
+  volume: '43'
+
 - id: mooreDeterminationBargainingUnits1975
   author:
     - family: Moore
@@ -16727,6 +17248,42 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/upitt37&i=55
   volume: '37'
+
+- id: Moran2016
+  abstract: >-
+    For Walter Benjamin, there is a complementary relationship of art and
+    philosophy. Philosophy exercises a persistence of discourse against any
+    ostensibly concluded gesture of an artwork. Philosophy is not a fragment to
+    be treated as inviolably apart; nor can it treat anything else – including
+    the artwork – as inviolably apart. There is no final gesture. The gestural
+    element remains, nonetheless, integral to philosophy; the gestural element
+    openly performs beyond the discursive – beyond the denotative (and any
+    connoted denotations). In the encounter with artworks, philosophy is kept
+    attentive to the resistance of particularity to discursive rendering. Such
+    unyielding is
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Moran
+      given: Brendan
+  citation-key: Moran2016
+  container-title: Kafka and the Universal
+  edition: '1'
+  editor:
+    - family: Cools
+      given: Arthur
+    - family: Liska
+      given: Vivian
+  issued:
+    - year: 2016
+  page: 43-65
+  publisher: De Gruyter
+  source: JSTOR
+  title: Philosophy and Ambiguity in Benjamin’s Kafka
+  type: chapter
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/j.ctvbkjt9v.5
 
 - id: moranWhatCountsKnowledge2014
   abstract: >-
@@ -16848,6 +17405,29 @@ references:
   title-short: From Assimilationist Antiracism to Zionist Anti-antisemitism
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt1d9nnbd.10
+
+- id: Morris2016
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Morris
+      given: Leslie
+  citation-key: Morris2016
+  container-title: German Studies Review
+  ISSN: 0149-7952
+  issue: '3'
+  issued:
+    - year: 2016
+  page: 601-610
+  publisher: '[German Studies Association, The Johns Hopkins University Press]'
+  source: JSTOR
+  title: 'German Studies and Jewish Studies: Symbiosis of Two Fields'
+  title-short: German Studies and Jewish Studies
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/24809108
+  volume: '39'
 
 - id: morrisHowNationalLabor2012
   abstract: >-
@@ -17496,6 +18076,20 @@ references:
   title: Institutions, Institutional Change and Economic Performance
   type: book
 
+- id: NorthCarolinaState2008
+  authority: NC App.
+  citation-key: NorthCarolinaState2008
+  container-title: SE 2d
+  issued:
+    - year: 2008
+      month: 2
+      day: 19
+  jurisdiction: NC
+  page: '378'
+  title: The North Carolina State Bar v. Ethridge
+  type: legal_case
+  volume: '657'
+
 - id: NorthCarolinaStateBar2022
   author:
     - family: North Carolina State Bar
@@ -18049,6 +18643,28 @@ references:
   title-short: The “Compliance” Trap
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.15
+
+- id: Parmet1995
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Parmet
+      given: Harriet L.
+  citation-key: Parmet1995
+  container-title: Shofar
+  ISSN: 0882-8539
+  issue: '2'
+  issued:
+    - year: 1995
+  page: 28-43
+  publisher: Purdue University Press
+  source: JSTOR
+  title: The Jewish Essence of Franz Kafka
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/42942097
+  volume: '13'
 
 - id: Patrice2019
   abstract: Black male attorneys are more likely to be disciplined than white attorneys.
@@ -19181,6 +19797,45 @@ references:
   type: webpage
   URL: https://www.eeoc.gov/racecolor-discrimination
 
+- id: Radford2023
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  author:
+    - family: Radford
+      given: Mary F.
+  citation-key: Radford2023
+  container-title: Georgia Guardianship and Conservatorship
+  issued:
+    - year: 2023
+      month: 9
+  title: >-
+    § 4:39. Ethical ramifications of representing clients with diminished
+    capacity
+  type: chapter
+  URL: >-
+    https://1.next.westlaw.com/Document/Ib0ee3c79987811e7a95df6c70968b893/View/FullText.html?navigationPath=%2FRelatedInfo%2Fv1%2FkcCitingReferences%2Fnav%3FdocGuid%3DI4f99526f101511df8bf6cd8525c41437%26midlineIndex%3D1%26warningFlag%3DN%26planIcons%3DNO%26skipOutOfPlan%3DNO%26sort%3Ddepthdesc%26filterGuid%3Dh41554ea1965e1d2fac01b1e102fb72a7%26category%3DkcCitingReferences%26origRank%3D1%26origDocSource%3D0a2c6c110d4b4fad977bf8b6e250ae0c&listSource=RelatedInfo&list=CitingReferences&rank=1&docFamilyGuid=I7ff76042987a11e78bb0f8ae070ce6ae&overruleRisk=true&ppcid=45a60312225c4ac08b08d2c673e50e3d&originationContext=citingreferences&transitionType=CitingReferencesItem&contextData=%28sc.CustomDigest%29
+
+- id: Radford2023a
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  author:
+    - family: Radford
+      given: Mary F.
+  citation-key: Radford2023a
+  issued:
+    - year: 2023
+      month: 10
+      day: 5
+  publisher: American Law Institute
+  title: Recognizing and Representing Clients Whose Capacity Is Diminishing
+  type: document
+  URL: >-
+    https://1.next.westlaw.com/Link/Document/FullText?findType=1&serNum=538488608&pubNum=221328&docFamilyGuid=I8e692aa46fd811ee9a74da00493f7f2b&originationContext=citingreferences&list=CitingReferences&navigationPath=%2FRelatedInfo%2Fv1%2FkcCitingReferences%2Fnav%3FdocGuid%3DI4f99526f101511df8bf6cd8525c41437%26midlineIndex%3D15%26warningFlag%3DN%26planIcons%3DNO%26skipOutOfPlan%3DNO%26sort%3Ddepthdesc%26filterGuid%3Dh41554ea1965e1d2fac01b1e102fb72a7%26category%3DkcCitingReferences%26origRank%3D1%26origDocSource%3D0a2c6c110d4b4fad977bf8b6e250ae0c&listSource=RelatedInfo&rank=15&contextData=%28sc.CustomDigest%29&transitionType=CitingReferencesItem&ppcid=45a60312225c4ac08b08d2c673e50e3d
+
 - id: Radomski2001
   author:
     - family: Radomski
@@ -19250,6 +19905,34 @@ references:
   type: chapter
   URL: https://doi.org/10.1007/978-981-19-2568-9_1
 
+- id: ReClark2010
+  authority: NC App.
+  citation-key: ReClark2010
+  container-title: SE 2d
+  issued:
+    - year: 2010
+      month: 2
+      day: 2
+  jurisdiction: NC
+  page: '484'
+  title: In re Clark
+  type: legal_case
+  volume: '688'
+
+- id: ReCranor2016
+  authority: NC App
+  citation-key: ReCranor2016
+  container-title: SE 2d
+  issued:
+    - year: 2016
+      month: 5
+      day: 17
+  jurisdiction: NC
+  page: '379'
+  title: In re Cranor
+  type: legal_case
+  volume: '786'
+
 - id: Reed2013
   accessed:
     - year: 2022
@@ -19309,6 +19992,27 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/vanlr71&i=1067
   volume: '71'
+
+- id: Rein1998
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  author:
+    - family: Rein
+      given: Jan Ellen
+  citation-key: Rein1998
+  container-title: Stanford Law and Policy Review
+  issued:
+    - year: 1998
+  page: '241'
+  title: >-
+    Ethics and the Questionably Competent Client: What the Model Rules Say and
+    Don't Say
+  type: article-journal
+  URL: >-
+    https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=0109028881&pubNum=0101481&originatingDoc=Ie9bf141a720911ee8921fbef1a541940&refType=LR&originationContext=document&transitionType=DocumentItem&ppcid=4128566f517446e6813114cd5376d5d9&contextData=(sc.Keycite)
+  volume: '9'
 
 - id: Research1998
   author:
@@ -19689,6 +20393,55 @@ references:
   type: article
   URL: https://papers.ssrn.com/abstract=4381417
 
+- id: RPC157
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: RPC157
+  issued:
+    - year: 1993
+      month: 4
+      day: 16
+  publisher: NC State Bar
+  title: 'RPC 157: Representing a Client of Questinable Competence'
+  type: document
+  URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/rpc-157/
+
+- id: RPC163
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: RPC163
+  issued:
+    - year: 1994
+      month: 4
+      day: 15
+  publisher: NC State Bar
+  title: >-
+    RPC 163: Request for Independent Guardian Ad Litem Where Existing Guardian
+    Has Conflict
+  type: document
+  URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/rpc-163/
+
+- id: RPC249
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: RPC249
+  issued:
+    - year: 1997
+      month: 4
+      day: 4
+  publisher: NC State Bar
+  title: >-
+    RPC 249: Communnication with a Child Represented by GAL and Attorney
+    Advocate
+  type: document
+  URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/rpc-249/
+
 - id: rubinInequalityWorkingClass1988
   abstract: >-
     This paper explores one possible explanation for the uniquely apolitical
@@ -19826,6 +20579,32 @@ references:
   title: 'Eugene V. Debs: Citizen and Socialist'
   title-short: Eugene V. Debs
   type: book
+
+- id: Salzman2010
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  author:
+    - family: Salzman
+      given: Leslie
+  citation-key: Salzman2010
+  container-title: University of Colorado Law Review
+  container-title-short: U. Colo. L. Rev.
+  issue: '1'
+  issued:
+    - year: 2010
+  language: eng
+  page: 157-246
+  source: HeinOnline
+  title: >-
+    Rethinking Guardianship (Again): Substituted Decision Making as a Violation
+    of the Integration Mandated of Title II of the Americans with Disabilities
+    Act
+  title-short: Rethinking Guardianship (Again)
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/ucollr81&i=159
+  volume: '81'
 
 - id: Sanders2019
   author:
@@ -20593,6 +21372,28 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:374%20U.S.%20398#autoLogin
   volume: '374'
 
+- id: Sherwin2001
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Sherwin
+      given: Byron L.
+  citation-key: Sherwin2001
+  container-title: 'European Judaism: A Journal for the New Europe'
+  ISSN: 0014-3006
+  issue: '1'
+  issued:
+    - year: 2001
+  page: 124-130
+  publisher: Berghahn Books
+  source: JSTOR
+  title: The Legacy of Rabbi Judah Loew of Prague
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/41443521
+  volume: '34'
+
 - id: Silbey2005
   abstract: >-
     Legal consciousness as a theoretical concept and topic of empirical research
@@ -20668,6 +21469,31 @@ references:
   type: article-journal
   URL: https://doi.org/10.1146/annurev-lawsocsci-110316-113326
   volume: '15'
+
+- id: Silverman2016
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Silverman
+      given: Lisa
+    - family: Holmes
+      given: Deborah
+  citation-key: Silverman2016
+  container-title: Austrian Studies
+  DOI: 10.5699/austrianstudies.24.2016.0001
+  ISSN: 1350-7532
+  issued:
+    - year: 2016
+  page: 1-12
+  publisher: Modern Humanities Research Association
+  source: JSTOR
+  title: Jewish Difference in the Austrian Context. Introduction
+  type: article-journal
+  URL: >-
+    https://www.jstor.org.elon.idm.oclc.org/stable/10.5699/austrianstudies.24.2016.0001
+  volume: '24'
 
 - id: silvermanWorldProcessor2014
   author:
@@ -21209,6 +22035,28 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.47
 
+- id: Sokel1999
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Sokel
+      given: Walter H.
+  citation-key: Sokel1999
+  container-title: New Literary History
+  ISSN: 0028-6087
+  issue: '4'
+  issued:
+    - year: 1999
+  page: 837-853
+  publisher: Johns Hopkins University Press
+  source: JSTOR
+  title: Kafka as a Jew
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/20057574
+  volume: '30'
+
 - id: solomonWyomingDataTrespass2016
   accessed:
     - year: 2023
@@ -21420,6 +22268,28 @@ references:
   title-short: The Common Law of the Workplace
   type: book
 
+- id: Stampfer2003
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Stampfer
+      given: Shaul
+  citation-key: Stampfer2003
+  container-title: Jewish History
+  ISSN: 0334-701X
+  issue: '2'
+  issued:
+    - year: 2003
+  page: 107-109
+  publisher: Springer
+  source: JSTOR
+  title: Maps of Jewish Settlement in Ukraine in 1648
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/20101493
+  volume: '17'
+
 - id: Stampfer2013
   abstract: >-
     Abstract The view that some or all of the Khazars, a central Asian people,
@@ -21450,6 +22320,40 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/10.2979/jewisocistud.19.3.1
   volume: '19'
+
+- id: Stampfer2018
+  abstract: >-
+    There is no question that knowledge about the history and stages of early
+    Jewish settlement in East Central Europe, and about the number of Jews in
+    the region at various times, is important for many reasons. While these
+    topics have not been neglected, new data, and novel (as well as not so
+    novel) methodologies, can add to our knowledge. Certainly, additional
+    sources, when found, will make it possible to refine the historical picture
+    – but there is already enough information to provide a reasonably clear
+    outline.¹  Communities do not appear by accident. Historians of the Jewish
+    community of Poland-Lithuania have
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Stampfer
+      given: Shaul
+  citation-key: Stampfer2018
+  collection-title: Shared and Comparative Histories
+  container-title: Jews and Germans in Eastern Europe
+  edition: '1'
+  editor:
+    - family: Grill
+      given: Tobias
+  issued:
+    - year: 2018
+  page: 1-20
+  publisher: De Gruyter
+  source: JSTOR
+  title: Settling down in Eastern Europe
+  type: chapter
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/j.ctvbkk4bs.4
 
 - id: StandingCommitteeonProfessionalRegulation2021
   author:
@@ -22021,6 +22925,41 @@ references:
   type: webpage
   URL: >-
     https://www.lsac.org/data-research/research/study-relationship-between-bar-admissions-data-and-subsequent-lawyer
+
+- id: Suchoff2016
+  abstract: >-
+    In revisiting the Jewish reception of Kafka, I would like to begin with a
+    story that Franz Kafka told Milena Jesenská, his Czech translator and lover.
+    In this story, Kafka tells Milena of his own interest in the problem of
+    “universal” definitions – those ways we categorize other people. The topic
+    of Kafka’s story is the commonplace definitions that are used to distinguish
+    Germans from Jews. The tale concerns Mathilde, the wife of Heinrich Heine,
+    the greatest – we could say the most universally loved – German-Jewish
+    writer before Kafka. “Next we come to Judaism,” Kafka tells Milena, after a
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Suchoff
+      given: David
+  citation-key: Suchoff2016
+  container-title: Kafka and the Universal
+  edition: '1'
+  editor:
+    - family: Cools
+      given: Arthur
+    - family: Liska
+      given: Vivian
+  issued:
+    - year: 2016
+  page: 178-195
+  publisher: De Gruyter
+  source: JSTOR
+  title: 'Irreducible Pluralities: The Jewish Legacy of Franz Kafka'
+  title-short: Irreducible Pluralities
+  type: chapter
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/j.ctvbkjt9v.12
 
 - id: SullivanLongHagerty1991
   authority: N.L.R.B.
@@ -23073,6 +24012,46 @@ references:
   URL: >-
     https://jacobin.com/2023/05/american-labor-movement-decline-salting-union-organizing/
 
+- id: Traverso1995
+  abstract: >-
+    The Jews and Germany debunks a modern myth: that once upon a time there was
+    a Judeo-German symbiosis, in which two cultures met and brought out the best
+    in each other. Enzo Traverso argues that to the contrary, the attainments of
+    Jews in the German-speaking world were due to the Jews aspiring to be
+    German, with little help from and often against the open hostility of
+    Germans. As the Holocaust proved in murder and theft, German Jews could
+    never be German enough. Now the works of German Jews are being published and
+    reprinted in Germany. It is a matter of enormous difference whether the
+    German rediscovery of German Jews is another annexation of Jewish property
+    or an act of rebuilding a link between traditions. Traverso shows how
+    tenuous the link was in the first place. He resumes the queries of German
+    Jews who asked throughout the twentieth century what it meant to be both
+    Jewish and German. Hannah Arendt, Gershom Scholem, Martin Buber, Max
+    Horkheimer, Walter Benjamin, Theodor Adorno, Ernst Bloch, Rosa Luxemburg,
+    Franz Kafka, and many more thinkers of genius found the problems unavoidable
+    and full of paradoxes. In returning to them Traverso not only demolishes a
+    sugary myth but also reasserts the responsibility of history to recover
+    memory, even if bitter and full of pain. Enzo Traverso was born in Italy in
+    1957. He currently works at the Bibliothéque de documentation internationale
+    contemporaine in Nanterre, where he is in charge of the German section of
+    documentary research. He is also the author of The Marxists and the Jewish
+    Question: History of a Debate, 1843-1943.
+  author:
+    - family: Traverso
+      given: Enzo
+  citation-key: Traverso1995
+  ISBN: 978-0-8032-4426-9
+  issued:
+    - year: 1995
+  language: en
+  number-of-pages: '248'
+  publisher: University of Nebraska Press
+  title: >-
+    The Jews & Germany: From the "Judeo-German Symbiosis" to the Memory of
+    Auschwitz
+  title-short: The Jews & Germany
+  type: book
+
 - id: TriplePlaySports2014-NLRB
   authority: N.L.R.B.
   citation-key: TriplePlaySports2014-NLRB
@@ -23332,6 +24311,22 @@ references:
     Congress.gov | Library of Congress
   type: webpage
   URL: https://constitution.congress.gov/browse/essay/amdt1-7-13-1/ALDE_00000771/
+
+- id: UnderstandingGuardianship_nd
+  abstract: >-
+    Guardianship can be complicated, and even dangerous. Hear from Kerry Peck
+    the dangers of financial exploitation through guardianship, and how you can
+    protect yourself or a loved one.
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: UnderstandingGuardianship_nd
+  language: en
+  title: Understanding Guardianship
+  type: webpage
+  URL: >-
+    https://www.americanbar.org/groups/senior_lawyers/resources/voice-of-experience/2010-2022/understanding-guardianship/
 
 - id: UniversalFoundry1979
   accessed:
@@ -24103,6 +25098,28 @@ references:
   title: 'Learning to Labor: How Working Class Kids Get Working Class Jobs'
   title-short: Learning to Labor
   type: book
+
+- id: Wistrich1990
+  accessed:
+    - year: 2024
+      month: 7
+      day: 14
+  author:
+    - family: Wistrich
+      given: Robert S.
+  citation-key: Wistrich1990
+  container-title: 'European Judaism: A Journal for the New Europe'
+  ISSN: 0014-3006
+  issue: '1'
+  issued:
+    - year: 1990
+  page: 20-30
+  publisher: Berghahn Books
+  source: JSTOR
+  title: The German-Jewish Symbiosis in Central Europe
+  type: article-journal
+  URL: https://www.jstor.org.elon.idm.oclc.org/stable/41443007
+  volume: '23'
 
 - id: witwerCorruptionReformTeamsters2003
   abstract: >-
