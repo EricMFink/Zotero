@@ -6391,6 +6391,141 @@ references:
   URL: www.jstor.org/stable/40342522
   volume: '14'
 
+- id: Dukes2020
+  abstract: >-
+    This paper considers the interaction of legal norms and social norms in the
+    regulation of work and working relations, observing that, with the
+    contraction of collective bargaining, this is a matter that no longer
+    attracts the attention that it deserves. Drawing upon two concepts from
+    sociology – Max Weber's ‘labour constitution’ and Seymour Martin Lipset's
+    ‘occupational community’ – it focuses on possibilities for the emergence,
+    within groups of workers, of shared normative beliefs concerning ‘industrial
+    justice’ (Selznick); for collective solidarity and agency; for the
+    transformation of shared beliefs into legally binding norms; and for the
+    enforcement of those norms. If labour law is currently in ‘crisis’, then a
+    promising route out of the crisis, we argue, is for the law to recover its
+    procedural focus, facilitating and encouraging these processes.
+  accessed:
+    - year: 2025
+      month: 1
+      day: 6
+  author:
+    - family: Dukes
+      given: Ruth
+    - family: Streeck
+      given: Wolfgang
+  citation-key: Dukes2020
+  container-title: Journal of Law and Society
+  DOI: 10.1111/jols.12254
+  ISSN: 1467-6478
+  issue: '4'
+  issued:
+    - year: 2020
+  language: en
+  page: 612-638
+  source: Wiley Online Library
+  title: >-
+    Labour Constitutions and Occupational Communities: Social Norms and Legal
+    Norms at Work
+  title-short: Labour Constitutions and Occupational Communities
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.12254
+  volume: '47'
+
+- id: Dukes2020a
+  abstract: >-
+    This paper revisits the notions of contract and status found in classical
+    sociology, legal theory, and labour law. Adopting an historical perspective,
+    it explores the fragmentation of the status of industrial citizenship during
+    the neoliberal period and discusses the enduring usefulness of the
+    status/contract distinction in analyzing current trends in the regulation of
+    working relations, including the spread of “gig” or platform-mediated work.
+    Elements of status, it is argued, must always be present if work is to be
+    performed and paid for as the parties require it. Claims to the contrary –
+    for example, that the gig economy creates a labour market without search
+    frictions and only minimal transaction costs: contracts without status –
+    assume an undersocialized model of (monadic) social action that has no
+
+    basis in the reality of social life (Durkheim, Weber). Still, status may
+    come in a variety of forms that are more or less desirable from the
+    perspective of workers, businesses, and society at large. The paper traces
+    what it conceives as the privatization of status via contracts between
+    employers and workers
+
+    under the pressure of marketization and dominated by corporate hierarchies.
+    Towards the end of the twentieth century, sociologists observed the division
+    of workers into two groups or classes – core (with relatively well-paid and
+    secure employment) and peripheral (low-paid and insecure). Thirty years
+    later, gross inequalities of wealth and conceptions of the neoliberal self
+    as ever-improving, everperfectible, are combining to create novel forms of
+    status not fully anticipated by the literature.
+  accessed:
+    - year: 2025
+      month: 1
+      day: 6
+  author:
+    - family: Dukes
+      given: Ruth
+    - family: Streeck
+      given: Wolfgang
+  citation-key: Dukes2020a
+  genre: Research Reports or Papers
+  issued:
+    - year: 2020
+      month: 11
+      day: 18
+  language: en
+  publisher: Max Planck Institute for the Study of Societies
+  title: >-
+    From Industrial Citizenship to Private Ordering? Contract, Status, and the
+    Question of Consent. MPIfG Discussion Paper 20/13
+  title-short: From Industrial Citizenship to Private Ordering?
+  type: manuscript
+  URL: http://hdl.handle.net/21.11116/0000-0007-6AAA-3
+
+- id: Dukes2023
+  abstract: >-
+    Over the course of the past 40 years, neoliberalism has all but destroyed
+    the institutions that once civilized labour markets. In the wake of that
+    destruction, labour law reform is being driven in some jurisdictions by a
+    new kind of right-wing populist politics. What does this hold in store for
+    work relations? Our investigation of contemporary labour law begins with a
+    brief look backwards to the pre- and post-war decades and to the ostensible
+    depoliticization of the law under neoliberalism. We then consider the
+    possible emergence of a distinctly right-wing populist approach to labour
+    law in countries including the United States, the United Kingdom, and
+    Poland, drawing comparisons with the German experience after neocorporatism.
+    Finally, we take a normative turn and consider what steps ought to be taken
+    by a government intent on addressing class inequalities and restoring the
+    kind of rights that post-war democracies once conferred on workers
+    understood to be industrial citizens.
+  accessed:
+    - year: 2025
+      month: 1
+      day: 6
+  author:
+    - family: Dukes
+      given: Ruth
+    - family: Streeck
+      given: Wolfgang
+  citation-key: Dukes2023
+  container-title: Journal of Law and Society
+  DOI: 10.1111/jols.12423
+  ISSN: 1467-6478
+  issue: '2'
+  issued:
+    - year: 2023
+  language: en
+  license: >-
+    © 2023 The Authors. Journal of Law and Society published by John Wiley &
+    Sons Ltd on behalf of Cardiff University (CU).
+  page: 165-184
+  source: Wiley Online Library
+  title: Labour law after neoliberalism?
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.12423
+  volume: '50'
+
 - id: duncanIndenturedServantsAcademia1998
   author:
     - family: Duncan
@@ -9652,6 +9787,31 @@ references:
   URL: http://www.jstor.org/stable/1372637
   volume: '1989'
 
+- id: Goldberg2024
+  accessed:
+    - year: 2025
+      month: 1
+      day: 7
+  author:
+    - family: Goldberg
+      given: Michael J.
+  citation-key: Goldberg2024
+  container-title: Berkeley Journal of Employment and Labor Law
+  container-title-short: Berkeley J. Emp. & Lab. L.
+  issue: '2'
+  issued:
+    - year: 2024
+  language: eng
+  page: 177-232
+  source: HeinOnline
+  title: >-
+    At the Intersection of Federal Labor Law and Rank-and-File Activism: A Legal
+    History of Teamsters for a Democratic Union
+  title-short: At the Intersection of Federal Labor Law and Rank-and-File Activism
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/berkjemp45&i=185
+  volume: '45'
+
 - id: goldeyUnionProfessorsFraming2010
   abstract: >-
     This study traces the development of union loyalties among community college
@@ -9755,6 +9915,18 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/3054095
   volume: '31'
+
+- id: GoodwillIndUnemployment1993
+  authority: Pa. Commonwealth Court
+  citation-key: GoodwillIndUnemployment1993
+  container-title: A. 2d
+  issued:
+    - literal: Argued October 6, 1993
+  jurisdiction: Pa
+  page: '738'
+  title: Goodwill Ind. v. Unemployment Comp. Bd.
+  type: legal_case
+  volume: '634'
 
 - id: gordonAmericanLegalProfession2008
   abstract: >-
@@ -13606,6 +13778,58 @@ references:
     https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=5807630&site=ehost-live
   volume: '44'
 
+- id: Krieken2019
+  abstract: >-
+    The German sociologist Norbert Elias developed a wide-ranging sociological
+    analysis of the interconnections between processes of state formation,
+    institutional dynamics, and individual subjectivity, or habitus, and the
+    logic of their processes of transformation over time. His work has had
+    significant impact on social scientific thought in a wide variety of fields,
+    including the historical sociology of the self, violence, crime and
+    punishment, organizations, emotions, sexuality, social control, and sport.
+    His influence in legal scholarship, however, has concentrated in
+    criminology, with only sporadic use of his ideas in relation to other topics
+    in law and social science research. This review highlights the ways in which
+    Elias can be read as a theorist of regulation by outlining (a) the core
+    elements of Elias&apos;s “process-figurational” sociology and his analysis
+    of processes of civilization and decivilization; (b) Elias&apos;s
+    observations on law and state formation; (c) a selection of the sociolegal
+    research related to his sociological approach, in fields such as crime and
+    punishment, evolving modes of regulation, and international relations; and
+    (d) the potential future directions in which Elias&apos;s
+    process-figurational approach might move in sociolegal research and
+    scholarship. These include the emotional dimensions of family law, human
+    rights and humanitarianism, the intersections of legal evolution and broader
+    processes of social change, legal pluralism and legal culture, tort law,
+    constitutionalism, and the rule of law.
+  accessed:
+    - year: 2025
+      month: 1
+      day: 6
+  author:
+    - family: Krieken
+      given: Robert
+      dropping-particle: van
+  citation-key: Krieken2019
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev-lawsocsci-101317-030909
+  ISSN: 1550-3585, 1550-3631
+  issue: Volume 15, 2019
+  issued:
+    - year: 2019
+      month: 10
+      day: 13
+  language: en
+  page: 267-288
+  publisher: Annual Reviews
+  source: www.annualreviews.org
+  title: 'Law and Civilization: Norbert Elias as a Regulation Theorist'
+  title-short: Law and Civilization
+  type: article-journal
+  URL: >-
+    https://www.annualreviews.org/content/journals/10.1146/annurev-lawsocsci-101317-030909
+  volume: '15'
+
 - id: Kritzer2015
   abstract: >-
     All professionals make mistakes and sometimes those mistakes harm the
@@ -14204,6 +14428,30 @@ references:
     Chicago
   title-short: The Origins of Right to Work
   type: book
+
+- id: LeRoy2024
+  accessed:
+    - year: 2025
+      month: 1
+      day: 7
+  author:
+    - family: LeRoy
+      given: Michael H.
+  citation-key: LeRoy2024
+  container-title: Berkeley Journal of Employment and Labor Law
+  container-title-short: Berkeley J. Emp. & Lab. L.
+  issue: '2'
+  issued:
+    - year: 2024
+  language: eng
+  page: 119-176
+  source: HeinOnline
+  title: >-
+    Emancipating College Athletes from Amateurism under the Fair Labor Standards
+    Act
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/berkjemp45&i=127
+  volume: '45'
 
 - id: LesterButler2015
   accessed:
@@ -15601,6 +15849,20 @@ references:
     Paperback Edition
   title-short: Blood Passion
   type: book
+
+- id: MartinezDirDept2015
+  authority: Ark. Court of Appeals, 4th Div.
+  citation-key: MartinezDirDept2015
+  container-title: SW 3d
+  issued:
+    - year: 2015
+      month: 12
+      day: 16
+  jurisdiction: Ark
+  page: '276'
+  title: Martinez v. Dir., Dept. of Workforce Servs.
+  type: legal_case
+  volume: '478'
 
 - id: Marx1992
   abstract: "The first volume of a political treatise that changed the worldOne of the most notorious works of modern times, as well as one of the most influential,\_Capital\_is an incisive critique of private property and the social relations it generates. Living in exile in England, where this work was largely written, Marx drew on a wide-ranging knowledge of its society to support his analysis and create fresh insights. Arguing that capitalism would cause an ever-increasing division in wealth and welfare, he predicted its abolition and replacement by a system with common ownership of the means of production.\_Capital\_rapidly acquired readership among the leaders of social democratic parties, particularly in Russia in Germany, and ultimately throughout the world, to become a work described by Marx friend and collaborator Friedrich Engels as “the Bible of the working class.”For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
@@ -19041,6 +19303,20 @@ references:
     - family: Goldhammer
       given: Arthur
   type: book
+
+- id: PinnacleBancorpInc2023
+  authority: Nebraska Supreme Court
+  citation-key: PinnacleBancorpInc2023
+  container-title: NW 2d
+  issued:
+    - year: 2023
+      month: 3
+      day: 31
+  jurisdiction: Neb
+  page: '277'
+  title: Pinnacle Bancorp, Inc. v. Moritz
+  type: legal_case
+  volume: '987'
 
 - id: Piquero2016
   accessed:
@@ -24672,6 +24948,20 @@ references:
   type: webpage
   URL: >-
     http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
+
+- id: WaverlyHtsUnemployment2017
+  authority: Pa. Commonwealth Court
+  citation-key: WaverlyHtsUnemployment2017
+  container-title: A. 3d
+  issued:
+    - year: 2017
+      month: 11
+      day: 13
+  jurisdiction: Pa
+  page: '1224'
+  title: Waverly Hts. v. Unemployment Bd of Review
+  type: legal_case
+  volume: '173'
 
 - id: wearsWhoEmployerTriangular2012
   author:
