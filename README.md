@@ -1,2 +1,2 @@
 # Zotero
- Library exports, CSL styles, & PDFs
+ Library exports, CSL styles, PDFs, Notes
