@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+<info>
+  <title>IndigoBook Law Review</title>
+  <id>https://emfink.net/Zotero/CSL-styles/indigobook-law-review.csl</id>
+  <link href="https://github.com/EricMFink/Zotero/CSL-styles/indigobook-law-review.csl" rel="self"/>
+  <link href="http://www.zotero.org/styles/bluebook-law-review" rel="documentation"/>
+  <link href="https://law.resource.org/pub/us/code/blue/IndigoBook.html" rel="documentation"/>
+  <author>
+    <name>Eric M. Fink</name>
+    <email>efink@elon.edu</email>
+  </author>
+  <category citation-format="note"/>
+  <category field="law"/>
+  <summary>IndigoBook legal citation style for law reviews.</summary>
+  <updated>2023-02-27T14:35:00+00:00</updated>
+  <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+</info>
+
+<locale>
+  <style-options />
+  <terms>
+    <term name="editor" form="verb-short">ed.</term>
+    <term name="translator" form="verb-short">trans.</term>
+    <term name="number" form="long">number</term>
+    <term name="number" form="short">no.</term>
+    <term name="and" form="symbol">&amp;</term>
+    <term name="article">article</term>
+    <term name="director">director</term>
+    <term form="short" name="director">dir.</term>
+    <term form="short" name="article">
+      <single>art.</single>
+      <multiple>arts.</multiple>
+    </term>
+    <term name="rule">Rule</term>
+    <term name="rule" form="short">r.</term>
+    <term form="short" name="chapter">ch.</term>
+    <term form="short" name="column">col.</term>
+    <term form="short" name="figure">fig.</term>
+    <term form="short" name="issue">no.</term>
+    <term form="short" name="line">
+      <single>l.</single>
+      <multiple>ll.</multiple>
+    </term>
+    <term form="short" name="note">
+      <single>n.</single>
+      <multiple>nn.</multiple>
+    </term>
+    <term name="number">
+      <single>number</single>
+      <multiple>numbers</multiple>
+    </term>
+    <term name="number" form="short">
+      <single>no.</single>
+      <multiple>nos.</multiple>
+    </term>
+    <term form="short" name="opus">op.</term>
+    <term form="short" name="page">
+      <single>p.</single>
+      <multiple>pp.</multiple>
+    </term>
+    <term form="short" name="paragraph">
+      <single>para.</single>
+      <multiple>paras.</multiple>
+    </term>
+    <term form="symbol" name="paragraph">
+      <single>&#182;</single>
+      <multiple>&#182;&#182;</multiple>
+    </term>
+    <term form="short" name="part">pt.</term>
+    <term form="short" name="section">
+      <single>sec.</single>
+      <multiple>secs.</multiple>
+    </term>
+    <term form="symbol" name="section">
+      <single>&#167;</single>
+      <multiple>&#167;&#167;</multiple>
+    </term>
+    <term form="short" name="verse">vrs.</term>
+    <term form="short" name="volume">vol.</term>
+    <term form="short" name="edition">
+      <single>ed.</single>
+      <multiple>eds.</multiple>
+    </term>
+    <term form="short" name="supplement">
+      <single>supp.</single>
+      <multiple>supps.</multiple>
+    </term>
+    <term name="ibid">id.</term>
+    <term form="verb" name="interview">interview by</term>
+    <term form="short" name="translator">trans.</term>
+    <term name="ordinal">th</term>
+    <term name="ordinal-01">st</term>
+    <term name="ordinal-02">d</term>
+    <term name="ordinal-03">d</term>
+    <term name="ordinal-11">th</term>
+    <term name="ordinal-12">th</term>
+    <term name="ordinal-13">th</term>
+  </terms>
+  <date form="text">
+    <date-part form="short" name="month" suffix=" "/>
+    <date-part form="numeric" name="day" suffix=", "/>
+    <date-part name="year"/>
+  </date>
+</locale>
+
+<!-- Authors -->
+<macro name="name-macro">
+  <choose>
+    <if type="bill legal_case legislation" match="any">
+    </if> 
+    <else>
+      <names variable="author">
+      <name and="symbol" delimiter=", " delimiter-precedes-last="never"/>
+      <label form="short" prefix=" "/>
+      <substitute>
+        <text variable="title" form="short"/>
+      </substitute>
+    </names>
+    </else>
+  </choose>
+</macro>
+
+<macro name="author-short">
+  <choose>
+    <if type="bill legal_case legislation" match="any">
+    </if> 
+    <else-if type="book graphic motion_picture report song" match="any">
+      <text macro="name-short-macro" font-variant="small-caps"/>
+    </else-if>
+    <else>
+      <text macro="name-short-macro"/>
+    </else>
+  </choose>
+</macro>
+
+<macro name="name-short-macro">
+  <choose>
+  <if type="bill legal_case legislation" match="any">
+  </if> 
+  <else>
+  <names variable="author">
+    <name form="short" and="text" delimiter=", "/>
+    <label form="verb-short" prefix=", "/>
+    <substitute>
+      <text variable="title" form="short"/>
+    </substitute>
+  </names>
+  </else>
+  </choose>
+</macro>
+
+<macro name="author">
+  <choose>
+    <if type="bill legal_case legislation" match="any">
+    </if> 
+    <else-if type="book graphic motion_picture report song" match="any">
+      <text macro="name-macro" font-variant="small-caps"/>
+    </else-if>
+    <else>
+      <text macro="name-macro"/>
+    </else>
+  </choose>
+</macro>
+
+<!-- Editors and translators -->
+<macro name="editor-translator">
+  <names variable="editor translator" suffix=" " delimiter=", ">
+    <name and="symbol" delimiter=", "/>
+    <label form="short" prefix=" " suffix=".," strip-periods="true"/>
+  </names>
+</macro>
+
+<!-- link to online content -->
+<macro name="access">
+  <choose>
+    <if variable="URL">
+      <text variable="URL"/>
+      <group prefix=" (" suffix=")">
+        <text value="last visited" suffix=" "/>
+        <date variable="accessed">
+          <date-part name="month" form="short" suffix=" " strip-periods="true"/>
+          <date-part name="day" suffix=", "/>
+          <date-part name="year"/>
+        </date>
+      </group>
+    </if>
+  </choose>
+</macro>
+
+<!-- Titles -->
+<macro name="full-title">
+  <choose>
+    <if type="article-journal article-newspaper article-magazine chapter hearing legal_case paper-conference post-weblog thesis webpage" match="any">
+      <text variable="title" font-style="italic" suffix=", "/>
+    </if>
+    <else-if type="legislation">
+      <text variable="title" font-variant="normal"  suffix=", "/>
+    </else-if>
+    <else-if type="bill">
+      <group >
+      <text variable="title" font-variant="normal"  suffix=", "/>
+      <text variable="number" font-variant="normal"  suffix=", "/>
+      </group>
+    </else-if>
+    <else-if type="article-journal" match="any">
+      <text variable="title" font-style="italic" suffix=", "/>
+    </else-if>
+    <else-if type="book" match="any">
+      <text variable="title" font-variant="small-caps" suffix=", "/>
+    </else-if>
+    <else>
+      <text variable="title" suffix=""/>
+    </else>
+  </choose>
+</macro>
+
+<macro name="short-title">
+  <choose>
+    <if type="article-journal article-newspaper article-magazine chapter hearing legal_case paper-conference post-weblog thesis webpage" match="any">
+      <text form="short" variable="title" font-style="italic"/>
+    </if>
+    <else-if type="legislation bill" match="any">
+      <text form="short" variable="title" font-variant="normal"/>
+    </else-if>
+    <else-if type="article-journal" match="any">
+      <text form="short" variable="title" font-style="italic"/>
+    </else-if>
+    <else-if type="book" match="any">
+      <text form="short" variable="title" font-variant="small-caps"/>
+    </else-if>
+    <else>
+      <text form="short" variable="title"/>
+    </else>
+  </choose>
+</macro>
+
+<!-- Journal, Legal Reporter, etc.  -->
+<macro name="source">
+  <choose>
+    <if type="article-journal" match="any">
+      <group delimiter=" ">
+        <text variable="volume"/>
+        <text macro="container"/>
+      </group>
+      <text variable="page" prefix=" "/>
+      <text variable="locator" prefix=", "/>
+    </if>
+    <else-if type="legal_case">
+        <group delimiter=" ">
+            <choose>
+              <if variable="container-title">
+                <group delimiter=" ">
+                <text variable="volume"/>
+                <text variable="container-title"/>
+                <text variable="page"/>
+                </group>
+              </if>
+              <else>
+                <group delimiter=", "  prefix="No. ">
+                <text variable="number"/>
+                </group>
+              </else>
+            </choose>
+        </group>
+      <text variable="locator" prefix=", "/>
+    </else-if>
+    <else-if type="legislation">
+      <choose>
+        <!-- FOR USC & CFR-->
+        <if variable="volume">  
+          <choose>
+            <if variable="locator">
+              <group delimiter=" ">
+              <text variable="volume"/>
+              <text macro="container"/>
+              <text variable="locator" prefix="§ "/>
+              </group>
+            </if>
+            <else>
+              <group delimiter=" ">
+              <text variable="volume"/>
+              <text macro="container"/>
+              <text variable="section" prefix="§ "/>
+              </group>
+            </else>
+          </choose>
+        </if>
+        <!-- FOR STATE STATUTES, FRCP, ETC.-->
+        <else>
+          <text macro="container"/>
+          <text variable="section" prefix=" § "/>
+          <text variable="locator" prefix=""/>
+        </else>
+      </choose>
+    </else-if> 
+    <else-if type="bill hearing" match="any">
+		<group delimiter=" ">
+			<text variable="authority" form="short"/>
+			<text variable="chapter-number" form="short" prefix=", "/>
+		</group>
+	</else-if>
+   	<else-if type="report">
+		<text variable="number" prefix=", "/>
+	</else-if>
+    <else-if type="chapter paper-conference" match="any">
+      <group prefix=", " delimiter=" " suffix=" ">
+        <text variable="volume"/>
+        <text macro="container"/>
+      </group>
+      <text variable="page"/>
+      <text variable="locator" prefix=", "/>
+    </else-if>
+    <else-if type="book" match="any">
+      <text variable="page" prefix=" "/>
+      <text variable="locator" prefix=" "/>
+    </else-if>
+    <else-if type="article-newspaper article-magazine thesis" match="any">
+      <group delimiter=", ">
+        <group delimiter=" ">
+          <text variable="volume"/>
+          <text macro="container"/>
+        </group>
+        <text macro="issuance"/>
+        <group delimiter=" ">
+          <text value="at"/>
+          <text variable="page"/>
+        </group>
+      </group>
+    </else-if>
+    <else>
+      <group prefix=", " delimiter=" " suffix=" ">
+        <text variable="volume"/>
+        <text macro="container"/>
+      </group>
+      <text variable="page" prefix=" "/>
+      <text variable="locator" prefix=" "/>
+    </else>
+  </choose>
+</macro>
+
+<macro name="short-source">
+  <group>
+    <choose>
+    <if type="legislation">
+      <group delimiter=" ">
+        <text variable="volume"/>
+        <text macro="container"/>
+      </group>
+      <text variable="locator" prefix=" § "/>
+    </if>
+    </choose>
+  </group>
+</macro>
+
+<!-- Issuing Authority & Date -->
+<macro name="issuance">
+  <choose>
+    <if type="legal_case">
+      <choose>
+        <if variable="container-title">
+          <group delimiter=" " prefix=" (" suffix=")">
+            <text variable="authority" form="short"/>
+            <date variable="issued">
+            <date-part name="year"/>
+            </date>
+          </group>
+        </if>
+        <else>
+          <group delimiter=" " prefix=" (" suffix=")">
+          <text variable="authority" form="short"/>
+          <date variable="issued">
+          <date-part name="month" form="short" suffix=" "/>
+          <date-part name="day" suffix=", "/>
+          <date-part name="year"/>
+          </date>
+          </group>
+        </else>
+      </choose>
+    </if>
+    <else-if type="bill hearing legislation" match="any">
+      <group prefix=" (" suffix=")">
+        <date variable="issued">
+        <date-part name="year"/>
+        </date>
+      </group>
+    </else-if>	
+    <else-if type="article-journal article-magazine article-newspaper broadcast interview manuscript map patent personal_communication song speech thesis webpage" match="any">
+      <group prefix=" (" suffix=")">
+        <choose>
+          <if type="article-newspaper thesis" match="any">
+            <group suffix=", ">
+            <date variable="issued">
+            <date-part name="month"/>
+            <date-part name="day" prefix=" "/>
+            </date>
+            </group>
+          </if>
+        </choose>
+        <date variable="issued">
+        <date-part name="year"/>
+        </date>
+      </group>
+    </else-if>
+
+    <else>
+      <group delimiter=" " prefix=" (" suffix=")">
+        <text macro="editor-translator"/>
+        <text variable="edition" suffix=" ed."/>
+        <date variable="issued">
+        <date-part name="year"/>
+        </date>
+      </group>
+    </else>
+  </choose>
+</macro>
+
+
+<!-- Id. and subsequent references -->
+<macro name="at_page">
+  <group>
+    <text value="at" prefix=" "/>
+    <text variable="locator" prefix=" "/>
+  </group>
+</macro>
+<!-- sets up the "in" in front of book sections, etc. -->
+<macro name="container">
+  <choose>
+    <if type="chapter paper-conference" match="any">
+      <group>
+        <text term="in" font-style="italic" prefix=" "/>
+        <text variable="container-title" font-variant="small-caps" prefix=" "/>
+      </group>
+    </if>
+    <else-if type="legal_case">
+      <text variable="container-title" form="short" prefix=" "/>
+    </else-if>
+    <else-if type="legislation">
+      <text variable="container-title" form="short" prefix=" "/>
+    </else-if>
+    <else-if type="article-journal">
+      <text variable="container-title" form="short" font-variant="small-caps" prefix=" "/>
+    </else-if>
+    <else>
+      <text variable="container-title" font-variant="small-caps"/>
+    </else>
+  </choose>
+</macro>
+
+<!-- dates -->
+<macro name="year-sort">
+  <choose>
+    <if variable="issued">
+      <date variable="issued" form="numeric" date-parts="year"/>
+    </if>
+    <else>
+      <text term="no date" form="short"/>
+    </else>
+  </choose>
+</macro>
+
+<macro name="full-date">
+    <choose>
+      <if variable="issued">
+          <group delimiter=" ">
+              <date variable="issued">
+              <date-part name="month" form="short" suffix=" "/>
+              <date-part name="day" suffix=", "/>
+              <date-part name="year"/>
+              </date>
+          </group>
+      </if>
+      <else>
+        <text term="no date" form="short"/>
+      </else>
+    </choose>
+  </macro>
+
+<macro name="year-date">
+  <choose>
+    <if variable="issued">
+      <group delimiter=" ">
+        <date variable="original-date" form="numeric" date-parts="year" prefix="[" suffix="]"/>
+        <date variable="issued" form="numeric" date-parts="year"/>
+      </group>
+    </if>
+    <else>
+      <text term="no date" form="short"/>
+    </else>
+  </choose>
+</macro>
+
+<macro name="sort-key">
+<choose>
+  <if type="legal_case" match="any">
+    <text value="1"/>
+  </if>
+  <else>
+    <text value="2"/>
+  </else>
+</choose>
+</macro>
+
+
+<!-- CITATION-->
+<citation et-al-min="4" et-al-use-first="1">
+  <layout suffix="." delimiter="; ">
+    <choose>
+      <if position="ibid">
+        <text value="id." text-case="capitalize-first" font-style="italic"/>
+        <choose>
+        <if type="legislation">
+          <text variable="section" prefix=" § "/>
+          <text variable="locator" prefix=""/>
+        </if>
+        <else>
+          <text macro="at_page" suffix="."/>
+        </else>
+        </choose>
+        <!-- period will not show up - this is for find-and-replace later. -->
+      </if>
+      <else-if position="subsequent">
+        <choose>
+          <if type="legal_case">
+            <text macro="short-title"/>
+            <text value="supra" font-style="italic" prefix=", "/>
+            <text value="note" prefix=" "/>
+            <text variable="first-reference-note-number" prefix=" "/>
+            <text macro="at_page"/>
+          </if>
+          <else-if type="legislation">
+            <text macro="source"/>
+          </else-if>
+          <else>
+            <choose>
+              <if type="book" match="any">
+                <text variable="volume" suffix=" "/>
+              </if>
+            </choose>
+            <text macro="author-short"/>
+            <text value="supra" font-style="italic" prefix=", "/>
+            <text value="note" prefix=" "/>
+            <text variable="first-reference-note-number" prefix=" "/>
+            <text macro="at_page"/>
+          </else>
+        </choose>
+      </else-if>
+      <else>
+        <choose>
+          <if type="book" match="any">
+            <text variable="volume" suffix=" "/>
+          </if>
+        </choose>
+        <choose>
+          <if type="article-newspaper article-magazine thesis" match="any">
+            <text macro="author" suffix=", "/>
+            <text macro="full-title"/>
+            <text macro="source"/>
+          </if>
+          <else-if type="legislation" match="any">
+            <text macro="source"/>
+            <text macro="issuance"/>
+          </else-if>
+          <else-if type="bill hearing legal_case" match="any">
+            <text macro="full-title"/>
+            <text macro="source"/>
+            <text macro="issuance"/>
+          </else-if>
+          <else>
+            <text macro="author" suffix=", "/>
+            <text macro="full-title"/>
+            <text macro="source"/>
+            <text macro="issuance"/>
+            <text macro="access" prefix=", "/>
+          </else>
+        </choose>
+      </else>
+    </choose>
+  </layout>
+</citation>
+
+</style>

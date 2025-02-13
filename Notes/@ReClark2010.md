@@ -1,0 +1,15 @@
+---
+tags: []
+parent: ""
+collections:
+    - Guardianships
+$version: 25175
+$libraryID: 1
+$itemKey: TB37R3AP
+
+---
+# Annotations (8/11/2024, 10:11:23 PM)
+
+<span class="highlight" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F21885%2Fitems%2FQDEEAYY7%22%2C%22annotationKey%22%3A%22Z79UUVQ8%22%2C%22color%22%3A%22%23fced8c%22%2C%22pageLabel%22%3A%221%22%2C%22position%22%3A%7B%22pageIndex%22%3A0%2C%22rects%22%3A%5B%5B273.919%2C736.101%2C364.117%2C746.145%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F21885%2Fitems%2FGX8NR253%22%5D%2C%22locator%22%3A%221%22%7D%7D" ztype="zhighlight"><a href="zotero://open-pdf/library/items/QDEEAYY7?page=1&#x26;annotation=Z79UUVQ8">“688 S.E.2d 484 (2010)”</a></span> <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F21885%2Fitems%2FGX8NR253%22%5D%2C%22locator%22%3A%221%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/GX8NR253"><a href="zotero://select/library/items/GX8NR253">“In re Clark”, 2010, p. 1</a></a></span>)</span>
+
+<span class="highlight" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F21885%2Fitems%2FQDEEAYY7%22%2C%22annotationKey%22%3A%229X2GY67N%22%2C%22color%22%3A%22%23fced8c%22%2C%22pageLabel%22%3A%223%22%2C%22position%22%3A%7B%22pageIndex%22%3A2%2C%22rects%22%3A%5B%5B460.247%2C108.351%2C552.029%2C118.395%5D%2C%5B72.423%2C94.851%2C551.603%2C104.895%5D%2C%5B72.738%2C81.351%2C548.676%2C91.395%5D%2C%5B72.378%2C67.851%2C553.455%2C77.895%5D%2C%5B72%2C54.351%2C565.334%2C64.395%5D%2C%5B72.144%2C40.851%2C471.96%2C50.895%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F21885%2Fitems%2FGX8NR253%22%5D%2C%22locator%22%3A%223%22%7D%7D" ztype="zhighlight"><a href="zotero://open-pdf/library/items/QDEEAYY7?page=3&#x26;annotation=9X2GY67N">“Judge Gore entered an Order Disqualifying Attorney that was subsequently signed on 26 June 2007. In that order, Judge Gore recited that Booth Harrington opposed restoration of Ms. Clark's competency; that no representative of Booth Harrington "had contacted or communicated with [Ms. Clark] since the filing of the Petition of Restoration;" that Ms. Clark had indicated that she did not want Booth Harrington to represent her; and that Ms. Clark "wished to proceed on her own accord fully" and ordered that Mr. Johns and Ms. Jones be "disqualified and removed from representing [Ms. Clark] in this proceeding."”</a></span> <span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F21885%2Fitems%2FGX8NR253%22%5D%2C%22locator%22%3A%223%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/GX8NR253"><a href="zotero://select/library/items/GX8NR253">“In re Clark”, 2010, p. 3</a></a></span>)</span>
