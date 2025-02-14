@@ -1702,8 +1702,12 @@ references:
     - year: 2024
       month: 4
       day: 18
+  author:
+    - family: Tyner-Mullings
+      given: Alia R.
   citation-key: AutoethnographyEthnographyMade_nd
-  title: Autoethnography | Ethnography Made Easy OER
+  container-title: Ethnography Made Easy
+  title: Autoethnography
   type: webpage
   URL: https://ethnographymadeeasy.commons.gc.cuny.edu/autoethnography/
 
@@ -3660,6 +3664,30 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/ualr31&i=609
   volume: '31'
+
+- id: Brubaker2000
+  accessed:
+    - year: 2025
+      month: 2
+      day: 13
+  author:
+    - family: Brubaker
+      given: Rogers
+    - family: Cooper
+      given: Frederick
+  citation-key: Brubaker2000
+  container-title: Theory and Society
+  ISSN: 0304-2421
+  issue: '1'
+  issued:
+    - year: 2000
+  page: 1-47
+  publisher: Springer
+  source: JSTOR
+  title: Beyond "Identity"
+  type: article-journal
+  URL: https://www.jstor.org/stable/3108478
+  volume: '29'
 
 - id: Brudney2000
   abstract: >-
