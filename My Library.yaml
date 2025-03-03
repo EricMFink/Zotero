@@ -5287,6 +5287,26 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:69%20A.D.3d%201088#autoLogin
   volume: '69'
 
+- id: Cummings2023
+  author:
+    - family: Cummings
+      given: Scott
+    - family: Elmore
+      given: Andrew
+  citation-key: Cummings2023
+  container-title: 99 Indiana Law Journal 127 (2023)
+  ISSN: 0019-6665
+  issue: '1'
+  issued:
+    - year: 2023
+      month: 1
+      day: 1
+  source: COinS
+  title: Mobilizable Labor Law
+  type: article-journal
+  URL: https://www.repository.law.indiana.edu/ilj/vol99/iss1/3
+  volume: '99'
+
 - id: Cummings2024
   abstract: >-
     This Article explores the role of lawyers in democratic backsliding—the
@@ -16387,6 +16407,49 @@ references:
   title-short: How and Why Do Lawyers Misbehave?
   type: article-journal
   URL: https://digitalcommons.law.buffalo.edu/book_sections/301
+
+- id: Mather2024
+  abstract: >-
+    Although the entire legal profession shares a single ethical code, lawyers’
+    understanding of what it means to be “ethical” shows considerable variation.
+    This article discusses the factors that shape lawyers’ ethical conduct in
+    practice. We review the role of legal education, bar associations, the
+    workplace, and hard and soft regulators in the construction of lawyers’
+    ethical values. We then explore the important role that practice contexts
+    play in shaping lawyers’ understanding of appropriate ethical conduct. Some
+    of the key explanatory factors for differences among lawyers include type of
+    client, office size, specialty and specialization, regulators, and the
+    extent to which lawyers engage in litigation. We then anticipate new ethical
+    challenges for lawyers created by market pressures and other factors and
+    identify questions for future research.
+  accessed:
+    - year: 2025
+      month: 2
+      day: 26
+  author:
+    - family: Mather
+      given: Lynn
+    - family: Levin
+      given: Leslie C.
+  citation-key: Mather2024
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev-lawsocsci-041822-033834
+  ISSN: 1550-3585, 1550-3631
+  issue: Volume 20, 2024
+  issued:
+    - year: 2024
+      month: 10
+      day: 17
+  language: en
+  page: 163-181
+  publisher: Annual Reviews
+  source: www.annualreviews.org
+  title: What Does It Mean to Be an Ethical Lawyer? The Importance of Context
+  title-short: What Does It Mean to Be an Ethical Lawyer?
+  type: article-journal
+  URL: >-
+    https://www.annualreviews.org/content/journals/10.1146/annurev-lawsocsci-041822-033834
+  volume: '20'
 
 - id: Mauss1972
   author:
