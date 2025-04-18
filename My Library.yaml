@@ -628,6 +628,29 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.16
 
+- id: Ahmed2019
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Ahmed
+      given: A. Kayum
+  citation-key: Ahmed2019
+  container-title: CUNY Law Review Footnote Forum
+  container-title-short: CUNY L. Rev. Footnote Forum
+  issue: '1'
+  issued:
+    - year: 2019
+  language: eng
+  page: 1-16
+  source: HeinOnline
+  title: 'The Rogue Sovereign: Trump, Sovereignty & Revolution'
+  title-short: The Rogue Sovereign
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/cunyform22&i=1
+  volume: '22'
+
 - id: Aidinlis2019
   abstract: >-
     In Nobody’s Law (2018), Marc Hertogh introduced the notion of legal
@@ -4394,6 +4417,30 @@ references:
   URL: https://digitalcommons.wcl.american.edu/facsch_lawrev/1372
   volume: '31'
 
+- id: CarlSchmittsComeback2021
+  abstract: >-
+    William E. Scheuerman is Professor of Political Science at Indiana
+    University. Endnotes 1 Carl Schmitt: The End of Law (London: Rowman &
+    Littlefield, 1999). (The updated and revised second edition: The End of Law:
+    Carl Schmitt in the Twenty-First Century [London: Rowman & Littlefield
+    International, 2020]). 2 Vinx, “Carl Schmitt and the Authoritarian
+    Subversion of
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  citation-key: CarlSchmittsComeback2021
+  container-title: Democracy Seminar - Democracy Seminar
+  issued:
+    - year: 2021
+      month: 2
+      day: 17
+  language: en-US
+  title: Carl Schmitt’s Comeback? - Democracy Seminar
+  title-short: Carl Schmitt’s Comeback?
+  type: webpage
+  URL: https://democracyseminar.newschool.org/essays/carl-schmitts-comeback/
+
 - id: carlssonVisualSelfImageLegal2002
   author:
     - family: Carlsson
@@ -4540,6 +4587,47 @@ references:
     Whistleblowers
   title-short: Ag-Gag Across America
   type: document
+
+- id: Chambers_nd
+  abstract: >-
+    Recent decades have seen are surgence in the use of conspiracy theories by
+    populist and autocratic political figures. This has sat alongside a renewed
+    interest in using insights from Frankfurt School thinkers to open critical
+    perspectives on fascist uses of conspiracy theories. This paper builds on
+    resurgent interest in the work of Franz Neumann, and directs attention to
+    the political manipulation of alienation and anxiety. Building on Neumann’s
+    insistence that a falsely concrete theory of history is in operation
+    wherever conspiracy theories resonate politically, this paper argues for the
+    neglected centrality of conspiracy thinking in nearly all instances of
+    fascist politics. Conspiracy theories are a structural feature of fascism –
+    a hypothesis that invites empirical testing to see if it might better fit
+    the overall pattern. Neumann’s political critical theory also returns our
+    attention to the possibility of an antifascist critical theory with the
+    political at the centre of its concerns, opening lines of inquiry that
+    complement Adorno’s insights into domination of the administered world and
+    the culture industry.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Chambers
+      given: Peter
+  citation-key: Chambers_nd
+  container-title: 'Distinktion: Journal of Social Theory'
+  DOI: 10.1080/1600910X.2023.2252192
+  ISSN: 1600-910X
+  issue: '0'
+  page: 1-27
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Fascist uses of conspiracy theories: alienation, anxiety, and false
+    concreteness in the critical political theory of Franz Neumann
+  title-short: Fascist uses of conspiracy theories
+  type: article-journal
+  URL: https://doi.org/10.1080/1600910X.2023.2252192
+  volume: '0'
 
 - id: Chang2009
   abstract: >-
@@ -9309,6 +9397,48 @@ references:
   title: The Law of the Workplace
   type: chapter
 
+- id: Fuchs2022
+  abstract: >-
+    This fourth volume in Christian Fuchs’s Media, Communication and Society
+    book series outlines the theoretical foundations of digital fascism and
+    presents case studies of how fascism is communicated online. Digital Fascism
+    presents and engages with theoretical approaches and empirical studies that
+    allow us to understand how fascism, right-wing authoritarianism, xenophobia,
+    and nationalism are communicated on the Internet. The book builds on
+    theoretical foundations from key theorists such as Theodor W. Adorno, Franz
+    L. Neumann, Erich Fromm, Herbert Marcuse, Wilhelm Reich, Leo Löwenthal,
+    Moishe Postone, Günther Anders, M. N. Roy, and Henry Giroux. The book draws
+    on a range of case studies, including Nazi-celebrations of Hitler’s birthday
+    on Twitter, the ‘red scare 2.0’ directed against Jeremy Corbyn, and
+    political communication online (Donald Trump, Boris Johnson, the Austrian
+    presidential election). These case studies analyse right-wing communication
+    online and on social media. Fuchs argues for the safeguarding of the
+    democratic public sphere and that slowing down and decommodifying the logic
+    of the media can advance and renew debate culture in the age of digital
+    authoritarianism, fake news, echo chambers, and filter bubbles. Each chapter
+    focuses on a particular dimension of digital fascism or a critical theorist
+    whose work helps us to illuminate how fascism and digital fascism work,
+    making this book an essential reading for both undergraduate and
+    postgraduate students of media and communication studies, sociology,
+    politics, and political economy as well as anyone who wants to understand
+    what digital fascism is and how it works.
+  author:
+    - family: Fuchs
+      given: Christian
+  citation-key: Fuchs2022
+  ISBN: 978-1-000-53266-1
+  issued:
+    - year: 2022
+      month: 3
+      day: 14
+  language: en
+  number-of-pages: '233'
+  publisher: Routledge
+  source: Google Books
+  title: 'Digital Fascism: Media, Communication and Society Volume Four'
+  title-short: Digital Fascism
+  type: book
+
 - id: Furman2022
   abstract: >-
     Lawyers say a crackdown has particularly targeted attorneys who let their
@@ -9390,6 +9520,28 @@ references:
   title-short: Mobilizing the Law in China
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.35
+
+- id: Gambetti2025
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Gambetti
+      given: Zeynep
+  citation-key: Gambetti2025
+  container-title: Cultural Critique
+  ISSN: 1460-2458
+  issue: '1'
+  issued:
+    - year: 2025
+  page: 163-176
+  publisher: University of Minnesota Press
+  source: Project MUSE
+  title: Fascism Out of Time and Out of Synch
+  type: article-journal
+  URL: https://muse.jhu.edu/pub/23/article/951013
+  volume: '126'
 
 - id: Gamson1995
   abstract: >-
@@ -10738,6 +10890,32 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/26356852
   volume: '36'
+
+- id: Grimshaw2020
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Grimshaw
+      given: Mike
+  citation-key: Grimshaw2020
+  container-title: Continental Thought & Theory
+  contributor:
+    - literal: University Of Canterbury
+  DOI: 10.26021/1171
+  issue: '1'
+  issued:
+    - year: 2020
+  language: en
+  page: 132-162
+  publisher: University of Canterbury
+  source: DOI.org (Datacite)
+  title: 'The legacy of Weimar?: Trump as Schmittean sovereign & Taubesean katechon'
+  title-short: The legacy of Weimar?
+  type: article-journal
+  URL: https://ir.canterbury.ac.nz/handle/10092/100966
+  volume: '3'
 
 - id: grossHumanRightsMovement2012
   abstract: >-
@@ -12126,6 +12304,54 @@ references:
     https://read.dukeupress.edu/labor/article/15/4/13/137120/SidelinedThe-Chicago-Women-s-Trade-Union-League-in
   volume: '15'
 
+- id: Huyssen2023
+  abstract: >-
+    George L. Mosse (1918–99) was one of the most influential cultural and
+    intellectual historians of modern Europe. A refugee from Nazi Germany, he
+    was an early leader in the study of fascism and the history of sexuality and
+    masculinity, authoring more than two dozen books. In Contemporary Europe in
+    the Historical Imagination, an international assembly of leading scholars
+    explore Mosse’s enduring methodologies in German studies and modern European
+    cultural history. Considering Mosse’s life and work historically and
+    critically, the book begins with his intellectual biography and goes on to
+    reread his writings in light of historical developments since his death, and
+    to use, extend, and contend with Mosse’s legacy in new contexts he may not
+    have addressed or even foreseen.  The volume wrestles with intertwined
+    questions that continue to emerge from Mosse’s pioneering research,
+    including: What role do sexual and racial stereotypes play in European
+    political culture before and after 1945? How are gender and Nazi violence
+    bound together? And what does commemoration reveal about national culture?
+    Importantly, the contributors pose questions that are inspired by Mosse’s
+    work but that he did not directly examine. For example, to what extent were
+    Nazism and Italian Fascism colonial projects? How have popular radical right
+    parties reinforced and reimagined ethnonationalism and nativism? And how did
+    Nazi perpetrators construct a moral system that accommodated genocide? Much
+    like Mosse’s own work, the chapters in this book inspire new interventions
+    into the history of gender and sexuality, Jewish identity during the rise of
+    the Third Reich, and the many reincarnations of fascist pageantry and mass
+    politics.
+  author:
+    - family: Huyssen
+      given: Andreas
+  citation-key: Huyssen2023
+  container-title: Contemporary Europe in the Historical Imagination
+  editor:
+    - family: Buerkle
+      given: Darcy
+    - family: Doney
+      given: Skye
+  ISBN: 978-0-299-34240-1
+  issued:
+    - year: 2023
+      month: 6
+      day: 27
+  language: en
+  page: '100'
+  publisher: University of Wisconsin Pres
+  source: Google Books
+  title: 'Behemoth Rises Again: On Twenty-First-Century Fascism'
+  type: chapter
+
 - id: hydeBriefUserGuide2017
   author:
     - family: Hyde
@@ -13080,6 +13306,40 @@ references:
   URL: http://www.jstor.org/stable/40862566
   volume: '12'
 
+- id: Jurecic2023
+  abstract: >-
+    The human dignity of those who violate the human dignity of others in a
+    fundamental way is just as inviolable as that of their victims. Yet public
+    discourse, legislation and practice do not adhere to this maxim. The
+    question arises as to how a state can rehabilitate itself from its departure
+    from liberal fundamental values. Are there ways out of the state of
+    emergency that has become the norm?
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Jurecic
+      given: Quinta
+  citation-key: Jurecic2023
+  container-title: >-
+    9/11, Menschenwürde und die liberalen Grundwerte: 9/11, 20 Jahre später:
+    eine verfassungsrechtliche Spurensuche
+  editor:
+    - family: Straub
+      given: Marlene
+  event-place: Berlin
+  issued:
+    - year: 2023
+  license: Creative Commons Attribution Share Alike 4.0 International
+  page: '31'
+  publisher: Verfassungsbooks
+  publisher-place: Berlin
+  source: DOI.org (Datacite)
+  title: Donald Trump's Post-9/11 Presidency and the Legacy of Carl Schmitt
+  type: chapter
+  URL: https://intr2dok.vifa-recht.de/receive/mir_mods_00015103
+
 - id: kaganExplainingCorporateEnvironmental2014
   abstract: >-
     In what ways and to what extent does regulation matter in shaping corporate
@@ -13244,6 +13504,40 @@ references:
   title-short: The Tragedy of a Generation
   type: book
 
+- id: Karolewski2023
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Karolewski
+      given: Ireneusz Paweł
+    - family: Libin
+      given: Xie
+    - family: Patapan
+      given: Haig
+    - family: Halmai
+      given: Gábor
+    - family: Kutay
+      given: Acar
+    - family: Guasti
+      given: Petra
+    - family: Scheuerman
+      given: William E.
+  citation-key: Karolewski2023
+  container-title: Contemporary Political Theory
+  DOI: 10.1057/s41296-023-00625-5
+  issued:
+    - year: 2023
+      month: 3
+      day: 13
+  language: en
+  page: '1'
+  source: pmc.ncbi.nlm.nih.gov
+  title: Carl Schmitt and Democratic Backsliding
+  type: article-journal
+  URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10010233/
+
 - id: katzIntroductionCollectiveBargaining2017
   abstract: >-
     This comprehensive textbook provides an introduction to collective
@@ -13407,6 +13701,34 @@ references:
   type: webpage
   URL: >-
     https://www.jacksonlewis.com/publication/north-carolina-reinforces-property-protection-law-giving-employers-right-sue
+
+- id: Kelly2002
+  abstract: >-
+    Because of its characterization of National Socialism as a form of
+    'totalitarian monopoly capitalism', many critics of Franz Neumann's
+    pioneering book of 1942, Behemoth, have rejected what they see as a crude
+    Marxist analysis of the subject. This not only does little justice to the
+    richness of Neumann's book, it also distorts its central focus. By contrast,
+    this paper suggests that a proper appreciation of the impact of Max Weber in
+    general, and Carl Schmitt in particular, on the development of Neumann's
+    thought permits a more detailed assessment of both the merits and the
+    shortcomings of his most famous analysis.
+  author:
+    - family: Kelly
+      given: D.
+  citation-key: Kelly2002
+  container-title: History of Political Thought
+  container-title-short: History of Political Thought
+  issue: '3'
+  issued:
+    - year: 2002
+      month: 3
+      day: 1
+  page: 458-496
+  source: IngentaConnect
+  title: Rethinking Franz Neumann's route to Behemoth
+  type: article-journal
+  volume: '23'
 
 - id: kellyLivesLawyersJourneys1996
   abstract: >-
@@ -14123,6 +14445,34 @@ references:
   URL: >-
     https://www.annualreviews.org/content/journals/10.1146/annurev-lawsocsci-101317-030909
   volume: '15'
+
+- id: Krier2021
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Krier
+      given: Dan
+  citation-key: Krier2021
+  container-title: How to Critique Authoritarian Populism
+  DOI: 10.1163/9789004444744_014
+  ISBN: 978-90-04-44474-4
+  issued:
+    - year: 2021
+      month: 2
+      day: 9
+  language: en
+  page: 348-365
+  publisher: Brill
+  section: How to Critique Authoritarian Populism
+  source: brill.com
+  title: >-
+    Franz Neumann’s Behemoth and Trumpism: Comprehending the Beast of Bad
+    Government
+  title-short: Franz Neumann’s Behemoth and Trumpism
+  type: chapter
+  URL: https://brill.com/display/book/9789004444744/BP000016.xml
 
 - id: Kritzer2015
   abstract: >-
@@ -15394,6 +15744,51 @@ references:
   title: Local 926, Intern. Union of Operating Engineers, AFL-CIO v. Jones
   type: legal_case
   volume: '460'
+
+- id: Lofflmann2022
+  abstract: >-
+    The discursive domain of (in)security is integral to nationalist populism,
+    as documented in the political rhetoric of Donald Trump. This article
+    combines insights from political psychology on blame attribution with
+    scholarship in International Relations on security narratives to show how
+    the reframing of national identity through a populist security imaginary
+    elevated internal ‘enemies of the people’ to an ontological status of equal,
+    or even superior standing to that of external threats to national security.
+    Portraying internal and external Others as equally existential threats
+    endangering the ‘real’ United States informed both foreign policy choices
+    and mobilised voters through an affective persuasion of audiences, actively
+    dividing society for political gain. Populist appeals to resentment, fear,
+    and anxiety constituted a shared affective space between Trump and his
+    followers that provided a source of mutual ontological reassurance and the
+    legitimation of America First measures from immigration restrictions to
+    trade protectionism and a Jacksonian foreign policy.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Löfflmann
+      given: Georg
+  citation-key: Lofflmann2022
+  container-title: The British Journal of Politics and International Relations
+  DOI: 10.1177/13691481211048499
+  ISSN: 1369-1481
+  issue: '3'
+  issued:
+    - year: 2022
+      month: 8
+      day: 1
+  language: EN
+  page: 543-560
+  publisher: SAGE Publications
+  source: SAGE Journals
+  title: >-
+    ‘Enemies of the people’: Donald Trump and the security imaginary of America
+    First
+  title-short: ‘Enemies of the people’
+  type: article-journal
+  URL: https://doi.org/10.1177/13691481211048499
+  volume: '24'
 
 - id: Lofland1995
   abstract: >-
@@ -17788,6 +18183,51 @@ references:
   type: article-journal
   volume: '16'
 
+- id: Mohamed2018
+  abstract: >-
+    As a candidate Donald Trump Sovereigntystyled himself uniquely equipped to
+    enact the will of a thickly racialized national community. His campaign may
+    thus be read alongside Carl Schmitt’s key concepts: the friend/enemy
+    distinction fundamental to politics, a popular sovereignty founded in an
+    organically united Volk. But what of Trump’s presidency? Here, too,
+    Schmitt’s thought is helpful, particularly his work on commissarial
+    dictatorship as a response to a state of emergency—we will read in this
+    light the “Muslim Ban” and the pardon of Sheriff Joe Arpaio. Rather than
+    creating new executive powers, this chapter argues that Trump is exploiting
+    existing ones. This is inevitable: Presidents will seek to exercise the
+    powers available to them, and the US Constitutional tradition fails to
+    provide effective tools for distinguishing between the executive’s
+    legitimate and baseless emergency actions. Schmitt’s thought and career are
+    marred by precisely the same failure.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Mohamed
+      given: Feisal G.
+  citation-key: Mohamed2018
+  container-title: 'Trump and Political Philosophy: Leadership, Statesmanship, and Tyranny'
+  DOI: 10.1007/978-3-319-74445-2_17
+  editor:
+    - family: Jaramillo Torres
+      given: Angel
+    - family: Sable
+      given: Marc Benjamin
+  event-place: Cham
+  ISBN: 978-3-319-74445-2
+  issued:
+    - year: 2018
+  language: en
+  page: 293-309
+  publisher: Springer International Publishing
+  publisher-place: Cham
+  source: Springer Link
+  title: '“I Alone Can Solve”: Carl Schmitt on Sovereignty and Nationhood Under Trump'
+  title-short: “I Alone Can Solve”
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-319-74445-2_17
+
 - id: moliternoAmericanLegalProfession2013
   author:
     - family: Moliterno
@@ -18576,6 +19016,39 @@ references:
     Legal Profession
   type: book
 
+- id: Neumann2009
+  abstract: >-
+    Franz Neumann's classic account of the governmental workings of Nazi
+    Germany, first published in 1942, is reprinted in a new paperback edition
+    with an introduction by the distinguished historian Peter Hayes. Neumann was
+    one of the only early Frankfurt School thinkers to examine seriously the
+    problem of political institutions. After the rise of the Nazis to power, his
+    emphasis shifted to an analysis of economic power, and then after the war to
+    political psychology. But his contributions in Behemoth were groundbreaking:
+    that the Nazi organization of society involved the collapse of traditional
+    ideas of the state, of ideology, of law, and even of any underlying
+    rationality. The book must be studied, not simply read, Raul Hilberg wrote.
+    The most experienced researchers will tell us that the scarcest commodity in
+    academic life is an original idea. If someone has two or three, he is rich.
+    Franz Neumann was a rich man. Published in association with the United
+    States Holocaust Memorial Museum.
+  author:
+    - family: Neumann
+      given: Franze
+  citation-key: Neumann2009
+  ISBN: 978-1-61578-012-9
+  issued:
+    - year: 2009
+      month: 5
+      day: 16
+  language: en
+  number-of-pages: '681'
+  publisher: Ivan R. Dee
+  source: Google Books
+  title: 'Behemoth: The Structure and Practice of National Socialism, 1933-1944'
+  title-short: Behemoth
+  type: book
+
 - id: newmanLegalFoundationsState2013
   author:
     - family: Newman
@@ -18733,6 +19206,16 @@ references:
   title-short: Washington Aluminum
   type: legal_case
   volume: '370'
+
+- id: Nomad2025
+  author:
+    - family: Nomad
+      given: Tom
+  citation-key: Nomad2025
+  issued:
+    - year: 2025
+  title: 'A Call for New Lines of Conflict: Confronting the Second Trump Era'
+  type: manuscript
 
 - id: NorrisLaGuardiaAct1932
   citation-key: NorrisLaGuardiaAct1932
@@ -20624,7 +21107,7 @@ references:
     - family: Sreejith
       given: S.G.
   event-place: Singapore
-  ISBN: 978-981-19256-8-9
+  ISBN: 978-981-19-2568-9
   issued:
     - year: 2022
   language: en
@@ -21538,6 +22021,460 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/hamlrv30&i=635
   volume: '30'
 
+- id: Scheuerman1996
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman1996
+  container-title: Review of Politics
+  issue: '4'
+  issued:
+    - year: 1996
+  page: '571'
+  title: >-
+    Legal Indeterminacy and the Origins of Nazi Legal Thought: The Case of Carl
+    Schmitt
+  type: article-journal
+  URL: >-
+    https://www.jstor.org/stable/26217046?casa_token=JDWujF7dCQ8AAAAA%3A6iCOsK9cgF8LidEnIn7_im4pHd-cIQPmfgukmc6-s6oO9_2JRQecPizv1OtoL6zLeJLjhNvoRI0tlsUn6D0fE6Dze29qNLR3y3gnhSlT2ztvaaQ25ZU&seq=1
+  volume: '17'
+
+- id: Scheuerman1997
+  abstract: >-
+    Winner, 1996 Elaine and David Spitz Book Prize for the best book onliberal
+    and democratic theory, Conference for the Study of Political Thought.
+    Winner, 1994 First Book Prize, Foundations of Political Thought Organized
+    Section, American Political Science Association.Between the Norm and the
+    Exception contributes historical insight to the ongoing debate over the
+    future of the rule of law in welfare-state capitalist democracies. The core
+    issue is whether or not society can offer its citizens welfare-state
+    guarantees and still preserve the liberal vision of a norm-based legal
+    system. Franz Neumann and Otto Kirchheimer, in an age dominated by Hitler
+    and Stalin, sought to establish a sound theoretical basis for the "rule of
+    law" ideal. As an outcome of their sophisticated understanding of the
+    liberal political tradition, their writings suggest a theoretical missed
+    opportunity, an alternative critical theory that might usefully be applied
+    in understanding (and perhaps countering) the contemporary trend toward the
+    deformalization of law.
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman1997
+  ISBN: 978-0-262-69196-3
+  issued:
+    - year: 1997
+      month: 1
+      day: 22
+  language: en
+  number-of-pages: '348'
+  publisher: MIT Press
+  source: Google Books
+  title: 'Between the Norm and the Exception: The Frankfurt School and the Rule of Law'
+  title-short: Between the Norm and the Exception
+  type: book
+
+- id: Scheuerman1997a
+  abstract: >-
+    No two names better recall the polarized character of political life in
+    mid-century Europe than Carl Schmitt and Hannah Arendt. Like so many of his
+    peers in the Weimar intelligentsia, Schmitt eagerly polemicized against the
+    Weimar Republic and actively sought its destruction. In 1933, he sold his
+    soul to the Nazis and soon became one of their most impressive intellectual
+    apologists. In striking contrast, Arendt risked her life to help
+    anti-fascists and fellow Jews struggling to escape Germany in the immediate
+    aftermath of the Nazi takeover. Forced to join the ranks of the thousands of
+    “stateless” persons stripped of their German citizenship by the new regime,
+    she ultimately found her way to New York City and a stunning career as one
+    of our century's most impressive critics of totalitarianism. While Schmitt
+    would continue to seize every opportunity to belittle the achievements of
+    liberal democracy, even after the establishment of the relatively robust
+    German Federal Republic in 1949, Arendt refused to abandon her chosen
+    Heimat, the United States, even in its darkest hours. For Arendt, Vietnam
+    and Watergate offered indisputable proof that the republican legacy of the
+    American founding demanded our critical loyalty, but hardly—as one can
+    imagine Schmitt arguing—of the inevitability of senseless political violence
+    and authoritarian government.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman1997a
+  container-title: Canadian Journal of Law & Jurisprudence
+  DOI: 10.1017/S084182090000028X
+  ISSN: 0841-8209, 2056-4260
+  issue: '1'
+  issued:
+    - year: 1997
+      month: 1
+  language: en
+  page: 141-161
+  source: Cambridge University Press
+  title: 'Revolutions and Constitutions: Hannah Arendt''s Challenge to Carl Schmitt'
+  title-short: Revolutions and Constitutions
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/journals/canadian-journal-of-law-and-jurisprudence/article/abs/revolutions-and-constitutions-hannah-arendts-challenge-to-carl-schmitt/F5AE7FFBA5496C7097A0B8116AB94C22
+  volume: '10'
+
+- id: Scheuerman1997b
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman1997b
+  container-title: Cardozo Law Review
+  container-title-short: Cardozo L. Rev.
+  issue: '5'
+  issued:
+    - year: 1997
+    - year: 1998
+  language: eng
+  page: 1743-1770
+  source: HeinOnline
+  title: >-
+    After Legal Indeterminacy: Carl Schmitt and the National Socialist Legal
+    Order, 1933-1936
+  title-short: After Legal Indeterminacy
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/cdozo19&i=1767
+  volume: '19'
+
+- id: Scheuerman1999
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman1999
+  container-title: Cardozo Law Review
+  container-title-short: Cardozo L. Rev.
+  issue: Issues 5-6
+  issued:
+    - year: 1999
+    - year: 2000
+  language: eng
+  page: 1869-1894
+  source: HeinOnline
+  title: >-
+    The Economic State of Emergency Symposium - Carl Schmitt: Legacy and
+    Prospects - An International Conference in New York City: Exception and
+    Emergency Powers
+  title-short: The Economic State of Emergency Symposium - Carl Schmitt
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/cdozo21&i=1883
+  volume: '21'
+
+- id: Scheuerman1999a
+  abstract: >-
+    Until the publication of this pathbreaking book, most scholarly studies of
+    Carl Schmitt offered an oversimplistic, apologetic account of Schmitt's
+    intellectual and political sympathies to Nazi fascism, or they crudely
+    criticized his ideas by caricaturing them. In this full-length study in
+    English of Germany's most influential authoritarian right-wing political and
+    legal thinker, award-winning political theorist William E. Scheuerman
+    examines in close detail the profound impact of Schmitt's critique of the
+    liberal rule of law, and he describes how Schmitt's understanding of liberal
+    jurisprudence led him to embrace National Socialism as a viable alternative
+    to the perceived pathologies of the liberal rule of law. Scheuerman
+    illustrates how, in the aftermath of World War II, influential political
+    theorists, particularly Schumpter, Hayek, and Morgenthau, imported Schmitt's
+    ideas into American political discourse. Although none of these writers were
+    followers of Schmitt, each one engaged in a "hidden dialogue" with him that
+    shaped important facets of the intellectual discourse in postwar America.
+    Carl Schmitt is an original, engaging study that will be of great value to
+    political theorists and those interested in twentieth-century intellectual
+    history and political philosophy.
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman1999a
+  ISBN: 978-0-8476-9418-1
+  issued:
+    - year: 1999
+  language: en
+  number-of-pages: '368'
+  publisher: Rowman & Littlefield
+  source: Google Books
+  title: 'Carl Schmitt: The End of Law'
+  title-short: Carl Schmitt
+  type: book
+
+- id: Scheuerman2006
+  abstract: >-
+    ▪ Abstract This review considers competing models of emergency legal
+    regulation in the aftermath of the terrorist attacks of September 11, 2001.
+    Drawing on research in political science and political sociology, it
+    criticizes recent debates about emergency powers among legal and
+    constitutional scholars for ignoring the institutional dynamics of modern
+    executive power, especially in presidential regimes. Constitutional
+    relativists (e.g., Harvey Mansfield, Michael Stokes Paulsen, John Yoo),
+    defenders of the extralegal model of emergency action (Oren Gross, Mark
+    Tushnet), and common lawyers (David Cole, David Dyzenhaus) are criticized
+    for failing to consider the pathologies likely generated by their proposals
+    in an institutional context in which the executive possesses incentives for
+    declaring, perpetuating, and exploiting emergency situations. Only a legal
+    formalist perspective on emergency government (e.g., Bruce Ackerman) pays
+    sufficient attention to the institutional dynamics of the contemporary
+    executive.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2006
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev.lawsocsci.2.061206.074644
+  ISSN: 1550-3585, 1550-3631
+  issue: Volume 2, 2006
+  issued:
+    - year: 2006
+      month: 12
+      day: 1
+  language: en
+  page: 257-277
+  publisher: Annual Reviews
+  source: www.annualreviews.org
+  title: Emergency Powers
+  type: article-journal
+  URL: >-
+    https://www.annualreviews.org/content/journals/10.1146/annurev.lawsocsci.2.061206.074644
+  volume: '2'
+
+- id: Scheuerman2012
+  abstract: >-
+    This article reexamines the question of how best to restrain executive power
+    in a political and social context that seems to favor its dramatic
+    expansion. Modern interventionist government amidst a dynamic social
+    environment, where the executive faces a seemingly endless series of
+    “crises” or “emergencies,” provides a heightened scope for executive
+    discretion. At the same time, the US-style separation of powers, in which an
+    independent president faces a potentially obstinate Congress, offers
+    executives many incentives to exploit crises, real or otherwise. The works
+    examined in this article confront, with varying degrees of success, the
+    seemingly inexorable expansion of executive power within the US version of
+    liberal democracy. We can only hope to deal with the many intellectual and
+    political tasks posed by the symbiotic nexus between executive-centered and
+    crisis-oriented government by confronting some tough questions about US
+    constitutional design and the possibility of radical institutional reform.
+    Unfortunately, even those scholars who provide plausible accounts of the US
+    system's fragilities seem hesitant to do so.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2012
+  container-title: Law & Social Inquiry
+  DOI: 10.1111/j.1747-4469.2012.01311.x
+  ISSN: 0897-6546, 1747-4469
+  issue: '3'
+  issued:
+    - year: 2012
+      month: 7
+  language: en
+  page: 743-767
+  source: Cambridge University Press
+  title: >-
+    Emergencies, Executive Power, and the Uncertain Future of US Presidential
+    Democracy
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/journals/law-and-social-inquiry/article/abs/emergencies-executive-power-and-the-uncertain-future-of-us-presidential-democracy/5ABCCBE0ABEAFCDA34E072583CD6C54C#access-block
+  volume: '37'
+
+- id: Scheuerman2016
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2016
+  container-title: The Oxford Handbook of Carl Schmitt
+  editor:
+    - family: Meierhenrich
+      given: Jens
+    - family: Simons
+      given: Oliver
+  issued:
+    - year: 2016
+  publisher: Oxford University Press USA
+  source: PhilPapers
+  title: States of Emergency
+  type: chapter
+
+- id: Scheuerman2017
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2017
+  container-title: Constellations
+  DOI: 10.1111/1467-8675.12218
+  ISSN: 1467-8675
+  issue: '1'
+  issued:
+    - year: 2017
+  language: en
+  license: © 2016 John Wiley & Sons Ltd.
+  page: 113-125
+  source: Wiley Online Library
+  title: 'Recent Frankfurt Critical Theory: Down on Law?'
+  title-short: Recent Frankfurt Critical Theory
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8675.12218
+  volume: '24'
+
+- id: Scheuerman2019
+  abstract: >-
+    By revisiting late-Weimar debates between Carl Schmitt and two left-wing
+    critics, Otto Kirchheimer and Franz L Neumann, we can shed light on the
+    surprising alliance of populist politics with key tenets of economic
+    liberalism, an alliance that vividly manifests itself in the political
+    figure and retrograde policies of Donald Trump. In the process, we can begin
+    to fill a striking lacuna in recent scholarly literature on populism, namely
+    its failure to pay proper attention to matters of political economy. We can
+    also perhaps begin to make sense of the roots of Trump’s assault on the US
+    federal state: formal law and its organizational basis, modern bureaucracy,
+    represent potential restraints on the alliance of populism with
+    neoliberalism.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2019
+  container-title: Philosophy & Social Criticism
+  DOI: 10.1177/0191453719872285
+  ISSN: 0191-4537
+  issue: 9-10
+  issued:
+    - year: 2019
+      month: 12
+      day: 1
+  language: EN
+  page: 1170-1185
+  publisher: SAGE Publications Ltd
+  source: SAGE Journals
+  title: Donald Trump meets Carl Schmitt
+  type: article-journal
+  URL: https://doi.org/10.1177/0191453719872285
+  volume: '45'
+
+- id: Scheuerman2020
+  abstract: >-
+    Carl Schmitt is now regularly referenced in discussions of President Trump’s
+    extraordinary and probably unprecedented claims to unchecked executive
+    power. The President’s knee-jerk hostility to the administrative state,
+    however, has helped spare Americans the worst consequences of his Schmittian
+    legal instincts. Yet that hostility has come with its own high price.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2020
+  container-title: Verfassungsblog
+  DOI: 10.17176/20200420-182516-0
+  ISSN: 2366-7044
+  issued:
+    - year: 2020
+      month: 4
+      day: 20
+  language: eng
+  license: CC BY-NC-ND 4.0
+  publisher: Verfassungsblog
+  source: verfassungsblog.de
+  title: Schmittian Instincts at Odds with Neoliberalism
+  type: article-journal
+  URL: https://verfassungsblog.de/schmittian-instincts-at-odds-with-neoliberalism/
+
+- id: Scheuerman2023
+  abstract: >-
+    In the pathbreaking essays collected here, Neumann and Kirchheimer
+    demonstrate that the death of democracy and the rise of fascism during the
+    first half of the twentieth century suggest crucial lessons for contemporary
+    political and legal scholars. The volume includes writings on
+    constitutionalism, political freedom, Nazism, sovereignty, and both Nazi and
+    liberal law. Most important, the Frankfurt authors point to the continuing
+    efficacy of the rule of law as an instrument for regulating and restraining
+    state authority, as well as ominous evidence of the rule of law's fragility
+    in modern liberal democracy.In the pathbreaking essays collected here,
+    Neumann and Kirchheimer demonstrate that the death of democracy and the rise
+    of fascism during the first half of the twentieth century suggest crucial
+    lessons for contemporary political and legal scholars. The vo
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2023
+  ISBN: 978-0-520-91734-7
+  issued:
+    - year: 2023
+      month: 12
+      day: 22
+  language: en
+  number-of-pages: '484'
+  publisher: Univ of California Press
+  source: Google Books
+  title: >-
+    The Rule of Law Under Siege: Selected Essays of Franz L. Neumann and Otto
+    Kirchheimer
+  title-short: The Rule of Law Under Siege
+  type: book
+
+- id: Scheuerman2023a
+  abstract: >-
+    In the pathbreaking essays collected here, Neumann and Kirchheimer
+    demonstrate that the death of democracy and the rise of fascism during the
+    first half of the twentieth century suggest crucial lessons for contemporary
+    political and legal scholars. The volume includes writings on
+    constitutionalism, political freedom, Nazism, sovereignty, and both Nazi and
+    liberal law. Most important, the Frankfurt authors point to the continuing
+    efficacy of the rule of law as an instrument for regulating and restraining
+    state authority, as well as ominous evidence of the rule of law's fragility
+    in modern liberal democracy.In the pathbreaking essays collected here,
+    Neumann and Kirchheimer demonstrate that the death of democracy and the rise
+    of fascism during the first half of the twentieth century suggest crucial
+    lessons for contemporary political and legal scholars. The vo
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2023a
+  ISBN: 978-0-520-91734-7
+  issued:
+    - year: 2023
+      month: 12
+      day: 22
+  language: en
+  number-of-pages: '484'
+  publisher: Univ of California Press
+  source: Google Books
+  title: >-
+    The Rule of Law Under Siege: Selected Essays of Franz L. Neumann and Otto
+    Kirchheimer
+  title-short: The Rule of Law Under Siege
+  type: book
+
 - id: Schill1995
   author:
     - family: Schill
@@ -21836,7 +22773,7 @@ references:
     - family: Sears
       given: Steve
   citation-key: searsVoicesLaborHistory2019
-  ISBN: 978-1-79661-495-4
+  ISBN: 978-1-7966-1495-4
   issued:
     - literal: 2019-02-0024
   language: English
@@ -24674,7 +25611,7 @@ references:
     - family: Wood
       given: Lesley J.
   citation-key: Tilly2019
-  ISBN: 978-1-00-002416-6
+  ISBN: 978-1-000-02416-6
   issued:
     - year: 2019
       month: 7
@@ -25645,6 +26582,30 @@ references:
   title: What Is Autoethnography? How Can I Learn More? - The AutoEthnographer
   type: webpage
   URL: https://theautoethnographer.com/what-is-autoethnography/
+
+- id: WhatCriminalImmigrant2025
+  abstract: >-
+    Allegations of criminality have always been deployed to justify state
+    violence but even ‘imperfect’ victims deserve basic rights
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  citation-key: WhatCriminalImmigrant2025
+  container-title: The Guardian
+  ISSN: 0261-3077
+  issued:
+    - year: 2025
+      month: 4
+      day: 17
+  language: en-GB
+  section: Opinion
+  source: The Guardian
+  title: What is a ‘criminal’ immigrant? The word is an American rhetorical trap
+  title-short: What is a ‘criminal’ immigrant?
+  type: article-newspaper
+  URL: >-
+    https://www.theguardian.com/commentisfree/2025/apr/17/trump-criminal-immigrants-comment
 
 - id: WhenLawyersAttack2024
   abstract: >-
