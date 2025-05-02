@@ -2465,6 +2465,55 @@ references:
   title-short: The Turbulent Years
   type: book
 
+- id: Berry2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  author:
+    - family: Berry
+      given: Thomas A.
+    - family: Bier
+      given: David J.
+    - family: Calder
+      given: Vanessa Brown
+    - family: Cannon
+      given: Michael F.
+    - family: Eddington
+      given: Patrick G.
+    - family: Edwards
+      given: Chris
+    - family: Fisher
+      given: Travis
+    - family: Gomez
+      given: Eric
+    - family: Grabow
+      given: Colin
+    - family: Hoffman
+      given: Jon
+    - family: Huddleston
+      given: Jennifer
+    - family: Mccluskey
+      given: Neal
+    - family: Michel
+      given: Adam N.
+    - family: Packard
+      given: Clark
+    - family: Skorup
+      given: Brent
+    - family: Solowey
+      given: Jack
+  citation-key: Berry2024
+  collection-title: CATO HANDBOOK ON EXECUTIVE ORDERS AND PRESIDENTIAL DIRECTIVES
+  issued:
+    - year: 2024
+  page: 1-10
+  publisher: Cato Institute
+  source: JSTOR
+  title: Introduction
+  type: report
+  URL: https://www.jstor.org/stable/resrep63971.3
+
 - id: Best2018
   abstract: >-
     The SAGE Handbook of Frankfurt School Critical Theory expounds the
@@ -3844,6 +3893,22 @@ references:
   title: 'Wobblies!: A Graphic History of the Industrial Workers of the World'
   title-short: Wobblies!
   type: book
+
+- id: BureaucracyAdministrativeState2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: BureaucracyAdministrativeState2024
+  collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
+  issued:
+    - year: 2024
+  page: 4-9
+  publisher: Cato Institute
+  source: JSTOR
+  title: Bureaucracy and the Administrative State
+  type: report
+  URL: https://www.jstor.org/stable/resrep65607.4
 
 - id: Burger2020
   accessed:
@@ -6396,6 +6461,22 @@ references:
   source: Amazon
   title: The Social Life of Money
   type: book
+
+- id: DOGEsImportantMission2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: DOGEsImportantMission2024
+  collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
+  issued:
+    - year: 2024
+  page: 1-3
+  publisher: Cato Institute
+  source: JSTOR
+  title: DOGE’s Important Mission
+  type: report
+  URL: https://www.jstor.org/stable/resrep65607.3
 
 - id: Domhoff2017
   abstract: >-
@@ -9426,7 +9507,7 @@ references:
     - family: Fuchs
       given: Christian
   citation-key: Fuchs2022
-  ISBN: 978-1-000-53266-1
+  ISBN: 978-1-00-053266-1
   issued:
     - year: 2022
       month: 3
@@ -13713,21 +13794,25 @@ references:
     general, and Carl Schmitt in particular, on the development of Neumann's
     thought permits a more detailed assessment of both the merits and the
     shortcomings of his most famous analysis.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
   author:
     - family: Kelly
-      given: D.
+      given: Duncan
   citation-key: Kelly2002
   container-title: History of Political Thought
-  container-title-short: History of Political Thought
+  ISSN: 0143-781X
   issue: '3'
   issued:
     - year: 2002
-      month: 3
-      day: 1
   page: 458-496
-  source: IngentaConnect
-  title: Rethinking Franz Neumann's route to Behemoth
+  publisher: Imprint Academic Ltd.
+  source: JSTOR
+  title: Rethinking Franz Neumann's Route to "Behemoth"
   type: article-journal
+  URL: https://www.jstor.org/stable/26219878
   volume: '23'
 
 - id: kellyLivesLawyersJourneys1996
@@ -15011,6 +15096,23 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/355200795
   volume: '45'
+
+- id: Leibenluft2025
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  author:
+    - family: Leibenluft
+      given: Jacob
+  citation-key: Leibenluft2025
+  issued:
+    - year: 2025
+  publisher: Center on Budget and Policy Priorities
+  source: JSTOR
+  title: “DOGE” Access to Treasury Payment Systems Raises Serious Risks
+  type: report
+  URL: https://www.jstor.org/stable/resrep67476
 
 - id: leonardLifeLeftistLabor1986
   author:
@@ -16392,6 +16494,54 @@ references:
   title: Maneja v. Waialua Agricultural Co.
   type: legal_case
   volume: '349'
+
+- id: Manheim2019
+  abstract: >-
+    Beginning with President Ronald Reagan, presidents of both political parties
+    increasingly have relied on executive orders and other unilateral written
+    directives as a means of exerting significant control over agencies'
+    policymaking activities. Nevertheless, no coherent or well-theorized legal
+    framework exists to guide courts as they review presidential orders. In
+    contrast, a robust body of administrative law principles—rooted largely in
+    the Administrative Procedure Act (APA)—exists to guide courts in their
+    review of agency action, including agency action that is heavily influenced
+    by the president. Until recently, this gap in the legal framework did not
+    prove particularly problematic because litigants generally waited for an
+    agency to act in response to a president's order and then relied on
+    well-settled administrative law doctrines to challenge the agency's action
+    instead of the president's order. President Donald J. Trump's entrance into
+    the White House, however, prompted an explosion of lawsuits that took direct
+    and immediate aim at presidential orders involving everything from sanctuary
+    cities to transgender troops. As this Article explains, this new and
+    forceful form of litigation aimed at the President confirms the need for a
+    coherent legal framework to guide judicial review of presidential orders.
+    This Article sketches out what such a framework might look like. In doing
+    so, it borrows from administrative law doctrines but also identifies
+    critical differences between presidential action and agency
+    action—differences that must inform the development of any legal framework
+    for judicial review of presidential orders.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  author:
+    - family: Manheim
+      given: Lisa
+    - family: Watts
+      given: Kathryn A.
+  citation-key: Manheim2019
+  container-title: The University of Chicago Law Review
+  ISSN: 0041-9494
+  issue: '7'
+  issued:
+    - year: 2019
+  page: 1743-1824
+  publisher: The University of Chicago Law Review
+  source: JSTOR
+  title: Reviewing Presidential Orders
+  type: article-journal
+  URL: https://www.jstor.org/stable/26792618
+  volume: '86'
 
 - id: Mann1986
   abstract: >-
@@ -19049,6 +19199,41 @@ references:
   title-short: Behemoth
   type: book
 
+- id: Newland2015
+  abstract: >-
+    This Note presents a study of judicial decisions that have engaged with
+    executive orders. The study was designed to elucidate the contexts in which
+    courts have considered executive orders; to identify the questions that
+    courts have posed about executive orders; and to synthesize the doctrine
+    that courts have developed in response to those questions. This study
+    reveals that, although the executive order is a powerful tool of the
+    presidency, courts have not tended to acknowledge, in a particularly
+    theorized way, the special challenges and demands of the executive order as
+    a form of lawmaking. This Note argues that, in the absence of a thicker
+    jurisprudential conception of the executive order, doctrinal asymmetries
+    that heavily favor executive power have emerged. These asymmetries carry
+    costs and therefore merit closer attention.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  author:
+    - family: Newland
+      given: Erica
+  citation-key: Newland2015
+  container-title: The Yale Law Journal
+  ISSN: 0044-0094
+  issue: '6'
+  issued:
+    - year: 2015
+  page: 2026-2099
+  publisher: The Yale Law Journal Company, Inc.
+  source: JSTOR
+  title: Executive Orders in Court
+  type: article-journal
+  URL: https://www.jstor.org/stable/43617075
+  volume: '124'
+
 - id: newmanLegalFoundationsState2013
   author:
     - family: Newman
@@ -21107,7 +21292,7 @@ references:
     - family: Sreejith
       given: S.G.
   event-place: Singapore
-  ISBN: 978-981-19-2568-9
+  ISBN: 978-981-19256-8-9
   issued:
     - year: 2022
   language: en
@@ -21188,6 +21373,22 @@ references:
   source: press.uchicago.edu
   title: BigLaw
   type: book
+
+- id: Regulation2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: Regulation2024
+  collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
+  issued:
+    - year: 2024
+  page: 10-17
+  publisher: Cato Institute
+  source: JSTOR
+  title: Regulation
+  type: report
+  URL: https://www.jstor.org/stable/resrep65607.5
 
 - id: reidCombatingEnemyRegulating2018
   author:
@@ -22044,38 +22245,30 @@ references:
   volume: '17'
 
 - id: Scheuerman1997
-  abstract: >-
-    Winner, 1996 Elaine and David Spitz Book Prize for the best book onliberal
-    and democratic theory, Conference for the Study of Political Thought.
-    Winner, 1994 First Book Prize, Foundations of Political Thought Organized
-    Section, American Political Science Association.Between the Norm and the
-    Exception contributes historical insight to the ongoing debate over the
-    future of the rule of law in welfare-state capitalist democracies. The core
-    issue is whether or not society can offer its citizens welfare-state
-    guarantees and still preserve the liberal vision of a norm-based legal
-    system. Franz Neumann and Otto Kirchheimer, in an age dominated by Hitler
-    and Stalin, sought to establish a sound theoretical basis for the "rule of
-    law" ideal. As an outcome of their sophisticated understanding of the
-    liberal political tradition, their writings suggest a theoretical missed
-    opportunity, an alternative critical theory that might usefully be applied
-    in understanding (and perhaps countering) the contemporary trend toward the
-    deformalization of law.
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
   author:
     - family: Scheuerman
       given: William E.
   citation-key: Scheuerman1997
-  ISBN: 978-0-262-69196-3
+  container-title: Cardozo Law Review
+  container-title-short: Cardozo L. Rev.
+  issue: '5'
   issued:
     - year: 1997
-      month: 1
-      day: 22
-  language: en
-  number-of-pages: '348'
-  publisher: MIT Press
-  source: Google Books
-  title: 'Between the Norm and the Exception: The Frankfurt School and the Rule of Law'
-  title-short: Between the Norm and the Exception
-  type: book
+    - year: 1998
+  language: eng
+  page: 1743-1770
+  source: HeinOnline
+  title: >-
+    After Legal Indeterminacy: Carl Schmitt and the National Socialist Legal
+    Order, 1933-1936
+  title-short: After Legal Indeterminacy
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/cdozo19&i=1767
+  volume: '19'
 
 - id: Scheuerman1997a
   abstract: >-
@@ -22124,59 +22317,40 @@ references:
   volume: '10'
 
 - id: Scheuerman1997b
-  accessed:
-    - year: 2025
-      month: 4
-      day: 18
+  abstract: >-
+    Winner, 1996 Elaine and David Spitz Book Prize for the best book onliberal
+    and democratic theory, Conference for the Study of Political Thought.
+    Winner, 1994 First Book Prize, Foundations of Political Thought Organized
+    Section, American Political Science Association.Between the Norm and the
+    Exception contributes historical insight to the ongoing debate over the
+    future of the rule of law in welfare-state capitalist democracies. The core
+    issue is whether or not society can offer its citizens welfare-state
+    guarantees and still preserve the liberal vision of a norm-based legal
+    system. Franz Neumann and Otto Kirchheimer, in an age dominated by Hitler
+    and Stalin, sought to establish a sound theoretical basis for the "rule of
+    law" ideal. As an outcome of their sophisticated understanding of the
+    liberal political tradition, their writings suggest a theoretical missed
+    opportunity, an alternative critical theory that might usefully be applied
+    in understanding (and perhaps countering) the contemporary trend toward the
+    deformalization of law.
   author:
     - family: Scheuerman
       given: William E.
   citation-key: Scheuerman1997b
-  container-title: Cardozo Law Review
-  container-title-short: Cardozo L. Rev.
-  issue: '5'
+  ISBN: 978-0-262-69196-3
   issued:
     - year: 1997
-    - year: 1998
-  language: eng
-  page: 1743-1770
-  source: HeinOnline
-  title: >-
-    After Legal Indeterminacy: Carl Schmitt and the National Socialist Legal
-    Order, 1933-1936
-  title-short: After Legal Indeterminacy
-  type: article-journal
-  URL: https://heinonline.org/HOL/P?h=hein.journals/cdozo19&i=1767
-  volume: '19'
+      month: 1
+      day: 22
+  language: en
+  number-of-pages: '348'
+  publisher: MIT Press
+  source: Google Books
+  title: 'Between the Norm and the Exception: The Frankfurt School and the Rule of Law'
+  title-short: Between the Norm and the Exception
+  type: book
 
 - id: Scheuerman1999
-  accessed:
-    - year: 2025
-      month: 4
-      day: 18
-  author:
-    - family: Scheuerman
-      given: William E.
-  citation-key: Scheuerman1999
-  container-title: Cardozo Law Review
-  container-title-short: Cardozo L. Rev.
-  issue: Issues 5-6
-  issued:
-    - year: 1999
-    - year: 2000
-  language: eng
-  page: 1869-1894
-  source: HeinOnline
-  title: >-
-    The Economic State of Emergency Symposium - Carl Schmitt: Legacy and
-    Prospects - An International Conference in New York City: Exception and
-    Emergency Powers
-  title-short: The Economic State of Emergency Symposium - Carl Schmitt
-  type: article-journal
-  URL: https://heinonline.org/HOL/P?h=hein.journals/cdozo21&i=1883
-  volume: '21'
-
-- id: Scheuerman1999a
   abstract: >-
     Until the publication of this pathbreaking book, most scholarly studies of
     Carl Schmitt offered an oversimplistic, apologetic account of Schmitt's
@@ -22199,7 +22373,7 @@ references:
   author:
     - family: Scheuerman
       given: William E.
-  citation-key: Scheuerman1999a
+  citation-key: Scheuerman1999
   ISBN: 978-0-8476-9418-1
   issued:
     - year: 1999
@@ -22210,6 +22384,33 @@ references:
   title: 'Carl Schmitt: The End of Law'
   title-short: Carl Schmitt
   type: book
+
+- id: Scheuerman1999a
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman1999a
+  container-title: Cardozo Law Review
+  container-title-short: Cardozo L. Rev.
+  issue: Issues 5-6
+  issued:
+    - year: 1999
+    - year: 2000
+  language: eng
+  page: 1869-1894
+  source: HeinOnline
+  title: >-
+    The Economic State of Emergency Symposium - Carl Schmitt: Legacy and
+    Prospects - An International Conference in New York City: Exception and
+    Emergency Powers
+  title-short: The Economic State of Emergency Symposium - Carl Schmitt
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/cdozo21&i=1883
+  volume: '21'
 
 - id: Scheuerman2006
   abstract: >-
@@ -22427,39 +22628,6 @@ references:
     - family: Scheuerman
       given: William E.
   citation-key: Scheuerman2023
-  ISBN: 978-0-520-91734-7
-  issued:
-    - year: 2023
-      month: 12
-      day: 22
-  language: en
-  number-of-pages: '484'
-  publisher: Univ of California Press
-  source: Google Books
-  title: >-
-    The Rule of Law Under Siege: Selected Essays of Franz L. Neumann and Otto
-    Kirchheimer
-  title-short: The Rule of Law Under Siege
-  type: book
-
-- id: Scheuerman2023a
-  abstract: >-
-    In the pathbreaking essays collected here, Neumann and Kirchheimer
-    demonstrate that the death of democracy and the rise of fascism during the
-    first half of the twentieth century suggest crucial lessons for contemporary
-    political and legal scholars. The volume includes writings on
-    constitutionalism, political freedom, Nazism, sovereignty, and both Nazi and
-    liberal law. Most important, the Frankfurt authors point to the continuing
-    efficacy of the rule of law as an instrument for regulating and restraining
-    state authority, as well as ominous evidence of the rule of law's fragility
-    in modern liberal democracy.In the pathbreaking essays collected here,
-    Neumann and Kirchheimer demonstrate that the death of democracy and the rise
-    of fascism during the first half of the twentieth century suggest crucial
-    lessons for contemporary political and legal scholars. The vo
-  author:
-    - family: Scheuerman
-      given: William E.
-  citation-key: Scheuerman2023a
   ISBN: 978-0-520-91734-7
   issued:
     - year: 2023
@@ -22773,7 +22941,7 @@ references:
     - family: Sears
       given: Steve
   citation-key: searsVoicesLaborHistory2019
-  ISBN: 978-1-7966-1495-4
+  ISBN: 978-1-79661-495-4
   issued:
     - literal: 2019-02-0024
   language: English
@@ -23872,6 +24040,22 @@ references:
   title-short: Winning Hearts & Minds
   type: thesis
   URL: http://repository.usfca.edu/capstone/4
+
+- id: SpendingCutsTax2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  citation-key: SpendingCutsTax2024
+  collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
+  issued:
+    - year: 2024
+  page: 18-31
+  publisher: Cato Institute
+  source: JSTOR
+  title: Spending Cuts and Tax Reforms
+  type: report
+  URL: https://www.jstor.org/stable/resrep65607.6
 
 - id: Spitzer2000
   abstract: >-
@@ -25611,7 +25795,7 @@ references:
     - family: Wood
       given: Lesley J.
   citation-key: Tilly2019
-  ISBN: 978-1-000-02416-6
+  ISBN: 978-1-00-002416-6
   issued:
     - year: 2019
       month: 7
@@ -25684,6 +25868,44 @@ references:
   title: Toering Electric Co.
   type: legal_case
   volume: '351'
+
+- id: Torres2018
+  abstract: >-
+    This book aims to recover from ancient and modern thinkers valuable
+    arguments about statesmanship, leadership, and tyranny which illuminate
+    reassessments of political science and practice after the election of Donald
+    Trump. Like almost everyone else, contemporary political scientists were
+    blind-sided by the rise of Trump. No one expected a candidate to win who
+    repeatedly violated both political norms and the conventional wisdom about
+    campaign best practices. Yet many of the puzzles that Trump’s rise presents
+    have been examined by the great political philosophers of the past. For
+    example, it would come as no surprise to Plato that by its very emphasis on
+    popularity, democracy creates the potential for tyranny via demagoguery.
+    And, perhaps no problem is more alien to empirical political science than
+    asking if statesmanship entails virtue or if so, in what that virtue
+    consists: This is a theme treated by Plato, Aristotle, and Machiavelli,
+    among others. Covering a range of thinkers such as Confucius, Plutarch,
+    Kant, Tocqueville, and Deleuze, the essays in this book then seek to place
+    the rise of Trump and the nature of his political authority within a broader
+    institutional context than is possible for mainstream political science.
+  citation-key: Torres2018
+  editor:
+    - family: Torres
+      given: Angel Jaramillo
+    - family: Sable
+      given: Marc Benjamin
+  ISBN: 978-3-319-74445-2
+  issued:
+    - year: 2018
+      month: 6
+      day: 12
+  language: en
+  number-of-pages: '335'
+  publisher: Springer
+  source: Google Books
+  title: 'Trump and Political Philosophy: Leadership, Statesmanship, and Tyranny'
+  title-short: Trump and Political Philosophy
+  type: book
 
 - id: Townsend2023
   abstract: >-
