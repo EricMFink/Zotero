@@ -577,6 +577,46 @@ references:
   type: article-journal
   volume: '10'
 
+- id: Adamidis2024
+  abstract: >-
+    Popular sovereignty plays a central role in both the democratic and the
+    populist ideology. While democracy’s version of qualified sovereignty is
+    accepted as mutually constitutive with the rule of law, populism’s version
+    of absolute sovereignty is seen as incompatible with this ideal. The article
+    reconsiders this oversimplifying approach. By examining the interaction of
+    these concepts with a nuanced account of the rule of law, it argues for the
+    compatibility of both democracy and populism with different versions of this
+    ideal. While this remains a key distinguishing factor between democracy and
+    populism, the ambiguity of the rule of law still allows populism to claim
+    that it complies with a thin version of this concept.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Adamidis
+      given: Vasileios
+  citation-key: Adamidis2024
+  container-title: Politics
+  DOI: 10.1177/02633957211041444
+  ISSN: 0263-3957
+  issue: '3'
+  issued:
+    - year: 2024
+      month: 8
+      day: 1
+  language: EN
+  page: 386-399
+  publisher: SAGE Publications Ltd
+  source: SAGE Journals
+  title: >-
+    Democracy, populism, and the rule of law: A reconsideration of their
+    interconnectedness
+  title-short: Democracy, populism, and the rule of law
+  type: article-journal
+  URL: https://doi.org/10.1177/02633957211041444
+  volume: '44'
+
 - id: AerotekInc2018
   authority: 8th Cir.
   citation-key: AerotekInc2018
@@ -3599,6 +3639,75 @@ references:
   title: Nationalism and the State
   type: book
 
+- id: Britton-Purdy2024
+  abstract: >-
+    Democracy and the rule of law aim at the same thing in different ways. Both
+    aim to make the legal power of complex societies relatively acceptable to a
+    reflective mind. They concern the regime’s accountability to those whom it
+    governs. Yet these two principles address people in quite different
+    registers: democracy addresses citizens, authors (or at least authorizers)
+    of laws, while the rule of law addresses subjects, takers of law. The rule
+    of law is entirely possible without democracy, but democracy is impossible,
+    indeed, unintelligible without a certain kind of rule of law. This is so
+    because law specifies the meaning of democracy’s key terms: who constitutes
+    the demos, or people, and when the people may be said to have spoken. These
+    are not natural facts, and come into being as political facts only through
+    their articulation in law. The activity of democracy is thus itself
+    dependent on the democratic rule of law.  American democracy suffers from
+    deficiency in the democratic rule of law in three dimensions of canonical
+    rule-of-law values: coherence, prospectivity, and feasibility. I illustrate
+    these points with discussion of, respectively, the temporal and
+    jurisdictional fragmentation of “the people,” the silence of existing law on
+    the structure of federal constitutional conventions, and the
+    near-impossibility of amending the national constitution.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Britton-Purdy
+      given: Jedediah S.
+  citation-key: Britton-Purdy2024
+  DOI: 10.2139/ssrn.5052568
+  event-place: Rochester, NY
+  genre: SSRN Scholarly Paper
+  issued:
+    - year: 2024
+      month: 12
+      day: 11
+  language: en
+  number: '5052568'
+  publisher: Social Science Research Network
+  publisher-place: Rochester, NY
+  source: papers.ssrn.com
+  title: A Democratic Rule of Law
+  type: article
+  URL: https://papers.ssrn.com/abstract=5052568
+
+- id: Britton-Purdy2025
+  abstract: >-
+    What use is the rule of law in assessing the Trump administration’s
+    assertions of executive power? To answer this question, we need to clarify
+    our understanding of its value — and more specifically…
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Britton-Purdy
+      given: Jedediah
+  citation-key: Britton-Purdy2025
+  container-title: LPE Project
+  issued:
+    - year: 2025
+      month: 2
+      day: 17
+  language: en-US
+  title: On Constitutional Crisis, the Rule of Law, and the Fate of Democracy
+  type: post-weblog
+  URL: >-
+    https://lpeproject.org/blog/on-constitutional-crisis-the-rule-of-law-and-the-fate-of-democracy/
+
 - id: Brocic2021
   accessed:
     - year: 2022
@@ -3934,6 +4043,47 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/smjmale11&i=231
   volume: '11'
+
+- id: Burgess2017
+  abstract: >-
+    In assessing compliance with the Rule of Law, the contested nature of the
+    concept renders the use of a single theorist’s conception or, alternatively,
+    the adoption of a hybrid conception open to criticism. There is no settled
+    and practical way to determine Rule of Law non-compliance. It is argued that
+    by looking behind the concept’s contestedness, Rule of Law non-compliance
+    can be identified. The fundamental needs undergirding canonical conceptions
+    are used to identify common elements of the Rule of Law. By taking this
+    approach, two necessary Rule of Law elements are distilled: Comprehension;
+    and, Procedural Pellucidity. As a result of their elemental nature, an
+    inability to comply with the elements reflects a total inability to satisfy
+    the Rule of Law regardless of the canonical conception preferred. The
+    methodology suggested provides a practical – theory agnostic – way to
+    identify Rule of Law non-compliance beyond the concept’s inherent
+    contestedness.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Burgess
+      given: Paul
+  citation-key: Burgess2017
+  container-title: Jurisprudence
+  DOI: 10.1080/20403313.2017.1341203
+  ISSN: 2040-3313
+  issue: '3'
+  issued:
+    - year: 2017
+      month: 9
+      day: 2
+  page: 480-500
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: 'The rule of law: beyond contestedness'
+  title-short: The rule of law
+  type: article-journal
+  URL: https://doi.org/10.1080/20403313.2017.1341203
+  volume: '8'
 
 - id: Burley2019
   abstract: >-
@@ -5502,6 +5652,88 @@ references:
   type: article-journal
   URL: https://papers.ssrn.com/abstract=4321943
   volume: '112'
+
+- id: Cummings2024a
+  abstract: >-
+    While scholars have recently highlighted the role of law in democratic
+    backsliding, they have largely ignored the actors who wield this tool:
+    lawyers. Yet as the guardians of the legal legitimacy upon…
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Cummings
+      given: Scott
+  citation-key: Cummings2024a
+  container-title: LPE Project
+  issued:
+    - year: 2024
+      month: 6
+      day: 20
+  language: en-US
+  title: When Lawyers Attack the Rule of Law
+  type: post-weblog
+  URL: https://lpeproject.org/blog/when-lawyers-attack-the-rule-of-law/
+
+- id: Cummings2025
+  abstract: >-
+    Lawyers draft laws and defend them in court, and over time you see
+    rule-of-law institutions required to check executive power, like courts,
+    weakening—and that creates the risk of dramatic change. Scott L. Cummings,
+    Professor of Legal Ethics, UCLA School of Law The ideal of lawyers ensuring
+    democracy functions well is one that we’re constantly striving […]
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Cummings
+      given: Scott
+    - family: Wilkins
+      given: David B.
+  citation-key: Cummings2025
+  container-title: The Practice (Harvard Law School Center on the Legal Profession)
+  issued:
+    - literal: March/April 2025
+  language: en-US
+  title: Why American Lawyers Must Fight Democratic Backsliding
+  type: post-weblog
+  URL: >-
+    https://clp.law.harvard.edu/article/why-american-lawyers-must-fight-democratic-backsliding/
+
+- id: Cummings2025a
+  abstract: >-
+    President Donald Trump’s recent speech to the Department of Justice was
+    meant as a declaration of war against lawyers. His words made clear that the
+    most effective way to consolidate autocracy is by systematically dismantling
+    the independent centers of power that support a healthy democracy, including
+    the independent public prosecutor. As the Executive Orders targeting law
+    firms underscore: the entire legal profession is next. This is no
+    coincidence.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Cummings
+      given: Scott
+  citation-key: Cummings2025a
+  container-title: Verfassungsblog
+  DOI: 10.59704/56a01d171ba9707d
+  ISSN: 2366-7044
+  issued:
+    - year: 2025
+      month: 3
+      day: 26
+  language: eng
+  license: CC BY-SA 4.0
+  publisher: Verfassungsblog
+  source: verfassungsblog.de
+  title: Stopping Autocratic Legalism in America – Before It Is Too Late
+  type: article-journal
+  URL: >-
+    https://verfassungsblog.de/stopping-autocratic-legalism-in-america-before-it-is-too-late/
 
 - id: cummingsHemmedLegalMobilization2009
   author:
@@ -7311,6 +7543,49 @@ references:
   type: article-journal
   volume: '92'
 
+- id: Ermakoff2020
+  abstract: >-
+    This article examines how authoritarian contenders use law to advance an
+    agenda geared to exclusive state power in light of a paradigmatic case: the
+    National Socialists’ takeover of the German state apparatus in spring 1933.
+    This case highlights two ways in which an office holder is able to expand
+    his power in an authoritarian fashion through legal dispositions. A
+    conjunctural use of law for authoritarian purposes draws on legal statutes
+    to undercut the political capacity of opponents and competitors, hollow out
+    institutional checks, and crucially hamper civil freedoms. Taking advantage
+    of constitutional provisions that make institutional subversion from within
+    possible (‘constitutional Trojan horses’), a structural use of legal
+    statutes reorders the power structure by reallocating decisional rights. In
+    both cases, law serves as a weapon against the rule of law. These
+    considerations raise the question of the standards by which we are to judge
+    the legality of such acts. Contemporary instances of democratic backsliding
+    are cases in point.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Ermakoff
+      given: Ivan
+  citation-key: Ermakoff2020
+  container-title: Journal of Law and Society
+  DOI: 10.1111/jols.12253
+  ISSN: 1467-6478
+  issue: S1
+  issued:
+    - year: 2020
+  language: en
+  license: >-
+    © 2020 The Author. Journal of Law and Society © 2020 Cardiff University Law
+    School
+  page: S164-S186
+  source: Wiley Online Library
+  title: 'Law against the Rule of Law: Assaulting Democracy'
+  title-short: Law against the Rule of Law
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.12253
+  volume: '47'
+
 - id: ernstLawyersLaborIndividual1995
   author:
     - family: Ernst
@@ -9068,6 +9343,45 @@ references:
   URL: www.jstor.org/stable/44441230
   volume: '54'
 
+- id: Fraenkel2018
+  abstract: >-
+    The Dual State, first published in 1941, remains one of the most erudite
+    books on the logic of dictatorship. It was the first comprehensive analysis
+    of the rise and nature of National Socialism and the only such analysis
+    written from within Hitler's Germany. Ernst Fraenkel's courageous
+    ethnography of law was widely acclaimed upon publication, and it has
+    influenced considerably postwar debates about the nature of the Third Reich.
+    But The Dual State also has relevance for the study of dictatorship in the
+    twenty-first century. Fraenkel's innovative concept of the dual state, with
+    its two halvesthe normative state (which generally respects its own laws and
+    regulations) and the prerogative state (which violates them wantonly)
+    illuminates powerfully the complicated relationship between law and order in
+    many countries around the world. It speaks directly to the idea of an
+    authoritarian rule of law. This republication of Fraenkel's classic makes it
+    once again available to scholars and students in law, the social sciences,
+    and the humanities. It includes Fraenkel's 1974 preface to and two
+    appendices from the first German editionnever before published in English.
+    An extensive introduction by Jens Meierhenrich places Fraenkel's ethnography
+    of law in historical and theoretical context.
+  author:
+    - family: Fraenkel
+      given: Ernst
+    - family: Meierhenrich
+      given: Jens
+  citation-key: Fraenkel2018
+  ISBN: 978-0-19-102533-4
+  issued:
+    - year: 2018
+      month: 12
+      day: 13
+  language: en
+  number-of-pages: '337'
+  publisher: Oxford University Press
+  source: Google Books
+  title: 'The Dual State: A Contribution to the Theory of Dictatorship'
+  title-short: The Dual State
+  type: book
+
 - id: frankBananerasWomenTransforming2016
   abstract: >-
     "[Bananeras] is a vital accounting of the struggles still being
@@ -9507,7 +9821,7 @@ references:
     - family: Fuchs
       given: Christian
   citation-key: Fuchs2022
-  ISBN: 978-1-00-053266-1
+  ISBN: 978-1-000-53266-1
   issued:
     - year: 2022
       month: 3
@@ -9999,6 +10313,32 @@ references:
   title: 'Which Side Are You On?: Trying to Be for Labor When It''s Flat on Its Back'
   title-short: Which Side Are You On?
   type: book
+
+- id: GeorgetownUniversityDiscussion2025
+  abstract: >-
+    Legal scholars and policy advocates discussed democracy, the rule of law,
+    and global affairs during a symposium hosted by Georgetown University's Law
+    Center and McCourt School of Public Policy. During this portion, the
+    panelists focused on the evolution of democracy and the rule of law in
+    America. They discussed historical events that foreshadowed the current
+    state of democracy and touched on topics such as partisan divide, mistrust
+    in institutions, and executive power.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  citation-key: GeorgetownUniversityDiscussion2025
+  issued:
+    - year: 2025
+      month: 2
+      day: 7
+  language: en-us
+  title: >-
+    Georgetown University Discussion on the Rule of Law and Democracy Around the
+    Globe
+  type: motion_picture
+  URL: >-
+    https://www.c-span.org/program/public-affairs-event/georgetown-university-discussion-on-the-rule-of-law-and-democracy-around-the-globe/655494
 
 - id: getmanRestoringPowerUnions2012
   abstract: >-
@@ -10567,6 +10907,88 @@ references:
   title-short: Labored Relations
   type: book
 
+- id: Gowder_nd
+  abstract: >-
+    The Rule of Law in the Real World (Cambridge University Press, 2016) gives a
+    comprehensive new theory of the political and legal ideal known as 'the rule
+    of law': what it means (the coordinated collective control of power), why it
+    matters (it constitutes a morally important kind of social equality), and
+    how these properties should be taken into account in social scientific
+    attempts to measure it as well as policy efforts to promote it.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Gowder
+      given: Paul
+  citation-key: Gowder_nd
+  language: en
+  title: The Rule of Law in the Real World
+  type: webpage
+  URL: https://rulelaw.net
+
+- id: Gowder2016
+  abstract: "In The Rule of Law in the Real World, Paul Gowder defends a new conception of the rule of law as the coordinated control of power and demonstrates that the rule of law, thus understood, creates and preserves social equality in a state. In a highly engaging, interdisciplinary text that moves seamlessly from theory to reality, using examples ranging from Ancient Greece through the present, Gowder sheds light on how societies have achieved the rule of law, how they have sustained it in the face of political upheaval, and how it may be measured and developed in the future. The Rule of Law in the Real World is an essential work for scholars, students, policymakers, and anyone else who believes the rule of law is critical to the proper functioning of society. For more information, visit\_http://rulelaw.net. This book is also available as Open Access on Cambridge Core."
+  author:
+    - family: Gowder
+      given: Paul
+  citation-key: Gowder2016
+  ISBN: 978-1-107-13689-2
+  issued:
+    - year: 2016
+      month: 2
+      day: 9
+  language: en
+  number-of-pages: '289'
+  publisher: Cambridge University Press
+  source: Google Books
+  title: The Rule of Law in the Real World
+  type: book
+
+- id: Gowder2023
+  abstract: >-
+    What is the American rule of law? Is it a paradigm case of the strong
+    constitutionalism concept of the rule of law or has it fallen short of its
+    rule of law ambitions?This open access book traces the promise and paradox
+    of the American rule of law in three interwoven ways.It focuses on
+    explicating the ideals of the American rule of law by asking: how do we
+    interpret its history and the goals of its constitutional framers to see the
+    rule of law ambitions its foundational institutions express?It considers
+    those constitutional institutions as inextricable from the problem of race
+    in the United States and the tensions between the rule of law as a protector
+    of property rights and the rule of law as a restrictor on arbitrary power
+    and a guarantor of legal equality. In that context, it explores the
+    distinctive role of Black liberation movements in developing the American
+    rule of law.Finally, it considers the extent to which the American rule of
+    law is compromised at its frontiers, and the extent that those compromises
+    undermine legal protections Americans enjoy in the interior. It asks how
+    America reflects the legal contradictions of capitalism and empire outside
+    its borders, and the impact of those contradictions on its external
+    goals.The eBook editions of this book are available open access under a CC
+    BY-NC-ND 4.0 licence on www.bloomsburycollections.com. Open access was
+    funded by Northwestern University Pritzker School of Law and the
+    Northwestern Open Access Fund, provided by Northwestern University
+    Libraries.
+  author:
+    - family: Gowder
+      given: Paul
+  citation-key: Gowder2023
+  ISBN: 978-1-5099-5466-7
+  issued:
+    - year: 2023
+      month: 6
+      day: 15
+  language: en
+  number-of-pages: '288'
+  publisher: Bloomsbury Academic
+  source: Google Books
+  title: >-
+    The Rule of Law in the United States: An Unfinished Project of Black
+    Liberation
+  title-short: The Rule of Law in the United States
+  type: book
+
 - id: GrantBurtonCovenantCare2002
   authority: Cal. Ct. App.
   citation-key: GrantBurtonCovenantCare2002
@@ -10661,6 +11083,31 @@ references:
   type: article-journal
   URL: https://ir.lawnet.fordham.edu/faculty_scholarship/1200
   volume: '54'
+
+- id: Greenberg2022
+  abstract: >-
+    Russia’s expulsion from the Council of Europe revealed the fragility of the
+    rule of law and existing legal systems when faced with state violence. The
+    stakes in balancing hope in justice with formal institutional mechanisms
+    that rely on compromise and consensus are high.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Greenberg
+      given: Jessica
+  citation-key: Greenberg2022
+  container-title: Anthropology News
+  issued:
+    - year: 2022
+      month: 11
+      day: 4
+  language: en-US
+  title: Compromise, Complicity, and the Rule of Law
+  type: post-weblog
+  URL: >-
+    https://www.anthropology-news.org/articles/compromise-complicity-and-the-rule-of-law/
 
 - id: greenbergImpossibleUnityAdjuncts2014
   author:
@@ -13565,6 +14012,59 @@ references:
   title: Kansas ag-gag
   type: legislation
 
+- id: Kantorowicz_nd
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Kantorowicz
+      given: Jarosław
+    - family: González-Bustamante
+      given: Bastián
+  citation-key: Kantorowicz_nd
+  title: Unravelling the Rule of Law
+  type: webpage
+  URL: https://rol-project.shinyapps.io/unravelling-rule-of-law/
+
+- id: Kantorowicz2024
+  abstract: >-
+    Significant scholarly effort has been dedicated to defining the rule of law.
+    The prevailing view in the literature is that the rule of law is a highly
+    multidimensional and, as some suggest, an essentially contested concept. In
+    this study, we employ advanced text-as-data methods, specifically diachronic
+    word embeddings, to shed light on what the rule of law means and how its
+    meaning has evolved over a century through parliamentary speeches in the UK
+    and the US. We categorize the conceptualization of the rule of law into thin
+    (procedural) and thick (substantive) definitions. Our findings indicate that
+    procedural elements, such as rules and judiciary, maintain a strong and
+    relatively more stable association with the rule of law. In contrast,
+    substantive elements, which include rights and democratic principles, have
+    become relatively less associated with the rule of law over time. Despite
+    this decline, the rights component remains critically important to the
+    concept, broadly equivalent in significance to procedural aspects.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Kantorowicz
+      given: Jarosław
+    - family: González-Bustamante
+      given: Bastián
+  citation-key: Kantorowicz2024
+  DOI: 10.31219/osf.io/2kzpj
+  issued:
+    - year: 2024
+      month: 9
+      day: 9
+  language: en-us
+  publisher: OSF
+  source: OSF Preprints
+  title: Changing Meaning of the Rule of Law
+  type: article
+  URL: https://osf.io/2kzpj_v1
+
 - id: Karlip2013
   author:
     - family: Karlip
@@ -13783,6 +14283,31 @@ references:
   URL: >-
     https://www.jacksonlewis.com/publication/north-carolina-reinforces-property-protection-law-giving-employers-right-sue
 
+- id: Kellner2017
+  abstract: >-
+    First published
+    at:http://www.uta.edu/huma/agger/fastcapitalism/14_1/Kellner-Donald-Trump-Media.htm
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Kellner
+      given: Douglas
+  citation-key: Kellner2017
+  container-title: Fast Capitalism
+  issue: '1'
+  issued:
+    - year: 2017
+  language: en-US
+  page: 75-87
+  source: fastcapitalism.journal.library.uta.edu
+  title: Donald Trump, Media Spectacle, and Authoritarian Populism | Fast Capitalism
+  type: article-journal
+  URL: >-
+    https://fastcapitalism.journal.library.uta.edu/index.php/fastcapitalism/article/view/355
+  volume: '14'
+
 - id: Kelly2002
   abstract: >-
     Because of its characterization of National Socialism as a form of
@@ -13974,6 +14499,34 @@ references:
   URL: www.jstor.org/stable/24052189
   volume: '26'
 
+- id: Kerew2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Kerew
+      given: Kendall
+  citation-key: Kerew2024
+  container-title: Mercer Law Revbiew
+  DOI: 10.2139/ssrn.4847736
+  ISSN: 1556-5068
+  issued:
+    - year: 2024
+  language: en
+  page: 1449-1482
+  source: DOI.org (Crossref)
+  title: >-
+    The Rule of Law, The Lawyer's Role as a Public Citizen, and Professional
+    Identity: How Fostering the Development of Professional Identity Can Help
+    Law Schools Address the Crisis Facing American Democracy
+  title-short: >-
+    The Rule of Law, The Lawyer's Role as a Public Citizen, and Professional
+    Identity
+  type: article-journal
+  URL: https://www.ssrn.com/abstract=4847736
+  volume: '75'
+
 - id: kessler-harrisOutWorkHistory2003
   abstract: >-
     First published in 1982, this pioneering work traces the transformation of
@@ -14087,6 +14640,36 @@ references:
   title: 'Women Have Always Worked: A Concise History'
   title-short: Women Have Always Worked
   type: book
+
+- id: Kettler2019
+  abstract: >-
+    A labor lawyer and publicist of weight in the Weimar Republic, Franz Neumann
+    devoted his 21-year exile, after 1933, to understanding the failure of
+    arrangements supposed to be in the line of social progress. He sought to
+    delineate a new conception of democracy as a vehicle of social change.
+    "Learning from Franz Neumann" examines Neumann’s social and political theory
+    in the context of his career as a practitioner, learner, and teacher.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Kettler
+      given: David
+    - family: Wheatland
+      given: Thomas
+  citation-key: Kettler2019
+  DOI: 10.2307/j.ctvm7bbc1
+  ISBN: 978-1-78308-997-0
+  issued:
+    - year: 2019
+  publisher: Anthem Press
+  source: JSTOR
+  title: >-
+    Learning from Franz L. Neumann - Law, Theory, and the Brute Facts of
+    Political Life
+  type: book
+  URL: https://www.jstor.org/stable/j.ctvm7bbc1
 
 - id: Khurana2024
   accessed:
@@ -14642,6 +15225,48 @@ references:
   title: 'A Troublemaker''s Handbook: How to Fight Back Where You Work - And Win!'
   title-short: A Troublemaker's Handbook
   type: book
+
+- id: Lacey2019
+  abstract: >-
+    The resurgence of populism in Europe and North America is widely thought to
+    have placed the rule of law under pressure. But how many of the relevant
+    developments are indeed associated with populism? And is any such
+    association a contingent or analytic matter: Does populism inevitably
+    threaten the rule of law, or do other conditions intervene to shape its
+    impact? After setting out how I understand the rule of law and populism, I
+    examine the ways in which contemporary populist discourse has challenged the
+    rule of law through a variety of mechanisms—notably agenda setting, policy
+    impact, influence on discretionary decisions, and convention
+    trashing—considering the institutional and social conditions that conduce to
+    strengthen or weaken these mechanisms in particular contexts. Finally, I
+    consider the implications of the analysis for contemporary criminalization,
+    assessing how many of the factors producing penal populism or
+    overcriminalization are truly a product of populism.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Lacey
+      given: Nicola
+  citation-key: Lacey2019
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev-lawsocsci-101518-042919
+  ISSN: 1550-3585, 1550-3631
+  issue: Volume 15, 2019
+  issued:
+    - year: 2019
+      month: 10
+      day: 13
+  language: en
+  page: 79-96
+  publisher: Annual Reviews
+  source: www-annualreviews-org.elon.idm.oclc.org
+  title: Populism and the Rule of Law
+  type: article-journal
+  URL: >-
+    https://www.annualreviews.org/content/journals/10.1146/annurev-lawsocsci-101518-042919
+  volume: '15'
 
 - id: Lacy1997
   abstract: >-
@@ -16605,6 +17230,45 @@ references:
   type: legal_case
   volume: '321'
 
+- id: Maravall2003
+  abstract: >-
+    This book addresses the question of why governments sometimes follow the law
+    and other times choose to evade the law. The traditional answer of jurists
+    has been that laws have an autonomous causal efficacy: law rules when
+    actions follow anterior norms; the relation between laws and actions is one
+    of obedience, obligation, or compliance. Contrary to this conception, the
+    authors defend a positive interpretation where the rule of law results from
+    the strategic choices of relevant actors. Rule of law is just one possible
+    outcome in which political actors process their conflicts using whatever
+    resources they can muster: only when these actors seek to resolve their
+    conflicts by recourse to la, does law rule. What distinguishes 'rule-of-law'
+    as an institutional equilibrium from 'rule-by-law' is the distribution of
+    power. The former emerges when no one group is strong enough to dominate the
+    others and when the many use institutions to promote their interest.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  citation-key: Maravall2003
+  collection-title: Cambridge Studies in the Theory of Democracy
+  DOI: 10.1017/CBO9780511610066
+  editor:
+    - family: Maravall
+      given: José María
+    - family: Przeworski
+      given: Adam
+  event-place: Cambridge
+  ISBN: 978-0-521-82559-7
+  issued:
+    - year: 2003
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  title: Democracy and the Rule of Law
+  type: book
+  URL: >-
+    https://www.cambridge.org/core/books/democracy-and-the-rule-of-law/C0F789442D4F7E9B73C8340883059D14
+
 - id: Marceau2015
   author:
     - family: Marceau
@@ -17592,6 +18256,42 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/1512168
   volume: '36'
+
+- id: Meierhenrich2021
+  abstract: >-
+    The Cambridge Companion to the Rule of Law introduces students, scholars,
+    and practitioners to the theory and history of the rule of law, one of the
+    most frequently invoked-and least understood-ideas of legal and political
+    thought and policy practice. It offers a comprehensive re-assessment by
+    leading scholars of one of the world's most cherished traditions. This
+    high-profile collection provides the first global and interdisciplinary
+    account of the histories, moralities, pathologies and trajectories of the
+    rule of law. Unique in conception, and critical in its approach, it
+    evaluates, breaks down, and subverts conventional wisdom about the rule of
+    law for the twenty-first century.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  citation-key: Meierhenrich2021
+  collection-title: Cambridge Companions to Law
+  DOI: 10.1017/9781108600569
+  editor:
+    - family: Meierhenrich
+      given: Jens
+    - family: Loughlin
+      given: Martin
+  event-place: Cambridge
+  ISBN: 978-1-316-51213-5
+  issued:
+    - year: 2021
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  title: The Cambridge Companion to the Rule of Law
+  type: book
+  URL: >-
+    https://www.cambridge.org/core/books/cambridge-companion-to-the-rule-of-law/9308720972310063A582B80721370835
 
 - id: Meissner1960
   accessed:
@@ -19166,6 +19866,40 @@ references:
     Legal Profession
   type: book
 
+- id: NetworkforResponsiblePublicPolicy2025
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  citation-key: NetworkforResponsiblePublicPolicy2025
+  dimensions: '1:39:09'
+  director:
+    - literal: Network for Responsible Public Policy
+  issued:
+    - year: 2025
+      month: 3
+      day: 30
+  source: YouTube
+  title: Is the Rule of Law Enough to Protect Democracy?
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=TcQLpcdXs9s
+
+- id: Neumann1986
+  author:
+    - family: Neumann
+      given: Franz
+  citation-key: Neumann1986
+  ISBN: 978-0-907582-36-6
+  issued:
+    - year: 1986
+  language: en
+  number-of-pages: '384'
+  publisher: Berg
+  source: Google Books
+  title: 'The Rule of Law: Political Theory and the Legal System in Modern Society'
+  title-short: The Rule of Law
+  type: book
+
 - id: Neumann2009
   abstract: >-
     Franz Neumann's classic account of the governmental workings of Nazi
@@ -19602,6 +20336,41 @@ references:
   URL: http://search.proquest.com/docview/2352142311/abstract/5B13AF4F8A2249D0PQ/1
   volume: '25'
 
+- id: ODonnell2004
+  abstract: >-
+    High-quality democracy requires a truly democratic rule of law that ensures
+    political rights, civil liberties, and mechanisms of accountability which in
+    turn affirm the political equality of all citizens and constrain potential
+    abuses of state power. How may the democratic rule of law (état de droit,
+    estado democrático de derecho, Rechsstaat) be conceptualized and, insofar as
+    possible, empirically gauged? By exploring a set of variables within the
+    rule of law we can understand what makes it effective and how it relates to
+    other aspects of the performance of democratic countries. This essay focuses
+    on contemporary Latin America (especially Argentina and Brazil) where
+    national-level democratic regimes often effectively coexist with
+    undemocratic sub-national regimes—so-called “brown areas.”
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: O’Donnell
+      given: Guillermo
+  citation-key: ODonnell2004
+  container-title: Journal of Democracy
+  ISSN: 1086-3214
+  issue: '4'
+  issued:
+    - year: 2004
+  page: 32-46
+  publisher: Johns Hopkins University Press
+  source: Project MUSE
+  title: 'The Quality of Democracy: Why the Rule of Law Matters'
+  title-short: The Quality of Democracy
+  type: article-journal
+  URL: https://muse.jhu.edu/pub/1/article/175988
+  volume: '15'
+
 - id: Oestreicher1988
   accessed:
     - year: 2019
@@ -19642,6 +20411,50 @@ references:
   source: Google Books
   title: Contradictions of the Welfare State
   type: book
+
+- id: Ohnesorge2007
+  abstract: >-
+    Rule of Law rhetoric is increasingly common, both in U.S. legal literature
+    and in the realm of international governance. In the field of law and
+    economic development, the Rule of Law revival is lead by the international
+    financial institutions (IFIs). Rule of Law discourse has also come to play
+    an important role in the fields of comparative politics and comparative law,
+    particularly with respect to East Asia. This review begins with a discussion
+    of Rule of Law rhetoric in the Anglo-American tradition. It then discusses
+    the international Rule of Law renaissance, focusing on the roles that Rule
+    of Law rhetoric plays in the development activities of the IFIs. Because the
+    claim is that the Rule of Law is key to economic development, this review
+    explores the extent to which Northeast Asia&apos;s outstanding economic
+    development conformed to the Rule of Law. An exploration follows of how the
+    Rule of Law–economic development literature has evolved over time, in line
+    with changing ideas about economics and about development itself. Finally,
+    this review explores how Rule of Law is used in the literatures of
+    comparative politics and comparative law.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Ohnesorge
+      given: John K. M.
+  citation-key: Ohnesorge2007
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev.lawsocsci.3.011207.080748
+  ISSN: 1550-3585, 1550-3631
+  issue: Volume 3, 2007
+  issued:
+    - year: 2007
+      month: 12
+      day: 1
+  language: en
+  page: 99-114
+  publisher: Annual Reviews
+  source: www-annualreviews-org.elon.idm.oclc.org
+  title: The Rule of Law
+  type: article-journal
+  URL: >-
+    https://www.annualreviews.org/content/journals/10.1146/annurev.lawsocsci.3.011207.080748
+  volume: '3'
 
 - id: OilCapitolSheet2007
   authority: N.L.R.B.
@@ -20250,6 +21063,28 @@ references:
   title: 'Invisible Hands: The Businessmen''s Crusade Against the New Deal'
   title-short: Invisible Hands
   type: book
+
+- id: Piccone2023
+  abstract: >-
+    Study after study confirms that countries are still very far from their own
+    stated allegiance to democracy, rights, and the rule of law.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Piccone
+      given: Ted
+  citation-key: Piccone2023
+  container-title: Brookings
+  issued:
+    - year: 2023
+      month: 11
+      day: 10
+  language: en-US
+  title: The compounding rule of law crisis
+  type: post-weblog
+  URL: https://www.brookings.edu/articles/the-compounding-rule-of-law-crisis/
 
 - id: Piketty2015
   abstract: >-
@@ -21192,6 +22027,26 @@ references:
   type: legal_case
   volume: '367'
 
+- id: Raban2015
+  author:
+    - family: Raban
+      given: Ofer
+  citation-key: Raban2015
+  container-title: Journal of Legislation and Public Policy
+  DOI: 10.2139/ssrn.2564548
+  ISSN: 1556-5068
+  issue: '1'
+  issued:
+    - year: 2015
+  language: en
+  page: 45-66
+  title: >-
+    The Rationalization of Policy: On the Relation between Democracy and the
+    Rule of Law
+  title-short: The Rationalization of Policy
+  type: article-journal
+  volume: '18'
+
 - id: RaceColorDiscrimination
   citation-key: RaceColorDiscrimination
   note: 'Select: zotero://select/library/items/8IHLC35S'
@@ -21292,7 +22147,7 @@ references:
     - family: Sreejith
       given: S.G.
   event-place: Singapore
-  ISBN: 978-981-19256-8-9
+  ISBN: 978-981-19-2568-9
   issued:
     - year: 2022
   language: en
@@ -21898,6 +22753,21 @@ references:
   URL: www.jstor.org/stable/2523590
   volume: '41'
 
+- id: RuleLawIndex2024
+  abstract: Explore rule of law rankings for 142 countries in the WJP Rule of Law Index
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  citation-key: RuleLawIndex2024
+  issued:
+    - year: 2024
+  language: en
+  publisher: World Justice Project
+  title: Rule of Law Index
+  type: report
+  URL: https://worldjusticeproject.org/rule-of-law-index
+
 - id: Ryan2022
   abstract: >-
     Black men have been disproportionately disciplined by the agency that
@@ -21973,6 +22843,32 @@ references:
   title: 'The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay'
   title-short: The Triumph of Injustice
   type: book
+
+- id: Salter1999
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Salter
+      given: Michael
+  citation-key: Salter1999
+  container-title: Res Publica
+  container-title-short: Res Publica
+  issue: '2'
+  issued:
+    - year: 1999
+  language: eng
+  page: 161-194
+  source: HeinOnline
+  title: >-
+    Neo-Fascist Legal Theory on Trial: An Interpretation of Carl Schmitt's
+    Defence at Nuremberg from the Perspective of Franz Neumann's Critical Theory
+    of Law
+  title-short: Neo-Fascist Legal Theory on Trial
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/respub5&i=161
+  volume: '5'
 
 - id: salvatoreEugeneDebsCitizen2007
   abstract: >-
@@ -22221,6 +23117,95 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/hamlrv30&i=635
   volume: '30'
+
+- id: Scheppele2018
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Scheppele
+      given: Kim Lane
+  citation-key: Scheppele2018
+  container-title: University of Chicago Law Review
+  container-title-short: U. Chi. L. Rev.
+  issue: '2'
+  issued:
+    - year: 2018
+  language: eng
+  page: 545-584
+  source: HeinOnline
+  title: Autocratic Legalism
+  title-short: Autocratic Legalism
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/uclr85&i=555
+  volume: '85'
+
+- id: Scheppele2024
+  abstract: >-
+    The rule of law has become all things to all people, which is precisely why
+    it has been hard to define. Rather than attempt that feat, this article
+    traces how the rule of law has developed as a set of specific governing
+    practices both in the history of comparative law and in recent policy
+    debates. Whereas national legal traditions blended ideas about the
+    constraining effects of law with normative ideas about the organization of
+    politics, the policy conversation has tended to depoliticize law altogether.
+    As a result, it became possible for aspirational autocrats determined to
+    undermine normative legal constraints to game the system and use law for
+    autocratic ends. The rule of law is now beginning a new life, however,
+    through a movement to deparochialize law and re-embed it in transnational
+    norms. This rule of law writ large has become a new touchstone for holding
+    political power accountable through law.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Scheppele
+      given: Kim Lane
+  citation-key: Scheppele2024
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev-lawsocsci-010924-103836
+  ISSN: 1550-3585, 1550-3631
+  issue: Volume 20, 2024
+  issued:
+    - year: 2024
+      month: 10
+      day: 17
+  language: en
+  page: 17-33
+  publisher: Annual Reviews
+  source: www-annualreviews-org.elon.idm.oclc.org
+  title: The Life of the Rule of Law
+  type: article-journal
+  URL: >-
+    https://www.annualreviews.org/content/journals/10.1146/annurev-lawsocsci-010924-103836
+  volume: '20'
+
+- id: Scheppele2025
+  abstract: “He who saves his Country does not violate any Law.”
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Scheppele
+      given: Kim Lane
+  citation-key: Scheppele2025
+  container-title: Verfassungsblog
+  DOI: 10.59704/ee3b0ca2d243fd42
+  ISSN: 2366-7044
+  issued:
+    - year: 2025
+      month: 2
+      day: 21
+  language: eng
+  license: CC BY-SA 4.0
+  publisher: Verfassungsblog
+  source: verfassungsblog.de
+  title: Trump’s Counter-Constitution
+  type: article-journal
+  URL: https://verfassungsblog.de/trumps-counter-constitution/
 
 - id: Scheuerman1996
   accessed:
@@ -22941,7 +23926,7 @@ references:
     - family: Sears
       given: Steve
   citation-key: searsVoicesLaborHistory2019
-  ISBN: 978-1-79661-495-4
+  ISBN: 978-1-7966-1495-4
   issued:
     - literal: 2019-02-0024
   language: English
@@ -23155,6 +24140,31 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/24052536
   volume: '29'
+
+- id: Shaffer2025
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  citation-key: Shaffer2025
+  container-title: 'The Rule of Law under Pressure: A Transnational Challenge'
+  editor:
+    - family: Shaffer
+      given: Gregory
+    - family: Sandholtz
+      given: Wayne
+  event-place: Cambridge
+  ISBN: 978-1-009-46024-8
+  issued:
+    - year: 2025
+  page: i-ii
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  title: The Rule of Law under Pressure
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/rule-of-law-under-pressure/rule-of-law-under-pressure/4B514D895126DE8E573539620D442EEE
 
 - id: shapiroProtectingCompetitionAmerican2019
   abstract: >-
@@ -25795,7 +26805,7 @@ references:
     - family: Wood
       given: Lesley J.
   citation-key: Tilly2019
-  ISBN: 978-1-00-002416-6
+  ISBN: 978-1-000-02416-6
   issued:
     - year: 2019
       month: 7
@@ -26458,6 +27468,81 @@ references:
   URL: http://www.jstor.org/stable/44127309
   volume: '63'
 
+- id: Waldron2011
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Waldron
+      given: Jeremy
+  citation-key: Waldron2011
+  container-title: Nomos
+  issued:
+    - year: 2011
+  page: 3-31
+  title: The Rule of Law and the Importance of Procedure
+  type: article-journal
+  URL: >-
+    https://www.jstor.org/stable/24220105?searchText=au%3A%22Jeremy+Waldron%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dau%253A%2522Jeremy%2BWaldron%2522%26so%3Drel&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ae42efba47350f3898edd22b273bb0d6b&seq=1
+  volume: '50'
+
+- id: Waldron2016
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Waldron
+      given: Jeremy
+  citation-key: Waldron2016
+  issued:
+    - year: 2016
+      month: 6
+      day: 22
+  note: 'Last Modified: 2016-06-22'
+  source: plato.stanford.edu
+  title: The Rule of Law
+  type: article-journal
+  URL: https://plato.stanford.edu/archives/fall2023/entries/rule-of-law/
+
+- id: Waldron2021
+  abstract: >-
+    That a concept in common use, such as the rule of law, may be called
+    essentially contested is not a criticism of that concept. Quite the
+    contrary: “essentially contested” is a theoretical designation that draws
+    attention to the way in which arguments about the meaning of a given concept
+    contribute to our understanding and evaluation of the systems, practices,
+    and actions to which the concept is applied.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Waldron
+      given: Jeremy
+  citation-key: Waldron2021
+  collection-title: Cambridge Companions to Law
+  container-title: The Cambridge Companion to the Rule of Law
+  DOI: 10.1017/9781108600569.007
+  editor:
+    - family: Meierhenrich
+      given: Jens
+    - family: Loughlin
+      given: Martin
+  event-place: Cambridge
+  ISBN: 978-1-316-51213-5
+  issued:
+    - year: 2021
+  page: 121-136
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  title: The Rule of Law as an Essentially Contested Concept
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/books/cambridge-companion-to-the-rule-of-law/rule-of-law-as-an-essentially-contested-concept/66DF80FFCD91CBE9B0044CA82F2AB207
+
 - id: wallaceAmericanLaborLaw1988
   archive: JSTOR
   author:
@@ -26616,6 +27701,24 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/gslr39&i=576
   volume: '39'
+
+- id: weber19191946
+  author:
+    - family: Weber
+      given: Max
+  citation-key: weber19191946
+  container-title: 'From Max Weber: Essays in Sociology'
+  issued:
+    - year: 1958
+  page: 77–128
+  publisher: Oxford University Press New York
+  title: Politics as a vocation
+  translator:
+    - family: Gerth
+      given: ''
+    - family: Mills
+      given: C. Wright
+  type: chapter
 
 - id: weidhornYeshivaFacultyUnion1998
   author:
