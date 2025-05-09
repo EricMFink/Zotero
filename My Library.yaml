@@ -2460,6 +2460,33 @@ references:
   type: legal_case
   volume: '416'
 
+- id: Ben-Menachem2025
+  abstract: >-
+    Allegations of criminality have always been deployed to justify state
+    violence but even ‘imperfect’ victims deserve basic rights
+  accessed:
+    - year: 2025
+      month: 4
+      day: 18
+  author:
+    - family: Ben-Menachem
+      given: Jonathan
+  citation-key: Ben-Menachem2025
+  container-title: The Guardian
+  ISSN: 0261-3077
+  issued:
+    - year: 2025
+      month: 4
+      day: 17
+  language: en-GB
+  section: Opinion
+  source: The Guardian
+  title: What is a ‘criminal’ immigrant? The word is an American rhetorical trap
+  title-short: What is a ‘criminal’ immigrant?
+  type: article-newspaper
+  URL: >-
+    https://www.theguardian.com/commentisfree/2025/apr/17/trump-criminal-immigrants-comment
+
 - id: Bendix1980
   abstract: "From the Preface: The world in which we live has its roots far back in history, and as a world power America must come to terms with countries which were formed in their present mold long before the American, revolution. All those to whom an exploration of this historical background will appeal probably share with me an immediate empathy with the anguish of nation-building around the world. This book is a study of what that anguish meant in times past when countries were first developing their political institutions and when they turned more recently from royal authority to a popular mandate. The problems of developing such institutions are formidable, then as well as now. A scholarly concern with these problems must touch on many subjects in social stratification, religion, political sociology, and the history of ideas, and the book treats these and related themes in their specific historical contexts.\_This interpretive work is addressed not only to students of political development but also to the general reader who is interested in a large view of history. That reader is provided with sufficient detail and annotation so that the many diverse contexts with which this study deals can be understood. A thematic outline of the book is presented on the first pages of the introduction, which deals as well with the reasons for my approach to historical sociology."
   author:
@@ -4858,6 +4885,63 @@ references:
   URL: >-
     https://cap-press.com/books/isbn/9781611638721/American-Labor-Struggles-and-Law-Histories-Second-Edition
 
+- id: CatoInstitute2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  author:
+    - family: Cato Institute
+      given: ''
+  citation-key: CatoInstitute2024
+  collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
+  issued:
+    - year: 2024
+  page: 1-3
+  publisher: Cato Institute
+  source: JSTOR
+  title: DOGE’s Important Mission
+  type: report
+  URL: https://www.jstor.org/stable/resrep65607.3
+
+- id: CatoInstitute2024a
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  author:
+    - family: Cato Institute
+      given: ''
+  citation-key: CatoInstitute2024a
+  collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
+  issued:
+    - year: 2024
+  page: 10-17
+  publisher: Cato Institute
+  source: JSTOR
+  title: Regulation
+  type: report
+  URL: https://www.jstor.org/stable/resrep65607.5
+
+- id: CatoInstitute2024b
+  accessed:
+    - year: 2025
+      month: 5
+      day: 2
+  author:
+    - family: Cato Institute
+      given: ''
+  citation-key: CatoInstitute2024b
+  collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
+  issued:
+    - year: 2024
+  page: 18-31
+  publisher: Cato Institute
+  source: JSTOR
+  title: Spending Cuts and Tax Reforms
+  type: report
+  URL: https://www.jstor.org/stable/resrep65607.6
+
 - id: CenterforConstitutionalRights2017
   author:
     - family: Center for Constitutional Rights
@@ -4871,7 +4955,7 @@ references:
   title-short: Ag-Gag Across America
   type: document
 
-- id: Chambers_nd
+- id: Chambers2023
   abstract: >-
     Recent decades have seen are surgence in the use of conspiracy theories by
     populist and autocratic political figures. This has sat alongside a renewed
@@ -4896,11 +4980,14 @@ references:
   author:
     - family: Chambers
       given: Peter
-  citation-key: Chambers_nd
+  citation-key: Chambers2023
   container-title: 'Distinktion: Journal of Social Theory'
   DOI: 10.1080/1600910X.2023.2252192
   ISSN: 1600-910X
-  issue: '0'
+  issued:
+    - year: 2023
+      month: 10
+      day: 15
   page: 1-27
   publisher: Routledge
   source: Taylor and Francis+NEJM
@@ -4910,7 +4997,6 @@ references:
   title-short: Fascist uses of conspiracy theories
   type: article-journal
   URL: https://doi.org/10.1080/1600910X.2023.2252192
-  volume: '0'
 
 - id: Chang2009
   abstract: >-
@@ -6774,22 +6860,6 @@ references:
   source: Amazon
   title: The Social Life of Money
   type: book
-
-- id: DOGEsImportantMission2024
-  accessed:
-    - year: 2025
-      month: 5
-      day: 2
-  citation-key: DOGEsImportantMission2024
-  collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
-  issued:
-    - year: 2024
-  page: 1-3
-  publisher: Cato Institute
-  source: JSTOR
-  title: DOGE’s Important Mission
-  type: report
-  URL: https://www.jstor.org/stable/resrep65607.3
 
 - id: Domhoff2017
   abstract: >-
@@ -13025,6 +13095,31 @@ references:
   URL: https://doi.org/10.1007/s10761-015-0308-3
   volume: '19'
 
+- id: Huyssen2019
+  abstract: >-
+    In a variation on what Adorno once said about nationalism, I would suggest
+    that today fascism is both obsolete and up-to-date. Rather than take this as
+    license to embrace facile analogies between interwar fascism and the
+    present, I want to examine some of the categories used to describe interwar
+    fas...
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Huyssen
+      given: Andreas
+  citation-key: Huyssen2019
+  container-title: n+1
+  issued:
+    - year: 2019
+      month: 7
+      day: 29
+  language: en-US
+  title: Behemoth Rises Again
+  type: post-weblog
+  URL: https://www.nplusonemag.com/online-only/online-only/behemoth-rises-again/
+
 - id: Huyssen2023
   abstract: >-
     George L. Mosse (1918–99) was one of the most influential cultural and
@@ -13159,6 +13254,24 @@ references:
   title: International Longshoremen's Ass'n. v. Davis
   type: legal_case
   volume: '476'
+
+- id: InterrogatingPresent2025
+  abstract: >-
+    Scholars and other experts on historical fascism, populism and right-wing
+    authoritarianism are increasingly commenting on contemporary political
+    developments in essays and opinion pieces. This section [...]
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: InterrogatingPresent2025
+  container-title: The New Fascism Syllabus
+  issued:
+    - year: 2025
+  language: en
+  title: Interrogating the Present
+  type: post-weblog
+  URL: https://newfascismsyllabus.com/syllabus/interrogating-the-present/
 
 - id: IowaAgFraud2012
   citation-key: IowaAgFraud2012
@@ -18549,6 +18662,44 @@ references:
   URL: http://www.jstor.org/stable/1512168
   volume: '36'
 
+- id: Meierhenrich2016
+  abstract: >-
+    The Oxford Handbook of Carl Schmitt collects thirty original chapters on the
+    diverse oeuvre of one of the most controversial thinkers of the twentieth
+    century. Carl Schmitt (1888-1985) was a German theorist whose
+    anti-liberalism continues to inspire scholars and practitioners on both the
+    Left and the Right. Despite Schmitt's rabid anti-semitism and partisan legal
+    practice in Nazi Germany, the appeal of his trenchant critiques of, among
+    other things, aestheticism, representative democracy, and international law
+    as well as of his theoretical justifications of dictatorship and rule by
+    exception is undiminished. Uniquely located at the intersection of law, the
+    social sciences, and the humanities, this volume brings together
+    sophisticated yet accessible interpretations of Schmitt's sprawling thought
+    and complicated biography. The contributors hail from diverse disciplines,
+    including art, law, literature, philosophy, political science, and history.
+    In addition to opening up exciting new avenues of research, The Oxford
+    Handbook of Carl Schmitt provides the intellectual foundations for an
+    improved understanding of the political, legal, and cultural thought of this
+    most infamous of German theorists. A substantial introduction places the
+    trinity of Schmitt's thought in a broad context.
+  author:
+    - family: Meierhenrich
+      given: Jens
+    - family: Simons
+      given: Oliver
+  citation-key: Meierhenrich2016
+  ISBN: 978-0-19-064650-9
+  issued:
+    - year: 2016
+      month: 12
+      day: 13
+  language: en
+  number-of-pages: '873'
+  publisher: Oxford University Press
+  source: Google Books
+  title: The Oxford Handbook of Carl Schmitt
+  type: book
+
 - id: Meierhenrich2021
   abstract: >-
     The Cambridge Companion to the Rule of Law introduces students, scholars,
@@ -20224,6 +20375,24 @@ references:
   title: 'Behemoth: The Structure and Practice of National Socialism, 1933-1944'
   title-short: Behemoth
   type: book
+
+- id: NewFascismSyllabus2025
+  abstract: >-
+    The New Fascism Syllabus is a crowd-sourced collection of scholarly writings
+    on the history of fascist, populist, and authoritarian movements and
+    governments.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: NewFascismSyllabus2025
+  container-title: The New Fascism Syllabus
+  issued:
+    - year: 2025
+  language: en
+  title: The New Fascism Syllabus
+  type: webpage
+  URL: http://newfascismsyllabus.com/
 
 - id: Newland2015
   abstract: >-
@@ -22626,22 +22795,6 @@ references:
   source: press.uchicago.edu
   title: BigLaw
   type: book
-
-- id: Regulation2024
-  accessed:
-    - year: 2025
-      month: 5
-      day: 2
-  citation-key: Regulation2024
-  collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
-  issued:
-    - year: 2024
-  page: 10-17
-  publisher: Cato Institute
-  source: JSTOR
-  title: Regulation
-  type: report
-  URL: https://www.jstor.org/stable/resrep65607.5
 
 - id: reidCombatingEnemyRegulating2018
   author:
@@ -25684,22 +25837,6 @@ references:
   type: thesis
   URL: http://repository.usfca.edu/capstone/4
 
-- id: SpendingCutsTax2024
-  accessed:
-    - year: 2025
-      month: 5
-      day: 2
-  citation-key: SpendingCutsTax2024
-  collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
-  issued:
-    - year: 2024
-  page: 18-31
-  publisher: Cato Institute
-  source: JSTOR
-  title: Spending Cuts and Tax Reforms
-  type: report
-  URL: https://www.jstor.org/stable/resrep65607.6
-
 - id: Spitzer2000
   abstract: >-
     Politics and Constitutionalism presents a collection of eight original
@@ -28690,30 +28827,6 @@ references:
   title: What Is Autoethnography? How Can I Learn More? - The AutoEthnographer
   type: webpage
   URL: https://theautoethnographer.com/what-is-autoethnography/
-
-- id: WhatCriminalImmigrant2025
-  abstract: >-
-    Allegations of criminality have always been deployed to justify state
-    violence but even ‘imperfect’ victims deserve basic rights
-  accessed:
-    - year: 2025
-      month: 4
-      day: 18
-  citation-key: WhatCriminalImmigrant2025
-  container-title: The Guardian
-  ISSN: 0261-3077
-  issued:
-    - year: 2025
-      month: 4
-      day: 17
-  language: en-GB
-  section: Opinion
-  source: The Guardian
-  title: What is a ‘criminal’ immigrant? The word is an American rhetorical trap
-  title-short: What is a ‘criminal’ immigrant?
-  type: article-newspaper
-  URL: >-
-    https://www.theguardian.com/commentisfree/2025/apr/17/trump-criminal-immigrants-comment
 
 - id: WhenLawyersAttack2024
   abstract: >-
