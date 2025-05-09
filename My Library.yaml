@@ -610,9 +610,9 @@ references:
   publisher: SAGE Publications Ltd
   source: SAGE Journals
   title: >-
-    Democracy, populism, and the rule of law: A reconsideration of their
-    interconnectedness
-  title-short: Democracy, populism, and the rule of law
+    Democracy, Populism, and the Rule of Law: A Reconsideration of Their
+    Interconnectedness
+  title-short: Democracy, Populism, and the Rule of Law
   type: article-journal
   URL: https://doi.org/10.1177/02633957211041444
   volume: '44'
@@ -1400,6 +1400,56 @@ references:
   title-short: The Economists' Hour
   type: book
 
+- id: ArchaeologicalResourcesProtection1981
+  citation-key: ArchaeologicalResourcesProtection1981
+  container-title: N.C. Gen. Stat.
+  issued:
+    - year: 1981
+  section: § 70‑10 et sec.
+  title: Archaeological Resources Protection Act
+  type: legislation
+
+- id: ArcheologicalResourcesProtection1979
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: ArcheologicalResourcesProtection1979
+  container-title: U.S.C.
+  issued:
+    - year: 1979
+      month: 10
+      day: 31
+  language: en
+  number: Pub. L. 96–95, § 2
+  section: § 470aa et seq.
+  title: Archeological Resources Protection Act
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/16/chapter-1B
+  volume: '16'
+
+- id: ArcheologyArcheologyUS_nd
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: ArcheologyArcheologyUS_nd
+  language: en
+  title: About Archeology - Archeology (U.S. National Park Service)
+  type: webpage
+  URL: https://www.nps.gov/subjects/archeology/about-archeology.htm
+
+- id: ArcheologyProgramUS_nd
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: ArcheologyProgramUS_nd
+  language: en
+  title: Archeology Program (U.S. National Park Service)
+  type: webpage
+  URL: https://www.nps.gov/orgs/1038/index.htm
+
 - id: Ardant1975
   abstract: >-
     Studies of political development have traditionally focused on emerging
@@ -1488,6 +1538,24 @@ references:
   number: Case No. 4:19-cv-00773-KGB
   title: Arkansas Labeling, Inc. v. Tim Proctor, Label Edge, Llc
   type: legal_case
+
+- id: ArmourHeritage_nd
+  abstract: >-
+    The publication of PPG16 (Planning Policy Guidance Note 16, on 'Archaeology
+    and Planning') in November 1990 allowed, for the first time, the integration
+    of archaeology into the planning process, with the responsibility for the
+    funding of any archaeological works falling to the developer.  &nbsp;
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: ArmourHeritage_nd
+  container-title: Armour Heritage
+  language: en-GB
+  title: Armour Heritage
+  type: webpage
+  URL: >-
+    https://www.armourheritage.co.uk/blog/2016/3/2/25-years-of-developer-funded-archaeology
 
 - id: Arnold1992
   abstract: >-
@@ -4079,7 +4147,7 @@ references:
   page: 480-500
   publisher: Routledge
   source: Taylor and Francis+NEJM
-  title: 'The rule of law: beyond contestedness'
+  title: 'The Rule of Law: Beyond Contestedness'
   title-short: The rule of law
   type: article-journal
   URL: https://doi.org/10.1080/20403313.2017.1341203
@@ -6561,6 +6629,19 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.21
 
+- id: DirectorsOrder28A_nd
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: DirectorsOrder28A_nd
+  language: en
+  title: >-
+    Director's Order #28A and Archeology Guide - Archeology Program (U.S.
+    National Park Service)
+  type: webpage
+  URL: https://www.nps.gov/orgs/1038/do28a-and-archeology-guide.htm
+
 - id: DiscriminationEngagementCertain_nd
   accessed:
     - year: 2024
@@ -7524,6 +7605,20 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.40
 
+- id: EnvironmentalReviewNC_nd
+  abstract: >-
+    OSA reviews projects that utilize state or federal funding or permits to
+    ensure that archaeological resources in the area are protected.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: EnvironmentalReviewNC_nd
+  language: en
+  title: Environmental Review | NC Archaeology
+  type: webpage
+  URL: https://archaeology.ncdcr.gov/programs/environmentalreview
+
 - id: epsteinCommonLawLabor1983
   author:
     - family: Epstein
@@ -7750,6 +7845,39 @@ references:
   title: A History of Anthropological Thought
   type: book
 
+- id: Everill2009
+  abstract: >-
+    Since the increasing reliance on developers to fund archaeological work
+    through the 1980s, and the implementation of Planning Policy Guidance Note
+    16 (PPG16) in 1990, British 'commercial' archaeologists have become
+    increasingly distanced from their academic colleagues. This monograph
+    examines the situation within contemporary 'commercial' archaeology and
+    considers the challenges faced by those employed within that sector,
+    including the impact of commercial working practices on pay and conditions
+    of employment and the process of excavation and knowledge production. This
+    monograph provides a fascinating insight into the working environment of
+    commercial archaeologists and demonstrates how camaraderie and love of their
+    job is often just enough to outweigh the adversity they face in the form of
+    low wages, poor employment conditions and career prospects.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Everill
+      given: Paul
+  citation-key: Everill2009
+  ISBN: 978-1-905933-10-5
+  issued:
+    - year: 2009
+  publisher: Oxbow Books
+  source: JSTOR
+  title: 'The Invisible Diggers: A Study of British Commercial Archaeology'
+  title-short: The Invisible Diggers
+  type: book
+  URL: https://www.jstor.org/stable/j.ctt1cfr7rf
+  volume: '1'
+
 - id: Ewick1998
   abstract: >-
     Why do some people not hesitate to call the police to quiet a barking dog in
@@ -7890,6 +8018,17 @@ references:
   title: Farmer v. United Brotherhood of Carpenters & Joiners, Local 25
   type: legal_case
   volume: '430'
+
+- id: FederalArcheologyProgram_nd
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: FederalArcheologyProgram_nd
+  language: en
+  title: Federal Archeology Program (U.S. National Park Service)
+  type: webpage
+  URL: https://www.nps.gov/orgs/1187/index.htm
 
 - id: FederalSecurityInc2012
   authority: N.L.R.B.
@@ -12623,6 +12762,19 @@ references:
   type: article-journal
   volume: '47'
 
+- id: HistoryBackgroundFederal_nd
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: HistoryBackgroundFederal_nd
+  language: en
+  title: >-
+    History and Background - Federal Archeology Program (U.S. National Park
+    Service)
+  type: webpage
+  URL: https://www.nps.gov/orgs/1187/history-and-background.htm
+
 - id: hlr_ALDFvReynoldsCaseNote2022
   abstract: >-
     In United States v. Alvarez, a fractured Court invalidated the Stolen Valor
@@ -12831,6 +12983,47 @@ references:
   URL: >-
     https://read.dukeupress.edu/labor/article/15/4/13/137120/SidelinedThe-Chicago-Women-s-Trade-Union-League-in
   volume: '15'
+
+- id: Hutchings2015
+  abstract: >-
+    Archaeology is a form of disaster capitalism, characterized by specialist
+    managers whose function is the clearance of Indigenous heritage from the
+    landscape, making way for economic development. When presented with this
+    critique, archaeologists respond strongly and emotionally, defending
+    archaeology. Anger emanates from and revolves around the assertion that
+    archaeologists are not just complicit in but integral to the destruction of
+    the very heritage they claim to protect. In what we believe is an act of
+    philosophical and economic self-preservation, mainstream archaeologists
+    actively forget the relationship between archaeology, violence, and the
+    global heritage crisis. Securely defended by its practitioners, archaeology
+    therefore remains an imperial force grounded in the ideology of growth,
+    development, and progress.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Hutchings
+      given: Rich
+    - family: La Salle
+      given: Marina
+  citation-key: Hutchings2015
+  container-title: International Journal of Historical Archaeology
+  container-title-short: Int J Histor Archaeol
+  DOI: 10.1007/s10761-015-0308-3
+  ISSN: 1573-7748
+  issue: '4'
+  issued:
+    - year: 2015
+      month: 12
+      day: 1
+  language: en
+  page: 699-720
+  source: Springer Link
+  title: Archaeology as Disaster Capitalism
+  type: article-journal
+  URL: https://doi.org/10.1007/s10761-015-0308-3
+  volume: '19'
 
 - id: Huyssen2023
   abstract: >-
@@ -14012,21 +14205,6 @@ references:
   title: Kansas ag-gag
   type: legislation
 
-- id: Kantorowicz_nd
-  accessed:
-    - year: 2025
-      month: 5
-      day: 8
-  author:
-    - family: Kantorowicz
-      given: Jarosław
-    - family: González-Bustamante
-      given: Bastián
-  citation-key: Kantorowicz_nd
-  title: Unravelling the Rule of Law
-  type: webpage
-  URL: https://rol-project.shinyapps.io/unravelling-rule-of-law/
-
 - id: Kantorowicz2024
   abstract: >-
     Significant scholarly effort has been dedicated to defining the rule of law.
@@ -14064,6 +14242,24 @@ references:
   title: Changing Meaning of the Rule of Law
   type: article
   URL: https://osf.io/2kzpj_v1
+
+- id: Kantorowicz2024a
+  accessed:
+    - year: 2025
+      month: 5
+      day: 8
+  author:
+    - family: Kantorowicz
+      given: Jarosław
+    - family: González-Bustamante
+      given: Bastián
+  citation-key: Kantorowicz2024a
+  container-title: Unravelling the Rule of Law
+  issued:
+    - year: 2024
+  title: Unravelling the Rule of Law
+  type: webpage
+  URL: https://rol-project.shinyapps.io/unravelling-rule-of-law/
 
 - id: Karlip2013
   author:
@@ -14794,6 +14990,34 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:25%20Cal.App.3d%20199#autoLogin
   volume: '25'
 
+- id: King2014
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: King
+      given: Thomas F.
+  citation-key: King2014
+  container-title: Encyclopedia of Global Archaeology
+  DOI: 10.1007/978-1-4419-0465-2_1700
+  editor:
+    - family: Smith
+      given: Claire
+  event-place: New York, NY
+  ISBN: 978-1-4419-0465-2
+  issued:
+    - year: 2014
+  language: en
+  page: 2495-2498
+  publisher: Springer
+  publisher-place: New York, NY
+  source: Springer Link
+  title: 'Ethics of Commercial Archaeology: USA'
+  title-short: Ethics of Commercial Archaeology
+  type: chapter
+  URL: https://doi.org/10.1007/978-1-4419-0465-2_1700
+
 - id: Kirkland2004
   accessed:
     - year: 2024
@@ -15182,6 +15406,49 @@ references:
   title-short: When the Lawyer Screws Up
   type: article
   URL: https://papers.ssrn.com/abstract=2627735
+
+- id: Krygier2016
+  abstract: >-
+    The recent rise of the rule of law, from controversial legal ideal to
+    unopposed international cliché/slogan, has rendered increasingly murky what
+    the concept might mean, what the phenomenon might be, and what it might be
+    worth. This article argues, nevertheless, that the concept engages with
+    fundamental and enduring issues of politics and law, particularly the
+    dangers of arbitrary power, and the value of its institutionalized
+    tempering. The article seeks to support the rule of law ideal, if not all
+    the ways it is invoked, by recovering some past thinking about and
+    experience with and without the rule of law understood this way. The review
+    criticizes current discussions for their temporal parochialism and their
+    inadequate treatment of ideals and of contexts. It concludes with two pleas:
+    a call for a social science that does not exist, and a suggestion that, in
+    order to pursue its own ideals, the time might have come to move beyond the
+    rule of law.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Krygier
+      given: Martin
+  citation-key: Krygier2016
+  container-title: Annual Review of Law and Social Science
+  DOI: 10.1146/annurev-lawsocsci-102612-134103
+  ISSN: 1550-3585, 1550-3631
+  issue: Volume 12, 2016
+  issued:
+    - year: 2016
+      month: 10
+      day: 27
+  language: en
+  page: 199-229
+  publisher: Annual Reviews
+  source: www-annualreviews-org.elon.idm.oclc.org
+  title: 'The Rule of Law: Pasts, Presents, and Two Possible Futures'
+  title-short: The Rule of Law
+  type: article-journal
+  URL: >-
+    https://www.annualreviews.org/content/journals/10.1146/annurev-lawsocsci-102612-134103
+  volume: '12'
 
 - id: kurtzWyomingFederalCourt2016
   accessed:
@@ -15649,6 +15916,17 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/geojlege34&i=70
   volume: '34'
 
+- id: LawsRegulationsGuidelines_nd
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: LawsRegulationsGuidelines_nd
+  language: en
+  title: Laws, Regulations, & Guidelines - Archeology (U.S. National Park Service)
+  type: webpage
+  URL: https://www.nps.gov/subjects/archeology/laws-regulations-guidelines.htm
+
 - id: LawyerSufferingPandemic_nd
   accessed:
     - year: 2024
@@ -15697,6 +15975,20 @@ references:
   title-short: Alternative Readings
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.39
+
+- id: LearnLawArchaeological_nd
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: LearnLawArchaeological_nd
+  language: en
+  title: >-
+    Learn the Law: The Archaeological Resources Protection Act - Teachers (U.S.
+    National Park Service)
+  title-short: Learn the Law
+  type: webpage
+  URL: https://www.nps.gov/teachers/classrooms/learn-law-arpa.htm
 
 - id: lehoucqConceptualizingLegalMobilization2019
   author:
@@ -20412,6 +20704,16 @@ references:
   title: Contradictions of the Welfare State
   type: book
 
+- id: OfficeStateArchaeology_nd
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: OfficeStateArchaeology_nd
+  title: Office of State Archaeology | NC Archaeology
+  type: webpage
+  URL: https://archaeology.ncdcr.gov/
+
 - id: Ohnesorge2007
   abstract: >-
     Rule of Law rhetoric is increasingly common, both in U.S. legal literature
@@ -20789,6 +21091,55 @@ references:
   type: legal_case
   volume: '371'
 
+- id: PargaDans2021
+  abstract: >-
+    This paper explores the underlying factors behind the collapse of commercial
+    archaeology in Spain, with implications for other international contexts. It
+    contributes to the current global debate about heritage ethics, adding
+    nuance and conceptual depth to critical management studies and cultural
+    heritage management in their approach to business ethics. Similar to other
+    European contexts, Spanish archaeological management thrived during the
+    1990s and 2000s as a business model based on policies directed at
+    safeguarding cultural heritage. The model had controversial ethical
+    implications at academic, policy and business levels. However, the global
+    financial crisis of 2008 had a huge impact on this sector, and more than 70%
+    of the Spanish archaeological companies closed by 2017. Drawing on the
+    concepts of abstract narratives, functional stupidity and corporatist
+    neoliberalism, this paper illustrates the need to examine ethical issues
+    from a pragmatic standpoint, beyond epistemological and moralistic critiques
+    of profit-oriented businesses in the cultural realm. In doing so, it
+    connects the fields of cultural heritage and management studies, opening up
+    hitherto unexplored strands of research and debate.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Parga Dans
+      given: Eva
+    - family: Alonso González
+      given: Pablo
+  citation-key: PargaDans2021
+  container-title: Journal of Business Ethics
+  container-title-short: J Bus Ethics
+  DOI: 10.1007/s10551-020-04504-6
+  ISSN: 1573-0697
+  issue: '3'
+  issued:
+    - year: 2021
+      month: 9
+      day: 1
+  language: en
+  page: 447-461
+  source: Springer Link
+  title: >-
+    The Unethical Enterprise of the Past: Lessons from the Collapse of
+    Archaeological Heritage Management in Spain
+  title-short: The Unethical Enterprise of the Past
+  type: article-journal
+  URL: https://doi.org/10.1007/s10551-020-04504-6
+  volume: '172'
+
 - id: Park2023a
   accessed:
     - year: 2024
@@ -21082,7 +21433,7 @@ references:
       month: 11
       day: 10
   language: en-US
-  title: The compounding rule of law crisis
+  title: The Compounding Rule of Law Crisis
   type: post-weblog
   URL: https://www.brookings.edu/articles/the-compounding-rule-of-law-crisis/
 
@@ -21848,6 +22199,26 @@ references:
   type: article-journal
   volume: '19'
 
+- id: PreservationHistoricalArcheological2014
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: PreservationHistoricalArcheological2014
+  container-title: U.S.C.
+  issued:
+    - year: 2014
+      month: 12
+      day: 19
+  language: en
+  number: Pub. L. 113–287, § 3
+  section: § 312501 et seq.
+  title: Preservation of Historical and Archeological Data Act
+  type: legislation
+  URL: >-
+    https://www.law.cornell.edu/uscode/text/54/subtitle-III/division-B/subdivision-3/chapter-3125
+  volume: '54'
+
 - id: ProfessionalResponsibilityPandemic_nd
   accessed:
     - year: 2024
@@ -21858,6 +22229,33 @@ references:
   type: webpage
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/ethics-articles/professional-responsibility-in-a-pandemic/
+
+- id: Przeworski2024
+  abstract: >-
+    What is "democratic" depends on the values one attaches to democracy. The
+    distinction that determines the answer is between minimalist and maximalist
+    conceptions of democracy. Defending democracy requires a positive,
+    forward-looking program of reform.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Przeworski
+      given: Adam
+  citation-key: Przeworski2024
+  container-title: Journal of Democracy
+  ISSN: 1086-3214
+  issue: '3'
+  issued:
+    - year: 2024
+  page: 5-16
+  publisher: Johns Hopkins University Press
+  source: Project MUSE
+  title: Who Decides What Is Democratic?
+  type: article-journal
+  URL: https://muse.jhu.edu/pub/1/article/930423
+  volume: '35'
 
 - id: PulaskiCountyMedicalExchange2022
   authority: E.D. Ark.
@@ -22287,6 +22685,28 @@ references:
     https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=0109028881&pubNum=0101481&originatingDoc=Ie9bf141a720911ee8921fbef1a541940&refType=LR&originationContext=document&transitionType=DocumentItem&ppcid=4128566f517446e6813114cd5376d5d9&contextData=(sc.Keycite)
   volume: '9'
 
+- id: Renton2025
+  abstract: >-
+    DK Renton looks to historic fascism to analyze the direction of Trump's
+    authoritarianism and for examples of a counterpolitics to fight it.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Renton
+      given: D.K.
+  citation-key: Renton2025
+  container-title: Spectre
+  issued:
+    - year: 2025
+      month: 4
+      day: 1
+  language: en-US
+  title: Trump, Fascism, and the Authoritarian Turn
+  type: post-weblog
+  URL: https://spectrejournal.com/trump-fascism-and-the-authoritarian-turn/
+
 - id: Research1998
   author:
     - family: Research
@@ -22351,6 +22771,30 @@ references:
   title-short: Retail Property Trust
   type: legal_case
   volume: '768'
+
+- id: Review2020
+  abstract: >-
+    Federal regulation of domestic and international archaeology comes from a
+    variety of agencies.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Review
+      given: The Regulatory
+    - family: Nakahara
+      given: Mark
+  citation-key: Review2020
+  issued:
+    - year: 2020
+      month: 2
+      day: 12
+  language: en-US
+  title: The Regulation of American Archaeology | The Regulatory Review
+  type: webpage
+  URL: >-
+    https://www.theregreview.org/2020/02/12/nakahara-regulation-american-archaeology/
 
 - id: rhoadesAcademicCapitalismSecondary2015
   abstract: >-
@@ -22844,6 +23288,24 @@ references:
   title-short: The Triumph of Injustice
   type: book
 
+- id: Salle_nd
+  abstract: Five Thoughts on Commercial Archaeology
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Salle
+      given: Marina La
+    - family: Hutchings
+      given: Richard M.
+  citation-key: Salle_nd
+  container-title: ICHT Bulletin 2013-1
+  source: www.academia.edu
+  title: Five Thoughts on Commercial Archaeology
+  type: article-journal
+  URL: https://www.academia.edu/3688649/Five_Thoughts_on_Commercial_Archaeology
+
 - id: Salter1999
   accessed:
     - year: 2025
@@ -22869,6 +23331,17 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/respub5&i=161
   volume: '5'
+
+- id: SalvageArchaeologyCullowhee_nd
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: SalvageArchaeologyCullowhee_nd
+  title: Salvage Archaeology at the Cullowhee Valley School | NC Archaeology
+  type: webpage
+  URL: >-
+    https://archaeology.ncdcr.gov/get-involved/archaeological-sites-sample/cullowhee-valley-school
 
 - id: salvatoreEugeneDebsCitizen2007
   abstract: >-
@@ -23090,6 +23563,23 @@ references:
   title: 'Unions in Court: Organized Labour and the Charter of Rights and Freedoms'
   title-short: Unions in Court
   type: book
+
+- id: SavingArtifactsRescue_nd
+  abstract: >-
+    What is rescue archaeology? Learn why this important field helps protect
+    artifacts and why new technology can help improve the process.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  citation-key: SavingArtifactsRescue_nd
+  container-title: Discover Magazine
+  language: en
+  title: 'Saving Artifacts: Rescue Archaeology Prevents History From Being Erased'
+  title-short: Saving Artifacts
+  type: webpage
+  URL: >-
+    https://www.discovermagazine.com/the-sciences/saving-artifacts-rescue-archaeology-prevents-history-from-being-erased
 
 - id: Schemenauer2007
   accessed:
@@ -23322,6 +23812,40 @@ references:
     - family: Scheuerman
       given: William E.
   citation-key: Scheuerman1997b
+  ISBN: 978-0-262-69196-3
+  issued:
+    - year: 1997
+      month: 1
+      day: 22
+  language: en
+  number-of-pages: '348'
+  publisher: MIT Press
+  source: Google Books
+  title: 'Between the Norm and the Exception: The Frankfurt School and the Rule of Law'
+  title-short: Between the Norm and the Exception
+  type: book
+
+- id: Scheuerman1997c
+  abstract: >-
+    Winner, 1996 Elaine and David Spitz Book Prize for the best book onliberal
+    and democratic theory, Conference for the Study of Political Thought.
+    Winner, 1994 First Book Prize, Foundations of Political Thought Organized
+    Section, American Political Science Association.Between the Norm and the
+    Exception contributes historical insight to the ongoing debate over the
+    future of the rule of law in welfare-state capitalist democracies. The core
+    issue is whether or not society can offer its citizens welfare-state
+    guarantees and still preserve the liberal vision of a norm-based legal
+    system. Franz Neumann and Otto Kirchheimer, in an age dominated by Hitler
+    and Stalin, sought to establish a sound theoretical basis for the "rule of
+    law" ideal. As an outcome of their sophisticated understanding of the
+    liberal political tradition, their writings suggest a theoretical missed
+    opportunity, an alternative critical theory that might usefully be applied
+    in understanding (and perhaps countering) the contemporary trend toward the
+    deformalization of law.
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman1997c
   ISBN: 978-0-262-69196-3
   issued:
     - year: 1997
@@ -23628,6 +24152,39 @@ references:
   title-short: The Rule of Law Under Siege
   type: book
 
+- id: Scheuerman2023a
+  abstract: >-
+    In the pathbreaking essays collected here, Neumann and Kirchheimer
+    demonstrate that the death of democracy and the rise of fascism during the
+    first half of the twentieth century suggest crucial lessons for contemporary
+    political and legal scholars. The volume includes writings on
+    constitutionalism, political freedom, Nazism, sovereignty, and both Nazi and
+    liberal law. Most important, the Frankfurt authors point to the continuing
+    efficacy of the rule of law as an instrument for regulating and restraining
+    state authority, as well as ominous evidence of the rule of law's fragility
+    in modern liberal democracy.In the pathbreaking essays collected here,
+    Neumann and Kirchheimer demonstrate that the death of democracy and the rise
+    of fascism during the first half of the twentieth century suggest crucial
+    lessons for contemporary political and legal scholars. The vo
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2023a
+  ISBN: 978-0-520-91734-7
+  issued:
+    - year: 2023
+      month: 12
+      day: 22
+  language: en
+  number-of-pages: '484'
+  publisher: Univ of California Press
+  source: Google Books
+  title: >-
+    The Rule of Law Under Siege: Selected Essays of Franz L. Neumann and Otto
+    Kirchheimer
+  title-short: The Rule of Law Under Siege
+  type: book
+
 - id: Schill1995
   author:
     - family: Schill
@@ -23695,6 +24252,82 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/42893182
   volume: '41'
+
+- id: Schotel2021
+  abstract: >-
+    Scholars have recently shown how in Europe regimes in democratic decay (e.g.
+    Poland, Hungary) take all sorts of measures targeting and marginalizing
+    political opponents. Although they are authoritarian by nature, the measures
+    are cast in a legal form. According to some scholars this kind of
+    authoritarian rule of law can be best understood as a dual state, namely a
+    combination of the normative state (the rule of law) and the prerogative
+    state (the pure—political or arbitrary—will of those in power). Building on
+    these insights, the present paper makes two new observations. First,
+    administrative law is distinctively well suited to cater for the creation of
+    a dual state. By distinctively I mean better than civil and criminal law. In
+    fact, I argue that administrative law constitutes a dual state in and of
+    itself combining normative and prerogative state elements within a single
+    area of law, in ways that cannot be done under civil and criminal law.
+    Second, not only regimes in democratic decay but also liberal democracies
+    make use of the dual state nature of administrative law. The paper
+    illustrates this point with two techniques whereby liberal democracies use
+    administrative law to circumvent or pervert the normal operation of criminal
+    law, namely crimmigration and the alien detention of citizens. My underlying
+    normative point is to draw attention to the inherent authoritarian potential
+    of administrative law.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Schotel
+      given: Bas
+  citation-key: Schotel2021
+  container-title: Hague Journal on the Rule of Law
+  container-title-short: Hague J Rule Law
+  DOI: 10.1007/s40803-021-00156-4
+  ISSN: 1876-4053
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 4
+      day: 1
+  language: en
+  page: 195-222
+  source: Springer Link
+  title: >-
+    Administrative Law as a Dual State. Authoritarian Elements of Administrative
+    Law
+  type: article-journal
+  URL: https://doi.org/10.1007/s40803-021-00156-4
+  volume: '13'
+
+- id: Schottdorf2018
+  abstract: "The renewed scientific discussion about the state of emergency has led to many theoretical endeavours, which attempted to find appropriate descriptions of the exceptional phenomenon. However, because of this enormous diversity, their object-related connection threatens to become blurred. An essential reason for this lies in the interdisciplinary entanglement of the discourse. The aim of this article, therefore, is to formulate a\_meta-theoretical regulatory proposal to compare these competing legal-philosophical and political-theoretical explanatory approaches and to prove its suitability on the basis of the dispute between Otto Kirchheimer and Carl Schmitt in the last days of the Weimar Republic. The two authors act as representatives of two mutually exclusive theoretical perspectives, leading to significant differences in the descriptive and evaluative assessments of the state of emergency."
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Schottdorf
+      given: Tobias
+  citation-key: Schottdorf2018
+  container-title: Zeitschrift für Politikwissenschaft
+  container-title-short: Z Politikwiss
+  DOI: 10.1007/s41358-018-0160-1
+  ISSN: 2366-2638
+  issue: '4'
+  issued:
+    - year: 2018
+      month: 12
+      day: 1
+  language: en
+  page: 423-437
+  source: Springer Link
+  title: Law, democracy, and the state of emergency
+  type: article-journal
+  URL: https://doi.org/10.1007/s41358-018-0160-1
+  volume: '28'
 
 - id: Schumpeter2008
   abstract: >-
@@ -25961,10 +26594,25 @@ references:
   type: book
 
 - id: Suntrup2020
+  abstract: >-
+    Ernst Fraenkel’s seminal study about Nazi law, in which he described the
+    co-existence of a ‘normative state’ and a ‘prerogative state’ as principles
+    of government, is to be rediscovered in the new age of the prerogative.
+    Through a critical reading of The Dual State and other important texts by
+    Fraenkel, this article seeks to contribute to the contemporary debate on
+    regime types and governmental power in (at least) three regards: first, by
+    clarifying Fraenkel’s concept of and perspective on law; second, by
+    discussing the methodological demands for the beneficial application of the
+    dual state concept; and, third, by showing the usefulness of such an
+    application, even beyond the field of authoritarian states in the narrower
+    sense. Law-eroding prerogative developments cannot only be witnessed in
+    hybrid regimes, but also in democratic states, which resort to reflections
+    and practices of an ‘enemy criminal law’, and in the European Union’s recent
+    crisis politics.
   accessed:
     - year: 2025
-      month: 1
-      day: 24
+      month: 5
+      day: 9
   author:
     - family: Suntrup
       given: Jan Christoph
@@ -25979,12 +26627,12 @@ references:
       day: 2
   page: 335-359
   publisher: Routledge
-  source: tandfonline.com (Atypon)
+  source: Taylor and Francis+NEJM
   title: >-
     Between prerogative power and legality – reading Ernst Fraenkel’s The Dual
     State as an analytical tool for present authoritarian rule
   type: article-journal
-  URL: https://www.tandfonline.com/doi/full/10.1080/20403313.2020.1734337
+  URL: https://doi.org/10.1080/20403313.2020.1734337
   volume: '11'
 
 - id: Suny2023
@@ -26137,6 +26785,58 @@ references:
   type: post-weblog
   URL: >-
     https://abovethelaw.com/2021/02/inequalities-in-lawyer-discipline-demand-action/
+
+- id: Szente2025
+  abstract: >-
+    According to conventional wisdom, we are living in an era of constant
+    emergencies. The subsequent crises cannot always be handled effectively
+    within the normal legal system, so many countries have introduced some type
+    of emergency, i.e., a special legal regime, to deal with them. However,
+    exceptional power per se poses a threat to democracy, as those in government
+    can use it for their own political gains, curb civil liberties, and subvert
+    the rule of law. The article takes the principled position that emergency
+    situations can be legally regulated, and argues that certain standards of
+    the rule of law should not be waived even in a special legal order. The
+    article discusses how to assess whether the exceptional power is being
+    abused, i.e. whether it is illegitimately limiting the rule of law. For this
+    purpose, it proposes an assessment framework whose criteria can be used in
+    any constitutional democracy to check the legality of the extraordinary
+    power exercised in a state of emergency. The study examines also the
+    possible counter-arguments that could question the success of such an
+    undertaking, and provides answers to these challenges. After that, it
+    explains in detail the rule of law standards for the exercise of exceptional
+    power, the separation of different emergency powers, the requirements of
+    legality, temporariness, purpose-limitation, necessity and proportionality,
+    and controllability, as well as those areas that are untouchable even for
+    the extended power. The justification of these criteria also receives
+    special attention in the study.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Szente
+      given: Zoltán
+  citation-key: Szente2025
+  container-title: Hague Journal on the Rule of Law
+  container-title-short: Hague J Rule Law
+  DOI: 10.1007/s40803-024-00244-1
+  ISSN: 1876-4053
+  issue: '1'
+  issued:
+    - year: 2025
+      month: 4
+      day: 1
+  language: en
+  page: 117-138
+  source: Springer Link
+  title: >-
+    How to Assess Rule-of-Law Violations in a State of Emergency? Towards a
+    General Analytical Framework
+  title-short: How to Assess Rule-of-Law Violations in a State of Emergency?
+  type: article-journal
+  URL: https://doi.org/10.1007/s40803-024-00244-1
+  volume: '17'
 
 - id: Szymanski1978
   author:
@@ -27418,6 +28118,39 @@ references:
   URL: >-
     https://www.vice.com/en/article/7xap54/north-carolinas-ag-gag-law-might-be-the-worst-in-the-nation
 
+- id: Wacks2021
+  abstract: >-
+    Does the rise of populism, authoritarianism, and nationalism threaten the
+    welfare of the rule of law? Is this fundamental democratic ideal under
+    siege? In this timely and important book, Raymond Wacks examines the
+    philosophical roots of the rule of law and its modern, often contentious,
+    interpretation. He then investigates 16 potential ideological, economic,
+    legal, and institutional dangers to the rule of law. They range from the
+    exercise of judicial and administrative discretion and parliamentary
+    sovereignty, to the growth of globalisation, the &#39;war on terror&#39;,
+    and the disquieting power of Big Tech. He also considers the enactment and
+    enforcement in several countries of Draconian measures to curtail the spread
+    of COVID-19, which has generated fears that these emergency powers may
+    outlive the pandemic and become a permanent feature of the legal landscape,
+    thereby impairing the rule of law. Wacks identifies which issues among this
+    extensive array pose genuine risks to the rule of law, and suggests how they
+    might be confronted to ensure its defence and preservation.
+  author:
+    - family: Wacks
+      given: Raymond
+  citation-key: Wacks2021
+  ISBN: 978-1-5099-5059-1
+  issued:
+    - year: 2021
+      month: 10
+      day: 21
+  language: en
+  number-of-pages: '279'
+  publisher: Bloomsbury Publishing
+  source: Google Books
+  title: The Rule of Law Under Fire?
+  type: book
+
 - id: Wagner2004
   abstract: >-
     This paper describes the informal system of property rights that
@@ -27496,6 +28229,7 @@ references:
     - family: Waldron
       given: Jeremy
   citation-key: Waldron2016
+  container-title: Stanford Encyclopedia of Philosopy
   issued:
     - year: 2016
       month: 6
@@ -27503,8 +28237,8 @@ references:
   note: 'Last Modified: 2016-06-22'
   source: plato.stanford.edu
   title: The Rule of Law
-  type: article-journal
-  URL: https://plato.stanford.edu/archives/fall2023/entries/rule-of-law/
+  type: entry-encyclopedia
+  URL: https://plato.stanford.edu/entries/rule-of-law/
 
 - id: Waldron2021
   abstract: >-
@@ -27702,20 +28436,69 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/gslr39&i=576
   volume: '39'
 
-- id: weber19191946
+- id: Webber2024
+  abstract: >-
+    The dominant way of thinking about the rule of law is that it is a
+    constraint, a limit, on government. On this view the limitation applies with
+    full force to all forms of government, democratic and undemocratic, and to
+    both the executive and the legislative branches. The privileged institution
+    for enforcing those limits is the courts. Democracy and the rule of law are,
+    in effect, portrayed as though they were in opposition to one another. That,
+    I claim, is a mistake (a) historically (for, in the Anglo-American
+    tradition, the rule of law developed first as a restriction on an
+    undemocratic executive, with a less undemocratic Parliament acting in
+    concert with the courts to institute the rule of law); (b) in principle (for
+    there is a strong argument that democracy needs the rule of law for its
+    fullest expression, and the rule of law needs democracy); and (c)
+    strategically (because it hinders us from mobilizing our full resources to
+    protect both principles; this paper began its life as a response to populist
+    movements, many of which, wrongly, are conceded to be democratic). In this
+    paper I make that case, especially focusing upon its most controversial
+    claim, namely that the rule of law needs democracy. This paper forms part of
+    a larger project on democratic constitutionalism in which I reconsider key
+    concepts in constitutionalism in a manner that takes democratic
+    decision-making to be fundamental to contemporary constitutionalism.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Webber
+      given: Jeremy
+  citation-key: Webber2024
+  container-title: Hague Journal on the Rule of Law
+  container-title-short: Hague J Rule Law
+  DOI: 10.1007/s40803-024-00240-5
+  ISSN: 1876-4053
+  issue: '2'
+  issued:
+    - year: 2024
+      month: 8
+      day: 1
+  language: en
+  page: 339-374
+  source: Springer Link
+  title: A Democracy-Friendly Theory of the Rule of Law
+  type: article-journal
+  URL: https://doi.org/10.1007/s40803-024-00240-5
+  volume: '16'
+
+- id: Weber2009
   author:
     - family: Weber
       given: Max
-  citation-key: weber19191946
+  citation-key: Weber2009
   container-title: 'From Max Weber: Essays in Sociology'
+  event-place: New York
   issued:
-    - year: 1958
+    - year: 2009
   page: 77–128
   publisher: Oxford University Press New York
-  title: Politics as a vocation
+  publisher-place: New York
+  title: Politics as a Vocation
   translator:
     - family: Gerth
-      given: ''
+      given: Hans H.
     - family: Mills
       given: C. Wright
   type: chapter
@@ -28529,6 +29312,22 @@ references:
   title: The Great Inequality
   type: book
 
+- id: Yates2017
+  author:
+    - family: Yates
+      given: Sally
+  citation-key: Yates2017
+  collection-title: Schwartz Lectures
+  issued:
+    - year: 2017
+      month: 1
+      day: 1
+  source: COinS
+  title: The Rule of Law Under Siege
+  type: song
+  URL: https://chicagounbound.uchicago.edu/schwartz_lectures/1
+  volume: '1'
+
 - id: yatesCanWorkingClass2018
   abstract: >-
     One of the horrors of the capitalist system is that slave labor, which was
@@ -28872,6 +29671,65 @@ references:
   type: webpage
   URL: >-
     https://palestinelegal.org/news/2023/10/12/resources-for-advocating-for-palestine-across-us
+
+- id: Zorzin2010
+  abstract: >-
+    Capitalist logic, its impact on the practice of archaeology, and on the
+    professional lives of those who participate within its political economy are
+    the subject for this analysis. I have chosen as my unit of analysis
+    commercial archaeology in Quebec, Canada. This context was chosen because of
+    its progressive transformation from a semi, state-regulated archaeological
+    system to one that is competitive and comparable to those found in the UK
+    and the USA.<br/><br/>Commercial archaeology, as governed by a neoliberal
+    economic system, has fundamentally altered how archaeology?s contributions
+    are brought about, maintained and disseminated. But what about those who
+    produce archaeology, has their relationship to the profession changed as a
+    result of neoliberal economics?<br/><br/>The objective of this thesis is to
+    address and evaluate the argument against neoliberal economics and
+    contribute to current critiques regarding capitalist economics by posing the
+    following question: does the implementation of a neoliberal economy in
+    archaeology sustain the accomplishment of a meaningful and valuable
+    archaeological activity for archaeologists and the public?<br/><br/>Within
+    this dissertation, an ethnographic approach to data collection permits the
+    exploration of the experience of socioeconomic changes upon the lives of
+    archaeologists, experience which is articulated in their own discourses. I
+    also employ qualitative demographic and economic data, and participant
+    observation. The characteristics of the archaeological network in Quebec are
+    further illustrated through a comparative analysis with the system of
+    commercial archaeology in the UK.<br/><br/>Research results demonstrate that
+    the present market economy is harmful to the development of archaeological
+    products, primarily because of the alienation of the product from the
+    archaeologists and the public. Alternatives to the current economic system
+    have been developed. However, these options suffer from under-funding. I
+    propose that new models of practice for archaeology must be explored and
+    given credence, if there is to be a perpetuation of the profession within
+    the cultural landscape of western societies.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 9
+  author:
+    - family: Zorzin
+      given: Nicholas
+  citation-key: Zorzin2010
+  contributor:
+    - family: Zorzin
+      given: Nicholas
+    - family: Hamilakis
+      given: Y.
+    - family: Johnson
+      given: M.
+  genre: phd
+  issued:
+    - year: 2010
+      month: 12
+  language: en
+  number-of-pages: '744'
+  publisher: University of Southampton
+  source: eprints.soton.ac.uk
+  title: The political economy of a commercial archaeology a Quebec case-study
+  type: thesis
+  URL: https://eprints.soton.ac.uk/344777/
 
 - id: Zuboff2019
   abstract: >-
