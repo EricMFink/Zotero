@@ -1400,56 +1400,6 @@ references:
   title-short: The Economists' Hour
   type: book
 
-- id: ArchaeologicalResourcesProtection1981
-  citation-key: ArchaeologicalResourcesProtection1981
-  container-title: N.C. Gen. Stat.
-  issued:
-    - year: 1981
-  section: § 70‑10 et sec.
-  title: Archaeological Resources Protection Act
-  type: legislation
-
-- id: ArcheologicalResourcesProtection1979
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: ArcheologicalResourcesProtection1979
-  container-title: U.S.C.
-  issued:
-    - year: 1979
-      month: 10
-      day: 31
-  language: en
-  number: Pub. L. 96–95, § 2
-  section: § 470aa et seq.
-  title: Archeological Resources Protection Act
-  type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/16/chapter-1B
-  volume: '16'
-
-- id: ArcheologyArcheologyUS_nd
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: ArcheologyArcheologyUS_nd
-  language: en
-  title: About Archeology - Archeology (U.S. National Park Service)
-  type: webpage
-  URL: https://www.nps.gov/subjects/archeology/about-archeology.htm
-
-- id: ArcheologyProgramUS_nd
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: ArcheologyProgramUS_nd
-  language: en
-  title: Archeology Program (U.S. National Park Service)
-  type: webpage
-  URL: https://www.nps.gov/orgs/1038/index.htm
-
 - id: Ardant1975
   abstract: >-
     Studies of political development have traditionally focused on emerging
@@ -1538,24 +1488,6 @@ references:
   number: Case No. 4:19-cv-00773-KGB
   title: Arkansas Labeling, Inc. v. Tim Proctor, Label Edge, Llc
   type: legal_case
-
-- id: ArmourHeritage_nd
-  abstract: >-
-    The publication of PPG16 (Planning Policy Guidance Note 16, on 'Archaeology
-    and Planning') in November 1990 allowed, for the first time, the integration
-    of archaeology into the planning process, with the responsibility for the
-    funding of any archaeological works falling to the developer.  &nbsp;
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: ArmourHeritage_nd
-  container-title: Armour Heritage
-  language: en-GB
-  title: Armour Heritage
-  type: webpage
-  URL: >-
-    https://www.armourheritage.co.uk/blog/2016/3/2/25-years-of-developer-funded-archaeology
 
 - id: Arnold1992
   abstract: >-
@@ -6312,6 +6244,32 @@ references:
   type: legal_case
   volume: '168'
 
+- id: Demirjian2025
+  abstract: >-
+    Stephen Miller, a top aide, repeated a justification used in the immigration
+    crackdown: that the country is fighting an invasion. But it is unclear if
+    the president has the power to take such a step.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Demirjian
+      given: Karoun
+  citation-key: Demirjian2025
+  container-title: The New York Times
+  ISSN: 0362-4331
+  issued:
+    - year: 2025
+      month: 5
+      day: 9
+  language: en-US
+  section: U.S.
+  source: NYTimes.com
+  title: Trump Officials Consider Suspending Habeas Corpus for Detained Migrants
+  type: article-newspaper
+  URL: https://www.nytimes.com/2025/05/09/us/trump-habeas-corpus.html
+
 - id: DemographicDistributionReport_nd
   accessed:
     - year: 2024
@@ -6714,19 +6672,6 @@ references:
   title: Lawyer Satisfaction in the Process of Structuring Legal Careers
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.21
-
-- id: DirectorsOrder28A_nd
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: DirectorsOrder28A_nd
-  language: en
-  title: >-
-    Director's Order #28A and Archeology Guide - Archeology Program (U.S.
-    National Park Service)
-  type: webpage
-  URL: https://www.nps.gov/orgs/1038/do28a-and-archeology-guide.htm
 
 - id: DiscriminationEngagementCertain_nd
   accessed:
@@ -7675,20 +7620,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.40
 
-- id: EnvironmentalReviewNC_nd
-  abstract: >-
-    OSA reviews projects that utilize state or federal funding or permits to
-    ensure that archaeological resources in the area are protected.
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: EnvironmentalReviewNC_nd
-  language: en
-  title: Environmental Review | NC Archaeology
-  type: webpage
-  URL: https://archaeology.ncdcr.gov/programs/environmentalreview
-
 - id: epsteinCommonLawLabor1983
   author:
     - family: Epstein
@@ -7915,39 +7846,6 @@ references:
   title: A History of Anthropological Thought
   type: book
 
-- id: Everill2009
-  abstract: >-
-    Since the increasing reliance on developers to fund archaeological work
-    through the 1980s, and the implementation of Planning Policy Guidance Note
-    16 (PPG16) in 1990, British 'commercial' archaeologists have become
-    increasingly distanced from their academic colleagues. This monograph
-    examines the situation within contemporary 'commercial' archaeology and
-    considers the challenges faced by those employed within that sector,
-    including the impact of commercial working practices on pay and conditions
-    of employment and the process of excavation and knowledge production. This
-    monograph provides a fascinating insight into the working environment of
-    commercial archaeologists and demonstrates how camaraderie and love of their
-    job is often just enough to outweigh the adversity they face in the form of
-    low wages, poor employment conditions and career prospects.
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  author:
-    - family: Everill
-      given: Paul
-  citation-key: Everill2009
-  ISBN: 978-1-905933-10-5
-  issued:
-    - year: 2009
-  publisher: Oxbow Books
-  source: JSTOR
-  title: 'The Invisible Diggers: A Study of British Commercial Archaeology'
-  title-short: The Invisible Diggers
-  type: book
-  URL: https://www.jstor.org/stable/j.ctt1cfr7rf
-  volume: '1'
-
 - id: Ewick1998
   abstract: >-
     Why do some people not hesitate to call the police to quiet a barking dog in
@@ -8088,17 +7986,6 @@ references:
   title: Farmer v. United Brotherhood of Carpenters & Joiners, Local 25
   type: legal_case
   volume: '430'
-
-- id: FederalArcheologyProgram_nd
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: FederalArcheologyProgram_nd
-  language: en
-  title: Federal Archeology Program (U.S. National Park Service)
-  type: webpage
-  URL: https://www.nps.gov/orgs/1187/index.htm
 
 - id: FederalSecurityInc2012
   authority: N.L.R.B.
@@ -8314,6 +8201,35 @@ references:
     1960–1995
   type: article-journal
   URL: https://journals.sagepub.com/doi/10.1177/0001839217715618
+
+- id: Feuer2025
+  abstract: >-
+    The administration cast the threat by the judge, James E. Boasberg, to open
+    criminal contempt proceedings as another salvo in an increasingly bitter
+    battle between the White House and the courts.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Feuer
+      given: Alan
+  citation-key: Feuer2025
+  container-title: The New York Times
+  ISSN: 0362-4331
+  issued:
+    - year: 2025
+      month: 4
+      day: 18
+  language: en-US
+  section: U.S.
+  source: NYTimes.com
+  title: >-
+    After Attacking Judges, Trump Administration Blames Judge for Escalating
+    Tensions
+  type: article-newspaper
+  URL: >-
+    https://www.nytimes.com/2025/04/18/us/boasberg-trump-administration-tensions.html
 
 - id: Fiala2018
   abstract: Across Europe, a rising far right is on the offensive against LGBT people.
@@ -10803,6 +10719,34 @@ references:
   type: article-journal
   volume: '20'
 
+- id: Glenza2025
+  abstract: >-
+    Supreme court justice also spoke of White House’s undermining of the
+    constitution and rule of law
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Glenza
+      given: Jessica
+  citation-key: Glenza2025
+  container-title: The Guardian
+  ISSN: 0261-3077
+  issued:
+    - year: 2025
+      month: 5
+      day: 2
+  language: en-GB
+  section: US news
+  source: The Guardian
+  title: >-
+    Ketanji Brown Jackson condemns Trump rhetoric ‘designed to intimidate the
+    judiciary’
+  type: article-newspaper
+  URL: >-
+    https://www.theguardian.com/us-news/2025/may/02/supreme-courrt-ketanji-brown-jackson-trump-speech
+
 - id: godardExceptionalDeclineAmerican2009
   abstract: >-
     This paper adopts a historical/new institutionalist perspective to explain
@@ -12047,6 +11991,31 @@ references:
   title: Judging the Jury
   type: book
 
+- id: Hans2025
+  abstract: >-
+    Although law firm executive orders getting the most attention, Trump's
+    attacks on public interest lawyers could be even more dangerous.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Hans
+      given: G.S.
+  citation-key: Hans2025
+  container-title: Balls and Strikes
+  issued:
+    - year: 2025
+      month: 4
+      day: 28
+  language: en-US
+  title: >-
+    Trump’s Law Firm Executive Orders Are Obscuring His More Dangerous Attacks
+    On the Legal Profession
+  type: post-weblog
+  URL: >-
+    https://ballsandstrikes.org/legal-culture/law-firm-executive-orders-obscuring-legal-profession-attacks/
+
 - id: Hansen2003
   accessed:
     - year: 2024
@@ -12832,19 +12801,6 @@ references:
   type: article-journal
   volume: '47'
 
-- id: HistoryBackgroundFederal_nd
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: HistoryBackgroundFederal_nd
-  language: en
-  title: >-
-    History and Background - Federal Archeology Program (U.S. National Park
-    Service)
-  type: webpage
-  URL: https://www.nps.gov/orgs/1187/history-and-background.htm
-
 - id: hlr_ALDFvReynoldsCaseNote2022
   abstract: >-
     In United States v. Alvarez, a fractured Court invalidated the Stolen Valor
@@ -13053,47 +13009,6 @@ references:
   URL: >-
     https://read.dukeupress.edu/labor/article/15/4/13/137120/SidelinedThe-Chicago-Women-s-Trade-Union-League-in
   volume: '15'
-
-- id: Hutchings2015
-  abstract: >-
-    Archaeology is a form of disaster capitalism, characterized by specialist
-    managers whose function is the clearance of Indigenous heritage from the
-    landscape, making way for economic development. When presented with this
-    critique, archaeologists respond strongly and emotionally, defending
-    archaeology. Anger emanates from and revolves around the assertion that
-    archaeologists are not just complicit in but integral to the destruction of
-    the very heritage they claim to protect. In what we believe is an act of
-    philosophical and economic self-preservation, mainstream archaeologists
-    actively forget the relationship between archaeology, violence, and the
-    global heritage crisis. Securely defended by its practitioners, archaeology
-    therefore remains an imperial force grounded in the ideology of growth,
-    development, and progress.
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  author:
-    - family: Hutchings
-      given: Rich
-    - family: La Salle
-      given: Marina
-  citation-key: Hutchings2015
-  container-title: International Journal of Historical Archaeology
-  container-title-short: Int J Histor Archaeol
-  DOI: 10.1007/s10761-015-0308-3
-  ISSN: 1573-7748
-  issue: '4'
-  issued:
-    - year: 2015
-      month: 12
-      day: 1
-  language: en
-  page: 699-720
-  source: Springer Link
-  title: Archaeology as Disaster Capitalism
-  type: article-journal
-  URL: https://doi.org/10.1007/s10761-015-0308-3
-  volume: '19'
 
 - id: Huyssen2019
   abstract: >-
@@ -15103,34 +15018,6 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:25%20Cal.App.3d%20199#autoLogin
   volume: '25'
 
-- id: King2014
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  author:
-    - family: King
-      given: Thomas F.
-  citation-key: King2014
-  container-title: Encyclopedia of Global Archaeology
-  DOI: 10.1007/978-1-4419-0465-2_1700
-  editor:
-    - family: Smith
-      given: Claire
-  event-place: New York, NY
-  ISBN: 978-1-4419-0465-2
-  issued:
-    - year: 2014
-  language: en
-  page: 2495-2498
-  publisher: Springer
-  publisher-place: New York, NY
-  source: Springer Link
-  title: 'Ethics of Commercial Archaeology: USA'
-  title-short: Ethics of Commercial Archaeology
-  type: chapter
-  URL: https://doi.org/10.1007/978-1-4419-0465-2_1700
-
 - id: Kirkland2004
   accessed:
     - year: 2024
@@ -15243,6 +15130,34 @@ references:
   URL: http://www.jstor.org/stable/3311975
   volume: '130'
 
+- id: Klein2025
+  abstract: >-
+    The governing ideology of the far right has become a monstrous, supremacist
+    survivalism. Our task is to build a movement strong enough to stop them
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Klein
+      given: Naomi
+    - family: Taylor
+      given: Astra
+  citation-key: Klein2025
+  container-title: The Guardian
+  ISSN: 0261-3077
+  issued:
+    - year: 2025
+      month: 4
+      day: 13
+  language: en-GB
+  section: US news
+  source: The Guardian
+  title: The rise of end times fascism
+  type: article-newspaper
+  URL: >-
+    https://www.theguardian.com/us-news/ng-interactive/2025/apr/13/end-times-fascism-far-right-trump-musk
+
 - id: Klerman2022
   abstract: >-
     In a pre-registered 2 × 2 × 2 factorial between-subject randomized lab
@@ -15276,6 +15191,32 @@ references:
   title: Law Matters—Less Than We Thought
   type: article-journal
   URL: https://doi.org/10.1093/jleo/ewac008
+
+- id: Knox2022
+  abstract: >-
+    Conservatives counterpose distant, alienated social forces against British
+    ones. The way in which people can regain control over their lives – on this
+    argument – is through authentically British institutions. This sense of
+    Britishness can then easily be turned inwards: although the British
+    judiciary is British ‘in name’ they act on behalf of these unaccountable
+    forces, and so in substance are not ‘British’.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Knox
+      given: Robert
+  citation-key: Knox2022
+  container-title: Salvage
+  issued:
+    - year: 2022
+      season: 2
+  language: en-US
+  title: The Right Against the Rule of Law?
+  type: article-journal
+  URL: https://salvage.zone/the-right-against-the-rule-of-law/
+  volume: '12'
 
 - id: kochanTransformationAmericanIndustrial1993
   abstract: Book by Kochan, Thomas A., Katz, Harry C., McKersie, Robert B.
@@ -15327,6 +15268,27 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/washlr91&i=597
   volume: '91'
+
+- id: Kovensky2025
+  abstract: Close allies of President Trump are asking a judge to give the...
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Kovensky
+      given: Josh
+  citation-key: Kovensky2025
+  container-title: TPM – Talking Points Memo
+  issued:
+    - year: 2025
+      month: 5
+      day: 2
+  language: en-US
+  title: Trump Allies Sue John Roberts To Give White House Control Of Court System
+  type: webpage
+  URL: >-
+    https://talkingpointsmemo.com/news/trump-allies-sue-john-roberts-to-give-white-house-control-of-court-system
 
 - id: Kramer2004
   abstract: >-
@@ -16029,17 +15991,6 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/geojlege34&i=70
   volume: '34'
 
-- id: LawsRegulationsGuidelines_nd
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: LawsRegulationsGuidelines_nd
-  language: en
-  title: Laws, Regulations, & Guidelines - Archeology (U.S. National Park Service)
-  type: webpage
-  URL: https://www.nps.gov/subjects/archeology/laws-regulations-guidelines.htm
-
 - id: LawyerSufferingPandemic_nd
   accessed:
     - year: 2024
@@ -16089,19 +16040,28 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.39
 
-- id: LearnLawArchaeological_nd
+- id: Lehmann2025
+  abstract: And so do all of his cronies.
   accessed:
     - year: 2025
       month: 5
-      day: 9
-  citation-key: LearnLawArchaeological_nd
-  language: en
-  title: >-
-    Learn the Law: The Archaeological Resources Protection Act - Teachers (U.S.
-    National Park Service)
-  title-short: Learn the Law
-  type: webpage
-  URL: https://www.nps.gov/teachers/classrooms/learn-law-arpa.htm
+      day: 11
+  author:
+    - family: Lehmann
+      given: Chris
+  citation-key: Lehmann2025
+  container-title: The Nation
+  ISSN: 0027-8378
+  issued:
+    - year: 2025
+      month: 4
+      day: 18
+  language: en-US
+  source: www.thenation.com
+  title: If Trump Sounds Like He Wants a Police State, That’s Because He Does
+  type: article-magazine
+  URL: >-
+    https://www.thenation.com/article/politics/trump-police-state-kash-patel-pam-bondi/
 
 - id: lehoucqConceptualizingLegalMobilization2019
   author:
@@ -18065,6 +18025,37 @@ references:
     https://www.annualreviews.org/content/journals/10.1146/annurev-lawsocsci-041822-033834
   volume: '20'
 
+- id: Mattei2008
+  abstract: >-
+    Plunder examines the dark side of the Rule of Law and explores how it has
+    been used as a powerful political weapon by Western countries in order to
+    legitimize plunder – the practice of violent extraction by stronger
+    political actors victimizing weaker ones.  Challenges traditionally held
+    beliefs in the sanctity of the Rule of Law by exposing its dark side
+    Examines the Rule of Law's relationship with 'plunder' – the practice of
+    violent extraction by stronger political actors victimizing weaker ones – in
+    the service of Western cultural and economic domination Provides global
+    examples of plunder: of oil in Iraq; of ideas in the form of Western patents
+    and intellectual property rights imposed on weaker peoples; and of liberty
+    in the United States Dares to ask the paradoxical question – is the Rule of
+    Law itself illegal?
+  author:
+    - family: Mattei
+      given: Ugo
+    - family: Nader
+      given: Laura
+  citation-key: Mattei2008
+  ISBN: 978-1-4051-7894-5
+  issued:
+    - year: 2008
+  language: en
+  number-of-pages: '306'
+  publisher: John Wiley & Sons
+  source: Google Books
+  title: 'Plunder: When the Rule of Law is Illegal'
+  title-short: Plunder
+  type: book
+
 - id: Mauss1972
   author:
     - family: Mauss
@@ -19538,6 +19529,34 @@ references:
   title-short: The American Legal Profession in Crisis
   type: book
 
+- id: Montague2025
+  abstract: >-
+    The decision marked the first time a federal judge permanently blocked the
+    Trump administration from enforcing an order to punish law firms he opposes
+    politically.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Montague
+      given: Zach
+  citation-key: Montague2025
+  container-title: The New York Times
+  ISSN: 0362-4331
+  issued:
+    - year: 2025
+      month: 5
+      day: 2
+  language: en-US
+  section: U.S.
+  source: NYTimes.com
+  title: >-
+    Trump’s Order Targeting Law Firm Perkins Coie Is Unconstitutional, Judge
+    Rules
+  type: article-newspaper
+  URL: https://www.nytimes.com/2025/05/02/us/politics/trump-law-firms.html
+
 - id: MontanaAggag1991
   citation-key: MontanaAggag1991
   container-title: Mont. Code
@@ -20075,6 +20094,33 @@ references:
   type: article-journal
   URL: http://search.proquest.com/docview/2352150753/abstract/5B13AF4F8A2249D0PQ/5
   volume: '25'
+
+- id: Nader2024
+  abstract: >-
+    In this essay, changing times will be center stage – from Euro-American
+    colonization to contemporary American imperialism, from the ideal use of
+    rule of law to its use as protection for American imperialism, from
+    post-colonialism to new states, from what it means to be colonized to what
+    it means to “lack” a rule of law tradition. All of these functions are
+    associated with war or peace, with plunder or its opposite, both good and
+    bad functions, which challenge the generally acceptable position that rule
+    of law is a good thing with no dark side. When we recognize the dark side,
+    that is, the lawlessness allowed by law, should we ask if Rule of Law is now
+    a myth – something that exists in the imagination functioning as a
+    controlling process.
+  author:
+    - family: Nader
+      given: Laura
+  citation-key: Nader2024
+  container-title: Routledge Handbook of the Rule of Law
+  ISBN: 978-1-351-23718-5
+  issued:
+    - year: 2024
+  number-of-pages: '11'
+  page: 233-243
+  publisher: Routledge
+  title: The Many Functions of the Rule of Law in Different Contexts
+  type: chapter
 
 - id: naduris-weissmanWorkerCenterMovement2009
   abstract: >-
@@ -20873,16 +20919,6 @@ references:
   title: Contradictions of the Welfare State
   type: book
 
-- id: OfficeStateArchaeology_nd
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: OfficeStateArchaeology_nd
-  title: Office of State Archaeology | NC Archaeology
-  type: webpage
-  URL: https://archaeology.ncdcr.gov/
-
 - id: Ohnesorge2007
   abstract: >-
     Rule of Law rhetoric is increasingly common, both in U.S. legal literature
@@ -20937,6 +20973,32 @@ references:
   title: Oil Capitol Sheet Metal, Inc.
   type: legal_case
   volume: '349'
+
+- id: Olivares2025
+  abstract: >-
+    Democratic Congress members who visited detention center with mayor say Ice
+    officials ‘created the chaos’
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Olivares
+      given: José
+  citation-key: Olivares2025
+  container-title: The Guardian
+  ISSN: 0261-3077
+  issued:
+    - year: 2025
+      month: 5
+      day: 11
+  language: en-GB
+  section: US news
+  source: The Guardian
+  title: Trump officials ‘created confrontation’ that led to arrest of Newark mayor
+  type: article-newspaper
+  URL: >-
+    https://www.theguardian.com/us-news/2025/may/11/trump-officials-newark-mayor-arrest
 
 - id: Olson1971
   abstract: >-
@@ -21259,55 +21321,6 @@ references:
   title: Pain Relief Centers, P.A.
   type: legal_case
   volume: '371'
-
-- id: PargaDans2021
-  abstract: >-
-    This paper explores the underlying factors behind the collapse of commercial
-    archaeology in Spain, with implications for other international contexts. It
-    contributes to the current global debate about heritage ethics, adding
-    nuance and conceptual depth to critical management studies and cultural
-    heritage management in their approach to business ethics. Similar to other
-    European contexts, Spanish archaeological management thrived during the
-    1990s and 2000s as a business model based on policies directed at
-    safeguarding cultural heritage. The model had controversial ethical
-    implications at academic, policy and business levels. However, the global
-    financial crisis of 2008 had a huge impact on this sector, and more than 70%
-    of the Spanish archaeological companies closed by 2017. Drawing on the
-    concepts of abstract narratives, functional stupidity and corporatist
-    neoliberalism, this paper illustrates the need to examine ethical issues
-    from a pragmatic standpoint, beyond epistemological and moralistic critiques
-    of profit-oriented businesses in the cultural realm. In doing so, it
-    connects the fields of cultural heritage and management studies, opening up
-    hitherto unexplored strands of research and debate.
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  author:
-    - family: Parga Dans
-      given: Eva
-    - family: Alonso González
-      given: Pablo
-  citation-key: PargaDans2021
-  container-title: Journal of Business Ethics
-  container-title-short: J Bus Ethics
-  DOI: 10.1007/s10551-020-04504-6
-  ISSN: 1573-0697
-  issue: '3'
-  issued:
-    - year: 2021
-      month: 9
-      day: 1
-  language: en
-  page: 447-461
-  source: Springer Link
-  title: >-
-    The Unethical Enterprise of the Past: Lessons from the Collapse of
-    Archaeological Heritage Management in Spain
-  title-short: The Unethical Enterprise of the Past
-  type: article-journal
-  URL: https://doi.org/10.1007/s10551-020-04504-6
-  volume: '172'
 
 - id: Park2023a
   accessed:
@@ -22368,26 +22381,6 @@ references:
   type: article-journal
   volume: '19'
 
-- id: PreservationHistoricalArcheological2014
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: PreservationHistoricalArcheological2014
-  container-title: U.S.C.
-  issued:
-    - year: 2014
-      month: 12
-      day: 19
-  language: en
-  number: Pub. L. 113–287, § 3
-  section: § 312501 et seq.
-  title: Preservation of Historical and Archeological Data Act
-  type: legislation
-  URL: >-
-    https://www.law.cornell.edu/uscode/text/54/subtitle-III/division-B/subdivision-3/chapter-3125
-  volume: '54'
-
 - id: ProfessionalResponsibilityPandemic_nd
   accessed:
     - year: 2024
@@ -22925,30 +22918,6 @@ references:
   type: legal_case
   volume: '768'
 
-- id: Review2020
-  abstract: >-
-    Federal regulation of domestic and international archaeology comes from a
-    variety of agencies.
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  author:
-    - family: Review
-      given: The Regulatory
-    - family: Nakahara
-      given: Mark
-  citation-key: Review2020
-  issued:
-    - year: 2020
-      month: 2
-      day: 12
-  language: en-US
-  title: The Regulation of American Archaeology | The Regulatory Review
-  type: webpage
-  URL: >-
-    https://www.theregreview.org/2020/02/12/nakahara-regulation-american-archaeology/
-
 - id: rhoadesAcademicCapitalismSecondary2015
   abstract: >-
     The chapter examines how academic labor markets in the U.S. are socially
@@ -23441,24 +23410,6 @@ references:
   title-short: The Triumph of Injustice
   type: book
 
-- id: Salle_nd
-  abstract: Five Thoughts on Commercial Archaeology
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  author:
-    - family: Salle
-      given: Marina La
-    - family: Hutchings
-      given: Richard M.
-  citation-key: Salle_nd
-  container-title: ICHT Bulletin 2013-1
-  source: www.academia.edu
-  title: Five Thoughts on Commercial Archaeology
-  type: article-journal
-  URL: https://www.academia.edu/3688649/Five_Thoughts_on_Commercial_Archaeology
-
 - id: Salter1999
   accessed:
     - year: 2025
@@ -23484,17 +23435,6 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/respub5&i=161
   volume: '5'
-
-- id: SalvageArchaeologyCullowhee_nd
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: SalvageArchaeologyCullowhee_nd
-  title: Salvage Archaeology at the Cullowhee Valley School | NC Archaeology
-  type: webpage
-  URL: >-
-    https://archaeology.ncdcr.gov/get-involved/archaeological-sites-sample/cullowhee-valley-school
 
 - id: salvatoreEugeneDebsCitizen2007
   abstract: >-
@@ -23716,23 +23656,6 @@ references:
   title: 'Unions in Court: Organized Labour and the Charter of Rights and Freedoms'
   title-short: Unions in Court
   type: book
-
-- id: SavingArtifactsRescue_nd
-  abstract: >-
-    What is rescue archaeology? Learn why this important field helps protect
-    artifacts and why new technology can help improve the process.
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  citation-key: SavingArtifactsRescue_nd
-  container-title: Discover Magazine
-  language: en
-  title: 'Saving Artifacts: Rescue Archaeology Prevents History From Being Erased'
-  title-short: Saving Artifacts
-  type: webpage
-  URL: >-
-    https://www.discovermagazine.com/the-sciences/saving-artifacts-rescue-archaeology-prevents-history-from-being-erased
 
 - id: Schemenauer2007
   accessed:
@@ -24530,6 +24453,38 @@ references:
   title: A History of the Supreme Court
   type: book
 
+- id: Schwartz2025
+  abstract: >-
+    The marshals are in an increasingly bitter conflict between two branches of
+    government, even as funding for judges’ security has failed to keep pace
+    with a steady rise in threats.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Schwartz
+      given: Mattathias
+    - family: issues
+      given: >-
+        Emily Bazelon Mattathias Schwartz reports on the federal judiciary from
+        Philadelphia Emily Bazelon
+      dropping-particle: is a staff writer for the magazine who covers legal
+  citation-key: Schwartz2025
+  container-title: The New York Times
+  ISSN: 0362-4331
+  issued:
+    - year: 2025
+      month: 4
+      day: 25
+  language: en-US
+  section: U.S.
+  source: NYTimes.com
+  title: Judges Worry Trump Could Tell U.S. Marshals to Stop Protecting Them
+  type: article-newspaper
+  URL: >-
+    https://www.nytimes.com/2025/04/25/us/politics/trump-judges-marshals-threats.html
+
 - id: schwartzJustCauseUnion2012
   author:
     - family: Schwartz
@@ -24877,6 +24832,49 @@ references:
     Housing Court
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.24
+
+- id: Sevel2024
+  abstract: >-
+    Featuring specially commissioned chapters from experts in the field of media
+    and communications law, this book provides an authoritative survey of media
+    law from a comparative perspective. The handbook does not simply offer a
+    synopsis of the state of affairs in media law jurisprudence, rather it
+    provides a better understanding of the forces that generate media rules,
+    norms, and standards against the background of major transformations in the
+    way information is mediated as a result of democratization, economic
+    development, cultural change, globalization and technological innovation.The
+    book addresses a range of issues including:   Media Law and Evolving
+    Concepts of Democracy    Network neutrality and traffic management   Public
+    Service Broadcasting in Europe    Interception of Communication and
+    Surveillance in Russia   State secrets, leaks and the media  A variety of
+    rule-making institutions are considered, including administrative, and
+    judicial entities within and outside government, but also entities such as
+    associations and corporations that generate binding rules. The book assesses
+    the emerging role of supranational economic and political groupings as well
+    as non-Western models, such as China and India, where cultural attitudes
+    toward media freedoms are often very different. Monroe E. Price is Director
+    of the Center for Global Communication Studies at the Annenberg School for
+    the University of Pennsylvania and Joseph and Sadie Danciger Professor of
+    Law and Director of the Howard M. Squadron Program in Law, Media and Society
+    at the Cardozo School of Law.Stefaan Verhulst is Chief of Research at the
+    Markle Foundation. Previously he was the co-founder and co-director, with
+    Professor Monroe Price, of the Programme in Comparative Media Law and Policy
+    (PCMLP) at Oxford University, as well as senior research fellow at the
+    Centre for Socio Legal Studies. Libby Morgan is the Associate Director of
+    the Center for Global Communication Studies at the Annenberg School for the
+    University of Pennsylvania.
+  citation-key: Sevel2024
+  editor:
+    - family: Sevel
+      given: Michael
+  ISBN: 978-0-8153-7665-1
+  issued:
+    - year: 2024
+  language: en
+  number-of-pages: '428'
+  publisher: Routledge
+  title: Routledge Handbook of the Rule of Law
+  type: book
 
 - id: SexBasedDiscriminationEqual
   citation-key: SexBasedDiscriminationEqual
@@ -26368,6 +26366,31 @@ references:
   source: Google Books
   title: Critical Theory and the Critique of Antisemitism
   type: book
+
+- id: Stone2025
+  abstract: >-
+    Attorney general accused of targeting political foes, halting prosecutions
+    and placing premium on loyalty to president
+  accessed:
+    - year: 2025
+      month: 5
+      day: 11
+  author:
+    - family: Stone
+      given: Peter
+  citation-key: Stone2025
+  container-title: The Guardian
+  ISSN: 0261-3077
+  issued:
+    - year: 2025
+      month: 5
+      day: 2
+  language: en-GB
+  section: US news
+  source: The Guardian
+  title: Pam Bondi turning DoJ into Trump’s ‘personal law firm’, top experts warn
+  type: article-newspaper
+  URL: https://www.theguardian.com/us-news/2025/may/02/trump-doj-pam-bondi
 
 - id: stoneLegalProtectionsAtypical2006
   author:
@@ -29784,65 +29807,6 @@ references:
   type: webpage
   URL: >-
     https://palestinelegal.org/news/2023/10/12/resources-for-advocating-for-palestine-across-us
-
-- id: Zorzin2010
-  abstract: >-
-    Capitalist logic, its impact on the practice of archaeology, and on the
-    professional lives of those who participate within its political economy are
-    the subject for this analysis. I have chosen as my unit of analysis
-    commercial archaeology in Quebec, Canada. This context was chosen because of
-    its progressive transformation from a semi, state-regulated archaeological
-    system to one that is competitive and comparable to those found in the UK
-    and the USA.<br/><br/>Commercial archaeology, as governed by a neoliberal
-    economic system, has fundamentally altered how archaeology?s contributions
-    are brought about, maintained and disseminated. But what about those who
-    produce archaeology, has their relationship to the profession changed as a
-    result of neoliberal economics?<br/><br/>The objective of this thesis is to
-    address and evaluate the argument against neoliberal economics and
-    contribute to current critiques regarding capitalist economics by posing the
-    following question: does the implementation of a neoliberal economy in
-    archaeology sustain the accomplishment of a meaningful and valuable
-    archaeological activity for archaeologists and the public?<br/><br/>Within
-    this dissertation, an ethnographic approach to data collection permits the
-    exploration of the experience of socioeconomic changes upon the lives of
-    archaeologists, experience which is articulated in their own discourses. I
-    also employ qualitative demographic and economic data, and participant
-    observation. The characteristics of the archaeological network in Quebec are
-    further illustrated through a comparative analysis with the system of
-    commercial archaeology in the UK.<br/><br/>Research results demonstrate that
-    the present market economy is harmful to the development of archaeological
-    products, primarily because of the alienation of the product from the
-    archaeologists and the public. Alternatives to the current economic system
-    have been developed. However, these options suffer from under-funding. I
-    propose that new models of practice for archaeology must be explored and
-    given credence, if there is to be a perpetuation of the profession within
-    the cultural landscape of western societies.
-  accessed:
-    - year: 2025
-      month: 5
-      day: 9
-  author:
-    - family: Zorzin
-      given: Nicholas
-  citation-key: Zorzin2010
-  contributor:
-    - family: Zorzin
-      given: Nicholas
-    - family: Hamilakis
-      given: Y.
-    - family: Johnson
-      given: M.
-  genre: phd
-  issued:
-    - year: 2010
-      month: 12
-  language: en
-  number-of-pages: '744'
-  publisher: University of Southampton
-  source: eprints.soton.ac.uk
-  title: The political economy of a commercial archaeology a Quebec case-study
-  type: thesis
-  URL: https://eprints.soton.ac.uk/344777/
 
 - id: Zuboff2019
   abstract: >-
