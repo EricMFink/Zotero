@@ -1142,6 +1142,17 @@ references:
   type: legal_case
   volume: '367'
 
+- id: AmazoncomServicesLLC2025
+  authority: 5th Cir.
+  citation-key: AmazoncomServicesLLC2025
+  issued:
+    - year: 2025
+      month: 5
+      day: 6
+  title: Amazon.com Services LLC v. N.L.R.B
+  type: legal_case
+  URL: https://www.ca5.uscourts.gov/opinions/pub/24/24-50761-CV0.pdf
+
 - id: Amery1980
   accessed:
     - year: 2024
@@ -2129,6 +2140,30 @@ references:
     Globalization
   title-short: Toward a Critical Theory of States
   type: book
+
+- id: Bartov2022
+  abstract: >-
+    Starbucks Workers United said that Dalton's firing constituted "blatant
+    retaliation" for her union organizing efforts.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  author:
+    - family: Bartov
+      given: Shira Li
+  citation-key: Bartov2022
+  container-title: Newsweek
+  issued:
+    - year: 2022
+      month: 4
+      day: 5
+  language: en
+  section: News
+  title: Starbucks Fired 19-Year-Old Union Leader for Allegedly Recording Harassment
+  type: webpage
+  URL: >-
+    https://www.newsweek.com/starbucks-fired-19-year-old-union-leader-allegedly-recording-harassment-1695266
 
 - id: Basurto2012
   author:
@@ -16455,6 +16490,28 @@ references:
   type: chapter
   URL: https://onlinelibrary.wiley.com/doi/10.1002/9781118701430.ch25
 
+- id: Liang2023
+  abstract: >-
+    The coffee chain was ordered to rehire staff and compensate others who were
+    affected.
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  author:
+    - family: Liang
+      given: Anabelle
+  citation-key: Liang2023
+  container-title: BBC
+  issued:
+    - year: 2023
+      month: 3
+      day: 1
+  language: en-GB
+  title: Starbucks illegally fired US workers over union, judge rules
+  type: webpage
+  URL: https://www.bbc.com/news/business-64819774
+
 - id: Lichten2018
   author:
     - family: Lichten
@@ -18072,6 +18129,84 @@ references:
   publisher-place: New York
   title: A General Theory of Magic
   type: book
+
+- id: May_nd
+  abstract: >-
+    In this paper I seek to criticise the use of Agamben&#39;s criticiism of the
+    (rule of) law by focussing on civil disobedieince as a complementary process
+    of politico-legal pressure, and by doing so suggest hat depictions of the
+    &#39;state of
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  author:
+    - family: May
+      given: Christopher
+  citation-key: May_nd
+  source: www.academia.edu
+  title: >-
+    The Rule of Law and its Discontents: Giorgio Agamben, and the state of
+    exception from below
+  title-short: The Rule of Law and its Discontents
+  type: article
+  URL: >-
+    https://www.academia.edu/2006036/The_Rule_of_Law_and_its_Discontents_Giorgio_Agamben_and_the_state_of_exception_from_below
+
+- id: May2019
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  author:
+    - family: May
+      given: Christopher
+  citation-key: May2019
+  container-title: Hague Journal on the Rule of Law
+  container-title-short: Hague J Rule Law
+  DOI: 10.1007/s40803-019-00098-y
+  ISSN: 1876-4053
+  issue: '2'
+  issued:
+    - year: 2019
+      month: 11
+      day: 6
+  language: en
+  page: 321-326
+  source: Springer Link
+  title: The Rule of Law and Technocratisation
+  type: article-journal
+  URL: https://doi.org/10.1007/s40803-019-00098-y
+  volume: '11'
+
+- id: May2021
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  author:
+    - family: May
+      given: Christopher
+  citation-key: May2021
+  container-title: The Palgrave Encyclopedia of Imperialism and Anti-Imperialism
+  DOI: 10.1007/978-3-030-29901-9_105
+  editor:
+    - family: Ness
+      given: Immanuel
+    - family: Cope
+      given: Zak
+  event-place: Cham
+  ISBN: 978-3-030-29901-9
+  issued:
+    - year: 2021
+  language: en
+  page: 2350-2360
+  publisher: Springer International Publishing
+  publisher-place: Cham
+  source: Springer Link
+  title: Rule of Law and Imperialism
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-030-29901-9_105
 
 - id: mayHowArbitrationWorks2016
   abstract: >-
@@ -20609,6 +20744,23 @@ references:
   type: legal_case
   volume: '404'
 
+- id: NLRBStarbucksCorporation2024
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  authority: 3d Cir.
+  citation-key: NLRBStarbucksCorporation2024
+  container-title: F4th
+  issued:
+    - year: 2024
+  page: '78'
+  title: N.L.R.B.\ v. Starbucks Corporation
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=2082626600&pubNum=0000999&originatingDoc=Ia8273f77267c11f0ab19cc1f68c58142&refType=RP&originationContext=document&transitionType=DocumentItem&ppcid=84421e1332f3408cb310564cbcf53fcd&contextData=(sc.Keycite)
+  volume: '125'
+
 - id: NLRBTownCountry1995
   authority: U.S.
   citation-key: NLRBTownCountry1995
@@ -22364,6 +22516,30 @@ references:
   source: Google Books
   title: State, Power, Socialism
   type: book
+
+- id: Poulos2025
+  abstract: "When a worker is forced to defend their union organizing efforts, a new tool can provide an essential defense of\_Section 7 rights:\_recording the boss. Whether via voice memos or video recordings, this tool has proven particularly useful for the thousands of Starbucks workers in their drive to organize. In stores across the country, Starbucks workers […]"
+  accessed:
+    - year: 2025
+      month: 5
+      day: 12
+  author:
+    - family: Poulos
+      given: Liz
+  citation-key: Poulos2025
+  container-title: On Labor
+  issued:
+    - year: 2025
+      month: 5
+      day: 10
+  language: en-US
+  title: >-
+    You Have the Right to Record Your Boss: At the Intersection of Organizing
+    Rights and Privacy Law in Starbucks Corp. ✦ OnLabor
+  title-short: You Have the Right to Record Your Boss
+  type: webpage
+  URL: >-
+    https://onlabor.org/you-have-the-right-to-record-your-boss-at-the-intersection-of-organizing-rights-and-privacy-law-in-starbucks-corp
 
 - id: poundLegalProfessionAmerica1944
   author:
@@ -26010,6 +26186,33 @@ references:
   title: Stanford Hosp. and Clinics v. NLRB
   type: legal_case
   volume: '325'
+
+- id: StarbucksCorporation2023
+  authority: N.L.R.B.
+  citation-key: StarbucksCorporation2023
+  container-title: N.L.R.B.
+  issued:
+    - year: 2023
+      month: 2
+      day: 13
+  page: No. 50
+  title: Starbucks Corporation
+  type: legal_case
+  volume: '372'
+
+- id: StarbucksCorporation2025
+  authority: N.L.R.B. Div. of Judges
+  citation-key: StarbucksCorporation2025
+  container-title: WL
+  issued:
+    - year: 2025
+      month: 3
+      day: 17
+  number: 14-CA-334485 JD-23-25
+  page: '855159'
+  title: Starbucks Corporation
+  type: legal_case
+  volume: '2025'
 
 - id: StateBarNumbers_nd
   accessed:
