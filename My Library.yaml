@@ -1142,17 +1142,6 @@ references:
   type: legal_case
   volume: '367'
 
-- id: AmazoncomServicesLLC2025
-  authority: 5th Cir.
-  citation-key: AmazoncomServicesLLC2025
-  issued:
-    - year: 2025
-      month: 5
-      day: 6
-  title: Amazon.com Services LLC v. N.L.R.B
-  type: legal_case
-  URL: https://www.ca5.uscourts.gov/opinions/pub/24/24-50761-CV0.pdf
-
 - id: Amery1980
   accessed:
     - year: 2024
@@ -26213,6 +26202,17 @@ references:
   title: Starbucks Corporation
   type: legal_case
   volume: '2025'
+
+- id: StarbucksCorporationDalton2024
+  authority: N.L.R.B. ALJ
+  citation-key: StarbucksCorporationDalton2024
+  container-title: JD(SF)–17–24
+  issued:
+    - year: 2024
+      month: 6
+      day: 7
+  title: Starbucks Corporation (Dalton)
+  type: legal_case
 
 - id: StateBarNumbers_nd
   accessed:
