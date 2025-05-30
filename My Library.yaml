@@ -3369,6 +3369,30 @@ references:
   title-short: Major Problems in the History of American Workers
   type: book
 
+- id: Born1970
+  accessed:
+    - year: 2025
+      month: 5
+      day: 30
+  author:
+    - family: Born
+      given: Jürgen
+  citation-key: Born1970
+  container-title: 'Mosaic: A Journal for the Interdisciplinary Study of Literature'
+  ISSN: 0027-1276
+  issue: '4'
+  issued:
+    - year: 1970
+  page: 153-162
+  publisher: University of Manitoba
+  source: JSTOR
+  title: >-
+    Kafka's Parable "Before the Law": Reflections towards a Positive
+    Interpretation
+  title-short: Kafka's Parable "Before the Law"
+  type: article-journal
+  volume: '3'
+
 - id: Bottomore1978
   author:
     - family: Bottomore
@@ -5000,6 +5024,23 @@ references:
   title: 'Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism'
   title-short: Bad Samaritans
   type: book
+
+- id: Chhoy2024
+  author:
+    - family: Chhoy
+      given: Mell
+    - family: Pearce
+      given: Mark Gaston
+  citation-key: Chhoy2024
+  container-title: Georgetown Journal on Poverty Law and Policy
+  container-title-short: Geo. J. on Poverty L. & Pol
+  issued:
+    - year: 2024
+  page: '355'
+  source: HeinOnline
+  title: Worker Outbursts, Workplace Rules and a Resurgence of Worker Voice
+  type: article-journal
+  volume: '31'
 
 - id: CityDisposal1983
   authority: U.S.
@@ -8813,6 +8854,22 @@ references:
   title: 'Movement Lawyers: The Tension Between Solidarity and Independence'
   type: article-journal
   volume: '97'
+
+- id: Fisk2024
+  author:
+    - family: Fisk
+      given: Catherine L.
+  citation-key: Fisk2024
+  container-title: Fordham Law Review
+  container-title-short: Fordham L. Rev.
+  issued:
+    - year: 2024
+    - year: 2025
+  page: '1159'
+  source: HeinOnline
+  title: Jewish Lawyers and the Labor Movement
+  type: article-journal
+  volume: '93'
 
 - id: fiskContingentLoyaltyRestricted2012
   author:
@@ -16838,6 +16895,39 @@ references:
   URL: www.jstor.org/stable/90017047
   volume: '38'
 
+- id: Litowitz2002
+  accessed:
+    - year: 2025
+      month: 5
+      day: 30
+  author:
+    - family: Litowitz
+      given: Douglas E.
+  citation-key: Litowitz2002
+  container-title: Law & Social Inquiry
+  editor:
+    - family: Kafka
+      given: Franz
+    - family: Mitchell
+      given: Breon
+    - family: Harmon
+      given: Mark
+    - family: Pasley
+      given: Malcolm
+    - family: Glatzer
+      given: Nahum
+  ISSN: 0897-6546
+  issue: '1'
+  issued:
+    - year: 2002
+  page: 103-137
+  publisher: '[American Bar Foundation, Wiley]'
+  source: JSTOR
+  title: Franz Kafka's Outsider Jurisprudence
+  type: article-journal
+  URL: https://www.jstor.org/stable/829095
+  volume: '27'
+
 - id: LivadasBradshaw1994
   authority: U.S.
   citation-key: LivadasBradshaw1994
@@ -17756,6 +17846,23 @@ references:
   title: Cause Lawyering
   type: article-journal
   volume: '10'
+
+- id: Martel2011
+  accessed:
+    - year: 2025
+      month: 5
+      day: 30
+  author:
+    - family: Martel
+      given: James
+  citation-key: Martel2011
+  issued:
+    - year: 2011
+  publisher: University of Michigan Press
+  title: 'Textual Conspiracies: Walter Benjamin, Idolatry, and Political Theory'
+  type: book
+  URL: >-
+    https://www-jstor-org.elon.idm.oclc.org/stable/10.3998/mpub.3124327.7?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Ae34f057fafb5e55263995e404d516c07&initiator=recommender&seq=1
 
 - id: martelleBloodPassionLudlow2008
   abstract: >-
@@ -22297,6 +22404,25 @@ references:
     Import of Philadelphia Cause Lawyers
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
+
+- id: Posner2010
+  accessed:
+    - year: 2025
+      month: 5
+      day: 30
+  author:
+    - family: Posner
+      given: Richard A.
+  citation-key: Posner2010
+  container-title: Columbia Law Review
+  issued:
+    - year: 2010
+  page: 207-215
+  title: 'Kafka: The Writer as Lawyer on JSTOR'
+  type: article-journal
+  URL: >-
+    https://www-jstor-org.elon.idm.oclc.org/stable/40380327?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Ae34f057fafb5e55263995e404d516c07&initiator=recommender&seq=1
+  volume: '110'
 
 - id: Posner2018
   abstract: >-
