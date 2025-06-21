@@ -1760,20 +1760,6 @@ references:
   type: legal_case
   volume: '742'
 
-- id: AutoethnographyEthnographyMade_nd
-  accessed:
-    - year: 2024
-      month: 4
-      day: 18
-  author:
-    - family: Tyner-Mullings
-      given: Alia R.
-  citation-key: AutoethnographyEthnographyMade_nd
-  container-title: Ethnography Made Easy
-  title: Autoethnography
-  type: webpage
-  URL: https://ethnographymadeeasy.commons.gc.cuny.edu/autoethnography/
-
 - id: backhouseContestingLegalCulture2016
   author:
     - family: Backhouse
@@ -20851,10 +20837,8 @@ references:
   issued:
     - year: 2024
   page: '78'
-  title: N.L.R.B.\ v. Starbucks Corporation
+  title: N.L.R.B. v. Starbucks Corporation
   type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=2082626600&pubNum=0000999&originatingDoc=Ia8273f77267c11f0ab19cc1f68c58142&refType=RP&originationContext=document&transitionType=DocumentItem&ppcid=84421e1332f3408cb310564cbcf53fcd&contextData=(sc.Keycite)
   volume: '125'
 
 - id: NLRBTownCountry1995
@@ -29168,17 +29152,6 @@ references:
   title-short: Michael
   type: legal_case
   volume: '353'
-
-- id: WhatAutoethnographyHow_nd
-  accessed:
-    - year: 2024
-      month: 4
-      day: 18
-  citation-key: WhatAutoethnographyHow_nd
-  container-title: The AutoEthnographer
-  title: What Is Autoethnography? How Can I Learn More? - The AutoEthnographer
-  type: webpage
-  URL: https://theautoethnographer.com/what-is-autoethnography/
 
 - id: WhenLawyersAttack2024
   abstract: >-
