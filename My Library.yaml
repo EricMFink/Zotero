@@ -138,7 +138,7 @@ references:
   issued:
     - year: 1998
   page: '321'
-  title: The Law of Employee Loyalty in the United States The Duty of Loyalty
+  title: The Law of Employee Loyalty in the United States
   type: article-journal
   volume: '20'
 
@@ -974,6 +974,28 @@ references:
     https://scholar.google.com/scholar_case?case=1905269866144960239&q=Animal+Legal+Defense+Fund+v+Reynolds&hl=en&as_sdt=3,34
   volume: '89'
 
+- id: ALDFvReynoldsCaseNote2022
+  abstract: >-
+    In United States v. Alvarez, a fractured Court invalidated the Stolen Valor
+    Act of 2005 — prohibiting any person from “falsely represent[ing] himself
+    or...
+  accessed:
+    - year: 2024
+      month: 4
+      day: 23
+  citation-key: ALDFvReynoldsCaseNote2022
+  container-title: Harvard Law Review
+  issued:
+    - year: 2022
+      month: 2
+  language: en-US
+  page: '1166'
+  title: 'Case Note: Animal Legal Defense Fund v. Reynolds'
+  type: article-journal
+  URL: >-
+    https://harvardlawreview.org/print/vol-135/animal-legal-defense-fund-v-reynolds/
+  volume: '135'
+
 - id: ALDFvVaught2020-EDArk
   authority: E.D. Ark.
   citation-key: ALDFvVaught2020-EDArk
@@ -1346,6 +1368,8 @@ references:
       given: ''
   citation-key: animalwelfareinstitute2022
   container-title: Animal Welfare Institute
+  issued:
+    - year: 2022
   language: en
   title: Anti-whistleblower (“Ag-Gag”) Legislation
   type: webpage
@@ -1457,9 +1481,13 @@ references:
   title: Arkansas Data Trespass
   type: legislation
 
-- id: ArkansasLabelingInc-EDArk
+- id: ArkansasLabelingInc2020
   authority: E.D. Ark.
-  citation-key: ArkansasLabelingInc-EDArk
+  citation-key: ArkansasLabelingInc2020
+  issued:
+    - year: 2020
+      month: 1
+      day: 6
   note: complaint filed Jan. 6, 2020
   number: 4:19-cv-00773-KGB
   title: Arkansas Labeling, Inc. v. Proctor
@@ -7021,6 +7049,8 @@ references:
       day: 23
   citation-key: DreamingDumplingsCamps_nd
   container-title: Haaretz
+  issued:
+    - year: 2014
   language: en
   source: Haaretz
   title: 'Dreaming of Dumplings in the Camps: The Forgotten Culture of Czech Jewry'
@@ -11386,7 +11416,6 @@ references:
       given: Rachel
   citation-key: Greenblatt2016
   container-title: Studia Judaica
-  DOI: 10.4467/24500100STJ.16.001.5347
   ISSN: 2450-0100
   issue: Nr 1 (37)
   issued:
@@ -11404,7 +11433,6 @@ references:
     Lands in the Early Modern Period
   title-short: Building the Past
   type: article-journal
-  URL: https://www.ejournals.eu/SJ/2016/Nrumer-1-(37)/art/8112/
   volume: '2016'
 
 - id: greenDeathHaymarketStory2007
@@ -12867,31 +12895,6 @@ references:
   title: Taking State Property Rights Out of Federal Labor Law
   type: article-journal
   volume: '47'
-
-- id: hlr_ALDFvReynoldsCaseNote2022
-  abstract: >-
-    In United States v. Alvarez, a fractured Court invalidated the Stolen Valor
-    Act of 2005 — prohibiting any person from “falsely represent[ing] himself
-    or...
-  accessed:
-    - year: 2024
-      month: 4
-      day: 23
-  author:
-    - family: hlr
-      given: ''
-  citation-key: hlr_ALDFvReynoldsCaseNote2022
-  container-title: Harvard Law Review
-  issued:
-    - year: 2022
-      month: 2
-  language: en-US
-  page: '1166'
-  title: 'Case Note: Animal Legal Defense Fund v. Reynolds'
-  type: article-journal
-  URL: >-
-    https://harvardlawreview.org/print/vol-135/animal-legal-defense-fund-v-reynolds/
-  volume: '135'
 
 - id: Hobbie1987
   accessed:
@@ -16021,17 +16024,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1007/s11133-013-9263-7
   volume: '36'
-
-- id: LawJournalLibrary_nd
-  accessed:
-    - year: 2024
-      month: 1
-      day: 29
-  citation-key: LawJournalLibrary_nd
-  title: Law Journal Library - HeinOnline.org
-  type: webpage
-  URL: >-
-    https://heinonline.org/HOL/Page?collection=journals&handle=hein.journals/uclalr70&id=102&men_tab=srchresults
 
 - id: Lawson2021
   accessed:
@@ -19270,8 +19262,9 @@ references:
 - id: MiklinEnterprisesInc2016
   authority: 8th Circuit
   citation-key: MiklinEnterprisesInc2016
+  container-title: F3d
   issued:
-    - literal: 'Submitted: September 19, 2016'
+    - year: 2016
   page: '812'
   title: Miklin Enterprises, Inc. v. NLRB
   type: legal_case
@@ -20170,8 +20163,6 @@ references:
   container-title: N.L.R.B.
   issued:
     - year: 2020
-      month: 7
-      day: 24
   page: No. 132
   title: Motor City Pawn Brokers, Inc.
   type: legal_case
@@ -22634,7 +22625,7 @@ references:
   language: en-US
   title: >-
     You Have the Right to Record Your Boss: At the Intersection of Organizing
-    Rights and Privacy Law in Starbucks Corp. ✦ OnLabor
+    Rights and Privacy Law in Starbucks Corp.
   title-short: You Have the Right to Record Your Boss
   type: webpage
   URL: >-
@@ -23178,8 +23169,6 @@ references:
   publisher: American Law Institute
   title: § 8.01 Employee Duty of Loyalty to the Employer
   type: chapter
-  URL: >-
-    https://1.next.westlaw.com/Document/I6cd2c731135c11e586bfe51da3272ff1/View/FullText.html?ppcid=1bf18228f6ea40b780b61ca397dad00e&originationContext=documenttoc&transitionType=CategoryPageItem&contextData=%28sc.Search%29
 
 - id: RetailPropertyTrust2014
   authority: 9th Cir.
@@ -24176,40 +24165,6 @@ references:
   title-short: Between the Norm and the Exception
   type: book
 
-- id: Scheuerman1997c
-  abstract: >-
-    Winner, 1996 Elaine and David Spitz Book Prize for the best book onliberal
-    and democratic theory, Conference for the Study of Political Thought.
-    Winner, 1994 First Book Prize, Foundations of Political Thought Organized
-    Section, American Political Science Association.Between the Norm and the
-    Exception contributes historical insight to the ongoing debate over the
-    future of the rule of law in welfare-state capitalist democracies. The core
-    issue is whether or not society can offer its citizens welfare-state
-    guarantees and still preserve the liberal vision of a norm-based legal
-    system. Franz Neumann and Otto Kirchheimer, in an age dominated by Hitler
-    and Stalin, sought to establish a sound theoretical basis for the "rule of
-    law" ideal. As an outcome of their sophisticated understanding of the
-    liberal political tradition, their writings suggest a theoretical missed
-    opportunity, an alternative critical theory that might usefully be applied
-    in understanding (and perhaps countering) the contemporary trend toward the
-    deformalization of law.
-  author:
-    - family: Scheuerman
-      given: William E.
-  citation-key: Scheuerman1997c
-  ISBN: 978-0-262-69196-3
-  issued:
-    - year: 1997
-      month: 1
-      day: 22
-  language: en
-  number-of-pages: '348'
-  publisher: MIT Press
-  source: Google Books
-  title: 'Between the Norm and the Exception: The Frankfurt School and the Rule of Law'
-  title-short: Between the Norm and the Exception
-  type: book
-
 - id: Scheuerman1999
   abstract: >-
     Until the publication of this pathbreaking book, most scholarly studies of
@@ -24488,39 +24443,6 @@ references:
     - family: Scheuerman
       given: William E.
   citation-key: Scheuerman2023
-  ISBN: 978-0-520-91734-7
-  issued:
-    - year: 2023
-      month: 12
-      day: 22
-  language: en
-  number-of-pages: '484'
-  publisher: Univ of California Press
-  source: Google Books
-  title: >-
-    The Rule of Law Under Siege: Selected Essays of Franz L. Neumann and Otto
-    Kirchheimer
-  title-short: The Rule of Law Under Siege
-  type: book
-
-- id: Scheuerman2023a
-  abstract: >-
-    In the pathbreaking essays collected here, Neumann and Kirchheimer
-    demonstrate that the death of democracy and the rise of fascism during the
-    first half of the twentieth century suggest crucial lessons for contemporary
-    political and legal scholars. The volume includes writings on
-    constitutionalism, political freedom, Nazism, sovereignty, and both Nazi and
-    liberal law. Most important, the Frankfurt authors point to the continuing
-    efficacy of the rule of law as an instrument for regulating and restraining
-    state authority, as well as ominous evidence of the rule of law's fragility
-    in modern liberal democracy.In the pathbreaking essays collected here,
-    Neumann and Kirchheimer demonstrate that the death of democracy and the rise
-    of fascism during the first half of the twentieth century suggest crucial
-    lessons for contemporary political and legal scholars. The vo
-  author:
-    - family: Scheuerman
-      given: William E.
-  citation-key: Scheuerman2023a
   ISBN: 978-0-520-91734-7
   issued:
     - year: 2023
