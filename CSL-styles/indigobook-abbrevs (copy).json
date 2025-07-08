@@ -1,6 +1,6 @@
 {
     "default": {
-	  "authority": {
+	  "jurisdiction": {
 		"US": "U.S.",
 		"US:AK": "Alaska",
 		"US:AL": "Ala.",

@@ -556,6 +556,7 @@
             <text macro="author" suffix=", "/>
             <text macro="full-title"/>
             <text macro="source"/>
+            <text macro="access" prefix=", "/>
           </if>
           <else-if type="legislation" match="any">
             <text macro="source"/>

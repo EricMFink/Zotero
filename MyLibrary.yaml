@@ -105,7 +105,7 @@ references:
   title: >-
     PETA and Other Animal Rights Groups Say NC ‘Ag-Gag’ Law Halts Probes of Farm
     Operations
-  type: webpage
+  type: article-newspaper
   URL: >-
     http://www.newsobserver.com/news/politics-government/state-politics/article88670927.html
 
@@ -242,7 +242,7 @@ references:
     North Carolina Reinforces Property Protection Law, Giving Employers Right to
     Sue
   title-short: NC Property Protection Law
-  type: webpage
+  type: post-weblog
   URL: >-
     https://www.jacksonlewis.com/publication/north-carolina-reinforces-property-protection-law-giving-employers-right-sue
 
@@ -262,7 +262,7 @@ references:
       day: 12
   title: 'NC''s Property Protection Act: Gives Employers Right to Sue'
   title-short: NC's Property Protection Act
-  type: webpage
+  type: post-weblog
   URL: >-
     https://www.capital.org/s/content/a0Y41000005798ZEAQ/blogncs-property-protection-act-gives-employers-right-to-sue
 
@@ -289,7 +289,7 @@ references:
       day: 21
   language: en-US
   title: Life as an Undercover Union Organizer
-  type: webpage
+  type: article-magazine
   URL: >-
     https://www.theatlantic.com/business/archive/2016/03/undercover-union-organizer/474387/
 
@@ -306,7 +306,7 @@ references:
   language: en
   title: The Double Life of an Undercover Union Organizer
   title-short: Undercover Union Organizer
-  type: webpage
+  type: article-magazine
   URL: >-
     http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
 
@@ -322,7 +322,7 @@ references:
       day: 22
   language: en-US
   title: No Salt Added
-  type: webpage
+  type: article-magazine
   URL: http://jacobinmag.com/2017/03/salts-union-organizing-nlrb-obama-trump-labor
 
 - id: AerotekInc2018
@@ -361,7 +361,7 @@ references:
       day: 7
   language: en-US
   title: Let’s Get to Work
-  type: webpage
+  type: article-magazine
   URL: >-
     http://jacobinmag.com/2017/02/labor-unions-workers-salts-students-organizing/
 
@@ -481,7 +481,7 @@ references:
   language: en-US
   title: 'Ag-Gag Laws: A Threat to Us All'
   title-short: Ag-Gag Laws
-  type: webpage
+  type: post-weblog
   URL: https://fairworldproject.org/ag-gag-laws-a-threat-to-us-all/
 
 - id: CenterforConstitutionalRights2017
@@ -496,29 +496,6 @@ references:
     Whistleblowers
   title-short: Ag-Gag Across America
   type: document
-
-- id: Binker2015
-  accessed:
-    - year: 2019
-      month: 1
-      day: 13
-  author:
-    - family: Binker
-      given: Mark
-    - family: Leslie
-      given: Laura
-  citation-key: Binker2015
-  container-title: WRAL.com
-  issued:
-    - year: 2015
-      month: 6
-      day: 3
-  language: en
-  title: Lawmakers Override McCrory Veto on Controversial 'Ag-Gag' Bill
-  title-short: Lawmakers Override McCrory Veto
-  type: webpage
-  URL: >-
-    https://www.wral.com/lawmakers-override-mccrory-veto-on-controversial-private-property-bill/14687952/
 
 - id: Fink2001
   author:
@@ -757,7 +734,7 @@ references:
       month: 8
       day: 26
   title: '"Ag-gag" Laws: An Update of Recent Legal Developments'
-  type: webpage
+  type: post-weblog
   URL: >-
     https://nationalaglawcenter.org/ag-gag-laws-an-update-of-recent-legal-developments/
 
@@ -1913,7 +1890,7 @@ references:
     - year: 2022
   language: en
   title: Anti-whistleblower (“Ag-Gag”) Legislation
-  type: webpage
+  type: post-weblog
   URL: https://awionline.org/content/anti-whistleblower-legislation
 
 - id: SullivanLongHagerty1991
@@ -2516,7 +2493,7 @@ references:
       day: 23
   language: en-US
   title: Salting Wouldn’t Be Necessary If Employers Didn’t Union Bust
-  type: webpage
+  type: article-magazine
   URL: >-
     https://jacobin.com/2023/05/american-labor-movement-decline-salting-union-organizing/
 
@@ -21008,8 +20985,9 @@ references:
   volume: '372'
 
 - id: PETAvNCFarmBureau2023
-  authority: Court of Appeals, 4th Circuit
+  authority: US:C4
   citation-key: PETAvNCFarmBureau2023
+  container-title: F.4th
   issued:
     - year: 2023
       month: 2
@@ -29787,7 +29765,7 @@ references:
     You Have the Right to Record Your Boss: At the Intersection of Organizing
     Rights and Privacy Law in Starbucks Corp.
   title-short: You Have the Right to Record Your Boss
-  type: webpage
+  type: post-weblog
   URL: >-
     https://onlabor.org/you-have-the-right-to-record-your-boss-at-the-intersection-of-organizing-rights-and-privacy-law-in-starbucks-corp
 
@@ -29811,7 +29789,7 @@ references:
   language: en
   section: News
   title: Starbucks Fired 19-Year-Old Union Leader for Allegedly Recording Harassment
-  type: webpage
+  type: article-magazine
   URL: >-
     https://www.newsweek.com/starbucks-fired-19-year-old-union-leader-allegedly-recording-harassment-1695266
 
@@ -29834,7 +29812,7 @@ references:
       day: 1
   language: en-GB
   title: Starbucks illegally fired US workers over union, judge rules
-  type: webpage
+  type: post-weblog
   URL: https://www.bbc.com/news/business-64819774
 
 - id: NLRBStarbucksCorporation2024
