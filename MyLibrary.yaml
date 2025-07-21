@@ -246,26 +246,6 @@ references:
   URL: >-
     https://www.jacksonlewis.com/publication/north-carolina-reinforces-property-protection-law-giving-employers-right-sue
 
-- id: Blizzard2017
-  accessed:
-    - year: 2018
-      month: 12
-      day: 24
-  author:
-    - family: Blizzard
-      given: Doug
-  citation-key: Blizzard2017
-  container-title: CAI Blog
-  issued:
-    - year: 2017
-      month: 9
-      day: 12
-  title: 'NC''s Property Protection Act: Gives Employers Right to Sue'
-  title-short: NC's Property Protection Act
-  type: post-weblog
-  URL: >-
-    https://www.capital.org/s/content/a0Y41000005798ZEAQ/blogncs-property-protection-act-gives-employers-right-to-sue
-
 - id: FluorDanielInc1993
   authority: N.L.R.B.
   citation-key: FluorDanielInc1993
@@ -733,7 +713,7 @@ references:
     - year: 2021
       month: 8
       day: 26
-  title: '"Ag-gag" Laws: An Update of Recent Legal Developments'
+  title: 'Ag-Gag Laws: An Update of Recent Legal Developments'
   type: post-weblog
   URL: >-
     https://nationalaglawcenter.org/ag-gag-laws-an-update-of-recent-legal-developments/
@@ -955,28 +935,6 @@ references:
   type: legal_case
   volume: '466'
 
-- id: BlumInternationalAssociation1964
-  authority: U.S.
-  citation-key: BlumInternationalAssociation1964
-  container-title: U.S.
-  issued:
-    - year: 1964
-  page: '389'
-  title: Blum v. International Association of Machinists, AFL-CIO
-  type: legal_case
-  volume: '42'
-
-- id: DeltaSonicCarwashSystems1995
-  authority: N.Y. Sup. Ct.
-  citation-key: DeltaSonicCarwashSystems1995
-  container-title: Misc.
-  issued:
-    - year: 1995
-  page: '672'
-  title: Delta-Sonic Carwash Systems, Inc. v. Building Trades Council, AFL-CIO
-  type: legal_case
-  volume: '168'
-
 - id: ATTMobility2021
   authority: N.L.R.B.
   citation-key: ATTMobility2021
@@ -989,18 +947,6 @@ references:
   title: AT&T Mobility, LLC
   type: legal_case
   volume: '370'
-
-- id: LivadasBradshaw1994
-  authority: U.S.
-  citation-key: LivadasBradshaw1994
-  container-title: U.S.
-  issued:
-    - year: 1994
-  page: '107'
-  title: Livadas v. Bradshaw
-  title-short: Livadas
-  type: legal_case
-  volume: '512'
 
 - id: WrightElecInc2004
   authority: Minn. Ct. App.
@@ -1519,22 +1465,6 @@ references:
   type: legal_case
   volume: '427'
 
-- id: FirebirdStructuresLLC2017
-  authority: D.N.M.
-  citation-key: FirebirdStructuresLLC2017
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2017
-      month: 5
-      day: 5
-  number: CIV 17-0397 JB/JLF
-  page: '1132'
-  title: >-
-    Firebird Structures LLC v. United Brotherhood of Carpenters & Joiners of
-    America
-  type: legal_case
-  volume: '252'
-
 - id: FederalSecurityInc2012
   authority: N.L.R.B.
   citation-key: FederalSecurityInc2012
@@ -2005,8 +1935,6 @@ references:
   page: No. 132
   title: Motor City Pawn Brokers, Inc.
   type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Document/I3655e12fd15311eaaf3cedf8c55e6c34/View/FullText.html?navigationPath=RelatedInfo%2Fv4%2Fkeycite%2Fnav%2F%3Fguid%3DI3655e12fd15311eaaf3cedf8c55e6c34%26ss%3D2006786799%26ds%3D2051539983%26origDocGuid%3DI93962451fac611daa223cd6b838f54f9&listSource=RelatedInfo&list=NegativeCitingReferences&rank=0&ppcid=d7d5389a4fcb45eab9b38d3c398b7a9c&originationContext=docHeader&transitionType=NegativeTreatment&contextData=%28sc.DocLink%29
   volume: '369'
 
 - id: StanfordHospClinics2003
@@ -2153,98 +2081,6 @@ references:
   title: Animal & Ecological Terrorism in America
   type: document
 
-- id: Switzer2021
-  abstract: Bar discipline skews toward minority lawyers; it's time to fix that.
-  accessed:
-    - year: 2023
-      month: 3
-      day: 11
-  author:
-    - family: Switzer
-      given: Jill
-  citation-key: Switzer2021
-  container-title: Above the Law
-  issued:
-    - year: 2021
-      month: 2
-      day: 11
-  language: en-US
-  title: Inequalities In Lawyer Discipline Demand Action
-  type: post-weblog
-  URL: >-
-    https://abovethelaw.com/2021/02/inequalities-in-lawyer-discipline-demand-action/
-
-- id: Ryan2022
-  abstract: >-
-    Black men have been disproportionately disciplined by the agency that
-    regulates California's legal profession.
-  accessed:
-    - year: 2023
-      month: 3
-      day: 11
-  author:
-    - family: Ryan
-      given: Harriet
-    - family: Hamilton
-      given: Matt
-  citation-key: Ryan2022
-  container-title: Los Angeles Times
-  issued:
-    - year: 2022
-      month: 12
-      day: 16
-  language: en-US
-  section: California
-  title: As Tom Girardi skated, California State Bar went after Black attorneys
-  type: article-newspaper
-  URL: >-
-    https://www.latimes.com/california/story/2022-12-16/as-tom-girardi-skated-the-state-bar-went-after-black-attorneys
-
-- id: Patrice2019
-  abstract: Black male attorneys are more likely to be disciplined than white attorneys.
-  accessed:
-    - year: 2023
-      month: 3
-      day: 11
-  author:
-    - family: Patrice
-      given: Joe
-  citation-key: Patrice2019
-  container-title: Above the Law
-  issued:
-    - year: 2019
-      month: 11
-      day: 19
-  language: en-US
-  title: Study Finds That Bar Discipline Is Totally Racist Shocking Absolutely No One
-  type: post-weblog
-  URL: >-
-    https://abovethelaw.com/2019/11/study-finds-that-bar-discipline-is-totally-racist-shocking-absolutely-no-one/
-
-- id: Weiss2019
-  abstract: >-
-    A newly released study finding racial disparities in California’s lawyer
-    discipline system will help the bar address unintended bias, according to
-    the State Bar of California’s executive director.
-  accessed:
-    - year: 2023
-      month: 3
-      day: 11
-  author:
-    - family: Weiss
-      given: Debra Cassens
-  citation-key: Weiss2019
-  container-title: ABA Journal
-  issued:
-    - year: 2019
-      month: 11
-      day: 18
-  language: en
-  title: New California bar study finds racial disparities in lawyer discipline
-  type: post-weblog
-  URL: >-
-    https://www.abajournal.com/news/article/california-bar-study-finds-racial-disparities-in-lawyer-discipline
-
 - id: Damm2020
   abstract: >-
     The quality of the legal system is of fundamental importance within any
@@ -2314,7 +2150,7 @@ references:
   type: article-journal
   volume: '22'
 
-- id: Yesko_nd
+- id: Yesko2018
   abstract: >-
     In most jurisdictions, district attorneys who break the rules are rarely
     held accountable.
@@ -2325,36 +2161,17 @@ references:
   author:
     - family: Yesko
       given: Parker
-  citation-key: Yesko_nd
+  citation-key: Yesko2018
+  container-title: APM Reports
+  issued:
+    - year: 2018
+      month: 9
+      day: 18
   language: en
   title: Why don't prosecutors get disciplined?
-  type: webpage
+  type: post-weblog
   URL: >-
     https://www.apmreports.org/story/2018/09/18/why-dont-prosecutors-get-disciplined
-
-- id: Furman2022
-  abstract: >-
-    Lawyers say a crackdown has particularly targeted attorneys who let their
-    administrative responsibilities slip, and small firm and solo practitioners
-    are bearing the brunt of change.
-  accessed:
-    - year: 2023
-      month: 3
-      day: 11
-  author:
-    - family: Furman
-      given: Aleeza
-  citation-key: Furman2022
-  container-title: The Legal Intelligencer
-  issued:
-    - year: 2022
-      month: 9
-      day: 1
-  language: en
-  title: Ethics Lawyers Say Attorney Discipline Has Gotten Tougher
-  type: webpage
-  URL: >-
-    https://www.law.com/thelegalintelligencer/2022/09/01/you-have-to-battle-when-it-should-be-a-walk-in-the-park-ethics-lawyers-say-attorney-discipline-has-gotten-tougher/
 
 - id: TKOFleetEnterprises1999
   authority: E.D.N.Y.
@@ -6509,18 +6326,6 @@ references:
   title-short: Hollaback!
   type: paper-conference
   URL: http://doi.acm.org/10.1145/2441776.2441831
-
-- id: DigitalSimulationTeaching_nd
-  accessed:
-    - year: 2019
-      month: 9
-      day: 19
-  citation-key: DigitalSimulationTeaching_nd
-  note: 'Select: zotero://select/library/items/T2C4LPRN'
-  title: "Digital and Simulation in the\_Teaching of Law : Emerging from the Shadows | Law, Technology and Access to Justice"
-  type: webpage
-  URL: >-
-    https://law-tech-a2j.org/external-contributor/digital-and-simulation-in-the-teaching-of-law-emerging-from-the-shadows/
 
 - id: dinovitzerLawyerSatisfactionProcess2014
   abstract: >-
@@ -15031,8 +14836,6 @@ references:
   author:
     - family: Moore
       given: Barrington
-    - family: Moore
-      given: Lecturer on Sociology Barrington
   citation-key: Moore1993
   ISBN: 978-0-8070-5073-6
   issued:
@@ -20961,14 +20764,23 @@ references:
     - year: 2023
       month: 11
       day: 20
+  author:
+    - family: Perez
+      given: Daniel
+    - family: Sherer
+      given: Jennifer
   citation-key: TacklingProblemCaptive_nd
   container-title: Economic Policy Institute
+  issued:
+    - year: 2023
+      month: 10
+      day: 24
   language: en-US
   title: >-
     Tackling the problem of ‘captive audience’ meetings: How states are stepping
     up to protect workers’ rights and freedoms
   title-short: Tackling the problem of ‘captive audience’ meetings
-  type: webpage
+  type: post-weblog
   URL: https://www.epi.org/blog/captive-audience-meetings/
 
 - id: StericycleInc2023
@@ -21464,7 +21276,7 @@ references:
     - year: 2018
       month: 3
   title: 'Moishe Postone: Anticapitalism without Shortcuts'
-  type: webpage
+  type: post-weblog
   URL: https://kontradikce.flu.cas.cz/en/online-content/146
 
 - id: Steinova2011
@@ -22011,7 +21823,7 @@ references:
     https://www.berghahnjournals.com/view/journals/european-judaism/49/1/ej490106.xml
   volume: '49'
 
-- id: JaroslavKlenovskyLooks2019
+- id: Klenovsky2019
   abstract: >-
     Jaroslav Klenovský is a pioneer in the documentation and preservation of
     Jewish heritage in what today is the Czech Republic. Based in Brno, he has
@@ -22021,7 +21833,10 @@ references:
     - year: 2023
       month: 12
       day: 23
-  citation-key: JaroslavKlenovskyLooks2019
+  author:
+    - family: Klenovský
+      given: Jaroslav
+  citation-key: Klenovsky2019
   container-title: Jewish Heritage Europe
   issued:
     - year: 2019
@@ -22031,20 +21846,20 @@ references:
   title: >-
     Jaroslav Klenovský looks back on 4 decades of Jewish heritage work in
     Czechoslovakia/Czech Republic
-  type: webpage
+  type: post-weblog
   URL: >-
     https://jewish-heritage-europe.eu/have-your-say/jaroslav-klenovsky-looks-back/
 
-- id: jhe2018
+- id: Gruber2018
   abstract: "A signpost in\_ Černovice, a small town in southern Bohemia, leads to a Jewish cemetery founded in the 17th century, and a memorial to local victims of the Holocaust that strikingly personalizes the loss. Jewish Heritage Europe Coordinator Ruth Ellen"
   accessed:
     - year: 2023
       month: 12
       day: 23
   author:
-    - family: jhe
-      given: ''
-  citation-key: jhe2018
+    - family: Gruber
+      given: Ruth Ellen
+  citation-key: Gruber2018
   container-title: Jewish Heritage Europe
   issued:
     - year: 2018
@@ -22055,7 +21870,7 @@ references:
     On the Road in CZ: an off the beaten track memorial in Černovice
     personalizes Holocaust memory
   title-short: On the Road in CZ
-  type: webpage
+  type: post-weblog
   URL: >-
     https://jewish-heritage-europe.eu/2018/07/08/on-the-road-in-cz-a-holocaust-memorial/
 
@@ -22077,7 +21892,7 @@ references:
   title: >-
     Without History We Are Dust: An Interview with Anna Hájková, Jan Seidl, &
     Ladislav Zikmund Lender
-  type: webpage
+  type: article-magazine
   URL: https://jacobin.com/2018/11/lgbt-rights-queer-memory-czech-republic
 
 - id: Brudney2000
@@ -22239,32 +22054,6 @@ references:
   title: Report on Disparities in the Discipline System
   type: document
 
-- id: StateBarofCalifornia2019
-  author:
-    - family: State Bar of California
-      given: ''
-  citation-key: StateBarofCalifornia2019
-  issued:
-    - year: 2019
-      month: 11
-      day: 13
-  title: >-
-    State Bar Conducts First of Its Kind Study on Racial Disparities in Attorney
-    Discipline
-  type: document
-
-- id: StandingCommitteeonProfessionalRegulation2021
-  author:
-    - family: Standing Committee on Professional Regulation
-      given: ''
-  citation-key: StandingCommitteeonProfessionalRegulation2021
-  issued:
-    - year: 2021
-      month: 11
-  publisher: ABA Center for Professional Responsibility
-  title: 2019 Survey on Lawyer Discipline Systems
-  type: document
-
 - id: NorthCarolinaStateBar2022
   author:
     - family: North Carolina State Bar
@@ -22276,19 +22065,10 @@ references:
   title: The 2022 Lawyer's Handbook
   type: document
 
-- id: DemographicDistributionReport_nd
-  accessed:
-    - year: 2024
-      month: 1
-      day: 6
-  citation-key: DemographicDistributionReport_nd
-  title: Demographic Distribution Report | North Carolina State Bar
-  type: webpage
-  URL: https://www.ncbar.gov/about-us/demographic-distribution-report/
-
 - id: GlacierNorthwestInc2023
   authority: U.S.
   citation-key: GlacierNorthwestInc2023
+  container-title: US
   issued:
     - year: 2023
       month: 6
@@ -22298,8 +22078,6 @@ references:
     Glacier Northwest, Inc. v. International Brotherhood of Teamsters Local
     Union No 174
   type: legal_case
-  URL: >-
-    https://scholar.google.com/scholar_case?case=3989956949616872269&q=glacier+northwest+inc+v+international+brotherhood+of+teamsters+local+union+no+174&hl=en&as_sdt=3,34
   volume: '598'
 
 - id: MillerPlasticProducts2023
@@ -22325,83 +22103,6 @@ references:
   title: Lion Elastomers, Inc.
   type: legal_case
   volume: '372'
-
-- id: article_nd
-  abstract: >-
-    Often recognized but rarely discussed directly, racial disparities in
-    disciplinary actions — a hot-button issue largely unexamined by state bars —
-    and how to address them are one key to improving the profession's stubbornly
-    low representation of Black lawyers, advocates say.
-  accessed:
-    - year: 2024
-      month: 1
-      day: 7
-  author:
-    - family: article
-      given: Andrew Strickler | 2023-05-08 16:45:29-0400 · Listen
-      dropping-particle: to
-  citation-key: article_nd
-  language: en
-  title: The Bar's Unasked Question About Race and Atty Discipline - Law360 Pulse
-  type: webpage
-  URL: >-
-    https://www.law360.com/pulse/articles/1604821/the-bar-s-unasked-question-about-race-and-atty-discipline
-
-- id: E2023
-  abstract: >-
-    A Black lawyer, Marsha W. Mignott, has filed a proposed class action lawsuit
-    accusing Georgia disciplinary officials of racial discrimination in handling
-    ethics complaints. Mignott is appealing a recommended two-year suspension
-    for a complaint by a client who presented a forged document to the state
-    bar. According to Law360, Mignott has been a member of […]
-  accessed:
-    - year: 2024
-      month: 1
-      day: 7
-  author:
-    - family: E
-      given: Rachel
-  citation-key: E2023
-  issued:
-    - year: 2023
-      month: 4
-      day: 26
-  language: en-US
-  title: >-
-    Georgia's Discipline Process Accused of Racial Bias - Data on Disparities
-    Sought | JDJournal
-  type: webpage
-  URL: >-
-    https://www.jdjournal.com/2023/04/26/georgias-discipline-process-accused-of-racial-bias-data-on-disparities-sought/
-
-- id: Park2023a
-  accessed:
-    - year: 2024
-      month: 1
-      day: 18
-  author:
-    - family: Park
-      given: Ryan
-  citation-key: Park2023a
-  container-title: North Carolina Bar Association
-  issued:
-    - year: 2023
-      month: 5
-      day: 17
-  title: 'Diversity and the North Carolina Supreme Court: A Look At The Advocates'
-  type: webpage
-  URL: >-
-    https://www.ncbar.org/nc-lawyer/2023-05/diversity-and-the-north-carolina-supreme-court-a-look-at-the-advocates/#_edn3
-
-- id: StateBarNumbers_nd
-  accessed:
-    - year: 2024
-      month: 1
-      day: 18
-  citation-key: StateBarNumbers_nd
-  title: N.C. State Bar by the Numbers - Lawyers Mutual Insurance Company
-  type: webpage
-  URL: https://www.lawyersmutualnc.com/blog/nc-state-bar-by-the-numbers
 
 - id: Fisk_nd
   author:
@@ -22828,16 +22529,26 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/hamlrv30&i=635
   volume: '30'
 
-- id: StudyRelationshipBar_nd
+- id: Levin2013
   accessed:
     - year: 2024
       month: 2
       day: 8
-  citation-key: StudyRelationshipBar_nd
+  author:
+    - family: Levin
+      given: Leslie C.
+    - family: Zozula
+      given: Christine
+    - family: Siegelman
+      given: Peter
+  citation-key: Levin2013
+  issued:
+    - year: 2013
+  publisher: Law School Admissions Council
   title: >-
     A Study of the Relationship Between Bar Admissions Data and Subsequent
-    Lawyer Discipline (GR 13-01) | The Law School Admission Council
-  type: webpage
+    Lawyer Discipline (GR 13-01)
+  type: document
   URL: >-
     https://www.lsac.org/data-research/research/study-relationship-between-bar-admissions-data-and-subsequent-lawyer
 
@@ -22916,30 +22627,6 @@ references:
   URL: https://scholarship.law.stjohns.edu/lawreview/vol93/iss1/3
   volume: '93'
 
-- id: Miller2020
-  author:
-    - family: Miller
-      given: Keishawna
-  citation-key: Miller2020
-  issued:
-    - year: 2020
-  language: en
-  source: Zotero
-  title: 2020 Survey on Lawyer Discipline Systems (SOLD)
-  type: article-journal
-
-- id: Miller2021
-  author:
-    - family: Miller
-      given: Keishawna
-  citation-key: Miller2021
-  issued:
-    - year: 2021
-  language: en
-  source: Zotero
-  title: 2021 Survey on Lawyer Discipline Systems (SOLD)
-  type: article-journal
-
 - id: Albrecht2023
   abstract: >-
     Colleges and universities are legally required to attempt to prevent and
@@ -22984,28 +22671,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.3102/01623737221113576
   volume: '45'
-
-- id: Journal_nd
-  abstract: >-
-    The ABA Journal is read by half of the nation's 1 million lawyers every
-    month. It covers the trends, people and finances of the legal profession
-    from Wall Street to Main Street to Pennsylvania Avenue.
-  accessed:
-    - year: 2024
-      month: 2
-      day: 12
-  author:
-    - family: Journal
-      given: A. B. A.
-  citation-key: Journal_nd
-  container-title: ABA Journal
-  language: en
-  title: >-
-    Using data, law prof finds many disciplined lawyers represent consumers—with
-    no oversight
-  type: webpage
-  URL: >-
-    https://www.abajournal.com/web/article/using-data-law-prof-finds-many-disciplined-lawyers-represent-consumers-with-no-oversight
 
 - id: Rozema2023
   abstract: >-
@@ -23654,48 +23319,7 @@ references:
   page: '1065'
   title: Animal Legal Defense Fund v. Reynolds
   type: legal_case
-  URL: >-
-    https://scholar.google.com/scholar_case?case=1905269866144960239&q=Animal+Legal+Defense+Fund+v+Reynolds&hl=en&as_sdt=3,34
   volume: '89'
-
-- id: ProfessionalResponsibilityPandemic_nd
-  accessed:
-    - year: 2024
-      month: 2
-      day: 28
-  citation-key: ProfessionalResponsibilityPandemic_nd
-  title: Professional Responsibility in a Pandemic | North Carolina State Bar
-  type: webpage
-  URL: >-
-    https://www.ncbar.gov/for-lawyers/ethics/ethics-articles/professional-responsibility-in-a-pandemic/
-
-- id: LawyerSufferingPandemic_nd
-  accessed:
-    - year: 2024
-      month: 2
-      day: 28
-  citation-key: LawyerSufferingPandemic_nd
-  title: >-
-    Lawyer suffering from pandemic stress censured for accessing judge's
-    computer, changing clerk's time card
-  type: webpage
-  URL: >-
-    https://www.abajournal.com/news/article/lawyer-censured-for-accessing-judges-computer-changing-clerks-time-card-during-pandemic-stress
-
-- id: Mass.BoardofBarOverseersn.d.
-  accessed:
-    - year: 2024
-      month: 2
-      day: 28
-  author:
-    - family: Mass. Board of Bar Overseers
-      given: ''
-  citation-key: Mass.BoardofBarOverseersn.d.
-  issued:
-    - literal: n.d.
-  title: Legal Ethics During the COVID-19 Pandemic
-  type: document
-  URL: https://bbopublic.blob.core.windows.net/web/f/OBC-OGC-COVID-FAQs.pdf
 
 - id: Zavieh2023
   accessed:
@@ -23748,14 +23372,19 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/gslr39&i=576
   volume: '39'
 
-- id: Hauptman_nd
+- id: Hauptman2021
   author:
     - family: Hauptman
       given: William D
     - family: Beckwith
       given: Kendr A N
-  citation-key: Hauptman_nd
+  citation-key: Hauptman2021
+  container-title: Colorado Lawyer
+  issued:
+    - year: 2021
+      month: 7
   language: en
+  page: 40-48
   source: Zotero
   title: The Duty of Competence in the New Normal
   type: article-journal
@@ -23926,7 +23555,7 @@ references:
   title: >-
     Can Private Employees Be Fired for Out-of-Office Political Speech? - New
     York State Bar Association
-  type: webpage
+  type: post-weblog
   URL: >-
     https://nysba.org/can-private-employees-be-fired-for-out-of-office-political-speech/#_ednref17
 
@@ -23947,7 +23576,7 @@ references:
   title: >-
     Doxxing campaigns are a cancel culture tool. What happens after they end? :
     NPR
-  type: webpage
+  type: post-weblog
   URL: >-
     https://www.npr.org/2024/04/11/1231084790/israel-kidnapped-posters-tore-down-doxxed
 
@@ -24329,7 +23958,7 @@ references:
   language: en-US
   title: 'Was it something I said?: Legal protections for employee speech'
   title-short: Was it something I said?
-  type: webpage
+  type: post-weblog
   URL: https://www.epi.org/unequalpower/publications/free-speech-in-the-workplace/
 
 - id: Miles2009
@@ -24673,7 +24302,7 @@ references:
       day: 13
   language: en-US
   title: Legal Resources for Activists Advocating for Palestine Across the U.S.
-  type: webpage
+  type: post-weblog
   URL: >-
     https://palestinelegal.org/news/2023/10/12/resources-for-advocating-for-palestine-across-us
 
@@ -26378,7 +26007,7 @@ references:
   URL: https://papers.ssrn.com/abstract=4321943
   volume: '112'
 
-- id: WhenLawyersAttack2024
+- id: Cummings2024a
   abstract: >-
     While scholars have recently highlighted the role of law in democratic
     backsliding, they have largely ignored the actors who wield this tool:
@@ -26387,7 +26016,10 @@ references:
     - year: 2025
       month: 1
       day: 24
-  citation-key: WhenLawyersAttack2024
+  author:
+    - family: Cummings
+      given: Scott
+  citation-key: Cummings2024a
   container-title: LPE Project
   issued:
     - year: 2024
@@ -26395,7 +26027,7 @@ references:
       day: 20
   language: en-US
   title: When Lawyers Attack the Rule of Law
-  type: webpage
+  type: post-weblog
   URL: https://lpeproject.org/blog/when-lawyers-attack-the-rule-of-law/
 
 - id: MovementLawLab_nd
@@ -27232,7 +26864,7 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/cunyform22&i=1
   volume: '22'
 
-- id: CarlSchmittsComeback2021
+- id: Scheuerman2021
   abstract: >-
     William E. Scheuerman is Professor of Political Science at Indiana
     University. Endnotes 1 Carl Schmitt: The End of Law (London: Rowman &
@@ -27244,7 +26876,10 @@ references:
     - year: 2025
       month: 4
       day: 18
-  citation-key: CarlSchmittsComeback2021
+  author:
+    - family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2021
   container-title: Democracy Seminar - Democracy Seminar
   issued:
     - year: 2021
@@ -27253,7 +26888,7 @@ references:
   language: en-US
   title: Carl Schmitt’s Comeback? - Democracy Seminar
   title-short: Carl Schmitt’s Comeback?
-  type: webpage
+  type: post-weblog
   URL: https://democracyseminar.newschool.org/essays/carl-schmitts-comeback/
 
 - id: Grimshaw2020
@@ -28748,29 +28383,6 @@ references:
   URL: >-
     https://www.c-span.org/program/public-affairs-event/georgetown-university-discussion-on-the-rule-of-law-and-democracy-around-the-globe/655494
 
-- id: Cummings2024a
-  abstract: >-
-    While scholars have recently highlighted the role of law in democratic
-    backsliding, they have largely ignored the actors who wield this tool:
-    lawyers. Yet as the guardians of the legal legitimacy upon…
-  accessed:
-    - year: 2025
-      month: 5
-      day: 8
-  author:
-    - family: Cummings
-      given: Scott
-  citation-key: Cummings2024a
-  container-title: LPE Project
-  issued:
-    - year: 2024
-      month: 6
-      day: 20
-  language: en-US
-  title: When Lawyers Attack the Rule of Law
-  type: post-weblog
-  URL: https://lpeproject.org/blog/when-lawyers-attack-the-rule-of-law/
-
 - id: Cummings2025a
   abstract: >-
     President Donald Trump’s recent speech to the Department of Justice was
@@ -29520,7 +29132,7 @@ references:
       day: 2
   language: en-US
   title: Trump Allies Sue John Roberts To Give White House Control Of Court System
-  type: webpage
+  type: post-weblog
   URL: >-
     https://talkingpointsmemo.com/news/trump-allies-sue-john-roberts-to-give-white-house-control-of-court-system
 
@@ -30058,4 +29670,380 @@ references:
   URL: >-
     https://www-jstor-org.elon.idm.oclc.org/stable/40380327?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Ae34f057fafb5e55263995e404d516c07&initiator=recommender&seq=1
   volume: '110'
+
+- id: Whistler_nd
+  author:
+    - family: Whistler
+      given: Alexander S
+  citation-key: Whistler_nd
+  language: en
+  source: Zotero
+  title: >-
+    LLaabboorr LLaaww’’ss PPrreeeemmppttiioonn PPrroobblleemm:: GGllaacciieerr
+    NNoorrtthhwweesstt aanndd WWhhaatt tthhee FFaattee ooff GGaarrmmoonn
+    MMeeaannss ffoorr AAmmeerriiccaann WWoorrkkeerrss
+  type: article-journal
+
+- id: Whistler2024
+  author:
+    - family: Whistler
+      given: Alexander S
+  citation-key: Whistler2024
+  container-title: UC Law Journal
+  issue: '3'
+  issued:
+    - year: 2024
+  language: en
+  page: '853'
+  source: Zotero
+  title: >-
+    Labor Law’s Preemption Problem: Glacier Northwest and What the Fate of
+    Garmon Means for American Workers
+  type: article-journal
+  volume: '73'
+
+- id: DavisBenihanaInc2025
+  authority: D.N.J.
+  citation-key: DavisBenihanaInc2025
+  container-title: F.Supp.3d
+  issued:
+    - year: 2025
+      month: 2
+      day: 20
+  number: Civ. No. 24-6569 (RMB-SAK)
+  page: '524'
+  title: Davis v. Benihana, Inc.
+  type: legal_case
+  volume: '772'
+
+- id: JuniusScales19202002_nd
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  citation-key: JuniusScales19202002_nd
+  title: >-
+    Junius Scales (1920-2002) · Jewish Life at Carolina · Carolina Story:
+    Virtual Museum of University History
+  type: webpage
+  URL: https://museum.unc.edu/exhibits/show/jewishlife/junius-scales--1920-2002-
+
+- id: Scales2005
+  abstract: >-
+    On November 18, 1954, Junius Irving Scales, the Communist Party district
+    organizer for the upper South, was arrested on a quiet Memphis street by FBI
+    agents. Charged with violation of the Smith Act of 1940, Scales spent the
+    next six years ensnared in a legal system that was in thrall to a daunting
+    force: McCarthyism. Scales’s case twice reached the U.S. Supreme Court;
+    ultimately, his lower-court guilty verdict was upheld. Scales served fifteen
+    months in Lewisburg Penitentiary before his six-year sentence was commuted
+    by President Kennedy in 1962.
+
+
+    Cause at Heart follows Scales from his privileged southern upbringing
+    through the awakening of his social conscience, his civil- and labor- rights
+    work for the Party across the South, his arrest and trials, his
+    disillusionment with the Party, and his time in prison. Even behind bars
+    Scales refused to cooperate with his prosecutors, to “name names.” In their
+    foreword, Vernon Burton and James Barrett draw chilling parallels between
+    the Smith Act, the legal grounds on which Scales was convicted, and
+    contemporary restrictions on individual rights such as the Patriot Act.
+    Today, as it did sixty-plus years ago, “Congress has radically expanded the
+    description of what constitutes a threat to the U.S. government.”
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  author:
+    - family: Scales
+      given: Junius Irving
+    - family: Nickson
+      given: Richard
+  citation-key: Scales2005
+  issued:
+    - year: 2005
+  language: en-US
+  publisher: University of Georgia Press
+  title: 'Cause at Heart: A Former Communist Remembers'
+  type: book
+  URL: https://www.ugapress.org/9780820327853/cause-at-heart/
+
+- id: ScalesUS1961
+  authority: Supreme Court
+  citation-key: ScalesUS1961
+  container-title: US
+  issued:
+    - year: 1961
+  page: '203'
+  title: Scales v. U.S.
+  type: legal_case
+  volume: '367'
+
+- id: ScalesUS1958
+  authority: 4th Circuit
+  citation-key: ScalesUS1958
+  container-title: F. 2d
+  issued:
+    - year: 1958
+  page: '21'
+  title: Scales v. U.S.
+  type: legal_case
+  volume: '260'
+
+- id: JuniusIrvingScales_nd
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  citation-key: JuniusIrvingScales_nd
+  title: Junius Irving Scales Papers, 1940-1987
+  type: webpage
+  URL: https://finding-aids.lib.unc.edu/catalog/04879
+
+- id: JuniusScales_nd
+  abstract: >-
+    "There was tremendous resentment from generations from mistreatment. Most of
+    the black women leaders, at least up until the time of the union, had never
+    had an encounter with a white person that wasn't painful, humiliating or
+    worse. So trying to get this across to white guys who were from the North, a
+    lot of them, from outside the area, it was one hell of a thing."
+
+    - Junius Scales
+
+    Born in Greensboro in 1920, Scales moved with his family to Chapel Hill in
+    1936 where he completed his senior year…
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  citation-key: JuniusScales_nd
+  note: >-
+    Context Object:
+    ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rfr_id=info%3Asid%2Fomeka.org%3Agenerator&rft.subject=Scales%2C+Junius&rft.description=%22There+was+tremendous+resentment+from+generations+from+mistreatment.+Most+of+the+black+women+leaders%2C+at+least+up+until+the+time+of+the+union%2C+had+never+had+an+encounter+with+a+white+person+that+wasn%27t+painful%2C+humiliating+or+worse.+So+trying+to+get+this+across+to+white+guys+who+were+from+the+North%2C+a+lot+of+them%2C+from+outside+the+area%2C+it+was+one+hell+of+a+thing.%22%0A-+Junius+Scales%0ABorn+in+Greensboro+in+1920%2C+Scales+moved+with+his+family+to+Chapel+Hill+in+1936+where+he+completed+his+senior+year%E2%80%A6&rft.title=Junius+Scales&rft.type=Person&rft.identifier=https%3A%2F%2Fwww.fromtherockwall.org%2Fpeople%2Fjunius-scales
+  title: Junius Scales
+  type: webpage
+  URL: https://www.fromtherockwall.org/people/junius-scales
+
+- id: OralHistoryInterview_nd
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  citation-key: OralHistoryInterview_nd
+  title: Oral history interview with McNeill Smith - Civil Rights Digital Library
+  type: webpage
+  URL: https://crdl.usg.edu/record/ncgu_greensborovoices_jmsmith-int
+
+- id: T.1962
+  abstract: >-
+    The infamous “membership clause” of the Smith Act makes it a criminal
+    offense to be a “knowing” member of any organization which “advocates” the
+    violent overthrow of the government. Evidence of specific actions aimed at
+    revolution is not required for …
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  author:
+    - family: T.
+      given: S.
+  citation-key: T.1962
+  container-title: Dissent Magazine
+  issued:
+    - year: 1962
+      season: 1
+  title: The Case of Junius Scales
+  type: article-magazine
+  URL: https://www.dissentmagazine.org/article/the-case-of-junius-scales/
+
+- id: IndictmentUSJunius1954
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  citation-key: IndictmentUSJunius1954
+  issued:
+    - year: 1954
+      month: 11
+      day: 18
+  title: Indictment, U.S. v. Junius Irving Scales
+  type: document
+  URL: >-
+    https://www.archives.gov/exhibits/documented-rights/exhibit/section4/detail/scales-indictment-transcript.html
+
+- id: Robinson2002
+  abstract: >-
+    In a time long ago and in a place beneath your feet, a notable person came
+    to his sisters’ and brothers’ aid during a time of censorship and
+    repression. That man was Junius Scales, that place was Chapel Hill, and that
+    time was the late 1930s to the early 1950s. Scales was a communist when […]
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  author:
+    - family: Robinson
+      given: Matt
+  citation-key: Robinson2002
+  container-title: INDY Week
+  issued:
+    - year: 2002
+      month: 8
+      day: 14
+  language: en-US
+  title: Junius Irving Scales, 1920-2002
+  type: post-weblog
+  URL: http://indyweek.com/news/archives-news/junius-irving-scales/
+
+- id: Cobden1990
+  author:
+    - family: Cobden
+      given: Sandra
+    - family: Rogers
+      given: James
+    - family: Rudenstine
+      given: David
+  citation-key: Cobden1990
+  container-title: Cardozo Law Review
+  ISSN: 2169-4893
+  issue: '4'
+  issued:
+    - year: 1990
+      month: 5
+      day: 1
+  page: 791-802
+  source: COinS
+  title: 'Imprisoned for Membership: The Junius Scales Case'
+  title-short: Imprisoned for Membership
+  type: article-journal
+  URL: https://larc.cardozo.yu.edu/clr/vol11/iss4/3
+  volume: '11'
+
+- id: Friedman2009
+  abstract: >-
+    One of the few publicly known communists in the South, Junius Scales
+    organized textile workers, fought segregation, and was the only American to
+    be imprisoned under the membership clause of the Smith Act during the
+    McCarthy years. This compact collective memoir, built on three
+    interconnected oral histories and including a historical essay by Gail
+    O'Brien, covers Scales's organizing activities and work against racism in
+    the South, his progressive disillusionment with Party bureaucracy and
+    dogmatic rigidity, his persecution and imprisonment, as well as his family's
+    radicalism and response to FBI hounding and blacklisting.Through the
+    distinct perspectives of Junius, his wife Gladys, and his daughter Barbara,
+    this book deepens and personalizes the story of American radicalism.
+    Conversational, intimate, and exceptionally accessible, A Red Family offers
+    a unique look at the American communist experience from the inside out.
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  author:
+    - family: Friedman
+      given: Mickey
+  citation-key: Friedman2009
+  issued:
+    - year: 2009
+  language: en
+  publisher: University of Illinois Press
+  title: 'A Red Family: Junius, Gladys, and Barbara Scales'
+  type: book
+  URL: https://www.press.uillinois.edu/books/?id=p076046
+
+- id: Sheft1992
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  author:
+    - family: Sheft
+      given: Mark A.
+  citation-key: Sheft1992
+  container-title: American Journal of Legal History
+  issue: '2'
+  issued:
+    - year: 1992
+  page: 164-202
+  title: >-
+    The End of the Smith Act Era: A Legal and Historical Analysis of Scales v.
+    United States on JSTOR
+  type: article-journal
+  URL: >-
+    https://www-jstor-org.elon.idm.oclc.org/stable/845856?searchText=%22Junius%20Scales%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Junius%2520Scales%2522%26so%3Drel&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3A72400dd89c30dbe87755fb7482cb6b40&seq=1
+  volume: '36'
+
+- id: Proyect_nd
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  author:
+    - family: Proyect
+      given: Louis
+  citation-key: Proyect_nd
+  title: Junius Scales (by L. Proyect)
+  type: webpage
+  URL: https://www.columbia.edu/~lnp3/mydocs/american_left/scales.htm
+
+- id: CrimesClaudeLightfoot_nd
+  citation-key: CrimesClaudeLightfoot_nd
+  language: en
+  source: Zotero
+  title: The "Crimes" of Claude Lightfoot and Junius Scales, 1955
+  type: article-journal
+
+- id: CrimesClauseLightfoot1955
+  citation-key: CrimesClauseLightfoot1955
+  issued:
+    - year: 1955
+  publisher: Civil Rights Congress
+  title: The "Crimes" of Clause Lightfoot and Junius Scales
+  type: document
+  URL: https://www.crmvet.org/docs/55_crc_lightfoot.pdf
+
+- id: RedFamily_nd
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  citation-key: RedFamily_nd
+  title: A Red Family
+  type: webpage
+  URL: https://aredfamily.com/
+
+- id: Coryell1996
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  author:
+    - family: Coryell
+      given: Holly
+  citation-key: Coryell1996
+  container-title: The Seattle Times
+  event-place: Seattle, Washington
+  issued:
+    - year: 1996
+      month: 9
+      day: 1
+  publisher-place: Seattle, Washington
+  title: >-
+    An Old Communist Ponders Life As A Red Menace -- Scales Worked In The South
+    For Rights Of Blacks
+  type: article-newspaper
+  URL: >-
+    https://archive.seattletimes.com/archive/19960901/2347082/an-old-communist-ponders-life-as-a-red-menace----scales-worked-in-the-south-for-rights-of-blacks
+
+- id: FelixLucentTechnologies2004
+  authority: 10th Cir.
+  citation-key: FelixLucentTechnologies2004
+  container-title: F. 3d
+  issued:
+    - year: 2004
+      month: 10
+      day: 26
+  page: '1146'
+  title: Felix v. Lucent Technologies, Inc.
+  type: legal_case
+  volume: '387'
 ...
