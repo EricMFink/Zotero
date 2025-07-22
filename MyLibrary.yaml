@@ -30046,4 +30046,23 @@ references:
   title: Felix v. Lucent Technologies, Inc.
   type: legal_case
   volume: '387'
+
+- id: NLRBWhiteOak2011
+  accessed:
+    - year: 2025
+      month: 7
+      day: 22
+  authority: 4th Cir.
+  citation-key: NLRBWhiteOak2011
+  container-title: Fed.Appx.
+  issued:
+    - year: 2011
+  number: No. 10-2122
+  page: '374'
+  references: enforcing 355 NLRB 1280 (2010)
+  title: N.L.R.B. v. White Oak Manor
+  type: legal_case
+  URL: >-
+    https://scholar-google-com.elon.idm.oclc.org/scholar_case?case=13876650638072932902&q=white+oak+manor+v+nlrb&hl=en&as_sdt=6,36
+  volume: '452'
 ...
