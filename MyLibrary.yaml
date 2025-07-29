@@ -189,24 +189,6 @@ references:
   type: legal_case
   volume: '321'
 
-- id: Spasser2013
-  author:
-    - family: Spasser
-      given: Alison
-  citation-key: Spasser2013
-  event-place: San Francisco, CA
-  genre: Master’s Thesis
-  issued:
-    - year: 2013
-  publisher: University of San Francisco
-  publisher-place: San Francisco, CA
-  title: >-
-    Winning Hearts and Minds: Using “Ag-Gag” Outrage and Corporate Rebranding to
-    Achieve a Public Image Makeover for the Animal Rights Movement
-  title-short: Winning Hearts & Minds
-  type: thesis
-  URL: http://repository.usfca.edu/capstone/4
-
 - id: PETAvStein2018-4thCir
   authority: 4th Cir.
   citation-key: PETAvStein2018-4thCir
@@ -222,29 +204,6 @@ references:
   title-short: PETA v. Stein
   type: legal_case
   volume: '737'
-
-- id: Kazaglis2015
-  accessed:
-    - year: 2018
-      month: 12
-      day: 24
-  author:
-    - family: Kazaglis
-      given: Ted Nick
-  citation-key: Kazaglis2015
-  container-title: Jackson Lewis
-  issued:
-    - year: 2015
-      month: 7
-      day: 16
-  language: en
-  title: >-
-    North Carolina Reinforces Property Protection Law, Giving Employers Right to
-    Sue
-  title-short: NC Property Protection Law
-  type: post-weblog
-  URL: >-
-    https://www.jacksonlewis.com/publication/north-carolina-reinforces-property-protection-law-giving-employers-right-sue
 
 - id: FluorDanielInc1993
   authority: N.L.R.B.
@@ -443,26 +402,6 @@ references:
   title: '"Salting": A Fair Organizing Strategy or a Negarious Tactic?'
   type: article-journal
   volume: '37'
-
-- id: Fletcher2015
-  accessed:
-    - year: 2019
-      month: 1
-      day: 9
-  author:
-    - family: Fletcher
-      given: Ryan
-  citation-key: Fletcher2015
-  container-title: Fair World Project
-  issued:
-    - year: 2015
-      month: 2
-      day: 19
-  language: en-US
-  title: 'Ag-Gag Laws: A Threat to Us All'
-  title-short: Ag-Gag Laws
-  type: post-weblog
-  URL: https://fairworldproject.org/ag-gag-laws-a-threat-to-us-all/
 
 - id: CenterforConstitutionalRights2017
   author:
@@ -1821,7 +1760,7 @@ references:
   language: en
   title: Anti-whistleblower (“Ag-Gag”) Legislation
   type: post-weblog
-  URL: https://awionline.org/content/anti-whistleblower-legislation
+  URL: https://awionline.org/content/anti-whistleblower-ag-gag-legislation
 
 - id: SullivanLongHagerty1991
   authority: N.L.R.B.
@@ -1993,28 +1932,6 @@ references:
   URL: >-
     https://vjel.vermontlaw.edu/wyomings-data-trespass-laws-trample-first-amendment-rights-preview
 
-- id: kurtzWyomingFederalCourt2016
-  accessed:
-    - year: 2023
-      month: 3
-      day: 1
-  author:
-    - family: Kurtz
-      given: Lauren
-  citation-key: kurtzWyomingFederalCourt2016
-  container-title: Climate Law Blog
-  issued:
-    - year: 2016
-      month: 7
-      day: 28
-  language: en-US
-  title: >-
-    Wyoming Federal Court Upholds Law Criminalizing “Unlawful Collection of
-    Resource Data”
-  type: post-weblog
-  URL: >-
-    https://blogs.law.columbia.edu/climatechange/2016/07/28/wy-federal-court-upholds-law-criminalizing-resource-data-collection/
-
 - id: Sorg2023a
   accessed:
     - year: 2023
@@ -2078,7 +1995,7 @@ references:
   citation-key: ALEC-AnimalTerrorism2003
   issued:
     - year: 2003
-  title: Animal & Ecological Terrorism in America
+  title: Animal and Ecological Terrorism in America
   type: document
 
 - id: Damm2020
@@ -20797,7 +20714,7 @@ references:
   volume: '372'
 
 - id: PETAvNCFarmBureau2023
-  authority: US:C4
+  authority: 4th Cir.
   citation-key: PETAvNCFarmBureau2023
   container-title: F.4th
   issued:
@@ -20805,7 +20722,7 @@ references:
       month: 2
       day: 23
   page: '815'
-  title: Peta v. North Carolina Farm Bureau Federation
+  title: PETA v. North Carolina Farm Bureau Federation
   type: legal_case
   volume: '60'
 
@@ -30065,4 +29982,223 @@ references:
   URL: >-
     https://scholar-google-com.elon.idm.oclc.org/scholar_case?case=13876650638072932902&q=white+oak+manor+v+nlrb&hl=en&as_sdt=6,36
   volume: '452'
+
+- id: Wright2024
+  author:
+    - family: Wright
+      given: R. George
+  citation-key: Wright2024
+  container-title: Drake Law Review
+  container-title-short: Drake L. Rev.
+  issued:
+    - year: 2024
+    - year: 2025
+  page: '642'
+  source: COinS
+  title: >-
+    Slightly More than Two Cheers for Sneaky Private Investigations into
+    Questionable Business Operations
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/drklr71&id=666&div=&collection=
+  volume: '71'
+
+- id: Crocker2022
+  author:
+    - family: Crocker
+      given: Christian J.
+  citation-key: Crocker2022
+  container-title: Drake Journal of Agricultural Law
+  container-title-short: Drake J. Agric. L.
+  issued:
+    - year: 2022
+  page: '431'
+  source: COinS
+  title: 'Farm to Tabling Free Speech: The First Amendment & Ag-Gag Law'
+  title-short: Farm to Tabling Free Speech
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/dragl27&id=455&div=&collection=
+  volume: '27'
+
+- id: Regenstreif2022
+  author:
+    - family: Regenstreif
+      given: Claire
+  citation-key: Regenstreif2022
+  container-title: Journal of Environmental Law and Litigation
+  container-title-short: J. Env't L. & Litig.
+  issued:
+    - year: 2022
+  page: '249'
+  source: COinS
+  title: Animal Agricultural Exceptionalism in the 21st Century
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/jenvll37&id=250&div=&collection=
+  volume: '37'
+
+- id: Cooley2019
+  author:
+    - family: Cooley
+      given: Tara
+  citation-key: Cooley2019
+  container-title: Golden Gate University Law Review
+  container-title-short: Golden Gate U. L. Rev.
+  issued:
+    - year: 2019
+  page: '91'
+  source: COinS
+  title: >-
+    Gagged by Big Ag: Whistleblower Silencing Bill Threatens the Employee's
+    Right to Uncover Workplace Wrongdoing
+  title-short: Gagged by Big Ag
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/ggulr49&id=137&div=&collection=
+  volume: '49'
+
+- id: Schipani2016
+  author:
+    - family: Schipani
+      given: Cindy A.
+    - family: Milliken
+      given: Frances J.
+    - family: Dworkin
+      given: Terry Morehead
+  citation-key: Schipani2016
+  container-title: University of Pennsylvania Journal of Business Law
+  container-title-short: U. Pa. J. Bus. L.
+  issued:
+    - year: 2016
+    - year: 2017
+  page: '979'
+  source: COinS
+  title: >-
+    The Impact of Employment Law and Practices on Business and Society: The
+    Significance of Worker Voice
+  title-short: The Impact of Employment Law and Practices on Business and Society
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/upjlel19&id=995&div=&collection=
+  volume: '19'
+
+- id: Ligon2024
+  author:
+    - family: Ligon
+      given: Nicole J.
+  citation-key: Ligon2024
+  container-title: Penn State Law Review
+  container-title-short: Penn St. L. Rev.
+  issued:
+    - year: 2024
+    - year: 2025
+  page: '547'
+  source: COinS
+  title: In Support of Free Speech on Food Production
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/dlr129&id=563&div=&collection=
+  volume: '129'
+
+- id: French2019
+  author:
+    - family: French
+      given: Sarah M.
+  citation-key: French2019
+  container-title: First Amendment Law Review
+  container-title-short: First Amend. L. Rev.
+  issued:
+    - year: 2019
+    - year: 2020
+  page: '167'
+  source: COinS
+  title: >-
+    The Unaddressed Force of the First Amendment's Petition Clause Underlying
+    Evolving and Expanding Ag-Gag Legislation
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/falr18&id=584&div=&collection=
+  volume: '18'
+
+- id: Rosenfeld2021
+  abstract: >-
+    This study analyzes the discourse of consumer-citizens who oppose ag-gag
+    legislation, specifically North Carolina’s House Bill 405 (HB405), and
+    considers how cyber activism (e.g. signing an online petition) offers
+    insight into consumer-citizens’ perspectives. It situates HB405 and the
+    bill’s opposition within the larger context of concentrated animal feeding
+    operations, the global trade of meat, undercover animal activist
+    investigations, and state legislation affecting undercover investigations.
+    Critical discourse analysis of the 8000 comments signers added to a
+    Change.org petition opposing HB405 revealed three general themes: (1)
+    application of the logic of post 9/11 citizen surveillance to their
+    opposition to ag-gag, (2) description of a moral right to know about the
+    practices of industrial animal agriculture, and (3) an understanding of how
+    the effects of HB405 transcended the boundaries of the state that sought to
+    adopt the legislation. These findings have implications for both research on
+    cyber activism and strategies for advocacy efforts.
+  accessed:
+    - year: 2025
+      month: 7
+      day: 23
+  author:
+    - family: Rosenfeld
+      given: Cynthia
+  citation-key: Rosenfeld2021
+  container-title: Journal of Applied Communication Research
+  DOI: 10.1080/00909882.2021.1965185
+  ISSN: 0090-9882
+  issue: '5'
+  issued:
+    - year: 2021
+      month: 9
+      day: 3
+  page: 515-531
+  publisher: NCA Website
+  source: Taylor and Francis+NEJM
+  title: >-
+    Do you hear the people sign?: A critical discourse analysis of comments on a
+    2015 online petition opposing North Carolina’s ag-gag law
+  title-short: Do you hear the people sign?
+  type: article-journal
+  URL: https://doi.org/10.1080/00909882.2021.1965185
+  volume: '49'
+
+- id: Derron2022
+  author:
+    - family: Derron
+      given: Anthony B.
+  citation-key: Derron2022
+  container-title: Georgetown Environmental Law Review
+  container-title-short: Geo. Env't L. Rev.
+  issued:
+    - year: 2022
+    - year: 2023
+  page: '1'
+  source: COinS
+  title: 'Trespass Plus: Ag-Gag and the Right to Exclude'
+  title-short: Trespass Plus
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/gintenlr35&id=6&div=&collection=
+  volume: '35'
+
+- id: Sanders2022
+  author:
+    - family: Sanders
+      given: Shaakirrah R.
+  citation-key: Sanders2022
+  container-title: Washington and Lee Law Review
+  container-title-short: Wash. & Lee L. Rev.
+  issued:
+    - year: 2022
+    - year: 2023
+  page: '1715'
+  source: COinS
+  title: Gag with Malice
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/waslee79&id=1698&div=&collection=
+  volume: '79'
 ...
