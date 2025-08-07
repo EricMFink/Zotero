@@ -30201,4 +30201,193 @@ references:
   URL: >-
     https://heinonline.org/HOL/Page?handle=hein.journals/waslee79&id=1698&div=&collection=
   volume: '79'
+
+- id: Kafka1915
+  author:
+    - family: Kafka
+      given: Franz
+  citation-key: Kafka1915
+  issued:
+    - year: 1915
+  title: Before the Law
+  translator:
+    - family: Johnston
+      given: Ian
+  type: manuscript
+  URL: https://www.kafka-online.info/before-the-law.html
+
+- id: Dickens2003
+  abstract: "Charles Dickens's masterful assault on the injustices of the British legal systemAs the interminable case of 'Jarndyce and Jarndyce' grinds its way through the Court of Chancery, it draws together a disparate group of people: Ada and Richard Clare, whose inheritance is gradually being devoured by legal costs; Esther Summerson, a ward of court, whose parentage is a source of deepening mystery; the menacing lawyer Tulkinghorn; the determined sleuth Inspector Bucket; and even Jo, the destitute little crossing-sweeper. A savage, but often comic, indictment of a society that is rotten to the core, Bleak House is one of Dickens's most ambitious novels, with a range that extends from the drawing rooms of the aristocracy to the poorest of London slums. This edition follows the first book edition of 1853, and includes all the original illustrations by 'Phiz', as well as appendices on the Chancery and spontaneous combustion. In his preface, Terry Eagleton examines characterisation and considers Bleak House as an early work of detective fiction.\_For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700\_titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the\_series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date\_translations by award-winning translators."
+  author:
+    - family: Dickens
+      given: Charles
+  citation-key: Dickens2003
+  event-place: London New York
+  ISBN: 978-0-14-143972-3
+  issued:
+    - year: 2003
+  language: English
+  number-of-pages: '1036'
+  publisher: Penguin Classics
+  publisher-place: London New York
+  title: Bleak House
+  type: book
+
+- id: aousc_nd
+  citation-key: aousc_nd
+  publisher: Administrative Office of the U.S. Courts
+  title: Understanding the Federal Courts
+  type: document
+  URL: >-
+    https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf
+
+- id: Felstiner1980
+  author:
+    - family: Felstiner
+      given: William LF
+    - family: Abel
+      given: Richard L
+    - family: Sarat
+      given: Austin
+  citation-key: Felstiner1980
+  container-title: Law & Society Review
+  issued:
+    - year: 1980
+  page: '631'
+  title: 'The emergence and transformation of disputes: Naming, blaming, claiming…'
+  type: article-journal
+  volume: '15'
+
+- id: BurdineMetropolitanDirect2018
+  authority: E.D. Ky.
+  citation-key: BurdineMetropolitanDirect2018
+  issued:
+    - year: 2018
+      month: 11
+      day: 1
+  number: 3:17-cv-00093-GFVT
+  title: Burdine v. Metropolitan Direct Property and Casualty Ins. Co.
+  type: legal_case
+
+- id: MosleyGeneralMotors1980
+  authority: E.D. Mo.
+  citation-key: MosleyGeneralMotors1980
+  container-title: F. Supp.
+  issued:
+    - year: 1980
+      month: 9
+      day: 30
+  jurisdiction: ED Missouri
+  page: '583'
+  title: Mosley v. General Motors Corp.
+  type: legal_case
+  volume: '497'
+
+- id: JonesFordMotor2004
+  authority: 2nd Cir.
+  citation-key: JonesFordMotor2004
+  container-title: F. 3d
+  issued:
+    - year: 2004
+      month: 2
+      day: 5
+  page: '205'
+  title: Jones v. Ford Motor Credit Co.
+  type: legal_case
+  volume: '358'
+
+- id: GinwrightExeterFinance2017
+  authority: D. Md.
+  citation-key: GinwrightExeterFinance2017
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2017
+      month: 11
+      day: 28
+  jurisdiction: D. Maryland
+  page: '674'
+  title: Ginwright v. Exeter Finance Corp.
+  type: legal_case
+  volume: '280'
+
+- id: PaceTimmermannsRanch2014
+  authority: 7th Cir.
+  citation-key: PaceTimmermannsRanch2014
+  container-title: F. 3d
+  issued:
+    - literal: Argued October 29, 2014
+  page: '748'
+  title: Pace v. Timmermann's Ranch and Saddle Shop Inc.
+  type: legal_case
+  volume: '795'
+
+- id: KirkcaldyRichmondCounty2002
+  authority: M.D.N.C.
+  citation-key: KirkcaldyRichmondCounty2002
+  container-title: F.R.D.
+  issued:
+    - year: 2002
+  page: '289'
+  title: Kirkcaldy v. Richmond County Bd. of Ed
+  type: legal_case
+  volume: '212'
+
+- id: LehmanRevolutionPortfolio1999
+  authority: 1st Cir.
+  citation-key: LehmanRevolutionPortfolio1999
+  container-title: F. 3d
+  issued:
+    - year: 1999
+      month: 1
+      day: 27
+  page: '389'
+  title: Lehman v. Revolution Portfolio LLC
+  type: legal_case
+  volume: '166'
+
+- id: CamachoBaseball2013
+  authority: S.D. Cal.
+  citation-key: CamachoBaseball2013
+  issued:
+    - year: 2013
+      month: 12
+      day: 19
+  jurisdiction: SD California
+  number: Case No. 12-cv-2859-L(BGS)
+  title: Camacho v. Baseball
+  type: legal_case
+
+- id: SullivanBlakeFedexGround2020
+  authority: W.D. Pa.
+  citation-key: SullivanBlakeFedexGround2020
+  issued:
+    - year: 2020
+      month: 1
+      day: 31
+  jurisdiction: WD Pennsylvania
+  number: Civil Action No. 18-1698
+  title: Sullivan-Blake v. Fedex Ground Package System, Inc.
+  type: legal_case
+
+- id: BuckGordon2020
+  authority: 6th Cir.
+  citation-key: BuckGordon2020
+  container-title: F. 3d
+  issued:
+    - year: 2020
+  page: '219'
+  title: Buck v. Gordon
+  type: legal_case
+  volume: '959'
+
+- id: AmadorCountyCal2014
+  authority: D.C. Cir.
+  citation-key: AmadorCountyCal2014
+  container-title: F. 3d
+  issued:
+    - literal: Argued October 9, 2014
+  page: '901'
+  title: Amador County, Cal. v. Us Dept. of the Interior
+  type: legal_case
+  volume: '772'
 ...
