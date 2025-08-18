@@ -21971,15 +21971,15 @@ references:
   title: Report on Disparities in the Discipline System
   type: document
 
-- id: NorthCarolinaStateBar2022
+- id: NorthCarolinaStateBar2024
   author:
     - family: North Carolina State Bar
       given: ''
-  citation-key: NorthCarolinaStateBar2022
+  citation-key: NorthCarolinaStateBar2024
   issued:
-    - year: 2022
+    - year: 2024
   publisher: North Carolina State Bar
-  title: The 2022 Lawyer's Handbook
+  title: The 2024 Lawyer's Handbook
   type: document
 
 - id: GlacierNorthwestInc2023
@@ -30210,6 +30210,7 @@ references:
   issued:
     - year: 1915
   title: Before the Law
+  title-short: Before the Law
   translator:
     - family: Johnston
       given: Ian
@@ -30217,7 +30218,6 @@ references:
   URL: https://www.kafka-online.info/before-the-law.html
 
 - id: Dickens2003
-  abstract: "Charles Dickens's masterful assault on the injustices of the British legal systemAs the interminable case of 'Jarndyce and Jarndyce' grinds its way through the Court of Chancery, it draws together a disparate group of people: Ada and Richard Clare, whose inheritance is gradually being devoured by legal costs; Esther Summerson, a ward of court, whose parentage is a source of deepening mystery; the menacing lawyer Tulkinghorn; the determined sleuth Inspector Bucket; and even Jo, the destitute little crossing-sweeper. A savage, but often comic, indictment of a society that is rotten to the core, Bleak House is one of Dickens's most ambitious novels, with a range that extends from the drawing rooms of the aristocracy to the poorest of London slums. This edition follows the first book edition of 1853, and includes all the original illustrations by 'Phiz', as well as appendices on the Chancery and spontaneous combustion. In his preface, Terry Eagleton examines characterisation and considers Bleak House as an early work of detective fiction.\_For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700\_titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the\_series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date\_translations by award-winning translators."
   author:
     - family: Dickens
       given: Charles
@@ -30232,11 +30232,17 @@ references:
   publisher-place: London New York
   title: Bleak House
   type: book
+  URL: https://standardebooks.org/ebooks/charles-dickens/bleak-house
 
 - id: aousc_nd
+  author:
+    - family: Administrative Office of the U.S. Courts
+      given: ''
   citation-key: aousc_nd
-  publisher: Administrative Office of the U.S. Courts
+  issued:
+    - literal: n.d.
   title: Understanding the Federal Courts
+  title-short: Understanding the Federal Courts
   type: document
   URL: >-
     https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf
@@ -30244,9 +30250,9 @@ references:
 - id: Felstiner1980
   author:
     - family: Felstiner
-      given: William LF
+      given: William
     - family: Abel
-      given: Richard L
+      given: Richard
     - family: Sarat
       given: Austin
   citation-key: Felstiner1980
@@ -30254,8 +30260,10 @@ references:
   issued:
     - year: 1980
   page: '631'
-  title: 'The emergence and transformation of disputes: Naming, blaming, claiming…'
+  title: 'The Emergence and Transformation of Disputes: Naming, Blaming, Claiming…'
+  title-short: The Emergence and Transformation of Disputes
   type: article-journal
+  URL: https://www.jstor.org/stable/3053505
   volume: '15'
 
 - id: BurdineMetropolitanDirect2018
@@ -30270,7 +30278,7 @@ references:
   type: legal_case
 
 - id: MosleyGeneralMotors1980
-  authority: E.D. Mo.
+  authority: E.D. Missouri
   citation-key: MosleyGeneralMotors1980
   container-title: F. Supp.
   issued:
@@ -30315,7 +30323,7 @@ references:
   citation-key: PaceTimmermannsRanch2014
   container-title: F. 3d
   issued:
-    - literal: Argued October 29, 2014
+    - year: 2014
   page: '748'
   title: Pace v. Timmermann's Ranch and Saddle Shop Inc.
   type: legal_case
@@ -30345,16 +30353,16 @@ references:
   type: legal_case
   volume: '166'
 
-- id: CamachoBaseball2013
+- id: CamachoMajorLeague2013
   authority: S.D. Cal.
-  citation-key: CamachoBaseball2013
+  citation-key: CamachoMajorLeague2013
   issued:
     - year: 2013
       month: 12
       day: 19
   jurisdiction: SD California
   number: Case No. 12-cv-2859-L(BGS)
-  title: Camacho v. Baseball
+  title: Camacho v. Major League Baseball
   type: legal_case
 
 - id: SullivanBlakeFedexGround2020
@@ -30385,9 +30393,854 @@ references:
   citation-key: AmadorCountyCal2014
   container-title: F. 3d
   issued:
-    - literal: Argued October 9, 2014
+    - year: 2014
   page: '901'
   title: Amador County, Cal. v. Us Dept. of the Interior
   type: legal_case
   volume: '772'
+
+- id: PennoyerNeff1878
+  authority: U.S.
+  citation-key: PennoyerNeff1878
+  container-title: US
+  issued:
+    - year: 1878
+  page: '714'
+  title: Pennoyer v. Neff
+  type: legal_case
+  volume: '95'
+
+- id: InternationalShoeCo1945
+  authority: U.S.
+  citation-key: InternationalShoeCo1945
+  container-title: US
+  issued:
+    - year: 1945
+  page: '310'
+  title: International Shoe Co. v. Washington
+  type: legal_case
+  volume: '326'
+
+- id: McGeeInternationalLife1957
+  authority: U.S.
+  citation-key: McGeeInternationalLife1957
+  container-title: US
+  issued:
+    - year: 1957
+  page: '220'
+  title: McGee v. International Life Ins. Co.
+  type: legal_case
+  volume: '355'
+
+- id: WorldWideVolkswagenCorp1979
+  authority: U.S.
+  citation-key: WorldWideVolkswagenCorp1979
+  container-title: US
+  issued:
+    - year: 1979
+  page: '286'
+  title: World-Wide Volkswagen Corp. v. Woodson
+  type: legal_case
+  volume: '444'
+
+- id: FordMotorCo2020
+  authority: U.S.
+  citation-key: FordMotorCo2020
+  container-title: US
+  issued:
+    - year: 2021
+  page: '351'
+  title: Ford Motor Co. v. Montana Eighth Judicial Dist. Court
+  type: legal_case
+  volume: '592'
+
+- id: JohnsonGriffin2023
+  authority: 6th Circuit
+  citation-key: JohnsonGriffin2023
+  container-title: F. 4th
+  issued:
+    - year: 2023
+  page: '429'
+  title: Johnson v. Griffin
+  type: legal_case
+  volume: '85'
+
+- id: NBAPropertiesInc2022
+  authority: 7th Circuit
+  citation-key: NBAPropertiesInc2022
+  container-title: F. 4th
+  issued:
+    - year: 2022
+  page: '614'
+  title: NBA Properties, Inc. v. Hanwjh
+  type: legal_case
+  volume: '46'
+
+- id: DaimlerAgBauman2013
+  authority: U.S.
+  citation-key: DaimlerAgBauman2013
+  container-title: US
+  issued:
+    - year: 2014
+  page: '117'
+  title: Daimler Ag v. Bauman
+  type: legal_case
+  volume: '571'
+
+- id: CarnivalCruiseLines1991
+  authority: U.S.
+  citation-key: CarnivalCruiseLines1991
+  container-title: US
+  issued:
+    - year: 1991
+  page: '585'
+  title: Carnival Cruise Lines, Inc. v. Shute
+  type: legal_case
+  volume: '499'
+
+- id: MalloryNorfolkSouthern2022
+  authority: U.S.
+  citation-key: MalloryNorfolkSouthern2022
+  container-title: US
+  issued:
+    - year: 2023
+  page: '122'
+  title: Mallory v. Norfolk Southern Ry. Co.
+  type: legal_case
+  volume: '600'
+
+- id: LouisvilleNashvilleCo1908
+  authority: U.S.
+  citation-key: LouisvilleNashvilleCo1908
+  container-title: US
+  issued:
+    - year: 1908
+  page: '149'
+  title: Louisville & Nashville R. Co. v. Mottley
+  type: legal_case
+  volume: '211'
+
+- id: OttawaTownshipBoard2017b
+  authority: N.D. Ohio
+  citation-key: OttawaTownshipBoard2017b
+  issued:
+    - year: 2017
+      month: 10
+      day: 10
+  jurisdiction: ND Ohio
+  number: Case No. 3:17CV228
+  title: Ottawa Township Board of Trustees v. New Par
+  type: legal_case
+
+- id: MineWorkersGibbs1966
+  authority: U.S.
+  citation-key: MineWorkersGibbs1966
+  container-title: US
+  issued:
+    - year: 1966
+  page: '715'
+  title: Mine Workers v. Gibbs
+  type: legal_case
+  volume: '383'
+
+- id: ExxonMobilCorp2005
+  authority: U.S.
+  citation-key: ExxonMobilCorp2005
+  container-title: US
+  issued:
+    - year: 2005
+  page: '546'
+  title: Exxon Mobil Corp. v. Allapattah Services, Inc.
+  type: legal_case
+  volume: '545'
+
+- id: HanksCoan1999
+  authority: M.D.N.C.
+  citation-key: HanksCoan1999
+  issued:
+    - year: 1999
+      month: 8
+      day: 17
+  number: 1:99CV00119
+  title: Hanks v Coan
+  type: legal_case
+
+- id: OttawaTownshipBoard2017a
+  authority: N.D. Ohio
+  citation-key: OttawaTownshipBoard2017a
+  issued:
+    - year: 2017
+      month: 7
+      day: 10
+  jurisdiction: ND Ohio
+  number: Case No. 3:17CV228
+  title: Ottawa Township Board of Trustees v. New Par
+  type: legal_case
+
+- id: CompleteBusinessSolutions2020
+  authority: E.D. Pa.
+  citation-key: CompleteBusinessSolutions2020
+  issued:
+    - year: 2020
+      month: 7
+      day: 18
+  number: 20-724
+  title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops
+  type: legal_case
+
+- id: SwiftTyson1842
+  authority: U.S.
+  citation-key: SwiftTyson1842
+  container-title: US
+  issued:
+    - year: 1842
+  page: '1'
+  title: Swift v. Tyson
+  type: legal_case
+  volume: '41'
+
+- id: ErieCoTompkins1938
+  authority: U.S.
+  citation-key: ErieCoTompkins1938
+  container-title: US
+  issued:
+    - year: 1938
+  page: '64'
+  title: Erie R. Co. v. Tompkins
+  type: legal_case
+  volume: '304'
+
+- id: ByrdBlueRidge1958
+  authority: U.S.
+  citation-key: ByrdBlueRidge1958
+  container-title: US
+  issued:
+    - year: 1958
+  page: '525'
+  title: Byrd v. Blue Ridge Rural Elec. Cooperative, Inc.
+  type: legal_case
+  volume: '356'
+
+- id: HannaPlumer1967
+  authority: U.S.
+  citation-key: HannaPlumer1967
+  container-title: US
+  issued:
+    - year: 1967
+  page: '460'
+  title: Hanna v. Plumer
+  type: legal_case
+  volume: '380'
+
+- id: DolphinKickboxingCo2020
+  authority: D. Minn.
+  citation-key: DolphinKickboxingCo2020
+  issued:
+    - year: 2020
+      month: 5
+      day: 6
+  jurisdiction: Minnesota
+  number: Case No. 19-cv-1477 (MJD/ECW)
+  title: Dolphin Kickboxing Co. v. Franchoice, Inc.
+  type: legal_case
+
+- id: DoeClintonCounty2025
+  authority: W.D. Mich.
+  citation-key: DoeClintonCounty2025
+  issued:
+    - year: 2025
+      month: 4
+      day: 28
+  number: 1:25-cv-368
+  title: Doe v. Clinton County
+  type: legal_case
+
+- id: SmithSafemarineCorp2024
+  authority: M.D. Louisiana
+  citation-key: SmithSafemarineCorp2024
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2024
+      month: 9
+      day: 18
+  jurisdiction: MD Louisiana
+  page: '687'
+  title: Smith v. Safemarine Corp.
+  type: legal_case
+  volume: '749'
+
+- id: WilliamsMitchell2024
+  authority: 4th Circuit
+  citation-key: WilliamsMitchell2024
+  container-title: F. 4th
+  issued:
+    - year: 2024
+      month: 11
+      day: 26
+  page: '85'
+  title: Williams v. Mitchell
+  type: legal_case
+  volume: '122'
+
+- id: JohnsonCricketCouncil2023
+  authority: E.D.N.C.
+  citation-key: JohnsonCricketCouncil2023
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2023
+      month: 8
+      day: 24
+  jurisdiction: North Carolina
+  page: '276'
+  title: Johnson v. Cricket Council USA, Inc.
+  type: legal_case
+  volume: '658'
+
+- id: ReisRoboticsUSA2006
+  authority: N.D. Ill.
+  citation-key: ReisRoboticsUSA2006
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2006
+      month: 11
+      day: 6
+  jurisdiction: ND Illinois
+  page: '897'
+  title: Reis Robotics USA, Inc. v. Concept Industries
+  type: legal_case
+  volume: '462'
+
+- id: ShiftletAllstateInsurance2006
+  authority: D.S.C.
+  citation-key: ShiftletAllstateInsurance2006
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2006
+      month: 8
+      day: 10
+  jurisdiction: D. South Carolina
+  page: '763'
+  title: Shiftlet v. Allstate Insurance Co.
+  type: legal_case
+  volume: '451'
+
+- id: MooreBaker1993
+  authority: 11th Circuit
+  citation-key: MooreBaker1993
+  container-title: F. 2d
+  issued:
+    - year: 1993
+      month: 4
+      day: 30
+  page: '1129'
+  title: Moore v. Baker
+  type: legal_case
+  volume: '989'
+
+- id: PalacioCitySpringfield2014
+  authority: D. Mass.
+  citation-key: PalacioCitySpringfield2014
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2014
+      month: 6
+      day: 9
+  jurisdiction: D. Massachusetts
+  page: '163'
+  title: Palacio v. City of Springfield
+  type: legal_case
+  volume: '25'
+
+- id: TurtonVirginiaDepartment2015
+  authority: E.D. Va.
+  citation-key: TurtonVirginiaDepartment2015
+  issued:
+    - year: 2015
+      month: 1
+      day: 15
+  jurisdiction: ED Virginia
+  number: Civil Action No. 3:14cv446
+  title: Turton v. Virginia Department of Education
+  type: legal_case
+
+- id: HunterEarthgrainsCo2001
+  authority: 4th Circuit
+  citation-key: HunterEarthgrainsCo2001
+  container-title: F. 3d
+  issued:
+    - year: 2001
+  page: '144'
+  title: Hunter v. Earthgrains Co. Bakery
+  type: legal_case
+  volume: '281'
+
+- id: WilliamsEstatesLlc2023
+  authority: M.D.N.C.
+  citation-key: WilliamsEstatesLlc2023
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2023
+      month: 3
+      day: 23
+  jurisdiction: MD North Carolina
+  page: '466'
+  title: Williams v. The Estates LLC
+  type: legal_case
+  volume: '663'
+
+- id: JohnsonSpencer2020
+  authority: 10th Circuit
+  citation-key: JohnsonSpencer2020
+  container-title: F. 3d
+  issued:
+    - year: 2020
+      month: 2
+      day: 13
+  page: '680'
+  title: Johnson v. Spencer
+  type: legal_case
+  volume: '950'
+
+- id: HernandezAssetAcceptance2013
+  authority: D. Colorado
+  citation-key: HernandezAssetAcceptance2013
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2013
+      month: 9
+      day: 10
+  jurisdiction: D. Colorado
+  page: '1194'
+  title: Hernandez v. Asset Acceptance, LLC
+  type: legal_case
+  volume: '970'
+
+- id: TaylorSturgell2008
+  authority: U.S.
+  citation-key: TaylorSturgell2008
+  container-title: US
+  issued:
+    - year: 2008
+  page: '880'
+  title: Taylor v. Sturgell
+  type: legal_case
+  volume: '553'
+
+- id: LeePOWEntertainment2020
+  authority: C.D. Cal.
+  citation-key: LeePOWEntertainment2020
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2020
+      month: 6
+      day: 25
+  jurisdiction: CD California
+  page: '1220'
+  title: Lee v. POW! Entertainment, Inc.
+  type: legal_case
+  volume: '468'
+
+- id: PassaroVirginia2019
+  authority: 4th Circuit
+  citation-key: PassaroVirginia2019
+  container-title: F. 3d
+  issued:
+    - year: 2019
+      month: 8
+      day: 16
+  page: '243'
+  title: Passaro v. Virginia
+  type: legal_case
+  volume: '935'
+
+- id: NationalSatelliteSports2001
+  authority: 6th Circuit
+  citation-key: NationalSatelliteSports2001
+  container-title: F. 3d
+  issued:
+    - year: 2001
+  page: '900'
+  title: National Satellite Sports, Inc. v. Eliadis, Inc.
+  type: legal_case
+  volume: '253'
+
+- id: ReNageleisen2014
+  authority: E.D. Kentucky, Bankr.
+  citation-key: ReNageleisen2014
+  container-title: BR
+  issued:
+    - year: 2014
+      month: 12
+      day: 30
+  jurisdiction: ED Kentucky
+  page: '522'
+  title: In re Nageleisen
+  type: legal_case
+  volume: '523'
+
+- id: JanjuaNeufeld2019
+  authority: 9th Circuit
+  citation-key: JanjuaNeufeld2019
+  container-title: F. 3d
+  issued:
+    - year: 2019
+      month: 8
+      day: 9
+  page: '1061'
+  title: Janjua v. Neufeld
+  type: legal_case
+  volume: '933'
+
+- id: ParklaneHosieryCo1978
+  authority: U.S.
+  citation-key: ParklaneHosieryCo1978
+  container-title: US
+  issued:
+    - year: 1978
+  page: '322'
+  title: Parklane Hosiery Co. v. Shore
+  type: legal_case
+  volume: '439'
+
+- id: Butterick2015
+  author:
+    - family: Butterick
+      given: Matthew
+  citation-key: Butterick2015
+  event-place: Houston, TX
+  ISBN: 978-1-59839-262-3
+  issued:
+    - year: 2015
+  language: English
+  number-of-pages: '240'
+  publisher: Thomson Reuters
+  publisher-place: Houston, TX
+  title: Typography for Lawyers 2nd
+  type: book
+  URL: https://typographyforlawyers.com
+
+- id: GrableSonsMetal2005
+  authority: U.S.
+  citation-key: GrableSonsMetal2005
+  container-title: US
+  issued:
+    - year: 2005
+  page: '308'
+  title: Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg.
+  type: legal_case
+  volume: '545'
+
+- id: CraneCityArlington2022
+  authority: 5th Cir.
+  citation-key: CraneCityArlington2022
+  container-title: F. 4th
+  issued:
+    - year: 2022
+      month: 9
+      day: 30
+  page: '453'
+  title: Crane v. City of Arlington, Texas
+  type: legal_case
+  volume: '50'
+
+- id: StoutVincent2018
+  accessed:
+    - year: 2025
+      month: 8
+      day: 11
+  authority: 5th Cir.
+  citation-key: StoutVincent2018
+  container-title: Fed. Appx.
+  issued:
+    - year: 2018
+  page: '468'
+  title: Stout v. Vincent
+  type: legal_case
+  volume: '717'
+
+- id: Metzler2017
+  author:
+    - family: Metzler
+      given: Jack
+  citation-key: Metzler2017
+  container-title: The Journal of Appellate Practice and Process
+  issue: '2'
+  issued:
+    - year: 2017
+      month: 10
+      day: 1
+  page: '143'
+  source: COinS
+  title: Cleaning Up Quotations
+  type: article-journal
+  URL: https://lawrepository.ualr.edu/appellatepracticeprocess/vol18/iss2/3
+  volume: '18'
+
+- id: Teton1940
+  author:
+    - family: Teton
+      given: Alfred B.
+  citation-key: Teton1940
+  container-title: Illinois Law Review
+  issued:
+    - year: 1940
+  page: '519'
+  title: The Story of Swift v. Tyson
+  type: article-journal
+  volume: '35'
+
+- id: LaPiana1986
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: LaPiana
+      given: William P.
+  citation-key: LaPiana1986
+  container-title: Suffolk University Law Review
+  container-title-short: Suffolk U. L. Rev.
+  issue: '4'
+  issued:
+    - year: 1986
+  language: eng
+  page: 771-832
+  source: HeinOnline
+  title: >-
+    Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of
+    the Idea of Law in Antebellum America
+  title-short: Swift v. Tyson and the Brooding Omnipresence in the Sky
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/sufflr20&i=801
+  volume: '20'
+
+- id: Kuhn2012
+  abstract: "A good book may have the power to change the way we see the world, but a great book actually becomes part of our daily consciousness, pervading our thinking to the point that we take it for granted, and we forget how provocative and challenging its ideas once were—and still are. The Structure of Scientific Revolutions is that kind of book. When it was first published in 1962, it was a landmark event in the history and philosophy of science. Fifty years later, it still has many lessons to teach. With The Structure of Scientific Revolutions, Kuhn challenged long-standing linear notions of scientific progress, arguing that transformative ideas don’t arise from the day-to-day, gradual process of experimentation and data accumulation but that the revolutions in science, those breakthrough moments that disrupt accepted thinking and offer unanticipated ideas, occur outside of “normal science,” as he called it. Though Kuhn was writing when physics ruled the sciences, his ideas on how scientific revolutions bring order to the anomalies that amass over time in research experiments are still instructive in our biotech age. This new edition of Kuhn’s essential work in the history of science includes an insightful introduction by Ian Hacking, which clarifies terms popularized by Kuhn, including paradigm and incommensurability, and applies Kuhn’s ideas to the science of today. Usefully keyed to the separate sections of the book, Hacking’s introduction provides important background information as well as a contemporary context. \_Newly designed, with an expanded index, this edition will be eagerly welcomed by the next generation of readers seeking to understand the history of our perspectives on science."
+  author:
+    - family: Kuhn
+      given: Thomas S.
+    - family: Hacking
+      given: Ian
+  citation-key: Kuhn2012
+  event-place: Chicago ; London
+  ISBN: 978-0-226-45812-0
+  issued:
+    - year: 2012
+  language: English
+  number-of-pages: '264'
+  publisher: University of Chicago Press
+  publisher-place: Chicago ; London
+  source: Amazon
+  title: 'The Structure of Scientific Revolutions: 50th Anniversary Edition'
+  title-short: The Structure of Scientific Revolutions
+  type: book
+  URL: https://www.google.com/books/edition/_/3eP5Y_OOuzwC?hl=en
+
+- id: Rutherglen2001
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: Rutherglen
+      given: George
+  citation-key: Rutherglen2001
+  container-title: The Supreme Court Review
+  DOI: 10.1086/scr.2001.3109692
+  ISSN: 0081-9557
+  issued:
+    - year: 2001
+      month: 1
+  page: 347-374
+  publisher: The University of Chicago Press
+  source: www-journals-uchicago-edu.elon.idm.oclc.org (Atypon)
+  title: International Shoe and the Legacy of Legal Realism
+  type: article-journal
+  URL: https://www.journals.uchicago.edu/doi/abs/10.1086/scr.2001.3109692
+  volume: '2001'
+
+- id: Sawyer2001
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  author:
+    - family: Sawyer III
+      given: Logan Everett
+  citation-key: Sawyer2001
+  container-title: George Mason Law Review
+  container-title-short: Geo. Mason L. Rev.
+  issue: '1'
+  issued:
+    - year: 2001
+    - year: 2002
+  language: eng
+  page: 59-96
+  source: HeinOnline
+  title: >-
+    Jurisdiction, Jurisprudence, and Legal Change: Sociological Jurisprudence
+    and the Road to International Shoe
+  title-short: Jurisdiction, Jurisprudence, and Legal Change
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/gmlr10&i=69
+  volume: '10'
+
+- id: Marcus2009
+  author:
+    - family: Marcus
+      given: David
+  citation-key: Marcus2009
+  container-title: Ga. L. Rev.
+  container-title-short: Ga. L. Rev.
+  issued:
+    - year: 2009
+  page: '433'
+  publisher: HeinOnline
+  title: >-
+    The Federal Rules of Civil Procedure and Legal Realism as a Jurisprudence of
+    Law Reform
+  type: article-journal
+  URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583102
+  volume: '44'
+
+- id: Casto1987
+  author:
+    - family: Casto
+      given: William R
+  citation-key: Casto1987
+  container-title: Tul. L. Rev.
+  container-title-short: Tul. L. Rev.
+  issued:
+    - year: 1987
+  page: '907'
+  publisher: HeinOnline
+  title: The Erie Doctrine and the Structure of Constitutional Revolutions
+  type: article-journal
+  URL: >-
+    https://www.tulanelawreview.org/pub/volume62/issue5/the-erie-doctrine-and-the-structure-of-constitutional-revolutions-2
+  volume: '62'
+
+- id: Holmes2020
+  abstract: >-
+    The Common Law is Oliver Wendell Holmes' most sustained work of
+    jurisprudence. In it the careful reader will discern traces of his later
+    thought as found in both his legal opinions and other writings. At the
+    outset of The Common Law Holmes posits that he is concerned with
+    establishing that the common law can meet the changing needs of society
+    while preserving continuity with the past. A common law judge must be
+    creative, both in determining society's current needs and in discerning how
+    best to address these needs in a way that is continuous with past judicial
+    decisions. In this way, the law evolves by moving out of its past, adapting
+    to the needs of the present, and establishing a direction for the future. To
+    Holmes' way of thinking, this approach is superior to imposing order in
+    accordance with a philosophical position or theory because the law would
+    thereby lose the flexibility it requires in responding to the needs and
+    demands of disputing parties as well as society as a whole.
+  author:
+    - family: Holmes
+      given: Oliver Wendell
+  citation-key: Holmes2020
+  DOI: 10.4324/9780429338908
+  event-place: New York
+  ISBN: 978-0-429-33890-8
+  issued:
+    - year: 2020
+      month: 2
+      day: 18
+  number-of-pages: '365'
+  publisher: Routledge
+  publisher-place: New York
+  title: The Common Law
+  type: book
+
+- id: Warren1923
+  accessed:
+    - year: 2025
+      month: 8
+      day: 12
+  archive: JSTOR
+  author:
+    - family: Warren
+      given: Charles
+  citation-key: Warren1923
+  container-title: Harvard Law Review
+  DOI: 10.2307/1328407
+  ISSN: 0017811X
+  issue: '1'
+  issued:
+    - year: 1923
+  page: 49-132
+  publisher: The Harvard Law Review Association
+  title: New Light on the History of the Federal Judiciary Act of 1789
+  type: article-journal
+  URL: http://www.jstor.org.elon.idm.oclc.org/stable/1328407
+  volume: '37'
+
+- id: Frye2018
+  author:
+    - family: Frye
+      given: Brian L
+  citation-key: Frye2018
+  container-title: Akron L. Rev.
+  container-title-short: Akron L. Rev.
+  issued:
+    - year: 2018
+  page: '531'
+  publisher: HeinOnline
+  title: The Ballad of Harry James Tompkins
+  type: article-journal
+  URL: https://uknowledge.uky.edu/law_facpub/639/
+  volume: '52'
+
+- id: Perdue1987
+  author:
+    - family: Perdue
+      given: Wendy
+  citation-key: Perdue1987
+  container-title: Washington Law Review
+  issue: '3'
+  issued:
+    - year: 1987
+      month: 7
+      day: 1
+  page: '479'
+  source: COinS
+  title: >-
+    Sin, Scandal, and Substantive Due Process: Personal Jurisdiction and
+    Pennoyer Reconsidered
+  title-short: Sin, Scandal, and Substantive Due Process
+  type: article-journal
+  URL: https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8
+  volume: '62'
+
+- id: ZielinskiPhiladelphiaPiersA.No.15153
+  authority: Dist. Court
+  citation-key: ZielinskiPhiladelphiaPiersA.No.15153
+  container-title: F. Supp.
+  issued:
+    - literal: A. No. 15153
+  jurisdiction: ED Pennsylvania
+  page: '408'
+  title: Zielinski v. Philadelphia Piers
+  type: legal_case
+  volume: '139'
+
+- id: Johnson1912
+  author:
+    - family: Johnson
+      given: E. Polk
+  citation-key: Johnson1912
+  issued:
+    - year: 1912
+  language: en
+  number-of-pages: '854'
+  publisher: Lewis Publishing Company
+  source: Google Books
+  title: >-
+    A History of Kentucky and Kentuckians: The Leaders and Representative Men in
+    Commerce, Industry and Modern Activities
+  title-short: A History of Kentucky and Kentuckians
+  type: book
+  URL: >-
+    https://play.google.com/books/reader?id=FXQUAAAAYAAJ&pg=GBS.PA1144.w.2.1.0_421
 ...
