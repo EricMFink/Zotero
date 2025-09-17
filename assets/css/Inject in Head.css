@@ -1,0 +1,12 @@
+<link rel="stylesheet" type="text/css" href="/storage/emulated/0/Docs/Markor/Templates/markor.css" >
+
+
+<script type="text/javascript"> 
+function onPageLoaded(){ 
+ 
+/*if ('{{ post.text_converter_name }}' == 'MarkdownTextConverter') { 
+ window.scrollTo(0,document.body.scrollHeight); 
+}*/ 
+ 
+} 
+</script>

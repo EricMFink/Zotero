@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "6e0e27cbf119cfc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "942206bc8c18ae95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1038b8c1c0534482",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Zotero/PDF/DataTrespass/Loyalty/@MiklinEnterprisesInc2016.pdf",
+                "page": 1,
+                "left": 0,
+                "top": 792,
+                "zoom": 1.0049019607843137
+              },
+              "icon": "lucide-file-text",
+              "title": "@MiklinEnterprisesInc2016"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ac98d660f213c0f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8c5894c59920b773",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5ceb012491fca992",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "b3cc48417a3cd5ca",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f293b738ec9d26b8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "596ca10d10b5e5f2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fdc5ccf762895c0b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2581f135eb634972",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Zotero/PDF/DataTrespass/Preemption/@WalMartStoresInc2016.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "36112678f1e6eae3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Zotero/PDF/DataTrespass/Preemption/@WalMartStoresInc2016.pdf",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "image-picker:Open Image Picker": false,
+      "file-cleaner-redux:Clean files": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "iconic:Open rulebook": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false,
+      "handwritten-notes:Create empty handwritten note": false
+    }
+  },
+  "active": "1038b8c1c0534482",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Zotero/PDF/DataTrespass/Loyalty/@MotorCityPawn2020.pdf",
+    "Zotero/PDF/DataTrespass/Loyalty/@ElectricalWorkers-JeffersonBroadcasting1953.pdf",
+    "Zotero/PDF/DataTrespass/Loyalty/@DaltonCamp2001.pdf",
+    "Zotero/PDF/DataTrespass/Loyalty/@AustinMaintenance2012.pdf",
+    "Zotero/PDF/DataTrespass/Preemption/@PainReliefCenters2022.pdf",
+    "Zotero/PDF/DataTrespass/Preemption/@StateDeAngelo2007.pdf",
+    "Zotero/PDF/DataTrespass/Preemption/@StateDeAngelo2009.pdf",
+    "Zotero/PDF/DataTrespass/Preemption/@Whistler2024.pdf",
+    "Zotero/PDF/DataTrespass/Preemption/@WolfStreetSupermarkets1985.pdf",
+    "Zotero/PDF/DataTrespass/Recording/@McAllister2023.pdf",
+    "Zotero/source-notes/DataTrespass/Preemption/@HelmsleySpearIncFishman2008.md",
+    "Zotero/source-notes/DataTrespass/Preemption/@EthridgeHarborHouse1988.md",
+    "Zotero/source-notes/DataTrespass/Preemption/@CanAmPlumbingInc2003.md",
+    "Zotero/source-notes/DataTrespass/Preemption/@BrownHotelRestaurant1984.md",
+    "Garden/img/metal-spike.jpg",
+    "Garden/lattice-screen-with-planter-box.md",
+    "Garden/img/planter-box.jpg",
+    "Garden/img/lattice-with-planter.jpg",
+    "Garden/img/ikea-screen-2.jpg",
+    "Garden/img/ikea-screen-1.jpg",
+    "Garden/img/pergola.jpg",
+    "Zotero/source-notes/DataTrespass/Preemption/@FederalSecurityInc2012.md",
+    "Zotero/source-notes/DataTrespass/Preemption/@BudAntleInc1994.md",
+    "Zotero/source-notes/DataTrespass/Preemption/@BillJohnsonRestaurants1983.md"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "format": "dd MMMM yyyy",
+  "format2": "dd.MMMM.yyyy",
+  "language": "en",
+  "weekStart": 0,
+  "todayHighlight": true,
+  "daysOfWeekHighlighted": {}
+}

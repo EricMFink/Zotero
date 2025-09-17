@@ -1,0 +1,789 @@
+/* GOOGLE FONTS */
+
+/*<style>*/
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Proza+Libre:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+
+/*</style>*/
+
+/* Lato */
+
+.lato-thin {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.lato-light {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.lato-thin-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.lato-light-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.lato-regular-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lato-bold-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.lato-black-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Proza Libre */
+
+.proza-libre-regular {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.proza-libre-medium {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.proza-libre-semibold {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.proza-libre-bold {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.proza-libre-extrabold {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.proza-libre-regular-italic {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.proza-libre-medium-italic {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.proza-libre-semibold-italic {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.proza-libre-bold-italic {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.proza-libre-extrabold-italic {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+/* Cormorant Garamond */
+
+.cormorant-garamond-<uniquifier> {
+  font-family: "Lato", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* Literata */
+
+.literata-<uniquifier> {
+  font-family: "Literata", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* Source Code Pro */
+
+.source-code-pro-<uniquifier> {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* TEXT AND ELEMENTS */
+
+body {
+    --background-primary: #fffff9; /* off-whie */
+    --code-size: .8rem;
+    --font-text-theme:  'Lato', sans-serif;
+    --font-monospace-theme: 'LFT Etica Mono', "Source Code Pro", monospace;
+    --font-text-size: 16px;
+    --footnote-size: .9rem;
+    --heading-spacing: 2rem;
+    --h1-font: "Lato", sans-serif;
+    --h1-size: 2rem;
+    --h1-weight: bold;
+    --h1-color: #b03a2e; /* dull-red */
+    --h2-font: "Lato", sans-serif;
+    --h2-size: 1.7rem;
+    --h2-weight: bold;
+    --h2-color: #b03a2e; /* dull-red */
+    --h3-font: "Lato", sans-serif;
+    --h3-size: 1.4rem;
+    --h3-weight: normal;
+    --h3-style: normal;
+    --h3-color: #b03a2e; /* dull-red */
+    --h4-font: "Lato", sans-serif;
+    --h4-size: 1.2rem;
+    --h4-weight: normal;
+    --h4-style: normal;
+    --h4-color: #191919; /* off-black */
+    --h5-font: "Lato", sans-serif;
+    --h5-size: 1rem;
+    --h5-weight: normal;
+    --h5-style: italic;
+    --h5-color: #191919; /* off-black */
+    --h6-font: "Lato", sans-serif;
+    --h6-color: #191919; /* off-black */
+    --h6-size: .8rem;
+    --h6-weight: normal;
+    --h6-style: italic;
+    --hr-color: #828282; /* grey */
+    --hr-thickness: 1px;
+    --inline-title-color: #b03a2e; /* dull-red */
+    --inline-title-font: "Proza Libre", "Lato", sans-serif;
+    --inline-title-line-height: 1.2;
+    --inline-title-size: 1.5rem;
+    --inline-title-style: normal;
+    --inline-title-weight: bold;
+    --inline-title-margin-bottom: 0.5em;
+    --link-color: #973a05; /* deep-orange */
+    --link-color-hover: #b16032; /* dull-orange */
+    --link-decoration: none;
+    --link-external-color: #b03a2e; /* dull-red */
+    --link-external-color-hover: #b16032;
+    --link-external-decoration: none;
+    --link-weight: normal;
+    --list-marker-color: #191919;
+    --metadata-background: transparent;
+    --metadata-border-radius: 0px;
+    --metadata-gap: 0px;
+    --metadata-label-font: 'LFT Etica Mono', 'Source Code Pro', monospace;
+    --metadata-label-font-size: .8rem;
+    --metadata-label-width: 2rem
+    --metadata-input-font: 'LFT Etica Mono', 'Source Code Pro', monospace;
+    --metadata-input-font-size: .8rem;
+    --table-background: inherit;
+    --table-cell-vertical-alignment: middle;
+    --table-line-height: 1.3;
+    --table-border-color: #eeeeee; /* lightest-grey */
+    --table-border-width: 1px;
+    --table-header-font: "Lato", sans-serif;
+    --table-header-size: .9rem;
+    --table-header-weight: bold;
+    --table-header-color: #191919; /* off-black */
+    --table-header-background: #dfd8dc; /* gainsboro */
+    --table-header-border-color: #424929; /* grey */
+    --table-row-alt-background: #fffff9; /* off-white */
+    --table-text-size: .8rem;
+    --table-text-weight: normal;
+    --table-text-color: #191919; /* off-black */
+    --tag-color: #b03a2e; /* dull-red */
+    --tag-color-hover: #b16032; /* dull-orange */
+    --tag-background: #dfd8dc; /* gainsboro */
+    --tag-background-hover: #edeaf2; /* pastel-grey-2 */
+    --text-accent: #b03a2e; /* dull-red */
+    --text-accent-hover: #b16032; /* dull-orange */
+    --text-normal: #191919; /* off-black */
+    --text-muted: #828282; /* grey */
+    --text-faint: #d5d8dc; /* light-grey */
+} 
+
+p {
+    font-family: "Lato", sans-serif;
+    text-align: left;
+} 
+
+center p {
+    text-align: left;
+} 
+
+left p {
+    text-align: left;
+} 
+
+right p {
+    text-align: right;
+}
+
+ul, ol, li {
+    font-family: "Lato", sans-serif;
+}
+
+a {
+    word-wrap: break-word;
+} 
+	
+:active,:focus {
+    outline: none;
+}
+
+.markdown-preview-view blockquote {
+    font-family: "Lato", sans-serif;
+    font-size: .9rem;
+    font-style: italic;
+    line-height: 1.5em;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    margin-left: 2rem;
+    margin-right: 4rem;
+    padding: 1rem;
+    background-color: #ebe6e5; /* platinum */
+    border: 0px solid;
+    border-color: #828282 !important; /* grey */
+    border-left-width: 8px !important;
+    border-radius: 20px 20px 20px 20px;
+}
+
+img {
+    max-width: 80%;
+    display: block;
+    height: auto;
+    margin-left: 0;
+    padding-left: 0;
+    box-shadow: 1mm 1mm 2mm rgba(0,0,0,.3);
+} 
+
+.caption {
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 300;
+    padding-top: 1rem;
+}
+
+.image-captions-figure {
+    margin: 1rem 0 1rem 0;
+    padding: 2px;
+    display: table; /* To allow for correct caption text wrapping */
+    border-radius: 2px;
+}
+
+.image-captions-caption {
+    font-family: 'Lato', sans-serif;
+    font-size: .9rem;
+    font-style: normal;
+    font-weight: 400;
+    color: #b03a2e;
+    text-align: center;
+    margin: 0 0 0 0;
+    padding: .2rem 5px .2rem 5px;
+    display: table-caption; /* To allow for correct caption text wrapping */
+    caption-side: bottom;
+}
+
+.theme-dark .image-captions-figure,
+.theme-dark .image-captions-caption {
+    background: none;
+}
+
+.theme-light .image-captions-figure,
+.theme-light .image-captions-caption {
+    background: none;
+}
+
+table {
+    max-width: 95%;
+    font-family: 'Lato', sans-serif;
+    margin: 0 auto 4rem auto;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    box-shadow: 1mm 1mm 2mm rgba(0,0,0,.3);
+}
+
+thead {
+    font-size: .9rem;
+    padding:10px; 
+    background: var(--table-header-background);
+    border-bottom: 2px solid;
+} 
+
+th {
+    padding: 6px;
+}
+
+noheader thead {
+    display: none;
+}
+
+.markdown-rendered th {
+    padding: 6px;
+}
+
+tbody {
+    font-size: .8rem;
+    padding:10px; 
+    border:none;
+} 
+
+td {
+    padding: 8px;
+}
+
+.markdown-rendered td {
+    padding: 8px;
+}
+
+/*
+tbody tr:nth-child(even) {
+    background: #eee8d5;
+}
+*/
+
+
+code,pre,blockquote{
+    tab-size: 1;
+} 
+
+pre{
+    padding: 10px 10px 10px 10px;
+} 
+
+code{
+    font-family: 'LFT Etica Mono', 'Source Code Pro', monospace;
+} 
+
+sup {
+    font-size: .7rem;
+} 
+
+/* METADATA */
+
+.metadata-properties-heading {
+    display: none;
+}
+
+.metadata-properties-title {
+    font-size: 1rem;
+    color: var(--text-normal);
+    font-weight: normal; 
+    display: none;
+}
+
+.metadata-container {
+    width: 100%;
+    position: relative;
+    padding: 5px;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #b03a2e;
+  --input-height: var(--metadata-input-height);
+}
+
+.metadata-property-key .metadata-property-icon {
+  --icon-color: #b03a2e; /* dull-red */
+  --icon-size: 1rem;
+}
+
+/* Hide "Add property" button in in reading mode by default.
+Add "show_add_property_btn" to `css_classes` property to show it.
+================================================================= */
+
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view
+.metadata-add-button {
+    display: none;
+}
+
+.workspace-leaf-content[data-mode="preview"]
+.markdown-preview-view.show_add_property_btn
+.metadata-add-button {
+    display: inline-flex;
+}
+
+/* ==== Custom Titles ==== */
+
+.markdown-reading-view .inline-title {
+    color: var(--inline-title-color);
+    line-height: 1;
+    margin: 0 0 0 .5rem;
+    padding: 0;
+    white-space: pre-wrap;
+    margin-block-end: 0;
+}
+
+/* === make properties display always (so icons and such don't disappear when collapsed) === */
+.metadata-content {
+  display: unset !important;
+}
+.metadata-container.is-collapsed .metadata-add-button.text-icon-button {
+  display : none !important;
+}
+
+/* === Icons === */
+
+/* put icons in a position relative to inline title */
+/* also responds to inline title size (may break at high sizes)*/
+
+/*
+[data-property-key=icon i]{
+    position: absolute;
+    display: block !important;
+    margin-top: calc(calc(-130px - var(--tag-addition)) - calc(var(--inline-title-size) / 2)) !important;
+    z-index: 300!important;
+    padding: 0px;
+    height: fit-content;
+    font-size: calc(var(--inline-title-size) * 1.3);
+    left: 0;
+}
+*/
+
+/* Hide metadata key icons & text for title, subtitle, author, affiliation, cite, & date */
+
+/*
+.markdown-reading-view [data-property-key=subtitle i] .metadata-property-key, [data-property-key=author i] .metadata-property-key, [data-property-key=affiliation i] .metadata-property-key, [data-property-key=cite i] .metadata-property-key, [data-property-key=date i] .metadata-property-key {
+    display: none;
+}
+*/
+
+.markdown-reading-view .metadata-property-key {
+    width: 6rem;
+}
+
+.markdown-reading-view .zotero .metadata-property-key {
+    width: 9rem;
+}
+
+.markdown-reading-view [data-property-key=title i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=title i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=title i] .metadata-property-value {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=title i] .metadata-input-longtext {
+    display: none;
+}
+
+.markdown-reading-view .zotero [data-property-key=title i] .metadata-property-key {
+    display: flex;
+}
+
+.markdown-reading-view .zotero [data-property-key=title i] .metadata-property-key-input {
+    display: flex;
+}
+
+.markdown-reading-view .zotero [data-property-key=title i] .metadata-property-value {
+    display: flex;
+}
+
+.markdown-reading-view .zotero [data-property-key=title i] .metadata-input-longtext {
+    display: flex;
+}
+
+.markdown-reading-view [data-property-key=subtitle i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=subtitle i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=subtitle i] .metadata-input-longtext {
+    font-family: "Proza Libre", "Lato", sans-serif;
+    font-size: var(--h4-size);
+    display: block;
+}
+
+.markdown-reading-view [data-property-key=author i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=author i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=author i] .metadata-input-longtext {
+    font-family: "Lato", sans-serif;
+    font-size: var(--h5-size);
+    display: block;
+}
+
+.markdown-reading-view [data-property-key=affiliation i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=affiliation i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=affiliation i] .metadata-input-longtext {
+    font-family: "Lato", sans-serif;
+    font-size: var(--h5-size);
+    display: block;
+}
+
+.markdown-reading-view [data-property-key=cite i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=cite i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=cite i] .metadata-input-longtext {
+    font-family: "Lato", sans-serif;
+    font-size: var(--h5-size);
+    display: block;
+}
+
+.markdown-reading-view [data-property-key=date i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=date i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=date i] .metadata-input-longtext {
+    font-family: "Lato", sans-serif;
+    font-size: var(--h5-size);
+    display: block;
+}
+
+.markdown-reading-view [data-property-key=source i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=source i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=source i] .metadata-property-value {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=source i] .metadata-input-longtext {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=url i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=url i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=url i] .metadata-property-value {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=url i] .metadata-input-longtext {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=cssclasses i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=cssclasses i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=cssclasses i] .metadata-property-value {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=cssclasses i] .metadata-input-longtext {
+    display: none;
+}
+
+
+.markdown-reading-view [data-property-key=created i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=created i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=created i] .metadata-property-value {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=created i] .metadata-input-longtext {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=modified i] .metadata-property-key {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=modified i] .metadata-property-key-input {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=modified i] .metadata-property-value {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=modified i] .metadata-input-longtext {
+    display: none;
+}
+
+.markdown-reading-view [data-property-key=tags i]{
+    margin-top: 1rem;
+}
+
+.markdown-reading-view [data-property-key=tags i] .metadata-property-key {
+    width: 1.5rem;
+}
+
+.markdown-reading-view [data-property-key=tags i] .metadata-property-key-input {
+    display: none;
+}
+
+[data-property-key=created i] .metadata-property-value .clickable-icon {
+    display: none;
+}
+
+[data-property-key=modified i] .metadata-property-value .clickable-icon {
+    display: none;
+}
+
+/* reorder properties */
+
+.metadata-properties > [data-property-key] {
+    order: 999;
+}
+.metadata-properties > [data-property-key="citekey"] {
+    order: 1;
+}
+.metadata-properties > [data-property-key="title"] {
+    order: 2;
+}
+.metadata-properties > [data-property-key="subtitle"] {
+    order: 3;
+}
+.metadata-properties > [data-property-key="authors"] {
+    order: 4;
+}
+.metadata-properties > [data-property-key="author"] {
+    order: 5;
+}
+.metadata-properties > [data-property-key="authors"] {
+    order: 6;
+}
+.metadata-properties > [data-property-key="affiliation"] {
+    order: 7;
+}
+.metadata-properties > [data-property-key="cite"] {
+    order: 8;
+}
+.metadata-properties > [data-property-key="date"] {
+    order: 9;
+}
+.metadata-properties > [data-property-key="year"] {
+    order: 10;
+}
+.metadata-properties > [data-property-key="collection"] {
+    order: 11;
+}
+.metadata-properties > [data-property-key="cssclasses"] {
+    order: 12;
+}
+.metadata-properties > [data-property-key="source"] {
+    order: 13;
+}
+.metadata-properties > [data-property-key="url"] {
+    order: 14;
+}
+.metadata-properties > [data-property-key="created"] {
+    order: 15;
+}
+.metadata-properties > [data-property-key="modified"] {
+    order: 16;
+}
+.metadata-properties > [data-property-key="tags"] {
+    order: 17;
+}
+
+
+/* Embedded Media */
+
+iframe {
+    aspect-ratio: 16 / 9;
+    height: 100%;
+    width: 100%;
+}
+
+/* Printing */
+
+@media print {
+    html,body {
+        background-color: #ffffff;
+        font-size: 11pt;
+        font-family:  'Cormorant Garamond',  serif;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        page-break-after: avoid;
+    }
+    @page { 
+        size: 8.5in 11in;
+        margin: 20mm 30mm 20mm 30mm;
+    }
+}

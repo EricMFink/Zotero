@@ -1,0 +1,7 @@
+{
+  "confirmBeforeEmbed": true,
+  "showFilePath": true,
+  "attachmentFolder": "./img",
+  "filenameFormat": "{name}",
+  "useTimestamp": false
+}

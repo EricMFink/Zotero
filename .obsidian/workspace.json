@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "0fedf3c2922dbada",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bb9e7634a262737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64327a9cef8905d9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45049b2f706b6779",
+    "type": "split",
+    "children": [
+      {
+        "id": "be3253668b222294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf490be3765810f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f14bc8c91c64cbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f10f67bf9b2112f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7e1314546b4d1164",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e84f5f848e3c455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ef1c3ccc59b545",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3cc383006f4bb8ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dfd7cb607133cdb0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5892b72f92484a66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8522bba6bb384b16",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "ReferenceListView"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "iconic:Open rulebook": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "media-extended:Open media": false,
+      "image-picker:Open Image Picker": false,
+      "file-cleaner-redux:Clean files": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "64327a9cef8905d9",
+  "lastOpenFiles": [
+    "README.md",
+    "Notes/DataTrespass/Preemption/@AshfordTRSNickel2018.md",
+    "assets/css-test.md",
+    "assets/templates/zotero-notes.md",
+    "assets/templates/zotero-notes-with-colors.md",
+    "assets/templates/default.md",
+    "assets/templates/blank.pdf",
+    "assets/templates",
+    "assets/settings/Obsidian-settings.json",
+    "assets/settings/BACKUP_markor_20250810-083843.json",
+    "assets/settings/BACKUP_markor_20250810-082954.json",
+    "assets/settings",
+    "assets/pandoc/pandoc-defaults.yaml",
+    "assets/pandoc",
+    "assets/img/cafe-central-1900.jpg",
+    "assets/img",
+    "assets/css/obsidion.css",
+    "Research/Untitled.md",
+    "Fly Tying/Dry Flies/Renegade.md",
+    "Fly Tying/Dry Flies/Sulphur.md",
+    "Fly Tying/Nymphs & Wet Flies/YellerhammerNymph.md",
+    "Fly Tying/Nymphs & Wet Flies/WD-40.md",
+    "Fly Tying/Nymphs & Wet Flies/Red-Tag.md",
+    "Fly Tying/Nymphs & Wet Flies/Walt's-Worm.md",
+    "Fly Tying/Nymphs & Wet Flies/Thread-Body-Soft-Hackle.md",
+    "Fly Tying/Nymphs & Wet Flies/Squirrel-Nymph.md",
+    "Fly Tying/Nymphs & Wet Flies/Spanish-Needle.md",
+    "Fly Tying/Nymphs & Wet Flies/OFN-Cream.md",
+    "Fly Tying/Nymphs & Wet Flies/Noyée-Tag-Orange.md",
+    "Fly Tying/Nymphs & Wet Flies/MK-Sulphur-Emerger.md",
+    "Fly Tying/Nymphs & Wet Flies/Killer-Bug.md",
+    "Fly Tying/Nymphs & Wet Flies/Halfback-&-Fullback-Nymph.md",
+    "Fly Tying/Nymphs & Wet Flies/Euro-BHPT-Nymph.md",
+    "Fly Tying/Nymphs & Wet Flies/Egan’s-Red-Dart.md",
+    "Fly Tying/Nymphs & Wet Flies/Diawl-Bach.md",
+    "Fly Tying/Nymphs & Wet Flies/Cul-blanc-hot-spot.md",
+    "Fly Tying/Nymphs & Wet Flies/Coch-y-Bonddu.md",
+    "Fly Tying/Dry Flies/img/devaux-cdl-mayfly.jpg",
+    "Drinks/img/egyptian-mint-lemonade.jpg",
+    "Drinks/img/agua-fresca-pepino.jpg",
+    "Fly Tying/Dry Flies/img/cranefly-foam.jpg",
+    "Fly Tying/Dry Flies/img/cranefly.jpg",
+    "Fly Tying/Dry Flies/img/dragonfly.jpg",
+    "Gardening/img/jade-plant.jpg",
+    "Drinks/img/tinto-de-verano.jpg",
+    "Garden/img/metal-spike.jpg"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+	"id": "md-cal-gen",
+	"name": "Markdown Calendar Generator",
+	"version": "1.0.3",
+	"minAppVersion": "0.15.0",
+	"description": "An intentionally simple markdown table calendar generator",
+	"author": "Zach Russell",
+	"authorUrl": "https://github.com/zachatrocity",
+	"isDesktopOnly": false
+}

@@ -1,0 +1,33 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Zotero/source-notes/",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 100,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "formatted-citation",
+      "cslStyle": "bluebook-law-review"
+    },
+    {
+      "name": "Bibliography",
+      "format": "formatted-bibliography",
+      "cslStyle": "bluebook-law-review"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Zotero Source Notes",
+      "outputPathTemplate": "Zotero/source-notes/{{collections[0].fullPath}}/@{{citekey}}.md",
+      "imageOutputPathTemplate": "source-notes/{{collections[0].fullPath}}/img/{{citekey}}",
+      "imageBaseNameTemplate": "((citekey))-img",
+      "templatePath": "assets/templates/zotero-notes.md",
+      "cslStyle": "bluebook-law-review"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "exeOverridePath": "/home/efink/Notes/.obsidian/pdfannots2.json"
+}

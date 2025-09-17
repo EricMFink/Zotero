@@ -1,0 +1,526 @@
+/* GOOGLE FONTS */
+<style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Proza+Libre:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+</style>
+
+/* Lato */
+.lato-thin {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.lato-light {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.lato-regular {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.lato-black {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-thin-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+.lato-light-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+.lato-regular-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+.lato-bold-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+.lato-black-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-style: italic;
+}
+/* Proza Libre */
+.proza-libre-regular {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.proza-libre-medium {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.proza-libre-semibold {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.proza-libre-bold {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.proza-libre-extrabold {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+.proza-libre-regular-italic {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+.proza-libre-medium-italic {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+.proza-libre-semibold-italic {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+.proza-libre-bold-italic {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+.proza-libre-extrabold-italic {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+}
+/* Cormorant Garamond */
+.cormorant-garamond-<uniquifier> {
+  font-family: "Lato", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+/* Source Code Pro */
+.source-code-pro-<uniquifier> {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/* TEXT AND ELEMENTS */
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    color: #191919; 
+    line-height: 1.5; 
+    word-wrap:break-word;
+    max-width: 45rem;
+    margin: auto;
+    padding: .8rem 1rem;
+    background-color: #fffff8; 
+} 
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Proza Libre', sans-serif;
+    text-align: left;
+    line-height: 1.2;
+    border: none;
+    page-break-after: avoid;
+}
+h1 {
+    color: #b03a2e; 
+    font-size: 2rem;
+    font-style: normal;    
+    font-weight: 700;
+    margin: 0 0 .5rem 0;
+}
+h2 {
+    color: #b03a2e; 
+    font-size: 1.7rem;
+    font-style: normal;    
+    font-weight: 400;
+    margin: 2rem 0 .5rem 0;
+}
+h3 {
+    color: #b03a2e;
+    font-size: 1.3rem;
+    font-style: italic;
+    font-weight: 400;    
+    margin: 1.5rem 0 .5rem 0    
+}
+h4 {
+    color: #191919; 
+    font-size: 1.1rem;
+    font-style: normal;
+    font-weight: 700;
+    margin: 1.2rem 0 .5rem 0;    
+}
+h5 {
+    color: #191919; 
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    margin: 1.2rem 0 .5rem 0; 
+}
+h6 { 
+    color: #191919; 
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 400;
+    margin: 1.2rem 0 .5rem 0;    
+}
+
+/* Paragraphs */
+p {
+    text-align: left;
+} 
+center p {
+    text-align: center;
+} 
+left p {
+    text-align: left;
+} 
+right p {
+    text-align: right;
+}
+
+/* Lists */
+ul, ol, li {
+    font-family: "Lato", sans-serif;
+}
+ul {
+    padding-left: 1.25em;
+} 
+ol {
+    padding-left: 1.25em;
+} 
+
+/* Links */
+a {
+    word-wrap: break-word;
+    text-decoration: none;
+    color:  #b03a2e;
+} 
+:active,:focus {
+    outline: none;
+}
+
+/* Blockquotes */
+blockquote {
+    font-family: "Lato", sans-serif;
+    font-size: .9rem;
+    font-style: italic;
+    line-height: 1.3em;
+    background-color: #ebe6e5;
+    margin: 1rem 1rem 1rem .5rem;
+    padding: .5rem 1rem .5rem 1rem;
+    border: 0px solid  #828282 !important;
+    border-left-width: 8px !important;
+    border-radius: 20px 20px 20px 20px;
+}
+/*
+blockquote {
+    font-family:  'Lato',  sans-serif;
+    color: #191919; 
+    line-height: 1.3;
+    font-size:  .8rem;
+    background: #eee8d5;
+    margin: 1rem 1rem 1rem .5rem;
+    padding: 2px 1rem 2px 1rem;
+    border-left: 5px solid #b03a2e;
+    box-shadow: 1mm 1mm 2mm rgba(0,0,0,.3);
+}
+*/
+blockquote blockquote { 
+    border: none; 
+    margin: 0rem 2rem 0rem .5rem;
+    padding: 0 0 0 1rem;
+    box-shadow: none;
+}
+
+
+/* Separator */
+hr {
+    border: 1px solid #93a1a1;
+}
+
+/* Figures & Images */
+figure {
+    margin: 2rem 0 1rem 0;
+}
+figure figcaption {
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    color: #b03a2e; /* dull-red */
+    text-align: center;
+    margin: 0 0 0 0;
+    padding: .2rem 5px .2rem 5px;
+    display: table-caption; /* To allow for correct caption text wrapping */
+    caption-side: bottom;
+}
+img {
+    max-width: 80%;
+    display: block;
+    height: auto;
+    margin-left: 0;
+    padding-left: 0;
+    box-shadow: 1mm 1mm 2mm rgba(0,0,0,.3);
+} 
+.caption {
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    color: #b03a2e; /* dull-red */
+    text-align: center;
+    margin: 0 0 0 0;
+    padding: .2rem 5px .2rem 5px;
+    display: table-caption; /* To allow for correct caption text wrapping */
+    caption-side: bottom;
+}
+
+/* Embedded Media */
+iframe {
+    aspect-ratio: 16 / 9;
+    height: 100%;
+    width: 100%;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: .8rem;
+    margin: 0 auto 4rem auto;
+    white-space: normal;
+}
+table,th,td {
+    border-collapse:collapse;
+    padding:10px; 
+    vertical-align: top;
+} 
+table,th,td {
+    border: 1px solid #93a1a1;
+} 
+noheader th {
+    display: none;
+}
+th {
+    background: #eee8d5;
+    border-bottom: 4px double #93a1a1;
+} 
+tbody tr:nth-child(even) {
+    background: #eee8d5;
+}
+table, img {
+    box-shadow: 1mm 1mm 2mm rgba(0,0,0,.3);
+}
+
+/* Code */
+code,pre,blockquote{
+    tab-size: 1;
+} 
+code,pre {
+    background: #ECF0F1;
+  color:#d;
+} 
+pre{
+    padding: 10px 10px 10px 10px;
+    font-family: 'LFT Etica Mono', 'Source Code Pro', monospace;
+    font-size: .9rem;
+    line-height: 1.5;
+    white-space: pre; 
+    white-space: pre-wrap;
+    border-radius: 10px;
+    border: 1px solid #93a1a1;
+} 
+code{
+    font-family: 'LFT Etica Mono', 'Source Code Pro', monospace;
+    font-size:  .9rem; 
+    line-height: 1.5;
+    white-space: pre;
+    white-space: pre-wrap;
+} 
+
+/* Special Text */
+sup {
+    font-size: .7rem;
+} 
+
+/* FRONT MATTER */
+/* Header */
+.header {
+    margin-bottom: 1.5rem; 
+    padding-bottom: 1rem;
+    border-bottom: 4px solid #b03a2e;
+}
+.header_no_underline { 
+    color: inherit; 
+}
+#title-block-header { 
+    margin-bottom: 1.5em; 
+    border-bottom: 4px solid #b03a2e; /* dull-red */
+}
+/* Metadata */
+#title {
+    font-family: 'Proza Libre', sans-serif;
+    color: #b03a2e; /* dull-red */
+    font-size: 1.75rem;
+    font-weight: 700;
+    text-align: left;
+    margin: 0 0 0.5rem 0; 
+}
+.subtitle {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700; 
+    color: #b03a2e; /* dull-red */
+    margin: 0 0 0.5rem 0; 
+}
+.author {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400; 
+    color: #191919; /* off-black */
+    margin: 0 0 0.5rem 0;     
+}
+.affiliation {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400; 
+    color: #191919; /* off-black */
+    margin: 0 0 0.5rem 0; 
+}
+.cite {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 1rem;
+    font-weight: 400; 
+    color: #191919; /* off-black */
+    margin: 0 0 0.5rem 0; 
+}
+.date {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: .9rem;
+    font-weight: 400; 
+    color: #191919; /* off-black */
+    margin: 0 0 0 .5rem 0; 
+}
+.source { 
+    font-family: 'LFT Etica Mono', 'Source Code Pro', monospace;
+    font-size: .8rem;
+    font-weight: 400; 
+    color: #191919; /* off-black */
+    margin: 0 0 0.5rem 0;
+}
+.url { 
+    font-family: 'LFT Etica Mono', 'Source Code Pro', monospace;
+    font-size: .8rem;
+    font-weight: 400; 
+    color: #191919; /* off-black */
+    margin: 0 0 0.5rem 0;
+}
+.tags { 
+    font-family: 'LFT Etica Mono', 'Source Code Pro', monospace;
+    font-size: .9rem;
+    font-weight: 400; 
+    color: #b03a2e; /* dull-red */
+    font-style: normal;
+    margin: 1rem 0 0.5rem 0;
+}
+.front-matter-container { 
+    margin-bottom: 1.5em; 
+    border-bottom: 4px solid #b03a2e;
+}
+.front-matter-item { 
+    text-align: left; 
+    margin: 0 0 0.5rem 0;
+} 
+.front-matter-container-title { 
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 1.75rem;
+    font-weight: 700; 
+    color: #b03a2e; /* dull-red */
+} 
+.front-matter-container-subtitle {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700; 
+    color: #b03a2e; /* dull-red */
+}
+.front-matter-container-author { 
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700; 
+    color: #b03a2e; /* dull-red */
+} 
+.front-matter-container-affiliation {
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700; 
+    color: #b03a2e; /* dull-red */
+}
+.front-matter-container-cite { 
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 1rem;
+    font-weight: 400; 
+    color: #191919; /* off-black */
+}
+.front-matter-container-source { 
+    font-family: 'LFT Etica Mono', 'Source Code Pro', monospace;
+    font-size: .8rem;
+    font-weight: 400; 
+    color: #191919; /* off-black */
+}
+.front-matter-container-url { 
+    font-family: 'LFT Etica Mono', 'Source Code Pro', monospace;
+    font-size: .8rem;
+    font-weight: 400; 
+    color: #191919; /* off-black */
+}
+.front-matter-container-date { 
+    font-family: 'Proza Libre', sans-serif;
+    font-size: .9rem;
+    font-weight: 400;
+    color: #191919; /* off-black */
+} 
+.front-matter-container-tags { 
+    font-family: 'Proza Libre', sans-serif;
+    font-size: .9rem;
+    font-weight: 400; 
+    color: #b03a2e; /* dull-red */
+    margin: 0 0 0.5rem 0;
+} 
+
+/* Printing */
+@media print {
+    html,body {
+        background-color: #ffffff;
+        font-size: 11pt;
+        font-family:  'Cormorant Garamond',  serif;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        page-break-after: avoid;
+    }
+    @page { 
+        size: 8.5in 11in;
+        margin: 20mm 30mm 20mm 30mm;
+    }
+}
