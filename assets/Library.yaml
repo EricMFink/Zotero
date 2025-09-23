@@ -29688,6 +29688,7 @@ references:
       month: 7
       day: 14
   citation-key: JuniusIrvingScales_nd
+  container-title: UNC University Libraries
   title: Junius Irving Scales Papers, 1940-1987
   type: webpage
   URL: https://finding-aids.lib.unc.edu/catalog/04879
@@ -29873,7 +29874,7 @@ references:
     - family: Proyect
       given: Louis
   citation-key: Proyect_nd
-  title: Junius Scales (by L. Proyect)
+  title: Junius Scales
   type: webpage
   URL: https://www.columbia.edu/~lnp3/mydocs/american_left/scales.htm
 
@@ -31421,4 +31422,208 @@ references:
   title: William Friday and the North Carolina Speaker Ban Crisis, 1963-1968
   type: article-journal
   volume: '72'
+
+- id: Cain2006
+  accessed:
+    - year: 2025
+      month: 9
+      day: 21
+  author:
+    - family: Cain
+      given: Robert J.
+  citation-key: Cain2006
+  container-title: NCpedia
+  issued:
+    - year: 2006
+  language: en
+  title: Communism
+  type: webpage
+  URL: https://www.ncpedia.org/communism
+
+- id: Cain2006a
+  accessed:
+    - year: 2025
+      month: 9
+      day: 21
+  author:
+    - family: Cain
+      given: Robert J.
+  citation-key: Cain2006a
+  container-title: NCpedia
+  issued:
+    - year: 2006
+  language: en
+  title: Scales Trial
+  type: webpage
+  URL: https://www.ncpedia.org/scales-trial
+
+- id: McNeillSmithPapers_nd
+  accessed:
+    - year: 2025
+      month: 9
+      day: 21
+  citation-key: McNeillSmithPapers_nd
+  container-title: UNC University Libraries
+  title: McNeill Smith Papers, 1937-1999
+  type: webpage
+  URL: https://finding-aids.lib.unc.edu/catalog/04990
+
+- id: JacquelynDowdHall_nd
+  accessed:
+    - year: 2025
+      month: 9
+      day: 21
+  citation-key: JacquelynDowdHall_nd
+  container-title: UNC University Libraries
+  title: Jacquelyn Dowd Hall Papers, 1870s-2020s - Scales, Junius Irving
+  type: webpage
+  URL: >-
+    https://finding-aids.lib.unc.edu/catalog/05574_aspace_b0e5ca0da66b2e8c87548af7e11ae3e6
+
+- id: Grant1961
+  author:
+    - family: Grant
+      given: Joanne
+  citation-key: Grant1961
+  container-title: The National Guardian
+  event-place: New York, NY
+  issued:
+    - year: 1961
+      month: 10
+      day: 2
+  page: '12'
+  publisher-place: New York, NY
+  title: Junius Scales' Ordeal
+  type: article-newspaper
+  URL: >-
+    https://www.marxists.org/history/usa/pubs/national-guardian/1961-10-02-13-51-nat-guardian.pdf
+
+- id: FightOpportunismCP1948
+  citation-key: FightOpportunismCP1948
+  genre: >-
+    Open letter by expelled members of Communist Party of North Carolina in
+    Chapel Hill
+  issued:
+    - year: 1948
+      month: 3
+      day: 23
+  note: Republished in Spark, Vol. II, No. 4 (April 1948)
+  title: The Fight Against Opportunism in the C.P. of North Carolina
+  type: personal_communication
+  URL: https://www.marxists.org/history/erol/periodicals/spark/spark-2-4.htm
+
+- id: Scales20
+  author:
+    - family: Scales
+      given: Junius
+  citation-key: Scales20
+  container-title: Daily Worker
+  event-place: New York, NY
+  issued:
+    - year: 20
+      month: 4
+  publisher-place: New York, NY
+  title: No Place for 'Brain Trusts' (Letter to the Editor)
+  type: article-newspaper
+  URL: https://www.marxists.org/history/erol/1956-1960/dw/letters-4-20.pdf
+
+- id: NewTrialAwaits1954
+  citation-key: NewTrialAwaits1954
+  container-title: The National Guardian
+  event-place: New York, NY
+  issued:
+    - year: 1954
+      month: 12
+      day: 13
+  page: '1'
+  publisher-place: New York, NY
+  title: New Trial Awaits Potash on 'Release'
+  type: article-newspaper
+  URL: >-
+    https://www.marxists.org/history/usa/pubs/national-guardian/1954-12-13-7-8-nat-guardian.pdf
+
+- id: ScalesTrial2nd1958
+  citation-key: ScalesTrial2nd1958
+  container-title: The National Guardian
+  event-place: New York, NY
+  issued:
+    - year: 1958
+      month: 2
+      day: 17
+  page: '3'
+  publisher-place: New York, NY
+  title: Scales on Trial for 2nd Time in Renewed Smith Act Move
+  type: article-newspaper
+  URL: >-
+    https://www.marxists.org/history/usa/pubs/national-guardian/1958-02-17-10-18-nat-guardian.pdf
+
+- id: ScalesUnitedStates_nd
+  abstract: >-
+    Scales v. United States (1961) looked at the First Amendment right of
+    association and upheld the conviction of Scales for being a member of the
+    Communist Party.
+  author:
+    - family: Lemieux
+      given: Scott
+  citation-key: ScalesUnitedStates_nd
+  container-title: The Free Speech Center
+  issued:
+    - year: 2023
+      month: 8
+      day: 6
+  language: en-US
+  title: Scales v. United States (1961)
+  type: post-weblog
+  URL: https://firstamendment.mtsu.edu/article/scales-v-united-states/
+
+- id: Scales1990
+  author:
+    - family: Scales
+      given: Junius
+    - family: Taylor
+      given: Telford
+    - family: Rudenstine
+      given: David
+  citation-key: Scales1990
+  container-title: Cardozo Law Review
+  ISSN: 2169-4893
+  issue: '4'
+  issued:
+    - year: 1990
+      month: 5
+      day: 1
+  page: 803-830
+  source: COinS
+  title: A Discussion Between Junius Scales, Telford Taylor, and David Rudenstine
+  type: article-journal
+  URL: https://larc.cardozo.yu.edu/clr/vol11/iss4/4
+  volume: '11'
+
+- id: FBISpyChilds1955
+  abstract: >-
+    The daily Tar Heel. (Chapel Hill, N.C.) 1946-current, April 20, 1955, Page
+    1, Image 1, presented by the North Carolina Digital Heritage Center in
+    partnership with University of North Carolina at Chapel Hill.
+  accessed:
+    - year: 2025
+      month: 9
+      day: 21
+  citation-key: FBISpyChilds1955
+  container-title: The Daily Tar Heel
+  event-place: Chapel Hill, NC
+  ISSN: 1070-9436
+  issued:
+    - year: 1955
+      month: 4
+      day: 20
+  language: eng
+  page: '1'
+  publisher: Publications Board of the University of North Carolina at Chapel Hill
+  publisher-place: Chapel Hill, NC
+  source: newspapers.digitalnc.org
+  title: >-
+    FBI Spy Childs Says Red Cell is Active in Durham: Tells of Meeting with
+    Confessed Communist Scales
+  type: article-newspaper
+  URL: https://newspapers.digitalnc.org/lccn/sn92073228/1955-04-20/ed-1/seq-1/
 ...
