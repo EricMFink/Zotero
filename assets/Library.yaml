@@ -31626,4 +31626,112 @@ references:
     Confessed Communist Scales
   type: article-newspaper
   URL: https://newspapers.digitalnc.org/lccn/sn92073228/1955-04-20/ed-1/seq-1/
+
+- id: PETACooperComplaint2016
+  citation-key: PETACooperComplaint2016
+  issued:
+    - year: 2016
+      month: 1
+      day: 13
+  note: M.D.N.C.
+  title: PETA v. Cooper - Complaint
+  type: document
+
+- id: PETACooperAmendedComplaint2016
+  citation-key: PETACooperAmendedComplaint2016
+  issued:
+    - year: 2016
+      month: 2
+      day: 16
+  note: M.D.N.C.
+  title: PETA v. Cooper - 1st Amended Complaint
+  type: document
+
+- id: PETACooperChemerinskyAmicus2016
+  citation-key: PETACooperChemerinskyAmicus2016
+  issued:
+    - year: 2016
+      month: 8
+      day: 24
+  note: M.D.N.C.
+  title: PETA v. Cooper - Chemerinsky Amicus
+  type: document
+
+- id: PETASteinLawProfessorsAmicus2021
+  citation-key: PETASteinLawProfessorsAmicus2021
+  issued:
+    - year: 2021
+      month: 3
+      day: 1
+  note: 4th Cir.
+  title: PETA v. Stein - Law Professors Amicus
+  type: document
+
+- id: PETASteinLawProfessorsAmicus2017
+  citation-key: PETASteinLawProfessorsAmicus2017
+  issued:
+    - year: 2017
+      month: 8
+      day: 11
+  note: 4th Cir.
+  title: PETA v. Stein - Law Professors Amicus
+  type: document
+
+- id: PETACooperMediaAmicus2019
+  citation-key: PETACooperMediaAmicus2019
+  issued:
+    - year: 2019
+      month: 9
+      day: 3
+  note: M.D.N.C.
+  title: PETA v. Cooper - Media Amicus
+  type: document
+
+- id: PETASteinMediaAmicus2021
+  citation-key: PETASteinMediaAmicus2021
+  issued:
+    - year: 2021
+      month: 3
+      day: 1
+  note: 4th Cir.
+  title: PETA v. Stein - Media Amicus
+  type: document
+
+- id: PETASteinCert2023
+  citation-key: PETASteinCert2023
+  issued:
+    - year: 2023
+      month: 5
+      day: 24
+  title: PETA v. Stein - Cert Petition
+  type: document
+
+- id: PETASteinFarmWorkersAmicus2021
+  citation-key: PETASteinFarmWorkersAmicus2021
+  issued:
+    - year: 2021
+      month: 3
+      day: 1
+  title: PETA v. Stein - Farm Workers Amicus
+  type: document
+
+- id: ALDFWasdenFarmWorkersAmicus2016
+  citation-key: ALDFWasdenFarmWorkersAmicus2016
+  issued:
+    - year: 2016
+      month: 6
+      day: 26
+  note: 9th Cir.
+  title: ALDF v. Wasden - Farm Workers Amicus
+  type: document
+
+- id: ALDFWasdenIdahoLaborAmicus2016
+  citation-key: ALDFWasdenIdahoLaborAmicus2016
+  issued:
+    - year: 2016
+      month: 6
+      day: 23
+  note: 9th Cir.
+  title: ALDF v. Wasden - Idaho Labor Amicus
+  type: document
 ...
