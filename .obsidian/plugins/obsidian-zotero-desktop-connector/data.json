@@ -1,6 +1,6 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "Zotero/source-notes/",
+  "noteImportFolder": "notes/{{collections[0].fullPath}}",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 100,
@@ -19,8 +19,8 @@
   "exportFormats": [
     {
       "name": "Zotero Source Notes",
-      "outputPathTemplate": "Zotero/source-notes/{{collections[0].fullPath}}/@{{citekey}}.md",
-      "imageOutputPathTemplate": "source-notes/{{collections[0].fullPath}}/img/{{citekey}}",
+      "outputPathTemplate": "notes/{{collections[0].fullPath}}/@{{citekey}}.md",
+      "imageOutputPathTemplate": "notes/{{collections[0].fullPath}}/img/{{citekey}}",
       "imageBaseNameTemplate": "((citekey))-img",
       "templatePath": "assets/templates/zotero-notes.md",
       "cslStyle": "bluebook-law-review"

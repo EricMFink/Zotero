@@ -86,7 +86,7 @@
   "defaultColorPaletteItemIndex": 1,
   "syncColorPaletteItem": true,
   "syncDefaultColorPaletteItem": false,
-  "colorPaletteInToolbar": false,
+  "colorPaletteInToolbar": true,
   "noColorButtonInColorPalette": true,
   "colorPaletteInEmbedToolbar": false,
   "quietColorPaletteTooltip": false,

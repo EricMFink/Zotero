@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2bb9e7634a262737",
+        "id": "174941427ada941e",
         "type": "tabs",
         "children": [
           {
-            "id": "64327a9cef8905d9",
+            "id": "b5194e46099a1e7a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 310.5
   },
   "right": {
     "id": "7e1314546b4d1164",
@@ -164,9 +164,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "iconic:Open rulebook": false,
@@ -182,25 +182,29 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "64327a9cef8905d9",
+  "active": "b5194e46099a1e7a",
   "lastOpenFiles": [
     "README.md",
+    "pdf/Scales_v_US/SmithAct/@SmithActAmendment1948.pdf",
+    "pdf/Scales_v_US/SmithAct/@SmithAct1940.pdf",
+    "pdf/Scales_v_US/SmithAct/@Sheft1992.pdf",
+    "pdf/Scales_v_US/SmithAct/@NewTrialAwaits1954.pdf",
+    "pdf/Scales_v_US/SmithAct/@Belknap1977.pdf",
+    "pdf/Scales_v_US/SmithAct",
+    "pdf/Scales_v_US/NC&SouthernLeft/@ScalesDailyWorker.pdf",
+    "pdf/Scales_v_US/NC&SouthernLeft/@Link1965.pdf",
+    "pdf/Scales_v_US/NC&SouthernLeft/@Korstad1988.pdf",
+    "pdf/Scales_v_US/NC&SouthernLeft/@Holden2008.pdf",
+    "notes/Scales_v_US/@SmithActAmendment1948.md",
+    "notes/Scales_v_US/@IndictmentUSJunius1954.md",
+    "notes/@SmithActAmendment1948.md",
+    "notes/@IndictmentUSJunius1954.md",
     "Notes/DataTrespass/Preemption/@AshfordTRSNickel2018.md",
     "assets/css-test.md",
     "assets/templates/zotero-notes.md",
     "assets/templates/zotero-notes-with-colors.md",
     "assets/templates/default.md",
-    "assets/templates/blank.pdf",
-    "assets/templates",
-    "assets/settings/Obsidian-settings.json",
-    "assets/settings/BACKUP_markor_20250810-083843.json",
-    "assets/settings/BACKUP_markor_20250810-082954.json",
-    "assets/settings",
-    "assets/pandoc/pandoc-defaults.yaml",
-    "assets/pandoc",
     "assets/img/cafe-central-1900.jpg",
-    "assets/img",
-    "assets/css/obsidion.css",
     "Research/Untitled.md",
     "Fly Tying/Dry Flies/Renegade.md",
     "Fly Tying/Dry Flies/Sulphur.md",
@@ -216,11 +220,6 @@
     "Fly Tying/Nymphs & Wet Flies/MK-Sulphur-Emerger.md",
     "Fly Tying/Nymphs & Wet Flies/Killer-Bug.md",
     "Fly Tying/Nymphs & Wet Flies/Halfback-&-Fullback-Nymph.md",
-    "Fly Tying/Nymphs & Wet Flies/Euro-BHPT-Nymph.md",
-    "Fly Tying/Nymphs & Wet Flies/Egan’s-Red-Dart.md",
-    "Fly Tying/Nymphs & Wet Flies/Diawl-Bach.md",
-    "Fly Tying/Nymphs & Wet Flies/Cul-blanc-hot-spot.md",
-    "Fly Tying/Nymphs & Wet Flies/Coch-y-Bonddu.md",
     "Fly Tying/Dry Flies/img/devaux-cdl-mayfly.jpg",
     "Drinks/img/egyptian-mint-lemonade.jpg",
     "Drinks/img/agua-fresca-pepino.jpg",

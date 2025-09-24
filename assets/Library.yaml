@@ -22021,11 +22021,11 @@ references:
   type: legal_case
   volume: '372'
 
-- id: Fisk_nd
+- id: Fisk2022
   author:
     - family: Fisk
       given: Catherine
-  citation-key: Fisk_nd
+  citation-key: Fisk2022
   container-title: INDIANA LAW JOURNAL
   issued:
     - year: 2022
@@ -31512,11 +31512,11 @@ references:
   type: personal_communication
   URL: https://www.marxists.org/history/erol/periodicals/spark/spark-2-4.htm
 
-- id: Scales20
+- id: ScalesDailyWorker
   author:
     - family: Scales
       given: Junius
-  citation-key: Scales20
+  citation-key: ScalesDailyWorker
   container-title: Daily Worker
   event-place: New York, NY
   issued:
