@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "174941427ada941e",
+        "id": "713c76a0b3ed65f0",
         "type": "tabs",
         "children": [
           {
-            "id": "b5194e46099a1e7a",
+            "id": "c0f6e1e8bf4c6822",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,7 +164,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "templates:Insert template": false,
@@ -182,8 +181,12 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "b5194e46099a1e7a",
+  "active": "c0f6e1e8bf4c6822",
   "lastOpenFiles": [
+    "pdf/Scales_v_US/NC&SouthernLeft/@Buhle1989.pdf",
+    "notes/Scales_v_US/NC&SouthernLeft/@Buhle1989.md",
+    "notes/Scales_v_US/NC&SouthernLeft",
+    "pdf/Scales_v_US/NC&SouthernLeft/@GreeneII2020.pdf",
     "README.md",
     "pdf/Scales_v_US/SmithAct/@SmithActAmendment1948.pdf",
     "pdf/Scales_v_US/SmithAct/@SmithAct1940.pdf",
@@ -192,9 +195,6 @@
     "pdf/Scales_v_US/SmithAct/@Belknap1977.pdf",
     "pdf/Scales_v_US/SmithAct",
     "pdf/Scales_v_US/NC&SouthernLeft/@ScalesDailyWorker.pdf",
-    "pdf/Scales_v_US/NC&SouthernLeft/@Link1965.pdf",
-    "pdf/Scales_v_US/NC&SouthernLeft/@Korstad1988.pdf",
-    "pdf/Scales_v_US/NC&SouthernLeft/@Holden2008.pdf",
     "notes/Scales_v_US/@SmithActAmendment1948.md",
     "notes/Scales_v_US/@IndictmentUSJunius1954.md",
     "notes/@SmithActAmendment1948.md",
@@ -219,7 +219,6 @@
     "Fly Tying/Nymphs & Wet Flies/Noyée-Tag-Orange.md",
     "Fly Tying/Nymphs & Wet Flies/MK-Sulphur-Emerger.md",
     "Fly Tying/Nymphs & Wet Flies/Killer-Bug.md",
-    "Fly Tying/Nymphs & Wet Flies/Halfback-&-Fullback-Nymph.md",
     "Fly Tying/Dry Flies/img/devaux-cdl-mayfly.jpg",
     "Drinks/img/egyptian-mint-lemonade.jpg",
     "Drinks/img/agua-fresca-pepino.jpg",
