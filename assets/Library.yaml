@@ -29698,7 +29698,7 @@ references:
   type: webpage
   URL: https://crdl.usg.edu/record/ncgu_greensborovoices_jmsmith-int
 
-- id: Thernstrom1962
+- id: Dissent1962
   abstract: >-
     The infamous “membership clause” of the Smith Act makes it a criminal
     offense to be a “knowing” member of any organization which “advocates” the
@@ -29709,9 +29709,9 @@ references:
       month: 7
       day: 14
   author:
-    - family: Thernstrom
-      given: Stephen
-  citation-key: Thernstrom1962
+    - family: S.T.
+      given: ''
+  citation-key: Dissent1962
   container-title: Dissent Magazine
   issued:
     - year: 1962

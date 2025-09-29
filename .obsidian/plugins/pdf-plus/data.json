@@ -206,7 +206,7 @@
   "thumbnailLinkCopyFormat": "{{linkWithDisplay}}",
   "recordHistoryOnThumbnailClick": false,
   "popoverPreviewOnThumbnailHover": false,
-  "annotationPopupDrag": false,
+  "annotationPopupDrag": true,
   "showAnnotationPopupOnHover": true,
   "useCallout": false,
   "calloutType": "PDF",

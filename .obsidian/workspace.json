@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dda14cdc5ab9b7be",
+        "id": "d1253df37b24105a",
         "type": "tabs",
         "children": [
           {
-            "id": "f09948766a5502b7",
+            "id": "0dcf731f4cd2a36e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 335.5
   },
   "right": {
     "id": "7e1314546b4d1164",
@@ -143,23 +143,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "8522bba6bb384b16",
-            "type": "leaf",
-            "state": {
-              "type": "ReferenceListView",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "ReferenceListView"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 376.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -181,28 +171,31 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "cf490be3765810f8",
+  "active": "0dcf731f4cd2a36e",
   "lastOpenFiles": [
+    "notes/Scales_v_US/@FBISpyChilds1955.md",
+    "pdf/Scales_v_US/@FBISpyChilds1955.pdf",
+    "notes/Scales_v_US/@Dissent1962.md",
+    "pdf/Scales_v_US/@Grant1961.pdf",
+    "pdf/Scales_v_US/@Sheft1992.pdf",
+    "pdf/Scales_v_US/@SmithAct1940.pdf",
+    "pdf/Scales_v_US/@Buhle1989.pdf",
+    "assets/css/zotero-notes.css",
+    "notes/{{collections[0].fullPath}}/Dissent1962.md",
+    "notes/{{collections[0].fullPath}}",
+    "pdf/Scales_v_US/@Dissent1962.pdf",
+    "pdf/Law/Rule of Law/@Scheppele2024.pdf",
+    "pdf/Law/Guardianships/@2022FEO1.pdf",
+    "assets/templates/zotero-notes.md",
     "notes/DataTrespass/Preemption/@AshfordTRSNickel2018.md",
-    "pdf/Scales_v_US/NC&SouthernLeft/@Buhle1989.pdf",
     "notes/Scales_v_US/NC&SouthernLeft/@Buhle1989.md",
-    "notes/Scales_v_US/NC&SouthernLeft",
-    "pdf/Scales_v_US/NC&SouthernLeft/@GreeneII2020.pdf",
     "README.md",
-    "pdf/Scales_v_US/SmithAct/@SmithActAmendment1948.pdf",
-    "pdf/Scales_v_US/SmithAct/@SmithAct1940.pdf",
-    "pdf/Scales_v_US/SmithAct/@Sheft1992.pdf",
-    "pdf/Scales_v_US/SmithAct/@NewTrialAwaits1954.pdf",
-    "pdf/Scales_v_US/SmithAct/@Belknap1977.pdf",
-    "pdf/Scales_v_US/SmithAct",
-    "pdf/Scales_v_US/NC&SouthernLeft/@ScalesDailyWorker.pdf",
     "notes/Scales_v_US/@SmithActAmendment1948.md",
     "notes/Scales_v_US/@IndictmentUSJunius1954.md",
     "notes/@SmithActAmendment1948.md",
     "notes/@IndictmentUSJunius1954.md",
     "Notes/DataTrespass/Preemption/@AshfordTRSNickel2018.md",
     "assets/css-test.md",
-    "assets/templates/zotero-notes.md",
     "assets/templates/zotero-notes-with-colors.md",
     "assets/templates/default.md",
     "assets/img/cafe-central-1900.jpg",
@@ -216,10 +209,6 @@
     "Fly Tying/Nymphs & Wet Flies/Thread-Body-Soft-Hackle.md",
     "Fly Tying/Nymphs & Wet Flies/Squirrel-Nymph.md",
     "Fly Tying/Nymphs & Wet Flies/Spanish-Needle.md",
-    "Fly Tying/Nymphs & Wet Flies/OFN-Cream.md",
-    "Fly Tying/Nymphs & Wet Flies/Noyée-Tag-Orange.md",
-    "Fly Tying/Nymphs & Wet Flies/MK-Sulphur-Emerger.md",
-    "Fly Tying/Nymphs & Wet Flies/Killer-Bug.md",
     "Fly Tying/Dry Flies/img/devaux-cdl-mayfly.jpg",
     "Drinks/img/egyptian-mint-lemonade.jpg",
     "Drinks/img/agua-fresca-pepino.jpg",
