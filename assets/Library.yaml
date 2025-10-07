@@ -20228,6 +20228,21 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.23
 
+- id: McGee1956
+  author:
+    - family: McGee
+      given: Fred
+  citation-key: McGee1956
+  container-title: Durham Herald-Sun
+  event-place: Durham, NC
+  issued:
+    - year: 1956
+      month: 3
+      day: 14
+  publisher-place: Durham, NC
+  title: Communists Planted In South, Solon Says N.C. Probe Shows
+  type: article-newspaper
+
 - id: McGeeInternationalLife1957
   authority: U.S.
   citation-key: McGeeInternationalLife1957
