@@ -5,14 +5,14 @@ year: 2025
 authors: Liz Poulos
 collection: DataTrespass/Recording 
 cssclasses: ["zotero"]
-created: 2025-06-22
-modified: 2025-07-10
-tags: protected-concerted-activity, workplace-recording
+tags: ObsCite, protected-concerted-activity, workplace-recording
+created: 2025-07-14
+modified: 2025-07-17
 ---
 
-Liz Poulos, _You Have the Right to Record Your Boss: At the Intersection of Organizing Rights and Privacy Law in Starbucks Corp._, On Labor (May 10, 2025), [https://onlabor.org/you-have-the-right-to-record-your-boss-at-the-intersection-of-organizing-rights-and-privacy-law-in-starbucks-corp](https://onlabor.org/you-have-the-right-to-record-your-boss-at-the-intersection-of-organizing-rights-and-privacy-law-in-starbucks-corp).
+1. Liz Poulos, _You Have the Right to Record Your Boss: At the Intersection of Organizing Rights and Privacy Law in Starbucks Corp._, On Labor (May 10, 2025), [https://onlabor.org/you-have-the-right-to-record-your-boss-at-the-intersection-of-organizing-rights-and-privacy-law-in-starbucks-corp](https://onlabor.org/you-have-the-right-to-record-your-boss-at-the-intersection-of-organizing-rights-and-privacy-law-in-starbucks-corp).
 
-Zotero PDF Link: [@Poulos2025.pdf](zotero://select/library/items/G8SYBVGG)
+Zotero PDF Link: 
 
 ### Persistent Notes
 
@@ -25,4 +25,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-07-10T17:24:02.809-04:00 %%
+%% Import Date: 2025-10-08T16:24:21.145-04:00 %%

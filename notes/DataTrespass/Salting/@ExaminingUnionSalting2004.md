@@ -5,14 +5,14 @@ year: 2004
 authors: 
 collection: DataTrespass/Salting 
 cssclasses: ["zotero"]
-created: 2025-06-22
-modified: 2025-07-10
-tags: protected-concerted-activity, labor-organizing, unions, salting
+tags: ObsCite, protected-concerted-activity, unions, labor-organizing, salting
+created: 2025-07-14
+modified: 2025-07-17
 ---
 
-_Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S. Economy: Hearing before the Subcomm. on Employer-Employee Relations of the H. Comm. on Education and the Workforce_, (2004).
+1. _Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S. Economy: Hearing before the Subcomm. on Employer-Employee Relations of the H. Comm. on Education and the Workforce_, (2004).
 
-Zotero PDF Link: [@ExaminingUnionSalting2004.pdf](zotero://select/library/items/QXQ24JBG)
+Zotero PDF Link: [@ExaminingUnionSalting2004.pdf](zotero://select/library/items/HT5YA62Y)
 
 ### Persistent Notes
 
@@ -25,4 +25,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-07-10T17:24:02.223-04:00 %%
+%% Import Date: 2025-10-08T16:57:00.679-04:00 %%

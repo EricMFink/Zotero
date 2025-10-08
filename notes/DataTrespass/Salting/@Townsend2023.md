@@ -5,14 +5,14 @@ year: 2023
 authors: Chris Townsend
 collection: DataTrespass/Salting 
 cssclasses: ["zotero"]
-created: 2025-06-22
-modified: 2025-07-10
-tags: protected-concerted-activity, labor-organizing, salting
+tags: ObsCite, protected-concerted-activity, labor-organizing, salting
+created: 2025-07-14
+modified: 2025-07-17
 ---
 
-Chris Townsend, _Salting Wouldn’t Be Necessary If Employers Didn’t Union Bust_, Jacobin, May 2023, [https://jacobin.com/2023/05/american-labor-movement-decline-salting-union-organizing/](https://jacobin.com/2023/05/american-labor-movement-decline-salting-union-organizing/).
+1. Chris Townsend, _Salting Wouldn’t Be Necessary If Employers Didn’t Union Bust_, Jacobin, May 2023, [https://jacobin.com/2023/05/american-labor-movement-decline-salting-union-organizing/](https://jacobin.com/2023/05/american-labor-movement-decline-salting-union-organizing/).
 
-Zotero PDF Link: [@Townsend2023.pdf](zotero://select/library/items/GAFPJPWL)
+Zotero PDF Link: [@Townsend2023.pdf](zotero://select/library/items/UY4HQQ6X)
 
 ### Persistent Notes
 
@@ -25,4 +25,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-07-10T17:24:02.747-04:00 %%
+%% Import Date: 2025-10-08T16:57:00.748-04:00 %%
