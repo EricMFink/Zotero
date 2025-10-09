@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "87b7d8bdb7af95a0",
+        "id": "d705163d0f04492a",
         "type": "tabs",
         "children": [
           {
-            "id": "3efef1da458b37c2",
+            "id": "b2f6a314c982ab56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/DataTrespass/Preemption/@Befort1998.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "@Befort1998"
-            }
-          },
-          {
-            "id": "a8ce22fb6f9d8364",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/DataTrespass/AgGagArticles/@AmericanLegislativeExchangeCouncil2003.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "@AmericanLegislativeExchangeCouncil2003"
-            }
-          },
-          {
-            "id": "e5c62111420ab64a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Scales_v_US/@Belknap1977.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "@Belknap1977"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +171,7 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "e5c62111420ab64a",
+  "active": "cf490be3765810f8",
   "lastOpenFiles": [
     "notes/DataTrespass/AgGagArticles/@AmericanLegislativeExchangeCouncil2003.md",
     "notes/Scales_v_US/@Troutman2024.md",
