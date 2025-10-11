@@ -2,17 +2,14 @@
 citekey: DavisBenihanaInc_DNJ2025
 title: Davis v. Benihana, Inc.
 year: 2025
-authors: 
 collection: DataTrespass/Preemption 
+tags: ObsCite, labor-preemption
 cssclasses: ["zotero"]
-tags: labor-preemption
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Davis v. Benihana, Inc., 772 F.Supp.3d 524 (D.N.J. 2025).
-
-Zotero PDF Link: [@DavisBenihanaInc_DNJ2025.pdf](zotero://select/library/items/7WIULMAP)
 
 ### Persistent Notes
 
@@ -25,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T16:24:20.130-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.188-04:00 %%

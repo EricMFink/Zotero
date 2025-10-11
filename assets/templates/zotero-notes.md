@@ -1,18 +1,16 @@
 ---
 citekey: {{citationKey}}
-title: {% if caseName %}{{caseName}}{% elif nameOfAct %}{{nameOfAct}}{% else %}"{{title | escape}}"{% endif %}
-year: {{date | format("YYYY")}}
-authors: {{authors}}
+title: {% if caseName %}{{caseName}}{% elif nameOfAct %}{{nameOfAct}}{% else %}"{{title}}"{% endif %}{% if date %}
+year: {{date | format("YYYY")}}{% endif %}{% if authors %}
+authors: {{authors}}{% endif %}
 collection: {{collections[0].fullPath}} 
-cssclasses: ["zotero"]
 tags: {% if allTags %}{{allTags}}{% endif %}
+cssclasses: ["zotero"]
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 {{bibliography}}
-
-Zotero PDF Link: {{pdfZoteroLink}}
 
 ### Persistent Notes
 

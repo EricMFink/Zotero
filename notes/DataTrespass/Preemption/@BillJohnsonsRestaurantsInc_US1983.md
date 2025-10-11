@@ -2,17 +2,14 @@
 citekey: BillJohnsonsRestaurantsInc_US1983
 title: Bill Johnson's Restaurants, Inc. v. NLRB
 year: 1983
-authors: 
 collection: DataTrespass/Preemption 
+tags: ObsCite, labor-preemption
 cssclasses: ["zotero"]
-tags: labor-preemption
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Bill Johnson’s Restaurants, Inc. v. NLRB, 461 U.S. 731 (U.S. 1983).
-
-Zotero PDF Link: [@BillJohnsonsRestaurantsInc_US1983.pdf](zotero://select/library/items/I6Z93CK7)
 
 ### Persistent Notes
 
@@ -25,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T16:24:19.975-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.161-04:00 %%

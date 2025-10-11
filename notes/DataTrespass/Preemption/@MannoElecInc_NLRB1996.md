@@ -2,17 +2,14 @@
 citekey: MannoElecInc_NLRB1996
 title: Manno Elec., Inc.
 year: 1996
-authors: 
 collection: DataTrespass/Preemption 
+tags: ObsCite, labor-preemption
 cssclasses: ["zotero"]
-tags: labor-preemption
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Manno Elec., Inc., 321 N.L.R.B. 297 (N.L.R.B. 1996).
-
-Zotero PDF Link: [@MannoElecInc_NLRB1996.pdf](zotero://select/library/items/L8ERU3VS)
 
 ### Persistent Notes
 
@@ -25,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T16:24:20.609-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.304-04:00 %%

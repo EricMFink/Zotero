@@ -2,17 +2,14 @@
 citekey: EthridgeHarborHouseRestaurant_9thCir1988
 title: Ethridge v. Harbor House Restaurant
 year: 1988
-authors: 
 collection: DataTrespass/Preemption 
+tags: ObsCite, labor-preemption
 cssclasses: ["zotero"]
-tags: labor-preemption
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Ethridge v. Harbor House Restaurant, 861 F.2d 1389 (9th Cir. 1988).
-
-Zotero PDF Link: [@EthridgeHarborHouseRestaurant_9thCir1988.pdf](zotero://select/library/items/6E4LHDPB)
 
 ### Persistent Notes
 
@@ -25,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T16:24:20.174-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.191-04:00 %%

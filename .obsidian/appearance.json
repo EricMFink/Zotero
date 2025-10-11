@@ -1,9 +1,10 @@
 {
   "enabledCssSnippets": [
+    "obsidion",
     "zotero-notes"
   ],
   "accentColor": "#f55c5c",
   "theme": "moonstone",
   "monospaceFontFamily": "LFT Etica Mono,Source Code Pro",
-  "textFontFamily": "Lato,Proza Libre"
+  "textFontFamily": "Lato,Proza Libre,Literata,Source Code Pro"
 }

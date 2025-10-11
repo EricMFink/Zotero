@@ -12,8 +12,8 @@
     },
     {
       "name": "Bibliography",
-      "format": "formatted-bibliography",
-      "cslStyle": "chicago-annotated-bibliography"
+      "format": "formatted-citation",
+      "cslStyle": "bluebook-law-review"
     }
   ],
   "exportFormats": [
@@ -27,7 +27,7 @@
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": true,
+  "openNoteAfterImport": false,
   "whichNotesToOpenAfterImport": "first-imported-note",
   "exeOverridePath": "/home/efink/Research/Zotero/.obsidian/pdfannots2.json"
 }

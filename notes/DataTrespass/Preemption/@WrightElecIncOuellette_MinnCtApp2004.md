@@ -2,17 +2,14 @@
 citekey: WrightElecIncOuellette_MinnCtApp2004
 title: Wright Elec., Inc. v. Ouellette
 year: 2004
-authors: 
 collection: DataTrespass/Preemption 
+tags: ObsCite, labor-preemption
 cssclasses: ["zotero"]
-tags: labor-preemption
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Wright Elec., Inc. v. Ouellette, 686 N.W.2d 313 (Minn. Ct. App. 2004).
-
-Zotero PDF Link: [@WrightElecIncOuellette_MinnCtApp2004.pdf](zotero://select/library/items/JC7FL2XI)
 
 ### Persistent Notes
 
@@ -25,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T16:24:21.633-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.395-04:00 %%

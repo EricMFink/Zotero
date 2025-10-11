@@ -2,17 +2,14 @@
 citekey: AssociatedBuildingContractorsInc_NLRB2000
 title: Associated Building Contractors, Inc.
 year: 2000
-authors: 
 collection: DataTrespass/Preemption 
+tags: ObsCite, labor-preemption
 cssclasses: ["zotero"]
-tags: labor-preemption
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Associated Building Contractors, Inc., 331 N.L.R.B. 132 (N.L.R.B. 2000).
-
-Zotero PDF Link: [@AssociatedBuildingContractorsInc_NLRB2000.pdf](zotero://select/library/items/G9CRF27M)
 
 ### Persistent Notes
 
@@ -25,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T16:24:19.902-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.141-04:00 %%

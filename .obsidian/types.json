@@ -5,7 +5,11 @@
     "tags": "tags",
     "modified": "date",
     "created": "date",
-    "date": "text",
-    "autoscroll-speed": "number"
+    "date": "date",
+    "autoscroll-speed": "number",
+    "citekey": "text",
+    "title": "text",
+    "authors": "text",
+    "collection": "text"
   }
 }

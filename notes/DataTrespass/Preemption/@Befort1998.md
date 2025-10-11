@@ -4,15 +4,13 @@ title: "Demystifying Federal Labor and Employment Law Preemption"
 year: 1998
 authors: Stephen F. Befort
 collection: DataTrespass/Preemption 
+tags: ObsCite, labor-preemption
 cssclasses: ["zotero"]
-tags: labor-preemption
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Stephen F. Befort, _Demystifying Federal Labor and Employment Law Preemption_, 13 The Labor Lawyer 429 (1998).
-
-Zotero PDF Link: 
 
 ### Persistent Notes
 
@@ -25,4 +23,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T17:27:26.470-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.144-04:00 %%

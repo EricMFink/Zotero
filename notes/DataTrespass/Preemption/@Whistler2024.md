@@ -4,15 +4,13 @@ title: "Labor Law’s Preemption Problem: Glacier Northwest and What the Fate of
 year: 2024
 authors: Alexander S Whistler
 collection: DataTrespass/Preemption 
-cssclasses: ["zotero"]
 tags: ObsCite, labor-preemption
+cssclasses: ["zotero"]
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Alexander S Whistler, _Labor Law’s Preemption Problem: Glacier Northwest and What the Fate of Garmon Means for American Workers_, 73 UC Law Journal 853 (2024).
-
-Zotero PDF Link: [@Whistler2024.pdf](zotero://select/library/items/S6QH4LB2)
 
 ### Persistent Notes
 
@@ -25,4 +23,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T16:24:21.592-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.384-04:00 %%

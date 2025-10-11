@@ -2,17 +2,14 @@
 citekey: FisherCommunicationWorkersAmerica_NCApp2011
 title: Fisher v. Communication Workers of America
 year: 2011
-authors: 
 collection: DataTrespass/Preemption 
+tags: ObsCite, labor-preemption
 cssclasses: ["zotero"]
-tags: labor-preemption
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Fisher v. Communication Workers of America, 716 SE 2d 396 (N.C. App. 2011).
-
-Zotero PDF Link: [@FisherCommunicationWorkersAmerica_NCApp2011.pdf](zotero://select/library/items/BVGGIPNV)
 
 ### Persistent Notes
 
@@ -25,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T16:24:20.253-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.208-04:00 %%

@@ -2,17 +2,14 @@
 citekey: FriedgesDrywallIncNorth_MinnCtApp2009
 title: Friedges Drywall, Inc. v. North Central States Regional Council of Capenters
 year: 2009
-authors: 
 collection: DataTrespass/Preemption 
+tags: ObsCite, labor-preemption
 cssclasses: ["zotero"]
-tags: labor-preemption
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Friedges Drywall, Inc. v. North Central States Regional Council of Capenters (Minn. Ct. App. 2009).
-
-Zotero PDF Link: [@FriedgesDrywallIncNorth_MinnCtApp2009.pdf](zotero://select/library/items/LRX5DCDG)
 
 ### Persistent Notes
 
@@ -25,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T16:24:20.335-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.218-04:00 %%

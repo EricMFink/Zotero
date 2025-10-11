@@ -2,17 +2,14 @@
 citekey: FarmerUnitedBrotherhoodCarpenters_US1977
 title: Farmer v. United Brotherhood of Carpenters & Joiners, Local 25
 year: 1977
-authors: 
 collection: DataTrespass/Preemption 
+tags: ObsCite, labor-preemption
 cssclasses: ["zotero"]
-tags: labor-preemption
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Farmer v. United Brotherhood of Carpenters & Joiners, Local 25, 430 US 290 (U.S. 1977).
-
-Zotero PDF Link: [@FarmerUnitedBrotherhoodCarpenters_US1977.pdf](zotero://select/library/items/PZ87NZ9V)
 
 ### Persistent Notes
 
@@ -25,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T16:24:20.212-04:00 %%
+%% Import Date: 2025-10-11T16:56:25.195-04:00 %%
