@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d705163d0f04492a",
+        "id": "a4f7eecfd5a7e145",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f6a314c982ab56",
+            "id": "1ff5e0b2b42465f0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,6 +173,10 @@
   },
   "active": "cf490be3765810f8",
   "lastOpenFiles": [
+    "notes/DataTrespass/AgGagArticles/@CaseNoteAnimal2022.md",
+    "notes/Scales_v_US/@OralHistoryInterview.md",
+    "notes/Scales_v_US/@NewTrialAwaits1954.md",
+    "notes/Scales_v_US/@Proyect.md",
     "notes/DataTrespass/AgGagArticles/@AmericanLegislativeExchangeCouncil2003.md",
     "notes/Scales_v_US/@Troutman2024.md",
     "notes/Scales_v_US/@Taylor2009.md",
@@ -189,16 +193,12 @@
     "notes/Scales_v_US/@RootedResilienceRising.md",
     "notes/Scales_v_US/@Robinson2002.md",
     "notes/Scales_v_US/@RedFamily.md",
-    "notes/Scales_v_US/@Proyect.md",
-    "notes/Scales_v_US/@OralHistoryInterview.md",
-    "notes/Scales_v_US/@NewTrialAwaits1954.md",
     "notes/Scales_v_US/@McNeillSmithPapers.md",
     "notes/Scales_v_US/@McGee1956.md",
     "notes/Scales_v_US/@McDuffie2011.md",
     "notes/Scales_v_US/@Link1965.md",
     "notes/Scales_v_US/@Lemieux2023.md",
     "notes/Scales_v_US/@Korstad1988.md",
-    "notes/Scales_v_US/@JuniusScales.md",
     "notes/Scales_v_US",
     "notes/DataTrespass/AgGagArticles",
     "notes/DataTrespass/NCPPA_Litigation",
