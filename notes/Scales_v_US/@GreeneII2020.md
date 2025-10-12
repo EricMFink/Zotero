@@ -4,13 +4,15 @@ title: "The Lost History of Southern Communism"
 year: 2020
 authors: Robert Greene II
 collection: Scales_v_US 
-tags: ObsCite
 cssclasses: ["zotero"]
+tags: ObsCite
 created: 2025-07-14
-modified: 2025-10-11
+modified: 2025-07-17
 ---
 
 1. Robert Greene II, _The Lost History of Southern Communism_, The Nation, June 2020, [https://www.thenation.com/article/politics/red-black-white-alabama-communist-party-mary-stanton/](https://www.thenation.com/article/politics/red-black-white-alabama-communist-party-mary-stanton/).
+
+Zotero PDF Link: [@GreeneII2020.pdf](zotero://select/library/items/XKGJTDD8)
 
 ### Persistent Notes
 
@@ -23,4 +25,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.183-04:00 %%
+%% Import Date: 2025-10-08T17:29:27.654-04:00 %%

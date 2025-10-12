@@ -4,13 +4,15 @@ title: "The Case of Junius Scales"
 year: 1962
 authors: 
 collection: Scales_v_US 
-tags: ObsCite
 cssclasses: ["zotero"]
+tags: 
 created: 2025-07-14
-modified: 2025-10-11
+modified: 2025-07-17
 ---
 
 1. _The Case of Junius Scales_, Dissent Magazine, Spring 1962, [https://www.dissentmagazine.org/article/the-case-of-junius-scales/](https://www.dissentmagazine.org/article/the-case-of-junius-scales/).
+
+Zotero PDF Link: [@ST1962.pdf](zotero://select/library/items/EXAHIFHQ)
 
 ### Persistent Notes
 
@@ -35,4 +37,4 @@ Refers to Scales as "the only American to be imprisoned solely for being a "know
 
 
 
-%% Import Date: 2025-10-11T16:36:41.122-04:00 %%
+%% Import Date: 2025-10-08T17:29:27.545-04:00 %%

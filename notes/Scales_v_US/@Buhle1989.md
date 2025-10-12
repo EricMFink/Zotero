@@ -4,13 +4,15 @@ title: "The Oral History of the Left in the United States: A Survey and Interpre
 year: 1989
 authors: Paul Buhle, Robin D. G. Kelley
 collection: Scales_v_US 
-tags: ObsCite
 cssclasses: ["zotero"]
+tags: ObsCite
 created: 2025-07-14
-modified: 2025-10-11
+modified: 2025-07-17
 ---
 
 1. Paul Buhle & Robin D. G. Kelley, _The Oral History of the Left in the United States: A Survey and Interpretation_, 76 Journal of American History 537 (1989).
+
+Zotero PDF Link: [@Buhle1989.pdf](zotero://select/library/items/ICTVHC4L)
 
 ### Persistent Notes
 
@@ -28,4 +30,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.116-04:00 %%
+%% Import Date: 2025-10-08T17:29:27.510-04:00 %%

@@ -4,13 +4,15 @@ title: "The History of the North Carolina Communist Party"
 year: 2009
 authors: Gregory S. Taylor
 collection: Scales_v_US 
-tags: ObsCite
 cssclasses: ["zotero"]
+tags: ObsCite
 created: 2025-07-14
-modified: 2025-10-11
+modified: 2025-07-17
 ---
 
 1. Gregory S. Taylor, The History of the North Carolina Communist Party (2009).
+
+Zotero PDF Link: 
 
 ### Persistent Notes
 
@@ -23,4 +25,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.296-04:00 %%
+%% Import Date: 2025-10-08T17:29:28.034-04:00 %%

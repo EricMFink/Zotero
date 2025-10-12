@@ -4,13 +4,15 @@ title: "The End of the Smith Act Era: A Legal and Historical Analysis of Scales 
 year: 1992
 authors: Mark A. Sheft
 collection: Scales_v_US 
-tags: ObsCite
 cssclasses: ["zotero"]
+tags: ObsCite
 created: 2025-07-14
-modified: 2025-10-11
+modified: 2025-07-17
 ---
 
 1. Mark A. Sheft, _The End of the Smith Act Era: A Legal and Historical Analysis of Scales v. United States on JSTOR_, 36 American Journal of Legal History 164 (1992).
+
+Zotero PDF Link: [@Sheft1992.pdf](zotero://select/library/items/VWRU96FT)
 
 ### Persistent Notes
 
@@ -23,4 +25,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.282-04:00 %%
+%% Import Date: 2025-10-08T17:29:27.997-04:00 %%

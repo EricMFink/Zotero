@@ -4,13 +4,15 @@ title: Smith Act (Amendment)
 year: 1948
 authors: 
 collection: Scales_v_US 
-tags: ObsCite
 cssclasses: ["zotero"]
+tags: ObsCite
 created: 2025-07-14
-modified: 2025-10-11
+modified: 2025-07-17
 ---
 
 1. Smith Act (Amendment) of 1948, 62 Stat. 808, 18 U.S.C. § 2385.
+
+Zotero PDF Link: [@SmithActAmendment1948.pdf](zotero://select/library/items/S8SFVWUS)
 
 ### Persistent Notes
 
@@ -28,4 +30,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.289-04:00 %%
+%% Import Date: 2025-10-08T17:29:28.021-04:00 %%

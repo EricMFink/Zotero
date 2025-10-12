@@ -4,13 +4,15 @@ title: "Communists on Campus: Race, Politics, and the Public University in Sixti
 year: 2017
 authors: William J. Billingsley
 collection: Scales_v_US 
-tags: ObsCite
 cssclasses: ["zotero"]
+tags: ObsCite
 created: 2025-07-14
-modified: 2025-10-11
+modified: 2025-07-17
 ---
 
 1. William J. Billingsley, Communists on Campus: Race, Politics, and the Public University in Sixties North Carolina (2017).
+
+Zotero PDF Link: 
 
 ### Persistent Notes
 
@@ -23,4 +25,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.111-04:00 %%
+%% Import Date: 2025-10-08T17:29:27.496-04:00 %%

@@ -4,13 +4,15 @@ title: "Cold War Political Justice: The Smith Act, the Communist Party, and Amer
 year: 1977
 authors: Michal R. Belknap
 collection: Scales_v_US 
-tags: ObsCite
 cssclasses: ["zotero"]
+tags: ObsCite
 created: 2025-07-14
-modified: 2025-10-11
+modified: 2025-07-17
 ---
 
 1. Michal R. Belknap, Cold War Political Justice: The Smith Act, the Communist Party, and American Civil Liberties (1977).
+
+Zotero PDF Link: [@Belknap1977.pdf](zotero://select/library/items/M9GDCF4N)
 
 ### Persistent Notes
 
@@ -23,4 +25,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.082-04:00 %%
+%% Import Date: 2025-10-08T17:29:27.455-04:00 %%
