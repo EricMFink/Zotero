@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "977e19f1391d7974",
+        "id": "46eb690b270e4121",
         "type": "tabs",
         "children": [
           {
-            "id": "1dd0f2a99ec99224",
+            "id": "91274ff5cc1b2d98",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -171,8 +171,9 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "cf490be3765810f8",
+  "active": "91274ff5cc1b2d98",
   "lastOpenFiles": [
+    "assets/templates/zotero-notes.md",
     "notes/Scales_v_US/@Taylor2009.md",
     "notes/Scales_v_US/@SouthernTruthCommunism_Troutman_Scalawag2024.md",
     "notes/Scales_v_US/@SmithActAmendment1948.md",
@@ -198,7 +199,6 @@
     "notes/Scales_v_US/@JuniusScalesOrdeal_Grant_NationalGuardian_1961.md",
     "notes/Scales_v_US/@JuniusScalesIndictment_USDepartmentofJustice1954.md",
     "notes/Scales_v_US/@JuniusScales_LouisProyect_nd.md",
-    "notes/Scales_v_US/@JuniusScales_FromtheRockWall_nd.md",
     "notes/Scales_v_US",
     "pdf/Scales_v_US/@Buhle1989.pdf",
     "pdf/Scales_v_US/@FBISpyChilds_DailyTarHeel_1955.pdf",
