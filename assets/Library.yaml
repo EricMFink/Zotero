@@ -1,126 +1,118 @@
 ---
 references:
-- id: 2002FormalEthics2003
+- id: 2002FEO8_NCStateBar2003
   accessed:
     - year: 2024
       month: 7
       day: 9
-  citation-key: 2002FormalEthics2003
+  citation-key: 2002FEO8_NCStateBar2003
   issued:
     - year: 2003
       month: 1
       day: 24
   publisher: NC State Bar
   title: >-
-    2002 Formal Ethics Opinion 8: Direct Contact with Lawyer Appointed Guardian
-    Ad Litem for Minor Plaintiff
+    2002 FEO 8: Direct Contact with Lawyer Appointed Guardian Ad Litem for Minor
+    Plaintiff
   type: document
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2002-formal-ethics-opinion-8/
 
-- id: 2004FormalEthics2005
+- id: 2004FEO11_NCStateBar2005
   accessed:
     - year: 2024
       month: 7
       day: 9
-  citation-key: 2004FormalEthics2005
+  citation-key: 2004FEO11_NCStateBar2005
   issued:
     - year: 2005
       month: 1
       day: 31
   publisher: NC State Bar
-  title: '2004 Formal Ethics Opinion 11: Lawyer as Appointed Guardian Ad Litem'
+  title: '2004 FEO 11: Lawyer as Appointed Guardian Ad Litem'
   type: document
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2004-formal-ethics-opinion-11/
 
-- id: 2006FormalEthics2006
+- id: 2006FEO19_NCStateBar2007
   accessed:
     - year: 2024
       month: 7
       day: 9
-  citation-key: 2006FormalEthics2006
-  issued:
-    - year: 2006
-      month: 7
-      day: 21
-  publisher: NC State Bar
-  title: >-
-    2006 Formal Ethics Opinion 9 Pursuing Frivolous Claim at the Direction of
-    GAL for Plaintiff
-  type: document
-  URL: >-
-    https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2006-formal-ethics-opinion-9/
-
-- id: 2006FormalEthics2007
-  accessed:
-    - year: 2024
-      month: 7
-      day: 9
-  citation-key: 2006FormalEthics2007
+  citation-key: 2006FEO19_NCStateBar2007
   issued:
     - year: 2007
       month: 1
       day: 19
   publisher: NC State Bar
-  title: >-
-    2006 Formal Ethics Opinion 19: Communications by Guardian Ad Litem With
-    Represented Person
+  title: '2006 FEO 19: Communications by Guardian Ad Litem With Represented Person'
   type: document
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2006-formal-ethics-opinion-19/
 
-- id: 2012FormalEthics2013
+- id: 2006FEO9_NCStateBar2006
   accessed:
     - year: 2024
       month: 7
       day: 9
-  citation-key: 2012FormalEthics2013
+  citation-key: 2006FEO9_NCStateBar2006
+  issued:
+    - year: 2006
+      month: 7
+      day: 21
+  publisher: NC State Bar
+  title: 2006 FEO 9 Pursuing Frivolous Claim at the Direction of GAL for Plaintiff
+  type: document
+  URL: >-
+    https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2006-formal-ethics-opinion-9/
+
+- id: 2012FEO9_NCStateBar2013
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: 2012FEO9_NCStateBar2013
   issued:
     - year: 2013
       month: 1
       day: 25
   publisher: NC State Bar
   title: >-
-    2012 Formal Ethics Opinion 9: Identifying the Roles and Responsibilities of
-    a Lawyer Appinted to Represent a Child or the Child's Best Interests in a
-    Contested Custody or Visitation Case
+    2012 FEO 9: Identifying the Roles and Responsibilities of a Lawyer Appinted
+    to Represent a Child or the Child's Best Interests in a Contested Custody or
+    Visitation Case
   type: document
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2012-formal-ethics-opinion-9/
 
-- id: 2022FormalEthics2022
+- id: 2022FEO1_NCStateBar2022
   accessed:
     - year: 2024
       month: 7
       day: 9
-  citation-key: 2022FormalEthics2022
+  citation-key: 2022FEO1_NCStateBar2022
   issued:
     - year: 2022
       month: 4
       day: 22
   publisher: NC State Bar
-  title: >-
-    2022 Formal Ethics Opinion 1: Attorney Serving Dual Role of Guardian Ad
-    Litem and Advocate
+  title: '2022 FEO 1: Attorney Serving Dual Role of Guardian Ad Litem and Advocate'
   type: document
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2022-formal-ethics-opinion-1/
 
-- id: 98FormalEthics1999
+- id: 98FEO16_NCStateBar1999
   accessed:
     - year: 2024
       month: 7
       day: 9
-  citation-key: 98FormalEthics1999
+  citation-key: 98FEO16_NCStateBar1999
   issued:
     - year: 1999
       month: 1
       day: 15
   publisher: NC State Bar
-  title: >-
-    98 Formal Ethics Opinion 16: Representation of Client Resisting an
-    Incompetency Petition
+  title: '98 FEO 16: Representation of Client Resisting an Incompetency Petition'
   type: document
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/98-formal-ethics-opinion-16/
@@ -616,19 +608,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/02633957211041444
   volume: '44'
-
-- id: AdministrativeOfficeoftheUSCourtsn.d.
-  author:
-    - family: Administrative Office of the U.S. Courts
-      given: ''
-  citation-key: AdministrativeOfficeoftheUSCourtsn.d.
-  issued:
-    - literal: n.d.
-  title: Understanding the Federal Courts
-  title-short: Understanding the Federal Courts
-  type: document
-  URL: >-
-    https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf
 
 - id: AerotekIncNLRB_8thCir2018
   authority: 8th Cir.
@@ -1228,6 +1207,28 @@ references:
   title: Animal League Defense Fund v. Peco Foods, Inc.
   title-short: Peco Foods
   type: legal_case
+
+- id: AnimalLegalDefense2022
+  abstract: >-
+    In United States v. Alvarez, a fractured Court invalidated the Stolen Valor
+    Act of 2005 — prohibiting any person from “falsely represent[ing] himself
+    or...
+  accessed:
+    - year: 2024
+      month: 4
+      day: 23
+  citation-key: AnimalLegalDefense2022
+  container-title: Harvard Law Review
+  issued:
+    - year: 2022
+      month: 2
+  language: en-US
+  page: '1166'
+  title: Animal Legal Defense Fund v. Reynolds (Case Note)
+  type: article-journal
+  URL: >-
+    https://harvardlawreview.org/print/vol-135/animal-legal-defense-fund-v-reynolds/
+  volume: '135'
 
 - id: AnimalLegalDefenseFund_10thCir2021
   authority: 10th Cir.
@@ -3907,9 +3908,9 @@ references:
   type: legal_case
   volume: '468'
 
-- id: BrownKemp_CourtofAppeals7thCircuit2023
-  authority: Court of Appeals, 7th Circuit
-  citation-key: BrownKemp_CourtofAppeals7thCircuit2023
+- id: BrownKemp_7thCir2023
+  authority: 7th Cir.
+  citation-key: BrownKemp_7thCir2023
   container-title: F.4th
   issued:
     - year: 2023
@@ -4428,40 +4429,6 @@ references:
   type: legal_case
   volume: '362'
 
-- id: Cain2006
-  accessed:
-    - year: 2025
-      month: 9
-      day: 21
-  author:
-    - family: Cain
-      given: Robert J.
-  citation-key: Cain2006
-  container-title: NCpedia
-  issued:
-    - year: 2006
-  language: en
-  title: Communism
-  type: webpage
-  URL: https://www.ncpedia.org/communism
-
-- id: Cain2006a
-  accessed:
-    - year: 2025
-      month: 9
-      day: 21
-  author:
-    - family: Cain
-      given: Robert J.
-  citation-key: Cain2006a
-  container-title: NCpedia
-  issued:
-    - year: 2006
-  language: en
-  title: Scales Trial
-  type: webpage
-  URL: https://www.ncpedia.org/scales-trial
-
 - id: Cain2017
   author:
     - family: Cain
@@ -4677,6 +4644,27 @@ references:
   URL: >-
     https://read.dukeupress.edu/public-culture/article/31/1/69/137316/Banana-BrokersCommunicative-Labor-Translocal
   volume: '31'
+
+- id: CanPrivateEmployeesBe_Pace_NYStateBarAssociation2023
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  author:
+    - family: Pace
+      given: Joseph
+  citation-key: CanPrivateEmployeesBe_Pace_NYStateBarAssociation2023
+  container-title: NY State Bar Association
+  issued:
+    - year: 2023
+      month: 3
+      day: 28
+  title: >-
+    Can Private Employees Be Fired for Out-of-Office Political Speech? - New
+    York State Bar Association
+  type: post-weblog
+  URL: >-
+    https://nysba.org/can-private-employees-be-fired-for-out-of-office-political-speech/#_ednref17
 
 - id: Cantrell2007
   author:
@@ -4999,28 +4987,6 @@ references:
   title: The Case of Junius Scales
   type: article-magazine
   URL: https://www.dissentmagazine.org/article/the-case-of-junius-scales/
-
-- id: CaseNoteAnimal2022
-  abstract: >-
-    In United States v. Alvarez, a fractured Court invalidated the Stolen Valor
-    Act of 2005 — prohibiting any person from “falsely represent[ing] himself
-    or...
-  accessed:
-    - year: 2024
-      month: 4
-      day: 23
-  citation-key: CaseNoteAnimal2022
-  container-title: Harvard Law Review
-  issued:
-    - year: 2022
-      month: 2
-  language: en-US
-  page: '1166'
-  title: 'Case Note: Animal Legal Defense Fund v. Reynolds'
-  type: article-journal
-  URL: >-
-    https://harvardlawreview.org/print/vol-135/animal-legal-defense-fund-v-reynolds/
-  volume: '135'
 
 - id: Casto1987
   author:
@@ -5636,17 +5602,51 @@ references:
   title: A Documentary History of American Industrial Society
   type: book
 
-- id: CommunistPartyMembership
+- id: Communism_NCpedia2006
+  accessed:
+    - year: 2025
+      month: 9
+      day: 21
+  author:
+    - family: Cain
+      given: Robert J.
+  citation-key: Communism_NCpedia2006
+  container-title: NCpedia
+  issued:
+    - year: 2006
+  language: en
+  title: Communism
+  type: webpage
+  URL: https://www.ncpedia.org/communism
+
+- id: CommunistPartyMembershipDistricts_MappingAmericanSocialMovements_nd
   accessed:
     - year: 2025
       month: 9
       day: 24
-  citation-key: CommunistPartyMembership
-  title: >-
-    Communist Party Membership by Districts 1922-1950 - Mapping American Social
-    Movements Project
+  author:
+    - family: Gregory
+      given: James
+  citation-key: CommunistPartyMembershipDistricts_MappingAmericanSocialMovements_nd
+  container-title: Mapping American Social Movements
+  title: Communist Party Membership by Districts 1922-1950
   type: webpage
   URL: https://depts.washington.edu/moves/CP_map-members.shtml
+
+- id: CommunistsPlantedSouth_McGee_DurhamHerald-Sun_1956
+  author:
+    - family: McGee
+      given: Fred
+  citation-key: CommunistsPlantedSouth_McGee_DurhamHerald-Sun_1956
+  container-title: Durham Herald-Sun
+  event-place: Durham, NC
+  issued:
+    - year: 1956
+      month: 3
+      day: 14
+  publisher-place: Durham, NC
+  title: Communists Planted In South, Solon Says N.C. Probe Shows
+  type: article-newspaper
 
 - id: CompleteBusinessSolutionsGroup_EDPa2020
   authority: E.D. Pa.
@@ -5876,29 +5876,6 @@ references:
   title-short: The Great Arch
   type: book
 
-- id: Coryell1996
-  accessed:
-    - year: 2025
-      month: 7
-      day: 14
-  author:
-    - family: Coryell
-      given: Holly
-  citation-key: Coryell1996
-  container-title: The Seattle Times
-  event-place: Seattle, Washington
-  issued:
-    - year: 1996
-      month: 9
-      day: 1
-  publisher-place: Seattle, Washington
-  title: >-
-    An Old Communist Ponders Life As A Red Menace -- Scales Worked In The South
-    For Rights Of Blacks
-  type: article-newspaper
-  URL: >-
-    https://archive.seattletimes.com/archive/19960901/2347082/an-old-communist-ponders-life-as-a-red-menace----scales-worked-in-the-south-for-rights-of-blacks
-
 - id: Cotterrell2012
   abstract: >-
     "Comparative Sociology of Law" published on 31 Aug 2012 by Edward Elgar
@@ -5953,12 +5930,12 @@ references:
   type: legal_case
   volume: '50'
 
-- id: CrimesClaudeLightfoot1955
-  citation-key: CrimesClaudeLightfoot1955
+- id: CrimesClaudeLightfoot_CivilRightsCongress1955
+  citation-key: CrimesClaudeLightfoot_CivilRightsCongress1955
   issued:
     - year: 1955
   publisher: Civil Rights Congress
-  title: The "Crimes" of Claude Lightfoot and Junius Scales
+  title: The 'Crimes' of Claude Lightfoot and Junius Scales
   type: document
   URL: https://www.crmvet.org/docs/55_crc_lightfoot.pdf
 
@@ -6971,12 +6948,12 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.21
 
-- id: DiscriminationEngagementCertain
+- id: DiscriminationEngagementCertain_nd
   accessed:
     - year: 2024
       month: 4
       day: 12
-  citation-key: DiscriminationEngagementCertain
+  citation-key: DiscriminationEngagementCertain_nd
   container-title: McKinndey's Labor Law
   section: § 201-d
   title: Discrimination against the engagement in certain activities
@@ -6984,12 +6961,12 @@ references:
   URL: >-
     https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
 
-- id: DisqualificationBenefits
+- id: DisqualificationBenefits_nd
   accessed:
     - year: 2024
       month: 4
       day: 12
-  citation-key: DisqualificationBenefits
+  citation-key: DisqualificationBenefits_nd
   container-title: McKinney's Labor Law
   section: § 593
   title: Disqualification for benefits
@@ -7683,6 +7660,27 @@ references:
   type: book
   URL: >-
     https://cap-press.com/books/isbn/9781531013011/Understanding-Labor-Law-Fifth-Edition
+
+- id: DoxxingCampaignsAreCancel_Khurana_nprorg2024
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  author:
+    - family: Khurana
+      given: Mansee
+  citation-key: DoxxingCampaignsAreCancel_Khurana_nprorg2024
+  container-title: npr.org
+  issued:
+    - year: 2024
+      month: 4
+      day: 11
+  title: >-
+    Doxxing campaigns are a cancel culture tool. What happens after they end? :
+    NPR
+  type: post-weblog
+  URL: >-
+    https://www.npr.org/2024/04/11/1231084790/israel-kidnapped-posters-tore-down-doxxed
 
 - id: DreamingDumplingsCamps2014
   abstract: >-
@@ -8726,7 +8724,7 @@ references:
   type: legal_case
   volume: '430'
 
-- id: FBISpyChilds1955
+- id: FBISpyChilds_DailyTarHeel_1955
   abstract: >-
     The daily Tar Heel. (Chapel Hill, N.C.) 1946-current, April 20, 1955, Page
     1, Image 1, presented by the North Carolina Digital Heritage Center in
@@ -8735,8 +8733,8 @@ references:
     - year: 2025
       month: 9
       day: 21
-  citation-key: FBISpyChilds1955
-  container-title: The Daily Tar Heel
+  citation-key: FBISpyChilds_DailyTarHeel_1955
+  container-title: Daily Tar Heel
   event-place: Chapel Hill, NC
   ISSN: 1070-9436
   issued:
@@ -9538,6 +9536,27 @@ references:
   title: Fino v. Md. Emp. Security Bd.
   type: legal_case
   volume: '147'
+
+- id: FirstAmendmentSPEECHUnemployment_Miles_LawfficeSpace2009
+  abstract: A labor and employment law blog covering federal and Pennsylvania law.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  author:
+    - family: Miles
+      given: Philip K.
+  citation-key: FirstAmendmentSPEECHUnemployment_Miles_LawfficeSpace2009
+  container-title: Lawffice Space
+  issued:
+    - year: 2009
+      month: 12
+      day: 16
+  language: en
+  title: First Amendment (SPEECH) Unemployment Compensation
+  type: post-weblog
+  URL: >-
+    https://www.lawfficespace.com/2009/12/first-amendment-speech-unemployment.html
 
 - id: Fischer2004
   archive: JSTOR
@@ -11045,89 +11064,6 @@ references:
   type: article-journal
   volume: '63'
 
-- id: Garden2022
-  abstract: >-
-    Charlotte Garden, Seattle University School of Law
-
-
-    “At-will” employment is sometimes shorthanded as employers’ rights to fire
-    employees (and employees’ right to quit) for a bad or arbitrary reason, or
-    for no reason at all. [togglable text="expand abstract"] Among the bad or
-    arbitrary reasons that employers sometimes fire workers: something the
-    worker said, or something they didn’t say. Employees have been fired, often
-    without legal recourse, for criticizing their companies on social media, for
-    running for office, or even for having a bumper sticker supporting a
-    political candidate whose election the boss opposes. The freedom of speech
-    that so many Americans valorize is in practical effect illusory for many
-    American workers.
-
-
-    This report traces the legal rules governing freedom of speech at work.
-    Following a summary that emphasizes the scope of the problem and gives
-    examples, it begins by discussing the background rules of at-will
-    employment, which establish that employers may generally terminate workers
-    for what they say. This rule has its limits---for example, employers may not
-    fire workers in contravention of a state’s explicit public policy---but
-    judges tend to apply these exceptions in a patchy and inconsistent fashion.
-    Further, because the First Amendment does not constrain private actors,
-    private-sector workers cannot fall back on the constitution at all; even
-    public-sector employers are often free to fire or discipline workers for
-    their speech.
-
-
-    Beyond common law rules, the report also discusses federal, state, and local
-    statutes that protect certain types of employee speech. These laws tend to
-    apply only to specific subjects and manners of expression. For example, the
-    National Labor Relations Act protects employees’ conversations about their
-    working conditions---but only as long as those conversations occur at the
-    right time, in the right place, and in the right manner. For example, among
-    other limits, the NLRA protects only those conversations or meetings that
-    occur during “nonwork time,” and the Trump NLRB has recently held that the
-    NLRA does not protect employees’ use of their work-issued email addresses.
-    Likewise, some states and localities forbid employers from retaliating
-    against employees for their political views. But each of those laws has
-    serious limitations in coverage, enforcement, or both. Worse, employers
-    sometimes challenge even limited protections for workers’ expression on the
-    grounds that those protections violate the employer’s own rights under the
-    First Amendment.
-
-
-    Finally, some workers have meaningful contractual protections that curb the
-    effects of the at-will doctrine, including as it applies to their speech and
-    expression. But workers cannot achieve these protections without either
-    individual or collective power, both of which have eroded for many workers
-    over the last 80 years. The result is that one real source of protection for
-    workers who speak out---collective bargaining agreements in which employers
-    agree to discipline or fire workers only for good cause---are increasingly
-    out of reach, especially for private-sector workers.
-
-
-    This&nbsp;report aims to help readers understand the legal landscape that
-    effectuates the&nbsp;“freedom of speech” at&nbsp;work. It shows how
-    employers have come to monopolize&nbsp;that freedom for themselves, and why
-    workers&nbsp;experience speech control instead&nbsp;of speech freedom.
-
-
-    [/togglable]
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  author:
-    - family: Garden
-      given: Charlotte
-  citation-key: Garden2022
-  container-title: Economic Policy Institute
-  issued:
-    - year: 2022
-      month: 5
-      day: 5
-  language: en-US
-  title: 'Was it something I said?: Legal protections for employee speech'
-  title-short: Was it something I said?
-  type: post-weblog
-  URL: https://www.epi.org/unequalpower/publications/free-speech-in-the-workplace/
-
 - id: Garth2014
   abstract: >-
     The 1960s, in retrospect, were a good time for an alliance between law and
@@ -11742,26 +11678,6 @@ references:
       given: Marvin S.
   type: book
 
-- id: Goldstein2024
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  author:
-    - family: Goldstein
-      given: Joseph
-  citation-key: Goldstein2024
-  container-title: The New York Times
-  issued:
-    - year: 2024
-      month: 2
-      day: 1
-  page: '17'
-  section: A
-  title: NYU Removed 2 Doctors Over Israel-Hamas Posts. Then Their Fates Diverged
-  type: article-newspaper
-  URL: https://www.nytimes.com/2024/02/01/nyregion/nyu-langone-israel-firing.html
-
 - id: Gonos1997
   author:
     - family: Gonos
@@ -12001,24 +11917,6 @@ references:
   title: Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg.
   type: legal_case
   volume: '545'
-
-- id: Grant1961
-  author:
-    - family: Grant
-      given: Joanne
-  citation-key: Grant1961
-  container-title: The National Guardian
-  event-place: New York, NY
-  issued:
-    - year: 1961
-      month: 10
-      day: 2
-  page: '12'
-  publisher-place: New York, NY
-  title: Junius Scales' Ordeal
-  type: article-newspaper
-  URL: >-
-    https://www.marxists.org/history/usa/pubs/national-guardian/1961-10-02-13-51-nat-guardian.pdf
 
 - id: GrantBurtonCovenantCareInc_CalCtApp2002
   authority: Cal. Ct. App.
@@ -12421,26 +12319,8 @@ references:
   volume: '2011'
 
 - id: GriffinNewHampshireDepartment_DNH2009
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
   authority: D.N.H.
   citation-key: GriffinNewHampshireDepartment_DNH2009
-  issued:
-    - year: 2009
-      month: 11
-      day: 16
-  jurisdiction: DNH
-  title: Griffin v. New Hampshire Department of Employment Security
-  title-short: Griffin
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:2009%20WL%203837658#autoLogin
-
-- id: GriffinNewHampshireDepartment_DNH2009a
-  authority: D.N.H.
-  citation-key: GriffinNewHampshireDepartment_DNH2009a
   container-title: WL
   issued:
     - year: 2009
@@ -12452,6 +12332,24 @@ references:
   title: Griffin v. New Hampshire Department of Employment Security
   type: legal_case
   volume: '2009'
+
+- id: GriffinNewHampshireDepartment_DNH2009a
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  authority: D.N.H.
+  citation-key: GriffinNewHampshireDepartment_DNH2009a
+  issued:
+    - year: 2009
+      month: 11
+      day: 16
+  jurisdiction: DNH
+  title: Griffin v. New Hampshire Department of Employment Security
+  title-short: Griffin
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Search/Results.html?query=find:2009%20WL%203837658#autoLogin
 
 - id: Griffith2015
   author:
@@ -12657,7 +12555,7 @@ references:
   title: 100 Years of Labor in the USA
   type: book
 
-- id: GuidanceUSEmployees2023
+- id: GuidanceUSEmployeesResponse_MonitoringandCombatingIslamophobia2023
   abstract: >-
     See CAIR's new guidance for employees responding to Islamophobic and/or
     anti-Palestinian rhetoric at work.
@@ -12665,7 +12563,7 @@ references:
     - year: 2024
       month: 5
       day: 22
-  citation-key: GuidanceUSEmployees2023
+  citation-key: GuidanceUSEmployeesResponse_MonitoringandCombatingIslamophobia2023
   container-title: Monitoring and Combating Islamophobia
   issued:
     - year: 2023
@@ -13820,8 +13718,8 @@ references:
     - year: 2008
   page: 29-56
   title: >-
-    "Patriotism Does Not Mean Stupidity": Student Antiwar Activism at UNC in the
-    1930s on JSTOR
+    'Patriotism Does Not Mean Stupidity': Student Antiwar Activism at UNC in the
+    1930s
   type: article-journal
   URL: >-
     https://www-jstor-org.elon.idm.oclc.org/stable/23523369?searchText=%22Junius%20Scales%22&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Junius%2520Scales%2522%26so%3Drel%26efqs%3DeyJjdHkiOlsiYW05MWNtNWhiQT09Il19%26pagemark%3DeyJwYWdlIjoyLCJzdGFydCI6MjUsInRvdGFsIjo5OX0%253D%26groupefq%3DWyJjb250cmlidXRlZF9hdWRpbyIsInNlYXJjaF9jaGFwdGVyIiwicmV2aWV3Iiwic2VhcmNoX2FydGljbGUiLCJjb250cmlidXRlZF90ZXh0IiwiY29udHJpYnV0ZWRfdmlkZW8iLCJtcF9yZXNlYXJjaF9yZXBvcnRfcGFydCIsInJlc2VhcmNoX3JlcG9ydCJd&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3Ae0ea47a7f103d1e3bfe5f0aebfe53d49&seq=1
@@ -14122,21 +14020,6 @@ references:
   type: article-journal
   URL: https://scholarlycommons.law.hofstra.edu/hofstra_law_student_works/15
 
-- id: IndictmentUSJunius1954
-  accessed:
-    - year: 2025
-      month: 7
-      day: 14
-  citation-key: IndictmentUSJunius1954
-  issued:
-    - year: 1954
-      month: 11
-      day: 18
-  title: Indictment, U.S. v. Junius Irving Scales
-  type: document
-  URL: >-
-    https://www.archives.gov/exhibits/documented-rights/exhibit/section4/detail/scales-indictment-transcript.html
-
 - id: Ingalls1997
   archive: JSTOR
   author:
@@ -14397,14 +14280,14 @@ references:
   title-short: Rethinking Capitalism
   type: book
 
-- id: JacquelynDowdHall
+- id: JacquelynDowdHallPapers_UNCSouthernHistoricalCollection_nd
   accessed:
     - year: 2025
       month: 9
       day: 21
-  citation-key: JacquelynDowdHall
-  container-title: UNC University Libraries
-  title: Jacquelyn Dowd Hall Papers, 1870s-2020s - Scales, Junius Irving
+  citation-key: JacquelynDowdHallPapers_UNCSouthernHistoricalCollection_nd
+  container-title: UNC Southern Historical Collection
+  title: Jacquelyn Dowd Hall Papers, 1870s-2020s
   type: webpage
   URL: >-
     https://finding-aids.lib.unc.edu/catalog/05574_aspace_b0e5ca0da66b2e8c87548af7e11ae3e6
@@ -15091,18 +14974,56 @@ references:
   URL: http://www.jstor.org/stable/40862566
   volume: '12'
 
-- id: JuniusIrvingScales
+- id: JuniusGladysBarbaraScales_ARedFamily_nd
   accessed:
     - year: 2025
       month: 7
       day: 14
-  citation-key: JuniusIrvingScales
-  container-title: UNC University Libraries
+  author:
+    - family: Friedman
+      given: Mickey
+  citation-key: JuniusGladysBarbaraScales_ARedFamily_nd
+  container-title: A Red Family
+  title: Junius, Gladys, and Barbara Scales
+  type: webpage
+  URL: https://aredfamily.com/
+
+- id: JuniusIrvingScales19202002_Robinson_INDYWeek2002
+  abstract: >-
+    In a time long ago and in a place beneath your feet, a notable person came
+    to his sisters’ and brothers’ aid during a time of censorship and
+    repression. That man was Junius Scales, that place was Chapel Hill, and that
+    time was the late 1930s to the early 1950s. Scales was a communist when […]
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  author:
+    - family: Robinson
+      given: Matt
+  citation-key: JuniusIrvingScales19202002_Robinson_INDYWeek2002
+  container-title: INDY Week
+  issued:
+    - year: 2002
+      month: 8
+      day: 14
+  language: en-US
+  title: Junius Irving Scales, 1920-2002
+  type: post-weblog
+  URL: http://indyweek.com/news/archives-news/junius-irving-scales/
+
+- id: JuniusIrvingScalesPapers_UNCSouthernHistoricalCollection_nd
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  citation-key: JuniusIrvingScalesPapers_UNCSouthernHistoricalCollection_nd
+  container-title: UNC Southern Historical Collection
   title: Junius Irving Scales Papers, 1940-1987
   type: webpage
   URL: https://finding-aids.lib.unc.edu/catalog/04879
 
-- id: JuniusScales
+- id: JuniusScales_FromtheRockWall_nd
   abstract: >-
     "There was tremendous resentment from generations from mistreatment. Most of
     the black women leaders, at least up until the time of the union, had never
@@ -15118,13 +15039,59 @@ references:
     - year: 2025
       month: 7
       day: 14
-  citation-key: JuniusScales
-  note: >-
-    Context Object:
-    ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&rfr_id=info%3Asid%2Fomeka.org%3Agenerator&rft.subject=Scales%2C+Junius&rft.description=%22There+was+tremendous+resentment+from+generations+from+mistreatment.+Most+of+the+black+women+leaders%2C+at+least+up+until+the+time+of+the+union%2C+had+never+had+an+encounter+with+a+white+person+that+wasn%27t+painful%2C+humiliating+or+worse.+So+trying+to+get+this+across+to+white+guys+who+were+from+the+North%2C+a+lot+of+them%2C+from+outside+the+area%2C+it+was+one+hell+of+a+thing.%22%0A-+Junius+Scales%0ABorn+in+Greensboro+in+1920%2C+Scales+moved+with+his+family+to+Chapel+Hill+in+1936+where+he+completed+his+senior+year%E2%80%A6&rft.title=Junius+Scales&rft.type=Person&rft.identifier=https%3A%2F%2Fwww.fromtherockwall.org%2Fpeople%2Fjunius-scales
+  citation-key: JuniusScales_FromtheRockWall_nd
+  container-title: From the Rock Wall
   title: Junius Scales
   type: webpage
   URL: https://www.fromtherockwall.org/people/junius-scales
+
+- id: JuniusScales_LouisProyect_nd
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  author:
+    - family: Proyect
+      given: Louis
+  citation-key: JuniusScales_LouisProyect_nd
+  container-title: Louis Proyect
+  title: Junius Scales
+  type: webpage
+  URL: https://www.columbia.edu/~lnp3/mydocs/american_left/scales.htm
+
+- id: JuniusScalesIndictment_USDepartmentofJustice1954
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  citation-key: JuniusScalesIndictment_USDepartmentofJustice1954
+  issued:
+    - year: 1954
+      month: 11
+      day: 18
+  publisher: U.S. Department of Justice
+  title: Junius Scales Indictment
+  type: document
+  URL: >-
+    https://www.archives.gov/exhibits/documented-rights/exhibit/section4/detail/scales-indictment-transcript.html
+
+- id: JuniusScalesOrdeal_Grant_NationalGuardian_1961
+  author:
+    - family: Grant
+      given: Joanne
+  citation-key: JuniusScalesOrdeal_Grant_NationalGuardian_1961
+  container-title: National Guardian
+  event-place: New York, NY
+  issued:
+    - year: 1961
+      month: 10
+      day: 2
+  page: '12'
+  publisher-place: New York, NY
+  title: Junius Scales' Ordeal
+  type: article-newspaper
+  URL: >-
+    https://www.marxists.org/history/usa/pubs/national-guardian/1961-10-02-13-51-nat-guardian.pdf
 
 - id: Jurecic2023
   abstract: >-
@@ -15957,27 +15924,6 @@ references:
     Political Life
   type: book
   URL: https://www.jstor.org/stable/j.ctvm7bbc1
-
-- id: Khurana2024
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  author:
-    - family: Khurana
-      given: Mansee
-  citation-key: Khurana2024
-  container-title: npr.org
-  issued:
-    - year: 2024
-      month: 4
-      day: 11
-  title: >-
-    Doxxing campaigns are a cancel culture tool. What happens after they end? :
-    NPR
-  type: post-weblog
-  URL: >-
-    https://www.npr.org/2024/04/11/1231084790/israel-kidnapped-posters-tore-down-doxxed
 
 - id: Kieval1997
   accessed:
@@ -17155,6 +17101,32 @@ references:
   type: legal_case
   volume: '468'
 
+- id: LegalResourcesActivistsAdvocating_Zituni_PalestineLegal2023
+  abstract: >-
+    Palestine Legal has received an unprecedented surge in requests for legal
+    support over the past week. Activists and community members have been
+    doxxed, threatened, investigated, censored, questioned, fired, and even
+    assaulted simply because of their views, while government officials appear
+    to be mob
+  accessed:
+    - year: 2024
+      month: 5
+      day: 22
+  author:
+    - family: Zituni
+      given: Danya
+  citation-key: LegalResourcesActivistsAdvocating_Zituni_PalestineLegal2023
+  container-title: Palestine Legal
+  issued:
+    - year: 2023
+      month: 10
+      day: 13
+  language: en-US
+  title: Legal Resources for Activists Advocating for Palestine Across the U.S.
+  type: post-weblog
+  URL: >-
+    https://palestinelegal.org/news/2023/10/12/resources-for-advocating-for-palestine-across-us
+
 - id: Lehmann2025
   abstract: And so do all of his cronies.
   accessed:
@@ -17231,25 +17203,6 @@ references:
   title: “DOGE” Access to Treasury Payment Systems Raises Serious Risks
   type: report
   URL: https://www.jstor.org/stable/resrep67476
-
-- id: Lemieux2023
-  abstract: >-
-    Scales v. United States (1961) looked at the First Amendment right of
-    association and upheld the conviction of Scales for being a member of the
-    Communist Party.
-  author:
-    - family: Lemieux
-      given: Scott
-  citation-key: Lemieux2023
-  container-title: The Free Speech Center
-  issued:
-    - year: 2023
-      month: 8
-      day: 6
-  language: en-US
-  title: Scales v. United States (1961)
-  type: post-weblog
-  URL: https://firstamendment.mtsu.edu/article/scales-v-united-states/
 
 - id: Leon2015
   abstract: >-
@@ -19436,13 +19389,13 @@ references:
   type: legal_case
   volume: '39'
 
-- id: MatterDeGrego_SupremeCourtAppellateDivision1974
+- id: MatterDeGrego_NYAppDiv1974
   accessed:
     - year: 2024
       month: 4
       day: 12
-  authority: Supreme Court Appellate Division
-  citation-key: MatterDeGrego_SupremeCourtAppellateDivision1974
+  authority: N.Y. App. Div.
+  citation-key: MatterDeGrego_NYAppDiv1974
   container-title: A.D.
   issued:
     - year: 1974
@@ -19457,13 +19410,13 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:46%20A.D.2d%20253#autoLogin
   volume: '46'
 
-- id: MatterGunn_appellatedivisionsupremecourt2019
+- id: MatterGunn_NYAppDiv2019
   accessed:
     - year: 2024
       month: 4
       day: 12
-  authority: appellate.division.supreme.court
-  citation-key: MatterGunn_appellatedivisionsupremecourt2019
+  authority: N.Y. App. Div.
+  citation-key: MatterGunn_NYAppDiv2019
   container-title: AD3d
   issued:
     - year: 2019
@@ -19515,7 +19468,7 @@ references:
   title: A General Theory of Magic
   type: book
 
-- id: May
+- id: May_nd
   abstract: >-
     In this paper I seek to criticise the use of Agamben&#39;s criticiism of the
     (rule of) law by focussing on civil disobedieince as a complementary process
@@ -19528,7 +19481,7 @@ references:
   author:
     - family: May
       given: Christopher
-  citation-key: May
+  citation-key: May_nd
   source: www.academia.edu
   title: >-
     The Rule of Law and its Discontents: Giorgio Agamben, and the state of
@@ -20158,21 +20111,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.23
 
-- id: McGee1956
-  author:
-    - family: McGee
-      given: Fred
-  citation-key: McGee1956
-  container-title: Durham Herald-Sun
-  event-place: Durham, NC
-  issued:
-    - year: 1956
-      month: 3
-      day: 14
-  publisher-place: Durham, NC
-  title: Communists Planted In South, Solon Says N.C. Probe Shows
-  type: article-newspaper
-
 - id: McGeeInternationalLifeIns_US1957
   authority: U.S.
   citation-key: McGeeInternationalLifeIns_US1957
@@ -20236,13 +20174,24 @@ references:
   URL: http://www.jstor.org/stable/1512168
   volume: '36'
 
-- id: McNeillSmithPapers
+- id: McNeillSmithOralHistory_CivilRightsDigitalLibrary_nd
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  citation-key: McNeillSmithOralHistory_CivilRightsDigitalLibrary_nd
+  container-title: Civil Rights Digital Library
+  title: McNeill Smith oral history interview
+  type: webpage
+  URL: https://crdl.usg.edu/record/ncgu_greensborovoices_jmsmith-int
+
+- id: McNeillSmithPapers19371999_UNCSouthernHistoricalCollection_nd
   accessed:
     - year: 2025
       month: 9
       day: 21
-  citation-key: McNeillSmithPapers
-  container-title: UNC University Libraries
+  citation-key: McNeillSmithPapers19371999_UNCSouthernHistoricalCollection_nd
+  container-title: UNC Southern Historical Collection
   title: McNeill Smith Papers, 1937-1999
   type: webpage
   URL: https://finding-aids.lib.unc.edu/catalog/04990
@@ -20768,27 +20717,6 @@ references:
   title: 'Capitalism, Alone: The Future of the System That Rules the World'
   title-short: Capitalism, Alone
   type: book
-
-- id: Miles2009
-  abstract: A labor and employment law blog covering federal and Pennsylvania law.
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  author:
-    - family: Miles
-      given: Philip K.
-  citation-key: Miles2009
-  container-title: Lawffice Space
-  issued:
-    - year: 2009
-      month: 12
-      day: 16
-  language: en
-  title: First Amendment (SPEECH) Unemployment Compensation
-  type: post-weblog
-  URL: >-
-    https://www.lawfficespace.com/2009/12/first-amendment-speech-unemployment.html
 
 - id: Miliband2009
   abstract: >-
@@ -22124,9 +22052,9 @@ references:
   type: article-journal
   volume: '62'
 
-- id: NewTrialAwaits1954
-  citation-key: NewTrialAwaits1954
-  container-title: The National Guardian
+- id: NewTrialAwaits_NationalGuardian_1954
+  citation-key: NewTrialAwaits_NationalGuardian_1954
+  container-title: National Guardian
   event-place: New York, NY
   issued:
     - year: 1954
@@ -22380,6 +22308,22 @@ references:
   title: 'A Call for New Lines of Conflict: Confronting the Second Trump Era'
   type: manuscript
 
+- id: NoPlaceBrain_Scales_DailyWorker_1956
+  author:
+    - family: Scales
+      given: Junius
+  citation-key: NoPlaceBrain_Scales_DailyWorker_1956
+  container-title: Daily Worker
+  event-place: New York, NY
+  issued:
+    - year: 1956
+      month: 4
+      day: 20
+  publisher-place: New York, NY
+  title: No Place for 'Brain Trusts' (Letter to the Editor)
+  type: article-newspaper
+  URL: https://www.marxists.org/history/erol/1956-1960/dw/letters-4-20.pdf
+
 - id: NorrisLaGuardiaAct1932
   citation-key: NorrisLaGuardiaAct1932
   container-title: U.S. Code
@@ -22481,6 +22425,26 @@ references:
   source: Amazon
   title: The Jewish Labor Bund in Poland
   type: book
+
+- id: NYURemoved2_Goldstein_TheNewYorkTimes_2024
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  author:
+    - family: Goldstein
+      given: Joseph
+  citation-key: NYURemoved2_Goldstein_TheNewYorkTimes_2024
+  container-title: The New York Times
+  issued:
+    - year: 2024
+      month: 2
+      day: 1
+  page: '17'
+  section: A
+  title: NYU Removed 2 Doctors Over Israel-Hamas Posts. Then Their Fates Diverged
+  type: article-newspaper
+  URL: https://www.nytimes.com/2024/02/01/nyregion/nyu-langone-israel-firing.html
 
 - id: Obasogie2014
   abstract: >-
@@ -22698,6 +22662,29 @@ references:
   type: legal_case
   volume: '349'
 
+- id: OldCommunistPonders_Coryell_SeattleTimes_1996
+  accessed:
+    - year: 2025
+      month: 7
+      day: 14
+  author:
+    - family: Coryell
+      given: Holly
+  citation-key: OldCommunistPonders_Coryell_SeattleTimes_1996
+  container-title: Seattle Times
+  event-place: Seattle, Washington
+  issued:
+    - year: 1996
+      month: 9
+      day: 1
+  publisher-place: Seattle, Washington
+  title: >-
+    An Old Communist Ponders Life As A Red Menace -- Scales Worked In The South
+    For Rights Of Blacks
+  type: article-newspaper
+  URL: >-
+    https://archive.seattletimes.com/archive/19960901/2347082/an-old-communist-ponders-life-as-a-red-menace----scales-worked-in-the-south-for-rights-of-blacks
+
 - id: Olivares2025
   abstract: >-
     Democratic Congress members who visited detention center with mayor say Ice
@@ -22778,16 +22765,6 @@ references:
     Second Printing with a New Preface and Appendix
   title-short: The Logic of Collective Action
   type: book
-
-- id: OralHistoryInterview
-  accessed:
-    - year: 2025
-      month: 7
-      day: 14
-  citation-key: OralHistoryInterview
-  title: Oral history interview with McNeill Smith - Civil Rights Digital Library
-  type: webpage
-  URL: https://crdl.usg.edu/record/ncgu_greensborovoices_jmsmith-int
 
 - id: Orleck1995
   abstract: >-
@@ -22884,7 +22861,7 @@ references:
   title: Ottawa Township Board of Trustees v. New Par
   type: legal_case
 
-- id: OverviewUnconstitutionalConditionsn.d.
+- id: OverviewUnconstitutionalConditionsDoctrine_ConstitutionAnnotated_nd
   abstract: >-
     An annotation about the First Amendment of the Constitution of the United
     States.
@@ -22892,10 +22869,8 @@ references:
     - year: 2024
       month: 4
       day: 12
-  citation-key: OverviewUnconstitutionalConditionsn.d.
+  citation-key: OverviewUnconstitutionalConditionsDoctrine_ConstitutionAnnotated_nd
   container-title: Constitution Annotated
-  issued:
-    - literal: n.d.
   language: en
   title: >-
     Overview of Unconstitutional Conditions Doctrine | Constitution Annotated |
@@ -23000,27 +22975,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/0019793915605506
   volume: '69'
-
-- id: Pace2023
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  author:
-    - family: Pace
-      given: Joseph
-  citation-key: Pace2023
-  container-title: NY State Bar Association
-  issued:
-    - year: 2023
-      month: 3
-      day: 28
-  title: >-
-    Can Private Employees Be Fired for Out-of-Office Political Speech? - New
-    York State Bar Association
-  type: post-weblog
-  URL: >-
-    https://nysba.org/can-private-employees-be-fired-for-out-of-office-political-speech/#_ednref17
 
 - id: PaceTimmermannsRanchSaddle_7thCir2014
   authority: 7th Cir.
@@ -24365,19 +24319,6 @@ references:
   type: article-journal
   volume: '19'
 
-- id: Proyect
-  accessed:
-    - year: 2025
-      month: 7
-      day: 14
-  author:
-    - family: Proyect
-      given: Louis
-  citation-key: Proyect
-  title: Junius Scales
-  type: webpage
-  URL: https://www.columbia.edu/~lnp3/mydocs/american_left/scales.htm
-
 - id: Przeworski2024
   abstract: >-
     What is "democratic" depends on the values one attaches to democracy. The
@@ -24736,16 +24677,6 @@ references:
   type: legal_case
   volume: '786'
 
-- id: RedFamily
-  accessed:
-    - year: 2025
-      month: 7
-      day: 14
-  citation-key: RedFamily
-  title: A Red Family
-  type: webpage
-  URL: https://aredfamily.com/
-
 - id: Reed2013
   accessed:
     - year: 2022
@@ -25038,30 +24969,6 @@ references:
   URL: https://browzine.com/articles/388419473
   volume: '46'
 
-- id: Robinson2002
-  abstract: >-
-    In a time long ago and in a place beneath your feet, a notable person came
-    to his sisters’ and brothers’ aid during a time of censorship and
-    repression. That man was Junius Scales, that place was Chapel Hill, and that
-    time was the late 1930s to the early 1950s. Scales was a communist when […]
-  accessed:
-    - year: 2025
-      month: 7
-      day: 14
-  author:
-    - family: Robinson
-      given: Matt
-  citation-key: Robinson2002
-  container-title: INDY Week
-  issued:
-    - year: 2002
-      month: 8
-      day: 14
-  language: en-US
-  title: Junius Irving Scales, 1920-2002
-  type: post-weblog
-  URL: http://indyweek.com/news/archives-news/junius-irving-scales/
-
 - id: Roediger1997
   archive: JSTOR
   author:
@@ -25083,17 +24990,17 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/27672355
 
-- id: RootedResilienceRising
+- id: RootedResilienceRisingTogether_ACLUofNorthCarolina_nd
   accessed:
     - year: 2025
       month: 9
       day: 24
-  citation-key: RootedResilienceRising
+  citation-key: RootedResilienceRisingTogether_ACLUofNorthCarolina_nd
   container-title: ACLU of North Carolina
   language: en-US
   title: 'Rooted in Resilience: Rising Together'
   title-short: Rooted in Resilience
-  type: post-weblog
+  type: webpage
   URL: https://www.acluofnorthcarolina.org/60a/
 
 - id: Rosenfeld2006
@@ -25319,12 +25226,12 @@ references:
   type: article
   URL: https://papers.ssrn.com/abstract=4381417
 
-- id: RPC157Representing1993
+- id: RPC157Representing_NCStateBar1993
   accessed:
     - year: 2024
       month: 7
       day: 9
-  citation-key: RPC157Representing1993
+  citation-key: RPC157Representing_NCStateBar1993
   issued:
     - year: 1993
       month: 4
@@ -25334,12 +25241,12 @@ references:
   type: document
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/rpc-157/
 
-- id: RPC163Request1994
+- id: RPC163Request_NCStateBar1994
   accessed:
     - year: 2024
       month: 7
       day: 9
-  citation-key: RPC163Request1994
+  citation-key: RPC163Request_NCStateBar1994
   issued:
     - year: 1994
       month: 4
@@ -25351,12 +25258,12 @@ references:
   type: document
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/rpc-163/
 
-- id: RPC249Communnication1997
+- id: RPC249Communnication_NCStateBar1997
   accessed:
     - year: 2024
       month: 7
       day: 9
-  citation-key: RPC249Communnication1997
+  citation-key: RPC249Communnication_NCStateBar1997
   issued:
     - year: 1997
       month: 4
@@ -25818,7 +25725,7 @@ references:
   title-short: Unions in Court
   type: book
 
-- id: SawyerIII2001
+- id: Sawyer2001
   accessed:
     - year: 2025
       month: 8
@@ -25826,7 +25733,7 @@ references:
   author:
     - family: Sawyer III
       given: Logan Everett
-  citation-key: SawyerIII2001
+  citation-key: Sawyer2001
   container-title: George Mason Law Review
   container-title-short: Geo. Mason L. Rev.
   issue: '1'
@@ -25843,22 +25750,6 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/gmlr10&i=69
   volume: '10'
-
-- id: Scales1956
-  author:
-    - family: Scales
-      given: Junius
-  citation-key: Scales1956
-  container-title: Daily Worker
-  event-place: New York, NY
-  issued:
-    - year: 1956
-      month: 4
-      day: 20
-  publisher-place: New York, NY
-  title: No Place for 'Brain Trusts' (Letter to the Editor)
-  type: article-newspaper
-  URL: https://www.marxists.org/history/erol/1956-1960/dw/letters-4-20.pdf
 
 - id: Scales1990
   author:
@@ -25923,9 +25814,26 @@ references:
   type: book
   URL: https://www.ugapress.org/9780820327853/cause-at-heart/
 
-- id: ScalesTrial2nd1958
-  citation-key: ScalesTrial2nd1958
-  container-title: The National Guardian
+- id: ScalesTrial_NCpedia2006
+  accessed:
+    - year: 2025
+      month: 9
+      day: 21
+  author:
+    - family: Cain
+      given: Robert J.
+  citation-key: ScalesTrial_NCpedia2006
+  container-title: NCpedia
+  issued:
+    - year: 2006
+  language: en
+  title: Scales Trial
+  type: webpage
+  URL: https://www.ncpedia.org/scales-trial
+
+- id: ScalesTrial2nd_NationalGuardian_1958
+  citation-key: ScalesTrial2nd_NationalGuardian_1958
+  container-title: National Guardian
   event-place: New York, NY
   issued:
     - year: 1958
@@ -25937,6 +25845,25 @@ references:
   type: article-newspaper
   URL: >-
     https://www.marxists.org/history/usa/pubs/national-guardian/1958-02-17-10-18-nat-guardian.pdf
+
+- id: ScalesUnitedStates_Lemieux_TheFreeSpeechCenter2023
+  abstract: >-
+    Scales v. United States (1961) looked at the First Amendment right of
+    association and upheld the conviction of Scales for being a member of the
+    Communist Party.
+  author:
+    - family: Lemieux
+      given: Scott
+  citation-key: ScalesUnitedStates_Lemieux_TheFreeSpeechCenter2023
+  container-title: The Free Speech Center
+  issued:
+    - year: 2023
+      month: 8
+      day: 6
+  language: en-US
+  title: Scales v. United States
+  type: post-weblog
+  URL: https://firstamendment.mtsu.edu/article/scales-v-united-states/
 
 - id: ScalesUS_4thCircuit1955
   authority: 4th Circuit
@@ -28148,6 +28075,27 @@ references:
   URL: www.jstor.org/stable/40862813
   volume: '18'
 
+- id: SouthernTruthCommunism_Troutman_Scalawag2024
+  accessed:
+    - year: 2025
+      month: 9
+      day: 24
+  author:
+    - family: Troutman
+      given: Tea
+    - family: Brown
+      given: Sherronda J.
+  citation-key: SouthernTruthCommunism_Troutman_Scalawag2024
+  container-title: Scalawag
+  issued:
+    - year: 2024
+      month: 4
+      day: 23
+  language: en-US
+  title: The Southern Truth About Communism
+  type: post-weblog
+  URL: https://scalawagmagazine.org/2024/04/the-southern-truth-about-communism/
+
 - id: Southworth2005
   author:
     - family: Southworth
@@ -28378,17 +28326,6 @@ references:
   title: Starbucks Corporation
   type: legal_case
   volume: '2025'
-
-- id: StarbucksCorporationDalton_NLRBALJ2024
-  authority: N.L.R.B. ALJ
-  citation-key: StarbucksCorporationDalton_NLRBALJ2024
-  container-title: JD(SF)–17–24
-  issued:
-    - year: 2024
-      month: 6
-      day: 7
-  title: Starbucks Corporation (Dalton)
-  type: legal_case
 
 - id: StateDeAngelo_NJ2009
   authority: N.J.
@@ -30281,27 +30218,6 @@ references:
   type: legal_case
   volume: '361'
 
-- id: Troutman2024
-  accessed:
-    - year: 2025
-      month: 9
-      day: 24
-  author:
-    - family: Troutman
-      given: Tea
-    - family: Brown
-      given: Sherronda J.
-  citation-key: Troutman2024
-  container-title: Scalawag
-  issued:
-    - year: 2024
-      month: 4
-      day: 23
-  language: en-US
-  title: The Southern Truth About Communism
-  type: post-weblog
-  URL: https://scalawagmagazine.org/2024/04/the-southern-truth-about-communism/
-
 - id: Trowbridge2022
   abstract: >-
     This article investigates why cause lawyering organizations choose policy
@@ -30532,6 +30448,17 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/kjpp29&i=362
   volume: '29'
 
+- id: UnderstandingFederalCourts_AdministrativeOfficeoftheUSCourts
+  author:
+    - family: Administrative Office of the U.S. Courts
+      given: ''
+  citation-key: UnderstandingFederalCourts_AdministrativeOfficeoftheUSCourts
+  title: Understanding the Federal Courts
+  title-short: Understanding the Federal Courts
+  type: document
+  URL: >-
+    https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf
+
 - id: UnderstandingGuardianship
   abstract: >-
     Guardianship can be complicated, and even dangerous. Hear from Kerry Peck
@@ -30548,12 +30475,12 @@ references:
   URL: >-
     https://www.americanbar.org/groups/senior_lawyers/resources/voice-of-experience/2010-2022/understanding-guardianship/
 
-- id: UnemploymentInsuranceLaw
+- id: UnemploymentInsuranceLaw_nd
   accessed:
     - year: 2024
       month: 4
       day: 12
-  citation-key: UnemploymentInsuranceLaw
+  citation-key: UnemploymentInsuranceLaw_nd
   container-title: McKinney's Labor Law
   section: § 500 et seq.
   title: Unemployment Insurance Law
@@ -30995,6 +30922,89 @@ references:
   type: article-journal
   URL: http://www.jstor.org.elon.idm.oclc.org/stable/1328407
   volume: '37'
+
+- id: WasItSomethingSaid_Garden_EconomicPolicyInstitute2022
+  abstract: >-
+    Charlotte Garden, Seattle University School of Law
+
+
+    “At-will” employment is sometimes shorthanded as employers’ rights to fire
+    employees (and employees’ right to quit) for a bad or arbitrary reason, or
+    for no reason at all. [togglable text="expand abstract"] Among the bad or
+    arbitrary reasons that employers sometimes fire workers: something the
+    worker said, or something they didn’t say. Employees have been fired, often
+    without legal recourse, for criticizing their companies on social media, for
+    running for office, or even for having a bumper sticker supporting a
+    political candidate whose election the boss opposes. The freedom of speech
+    that so many Americans valorize is in practical effect illusory for many
+    American workers.
+
+
+    This report traces the legal rules governing freedom of speech at work.
+    Following a summary that emphasizes the scope of the problem and gives
+    examples, it begins by discussing the background rules of at-will
+    employment, which establish that employers may generally terminate workers
+    for what they say. This rule has its limits---for example, employers may not
+    fire workers in contravention of a state’s explicit public policy---but
+    judges tend to apply these exceptions in a patchy and inconsistent fashion.
+    Further, because the First Amendment does not constrain private actors,
+    private-sector workers cannot fall back on the constitution at all; even
+    public-sector employers are often free to fire or discipline workers for
+    their speech.
+
+
+    Beyond common law rules, the report also discusses federal, state, and local
+    statutes that protect certain types of employee speech. These laws tend to
+    apply only to specific subjects and manners of expression. For example, the
+    National Labor Relations Act protects employees’ conversations about their
+    working conditions---but only as long as those conversations occur at the
+    right time, in the right place, and in the right manner. For example, among
+    other limits, the NLRA protects only those conversations or meetings that
+    occur during “nonwork time,” and the Trump NLRB has recently held that the
+    NLRA does not protect employees’ use of their work-issued email addresses.
+    Likewise, some states and localities forbid employers from retaliating
+    against employees for their political views. But each of those laws has
+    serious limitations in coverage, enforcement, or both. Worse, employers
+    sometimes challenge even limited protections for workers’ expression on the
+    grounds that those protections violate the employer’s own rights under the
+    First Amendment.
+
+
+    Finally, some workers have meaningful contractual protections that curb the
+    effects of the at-will doctrine, including as it applies to their speech and
+    expression. But workers cannot achieve these protections without either
+    individual or collective power, both of which have eroded for many workers
+    over the last 80 years. The result is that one real source of protection for
+    workers who speak out---collective bargaining agreements in which employers
+    agree to discipline or fire workers only for good cause---are increasingly
+    out of reach, especially for private-sector workers.
+
+
+    This&nbsp;report aims to help readers understand the legal landscape that
+    effectuates the&nbsp;“freedom of speech” at&nbsp;work. It shows how
+    employers have come to monopolize&nbsp;that freedom for themselves, and why
+    workers&nbsp;experience speech control instead&nbsp;of speech freedom.
+
+
+    [/togglable]
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  author:
+    - family: Garden
+      given: Charlotte
+  citation-key: WasItSomethingSaid_Garden_EconomicPolicyInstitute2022
+  container-title: Economic Policy Institute
+  issued:
+    - year: 2022
+      month: 5
+      day: 5
+  language: en-US
+  title: 'Was it something I said?: Legal protections for employee speech'
+  title-short: Was it something I said?
+  type: post-weblog
+  URL: https://www.epi.org/unequalpower/publications/free-speech-in-the-workplace/
 
 - id: WaverlyHtsUnemploymentBd_PaCommonwealthCourt2017
   authority: Pa. Commonwealth Court
@@ -32285,32 +32295,6 @@ references:
   title: Zielinski v. Philadelphia Piers
   type: legal_case
   volume: '139'
-
-- id: Zituni2023
-  abstract: >-
-    Palestine Legal has received an unprecedented surge in requests for legal
-    support over the past week. Activists and community members have been
-    doxxed, threatened, investigated, censored, questioned, fired, and even
-    assaulted simply because of their views, while government officials appear
-    to be mob
-  accessed:
-    - year: 2024
-      month: 5
-      day: 22
-  author:
-    - family: Zituni
-      given: Danya
-  citation-key: Zituni2023
-  container-title: Palestine Legal
-  issued:
-    - year: 2023
-      month: 10
-      day: 13
-  language: en-US
-  title: Legal Resources for Activists Advocating for Palestine Across the U.S.
-  type: post-weblog
-  URL: >-
-    https://palestinelegal.org/news/2023/10/12/resources-for-advocating-for-palestine-across-us
 
 - id: Zuboff2019
   abstract: >-
