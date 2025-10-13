@@ -1,7 +1,6 @@
 ---
 citekey: JacquelynDowdHallPapers_UNCSouthernHistoricalCollection_nd
 title: "Jacquelyn Dowd Hall Papers, 1870s-2020s"
-authors: 
 collection: Scales_v_US 
 tags: ObsCite
 cssclasses: ["zotero"]
@@ -22,4 +21,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.191-04:00 %%
+%% Import Date: 2025-10-13T15:50:50.838-04:00 %%

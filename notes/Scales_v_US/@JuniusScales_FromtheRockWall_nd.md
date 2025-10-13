@@ -1,7 +1,6 @@
 ---
 citekey: JuniusScales_FromtheRockWall_nd
 title: "Junius Scales"
-authors: 
 collection: Scales_v_US 
 tags: ObsCite
 cssclasses: ["zotero"]
@@ -22,4 +21,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.204-04:00 %%
+%% Import Date: 2025-10-13T15:50:50.874-04:00 %%

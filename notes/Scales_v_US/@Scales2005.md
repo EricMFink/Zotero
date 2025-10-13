@@ -4,15 +4,13 @@ title: "Cause at Heart: A Former Communist Remembers"
 year: 2005
 authors: Junius Irving Scales, Richard Nickson
 collection: Scales_v_US 
-cssclasses: ["zotero"]
 tags: ObsCite
+cssclasses: ["zotero"]
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
 1. Junius Irving Scales & Richard Nickson, Cause at Heart: A Former Communist Remembers (2005), [https://www.ugapress.org/9780820327853/cause-at-heart/](https://www.ugapress.org/9780820327853/cause-at-heart/).
-
-Zotero PDF Link: 
 
 ### Persistent Notes
 
@@ -25,4 +23,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T17:29:27.949-04:00 %%
+%% Import Date: 2025-10-13T15:50:51.049-04:00 %%

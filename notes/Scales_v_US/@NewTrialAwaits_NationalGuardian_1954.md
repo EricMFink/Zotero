@@ -2,7 +2,6 @@
 citekey: NewTrialAwaits_NationalGuardian_1954
 title: "New Trial Awaits Potash on 'Release'"
 year: 1954
-authors: 
 collection: Scales_v_US 
 tags: ObsCite
 cssclasses: ["zotero"]
@@ -23,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.240-04:00 %%
+%% Import Date: 2025-10-13T15:50:50.995-04:00 %%

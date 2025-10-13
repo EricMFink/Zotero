@@ -1,18 +1,16 @@
 ---
 citekey: Holden2008
-title: "&quot;Patriotism Does Not Mean Stupidity&quot;: Student Antiwar Activism at UNC in the 1930s on JSTOR"
+title: "'Patriotism Does Not Mean Stupidity': Student Antiwar Activism at UNC in the 1930s"
 year: 2008
 authors: Charles J. Holden
 collection: Scales_v_US 
-cssclasses: ["zotero"]
 tags: ObsCite
+cssclasses: ["zotero"]
 created: 2025-07-14
-modified: 2025-07-17
+modified: 2025-10-11
 ---
 
-1. Charles J. Holden, _“Patriotism Does Not Mean Stupidity”: Student Antiwar Activism at UNC in the 1930s on JSTOR_, 85 North Carolina Historical Review 29 (2008).
-
-Zotero PDF Link: [@Holden2008.pdf](zotero://select/library/items/KJCDB69S)
+1. Charles J. Holden, _“Patriotism Does Not Mean Stupidity”: Student Antiwar Activism at UNC in the 1930s_, 85 North Carolina Historical Review 29 (2008).
 
 ### Persistent Notes
 
@@ -25,4 +23,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-08T17:29:27.664-04:00 %%
+%% Import Date: 2025-10-13T15:50:50.829-04:00 %%

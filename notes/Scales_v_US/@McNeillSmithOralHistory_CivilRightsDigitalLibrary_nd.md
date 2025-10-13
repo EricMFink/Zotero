@@ -1,7 +1,6 @@
 ---
 citekey: McNeillSmithOralHistory_CivilRightsDigitalLibrary_nd
 title: "McNeill Smith oral history interview"
-authors: 
 collection: Scales_v_US 
 tags: ObsCite
 cssclasses: ["zotero"]
@@ -22,4 +21,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.234-04:00 %%
+%% Import Date: 2025-10-13T15:50:50.976-04:00 %%

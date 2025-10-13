@@ -1,7 +1,6 @@
 ---
 citekey: RootedResilienceRisingTogether_ACLUofNorthCarolina_nd
 title: "Rooted in Resilience: Rising Together"
-authors: 
 collection: Scales_v_US 
 tags: ObsCite
 cssclasses: ["zotero"]
@@ -22,4 +21,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.250-04:00 %%
+%% Import Date: 2025-10-13T15:50:51.030-04:00 %%

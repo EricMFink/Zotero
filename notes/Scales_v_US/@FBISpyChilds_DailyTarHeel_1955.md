@@ -2,7 +2,6 @@
 citekey: FBISpyChilds_DailyTarHeel_1955
 title: "FBI Spy Childs Says Red Cell is Active in Durham: Tells of Meeting with Confessed Communist Scales"
 year: 1955
-authors: 
 collection: Scales_v_US 
 tags: ObsCite
 cssclasses: ["zotero"]
@@ -28,4 +27,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.166-04:00 %%
+%% Import Date: 2025-10-13T15:50:50.783-04:00 %%

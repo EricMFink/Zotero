@@ -1,7 +1,6 @@
 ---
 citekey: McNeillSmithPapers19371999_UNCSouthernHistoricalCollection_nd
 title: "McNeill Smith Papers, 1937-1999"
-authors: 
 collection: Scales_v_US 
 tags: ObsCite
 cssclasses: ["zotero"]
@@ -22,4 +21,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.237-04:00 %%
+%% Import Date: 2025-10-13T15:50:50.985-04:00 %%

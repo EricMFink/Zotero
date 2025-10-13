@@ -2,7 +2,6 @@
 citekey: CrimesClaudeLightfoot_CivilRightsCongress1955
 title: "The 'Crimes' of Claude Lightfoot and Junius Scales"
 year: 1955
-authors: 
 collection: Scales_v_US 
 tags: ObsCite
 cssclasses: ["zotero"]
@@ -23,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.160-04:00 %%
+%% Import Date: 2025-10-13T15:50:50.769-04:00 %%

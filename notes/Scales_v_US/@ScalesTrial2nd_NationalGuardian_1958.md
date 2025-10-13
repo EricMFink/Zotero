@@ -2,7 +2,6 @@
 citekey: ScalesTrial2nd_NationalGuardian_1958
 title: "Scales on Trial for 2nd Time in Renewed Smith Act Move"
 year: 1958
-authors: 
 collection: Scales_v_US 
 tags: ObsCite
 cssclasses: ["zotero"]
@@ -23,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:36:41.265-04:00 %%
+%% Import Date: 2025-10-13T15:50:51.066-04:00 %%
