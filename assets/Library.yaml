@@ -23313,6 +23313,24 @@ references:
   URL: https://digitalcommons.law.uw.edu/wlr/vol62/iss3/8
   volume: '62'
 
+- id: Perdue2024
+  author:
+    - family: Perdue
+      given: Wendy
+  citation-key: Perdue2024
+  container-title: University of Pittsburgh Law Review
+  issued:
+    - year: 2024
+      month: 1
+      day: 1
+  page: 1-29
+  source: COinS
+  title: 'Supplemental Jurisdiction and § 1367: The Good, The Bad, and the Ugly'
+  title-short: Supplemental Jurisdiction and § 1367
+  type: article-journal
+  URL: https://scholarship.richmond.edu/law-faculty-publications/1723
+  volume: '85'
+
 - id: Perez2023
   abstract: >-
     Political and religious coercion in the workplace is a growing problem
