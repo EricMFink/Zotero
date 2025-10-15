@@ -20186,13 +20186,17 @@ references:
   URL: http://www.jstor.org/stable/1512168
   volume: '36'
 
-- id: McNeillSmithOralHistory_CivilRightsDigitalLibrary_nd
+- id: McNeillSmithOralHistory_CivilRightsDigitalLibrary1987
   accessed:
     - year: 2025
       month: 7
       day: 14
-  citation-key: McNeillSmithOralHistory_CivilRightsDigitalLibrary_nd
+  citation-key: McNeillSmithOralHistory_CivilRightsDigitalLibrary1987
   container-title: Civil Rights Digital Library
+  issued:
+    - year: 1987
+      month: 1
+      day: 3
   title: McNeill Smith oral history interview
   type: webpage
   URL: https://crdl.usg.edu/record/ncgu_greensborovoices_jmsmith-int
