@@ -616,6 +616,7 @@ references:
   issued:
     - year: 2018
   page: '725'
+  references: enf'd in relevant part, Aerotek, Inc. v. NLRB, 883 F.3d 725 (8th Cir. 2028)
   title: Aerotek, Inc. v. N.L.R.B.
   title-short: Aerotek
   type: legal_case
@@ -915,17 +916,6 @@ references:
   title: 'Powers of Theory: Capitalism, the State, and Democracy'
   title-short: Powers of Theory
   type: book
-
-- id: AlgrecoSportswearCo_NLRB1984
-  authority: N.L.R.B.
-  citation-key: AlgrecoSportswearCo_NLRB1984
-  container-title: N.L.R.B.
-  issued:
-    - year: 1984
-  page: '499'
-  title: Algreco Sportswear Co.
-  type: legal_case
-  volume: '271'
 
 - id: Almeida2019
   author:
@@ -1516,6 +1506,18 @@ references:
   title-short: Arkansas Labeling
   type: legal_case
 
+- id: ArkansasLabelingIncProctor_EDArk2020a
+  authority: E.D. Ark.
+  citation-key: ArkansasLabelingIncProctor_EDArk2020a
+  issued:
+    - year: 2020
+      month: 11
+      day: 27
+  jurisdiction: ED Arkansas
+  number: Case No. 4:19-cv-00773-KGB
+  title: Arkansas Labeling, Inc. v. Proctor
+  type: legal_case
+
 - id: ArkansasLabelingIncProctor_EDArk2021
   authority: E.D. Ark.
   citation-key: ArkansasLabelingIncProctor_EDArk2021
@@ -1523,19 +1525,6 @@ references:
     - year: 2021
       month: 9
       day: 3
-  jurisdiction: ED Arkansas
-  number: Case No. 4:19-cv-00773-KGB
-  title: Arkansas Labeling, Inc. v. Proctor
-  title-short: Arkansas Labeling
-  type: legal_case
-
-- id: ArkansasLabelingIncProctor_EDArk2022
-  authority: E.D. Ark.
-  citation-key: ArkansasLabelingIncProctor_EDArk2022
-  issued:
-    - year: 2022
-      month: 7
-      day: 22
   jurisdiction: ED Arkansas
   number: Case No. 4:19-cv-00773-KGB
   title: Arkansas Labeling, Inc. v. Proctor
@@ -6960,32 +6949,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.21
 
-- id: DiscriminationEngagementCertain_nd
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  citation-key: DiscriminationEngagementCertain_nd
-  container-title: McKinndey's Labor Law
-  section: § 201-d
-  title: Discrimination against the engagement in certain activities
-  type: legislation
-  URL: >-
-    https://1.next.westlaw.com/Search/Results.html?query=find:undefined%20undefined%20undefined#autoLogin
-
-- id: DisqualificationBenefits_nd
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  citation-key: DisqualificationBenefits_nd
-  container-title: McKinney's Labor Law
-  section: § 593
-  title: Disqualification for benefits
-  type: legislation
-  URL: >-
-    https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
-
 - id: Dlugacz2011
   author:
     - family: Dlugacz
@@ -12144,7 +12107,7 @@ references:
   issued:
     - year: 2022
       month: 11
-      day: 4
+      day: 5
   language: en-US
   title: Compromise, Complicity, and the Rule of Law
   type: post-weblog
@@ -16179,7 +16142,7 @@ references:
   issued:
     - year: 2019
       month: 3
-      day: 21
+      day: 22
   language: en-US
   title: >-
     Jaroslav Klenovský looks back on 4 decades of Jewish heritage work in
@@ -19590,6 +19553,20 @@ references:
   type: chapter
   URL: https://doi.org/10.1007/978-3-030-29901-9_105
 
+- id: MayesMissDeptEmployment_CourtofAppeals2021
+  authority: Court of Appeals
+  citation-key: MayesMissDeptEmployment_CourtofAppeals2021
+  container-title: So. 3d
+  issued:
+    - year: 2021
+      month: 7
+      day: 20
+  jurisdiction: Miss
+  page: '966'
+  title: Mayes v. Miss. Dep't of Employment Sec.
+  type: legal_case
+  volume: '322'
+
 - id: McAdam2001
   abstract: >-
     Dissatisfied with the compartmentalization of studies concerning strikes,
@@ -21101,13 +21078,13 @@ references:
   type: article-newspaper
   URL: https://www.nytimes.com/2025/05/02/us/politics/trump-law-firms.html
 
-- id: MontanaAgGag1991
-  citation-key: MontanaAgGag1991
+- id: MontanaFarmAnimal1991
+  citation-key: MontanaFarmAnimal1991
   container-title: Mont. Code
   issued:
     - year: 1991
-  section: 81-30-101
-  title: Montana Ag-Gag
+  section: 81-30-101 et seq.
+  title: Montana Farm Animal and Research Facility Protection Act
   type: legislation
 
 - id: Montgomery1989
@@ -22083,6 +22060,20 @@ references:
   URL: >-
     https://www.marxists.org/history/usa/pubs/national-guardian/1954-12-13-7-8-nat-guardian.pdf
 
+- id: NewYorkUnemployment_nd
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  citation-key: NewYorkUnemployment_nd
+  container-title: McKinney's Labor Law
+  section: § 593
+  title: New York Unemployment Insurance Law - Disqualification for Benefits
+  type: legislation
+  URL: >-
+    https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+  volume: Chap. 31, Art. 18
+
 - id: Nielsen2000
   abstract: >-
     The legal consciousness of ordinary citizens concerning offensive public
@@ -22401,6 +22392,14 @@ references:
   source: Amazon
   title: Institutions, Institutional Change and Economic Performance
   type: book
+
+- id: NorthCarolinaEmployment_nd
+  citation-key: NorthCarolinaEmployment_nd
+  container-title: N.C.G.S.
+  section: § 96-1 et seq.
+  title: North Carolina Employment Security Law
+  type: legislation
+  volume: '96'
 
 - id: NorthCarolinaStateBar2024
   author:
@@ -28959,17 +28958,6 @@ references:
   title: Sullivan-Blake v. Fedex Ground Package System, Inc.
   type: legal_case
 
-- id: SullivanLongHagerty_NLRB1991
-  authority: N.L.R.B.
-  citation-key: SullivanLongHagerty_NLRB1991
-  container-title: N.L.R.B.
-  issued:
-    - year: 1991
-  page: '1007'
-  title: Sullivan, Long & Hagerty
-  type: legal_case
-  volume: '303'
-
 - id: Sunshine2019
   abstract: >-
     The question of antisemitism inside of the Left--referred to as "left
@@ -30083,7 +30071,7 @@ references:
   issued:
     - year: 2020
       month: 10
-      day: 20
+      day: 2
   number: 6:20-CV-06076
   page: '5878211'
   title: Timber Automation, LLC v. FiberPro, LLC
@@ -30508,19 +30496,6 @@ references:
   type: webpage
   URL: >-
     https://www.americanbar.org/groups/senior_lawyers/resources/voice-of-experience/2010-2022/understanding-guardianship/
-
-- id: UnemploymentInsuranceLaw_nd
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  citation-key: UnemploymentInsuranceLaw_nd
-  container-title: McKinney's Labor Law
-  section: § 500 et seq.
-  title: Unemployment Insurance Law
-  type: legislation
-  URL: >-
-    https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
 
 - id: UniversalFoundryCoDepartment_Wisc1979
   accessed:
@@ -31242,17 +31217,6 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/10.1086/681274
   volume: '2014'
-
-- id: WellstreamCorp_NLRB1994
-  authority: N.L.R.B.
-  citation-key: WellstreamCorp_NLRB1994
-  container-title: N.L.R.B.
-  issued:
-    - year: 1994
-  page: '698'
-  title: Wellstream Corp.
-  type: legal_case
-  volume: '313'
 
 - id: Western1995
   abstract: >-
