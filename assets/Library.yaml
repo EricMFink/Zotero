@@ -3255,6 +3255,37 @@ references:
   type: legal_case
   volume: '365'
 
+- id: Bondi2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  author:
+    - family: Bondi
+      given: Pamela
+  citation-key: Bondi2025
+  container-title: Twitter
+  genre: Tweet
+  issued:
+    - year: 2025
+      month: 10
+      day: 16
+  language: en
+  title: >-
+    As @POTUS has made clear, Antifa is a left-wing terrorist organization. They
+    will be prosecuted as such.
+  type: post
+  URL: https://x.com/AGPamBondi/status/1978870482314092711
+
+- id: BondiEthicsComplaint2025
+  citation-key: BondiEthicsComplaint2025
+  issued:
+    - year: 2025
+      month: 6
+      day: 5
+  title: Bondi Ethics Complaint
+  type: document
+
 - id: Bonefeld2014
   abstract: >-
     The Nazi ideologue Arthur Rosenberg formulated the essence of modern
@@ -5899,6 +5930,32 @@ references:
   URL: >-
     https://www.elgaronline.com/view/edcoll/9781849803618/9781849803618.00010.xml
 
+- id: CouldPamBondiLindsey_MSNBCcom2025
+  abstract: >-
+    “Deadline: White House” legal analyst Jordan Rubin answers your questions
+    about the Supreme Court, Trump administration lawsuits and other issues.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  author:
+    - family: Rubin
+      given: Jordan
+  citation-key: CouldPamBondiLindsey_MSNBCcom2025
+  container-title: MSNBC.com
+  issued:
+    - year: 2025
+      month: 10
+      day: 17
+  language: en
+  title: >-
+    Could Pam Bondi or Lindsey Halligan be disbarred for bringing Trump’s
+    retribution?
+  title-short: Ask Jordan
+  type: webpage
+  URL: >-
+    https://www.msnbc.com/deadline-white-house/deadline-legal-blog/bondi-halligan-disbarred-trump-comey-james-ask-jordan-rcna238183
+
 - id: Crain2002
   archive: JSTOR
   author:
@@ -8495,6 +8552,20 @@ references:
   URL: >-
     https://www.courts.state.md.us/family/guardianship/videoseries/ethicalconsiderations
 
+- id: Ethics_TheFloridaBar2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  citation-key: Ethics_TheFloridaBar2025
+  container-title: The Florida Bar
+  issued:
+    - year: 2025
+  language: en-US
+  title: Ethics
+  type: webpage
+  URL: https://www.floridabar.org/ethics/
+
 - id: EthridgeHarborHouseRestaurant_9thCir1988
   authority: 9th Cir.
   citation-key: EthridgeHarborHouseRestaurant_9thCir1988
@@ -9742,6 +9813,81 @@ references:
   title-short: Flagstaff Med. Ctr.
   type: legal_case
   volume: '357'
+
+- id: FloridaEthicsOpinion70-43_1971
+  abstract: >-
+    An attorney representing a government interest is bound by the same ethical
+    considerations as an attorney for a private individual in respect to
+    statements or publicity pertaining to litigation pending by or against the
+    government. Note: The trial publicity rule was amended subsequent to Gentile
+    v
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  citation-key: FloridaEthicsOpinion70-43_1971
+  issued:
+    - year: 1971
+      month: 1
+      day: 12
+  language: en-US
+  title: Florida Ethics Opinion 70-43
+  type: document
+  URL: https://www.floridabar.org/etopinions/etopinion-70-43/
+
+- id: FloridaEthicsOpinion90-4_1990
+  abstract: >-
+    Florida Rule 4 4.2 (communication with person represented by counsel)
+    contains no exception for activities of U.S. Department of Justice
+    attorneys.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  citation-key: FloridaEthicsOpinion90-4_1990
+  issued:
+    - year: 1990
+      month: 7
+      day: 15
+  language: en-US
+  title: Florida Ethics Opinion 90-4
+  type: document
+  URL: https://www.floridabar.org/etopinions/etopinion-90-4/
+
+- id: FloridaRulesProfessionalConduct_TheFloridaBar2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  citation-key: FloridaRulesProfessionalConduct_TheFloridaBar2025
+  container-title: Rules Regulating the Florida Bar
+  issued:
+    - year: 2025
+      month: 7
+      day: 14
+  language: en-US
+  section: chap. 4
+  title: Florida Rules of Professional Conduct
+  type: legislation
+  URL: https://www.floridabar.org/rules/rrtfb/
+
+- id: FloridaSupremeCourtRejects_LawyersDefendingAmericanDemocracy2025
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  citation-key: FloridaSupremeCourtRejects_LawyersDefendingAmericanDemocracy2025
+  container-title: Lawyers Defending American Democracy
+  issued:
+    - year: 2025
+      month: 10
+      day: 14
+  language: en-US
+  title: >-
+    Florida Supreme Court Rejects LDAD’s Petition, Suspending Ethics Rules for
+    Pam Bondi While She Is Attorney General
+  type: post-weblog
+  URL: https://ldad.org/letters-briefs/ldad-florida-sc-decision
 
 - id: FluorDanielInc_NLRB1993
   authority: N.L.R.B.
@@ -23093,6 +23239,18 @@ references:
   type: legal_case
   volume: '25'
 
+- id: PamelaJoBondiFlorida_TheFloridaBar_nd
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  citation-key: PamelaJoBondiFlorida_TheFloridaBar_nd
+  container-title: The Florida Bar
+  language: en-US
+  title: Pamela Jo Bondi Florida Bar Member Profile
+  type: webpage
+  URL: https://www.floridabar.org/directories/find-mbr/profile/?num=886440
+
 - id: Parker2014
   abstract: >-
     The scholarly literature on enforcement suggests that enforcement often
@@ -25953,9 +26111,7 @@ references:
   source: HeinOnline
   title: >-
     What We've Got Here... Is a Failure... to Communicate: A Statistical
-    Analysis of the Nation's Most Common Ethical Complaint Symposium Issue: A
-    Century Later: Answering Roscoe Pound's Call for Change in the
-    Administration of Justice - Comment
+    Analysis of the Nation's Most Common Ethical Complaint
   title-short: What We've Got Here... Is a Failure... to Communicate
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/hamlrv30&i=635
@@ -28383,6 +28539,30 @@ references:
   type: legal_case
   volume: '930'
 
+- id: StateSupremeCourt_Weaver_MiamiHerald_2025
+  abstract: >-
+    A legal group urged the high court to order The Florida Bar to take action
+    over alleged misconduct.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  author:
+    - family: Weaver
+      given: Jay
+  citation-key: StateSupremeCourt_Weaver_MiamiHerald_2025
+  container-title: Miami Herald
+  issued:
+    - year: 2025
+      month: 10
+      day: 15
+  language: en
+  title: >-
+    State Supreme Court rejects request to make Florida Bar investigate Pam
+    Bondi
+  type: article-newspaper
+  URL: https://www.miamiherald.com/news/state/florida/article312497577.html
+
 - id: Steiner2002
   accessed:
     - year: 2023
@@ -29157,6 +29337,25 @@ references:
   URL: https://brill.com/view/journals/hima/31/2/article-p3_1.xml
   volume: '31'
 
+- id: SuspectFatalStabbingUkrainian_BBC2025
+  abstract: >-
+    The murder of Ukrainian refugee Iryna Zarutska on a train prompted an outcry
+    over public safety and a debate over crime policy.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  citation-key: SuspectFatalStabbingUkrainian_BBC2025
+  container-title: BBC
+  issued:
+    - year: 2025
+      month: 9
+      day: 9
+  language: en-GB
+  title: Suspect in fatal stabbing of Ukrainian refugee charged with federal crime
+  type: webpage
+  URL: https://www.bbc.com/news/articles/c4g7z8pk0j3o
+
 - id: Suwandi2019
   abstract: >-
     Award-winning book showcases case studies uncovering the exploitation of
@@ -29826,6 +30025,35 @@ references:
   title-short: The Myth of Capitalism
   type: book
 
+- id: TerrorismChargesAntifa_Feuer_TheNewYorkTimes_2025
+  abstract: >-
+    President Trump has spoken at times of antifa as though it were a clear-cut
+    extremist organization, but the movement is a decentralized collection of
+    loosely affiliated groups.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  author:
+    - family: Feuer
+      given: Alan
+  citation-key: TerrorismChargesAntifa_Feuer_TheNewYorkTimes_2025
+  container-title: The New York Times
+  ISSN: 0362-4331
+  issued:
+    - year: 2025
+      month: 10
+      day: 16
+  language: en-US
+  section: U.S.
+  source: NYTimes.com
+  title: >-
+    Terrorism Charges Against Antifa ‘Cell’ Show Administration’s Focus on the
+    Left
+  type: article-newspaper
+  URL: >-
+    https://www.nytimes.com/2025/10/16/us/politics/justice-department-terrorism-antifa.html
+
 - id: Teter2020
   abstract: >-
     Brian Schrauger, in The Jerusalem Post, discussed Jews being "slaughtered,"
@@ -30305,6 +30533,33 @@ references:
   title: 'Critical Lawyers: Social Justice and the Structures of Private Practice'
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
+
+- id: TrumpNamesMore_Thrush_TheNewYorkTimes_2025
+  abstract: >-
+    Top officials, unwilling to fight for the independence of their
+    institutions, watched on Wednesday as President Trump continued his pursuit
+    of controlling law enforcement.
+  accessed:
+    - year: 2025
+      month: 10
+      day: 17
+  author:
+    - family: Thrush
+      given: Glenn
+  citation-key: TrumpNamesMore_Thrush_TheNewYorkTimes_2025
+  container-title: The New York Times
+  ISSN: 0362-4331
+  issued:
+    - year: 2025
+      month: 10
+      day: 15
+  language: en-US
+  section: U.S.
+  source: NYTimes.com
+  title: Trump Names More Foes He Wants Prosecuted as Bondi and Patel Look On
+  type: article-newspaper
+  URL: >-
+    https://www.nytimes.com/2025/10/15/us/politics/trump-bondi-patel-blanche-oval-office.html
 
 - id: TuckerAutoMationNorthCarolinaLLC_MDNC2017
   authority: M.D.N.C.
