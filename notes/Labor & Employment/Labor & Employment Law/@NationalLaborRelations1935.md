@@ -2,7 +2,7 @@
 citekey: NationalLaborRelations1935
 title: National Labor Relations Act
 year: 1935
-collection: DataTrespass/Preemption 
+collection: Labor & Employment/Labor & Employment Law 
 tags: 
 cssclasses: ["zotero"]
 created: 2025-07-14
@@ -22,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:56:25.314-04:00 %%
+%% Import Date: 2025-10-20T10:47:52.164-04:00 %%

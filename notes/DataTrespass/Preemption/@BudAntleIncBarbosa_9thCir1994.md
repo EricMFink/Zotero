@@ -3,7 +3,7 @@ citekey: BudAntleIncBarbosa_9thCir1994
 title: Bud Antle, Inc. v. Barbosa
 year: 1994
 collection: DataTrespass/Preemption 
-tags: ObsCite, labor-preemption, agricultural-employees
+tags: labor-preemption, agricultural-employees
 cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2025-10-11
@@ -22,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:56:25.177-04:00 %%
+%% Import Date: 2025-10-20T10:47:51.899-04:00 %%

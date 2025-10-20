@@ -3,7 +3,7 @@ citekey: BrownHotelRestaurantEmployees_US1984
 title: Brown v. Hotel and Restaurant Employees and Bartenders Intern. Union Local 54
 year: 1984
 collection: DataTrespass/Preemption 
-tags: ObsCite, labor-preemption
+tags: labor-preemption
 cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2025-10-11
@@ -22,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:56:25.172-04:00 %%
+%% Import Date: 2025-10-20T10:47:51.891-04:00 %%

@@ -3,7 +3,7 @@ citekey: SearsRoebuckCoSan_US1978
 title: Sears, Roebuck & Co. v. San Diego County Dist. Council of Carpenters
 year: 1978
 collection: DataTrespass/Preemption 
-tags: ObsCite, labor-preemption
+tags: labor-preemption
 cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2025-10-11
@@ -22,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:56:25.352-04:00 %%
+%% Import Date: 2025-10-20T10:47:52.271-04:00 %%

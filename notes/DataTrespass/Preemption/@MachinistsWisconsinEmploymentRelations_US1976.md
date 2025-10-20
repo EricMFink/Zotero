@@ -3,7 +3,7 @@ citekey: MachinistsWisconsinEmploymentRelations_US1976
 title: Machinists v. Wisconsin Employment Relations Commission
 year: 1976
 collection: DataTrespass/Preemption 
-tags: ObsCite, labor-preemption
+tags: labor-preemption
 cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2025-10-11
@@ -22,4 +22,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:56:25.299-04:00 %%
+%% Import Date: 2025-10-20T10:47:52.137-04:00 %%

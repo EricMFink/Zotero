@@ -4,7 +4,7 @@ title: "Labor Law’s Preemption Problem: Glacier Northwest and What the Fate of
 year: 2024
 authors: Alexander S Whistler
 collection: DataTrespass/Preemption 
-tags: ObsCite, labor-preemption
+tags: labor-preemption
 cssclasses: ["zotero"]
 created: 2025-07-14
 modified: 2025-10-11
@@ -23,4 +23,4 @@ Write notes here!
 
 
 
-%% Import Date: 2025-10-11T16:56:25.384-04:00 %%
+%% Import Date: 2025-10-20T10:47:52.324-04:00 %%
