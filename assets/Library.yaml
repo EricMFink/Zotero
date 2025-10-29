@@ -8375,6 +8375,24 @@ references:
   type: article-journal
   volume: '92'
 
+- id: Epstein1984
+  accessed:
+    - year: 2025
+      month: 10
+      day: 29
+  author:
+    - family: Epstein
+      given: Richard
+  citation-key: Epstein1984
+  container-title: University of Chicago Law Review
+  issued:
+    - year: 1984
+  page: '947'
+  title: In Defense of the Contract at Will
+  type: article-journal
+  URL: https://www.jstor.org/stable/1599554?seq=1
+  volume: '51'
+
 - id: ErieCoTompkins_US1938
   authority: U.S.
   citation-key: ErieCoTompkins_US1938
@@ -11331,6 +11349,29 @@ references:
   URL: >-
     https://www.c-span.org/program/public-affairs-event/georgetown-university-discussion-on-the-rule-of-law-and-democracy-around-the-globe/655494
 
+- id: Getman2007
+  accessed:
+    - year: 2025
+      month: 10
+      day: 29
+  author:
+    - family: Getman
+      given: Jack
+  citation-key: Getman2007
+  container-title: University of Pennsylvania Journal of Business and Employment Law
+  container-title-short: U. Pa. J. Bus. & Emp. L.
+  issue: '3'
+  issued:
+    - year: 2007
+    - year: 2008
+  language: eng
+  page: 717-740
+  source: HeinOnline
+  title: Bartleby, Labor and Law
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/upjlel10&i=725
+  volume: '10'
+
 - id: Getman2012
   abstract: >-
     The labor movement is weak and divided. Some think that it is dying. But
@@ -12242,7 +12283,7 @@ references:
   issued:
     - year: 2022
       month: 11
-      day: 5
+      day: 4
   language: en-US
   title: Compromise, Complicity, and the Rule of Law
   type: post-weblog
@@ -16105,6 +16146,22 @@ references:
   URL: https://www-jstor-org.elon.idm.oclc.org/stable/10.5703/shofar.30.4.1
   volume: '30'
 
+- id: Kim1997
+  author:
+    - family: Kim
+      given: Pauline T
+  citation-key: Kim1997
+  container-title: Cornell L. Rev.
+  issued:
+    - year: 1997
+  page: '105'
+  publisher: HeinOnline
+  title: >-
+    Bargaining with Imperfect Information: A Study of Worker Perceptions of
+    Legal Protection in an At-Will World
+  type: article-journal
+  volume: '83'
+
 - id: KinderCareLearningCentersInc_NLRB1990
   authority: N.L.R.B.
   citation-key: KinderCareLearningCentersInc_NLRB1990
@@ -16277,7 +16334,7 @@ references:
   issued:
     - year: 2019
       month: 3
-      day: 22
+      day: 21
   language: en-US
   title: >-
     Jaroslav Klenovský looks back on 4 decades of Jewish heritage work in
