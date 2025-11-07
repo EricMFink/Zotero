@@ -5437,7 +5437,7 @@ references:
   container-title: U.S. Code
   issued:
     - year: 1914
-  section: '17'
+  section: 17 et seq.
   title: Clayton Antitrust Act
   type: legislation
   URL: https://www.law.cornell.edu/uscode/text/15/17
@@ -5758,6 +5758,7 @@ references:
 - id: CommonwealthHunt_Mass1842
   authority: Mass.
   citation-key: CommonwealthHunt_Mass1842
+  container-title: Mass.
   issued:
     - year: 1842
   page: '111'
@@ -14599,7 +14600,7 @@ references:
 - id: ImmunityCivilLiability2021
   citation-key: ImmunityCivilLiability2021
   container-title: N.C.G.S.
-  section: § 1-539.12
+  section: 1-539.12
   title: Immunity from Civil Liability for Employers Disclosing Information
   type: legislation
 
@@ -15088,7 +15089,7 @@ references:
 - id: JespersenHarrahsOperatingCo_9thCir2006
   authority: 9th Cir.
   citation-key: JespersenHarrahsOperatingCo_9thCir2006
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2006
   page: '1104'
@@ -15425,7 +15426,7 @@ references:
 - id: JohnsonNatlCollegiateAthletic_3rdCir2024
   authority: 3rd Cir.
   citation-key: JohnsonNatlCollegiateAthletic_3rdCir2024
-  container-title: F. 4th
+  container-title: F.4th
   issued:
     - year: 2024
   page: '163'
@@ -15757,7 +15758,7 @@ references:
 - id: KadlecMedicalLakeviewAnesthesia_5thCir2008
   authority: 5th Cir.
   citation-key: KadlecMedicalLakeviewAnesthesia_5thCir2008
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2008
   page: '412'
@@ -19404,7 +19405,7 @@ references:
 - id: MaclarenMacomb_NLRB
   authority: N.L.R.B.
   citation-key: MaclarenMacomb_NLRB
-  container-title: NLRB
+  container-title: N.L.R.B.
   issued:
     - year: 2023
       month: 2
@@ -22727,14 +22728,14 @@ references:
 - id: NCWageHour_nd
   citation-key: NCWageHour_nd
   container-title: N.C.G.S.
-  section: 95-25.6
+  section: 95-25.1 et seq.
   title: NC Wage & Hour Act
   type: legislation
 
 - id: NCWorkersCompensation_nd
   citation-key: NCWorkersCompensation_nd
   container-title: N.C.G.S.
-  section: 97-2 et seq.
+  section: 97-1 et seq.
   title: NC Workers' Compensation Act
   type: legislation
 
@@ -24471,7 +24472,7 @@ references:
       month: 12
       day: 8
   jurisdiction: D. Colorado
-  number: Civil Action No. 21-cv-00703-NYW-STV
+  number: No. 21-cv-00703-NYW-STV
   title: Pham v. Aeva Specialty Pharmacy
   type: legal_case
 
@@ -25727,7 +25728,7 @@ references:
 - id: RazakUberTechnologiesInc_3rdCir2020
   authority: 3rd Cir.
   citation-key: RazakUberTechnologiesInc_3rdCir2020
-  container-title: F. 3d
+  container-title: F.3d
   issued:
     - year: 2020
   page: '137'
@@ -26043,8 +26044,8 @@ references:
       month: 12
       day: 6
   jurisdiction: WD Michigan
-  number: Case No. 1:20-cv-2
-  title: Ries v. Mcdonald's Usa, Llc
+  number: No. 1:20-cv-2
+  title: Ries v. Mcdonald's USA, LLC
   type: legal_case
 
 - id: Rivera2020
@@ -28414,7 +28415,7 @@ references:
   container-title: U.S. Code
   issued:
     - year: 1890
-  section: '1'
+  section: 1 et seq.
   title: Sherman Antitrust Act
   type: legislation
   URL: https://www.law.cornell.edu/uscode/text/15/17
@@ -29506,7 +29507,7 @@ references:
     - year: 2023
       month: 9
       day: 21
-  number: Case 14--CA--295813
+  number: No. 14--CA--295813
   title: Starbucks Corp.
   type: legal_case
 
@@ -29722,7 +29723,6 @@ references:
     - year: 2023
       month: 8
       day: 2
-  number: 04-CA-137660, 04-CA-145466, 04-CA-158277, 04-CA-160621
   page: No. 113
   title: Stericycle, Inc.
   type: legal_case
@@ -31880,7 +31880,7 @@ references:
     - year: 2024
       month: 1
       day: 10
-  section: '1638'
+  page: '1638'
   title: >-
     Employee or Independent Contractor Classification Under the Fair Labor
     Standards Act (Final Rule)
@@ -33780,7 +33780,7 @@ references:
     - year: 2020
       month: 9
       day: 17
-  number: 19-CV-1058 & 18-CV-11165
+  number: No. 19-CV-1058 & 18-CV-11165
   title: Zorn-Hill v. A2B Taxi, LLC
   type: legal_case
 
