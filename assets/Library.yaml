@@ -440,7 +440,7 @@ references:
       month: 12
       day: 15
   language: en
-  page: 187-195
+  page: 187–195
   source: DOI.org (Crossref)
   title: Comparative Studies of Lawyer Deviance and Discipline
   type: article-journal
@@ -564,10 +564,21 @@ references:
   issued:
     - year: 1981
   note: 'Select: zotero://select/library/items/DVI4KX59'
-  page: 275-316
+  page: 275–316
   title: Anthropology of fishing
   type: article-journal
   volume: '10'
+
+- id: AdairUnitedStates_US1908
+  authority: U.S.
+  citation-key: AdairUnitedStates_US1908
+  container-title: U.S.
+  issued:
+    - year: 1908
+  page: '161'
+  title: Adair v. United States
+  type: legal_case
+  volume: '208'
 
 - id: Adamidis2024
   abstract: >-
@@ -598,7 +609,7 @@ references:
       month: 8
       day: 1
   language: EN
-  page: 386-399
+  page: 386–399
   publisher: SAGE Publications Ltd
   source: SAGE Journals
   title: >-
@@ -651,7 +662,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/XCHBQ9AL'
-  page: 92-100
+  page: 92–100
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -676,7 +687,7 @@ references:
   issued:
     - year: 2019
   language: eng
-  page: 1-16
+  page: 1–16
   source: HeinOnline
   title: 'The Rogue Sovereign: Trump, Sovereignty & Revolution'
   title-short: The Rogue Sovereign
@@ -725,7 +736,7 @@ references:
   note: >-
     mlzsync1:0041{"extrafields":{"publisher":"Routledge"}}_eprint:
     https://doi.org/10.1080/09649069.2019.1663024
-  page: 495-513
+  page: 495–513
   source: Taylor and Francis+NEJM
   title: >-
     Defining the ‘legal’: two conceptions of legal consciousness and legal
@@ -778,7 +789,7 @@ references:
 
     mlzsync1:0064{"extrafields":{"publisher":"[American Bar Foundation,
     Wiley]"}}Citation Key: albistonFundingCauseHow2014
-  page: 62-95
+  page: 62–95
   source: JSTOR
   title: >-
     Funding the Cause: How Public Interest Law Organizations Fund Their
@@ -801,7 +812,7 @@ references:
       given: Patrick
   issued:
     - year: 2014
-  page: 16-23
+  page: 16–23
   publisher: NYU Press
   title: 'The Rule of Law and the Litigation Process: The Paradox of Losing by Winning'
   title-short: The Rule of Law and the Litigation Process
@@ -844,7 +855,7 @@ references:
   note: >-
     mlzsync1:0073{"extrafields":{"publisher":"American Educational Research
     Association"}}Citation Key: Albrecht2023
-  page: 247-267
+  page: 247–267
   source: SAGE Journals
   title: 'Misunderstanding Law: Undergraduates’ Analysis of Campus Title IX Policies'
   title-short: Misunderstanding Law
@@ -946,7 +957,7 @@ references:
   issue: '1'
   issued:
     - year: 2016
-  page: 174-193
+  page: 174–193
   publisher: South Atlantic Modern Language Association
   source: JSTOR
   title: >-
@@ -992,6 +1003,14 @@ references:
   title: Animal and Ecological Terrorism in America
   type: document
 
+- id: AmericansDisabilitiesAct_nd
+  citation-key: AmericansDisabilitiesAct_nd
+  container-title: U.S.C.
+  section: 12101 et seq.
+  title: Americans with Disabilities Act
+  type: legislation
+  volume: '42'
+
 - id: Amery1980
   accessed:
     - year: 2024
@@ -1011,7 +1030,7 @@ references:
   issue: '20'
   issued:
     - year: 1980
-  page: 15-29
+  page: 15–29
   publisher: '[New German Critique, Duke University Press]'
   source: JSTOR
   title: On the Necessity and Impossibility of Being a Jew
@@ -1103,6 +1122,23 @@ references:
   title-short: Imagined Communities
   type: book
 
+- id: Anderson2017
+  author:
+    - family: Anderson
+      given: Elizabeth
+  citation-key: Anderson2017
+  event-place: Princeton
+  ISBN: 978-0-691-17651-2
+  issued:
+    - year: 2017
+  language: English
+  number-of-pages: '224'
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  title: 'Private Government: How Employers Rule Our Lives'
+  title-short: Private Government
+  type: book
+
 - id: Anderson2019
   abstract: >-
     State bar licensing authorities and law schools have been debating whether
@@ -1156,7 +1192,7 @@ references:
   issued:
     - year: 2008
   note: 'Select: zotero://select/library/items/494FKRYU'
-  page: 627-668
+  page: 627–668
   source: JSTOR
   title: >-
     Black Working-Class Political Activism and Biracial Unionism: Galveston
@@ -1179,7 +1215,7 @@ references:
     - year: 2017
   language: eng
   note: 'Select: zotero://select/library/items/IGQWGFPR'
-  page: 2-101
+  page: 2–101
   source: HeinOnline
   title: The New Labor Law
   type: article-journal
@@ -1531,6 +1567,18 @@ references:
   title-short: Arkansas Labeling
   type: legal_case
 
+- id: ArkuWellsFargoBank_WDNC2022
+  authority: W.D.N.C.
+  citation-key: ArkuWellsFargoBank_WDNC2022
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2022
+  jurisdiction: WD North Carolina
+  page: '602'
+  title: Arku v. Wells Fargo Bank, Nat. Association
+  type: legal_case
+  volume: '621'
+
 - id: Arnold1992
   abstract: >-
     We develop a career model of prosecuted misconduct among lawyers. This model
@@ -1566,7 +1614,7 @@ references:
   note: >-
     mlzsync1:0092{"extrafields":{"publisher":"[American Sociological
     Association, Sage Publications, Inc.]"}}Citation Key: Arnold1992
-  page: 771-780
+  page: 771–780
   source: JSTOR
   title: >-
     Careers of Misconduct: The Structure of Prosecuted Professional Deviance
@@ -1615,7 +1663,7 @@ references:
   note: >-
     mlzsync1:0064{"extrafields":{"publisher":"Transformative Studies
     Institute"}}Citation Key: Arnold2019
-  page: 1-33
+  page: 1–33
   source: EBSCOhost
   title: 'Antisemitism and the Left: Confronting an Invisible Racism'
   title-short: Antisemitism and the Left
@@ -1716,7 +1764,7 @@ references:
   issued:
     - year: 2013
   note: mlzsync1:0037{"extrafields":{"publisher":"Wiley"}}
-  page: 1-6
+  page: 1–6
   source: JSTOR
   title: 'Introduction: Moving Towards an Economic Sociology of Law'
   title-short: Introduction
@@ -1795,7 +1843,7 @@ references:
   note: |-
     Select: zotero://select/library/items/TELWXGQS
     Saved from BrowZine: https://thirdiron.com/download
-  page: 55 - 59
+  page: 55–59
   title: Contesting the Legal Culture of Professionalism
   type: article-journal
   URL: http://www.tandfonline.com/doi/full/10.1080/09695958.2016.1229188
@@ -1852,7 +1900,7 @@ references:
     - year: 1996
   language: eng
   note: 'Select: zotero://select/library/items/QIKDMU69'
-  page: 75-108
+  page: 75–108
   source: HeinOnline
   title: >-
     The Development of the Employment at Will Rule Revisited: A Challenge to Its
@@ -1896,7 +1944,7 @@ references:
     - year: 2009
   language: en
   note: 'Select: zotero://select/library/items/BP47LF9S'
-  page: 58-73
+  page: 58–73
   publisher: SAGE Publications Ltd
   publisher-place: "1 Oliver's Yard,\_ 55 City Road,\_ London\_ \_ EC1Y 1SP\_ United Kingdom"
   source: Crossref
@@ -1939,7 +1987,7 @@ references:
     mlzsync1:0055{"extrafields":{"publisher":"Oxford University
     Press"}}ields":{"publisher":"Oxford University Press"}}Citation Key:
     banaszakExplainingDynamicsWomen2016
-  page: 381-409
+  page: 381–409
   source: JSTOR
   title: >-
     Explaining the Dynamics between the Women's Movement and the Conservative
@@ -1962,7 +2010,7 @@ references:
   issue: '2'
   issued:
     - year: 1988
-  page: 139-155
+  page: 139–155
   publisher: Oxford University Press
   source: JSTOR
   title: 'Kafka: The Margins of Assimilation'
@@ -2065,7 +2113,7 @@ references:
     mlzsync1:0068{"extrafields":{"publisher":"[Wiley, Law and Society
     Association]"}}isher":"[Wiley, Law and Society Association]"}}Citation Key:
     barclayHowCauseLawyers2014
-  page: 595-620
+  page: 595–620
   source: JSTOR
   title: >-
     How Do Cause Lawyers Decide When and Where to Litigate on behalf of Their
@@ -2183,7 +2231,7 @@ references:
   issued:
     - year: 2012
   note: 'Select: zotero://select/library/items/UVCB2VCF'
-  page: 597-609
+  page: 597–609
   title: >-
     The emergence of access controls in small-scale fishing commons: A
     comparative analysis of individual licenses and common property-rights in
@@ -2332,7 +2380,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/FUV6QVH4'
-  page: 276-284
+  page: 276–284
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -2499,7 +2547,7 @@ references:
   issue: '34'
   issued:
     - year: 1985
-  page: 32-58
+  page: 32–58
   title: Central Park
   type: article-journal
 
@@ -2535,7 +2583,7 @@ references:
     - year: 2009
   language: eng
   note: 'Select: zotero://select/library/items/LX43ESRG'
-  page: 457-508
+  page: 457–508
   source: HeinOnline
   title: >-
     Government Lawyer as Cause Lawyer: A Study of Three High Profile Government
@@ -2615,7 +2663,7 @@ references:
   collection-title: CATO HANDBOOK ON EXECUTIVE ORDERS AND PRESIDENTIAL DIRECTIVES
   issued:
     - year: 2024
-  page: 1-10
+  page: 1–10
   publisher: Cato Institute
   source: JSTOR
   title: Introduction
@@ -2744,6 +2792,31 @@ references:
   title-short: The Least Dangerous Branch
   type: book
 
+- id: Bierman1993
+  accessed:
+    - year: 2025
+      month: 11
+      day: 2
+  author:
+    - family: Bierman
+      given: Leonard
+    - family: Vinton
+      given: Karen
+    - family: Youngblood
+      given: Stuart A.
+  citation-key: Bierman1993
+  container-title: Montana Law Review
+  issued:
+    - year: 1993
+  page: '367'
+  title: >-
+    Montana's Wrongful Discharge from Employment Act: The Views of the Montana
+    Bar
+  type: article-journal
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/montlr54&div=25&g_sent=1&casa_token=X0xHNr63JE8AAAAA:lZ_LfiNzSZgRJ7pYJ1H08WDcqbGkLaaIjKeA3bgxW4Am57-ZzWnLJOHTbAUdWIAgoIjAHLw9&collection=journals
+  volume: '54'
+
 - id: Bill2009
   abstract: >-
     The U.S. trade union movement finds itself today on a global battlefield
@@ -2803,7 +2876,7 @@ references:
   issued:
     - year: 1971
   note: 'Select: zotero://select/library/items/6BCMLGDJ'
-  page: 811-832
+  page: 811–832
   source: JSTOR
   title: Public Recreation and Subdivisions on Lakes and Reservoirs in California
   type: article-journal
@@ -2842,7 +2915,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/NV6QS6TS'
-  page: 64-82
+  page: 64–82
   publisher: University of Minnesota Press
   source: JSTOR
   title: Rhetorical Psychology, Ideological Thinking, and Imagining Nationhood
@@ -3147,7 +3220,7 @@ references:
     mlzsync1:0061{"extrafields":{"publisher":"Duke University School of
     Law"}}:{"publisher":"Duke University School of Law"}}Citation Key:
     bloomPracticeStyleSuccessful2008
-  page: 1-16
+  page: 1–16
   source: JSTOR
   title: Practice Style and Successful Legal Mobilization
   type: article-journal
@@ -3165,7 +3238,7 @@ references:
     - year: 2000
   language: eng
   note: 'Select: zotero://select/library/items/4WV2M5F4'
-  page: 317-332
+  page: 317–332
   source: HeinOnline
   title: >-
     Significant Labor and Employment Law Issues in Higher Education during the
@@ -3235,7 +3308,7 @@ references:
     - year: 2017
   language: eng
   note: 'Select: zotero://select/library/items/Z2PK6GLP'
-  page: 819-870
+  page: 819–870
   source: HeinOnline
   title: Employment as Fiduciary Relationship
   type: article-journal
@@ -3313,7 +3386,7 @@ references:
   ISBN: 978-0-8032-4864-9
   issued:
     - year: 2014
-  page: 314-332
+  page: 314–332
   publisher: University of Nebraska Press
   source: JSTOR
   title: >-
@@ -3347,7 +3420,7 @@ references:
   issued:
     - year: 2019
       month: 1
-  page: 1-20
+  page: 1–20
   source: EBSCOhost
   title: >-
     Critical Theory and the Critique of Antisemitism: On Society as Economic
@@ -3372,7 +3445,7 @@ references:
   issued:
     - year: 2011
   note: 'Select: zotero://select/library/items/ZHXQEKBQ'
-  page: 33-41
+  page: 33–41
   source: JSTOR
   title: 'Feminism and the Labor Movements: A Century of Collaboration and Conflict'
   title-short: FEMINISM AND THE LABOR MOVEMENT
@@ -3424,7 +3497,7 @@ references:
   issue: '4'
   issued:
     - year: 1970
-  page: 153-162
+  page: 153–162
   publisher: University of Manitoba
   source: JSTOR
   title: >-
@@ -3516,7 +3589,7 @@ references:
   issued:
     - year: 2011
   language: eng
-  page: 43-80
+  page: 43–80
   source: HeinOnline
   title: Legal and Ethical Issue Confronting Guardian ad Litem Practice
   type: article-journal
@@ -3540,7 +3613,7 @@ references:
     mlzsync1:0043{"extrafields":{"publisher":"Allen
     Press"}}0043{"extrafields":{"publisher":"Allen Press"}}Citation Key:
     boutcherLawyeringSocialChange2013
-  page: 179-196
+  page: 179–196
   source: meridian.allenpress.com
   title: >-
     Lawyering for Social Change: Pro Bono Publico, Cause Lawyering, and the
@@ -3573,7 +3646,7 @@ references:
     mlzsync1:0094{"extrafields":{"publisher":"[Association of American Law
     Schools, Southwestern Law School]"}}erican Law Schools, Southwestern Law
     School]"}}
-  page: 755-779
+  page: 755–779
   source: JSTOR
   title: >-
     Financing Legal Education Through Student Loans: Results from a
@@ -3600,7 +3673,7 @@ references:
   issued:
     - year: 2012
   language: eng
-  page: 1207-1274
+  page: 1207–1274
   source: HeinOnline
   title: >-
     A Call for Standards: An Overview of the Current Status and Need for
@@ -3640,7 +3713,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/C78WYSW7'
-  page: 330-338
+  page: 330–338
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -3698,7 +3771,7 @@ references:
   note: >-
     mlzsync1:0064{"extrafields":{"publisher":"Transformative Studies
     Institute"}}Citation Key: Braune2019
-  page: 1-25
+  page: 1–25
   source: EBSCOhost
   title: >-
     Who's Afraid of the Frankfurt School? "Cultural Marxism" as an Antisemitic
@@ -3723,7 +3796,7 @@ references:
   note: >-
     mlzsync1:0076{"extrafields":{"publisher":"[New German Critique, Duke
     University Press]"}}Citation Key: Breines1980
-  page: 81-103
+  page: 81–103
   source: JSTOR
   title: >-
     Germans, Journals and Jews/Madison, Men, Marxism and Mosse: A Tale of
@@ -3846,7 +3919,7 @@ references:
   note: |-
     Select: zotero://select/library/items/PMEQB539
     Saved from BrowZine: https://thirdiron.com/download
-  page: 87 - 108
+  page: 87–108
   title: The Influence of Simmel on American Sociology Since 1975
   type: article-journal
   URL: https://browzine.com/articles/471316407
@@ -3864,7 +3937,7 @@ references:
   issued:
     - year: 2004
   note: 'Select: zotero://select/library/items/PPWQ97NU'
-  page: 8-16
+  page: 8–16
   source: JSTOR
   title: Labor vs. the Law How the Wagner Act Became a Management Tool
   type: article-journal
@@ -3955,7 +4028,7 @@ references:
     - year: 2009
   language: eng
   note: 'Select: zotero://select/library/items/V2BIBI6X'
-  page: 601-608
+  page: 601–608
   source: HeinOnline
   title: 'Private Practice and Cause Lawyering: A Practical and Ethical Guide'
   title-short: Private Practice and Cause Lawyering
@@ -3979,7 +4052,7 @@ references:
   issue: '1'
   issued:
     - year: 2000
-  page: 1-47
+  page: 1–47
   publisher: Springer
   source: JSTOR
   title: Beyond "Identity"
@@ -4033,6 +4106,18 @@ references:
   title-short: Judicial Hostility Toward Labor Unions?
   type: article
   URL: https://papers.ssrn.com/abstract=223520
+
+- id: BrunnerAttar_TexApp1990
+  authority: Tex. App.
+  citation-key: BrunnerAttar_TexApp1990
+  container-title: S.W.2d
+  issued:
+    - year: 1990
+  jurisdiction: Tex
+  page: '784'
+  title: Brunner v. Al Attar
+  type: legal_case
+  volume: '786'
 
 - id: BudAntleIncBarbosa_9thCir1994
   authority: 9th Cir.
@@ -4163,7 +4248,7 @@ references:
   collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
   issued:
     - year: 2024
-  page: 4-9
+  page: 4–9
   publisher: Cato Institute
   source: JSTOR
   title: Bureaucracy and the Administrative State
@@ -4186,7 +4271,7 @@ references:
     - year: 2020
     - year: 2021
   language: eng
-  page: 234-310
+  page: 234–310
   source: HeinOnline
   title: >-
     Professional Responsibility, Legal Malpractice, Cybersecurity, and
@@ -4227,7 +4312,7 @@ references:
     - year: 2017
       month: 9
       day: 2
-  page: 480-500
+  page: 480–500
   publisher: Routledge
   source: Taylor and Francis+NEJM
   title: 'The Rule of Law: Beyond Contestedness'
@@ -4276,7 +4361,7 @@ references:
   note: >-
     mlzsync1:0064{"extrafields":{"publisher":"Transformative Studies
     Institute"}}Citation Key: Burley2019a
-  page: 1-18
+  page: 1–18
   source: EBSCOhost
   title: Fascism, Anti-Semitism, and the Roots of Oregon's White Power Movement
   type: article-journal
@@ -4308,7 +4393,7 @@ references:
   note: >-
     mlzsync1:0064{"extrafields":{"publisher":"Transformative Studies
     Institute"}}Citation Key: Burley2019
-  page: 1-16
+  page: 1–16
   source: EBSCOhost
   title: 'Introduction: The Socialism of Fools'
   title-short: Introduction
@@ -4398,6 +4483,17 @@ references:
   title-short: Strike Back
   type: book
 
+- id: BurroughsGreenAppleLLC_NCCtApp2019
+  authority: N.C. Ct. App.
+  citation-key: BurroughsGreenAppleLLC_NCCtApp2019
+  container-title: S.E.2d
+  issued:
+    - year: 2019
+  page: '267'
+  title: Burroughs v. Green Apple, LLC
+  type: legal_case
+  volume: '832'
+
 - id: Butterick2015
   author:
     - family: Butterick
@@ -4451,7 +4547,7 @@ references:
     - year: 2017
   language: en
   note: 'Select: zotero://select/library/items/TAGNHZ3X'
-  page: 7-163
+  page: 7–163
   source: Wiley Online Library
   title: >-
     Campus Unions: Organized Faculty and Graduate Students in U.S. Higher
@@ -4477,7 +4573,7 @@ references:
     - literal: 2019-05-0001
   language: en
   note: 'Select: zotero://select/library/items/NGGLTTU5'
-  page: 99-122
+  page: 99–122
   source: read.dukeupress.edu
   title: >-
     Influence without BargainingUnionization at the University of Wisconsin,
@@ -4513,7 +4609,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/IPR7AMP6'
-  page: 381-386
+  page: 381–386
   publisher: NYU Press
   source: JSTOR
   title: Blue Jeans, Rape, and the “De-Constitutive” Power of Law
@@ -4644,7 +4740,7 @@ references:
     - literal: 2019-01-0001
   language: en
   note: 'Select: zotero://select/library/items/SG26WB5J'
-  page: 69-92
+  page: 69–92
   source: read.dukeupress.edu
   title: >-
     Banana Brokers, Communicative Labor, Translocal Translation, and
@@ -4848,7 +4944,7 @@ references:
   note: |-
     Select: zotero://select/library/items/3EA2WL89
     00009
-  page: 185-209
+  page: 185–209
   title: 'A Visual Self-Image of Legal Authority: "The Temple of Law"'
   type: article-journal
   volume: '11'
@@ -4923,7 +5019,7 @@ references:
     - year: 1979
   language: eng
   note: 'Select: zotero://select/library/items/FDYB9D4D'
-  page: 435-458
+  page: 435–458
   source: HeinOnline
   title: 'Managerial Employee: A Label in Search of a Meaningful Definition Note'
   title-short: Managerial Employee
@@ -4951,7 +5047,7 @@ references:
     - year: 1989
     - year: 1990
   language: eng
-  page: 543-568
+  page: 543–568
   source: HeinOnline
   title: A Model Code of Ethics for Guardians
   type: article-journal
@@ -5026,7 +5122,7 @@ references:
   collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
   issued:
     - year: 2024
-  page: 1-3
+  page: 1–3
   publisher: Cato Institute
   source: JSTOR
   title: DOGE’s Important Mission
@@ -5045,7 +5141,7 @@ references:
   collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
   issued:
     - year: 2024
-  page: 10-17
+  page: 10–17
   publisher: Cato Institute
   source: JSTOR
   title: Regulation
@@ -5064,7 +5160,7 @@ references:
   collection-title: CATO INSTITUTE REPORT TO THE DEPARTMENT OF GOVERNMENT EFFICIENCY (DOGE)
   issued:
     - year: 2024
-  page: 18-31
+  page: 18–31
   publisher: Cato Institute
   source: JSTOR
   title: Spending Cuts and Tax Reforms
@@ -5117,7 +5213,7 @@ references:
     - year: 2023
       month: 10
       day: 15
-  page: 1-27
+  page: 1–27
   publisher: Routledge
   source: Taylor and Francis+NEJM
   title: >-
@@ -5242,7 +5338,7 @@ references:
     Cambridge","publisher":"Cambridge University
     Press"}}dge","publisher":"Cambridge University Press"}}Citation Key:
     clarkCoercionContractMargins2018
-  page: 618-646
+  page: 618–646
   source: ProQuest
   title: >-
     Coercion and Contract at the Margins: Deportable Labor and the Laws of
@@ -5347,6 +5443,28 @@ references:
   URL: https://www.law.cornell.edu/uscode/text/15/17
   volume: '15'
 
+- id: ClaytonDelmarvaCommunityServices_DMd2020
+  authority: D. Md.
+  citation-key: ClaytonDelmarvaCommunityServices_DMd2020
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2020
+  page: '404'
+  title: Clayton v. Delmarva Community Services, Inc.
+  type: legal_case
+  volume: '447'
+
+- id: CloutierCostcoWholesaleCorp_1stCir2004
+  authority: 1st Cir.
+  citation-key: CloutierCostcoWholesaleCorp_1stCir2004
+  container-title: F.3d
+  issued:
+    - year: 2004
+  page: '126'
+  title: Cloutier v. Costco Wholesale Corp.
+  type: legal_case
+  volume: '390'
+
 - id: Cobble1992
   abstract: "\"Rich in detail, studded with telling anecdotes, Dishing It Out \_\_\_\_ \_\_\_is just as vivid and evocative as its title suggests. . . . This book \_\_\_\_\_\_\_ speaks with clarity and good sense to the major debates in the history \_\_\_\_\_\_\_ of work and gender and will become a landmark in our growing understanding \_\_\_\_\_\_\_ of the relationships between the two.\" \_\_\_\_\_\_\_ -- Susan Porter Benson, author of Counter Cultures \_\_\_\_\_ \"In this imaginative study of waitresses, work, and unionism, Cobble \_\_\_\_\_\_\_ challenges us all to rethink the conventional wisdom about the relationship \_\_\_\_\_\_\_ between craft unionism and the possibilities for women workers' collective \_\_\_\_\_\_\_ action. Women's labor history will never be the same.\" \_\_\_\_\_\_\_ -- Ruth Milkman, author of Gender at Work: The Dynamics of Job \_\_\_\_\_\_\_ Segregation by Sex during World War II"
   author:
@@ -5378,7 +5496,7 @@ references:
   issued:
     - year: 2011
   note: 'Select: zotero://select/library/items/DFV9SC5W'
-  page: 201-212
+  page: 201–212
   source: JSTOR
   title: The Intellectual Origins of an Institutional Revolution
   type: article-journal
@@ -5436,7 +5554,7 @@ references:
     - year: 1990
       month: 5
       day: 1
-  page: 791-802
+  page: 791–802
   source: COinS
   title: 'Imprisoned for Membership: The Junius Scales Case'
   title-short: Imprisoned for Membership
@@ -5469,7 +5587,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/PWJRRNXU'
-  page: 185-192
+  page: 185–192
   publisher: NYU Press
   title: >-
     Litigating within Relationships: Disputes and Disturbance in the Regulatory
@@ -5491,7 +5609,7 @@ references:
   issue: '1'
   issued:
     - year: 1977
-  page: 28-54
+  page: 28–54
   publisher: '[Cambridge University Press, Central European History Society]'
   source: JSTOR
   title: 'Jews in German Society: Prague, 1860-1914'
@@ -5512,7 +5630,7 @@ references:
   issued:
     - year: 2005
   note: 'Select: zotero://select/library/items/3D8ET35W'
-  page: 68-71
+  page: 68–71
   source: JSTOR
   title: 'Collective Bargaining Is the Priority: A Response to Mark Dudzic'
   title-short: Collective Bargaining Is the Priority
@@ -5573,7 +5691,7 @@ references:
     - year: 2023
     - year: 2024
   language: eng
-  page: 1717-1788
+  page: 1717–1788
   source: HeinOnline
   title: Christian Domination
   type: article-journal
@@ -5610,6 +5728,20 @@ references:
   title-short: Representing Radicals
   type: book
 
+- id: ComanThomasMfgCo_NC1989
+  authority: N.C.
+  citation-key: ComanThomasMfgCo_NC1989
+  container-title: S.E.2d
+  issued:
+    - year: 1989
+      month: 7
+      day: 26
+  jurisdiction: NC
+  page: '445'
+  title: Coman v. Thomas Mfg. Co., Inc.
+  type: legal_case
+  volume: '381'
+
 - id: Commons1910
   citation-key: Commons1910
   editor:
@@ -5622,6 +5754,28 @@ references:
   number-of-volumes: '10'
   title: A Documentary History of American Industrial Society
   type: book
+
+- id: CommonwealthHunt_Mass1842
+  authority: Mass.
+  citation-key: CommonwealthHunt_Mass1842
+  issued:
+    - year: 1842
+  page: '111'
+  title: Commonwealth v. Hunt
+  type: legal_case
+  volume: '45'
+
+- id: CommonwealthPullis_Phila1806
+  authority: Phila.
+  citation-key: CommonwealthPullis_Phila1806
+  container-title: Doc. His. of Am. Ind. Soc.
+  issued:
+    - year: 1806
+  note: (2d ed. Commons 1910)
+  page: '59'
+  title: Commonwealth v. Pullis
+  type: legal_case
+  volume: '3'
 
 - id: Communism_NCpedia2006
   accessed:
@@ -5720,7 +5874,7 @@ references:
     - year: 2003
     - year: 2004
   language: eng
-  page: 1943-2016
+  page: 1943–2016
   source: HeinOnline
   title: >-
     How Bad Is It out There: Teaching and Learning about the State of the Legal
@@ -5757,13 +5911,20 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/N638UFXW'
-  page: 24-32
+  page: 24–32
   publisher: NYU Press
   source: JSTOR
   title: 'The Good Case: Decisions to Litigate at the World Trade Organization'
   title-short: The Good Case
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.8
+
+- id: ContractsRestraintTrade_nd
+  citation-key: ContractsRestraintTrade_nd
+  container-title: Cal. Bus. & Prof. Code
+  section: 16600 et seq.
+  title: Contracts in Restraint of Trade
+  type: legislation
 
 - id: Cooley2019
   author:
@@ -5801,6 +5962,17 @@ references:
   title: Employers steal billions from workers’ paychecks each year
   type: document
 
+- id: CoppageKansas_US1915
+  authority: U.S.
+  citation-key: CoppageKansas_US1915
+  container-title: U.S.
+  issued:
+    - year: 1915
+  page: '1'
+  title: Coppage v. Kansas
+  type: legal_case
+  volume: '236'
+
 - id: Cornfield1991
   abstract: >-
     The proliferation of research on the US labor movement has created
@@ -5829,7 +6001,7 @@ references:
   issued:
     - year: 1991
   note: 'Select: zotero://select/library/items/4VF49RYV'
-  page: 27-49
+  page: 27–49
   source: JSTOR
   title: >-
     The US Labor Movement: Its Development and Impact on Social Inequality and
@@ -5859,7 +6031,7 @@ references:
   note: |-
     Select: zotero://select/library/items/AWKZISNT
     Saved from BrowZine: https://thirdiron.com/download
-  page: 1022 - 1050
+  page: 1022–1050
   title: >-
     Inside the Black Box of Organizational Life: The Gendered Language of
     Performance Assessment
@@ -5957,7 +6129,7 @@ references:
   issued:
     - year: 2002
   note: 'Select: zotero://select/library/items/498PZ94W'
-  page: 211-258
+  page: 211–258
   source: JSTOR
   title: Whitewashed Labor Law, Skinwalking Unions
   type: article-journal
@@ -6049,7 +6221,7 @@ references:
   issued:
     - year: 2009
   note: 'Select: zotero://select/library/items/D6DCAAEN'
-  page: 1-84
+  page: 1–84
   source: JSTOR
   title: 'Hemmed In: Legal Mobilization in the Los Angeles Anti-Sweatshop Movement'
   title-short: Hemmed In
@@ -6287,7 +6459,7 @@ references:
     - year: 2003
     - year: 2004
   language: eng
-  page: 669-720
+  page: 669–720
   source: HeinOnline
   title: >-
     A Public View of Attorney Discipline in Florida: Statistics, Commentary, and
@@ -6314,7 +6486,7 @@ references:
     - year: 2004
     - year: 2005
   language: eng
-  page: 339-396
+  page: 339–396
   source: HeinOnline
   title: >-
     Licensing and Discipline of Fiscal Professionals ini the State of Florida:
@@ -6450,7 +6622,7 @@ references:
   issued:
     - year: 2005
   note: 'Select: zotero://select/library/items/MIMDBVKU'
-  page: 223-274
+  page: 223–274
   source: JSTOR
   title: NLRA Values, Labor Values, American Values
   type: article-journal
@@ -6485,7 +6657,7 @@ references:
     mlzsync1:0094{"extrafields":{"place":"New York, Netherlands, New
     York","publisher":"Springer Nature B.V."}}New York","publisher":"Springer
     Nature B.V."}}Citation Key: danninFutureUSLabor2009
-  page: 139-144
+  page: 139–144
   source: ProQuest
   title: The Future of US Labor Law and the Long Struggle for Labor Rights
   type: article-journal
@@ -6560,6 +6732,17 @@ references:
   type: legal_case
   volume: '772'
 
+- id: DeemTreadway_NCCtApp2001
+  authority: N.C. Ct. App.
+  citation-key: DeemTreadway_NCCtApp2001
+  container-title: S.E.2d
+  issued:
+    - year: 2001
+  page: '209'
+  title: Deem v. Treadway
+  type: legal_case
+  volume: '543'
+
 - id: Dekel2013
   accessed:
     - year: 2024
@@ -6576,7 +6759,7 @@ references:
   issue: '2'
   issued:
     - year: 2013
-  page: 241-258
+  page: 241–258
   publisher: >-
     [University of Pennsylvania Press, Center for Advanced Judaic Studies,
     University of Pennsylvania]
@@ -6714,6 +6897,18 @@ references:
     https://heinonline.org/HOL/Page?handle=hein.journals/gintenlr35&id=6&div=&collection=
   volume: '35'
 
+- id: DesaiCharterCommunicationsLLC_WDKy2019
+  authority: W.D. Ky.
+  citation-key: DesaiCharterCommunicationsLLC_WDKy2019
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2019
+  jurisdiction: WD Kentucky
+  page: '774'
+  title: Desai v. Charter Communications, LLC
+  type: legal_case
+  volume: '381'
+
 - id: Desmond2017
   abstract: "NEW YORK TIMES\_BESTSELLER • WINNER OF THE PULITZER PRIZE • One of the most acclaimed books of our time, this modern classic “has set a new standard for reporting on poverty” (Barbara Ehrenreich,\_The New York Times Book Review).In\_Evicted, Princeton sociologist and MacArthur “Genius” Matthew Desmond follows eight families in Milwaukee as they each struggle to keep a roof over their heads. Hailed as “wrenching and revelatory” (The Nation), “vivid and unsettling” (New York Review of Books),\_Evicted\_transforms our understanding of poverty and economic exploitation while providing fresh ideas for solving one of twenty-first-century America’s most devastating problems. Its unforgettable scenes of hope and loss remind us of the centrality of home, without which nothing else is possible.\_NAMED ONE OF THE BEST BOOKS OF THE YEAR BY President Barack Obama •\_The New York Times Book Review\_•\_The Boston Globe\_•\_The Washington Post\_•\_NPR\_• Entertainment Weekly\_•\_The New Yorker •\_Bloomberg\_•\_Esquire\_• BuzzFeed • Fortune\_•\_San Francisco Chronicle •\_Milwaukee Journal Sentinel\_•\_St. Louis Post-Dispatch\_•\_Politico\_•\_The Week\_•\_Chicago Public Library\_•\_BookPage\_•\_Kirkus Reviews\_•\_Library Journal\_•\_ Publishers Weekly\_• Booklist •\_Shelf AwarenessWINNER OF:\_The National Book Critics Circle Award for Nonfiction • The PEN/John Kenneth Galbraith Award for Nonfiction • The Andrew Carnegie Medal for Excellence in Nonfiction • The Hillman Prize for Book Journalism • The PEN/New England Award • The\_Chicago Tribune\_Heartland PrizeFINALIST FOR THE\_LOS ANGELES TIMES\_BOOK PRIZE AND THE KIRKUS PRIZE“Evicted\_stands among the very best of the social justice books.”—Ann Patchett, author of\_Bel Canto\_and\_Commonwealth\_“Gripping and moving—tragic, too.”—Jesmyn Ward, author of\_Salvage the Bones “Evicted\_is that rare work that has something genuinely new to say about poverty.”—San Francisco Chronicle"
   author:
@@ -6848,7 +7043,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/M826TJDD'
-  page: 321-329
+  page: 321–329
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -6901,7 +7096,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/8XSXBVGX'
-  page: 193-200
+  page: 193–200
   publisher: NYU Press
   source: JSTOR
   title: Pursuing Rights and Getting Justice on China’s Ethnic Frontier, 1949–1966
@@ -6988,12 +7183,19 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/SMWSS88X'
-  page: 131-138
+  page: 131–138
   publisher: NYU Press
   source: JSTOR
   title: Lawyer Satisfaction in the Process of Structuring Legal Careers
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.21
+
+- id: DiscriminationEngagementCertain_nd
+  citation-key: DiscriminationEngagementCertain_nd
+  container-title: NY Labor Law
+  section: 201-d
+  title: Discrimination Against the Engagement in Certain Activities
+  type: legislation
 
 - id: Dlugacz2011
   author:
@@ -7044,7 +7246,7 @@ references:
     - literal: 2008-06-0001
   language: en
   note: 'Select: zotero://select/library/items/RXF7VAY7'
-  page: 117-140
+  page: 117–140
   source: SAGE Journals
   title: >-
     Reorganizing Higher Education in the United States and Canada: The Erosion
@@ -7184,7 +7386,7 @@ references:
     - year: 2009
   language: en
   note: 'Select: zotero://select/library/items/FF75ZAVI'
-  page: 51-63
+  page: 51–63
   source: ScienceDirect
   title: >-
     Reflections on the sociology of law: A rejection of law as ‘socially
@@ -7226,7 +7428,7 @@ references:
     mlzsync1:0064{"extrafields":{"publisher":"[American Bar Foundation,
     Wiley]"}}publisher":"[American Bar Foundation, Wiley]"}}Citation Key:
     dorfStrangeBedfellowsHow2014
-  page: 449-473
+  page: 449–473
   source: JSTOR
   title: >-
     Strange Bedfellows: How an Anticipatory Countermovement Brought Same-Sex
@@ -7483,7 +7685,7 @@ references:
   issued:
     - year: 2003
   note: 'Select: zotero://select/library/items/Z75RFQFJ'
-  page: 171-180
+  page: 171–180
   source: JSTOR
   title: The Gender of the Trout
   type: article-journal
@@ -7703,6 +7905,17 @@ references:
   URL: >-
     https://www.npr.org/2024/04/11/1231084790/israel-kidnapped-posters-tore-down-doxxed
 
+- id: DraftkingsIncHermalyn_1stCir2024
+  authority: 1st Cir.
+  citation-key: DraftkingsIncHermalyn_1stCir2024
+  issued:
+    - year: 2024
+      month: 9
+      day: 26
+  number: No. 24-1443
+  title: Draftkings, Inc. v. Hermalyn
+  type: legal_case
+
 - id: DreamingDumplingsCamps2014
   abstract: >-
     At age 91, veteran writer and translator Ruth Bondy is publishing a book
@@ -7759,6 +7972,17 @@ references:
   title-short: Triangle
   type: book
 
+- id: DriskellSummittContractingGroup_4thCir2020
+  authority: 4th Cir.
+  citation-key: DriskellSummittContractingGroup_4thCir2020
+  container-title: Fed. App'x
+  issued:
+    - year: 2020
+  page: '858'
+  title: Driskell v. Summitt Contracting Group, Inc.
+  type: legal_case
+  volume: '828'
+
 - id: DSouza2018
   archive: JSTOR
   author:
@@ -7785,7 +8009,7 @@ references:
   issued:
     - year: 1991
   note: 'Select: zotero://select/library/items/3SQUW6J9'
-  page: 269-277
+  page: 269–277
   source: JSTOR
   title: >-
     The Origins of the Labor Movement in the United States: Themes From the
@@ -7864,7 +8088,7 @@ references:
   issued:
     - year: 2005
   note: 'Select: zotero://select/library/items/9K22HJXX'
-  page: 58-67
+  page: 58–67
   source: JSTOR
   title: >-
     Saving the Right to Organize: Substituting the Thirteenth Amendment for the
@@ -7956,7 +8180,7 @@ references:
   issued:
     - year: 2020
   language: en
-  page: 612-638
+  page: 612–638
   source: Wiley Online Library
   title: >-
     Labour Constitutions and Occupational Communities: Social Norms and Legal
@@ -8002,7 +8226,7 @@ references:
   license: >-
     © 2023 The Authors. Journal of Law and Society published by John Wiley &
     Sons Ltd on behalf of Cardiff University (CU).
-  page: 165-184
+  page: 165–184
   source: Wiley Online Library
   title: Labour law after neoliberalism?
   type: article-journal
@@ -8021,7 +8245,7 @@ references:
     - year: 1999
   language: eng
   note: 'Select: zotero://select/library/items/53TGUSJL'
-  page: 513-586
+  page: 513–586
   source: HeinOnline
   title: >-
     The Indentured Servants of Academia: The Adjunct Faculty Dilemma and Their
@@ -8030,6 +8254,17 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/indana74&i=523
   volume: '74'
+
+- id: DuplexPrintingPressCo_US1921
+  authority: U.S.
+  citation-key: DuplexPrintingPressCo_US1921
+  container-title: U.S.
+  issued:
+    - year: 1921
+  page: '443'
+  title: Duplex Printing Press Co. v. Deering
+  type: legal_case
+  volume: '254'
 
 - id: Durrenberger2007
   abstract: >-
@@ -8059,7 +8294,7 @@ references:
     mlzsync1:0046{"extrafields":{"publisher":"Annual
     Reviews"}}6{"extrafields":{"publisher":"Annual Reviews"}}Citation Key:
     durrenbergerAnthropologyOrganizedLabor2007
-  page: 73-88
+  page: 73–88
   source: JSTOR
   title: The Anthropology of Organized Labor in the United States
   type: article-journal
@@ -8117,7 +8352,7 @@ references:
 - id: EastexIncNLRB_US1978
   authority: U.S.
   citation-key: EastexIncNLRB_US1978
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1978
   page: '556'
@@ -8157,7 +8392,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/6R286FU6'
-  page: 103-110
+  page: 103–110
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -8204,6 +8439,18 @@ references:
     Enforcement of the Mutual Aid or Protection and Inherently Concerted
     Doctrines
   type: report
+
+- id: EhlingMonmouthOceanHospService_DNJ2013
+  authority: D.N.J.
+  citation-key: EhlingMonmouthOceanHospService_DNJ2013
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2013
+  jurisdiction: D. New Jersey
+  page: '659'
+  title: Ehling v. Monmouth-Ocean Hosp. Service Corp.
+  type: legal_case
+  volume: '961'
 
 - id: Ehrenreich2011
   abstract: >-
@@ -8285,7 +8532,7 @@ references:
     mlzsync1:0051{"extrafields":{"publisher":"Virginia Law
     Review"}}trafields":{"publisher":"Virginia Law Review"}}Citation Key:
     ellmannClientCenterednessMultipliedIndividual1992
-  page: 1103-1173
+  page: 1103–1173
   source: JSTOR
   title: >-
     Client-Centeredness Multiplied: Individual Autonomy and Collective
@@ -8308,6 +8555,13 @@ references:
   publisher: American Law Institute
   title: Employee Duty of Loyalty to the Employer
   type: chapter
+
+- id: EmployerUseSocial_nd
+  citation-key: EmployerUseSocial_nd
+  container-title: Cal. Labor Code
+  section: '980'
+  title: Employer Use of Social Media
+  type: legislation
 
 - id: EmploymentDivDeptHuman_SupremeCourt1990
   authority: Supreme Court
@@ -8348,13 +8602,24 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/UMBSDTKW'
-  page: 293-300
+  page: 293–300
   publisher: NYU Press
   source: JSTOR
   title: 'Landscapes of the Law: Injury, Remedy, and Social Change in Thailand'
   title-short: Landscapes of the Law
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.40
+
+- id: EnterpriseWireCo1966
+  authority: Carroll R. Daugherty, Arbitrator
+  citation-key: EnterpriseWireCo1966
+  container-title: L.A.
+  issued:
+    - year: 1966
+  page: '359'
+  title: Enterprise Wire Co.
+  type: legal_case
+  volume: '46'
 
 - id: Epstein1983
   author:
@@ -8502,7 +8767,7 @@ references:
   issued:
     - year: 2005
   note: 'Select: zotero://select/library/items/KIMGJ9H4'
-  page: 319-404
+  page: 319–404
   source: JSTOR
   title: Rebuilding the Law of the Workplace in an Era of Self-Regulation
   type: article-journal
@@ -8598,7 +8863,7 @@ references:
     mlzsync1:0096{"extrafields":{"publisher":"[Northwestern University,
     Northwestern University School of Law]"}}sity, Northwestern University
     School of Law]"}}Citation Key: etienneEthicsCauseLawyering2005
-  page: 1195-1260
+  page: 1195–1260
   source: JSTOR
   title: >-
     The Ethics of Cause Lawyering: An Empirical Examination of Criminal Defense
@@ -8700,6 +8965,24 @@ references:
   type: legal_case
   volume: '545'
 
+- id: FairLaborStandards1938
+  citation-key: FairLaborStandards1938
+  container-title: U.S.C.
+  issued:
+    - year: 1938
+  section: 201 et seq.
+  title: Fair Labor Standards Act
+  type: legislation
+  volume: '29'
+
+- id: FamilyMedicalLeave_nd
+  citation-key: FamilyMedicalLeave_nd
+  container-title: U.S.C.
+  section: 2601 et seq.
+  title: Family and Medical Leave Act
+  type: legislation
+  volume: '29'
+
 - id: Fantasia1995
   abstract: >-
     Theorists recently have made strides in answering key questions about social
@@ -8734,7 +9017,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/8DUK629A'
-  page: 144-160
+  page: 144–160
   publisher: University of Minnesota Press
   source: JSTOR
   title: >-
@@ -8875,7 +9158,7 @@ references:
     - year: 1991
   language: eng
   note: 'Select: zotero://select/library/items/YGGFDYN8'
-  page: 733-740
+  page: 733–740
   source: HeinOnline
   title: The Development of the Employment-at-Will Rule Revisited
   type: article-journal
@@ -8971,7 +9254,7 @@ references:
   issued:
     - year: 2011
   note: 'Select: zotero://select/library/items/5D8ZUPND'
-  page: 143-203
+  page: 143–203
   source: JSTOR
   title: 'Working the Crowd: Employment and Labor Law in the Crowdsourcing Industry'
   title-short: Working the Crowd
@@ -9012,7 +9295,7 @@ references:
   language: en
   license: Copyright (c)
   note: 'Select: zotero://select/library/items/UAL35P9A'
-  page: 22-30
+  page: 22–30
   source: www.jld.edu.au
   title: Creating practice ready, well and professional law graduates
   type: article-journal
@@ -9127,7 +9410,7 @@ references:
   issue: '60'
   issued:
     - year: 2001
-  page: 48-56
+  page: 48–56
   publisher: Cambridge University Press
   source: JSTOR
   title: Whiteness, Racism, and Identity
@@ -9153,7 +9436,7 @@ references:
     - year: 2017
   language: en
   note: 'Select: zotero://select/library/items/SYNLZ5PK'
-  page: 27-41
+  page: 27–41
   publisher: Springer International Publishing
   publisher-place: Cham
   source: Springer Link
@@ -9191,7 +9474,7 @@ references:
     - year: 2017
   language: en
   note: 'Select: zotero://select/library/items/DFGBFKAS'
-  page: 43-57
+  page: 43–57
   publisher: Springer International Publishing
   publisher-place: Cham
   source: Springer Link
@@ -9229,7 +9512,7 @@ references:
     - year: 2017
   language: en
   note: 'Select: zotero://select/library/items/F3GUDKIX'
-  page: 59-68
+  page: 59–68
   publisher: Springer International Publishing
   publisher-place: Cham
   source: Springer Link
@@ -9268,7 +9551,7 @@ references:
     - year: 2017
   language: en
   note: 'Select: zotero://select/library/items/DU6IHFBY'
-  page: 69-79
+  page: 69–79
   publisher: Springer International Publishing
   publisher-place: Cham
   source: Springer Link
@@ -9307,7 +9590,7 @@ references:
     - year: 2017
   language: en
   note: 'Select: zotero://select/library/items/T7R4U7F8'
-  page: 99-112
+  page: 99–112
   publisher: Springer International Publishing
   publisher-place: Cham
   source: Springer Link
@@ -9362,7 +9645,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/YR9M2ZDX'
-  page: 127-143
+  page: 127–143
   publisher: University of Minnesota Press
   source: JSTOR
   title: >-
@@ -9399,7 +9682,7 @@ references:
   ISBN: 978-0-8032-4864-9
   issued:
     - year: 2014
-  page: 137-159
+  page: 137–159
   publisher: University of Nebraska Press
   source: JSTOR
   title: 'Rereading Marx on the “Jewish Question”: Marx as a Critic of Antisemitism?'
@@ -9422,7 +9705,7 @@ references:
   ISBN: 978-0-7656-0803-1
   issued:
     - year: 2001
-  page: 98-103
+  page: 98–103
   publisher: Routledge
   publisher-place: New York
   title: Union and Employee Access to Employer E-mail Systems Under Federal Labor Law
@@ -9501,7 +9784,7 @@ references:
   issued:
     - year: 2011
   license: All rights reserved
-  page: 89-111
+  page: 89–111
   title: >-
     The Virtual Construction of Legality: 'Griefing' and Normative Order in
     Second Life
@@ -9556,7 +9839,7 @@ references:
   issued:
     - year: 2019
   language: en
-  page: 953-973
+  page: 953–973
   title: Union Organizing & Collective Bargaining for Incarcerated Workers
   type: article-journal
   volume: '52'
@@ -9624,7 +9907,7 @@ references:
   issued:
     - year: 2004
   note: 'Select: zotero://select/library/items/3CJJ4WPT'
-  page: 1999-2006
+  page: 1999–2006
   source: JSTOR
   title: Is the Right to Organize Unconstitutional?
   type: article-journal
@@ -9653,7 +9936,7 @@ references:
   issued:
     - literal: 2002-01-0001
   note: 'Select: zotero://select/library/items/LWWZS8TG'
-  page: 57-106
+  page: 57–106
   title: Union Lawyers and Employment Law
   type: article-journal
   URL: https://scholarship.law.duke.edu/faculty_scholarship/1476
@@ -9672,7 +9955,7 @@ references:
     - year: 2012
   language: eng
   note: 'Select: zotero://select/library/items/VJ2WEDT6'
-  page: 413-464
+  page: 413–464
   source: HeinOnline
   title: >-
     Contingent Loyalty and Restricted Exit: Commentary on the Restatement of
@@ -9696,7 +9979,7 @@ references:
     - year: 2020
   language: eng
   note: 'Select: zotero://select/library/items/YWIH3SJZ'
-  page: 63-152
+  page: 63–152
   source: HeinOnline
   title: >-
     Protection by Law, Repression by Law: Bringing Labor Back into the Study of
@@ -9791,7 +10074,7 @@ references:
   issued:
     - year: 1997
   note: 'Select: zotero://select/library/items/N4CRA27H'
-  page: 103-107
+  page: 103–107
   source: JSTOR
   title: Why Johnny Can't Organize
   type: article-journal
@@ -10362,7 +10645,7 @@ references:
   issued:
     - year: 2009
   language: eng
-  page: 1473-1484
+  page: 1473–1484
   source: HeinOnline
   title: >-
     Taking Empirical Research Seriously Symposium: Empirical Research on the
@@ -10411,7 +10694,7 @@ references:
   issued:
     - year: 1980
   note: 'Select: zotero://select/library/items/AXJ8DBTW'
-  page: 43-63
+  page: 43–63
   source: JSTOR
   title: 'Black Lung: Minders'' Militancy & Medical Uncertainty, 1968-1972'
   title-short: BLACK LUNG
@@ -10487,6 +10770,18 @@ references:
   title-short: Bananeras
   type: book
 
+- id: FranklinVertexGlobalSolutions_SDNY2022
+  authority: S.D.N.Y.
+  citation-key: FranklinVertexGlobalSolutions_SDNY2022
+  issued:
+    - year: 2022
+      month: 2
+      day: 9
+  jurisdiction: SD New York
+  number: 20 Civ. 10495 (KPF)
+  title: Franklin v. Vertex Global Solutions, Inc.
+  type: legal_case
+
 - id: Freed1990
   author:
     - family: Freed
@@ -10500,7 +10795,7 @@ references:
     - year: 1990
   language: eng
   note: 'Select: zotero://select/library/items/NX4NYDJJ'
-  page: 551-558
+  page: 551–558
   source: HeinOnline
   title: The Doubtful Provenance of Wood's Rule Revisited
   type: article-journal
@@ -10518,7 +10813,7 @@ references:
   issued:
     - year: 2005
   note: 'Select: zotero://select/library/items/CDTJVJG3'
-  page: 72-74
+  page: 72–74
   source: JSTOR
   title: >-
     The Thirteenth Amendment Is No Magic Bullet: Joshua B. Freeman Replies to
@@ -10686,7 +10981,7 @@ references:
   issued:
     - year: 1988
   note: 'Select: zotero://select/library/items/MPJEEGNN'
-  page: 403-430
+  page: 403–430
   source: JSTOR
   title: >-
     The State and the Making of the Working Class: France and the United States,
@@ -10708,7 +11003,7 @@ references:
     - year: 1991
   language: en
   note: 'Select: zotero://select/library/items/GFIZSXS8'
-  page: 5-17
+  page: 5–17
   source: Crossref
   title: >-
     Worker Militancy and Its Consequences: Political Responses to Labor Unrest
@@ -10812,6 +11107,32 @@ references:
   title: Legal Culture and The Legal Profession
   type: book
 
+- id: Friedman2023
+  author:
+    - family: Friedman
+      given: Lawrence
+  citation-key: Friedman2023
+  container-title: Hofstra Labor & Employment Law Journal
+  issue: '2'
+  issued:
+    - year: 2023
+  title: 'Work Accidents: A Drama in Three Acts'
+  title-short: Work Accidents
+  type: article-journal
+  volume: '40'
+
+- id: FrielAngellCareInc_NCApp1994
+  authority: N.C. Ct. App.
+  citation-key: FrielAngellCareInc_NCApp1994
+  container-title: S.E.2d
+  issued:
+    - year: 1994
+  jurisdiction: NC
+  page: '111'
+  title: Friel v. Angell Care Inc.
+  type: legal_case
+  volume: '440'
+
 - id: FrigmUnempCompBd_CommonwealthCourt1994
   authority: Commonwealth Court
   citation-key: FrigmUnempCompBd_CommonwealthCourt1994
@@ -10823,6 +11144,17 @@ references:
   title: Frigm v. Unemp. Comp. Bd. of Review
   type: legal_case
   volume: '642'
+
+- id: FrilandoNewYorkCity_SDNY2021
+  authority: S.D.N.Y.
+  citation-key: FrilandoNewYorkCity_SDNY2021
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2021
+  page: '356'
+  title: Frilando v. New York City Transit Authority
+  type: legal_case
+  volume: '513'
 
 - id: Frohman2014
   abstract: >-
@@ -10851,7 +11183,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/75845UG6'
-  page: 35-41
+  page: 35–41
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -10910,7 +11242,7 @@ references:
     mlzsync1:0100{"extrafields":{"publisher":"[American Political Science
     Association, Cambridge University Press]"}}nce Association, Cambridge
     University Press]"}}Citation Key: frymerActingWhenElected2003
-  page: 483-499
+  page: 483–499
   source: JSTOR
   title: >-
     Acting When Elected Officials Won't: Federal Courts and Civil Rights
@@ -11025,7 +11357,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/AI28XGQY'
-  page: 253-260
+  page: 253–260
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -11049,7 +11381,7 @@ references:
   issue: '1'
   issued:
     - year: 2025
-  page: 163-176
+  page: 163–176
   publisher: University of Minnesota Press
   source: Project MUSE
   title: Fascism Out of Time and Out of Synch
@@ -11088,7 +11420,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/LN532J3Q'
-  page: 85-106
+  page: 85–106
   publisher: University of Minnesota Press
   source: JSTOR
   title: Constructing Social Protest
@@ -11126,7 +11458,7 @@ references:
     mlzsync1:0058{"extrafields":{"publisher":"Cambridge University
     Press"}}ds":{"publisher":"Cambridge University Press"}}Citation Key:
     garcia-villegasComparativeSociologyLaw2006
-  page: 343-382
+  page: 343–382
   source: Cambridge University Press
   title: >-
     Comparative Sociology of Law: Legal Fields, Legal Scholarships, and Social
@@ -11174,6 +11506,17 @@ references:
   title-short: Marginal Workers
   type: book
 
+- id: GarciaFrogIslandSeafood_EDNC2009
+  authority: E.D.N.C.
+  citation-key: GarciaFrogIslandSeafood_EDNC2009
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2009
+  page: '696'
+  title: Garcia v. Frog Island Seafood, Inc.
+  type: legal_case
+  volume: '644'
+
 - id: Garden2018
   author:
     - family: Garden
@@ -11191,6 +11534,17 @@ references:
   title-short: Labor Organizing in the Age of Surveillance Symposium
   type: article-journal
   volume: '63'
+
+- id: GarnerRentenbach_NC1999
+  authority: N.C.
+  citation-key: GarnerRentenbach_NC1999
+  container-title: S.E.2d
+  issued:
+    - year: 1999
+  page: '438'
+  title: Garner v. Rentenbach
+  type: legal_case
+  volume: '515'
 
 - id: Garth2014
   abstract: >-
@@ -11220,7 +11574,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/8AFMG4ZA'
-  page: 399-402
+  page: 399–402
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -11365,7 +11719,7 @@ references:
     - year: 2007
     - year: 2008
   language: eng
-  page: 717-740
+  page: 717–740
   source: HeinOnline
   title: Bartleby, Labor and Law
   type: article-journal
@@ -11486,7 +11840,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/IGS5UINX'
-  page: 301-310
+  page: 301–310
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -11635,6 +11989,17 @@ references:
   type: legal_case
   volume: '598'
 
+- id: GlaxiolaWilliamsSeafoodArapahoe_EDNC2011
+  authority: E.D.N.C.
+  citation-key: GlaxiolaWilliamsSeafoodArapahoe_EDNC2011
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2011
+  page: '117'
+  title: Glaxiola v. Williams Seafood of Arapahoe, Inc.
+  type: legal_case
+  volume: '776'
+
 - id: Glendon1978
   author:
     - family: Glendon
@@ -11711,7 +12076,7 @@ references:
   issued:
     - year: 2009
   note: 'Select: zotero://select/library/items/R8V6898R'
-  page: 82-108
+  page: 82–108
   source: JSTOR
   title: The Exceptional Decline of the American Labor Movement
   type: article-journal
@@ -11733,7 +12098,7 @@ references:
     mlzsync1:0061{"extrafields":{"publisher":"Duke University School of
     Law"}}:{"publisher":"Duke University School of Law"}}Citation Key:
     goldbergCleaningLaborHouse1989
-  page: 903-1011
+  page: 903–1011
   source: JSTOR
   title: >-
     Cleaning Labor's House: Institutional Reform Litigation in the Labor
@@ -11758,7 +12123,7 @@ references:
   issued:
     - year: 2024
   language: eng
-  page: 177-232
+  page: 177–232
   source: HeinOnline
   title: >-
     At the Intersection of Federal Labor Law and Rank-and-File Activism: A Legal
@@ -11798,7 +12163,7 @@ references:
     - year: 2010
   language: en
   note: 'Select: zotero://select/library/items/RNATK5WQ'
-  page: 331-353
+  page: 331–353
   source: Wiley Online Library
   title: >-
     Union Professors: Framing Processes, Mobilizing Structures, and
@@ -11842,7 +12207,7 @@ references:
   issued:
     - year: 1997
   note: 'Select: zotero://select/library/items/WJF43SV7'
-  page: 81-110
+  page: 81–110
   source: JSTOR
   title: >-
     The Contest over "Employer" Status in the Postwar United States: The Case of
@@ -11903,7 +12268,7 @@ references:
   issued:
     - year: 2008
   note: 'Select: zotero://select/library/items/EJZXBK48'
-  page: 73-126
+  page: 73–126
   publisher: Cambridge University Press
   publisher-place: Cambridge
   source: Cambridge University Press
@@ -11946,7 +12311,7 @@ references:
   note: |-
     Select: zotero://select/library/items/C6T25ZDB
     Saved from BrowZine: https://thirdiron.com/download
-  page: 875 - 897
+  page: 875–897
   title: >-
     A Tale of Two Forums: Employment Discrimination Outcomes in Arbitration and
     Litigation
@@ -11974,6 +12339,21 @@ references:
   source: Amazon
   title: 'Labored Relations: Law, Politics, and the NLRB--A Memoir'
   title-short: Labored Relations
+  type: book
+
+- id: GouldIV2004
+  author:
+    - family: Gould IV
+      given: William B.
+  citation-key: GouldIV2004
+  edition: 4th
+  ISBN: 978-1-108-59750-0
+  issued:
+    - year: 2004
+  language: en
+  number-of-pages: '432'
+  publisher: MIT Press
+  title: A Primer on American Labor Law
   type: book
 
 - id: Gowder
@@ -12108,7 +12488,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/DENBVXJI'
-  page: 42-52
+  page: 42–52
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -12257,7 +12637,7 @@ references:
     - literal: 2014-01-0001
   language: en
   note: 'Select: zotero://select/library/items/T8FWKBXC'
-  page: 11-13
+  page: 11–13
   source: SAGE Journals
   title: 'Impossible Unity: Adjuncts and Tenure-Track Faculty'
   title-short: Impossible Unity
@@ -12335,7 +12715,7 @@ references:
   note: >-
     mlzsync1:0071{"extrafields":{"publisher":"Portal Czasopism Naukowych
     Ejournals.eu"}}Citation Key: Greenblatt2016
-  page: 11-40
+  page: 11–40
   source: www.ejournals.eu
   title: >-
     Building the Past: Historical Writing on the Jews of the Bohemian Crown
@@ -12367,6 +12747,17 @@ references:
   type: article-magazine
   URL: >-
     https://www.thenation.com/article/politics/red-black-white-alabama-communist-party-mary-stanton/
+
+- id: GreeneTylerTechnologiesInc_NDGa2021
+  authority: N.D. Ga.
+  citation-key: GreeneTylerTechnologiesInc_NDGa2021
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2021
+  page: '1325'
+  title: Greene v. Tyler Technologies, Inc.
+  type: legal_case
+  volume: '526'
 
 - id: Greenfeld1992
   abstract: >-
@@ -12513,7 +12904,7 @@ references:
   issued:
     - year: 2015
   note: 'Select: zotero://select/library/items/5Y897S6V'
-  page: 331-349
+  page: 331–349
   source: JSTOR
   title: 'Worker Centers and Labor Law Protections: Why Aren''t They Having Their Cake?'
   title-short: Worker Centers and Labor Law Protections
@@ -12538,7 +12929,7 @@ references:
   issued:
     - year: 2020
   language: en
-  page: 132-162
+  page: 132–162
   publisher: University of Canterbury
   source: DOI.org (Datacite)
   title: 'The legacy of Weimar?: Trump as Schmittean sovereign & Taubesean katechon'
@@ -12573,7 +12964,7 @@ references:
   issued:
     - year: 2012
   note: 'Select: zotero://select/library/items/FXAKQ2DN'
-  page: 3-16
+  page: 3–16
   source: JSTOR
   title: 'The Human Rights Movement at U.S. Workplaces: Challenges and Changes'
   title-short: THE HUMAN RIGHTS MOVEMENT AT U.S. WORKPLACES
@@ -12611,7 +13002,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/ZMSY8G7G'
-  page: 13-15
+  page: 13–15
   publisher: NYU Press
   source: JSTOR
   title: Do the “Haves” Still Come Out Ahead?
@@ -12740,7 +13131,7 @@ references:
   note: |-
     Select: zotero://select/library/items/EAADJGL5
     00518
-  page: 1104-1124
+  page: 1104–1124
   title: 'A Causal Model of Civil Strife: A Comparative Analysis Using New Indices'
   type: article-journal
   volume: '62'
@@ -12770,7 +13161,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/MJXY5JQB'
-  page: 203-210
+  page: 203–210
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -12807,7 +13198,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/W85K48QI'
-  page: 166-172
+  page: 166–172
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -12848,7 +13239,7 @@ references:
   issued:
     - year: 2006
   note: 'Select: zotero://select/library/items/WBMT8EP6'
-  page: 521-542
+  page: 521–542
   publisher: '[Midwest Sociological Society, Wiley]'
   source: JSTOR
   title: >-
@@ -12879,7 +13270,7 @@ references:
       day: 1
   language: en
   note: mlzsync1:0053{"extrafields":{"publisher":"SAGE Publications Ltd"}}
-  page: 859-878
+  page: 859–878
   source: SAGE Journals
   title: 'After Hegemony: The Varieties of Legal Consciousness Research'
   title-short: After Hegemony
@@ -13007,7 +13398,7 @@ references:
   note: >-
     mlzsync1:0056{"extrafields":{"publisher":"American Bar
     Association"}}Citation Key: Hansen2003
-  page: 30-34
+  page: 30–34
   source: JSTOR
   title: >-
     Picking on the Little Guy: Perception Lingers That Discipline Falls Hardest
@@ -13016,6 +13407,17 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/27842439
   volume: '89'
+
+- id: HansenAmericaOnline_Utah2004
+  authority: Utah
+  citation-key: HansenAmericaOnline_Utah2004
+  container-title: P.3d
+  issued:
+    - year: 2004
+  page: '950'
+  title: Hansen v. America Online
+  type: legal_case
+  volume: '96'
 
 - id: Harrington1997
   abstract: >-
@@ -13105,6 +13507,17 @@ references:
   title-short: A Companion To Marx's Capital
   type: book
 
+- id: HaskinsRoyster_NC1874
+  authority: N.C.
+  citation-key: HaskinsRoyster_NC1874
+  container-title: N.C.
+  issued:
+    - year: 1874
+  page: '600'
+  title: Haskins v. Royster
+  type: legal_case
+  volume: '70'
+
 - id: Hastie2002
   abstract: >-
     An important statistical study of the dynamics of jury selection and
@@ -13184,7 +13597,7 @@ references:
     - year: 2021
       month: 7
   language: en
-  page: 40-48
+  page: 40–48
   source: Zotero
   title: The Duty of Competence in the New Normal
   type: article-journal
@@ -13201,7 +13614,7 @@ references:
   issued:
     - year: 2012
   note: 'Select: zotero://select/library/items/ZKRHXLZY'
-  page: 129-143
+  page: 129–143
   source: JSTOR
   title: >-
     The Unconstitutionality of Section 8(b)(4)(ii)(B) and the Supreme Court's
@@ -13223,7 +13636,7 @@ references:
     - year: 1979
   language: eng
   note: 'Select: zotero://select/library/items/9EAGTFFZ'
-  page: 361-378
+  page: 361–378
   source: HeinOnline
   title: Bargaining Unit Status of Part-Time Faculty Labor
   type: article-journal
@@ -13257,7 +13670,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/U5QC2Z6P'
-  page: 265-275
+  page: 265–275
   publisher: NYU Press
   source: JSTOR
   title: 'Competing Institutions: Law, Medicine, and Family in Neonatal Intensive Care'
@@ -13351,7 +13764,7 @@ references:
     mlzsync1:0068{"extrafields":{"publisher":"[Wiley, Law and Society
     Association]"}}isher":"[Wiley, Law and Society Association]"}}Citation Key:
     heinzLawyersConservativeCauses2003
-  page: 5-50
+  page: 5–50
   source: JSTOR
   title: 'Lawyers for Conservative Causes: Clients, Ideology, and Social Distance'
   title-short: Lawyers for Conservative Causes
@@ -13433,7 +13846,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/IZ68NITY'
-  page: 141-146
+  page: 141–146
   publisher: NYU Press
   source: JSTOR
   title: 'The Changing Character of Lawyers’ Work: Chicago in 1975 and 1995'
@@ -13605,7 +14018,7 @@ references:
       given: Tobias
   issued:
     - year: 2018
-  page: 21-45
+  page: 21–45
   publisher: De Gruyter
   source: JSTOR
   title: >-
@@ -13854,6 +14267,18 @@ references:
   title-short: Nations and Nationalism Since 1780
   type: book
 
+- id: HoganForsythCountryClub_NCApp1986
+  authority: N.C. Ct. App.
+  citation-key: HoganForsythCountryClub_NCApp1986
+  container-title: S.E.2d
+  issued:
+    - year: 1986
+  jurisdiction: NC
+  page: '116'
+  title: Hogan v. Forsyth Country Club Co.
+  type: legal_case
+  volume: '340'
+
 - id: Holden2008
   accessed:
     - year: 2025
@@ -13867,7 +14292,7 @@ references:
   issue: '1'
   issued:
     - year: 2008
-  page: 29-56
+  page: 29–56
   title: >-
     'Patriotism Does Not Mean Stupidity': Student Antiwar Activism at UNC in the
     1930s
@@ -13982,7 +14407,7 @@ references:
   note: >-
     mlzsync1:0071{"extrafields":{"publisher":"Colegio Oficial de Psicologos de
     Madrid"}}Institution: Colegio Oficial de Psicologos de Madrid (copmadrid)
-  page: 9-34
+  page: 9–34
   section: research-article
   source: journals.copmadrid.org
   title: >-
@@ -14025,7 +14450,7 @@ references:
     - literal: 2018-12-0001
   language: en
   note: 'Select: zotero://select/library/items/LTLMSEQT'
-  page: 13-36
+  page: 13–36
   source: read.dukeupress.edu
   title: SidelinedThe Chicago Women’s Trade Union League in the Interwar Years
   type: article-journal
@@ -14128,7 +14553,7 @@ references:
     - year: 2017
   language: eng
   note: 'Select: zotero://select/library/items/DRFUALNV'
-  page: 623-644
+  page: 623–644
   source: HeinOnline
   title: >-
     A Brief User's Guide to Restatement of Employment Law Chapter I, Employee
@@ -14171,6 +14596,15 @@ references:
   type: article-journal
   URL: https://scholarlycommons.law.hofstra.edu/hofstra_law_student_works/15
 
+- id: ImmunityCivilLiability2021
+  citation-key: ImmunityCivilLiability2021
+  container-title: N.C.G.S.
+  issued:
+    - year: 2021
+  section: § 1-539.12
+  title: Immunity from Civil Liability for Employers Disclosing Information
+  type: legislation
+
 - id: Ingalls1997
   archive: JSTOR
   author:
@@ -14183,7 +14617,7 @@ references:
   issued:
     - year: 1997
   note: 'Select: zotero://select/library/items/MFTQS6IK'
-  page: 370-394
+  page: 370–394
   source: JSTOR
   title: >-
     The Wagner Act on Trial: Vigilante Violence and the Struggle to Organize
@@ -14293,7 +14727,7 @@ references:
   issued:
     - year: 2002
   note: 'Select: zotero://select/library/items/X8RXWI58'
-  page: 722-746
+  page: 722–746
   source: JSTOR
   title: How the Civil Rights Movement Revitalized Labor Militancy
   type: article-journal
@@ -14329,7 +14763,7 @@ references:
   issued:
     - year: 2006
   note: 'Select: zotero://select/library/items/3ZMNR79X'
-  page: 46-96
+  page: 46–96
   source: JSTOR
   title: >-
     Takin’ It from the Streets: How the Sixties Mass Movement Revitalized
@@ -14338,6 +14772,17 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/10.1086/502692
   volume: '112'
+
+- id: JacksonNCDepartmentCommerce_NCCtApp2015
+  authority: N.C. Ct. App.
+  citation-key: JacksonNCDepartmentCommerce_NCCtApp2015
+  container-title: S.E.2d
+  issued:
+    - year: 2015
+  page: '687'
+  title: Jackson v. N.C. Department of Commerce
+  type: legal_case
+  volume: '775'
 
 - id: Jacobs1970
   abstract: >-
@@ -14484,7 +14929,7 @@ references:
   issue: '19'
   issued:
     - year: 1980
-  page: 137-149
+  page: 137–149
   source: JSTOR
   title: >-
     The Jews and the Frankfurt School: Critical Theory's Analysis of
@@ -14547,7 +14992,7 @@ references:
     mlzsync1:0046{"extrafields":{"publisher":"Annual
     Reviews"}}6{"extrafields":{"publisher":"Annual Reviews"}}Citation Key:
     jenkinsResourceMobilizationTheory1983
-  page: 527-553
+  page: 527–553
   source: JSTOR
   title: Resource Mobilization Theory and the Study of Social Movements
   type: article-journal
@@ -14586,7 +15031,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/YEXA9XN4'
-  page: 107-126
+  page: 107–126
   publisher: University of Minnesota Press
   source: JSTOR
   title: 'What’s in a Name?: Nationalist Movements and Public Discours'
@@ -14632,7 +15077,7 @@ references:
   issued:
     - year: 2009
   note: 'Select: zotero://select/library/items/6SF7Y7UC'
-  page: 27-38
+  page: 27–38
   source: JSTOR
   title: >-
     Fisheries Co-Management and Legal Pluralism: How an Analytical Problem
@@ -14641,6 +15086,17 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/44148534
   volume: '68'
+
+- id: JespersenHarrahsOperatingCo_9thCir2006
+  authority: 9th Cir.
+  citation-key: JespersenHarrahsOperatingCo_9thCir2006
+  container-title: F. 3d
+  issued:
+    - year: 2006
+  page: '1104'
+  title: Jespersen v. Harrah's Operating Co., Inc.
+  type: legal_case
+  volume: '444'
 
 - id: Jessop1982
   author:
@@ -14802,7 +15258,7 @@ references:
     - year: 2008
   language: eng
   note: 'Select: zotero://select/library/items/7VR8IX3Q'
-  page: 1155-1224
+  page: 1155–1224
   source: HeinOnline
   title: >-
     Bourdieu and American Legal Education: How Law Schools Reproduce Social
@@ -14831,7 +15287,7 @@ references:
     - year: 2013
   language: eng
   note: 'Select: zotero://select/library/items/WRKVZ29M'
-  page: 239-318
+  page: 239–318
   source: HeinOnline
   title: >-
     Merit and Mobility: A Progressive View of Class, Culture, and the Law Lead
@@ -14921,7 +15377,7 @@ references:
     mlzsync1:0055{"extrafields":{"publisher":"Oxford University
     Press"}}ields":{"publisher":"Oxford University Press"}}Citation Key:
     johnsonSocialMovementSize2008
-  page: 967-993
+  page: 967–993
   source: JSTOR
   title: Social Movement Size, Organizational Diversity and the Making of Federal Law
   type: article-journal
@@ -14968,6 +15424,28 @@ references:
   type: legal_case
   volume: '85'
 
+- id: JohnsonNatlCollegiateAthletic_3rdCir2024
+  authority: 3rd Cir.
+  citation-key: JohnsonNatlCollegiateAthletic_3rdCir2024
+  container-title: F. 4th
+  issued:
+    - year: 2024
+  page: '163'
+  title: Johnson v. Nat'l Collegiate Athletic Ass'n
+  type: legal_case
+  volume: '108'
+
+- id: JohnsonNatlCollegiateAthletic_EDPa2021
+  authority: E.D. Pa.
+  citation-key: JohnsonNatlCollegiateAthletic_EDPa2021
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2021
+  page: '490'
+  title: Johnson v. Nat'l Collegiate Athletic Ass'n
+  type: legal_case
+  volume: '561'
+
 - id: JohnsonSpencer_10thCircuit2020
   authority: 10th Circuit
   citation-key: JohnsonSpencer_10thCircuit2020
@@ -15013,7 +15491,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/5893YUTB'
-  page: 217-246
+  page: 217–246
   publisher: University of Minnesota Press
   source: JSTOR
   title: 'A Methodology for Frame Analysis:: From Discourse to Cognitive Schemata'
@@ -15055,7 +15533,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/TUKYLAY5'
-  page: 3-24
+  page: 3–24
   publisher: University of Minnesota Press
   source: JSTOR
   title: The Cultural Analysis of Social Movements
@@ -15117,7 +15595,7 @@ references:
     mlzsync1:0056{"extrafields":{"publisher":"American Bar
     Association"}}elds":{"publisher":"American Bar Association"}}Citation Key:
     joyHistorySectionLabor1996
-  page: 1-16
+  page: 1–16
   source: JSTOR
   title: 'History of the Section of Labor and Employment Law: 1946-1996'
   title-short: History of the Section of Labor and Employment Law
@@ -15278,6 +15756,17 @@ references:
   type: chapter
   URL: https://intr2dok.vifa-recht.de/receive/mir_mods_00015103
 
+- id: KadlecMedicalLakeviewAnesthesia_5thCir2008
+  authority: 5th Cir.
+  citation-key: KadlecMedicalLakeviewAnesthesia_5thCir2008
+  container-title: F. 3d
+  issued:
+    - year: 2008
+  page: '412'
+  title: Kadlec Medical v. Lakeview Anesthesia Associates
+  type: legal_case
+  volume: '527'
+
 - id: Kafka1915
   author:
     - family: Kafka
@@ -15323,7 +15812,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/KQ7PUW6J'
-  page: 75-83
+  page: 75–83
   publisher: NYU Press
   source: JSTOR
   title: 'Explaining Corporate Environmental Performance: How Does Regulation Matter?'
@@ -15363,7 +15852,7 @@ references:
   issued:
     - year: 2000
   note: 'Select: zotero://select/library/items/FD3D7VNE'
-  page: 256-278
+  page: 256–278
   source: JSTOR
   title: >-
     Bad Jobs in America: Standard and Nonstandard Employment Relations and Job
@@ -15384,7 +15873,7 @@ references:
   issued:
     - year: 2000
   note: 'Select: zotero://select/library/items/26A8KH48'
-  page: 341-365
+  page: 341–365
   source: JSTOR
   title: 'Nonstandard Employment Relations: Part-Time, Temporary and Contract Work'
   title-short: Nonstandard Employment Relations
@@ -15547,6 +16036,17 @@ references:
   type: article-journal
   URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10010233/
 
+- id: KarrakerRentACenterInc_7thCir2005
+  authority: 7th Cir.
+  citation-key: KarrakerRentACenterInc_7thCir2005
+  container-title: F.3d
+  issued:
+    - year: 2005
+  page: '831'
+  title: Karraker v. Rent-A-Center, Inc.
+  type: legal_case
+  volume: '411'
+
 - id: Katz2017
   abstract: >-
     This comprehensive textbook provides an introduction to collective
@@ -15678,7 +16178,7 @@ references:
   issued:
     - year: 2011
   note: 'mlzsync1:0037{"extrafields":{"publisher":"Wiley"}}Citation Key: Kawar2011a'
-  page: 354-387
+  page: 354–387
   source: JSTOR
   title: >-
     Legal Mobilization on the Terrain of the State: Creating a Field of
@@ -15687,6 +16187,18 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/23011896
   volume: '36'
+
+- id: KeithHealthProHomeCare_NC2022
+  authority: N.C.
+  citation-key: KeithHealthProHomeCare_NC2022
+  container-title: S.E.2d
+  issued:
+    - year: 2022
+  jurisdiction: NC
+  page: '567'
+  title: Keith v. Health-Pro Home Care Services
+  type: legal_case
+  volume: '873'
 
 - id: Kellner2017
   abstract: >-
@@ -15705,7 +16217,7 @@ references:
   issued:
     - year: 2017
   language: en-US
-  page: 75-87
+  page: 75–87
   source: fastcapitalism.journal.library.uta.edu
   title: Donald Trump, Media Spectacle, and Authoritarian Populism | Fast Capitalism
   type: article-journal
@@ -15782,7 +16294,7 @@ references:
   issue: '3'
   issued:
     - year: 2002
-  page: 458-496
+  page: 458–496
   publisher: Imprint Academic Ltd.
   source: JSTOR
   title: Rethinking Franz Neumann's Route to "Behemoth"
@@ -15874,7 +16386,7 @@ references:
   issued:
     - year: 1981
   note: 'Select: zotero://select/library/items/XQB8A5ZM'
-  page: 503-506
+  page: 503–506
   source: JSTOR
   title: 'Critical Labor Law Theory: A Comment'
   title-short: Critical Labor Law Theory
@@ -15894,7 +16406,7 @@ references:
   issued:
     - year: 2005
   note: 'Select: zotero://select/library/items/9Y37V7F7'
-  page: 143-179
+  page: 143–179
   source: JSTOR
   title: >-
     Freedom from Independence: Collective Bargaining Rights for "Dependent
@@ -15919,7 +16431,7 @@ references:
   issued:
     - year: 2024
   language: en
-  page: 1449-1482
+  page: 1449–1482
   source: DOI.org (Crossref)
   title: >-
     The Rule of Law, The Lawyer's Role as a Public Citizen, and Professional
@@ -16046,6 +16558,17 @@ references:
   title-short: Women Have Always Worked
   type: book
 
+- id: KetnerBranchBankingTrust_MDNC2015
+  authority: M.D.N.C.
+  citation-key: KetnerBranchBankingTrust_MDNC2015
+  container-title: F. Supp .3d
+  issued:
+    - year: 2015
+  page: '370'
+  title: Ketner v. Branch Banking and Trust Company
+  type: legal_case
+  volume: '143'
+
 - id: Kettler2019
   abstract: >-
     A labor lawyer and publicist of weight in the Weimar Republic, Franz Neumann
@@ -16090,7 +16613,7 @@ references:
   issue: '1'
   issued:
     - year: 1997
-  page: 1-23
+  page: 1–23
   publisher: Oxford University Press
   source: JSTOR
   title: >-
@@ -16135,7 +16658,7 @@ references:
   issue: '4'
   issued:
     - year: 2012
-  page: 1-17
+  page: 1–17
   publisher: Purdue University Press
   source: JSTOR
   title: >-
@@ -16221,7 +16744,7 @@ references:
     - year: 2004
     - year: 2005
   language: eng
-  page: 631-730
+  page: 631–730
   source: HeinOnline
   title: 'Ethics in Large Law Firms: The Principle of Pragmatism'
   title-short: Ethics in Large Law Firms
@@ -16256,7 +16779,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/HXE2NSEJ'
-  page: 361-369
+  page: 361–369
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -16281,7 +16804,7 @@ references:
     mlzsync1:0073{"extrafields":{"publisher":"The University of Pennsylvania Law
     Review"}}":"The University of Pennsylvania Law Review"}}Citation Key:
     klarePublicPrivateDistinction1982
-  page: 1358-1422
+  page: 1358–1422
   source: JSTOR
   title: The Public/Private Distinction in Labor Law
   type: article-journal
@@ -16377,6 +16900,18 @@ references:
   type: article-journal
   URL: https://doi.org/10.1093/jleo/ewac008
 
+- id: KMartCorpStoreNo_TexApp1984
+  authority: Tex. App.
+  citation-key: KMartCorpStoreNo_TexApp1984
+  container-title: S.W.2d
+  issued:
+    - year: 1984
+  jurisdiction: Tex
+  page: '632'
+  title: K-Mart Corp. Store No. 7441 v. Trotti
+  type: legal_case
+  volume: '677'
+
 - id: Knox2022
   abstract: >-
     Conservatives counterpose distant, alienated social forces against British
@@ -16444,7 +16979,7 @@ references:
   issued:
     - year: 2016
   language: eng
-  page: 581-636
+  page: 581–636
   source: HeinOnline
   title: >-
     Lawyers for Legal Ghosts: The Legality and Ethics of Representing Persons
@@ -16471,7 +17006,7 @@ references:
   issue: '3'
   issued:
     - year: 1988
-  page: 786-811
+  page: 786–811
   publisher: '[Oxford University Press, Organization of American Historians]'
   source: JSTOR
   title: >-
@@ -16566,7 +17101,7 @@ references:
     - year: 1993
       month: 1
   note: 'Select: zotero://select/library/items/RVYP3GWY'
-  page: 49-55
+  page: 49–55
   source: EBSCOhost
   title: Repayment Agreements for Employee Training Costs
   type: article-journal
@@ -16616,7 +17151,7 @@ references:
       month: 10
       day: 13
   language: en
-  page: 267-288
+  page: 267–288
   publisher: Annual Reviews
   source: www.annualreviews.org
   title: 'Law and Civilization: Norbert Elias as a Regulation Theorist'
@@ -16643,7 +17178,7 @@ references:
       month: 2
       day: 9
   language: en
-  page: 348-365
+  page: 348–365
   publisher: Brill
   section: How to Critique Authoritarian Populism
   source: brill.com
@@ -16728,7 +17263,7 @@ references:
       month: 10
       day: 27
   language: en
-  page: 199-229
+  page: 199–229
   publisher: Annual Reviews
   source: www-annualreviews-org.elon.idm.oclc.org
   title: 'The Rule of Law: Pasts, Presents, and Two Possible Futures'
@@ -16759,6 +17294,17 @@ references:
   title-short: The Structure of Scientific Revolutions
   type: book
   URL: https://www.google.com/books/edition/_/3eP5Y_OOuzwC?hl=en
+
+- id: KurtzmanAppliedAnalyticalIndustries_NC1997
+  authority: N.C.
+  citation-key: KurtzmanAppliedAnalyticalIndustries_NC1997
+  container-title: S.E.2d
+  issued:
+    - year: 1997
+  page: '420'
+  title: Kurtzman v. Applied Analytical Industries, Inc
+  type: legal_case
+  volume: '493'
 
 - id: LABotz1991
   abstract: used very good
@@ -16814,7 +17360,7 @@ references:
       month: 10
       day: 13
   language: en
-  page: 79-96
+  page: 79–96
   publisher: Annual Reviews
   source: www-annualreviews-org.elon.idm.oclc.org
   title: Populism and the Rule of Law
@@ -16854,7 +17400,7 @@ references:
   note: >-
     mlzsync1:0055{"extrafields":{"publisher":"Sage Publications, Inc."}}Citation
     Key: Lacy1997
-  page: 129-154
+  page: 129–154
   source: JSTOR
   title: 'Efficiently Studying Rare Events: Case-Control Methods for Sociologists'
   title-short: Efficiently Studying Rare Events
@@ -16914,7 +17460,7 @@ references:
   issued:
     - year: 2016
   note: 'Select: zotero://select/library/items/6CYSL57M'
-  page: 147-194
+  page: 147–194
   source: JSTOR
   title: >-
     Fair Responses to Unfair Labor Practices: Enforcing Federal Labor Law
@@ -16939,7 +17485,7 @@ references:
   issued:
     - year: 1986
   language: eng
-  page: 771-832
+  page: 771–832
   source: HeinOnline
   title: >-
     Swift v. Tyson and the Brooding Omnipresence in the Sky: An Investigation of
@@ -17007,7 +17553,7 @@ references:
   note: >-
     mlzsync1:0063{"extrafields":{"publisher":"The University of Chicago
     Press"}}"publisher":"The University of Chicago Press"}}
-  page: 225-248
+  page: 225–248
   source: journals.uchicago.edu (Atypon)
   title: >-
     Why Has Critique Run out of Steam? From Matters of Fact to Matters of
@@ -17073,7 +17619,7 @@ references:
     mlzsync1:0064{"extrafields":{"publisher":"[American Bar Foundation,
     Wiley]"}}publisher":"[American Bar Foundation, Wiley]"}}Citation Key:
     laumannSpecializationPrestigeLegal1977
-  page: 155-216
+  page: 155–216
   source: JSTOR
   title: >-
     Specialization and Prestige in the Legal Profession: The Structure of
@@ -17114,7 +17660,7 @@ references:
     mlzsync1:0064{"extrafields":{"publisher":"[American Bar Foundation,
     Wiley]"}}publisher":"[American Bar Foundation, Wiley]"}}Citation Key:
     laumannOrganizationLawyersWork1979
-  page: 217-246
+  page: 217–246
   source: JSTOR
   title: >-
     The Organization of Lawyers' Work: Size, Intensity, and Co-Practice of the
@@ -17185,13 +17731,33 @@ references:
       day: 1
   language: en
   note: 'Select: zotero://select/library/items/M9NE4EEW'
-  page: 485-502
+  page: 485–502
   source: Springer Link
   title: 'ANT and Politics: Working in and on the World'
   title-short: ANT and Politics
   type: article-journal
   URL: https://doi.org/10.1007/s11133-013-9263-7
   volume: '36'
+
+- id: LawfulUseLawful1992
+  citation-key: LawfulUseLawful1992
+  container-title: N.C.G.S.
+  issued:
+    - year: 1992
+  section: 95-28.2
+  title: Lawful Use of Lawful Products
+  type: legislation
+
+- id: LawlorLoewe_US1915
+  authority: U.S.
+  citation-key: LawlorLoewe_US1915
+  container-title: U.S.
+  issued:
+    - year: 1915
+  page: '522'
+  title: Lawlor v. Loewe
+  type: legal_case
+  volume: '235'
 
 - id: Lawson2021
   accessed:
@@ -17208,7 +17774,7 @@ references:
   issued:
     - year: 2021
   language: eng
-  page: 65-124
+  page: 65–124
   source: HeinOnline
   title: >-
     "To Be a Good Lawyer, One Has to Be a Healthy Lawyer": Lawyer Well-Being,
@@ -17244,7 +17810,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/Q8IHZX28'
-  page: 287-292
+  page: 287–292
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -17346,7 +17912,7 @@ references:
   note: |-
     Select: zotero://select/library/items/Z7EFBUM9
     Saved from BrowZine: https://thirdiron.com/download
-  page: 166 - 193
+  page: 166–193
   title: >-
     Conceptualizing Legal Mobilization: How Should We Understand the Deployment
     of Legal Strategies?
@@ -17370,6 +17936,18 @@ references:
   title: “DOGE” Access to Treasury Payment Systems Raises Serious Risks
   type: report
   URL: https://www.jstor.org/stable/resrep67476
+
+- id: LemmermanWilliamsOilCo_NC1986
+  authority: N.C.
+  citation-key: LemmermanWilliamsOilCo_NC1986
+  container-title: S.E.2d
+  issued:
+    - year: 1986
+  jurisdiction: NC
+  page: '83'
+  title: Lemmerman v. A.T. Williams Oil Co.
+  type: legal_case
+  volume: '350'
 
 - id: Leon2015
   abstract: >-
@@ -17447,7 +18025,7 @@ references:
   issued:
     - year: 2024
   language: eng
-  page: 119-176
+  page: 119–176
   source: HeinOnline
   title: >-
     Emancipating College Athletes from Amateurism under the Fair Labor Standards
@@ -17526,7 +18104,7 @@ references:
     - year: 2004
     - year: 2005
   language: eng
-  page: 309-392
+  page: 309–392
   source: HeinOnline
   title: The Ethical World of Solo and Small Law Firm Practitioners
   type: article-journal
@@ -17564,7 +18142,7 @@ references:
   issued:
     - year: 2009
   language: en
-  page: 399-436
+  page: 399–436
   source: Wiley Online Library
   title: >-
     Guardians at the Gate: The Backgrounds, Career Paths, and Professional
@@ -17713,7 +18291,7 @@ references:
   note: |-
     Select: zotero://select/library/items/JXK74KNS
     Saved from BrowZine: https://thirdiron.com/download
-  page: 680 - 681
+  page: 680–681
   title: "Free justice: A history of the public defender in twentieth‐century America. By Sara\_Mayeux. Chapel Hill, NC: University of North Carolina Press, 2020."
   type: article-journal
   URL: https://browzine.com/articles/510675826
@@ -17736,7 +18314,7 @@ references:
     - literal: 2015-04-0007
   language: en
   note: 'Select: zotero://select/library/items/256FU48G'
-  page: 382-398
+  page: 382–398
   publisher: John Wiley & Sons, Inc
   publisher-place: Hoboken, NJ
   source: Crossref
@@ -17783,7 +18361,7 @@ references:
     Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
     License (CC-BY-NC-SA)
   note: 'Select: zotero://select/library/items/DH3WM96G'
-  page: 51-97
+  page: 51–97
   source: Zotero
   title: >-
     “Just When I Thought I Was Out . . . .”: Post-Employment Repayment
@@ -17863,7 +18441,7 @@ references:
   issued:
     - year: 2000
   note: 'Select: zotero://select/library/items/3VEY37YW'
-  page: 261-274
+  page: 261–274
   source: JSTOR
   title: Class Politics and the State during World War Two
   type: article-journal
@@ -17938,7 +18516,7 @@ references:
     - year: 2007
   language: eng
   note: 'Select: zotero://select/library/items/M3WIS743'
-  page: 263-330
+  page: 263–330
   source: HeinOnline
   title: >-
     Faculty in the Corporate University: Professional Identity, Law and
@@ -17959,7 +18537,7 @@ references:
   issued:
     - year: 2015
   note: 'Select: zotero://select/library/items/4MC9V6TQ'
-  page: 19-21
+  page: 19–21
   source: JSTOR
   title: >-
     Improving the Legal Landscape for Unionization at Private Colleges and
@@ -18125,11 +18703,11 @@ references:
   citation-key: Lipold2014
   container-title: Social Science History
   ISSN: 0145-5532
-  issue: 3-4
+  issue: 3–4
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/PQANU8R3'
-  page: 541-575
+  page: 541–575
   source: JSTOR
   title: >-
     “Striking Deaths” at their Roots: Assaying the Social Determinants of
@@ -18164,7 +18742,7 @@ references:
   issue: '1'
   issued:
     - year: 2002
-  page: 103-137
+  page: 103–137
   publisher: '[American Bar Foundation, Wiley]'
   source: JSTOR
   title: Franz Kafka's Outsider Jurisprudence
@@ -18184,7 +18762,7 @@ references:
     - year: 2004
   language: eng
   note: 'Select: zotero://select/library/items/V32W4UT8'
-  page: 109-136
+  page: 109–136
   source: HeinOnline
   title: >-
     The Slipperiness of Stability: Contracting for Flexible and Triangular
@@ -18204,6 +18782,28 @@ references:
   title: Local 926, Intern. Union of Operating Engineers, AFL-CIO v. Jones
   type: legal_case
   volume: '460'
+
+- id: LochnerNewYork_US1905
+  authority: U.S.
+  citation-key: LochnerNewYork_US1905
+  container-title: U.S.
+  issued:
+    - year: 1905
+  page: '45'
+  title: Lochner v. New York
+  type: legal_case
+  volume: '198'
+
+- id: LoeweLawlor_US1908
+  authority: U.S.
+  citation-key: LoeweLawlor_US1908
+  container-title: U.S.
+  issued:
+    - year: 1908
+  page: '274'
+  title: Loewe v. Lawlor
+  type: legal_case
+  volume: '208'
 
 - id: Lofflmann2022
   abstract: >-
@@ -18239,7 +18839,7 @@ references:
       month: 8
       day: 1
   language: EN
-  page: 543-560
+  page: 543–560
   publisher: SAGE Publications
   source: SAGE Journals
   title: >-
@@ -18280,7 +18880,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/KDY7Q3HW'
-  page: 188-216
+  page: 188–216
   publisher: University of Minnesota Press
   source: JSTOR
   title: 'Charting Degrees of Movement Culture:: Tasks of the Cultural Cartographer'
@@ -18299,10 +18899,28 @@ references:
   issued:
     - year: 2006
   note: 'Select: zotero://select/library/items/5TNEH5BV'
-  page: 651-675
+  page: 651–675
   title: The Union Avoidance Industry in the United States
   type: article-journal
   volume: '44'
+
+- id: LondonRadicalHistories2016
+  author:
+    - family: London Radical Histories
+      given: ''
+  citation-key: LondonRadicalHistories2016
+  issued:
+    - year: 2016
+      month: 6
+      day: 18
+  language: en
+  title: >-
+    Today in legislative history: Ordinance of Labourers passed to stop plebs
+    bettering wages/conditions, 1349.
+  title-short: Ordinance of Labourers
+  type: post-weblog
+  URL: >-
+    https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
 
 - id: Loomis1930
   author:
@@ -18319,7 +18937,7 @@ references:
 
     mlzsync1:0077{"extrafields":{"publisher":"North Carolina Office of Archives
     and History"}}Citation Key: loomisActivitiesNorthCarolina1930
-  page: 443-462
+  page: 443–462
   source: JSTOR
   title: Activities of the North Carolina Farmers' Union
   type: article-journal
@@ -18505,13 +19123,26 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/H2GIV6T6'
-  page: 211-220
+  page: 211–220
   publisher: NYU Press
   source: JSTOR
   title: 'Justice Excused: The Deployment of Law in Everyday Political Encounters'
   title-short: Justice Excused
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.31
+
+- id: LowesHomeCentersLLC_NLRB2021
+  authority: 5th Cir.
+  citation-key: LowesHomeCentersLLC_NLRB2021
+  container-title: Fed.App'x
+  issued:
+    - year: 2021
+      month: 3
+      day: 15
+  page: '886'
+  title: Lowe's Home Centers, LLC v. NLRB
+  type: legal_case
+  volume: '850'
 
 - id: Lowy1980
   author:
@@ -18529,7 +19160,7 @@ references:
   note: >-
     mlzsync1:0076{"extrafields":{"publisher":"[New German Critique, Duke
     University Press]"}}Citation Key: Lowy1980
-  page: 105-115
+  page: 105–115
   source: JSTOR
   title: Jewish Messianism and Libertarian Utopia in Central Europe (1900-1933)
   type: article-journal
@@ -18549,7 +19180,7 @@ references:
   issue: '3'
   issued:
     - year: 1996
-  page: 431-446
+  page: 431–446
   source: JSTOR
   title: Figures of Weberian Marxism
   type: article-journal
@@ -18592,7 +19223,7 @@ references:
   note: >-
     mlzsync1:0076{"extrafields":{"publisher":"[New German Critique, Duke
     University Press]"}}Citation Key: Lowy2001
-  page: 177-191
+  page: 177–191
   source: JSTOR
   title: Messianism in the Early Work of Gershom Scholem
   type: article-journal
@@ -18659,7 +19290,7 @@ references:
     - year: 2013
   language: eng
   note: 'Select: zotero://select/library/items/5M3FZWG8'
-  page: 705-714
+  page: 705–714
   source: HeinOnline
   title: The Moral Complexity of Cause Lawyers within the State
   title-short: The Moral Complexity of Cause Lawyers within the State Symposium
@@ -18773,6 +19404,19 @@ references:
   title: Machinists v. Wisconsin Employment Relations Commission
   type: legal_case
   volume: '427'
+
+- id: MaclarenMacomb_NLRB
+  authority: N.L.R.B.
+  citation-key: MaclarenMacomb_NLRB
+  container-title: NLRB
+  issued:
+    - year: 2023
+      month: 2
+      day: 21
+  page: No. 58
+  title: Maclaren Macomb
+  type: legal_case
+  volume: '372'
 
 - id: MacLeod2019
   author:
@@ -18915,7 +19559,7 @@ references:
   issue: '7'
   issued:
     - year: 2019
-  page: 1743-1824
+  page: 1743–1824
   publisher: The University of Chicago Law Review
   source: JSTOR
   title: Reviewing Presidential Orders
@@ -19073,7 +19717,7 @@ references:
       month: 7
       day: 1
   language: EN
-  page: 60-112
+  page: 60–112
   publisher: SAGE Publications Inc
   source: SAGE Journals
   title: >-
@@ -19104,7 +19748,7 @@ references:
       month: 4
       day: 1
   language: EN
-  page: 20-37
+  page: 20–37
   publisher: SAGE Publications Inc
   source: SAGE Journals
   title: What Do Bosses Do? Part II
@@ -19444,7 +20088,7 @@ references:
     - year: 2011
       month: 2
       day: 21
-  page: 109-131
+  page: 109–131
   title: How and Why Do Lawyers Misbehave? Lawyers, Discipline, and Collegial Control
   title-short: How and Why Do Lawyers Misbehave?
   type: article-journal
@@ -19483,7 +20127,7 @@ references:
       month: 10
       day: 17
   language: en
-  page: 163-181
+  page: 163–181
   publisher: Annual Reviews
   source: www.annualreviews.org
   title: What Does It Mean to Be an Ethical Lawyer? The Importance of Context
@@ -19598,6 +20242,17 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:172%20A.D.3d%201865#autoLogin
   volume: '172'
 
+- id: MatterLennane_NC2022
+  authority: N.C.
+  citation-key: MatterLennane_NC2022
+  container-title: S.E.2d
+  issued:
+    - year: 2022
+  page: '243'
+  title: Matter of Lennane
+  type: legal_case
+  volume: '869'
+
 - id: MatterRoy_NYAppDiv2016
   accessed:
     - year: 2024
@@ -19709,7 +20364,7 @@ references:
       month: 11
       day: 6
   language: en
-  page: 321-326
+  page: 321–326
   source: Springer Link
   title: The Rule of Law and Technocratisation
   type: article-journal
@@ -19737,7 +20392,7 @@ references:
   issued:
     - year: 2021
   language: en
-  page: 2350-2360
+  page: 2350–2360
   publisher: Springer International Publishing
   publisher-place: Cham
   source: Springer Link
@@ -19957,7 +20612,7 @@ references:
     - year: 2023
     - year: 2024
   language: eng
-  page: 1075-1130
+  page: 1075–1130
   source: HeinOnline
   title: >-
     To Say or Not to Say: Proposed Admissibility Standards for Secret Workplace
@@ -20005,7 +20660,7 @@ references:
   issued:
     - year: 1990
   note: 'Select: zotero://select/library/items/VXH7BEPS'
-  page: 206-229
+  page: 206–229
   source: JSTOR
   title: >-
     Legal Limits on Labor Militancy: U. S. Labor Law and the Right to Strike
@@ -20042,7 +20697,7 @@ references:
   issued:
     - year: 1993
   note: 'Select: zotero://select/library/items/6WWHSZKV'
-  page: 569-601
+  page: 569–601
   source: JSTOR
   title: >-
     From Repressive Intervention to Integrative Prevention: The U.S. State's
@@ -20068,7 +20723,7 @@ references:
   note: |-
     Select: zotero://select/library/items/TNSVUFGJ
     Saved from BrowZine: https://thirdiron.com/download
-  page: 599 - 634
+  page: 599–634
   title: >-
     Fighting Words: Pro-Choice Cause Lawyering, Legal-Framing Innovations, and
     Hostile Political-Legal Contexts
@@ -20193,7 +20848,7 @@ references:
   issued:
     - year: 2008
   note: 'Select: zotero://select/library/items/ARI4IMRS'
-  page: 123-148
+  page: 123–148
   source: JSTOR
   title: >-
     "A Wagner Act for Public Employees": Labor's Deferred Dream and the Rise of
@@ -20285,7 +20940,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/CDWJW8EA'
-  page: 147-156
+  page: 147–156
   publisher: NYU Press
   source: JSTOR
   title: Lawyers, Mediation, and the Management of Divorce Practice
@@ -20318,6 +20973,17 @@ references:
   type: article-journal
   volume: '30'
 
+- id: McGradyOlstenCorp_NCCtApp2003
+  authority: N.C. Ct. App.
+  citation-key: McGradyOlstenCorp_NCCtApp2003
+  container-title: S.E.2d
+  issued:
+    - year: 2003
+  page: '371'
+  title: McGrady v. Olsten Corp.
+  type: legal_case
+  volume: '583'
+
 - id: McMullan2002
   abstract: >-
     This article studies law in action as it relates to organized lobster
@@ -20348,7 +21014,7 @@ references:
   issued:
     - year: 2002
   note: 'Select: zotero://select/library/items/6BFLJUBY'
-  page: 679-718
+  page: 679–718
   source: JSTOR
   title: Lobster Poaching and the Ironies of Law Enforcement
   type: article-journal
@@ -20469,7 +21135,7 @@ references:
   issue: '2'
   issued:
     - year: 1960
-  page: 98-120
+  page: 98–120
   publisher: '[Johns Hopkins University Press, American Jewish Historical Society]'
   source: JSTOR
   title: 'German Jews of Prague: A Quest for Self-Realization'
@@ -20510,7 +21176,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/LHG3ZIDL'
-  page: 41-63
+  page: 41–63
   publisher: University of Minnesota Press
   source: JSTOR
   title: The Process of Collective Identity
@@ -20600,7 +21266,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/TSE24W2G'
-  page: 313-320
+  page: 313–320
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -20654,7 +21320,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/7RSDXGLP'
-  page: 176-182
+  page: 176–182
   publisher: NYU Press
   source: JSTOR
   title: A New Social Constructionism for Sociolegal Studies
@@ -20711,7 +21377,7 @@ references:
     - literal: 2004-01-0001
   language: en
   note: 'Select: zotero://select/library/items/FZYUUMZT'
-  page: 45-65
+  page: 45–65
   source: SAGE Journals
   title: Yeshiva and Faculty Unionization in Higher Education
   type: article-journal
@@ -20735,6 +21401,23 @@ references:
   type: article-journal
   URL: https://lawrepository.ualr.edu/appellatepracticeprocess/vol18/iss2/3
   volume: '18'
+
+- id: MexicanRadioCorpNLRB_2dCir2019
+  accessed:
+    - year: 2025
+      month: 11
+      day: 2
+  authority: 2d Cir.
+  citation-key: MexicanRadioCorpNLRB_2dCir2019
+  container-title: Fed.Appx.
+  issued:
+    - year: 2019
+  page: '261'
+  title: Mexican Radio Corp. v. NLRB
+  type: legal_case
+  URL: >-
+    https://scholar.google.com/scholar_case?case=6680826468144229535&q=Mexican+Radio+Corp.+v.+NLRB&hl=en&as_sdt=6,34
+  volume: '789'
 
 - id: Meyer1996
   abstract: >-
@@ -20765,7 +21448,7 @@ references:
 
     mlzsync1:0059{"extrafields":{"publisher":"University of Chicago
     Press"}}Citation Key: meyerMovementsCountermovementsStructure1996
-  page: 1628-1660
+  page: 1628–1660
   source: JSTOR
   title: Movements, Countermovements, and the Structure of Political Opportunity
   type: article-journal
@@ -20799,7 +21482,7 @@ references:
 - id: MiklinEnterprisesIncNLRB_8thCircuit2016
   authority: 8th Circuit
   citation-key: MiklinEnterprisesIncNLRB_8thCircuit2016
-  container-title: F3d
+  container-title: F.3d
   issued:
     - year: 2016
   page: '812'
@@ -20823,7 +21506,7 @@ references:
 
     mlzsync1:0064{"extrafields":{"publisher":"Sociološko naučno društvo
     Srbije"}}Citation Key: mikusInformalNetworksInterstitial2015
-  page: 571-592
+  page: 571–592
   source: www.ceeol.com
   title: >-
     Informal Networks and Interstitial Arenas of Power in the Making of Civil
@@ -21180,6 +21863,19 @@ references:
   type: article-journal
   volume: '16'
 
+- id: ModiseCareOneHealthServices_DConn2022
+  authority: D. Conn.
+  citation-key: ModiseCareOneHealthServices_DConn2022
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2022
+      month: 11
+      day: 1
+  page: '159'
+  title: Modise v. CareOne Health Services, LLC
+  type: legal_case
+  volume: '638'
+
 - id: Mohamed2018
   abstract: >-
     As a candidate Donald Trump Sovereigntystyled himself uniquely equipped to
@@ -21216,7 +21912,7 @@ references:
   issued:
     - year: 2018
   language: en
-  page: 293-309
+  page: 293–309
   publisher: Springer International Publishing
   publisher-place: Cham
   source: Springer Link
@@ -21279,6 +21975,13 @@ references:
   title: Montana Farm Animal and Research Facility Protection Act
   type: legislation
 
+- id: MontanaWrongfulDischarge_nd
+  citation-key: MontanaWrongfulDischarge_nd
+  container-title: Mont. Code Ann.
+  section: 39-2-901 et seq.
+  title: Montana Wrongful Discharge from Employment Act
+  type: legislation
+
 - id: Montgomery1989
   abstract: >-
     By studying the ways in which American industrial workers mobilized
@@ -21319,7 +22022,7 @@ references:
     - year: 1976
   language: eng
   note: 'Select: zotero://select/library/items/TJSIWP5G'
-  page: 43-62
+  page: 43–62
   source: HeinOnline
   title: The Determination of Bargaining Units for College Faculties
   type: article-journal
@@ -21372,7 +22075,7 @@ references:
   issue: '4'
   issued:
     - year: 1993
-  page: 503-516
+  page: 503–516
   publisher: Wiley
   source: JSTOR
   title: On the Necessity and Impossibility of Being a Jew in the Academy
@@ -21420,7 +22123,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/ISCUPZ2S'
-  page: 403-410
+  page: 403–410
   publisher: NYU Press
   source: JSTOR
   title: 'What Counts as Knowledge?: A Reflection on Race, Social Science, and the Law'
@@ -21457,7 +22160,7 @@ references:
       given: Vivian
   issued:
     - year: 2016
-  page: 43-65
+  page: 43–65
   publisher: De Gruyter
   source: JSTOR
   title: Philosophy and Ambiguity in Benjamin’s Kafka
@@ -21540,7 +22243,7 @@ references:
   ISBN: 978-0-8032-4864-9
   issued:
     - year: 2014
-  page: 160-182
+  page: 160–182
   publisher: University of Nebraska Press
   source: JSTOR
   title: >-
@@ -21605,7 +22308,7 @@ references:
   issued:
     - year: 2012
   note: 'Select: zotero://select/library/items/799ZBLCR'
-  page: 1-71
+  page: 1–71
   source: JSTOR
   title: >-
     How The National Labor Relations Act Was Stolen and How It Can Be Recovered:
@@ -21630,7 +22333,7 @@ references:
   issue: '3'
   issued:
     - year: 2016
-  page: 601-610
+  page: 601–610
   publisher: '[German Studies Association, The Johns Hopkins University Press]'
   source: JSTOR
   title: 'German Studies and Jewish Studies: Symbiosis of Two Fields'
@@ -21663,7 +22366,7 @@ references:
   issued:
     - year: 1991
   note: 'Select: zotero://select/library/items/GWZ2HXW5'
-  page: 772-774
+  page: 772–774
   title: >-
     Challinor Raymond. A Radical Lawyer in Victorian England: W P Roberts and
     the Struggle for Workers' Rights
@@ -21718,7 +22421,7 @@ references:
       day: 1
   language: en
   note: 'Select: zotero://select/library/items/KSQSR4UV'
-  page: 37-58
+  page: 37–58
   source: read.dukeupress.edu
   title: >-
     The Strange Career of “the Working Class” in US Political Culture Since the
@@ -21808,7 +22511,7 @@ references:
     mlzsync1:0106{"extrafields":{"place":"Bloomington, United States,
     Bloomington","publisher":"Indiana University Press"}}Citation Key:
     Murthy2020
-  page: 127-167
+  page: 127–167
   source: ProQuest
   title: >-
     Beyond Particularity and Universality: Moishe Postone and the Possibilities
@@ -21817,6 +22520,17 @@ references:
   type: article-journal
   URL: http://search.proquest.com/docview/2352150753/abstract/5B13AF4F8A2249D0PQ/5
   volume: '25'
+
+- id: MyersHowmedicaOsteonicsCorp_DMont2016
+  authority: D. Mont.
+  citation-key: MyersHowmedicaOsteonicsCorp_DMont2016
+  issued:
+    - year: 2016
+      month: 3
+      day: 30
+  number: No. CV 14-248-M-DLC
+  title: Myers v. Howmedica Osteonics Corp
+  type: legal_case
 
 - id: Nader2024
   abstract: >-
@@ -21840,7 +22554,7 @@ references:
   issued:
     - year: 2024
   number-of-pages: '11'
-  page: 233-243
+  page: 233–243
   publisher: Routledge
   title: The Many Functions of the Rule of Law in Different Contexts
   type: chapter
@@ -21896,7 +22610,7 @@ references:
   issued:
     - year: 2009
   note: 'Select: zotero://select/library/items/HN4TEZYH'
-  page: 232-335
+  page: 232–335
   source: JSTOR
   title: 'The Worker Center Movement and Traditional Labor Law: A Contextual Analysis'
   title-short: The Worker Center Movement and Traditional Labor Law
@@ -21966,6 +22680,13 @@ references:
   type: legal_case
   volume: '46'
 
+- id: NCEmploymentSecurity_nd
+  citation-key: NCEmploymentSecurity_nd
+  container-title: N.C.G.S.
+  section: 96-1 et seq.
+  title: NC Employment Security Act
+  type: legislation
+
 - id: NCPropertyProtection2016
   citation-key: NCPropertyProtection2016
   container-title: N.C. Gen. Stat.
@@ -21974,6 +22695,13 @@ references:
   language: en-US
   section: 99A-2
   title: NC Property Protection Act
+  type: legislation
+
+- id: NCRetaliatoryEmployment_nd
+  citation-key: NCRetaliatoryEmployment_nd
+  container-title: N.C.G.S.
+  section: 95-240 et seq.
+  title: NC Retaliatory Employment Discrimination Act
   type: legislation
 
 - id: NCStateBarEthridge_NCApp2008
@@ -22004,6 +22732,20 @@ references:
   type: legal_case
   volume: '303'
 
+- id: NCWageHour_nd
+  citation-key: NCWageHour_nd
+  container-title: N.C.G.S.
+  section: 95-25.6
+  title: NC Wage & Hour Act
+  type: legislation
+
+- id: NCWorkersCompensation_nd
+  citation-key: NCWorkersCompensation_nd
+  container-title: N.C.G.S.
+  section: 97-2 et seq.
+  title: NC Workers' Compensation Act
+  type: legislation
+
 - id: NDAgGag1991
   citation-key: NDAgGag1991
   container-title: ND Cent. Code
@@ -22025,7 +22767,7 @@ references:
   issued:
     - year: 2011
   note: 'Select: zotero://select/library/items/MIWYDYFF'
-  page: 175-211
+  page: 175–211
   publisher: Emerald Publishing Limited
   publisher-place: Bingley, UNITED KINGDOM
   source: ProQuest Ebook Central
@@ -22047,7 +22789,7 @@ references:
     - year: 2013
   language: eng
   note: 'Select: zotero://select/library/items/XZVQ8MT8'
-  page: 649-704
+  page: 649–704
   source: HeinOnline
   title: Cause Lawyers inside the State
   title-short: Cause Lawyers inside the State Symposium
@@ -22099,6 +22841,17 @@ references:
     The Making of Lawyers’ Careers: Inequality and Opportunity in the American
     Legal Profession
   type: book
+
+- id: NelsonKnight_Iowa2013
+  authority: Iowa
+  citation-key: NelsonKnight_Iowa2013
+  container-title: N.W.2d
+  issued:
+    - year: 2013
+  page: '64'
+  title: Nelson v. Knight
+  type: legal_case
+  volume: '834'
 
 - id: NetworkforResponsiblePublicPolicy2025
   accessed:
@@ -22212,7 +22965,7 @@ references:
   issue: '6'
   issued:
     - year: 2015
-  page: 2026-2099
+  page: 2026–2099
   publisher: The Yale Law Journal Company, Inc.
   source: JSTOR
   title: Executive Orders in Court
@@ -22305,7 +23058,7 @@ references:
   note: >-
     mlzsync1:0068{"extrafields":{"publisher":"[Wiley, Law and Society
     Association]"}}
-  page: 1055-1090
+  page: 1055–1090
   source: JSTOR
   title: >-
     Situating Legal Consciousness: Experiences and Attitudes of Ordinary
@@ -22361,7 +23114,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/JU6FAIU6'
-  page: 232-240
+  page: 232–240
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -22680,7 +23433,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/7458V988'
-  page: 387-396
+  page: 387–396
   publisher: NYU Press
   source: JSTOR
   title: 'Do Blind People See Race?: Social, Legal, and Theoretical Considerations'
@@ -22728,7 +23481,7 @@ references:
     mlzsync1:0106{"extrafields":{"place":"Bloomington, United States,
     Bloomington","publisher":"Indiana University Press"}}Citation Key:
     Oberle2020
-  page: 1-48
+  page: 1–48
   source: ProQuest
   title: >-
     Territoriality and the Jewish Question: Otto Bauer and the Problem of
@@ -22737,6 +23490,14 @@ references:
   type: article-journal
   URL: http://search.proquest.com/docview/2352142311/abstract/5B13AF4F8A2249D0PQ/1
   volume: '25'
+
+- id: OccupationalSafetyHealth_nd
+  citation-key: OccupationalSafetyHealth_nd
+  container-title: U.S.C.
+  section: 641 et seq.
+  title: Occupational Safety & Health Act
+  type: legislation
+  volume: '29'
 
 - id: ODonnell2004
   abstract: >-
@@ -22764,7 +23525,7 @@ references:
   issue: '4'
   issued:
     - year: 2004
-  page: 32-46
+  page: 32–46
   publisher: Johns Hopkins University Press
   source: Project MUSE
   title: 'The Quality of Democracy: Why the Rule of Law Matters'
@@ -22790,7 +23551,7 @@ references:
   issued:
     - year: 1988
   note: 'Select: zotero://select/library/items/YAM82WD9'
-  page: 1257-1286
+  page: 1257–1286
   source: JSTOR
   title: >-
     Urban Working-Class Political Behavior and Theories of American Electoral
@@ -22849,7 +23610,7 @@ references:
       month: 12
       day: 1
   language: en
-  page: 99-114
+  page: 99–114
   publisher: Annual Reviews
   source: www-annualreviews-org.elon.idm.oclc.org
   title: The Rule of Law
@@ -22973,6 +23734,14 @@ references:
   title-short: The Logic of Collective Action
   type: book
 
+- id: OrdinanceLabourers1349
+  citation-key: OrdinanceLabourers1349
+  container-title: 23 Edw. 3 cc. 1-8
+  issued:
+    - year: 1349
+  title: Ordinance of Labourers
+  type: legislation
+
 - id: Orleck1995
   abstract: >-
     Common Sense and a Little Fire# traces the personal and public lives of four
@@ -23031,6 +23800,39 @@ references:
   type: article-journal
   URL: https://digitalcommons.wayne.edu/jewishfolklore/vol1/iss1/8
   volume: '1'
+
+- id: Orren1991
+  abstract: >-
+    Traditional theories of American political development depict the American
+    state as a thoroughly liberal state from its very inception. In this book,
+    first published in 1992, Karen Orren challenges that account by arguing that
+    a remnant of ancient feudalism was, in fact, embedded in the American
+    governmental system, in the form of the law of master and servant, and
+    persisted until well into the twentieth century. The law of master and
+    servant was, she reveals, incorporated in the US Constitution and
+    administered from democratic politics. The fully legislative polity that
+    defines the modern liberal state was achieved in America, Orren argues, only
+    through the initiatives of the labor movement in the late nineteenth and
+    early twentieth centuries, and was finally ushered in as part of the
+    processes of collective bargaining instituted by the New Deal. This book
+    represents a fundamental reinterpretation of constitutional change in the
+    United States and of the role of American organized labor, which is shown to
+    be a creator of liberalism, rather than a spoiler of socialism.
+  author:
+    - family: Orren
+      given: Karen
+  citation-key: Orren1991
+  ISBN: 978-0-521-42254-3
+  issued:
+    - year: 1991
+  language: en
+  number-of-pages: '256'
+  publisher: Cambridge University Press
+  title: >-
+    Belated Feudalism: Labor, the Law, and Liberal Development in the United
+    States
+  title-short: Belated Feudalism
+  type: book
 
 - id: OstrofskyMdEmpSecurity_CourtofAppeals1959
   authority: Court of Appeals
@@ -23175,7 +23977,7 @@ references:
   note: >-
     mlzsync1:0053{"extrafields":{"publisher":"SAGE Publications Inc"}}Citation
     Key: Oyer2016
-  page: 378-404
+  page: 378–404
   source: SAGE Journals
   title: 'Firm/Employee Matching: An Industry Study of U.S. Lawyers'
   title-short: Firm/Employee Matching
@@ -23208,7 +24010,7 @@ references:
   issued:
     - year: 2007
   note: 'Select: zotero://select/library/items/W2QQMR8K'
-  page: 883-917
+  page: 883–917
   title: 'Lawyers of the Right: Networks and Organization'
   type: article-journal
   volume: '32'
@@ -23250,7 +24052,7 @@ references:
   issued:
     - year: 2011
   note: 'mlzsync1:0037{"extrafields":{"publisher":"Wiley"}}Citation Key: Paik2011'
-  page: 892-918
+  page: 892–918
   source: JSTOR
   title: 'Political Lawyers: The Structure of a National Network'
   title-short: Political Lawyers
@@ -23324,7 +24126,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/BXTL4WSD'
-  page: 84-91
+  page: 84–91
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -23359,7 +24161,7 @@ references:
   issue: '2'
   issued:
     - year: 1995
-  page: 28-43
+  page: 28–43
   publisher: Purdue University Press
   source: JSTOR
   title: The Jewish Essence of Franz Kafka
@@ -23394,7 +24196,7 @@ references:
     - literal: 2019-09-0001
   language: en
   note: 'Select: zotero://select/library/items/Y34YS9LG'
-  page: 34-41
+  page: 34–41
   source: SAGE Journals
   title: Recovering Labor Antimonopoly
   type: article-journal
@@ -23433,7 +24235,7 @@ references:
     - literal: 2019-05-0001
   language: en
   note: 'Select: zotero://select/library/items/SVJAY5VQ'
-  page: 77-97
+  page: 77–97
   source: read.dukeupress.edu
   title: >-
     Between the Market and the State: The Problem of Prison Labor in the New
@@ -23542,7 +24344,7 @@ references:
     - year: 2024
       month: 1
       day: 1
-  page: 1-29
+  page: 1–29
   source: COinS
   title: 'Supplemental Jurisdiction and § 1367: The Good, The Bad, and the Ugly'
   title-short: Supplemental Jurisdiction and § 1367
@@ -23668,6 +24470,18 @@ references:
   note: 4th Cir.
   title: PETA v. Stein - Media Amicus
   type: document
+
+- id: PhamAevaSpecialtyPharmacy_DColo2022
+  authority: D. Colo.
+  citation-key: PhamAevaSpecialtyPharmacy_DColo2022
+  issued:
+    - year: 2022
+      month: 12
+      day: 8
+  jurisdiction: D. Colorado
+  number: Civil Action No. 21-cv-00703-NYW-STV
+  title: Pham v. Aeva Specialty Pharmacy
+  type: legal_case
 
 - id: PhilipDray2011
   abstract: >-
@@ -23931,7 +24745,7 @@ references:
       month: 5
       day: 3
   language: en
-  page: 573-584
+  page: 573–584
   source: DOI.org (Crossref)
   title: 'Exploring Lawyer Misconduct: An Examination of the Self-Regulation Process'
   title-short: Exploring Lawyer Misconduct
@@ -23999,7 +24813,7 @@ references:
     mlzsync1:0056{"extrafields":{"publisher":"American Bar
     Association"}}elds":{"publisher":"American Bar Association"}}Citation Key:
     pittLaborUnionsCorporate1991
-  page: 287-310
+  page: 287–310
   source: JSTOR
   title: Labor Unions in Corporate Takeovers
   type: article-journal
@@ -24022,7 +24836,7 @@ references:
     - year: 2020
     - year: 2021
   language: eng
-  page: 809-842
+  page: 809–842
   source: HeinOnline
   title: >-
     Zooming into a Malpractice Suit: Updating the Model Rules of Professional
@@ -24148,10 +24962,21 @@ references:
   issued:
     - year: 2002
   note: 'Select: zotero://select/library/items/IXZLBINL'
-  page: 74-94
+  page: 74–94
   title: 'Catch-and-release recreational fishing: a historical perspective'
   type: article-journal
   volume: '6'
+
+- id: PollockWilliams_US1944
+  authority: U.S.
+  citation-key: PollockWilliams_US1944
+  container-title: U.S.
+  issued:
+    - year: 1944
+  page: '4'
+  title: Pollock v. Williams
+  type: legal_case
+  volume: '322'
 
 - id: Pope2002
   abstract: >-
@@ -24183,7 +25008,7 @@ references:
   issued:
     - year: 2002
   note: 'Select: zotero://select/library/items/ZA364HPD'
-  page: 1-122
+  page: 1–122
   source: JSTOR
   title: >-
     The Thirteenth Amendment versus the Commerce Clause: Labor and the Shaping
@@ -24206,7 +25031,7 @@ references:
   issued:
     - year: 2004
   note: 'Select: zotero://select/library/items/HEPTJJ6Z'
-  page: 518-553
+  page: 518–553
   source: JSTOR
   title: How American Workers Lost the Right to Strike, and Other Tales
   type: article-journal
@@ -24225,7 +25050,7 @@ references:
   issued:
     - year: 2006
   note: 'Select: zotero://select/library/items/2YSEECKC'
-  page: 45-113
+  page: 45–113
   source: JSTOR
   title: >-
     Worker Lawmaking, Sit-Down Strikes, and the Shaping of American Industrial
@@ -24282,7 +25107,7 @@ references:
     - literal: 2013-10-0001
   language: en
   note: 'Select: zotero://select/library/items/KGUJXYCX'
-  page: 1192-1211
+  page: 1192–1211
   source: SAGE Journals
   title: The Causal Effect of Faculty Unions on Institutional Decision-Making
   type: article-journal
@@ -24311,7 +25136,7 @@ references:
   issued:
     - year: 2003
   note: 'Select: zotero://select/library/items/TW3HGUPS'
-  page: 101-116
+  page: 101–116
   source: JSTOR
   title: >-
     Four Economic Perspectives on American Labor Law and the Problem of Social
@@ -24332,7 +25157,7 @@ references:
   container-title: Columbia Law Review
   issued:
     - year: 2010
-  page: 207-215
+  page: 207–215
   title: 'Kafka: The Writer as Lawyer on JSTOR'
   type: article-journal
   URL: >-
@@ -24401,7 +25226,7 @@ references:
   issue: '19'
   issued:
     - year: 1980
-  page: 97-115
+  page: 97–115
   source: JSTOR
   title: >-
     Anti-Semitism and National Socialism: Notes on the German Reaction to
@@ -24426,7 +25251,7 @@ references:
   issue: '5'
   issued:
     - year: 1982
-  page: 617-658
+  page: 617–658
   source: JSTOR
   title: Critical Pessimism and the Limits of Traditional Marxism
   type: article-journal
@@ -24458,7 +25283,7 @@ references:
   issue: 1/2
   issued:
     - year: 2005
-  page: 69-79
+  page: 69–79
   source: JSTOR
   title: Critical Social Theory and the Contemporary World
   type: article-journal
@@ -24483,7 +25308,7 @@ references:
     - year: 2006
       month: 1
       day: 1
-  page: 93-110
+  page: 93–110
   source: Silverchair
   title: >-
     History and Helplessness: Mass Mobilization and Contemporary Forms of
@@ -24575,13 +25400,23 @@ references:
   issue: '3'
   issued:
     - year: 2024
-  page: 5-16
+  page: 5–16
   publisher: Johns Hopkins University Press
   source: Project MUSE
   title: Who Decides What Is Democratic?
   type: article-journal
   URL: https://muse.jhu.edu/pub/1/article/930423
   volume: '35'
+
+- id: PughSeesCandiesInc1981
+  citation-key: PughSeesCandiesInc1981
+  container-title: Cal. App. 3d
+  issued:
+    - year: 1981
+  page: '311'
+  title: Pugh v. See's Candies, Inc.
+  type: legal_case
+  volume: '116'
 
 - id: PulaskiCountyMedicalExchange_EDArk2022
   authority: E.D. Ark.
@@ -24716,7 +25551,7 @@ references:
   note: >-
     mlzsync1:0060{"extrafields":{"publisher":"Židovsk&#233; Muzeum v
     Praze"}}Citation Key: Putik1999
-  page: 4-140
+  page: 4–140
   source: www.ceeol.com
   title: The Prague Jewish Community in the Late 17th and Early 18th Centuries
   type: article-journal
@@ -24764,7 +25599,7 @@ references:
   issued:
     - year: 2015
   language: en
-  page: 45-66
+  page: 45–66
   title: >-
     The Rationalization of Policy: On the Relation between Democracy and the
     Rule of Law
@@ -24835,7 +25670,7 @@ references:
   issued:
     - year: 2001
   note: 'Select: zotero://select/library/items/4NZHYLM6'
-  page: 7-18
+  page: 7–18
   title: Visions for recreational fishing regulations
   type: article-journal
   volume: '26'
@@ -24875,7 +25710,7 @@ references:
   issued:
     - year: 2022
   language: en
-  page: 3-24
+  page: 3–24
   publisher: Springer Nature
   publisher-place: Singapore
   source: Springer Link
@@ -24885,6 +25720,28 @@ references:
   title-short: Recording the New Renaissance
   type: chapter
   URL: https://doi.org/10.1007/978-981-19-2568-9_1
+
+- id: RamjiHospitalHousekeepingSystems_11thCir2021
+  authority: 11th Cir.
+  citation-key: RamjiHospitalHousekeepingSystems_11thCir2021
+  container-title: F.3d
+  issued:
+    - year: 2021
+  page: '1233'
+  title: Ramji v. Hospital Housekeeping Systems, LLC
+  type: legal_case
+  volume: '992'
+
+- id: RazakUberTechnologiesInc_3rdCir2020
+  authority: 3rd Cir.
+  citation-key: RazakUberTechnologiesInc_3rdCir2020
+  container-title: F. 3d
+  issued:
+    - year: 2020
+  page: '137'
+  title: Razak v. Uber Technologies, Inc.
+  type: legal_case
+  volume: '951'
 
 - id: ReClark_NCApp2010
   authority: NC App.
@@ -24928,7 +25785,7 @@ references:
   issue: '1'
   issued:
     - year: 2013
-  page: 48-57
+  page: 48–57
   source: JSTOR
   title: Marx, Race, and Neoliberalism
   type: article-journal
@@ -25124,7 +25981,7 @@ references:
   issued:
     - literal: 1996-11-0001
   note: 'Select: zotero://select/library/items/8Y47NPIX'
-  page: 626-659
+  page: 626–659
   source: Taylor and Francis+NEJM
   title: Reorganizing the Faculty Workforce for Flexibility
   type: article-journal
@@ -25161,7 +26018,7 @@ references:
     - year: 2015
   language: en
   note: 'Select: zotero://select/library/items/2UEXFFPM'
-  page: 383-430
+  page: 383–430
   publisher: Springer, Cham
   source: link.springer.com
   title: >-
@@ -25186,6 +26043,18 @@ references:
   type: article-journal
   URL: https://browzine.com/articles/462540053
 
+- id: RiesMcdonaldsUsaLlc_WDMich2021
+  authority: W.D. Mich.
+  citation-key: RiesMcdonaldsUsaLlc_WDMich2021
+  issued:
+    - year: 2021
+      month: 12
+      day: 6
+  jurisdiction: WD Michigan
+  number: Case No. 1:20-cv-2
+  title: Ries v. Mcdonald's Usa, Llc
+  type: legal_case
+
 - id: Rivera2020
   author:
     - family: Rivera
@@ -25200,7 +26069,7 @@ references:
   note: |-
     Select: zotero://select/library/items/9WWUQSIQ
     Saved from BrowZine: https://thirdiron.com/download
-  page: 215 - 232
+  page: 215–232
   title: Employer Decision Making
   type: article-journal
   URL: https://browzine.com/articles/388419473
@@ -25218,7 +26087,7 @@ references:
   issued:
     - year: 1997
   note: 'Select: zotero://select/library/items/A7QUBUPG'
-  page: 72-95
+  page: 72–95
   source: JSTOR
   title: >-
     What If Labor Were Not White and Male? Recentering Working-Class History and
@@ -25252,7 +26121,7 @@ references:
   issued:
     - year: 2006
   note: 'Select: zotero://select/library/items/WKLDIBH4'
-  page: 469-513
+  page: 469–513
   source: JSTOR
   title: >-
     Worker Centers: Emerging Labor Organizations—Until They Confront the
@@ -25337,7 +26206,7 @@ references:
     - year: 2021
       month: 9
       day: 3
-  page: 515-531
+  page: 515–531
   publisher: NCA Website
   source: Taylor and Francis+NEJM
   title: >-
@@ -25376,7 +26245,7 @@ references:
   issued:
     - year: 2001
   note: 'Select: zotero://select/library/items/M2A7U52V'
-  page: 81-105
+  page: 81–105
   source: JSTOR
   title: 'American Workers, American Movies: Historiography and Methodology'
   title-short: American Workers, American Movies
@@ -25412,7 +26281,7 @@ references:
     - year: 2021
   language: en
   license: © 2021 Cornell Law School and Wiley Periodicals LLC.
-  page: 801-848
+  page: 801–848
   source: Wiley Online Library
   title: Does the Bar Exam Protect the Public?
   type: article-journal
@@ -25540,7 +26409,7 @@ references:
   issued:
     - year: 1988
   note: 'Select: zotero://select/library/items/J2BHFMGY'
-  page: 553-566
+  page: 553–566
   source: JSTOR
   title: >-
     Inequality in the Working Class: The Unanticipated Consequences of Union
@@ -25565,6 +26434,18 @@ references:
   type: report
   URL: https://worldjusticeproject.org/rule-of-law-index
 
+- id: RulonMillerInternationalBusMachines_CalApp1984
+  authority: Cal. App.
+  citation-key: RulonMillerInternationalBusMachines_CalApp1984
+  container-title: Cal. App. 3d
+  issued:
+    - year: 1984
+  jurisdiction: Cal
+  page: '241'
+  title: Rulon-Miller v. International Bus. Machines Corp.
+  type: legal_case
+  volume: '162'
+
 - id: Rutherglen2001
   accessed:
     - year: 2025
@@ -25580,7 +26461,7 @@ references:
   issued:
     - year: 2001
       month: 1
-  page: 347-374
+  page: 347–374
   publisher: The University of Chicago Press
   source: www-journals-uchicago-edu.elon.idm.oclc.org (Atypon)
   title: International Shoe and the Legacy of Legal Realism
@@ -25625,7 +26506,7 @@ references:
   issued:
     - year: 2019
   note: 'Select: zotero://select/library/items/FDKEUM6L'
-  page: 37-50
+  page: 37–50
   source: JSTOR
   title: >-
     Gig Work and the Fourth Industrial Revolution:  Conceptual and Regulatory
@@ -25685,6 +26566,17 @@ references:
   title-short: The Triumph of Injustice
   type: book
 
+- id: SaltAppliedAnalyticalInc_NCCtApp1991
+  authority: N.C. Ct. App.
+  citation-key: SaltAppliedAnalyticalInc_NCCtApp1991
+  container-title: S.E.2d
+  issued:
+    - year: 1991
+  page: '97'
+  title: Salt v. Applied Analytical, Inc.
+  type: legal_case
+  volume: '412'
+
 - id: Salter1999
   accessed:
     - year: 2025
@@ -25700,7 +26592,7 @@ references:
   issued:
     - year: 1999
   language: eng
-  page: 161-194
+  page: 161–194
   source: HeinOnline
   title: >-
     Neo-Fascist Legal Theory on Trial: An Interpretation of Carl Schmitt's
@@ -25750,7 +26642,7 @@ references:
   issued:
     - year: 2010
   language: eng
-  page: 157-246
+  page: 157–246
   source: HeinOnline
   title: >-
     Rethinking Guardianship (Again): Substituted Decision Making as a Violation
@@ -25884,7 +26776,7 @@ references:
       day: 1
   language: en
   note: 'Select: zotero://select/library/items/ZLRCDXDB'
-  page: 209-221
+  page: 209–221
   source: read.dukeupress.edu
   title: Does the City Have Speech?
   type: article-journal
@@ -25921,7 +26813,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/LZPYAB3R'
-  page: 123-130
+  page: 123–130
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -25978,7 +26870,7 @@ references:
     - year: 2001
     - year: 2002
   language: eng
-  page: 59-96
+  page: 59–96
   source: HeinOnline
   title: >-
     Jurisdiction, Jurisprudence, and Legal Change: Sociological Jurisprudence
@@ -26004,7 +26896,7 @@ references:
     - year: 1990
       month: 5
       day: 1
-  page: 803-830
+  page: 803–830
   source: COinS
   title: A Discussion Between Junius Scales, Telford Taylor, and David Rudenstine
   type: article-journal
@@ -26153,7 +27045,7 @@ references:
   issued:
     - year: 2007
   language: eng
-  page: 629-682
+  page: 629–682
   source: HeinOnline
   title: >-
     What We've Got Here... Is a Failure... to Communicate: A Statistical
@@ -26178,7 +27070,7 @@ references:
   issued:
     - year: 2018
   language: eng
-  page: 545-584
+  page: 545–584
   source: HeinOnline
   title: Autocratic Legalism
   title-short: Autocratic Legalism
@@ -26218,7 +27110,7 @@ references:
       month: 10
       day: 17
   language: en
-  page: 17-33
+  page: 17–33
   publisher: Annual Reviews
   source: www-annualreviews-org.elon.idm.oclc.org
   title: The Life of the Rule of Law
@@ -26290,7 +27182,7 @@ references:
     - year: 1997
     - year: 1998
   language: eng
-  page: 1743-1770
+  page: 1743–1770
   source: HeinOnline
   title: >-
     After Legal Indeterminacy: Carl Schmitt and the National Socialist Legal
@@ -26371,7 +27263,7 @@ references:
     - year: 1997
       month: 1
   language: en
-  page: 141-161
+  page: 141–161
   source: Cambridge University Press
   title: 'Revolutions and Constitutions: Hannah Arendt''s Challenge to Carl Schmitt'
   title-short: Revolutions and Constitutions
@@ -26431,7 +27323,7 @@ references:
     - year: 1999
     - year: 2000
   language: eng
-  page: 1869-1894
+  page: 1869–1894
   source: HeinOnline
   title: >-
     The Economic State of Emergency Symposium - Carl Schmitt: Legacy and
@@ -26476,7 +27368,7 @@ references:
       month: 12
       day: 1
   language: en
-  page: 257-277
+  page: 257–277
   publisher: Annual Reviews
   source: www.annualreviews.org
   title: Emergency Powers
@@ -26519,7 +27411,7 @@ references:
     - year: 2012
       month: 7
   language: en
-  page: 743-767
+  page: 743–767
   source: Cambridge University Press
   title: >-
     Emergencies, Executive Power, and the Uncertain Future of US Presidential
@@ -26564,7 +27456,7 @@ references:
     - year: 2017
   language: en
   license: © 2016 John Wiley & Sons Ltd.
-  page: 113-125
+  page: 113–125
   source: Wiley Online Library
   title: 'Recent Frankfurt Critical Theory: Down on Law?'
   title-short: Recent Frankfurt Critical Theory
@@ -26596,13 +27488,13 @@ references:
   container-title: Philosophy & Social Criticism
   DOI: 10.1177/0191453719872285
   ISSN: 0191-4537
-  issue: 9-10
+  issue: 9–10
   issued:
     - year: 2019
       month: 12
       day: 1
   language: EN
-  page: 1170-1185
+  page: 1170–1185
   publisher: SAGE Publications Ltd
   source: SAGE Journals
   title: Donald Trump meets Carl Schmitt
@@ -26714,7 +27606,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/WV375BSW'
-  page: 721-731
+  page: 721–731
   title: >-
     Use of random response to estimate angler noncompliance with fishing
     regulations
@@ -26786,7 +27678,7 @@ references:
     mlzsync1:0067{"extrafields":{"publisher":"Association of American Law
     Schools"}}lisher":"Association of American Law Schools"}}Citation Key:
     schneyerSympathyHiredGun1991
-  page: 11-27
+  page: 11–27
   source: JSTOR
   title: Some Sympathy for the Hired Gun
   type: article-journal
@@ -26833,7 +27725,7 @@ references:
       month: 4
       day: 1
   language: en
-  page: 195-222
+  page: 195–222
   source: Springer Link
   title: >-
     Administrative Law as a Dual State. Authoritarian Elements of Administrative
@@ -26862,7 +27754,7 @@ references:
       month: 12
       day: 1
   language: en
-  page: 423-437
+  page: 423–437
   source: Springer Link
   title: Law, democracy, and the state of emergency
   type: article-journal
@@ -27113,6 +28005,28 @@ references:
   title-short: The Art of Not Being Governed
   type: book
 
+- id: ScudderWoodbridge_Georgia1846
+  authority: Georgia
+  citation-key: ScudderWoodbridge_Georgia1846
+  container-title: Ga.
+  issued:
+    - year: 1846
+  page: '195'
+  title: Scudder v Woodbridge
+  type: legal_case
+  volume: '1'
+
+- id: SearlsJohnsHopkinsHospital_DMd2016
+  authority: D. Md.
+  citation-key: SearlsJohnsHopkinsHospital_DMd2016
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2016
+  page: '427'
+  title: Searls v. Johns Hopkins Hospital
+  type: legal_case
+  volume: '158'
+
 - id: Sears2019
   abstract: "Have you ever wondered how the 8 hour work day happened?\_Or how we have a 40 hour work week, sick days, pensions or vacations? It didn’t happen because a politician or president gave it to us; it happened because people came together, organized, and fought for it. This is the story of American labor history as told in a \"This day in labor history\" format. See what happened on your birthday, your anniversary or any of the other 363 days in Labor History.\_Read how working-class leaders like Mother Jones, Eugene Debs, Elizabeth Gurley Flynn, and Joe Hill, and everyday workers made US Labor History by striking, protesting and even dying for what they believed in. Read how their battles and deaths made your work life safer and made the American working class the envy of the world. Why is knowing this history important? Because it’s starting to repeat itself. The bosses (the 1%) have never liked unions and are working hard to destroy them even as you read this. The recent Janus v. AFSCME decision at the US Supreme Court is just another swipe at the power of working people to have a voice for themselves in the workplace. Even now, they work at ways to weaken OSHA, take away our pensions, and strip us of our overtime pay.\_Today in Labor History …January 14th - The Red for Ed campaign continues into 2019 with 34,000 Los Angeles teachers going out on strike. Fighting for smaller class size, more nurses, librarians, and support staff, and a limit on charter school expansion, they took on the billionaires and won. After 6 school days on the picket line and a majority of parents keeping their children home, the teachers were victorious on most of their issues and got a 6% pay raise to boot. - 2019January 19th - Joe Hill was arrested on this date in Salt Lake City and later convicted on trumped-up murder charges. He was executed 21 months later despite worldwide protests and two attempts to intervene by President Woodrow Wilson. In a letter to Bill Haywood shortly before his death, he penned the famous words, “Don’t mourn – organize!”. - 1915April 21st - Company guards shot down 17 unarmed striking miners near the Neversweat Mine of the Anaconda Copper Mining Co. They were all shot in the back as they tried to flee. The IWW and the Metal Mine Workers Industrial Union called for a strike in the mines around Butte. They struck to secure higher wages, end rustling cards, and win an eight hour day. The Company blamed the IWW for the violence, and federal troops arrived the next day to impose martial law and end the strike. Miners were forced back to the mines at gunpoint. -1920June 30th - Alabama outlawed the leasing of convicts to mine coal, a practice that had been in place since 1848. In 1898, 73 percent of the state’s total revenue came from this source. Twenty-five percent of all black leased convicts died. - 1928September 3rd - Twenty-five workers died, and 55 were injured, unable to escape a fire at the Imperial Poultry processing plant in Hamlet, North Carolina. Managers had locked fire doors to prevent the theft of chicken nuggets. The plant had operated for 11 years without a single safety inspection. - 1991December 2nd - A Chicago “slugger,” paid $50 by labor unions for every scab he “discouraged,” described his job in an interview: “Oh, there ain’t nothing to it. I gets my fifty, then I goes out and finds the guy they wanna have slugged, then I gives it to ‘im”. - 1911These are just a few of the thousands of events in “Voices of Labor - History of the Working Class”This is the perfect book for new or old union members alike. Get your copy today, and then run out and make a little labor history yourself.“Those who cannot remember the past are condemned to repeat it” George Santayana"
   author:
@@ -27142,6 +28056,17 @@ references:
   title-short: Sears
   type: legal_case
   volume: '436'
+
+- id: SeaworldFlorida_DCCir2014
+  authority: D.C. Cir.
+  citation-key: SeaworldFlorida_DCCir2014
+  container-title: F.3d
+  issued:
+    - year: 2014
+  page: '1202'
+  title: Seaworld of Florida v. Perez
+  type: legal_case
+  volume: '748'
 
 - id: Secunda2007
   author:
@@ -27175,7 +28100,7 @@ references:
     mlzsync1:0055{"extrafields":{"publisher":"Sage Publications,
     Inc."}}ields":{"publisher":"Sage Publications, Inc."}}Citation Key:
     segalLaborUnionLawyers1952
-  page: 343-364
+  page: 343–364
   source: JSTOR
   title: 'Labor Union Lawyers: Professional Services of Lawyers to Organized Labor'
   title-short: Labor Union Lawyers
@@ -27205,7 +28130,7 @@ references:
     mlzsync1:0056{"extrafields":{"publisher":"American Bar
     Association"}}elds":{"publisher":"American Bar Association"}}Citation Key:
     segalLaborLawCase1958
-  page: 1056-1061
+  page: 1056–1061
   source: JSTOR
   title: 'Labor Law: The Case for the Union Lawyer'
   title-short: Labor Law
@@ -27285,7 +28210,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/957FCS6R'
-  page: 159-165
+  page: 159–165
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -27379,7 +28304,7 @@ references:
   issued:
     - year: 2008
   note: 'Select: zotero://select/library/items/PE54YA3Q'
-  page: 503-511
+  page: 503–511
   source: JSTOR
   title: >-
     NLRB v. Friendly Cab Company: Entrepreneurialism and the Independent
@@ -27438,7 +28363,7 @@ references:
   issued:
     - year: 2019
   note: 'Select: zotero://select/library/items/ZXP8JCFA'
-  page: 69-93
+  page: 69–93
   source: JSTOR
   title: >-
     Protecting Competition in the American Economy: Merger Control, Tech Titans,
@@ -27461,7 +28386,7 @@ references:
   issue: '2'
   issued:
     - year: 1992
-  page: 164-202
+  page: 164–202
   title: >-
     The End of the Smith Act Era: A Legal and Historical Analysis of Scales v.
     United States on JSTOR
@@ -27491,6 +28416,18 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:374%20U.S.%20398#autoLogin
   volume: '374'
 
+- id: ShermanAntitrustAct1890
+  abstract: C
+  citation-key: ShermanAntitrustAct1890
+  container-title: U.S. Code
+  issued:
+    - year: 1890
+  section: '1'
+  title: Sherman Antitrust Act
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/15/17
+  volume: '15'
+
 - id: Sherwin2001
   accessed:
     - year: 2024
@@ -27505,7 +28442,7 @@ references:
   issue: '1'
   issued:
     - year: 2001
-  page: 124-130
+  page: 124–130
   publisher: Berghahn Books
   source: JSTOR
   title: The Legacy of Rabbi Judah Loew of Prague
@@ -27556,7 +28493,7 @@ references:
   issue: '1'
   issued:
     - year: 2005
-  page: 323-368
+  page: 323–368
   source: Annual Reviews
   title: After Legal Consciousness
   type: article-journal
@@ -27596,7 +28533,7 @@ references:
   issue: '1'
   issued:
     - year: 2019
-  page: 1-18
+  page: 1–18
   source: Annual Reviews
   title: The Every Day Work of Studying the Law in Everyday Life
   type: article-journal
@@ -27615,7 +28552,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/GP7F6C2Y'
-  page: 20-29
+  page: 20–29
   source: JSTOR
   title: World Processor
   type: article-journal
@@ -27637,7 +28574,7 @@ references:
   ISSN: 1350-7532
   issued:
     - year: 2016
-  page: 1-12
+  page: 1–12
   publisher: Modern Humanities Research Association
   source: JSTOR
   title: Jewish Difference in the Austrian Context. Introduction
@@ -27645,6 +28582,17 @@ references:
   URL: >-
     https://www.jstor.org.elon.idm.oclc.org/stable/10.5699/austrianstudies.24.2016.0001
   volume: '24'
+
+- id: SkagerbergBlandinPaperCo_Minn1936
+  authority: Minn.
+  citation-key: SkagerbergBlandinPaperCo_Minn1936
+  container-title: N.W.
+  issued:
+    - year: 1936
+  page: '872'
+  title: Skagerberg v. Blandin Paper Co.
+  type: legal_case
+  volume: '266'
 
 - id: Skapska2023
   abstract: >-
@@ -27678,7 +28626,7 @@ references:
       month: 9
       day: 27
   language: english
-  page: 289-318
+  page: 289–318
   source: polish-sociological-review.eu
   title: The Inconsistent, Everyday Legal Consciousness of Contemporary Poles
   type: article-journal
@@ -27728,7 +28676,7 @@ references:
     - year: 2019
   language: en
   license: © 2019 Cornell Law School and Wiley Periodicals, Inc.
-  page: 318-342
+  page: 318–342
   source: Wiley Online Library
   title: >-
     Characteristics of Lawyers Who Are Subject to Complaints and Misconduct
@@ -27783,7 +28731,7 @@ references:
   note: >-
     mlzsync1:0041{"extrafields":{"publisher":"Routledge"}}_eprint:
     https://doi.org/10.1080/09695958.2020.1751166
-  page: 269-289
+  page: 269–289
   source: Taylor and Francis+NEJM
   title: >-
     Vulnerability to legal misconduct: a profile of problem lawyers in Victoria,
@@ -27906,7 +28854,7 @@ references:
   note: |-
     Select: zotero://select/library/items/8P9GZ5QU
     00491
-  page: 191-219
+  page: 191–219
   title: A Global Community of Courts
   type: article-journal
   volume: '44'
@@ -28004,7 +28952,7 @@ references:
   issued:
     - year: 2008
   note: 'Select: zotero://select/library/items/EHIL533Z'
-  page: 197-213
+  page: 197–213
   source: JSTOR
   title: >-
     Legal Protections and Advocacy for Contingent or "Casual" Workers in the
@@ -28061,6 +29009,17 @@ references:
   type: legislation
   volume: '18'
 
+- id: SmithManheimRemarketingInc_WDNC2019
+  authority: W.D.N.C.
+  citation-key: SmithManheimRemarketingInc_WDNC2019
+  issued:
+    - year: 2019
+      month: 11
+      day: 26
+  number: No. 5:19-CV-00086-KDB-DSC
+  title: Smith v. Manheim Remarketing, Inc.
+  type: legal_case
+
 - id: SmithSafemarineCorp_MDLouisiana2024
   authority: M.D. Louisiana
   citation-key: SmithSafemarineCorp_MDLouisiana2024
@@ -28106,7 +29065,7 @@ references:
   note: >-
     mlzsync1:0049{"extrafields":{"publisher":"Berghahn Journals"}}Section:
     European Judaism
-  page: 49-56
+  page: 49–56
   source: www.berghahnjournals.com
   title: >-
     Importing Divisionism Instead of Diversity: A Personal Account of Jewish
@@ -28157,7 +29116,7 @@ references:
     mlzsync1:0092{"extrafields":{"publisher":"[American Sociological
     Association, Sage Publications, Inc.]"}}ogical Association, Sage
     Publications, Inc.]"}}
-  page: 464-481
+  page: 464–481
   source: JSTOR
   title: Frame Alignment Processes, Micromobilization, and Movement Participation
   type: article-journal
@@ -28191,7 +29150,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/JVMZNPPU'
-  page: 351-358
+  page: 351–358
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -28215,7 +29174,7 @@ references:
   issue: '4'
   issued:
     - year: 1999
-  page: 837-853
+  page: 837–853
   publisher: Johns Hopkins University Press
   source: JSTOR
   title: Kafka as a Jew
@@ -28300,7 +29259,7 @@ references:
   issued:
     - year: 2003
   note: 'Select: zotero://select/library/items/CCN46J84'
-  page: 453-483
+  page: 453–483
   source: JSTOR
   title: >-
     Reconciling the Otherwise Irreconcilable: The Rejection of Collective
@@ -28344,7 +29303,7 @@ references:
   issued:
     - year: 2005
   note: 'Select: zotero://select/library/items/3I78XU4M'
-  page: 83-111
+  page: 83–111
   title: >-
     Professional Identity and Political Commitment Among Lawyers for
     Conservative Causes
@@ -28419,7 +29378,7 @@ references:
   issue: '2'
   issued:
     - year: 2003
-  page: 107-109
+  page: 107–109
   publisher: Springer
   source: JSTOR
   title: Maps of Jewish Settlement in Ukraine in 1648
@@ -28451,7 +29410,7 @@ references:
   issue: '3'
   issued:
     - year: 2013
-  page: 1-72
+  page: 1–72
   source: JSTOR
   title: Did the Khazars Convert to Judaism?
   type: article-journal
@@ -28485,7 +29444,7 @@ references:
       given: Tobias
   issued:
     - year: 2018
-  page: 1-20
+  page: 1–20
   publisher: De Gruyter
   source: JSTOR
   title: Settling down in Eastern Europe
@@ -28534,6 +29493,30 @@ references:
   title: 'The Common Law of the Workplace: The Views of Arbitrators'
   title-short: The Common Law of the Workplace
   type: book
+
+- id: StarbucksCorp_NLRB2023
+  authority: N.L.R.B.
+  citation-key: StarbucksCorp_NLRB2023
+  container-title: N.L.R.B.
+  issued:
+    - year: 2023
+      month: 8
+      day: 9
+  page: No. 122
+  title: Starbucks Corp.
+  type: legal_case
+  volume: '372'
+
+- id: StarbucksCorp_NLRBDivofJudges2023
+  authority: N.L.R.B. Div. of Judges
+  citation-key: StarbucksCorp_NLRBDivofJudges2023
+  issued:
+    - year: 2023
+      month: 9
+      day: 21
+  number: Case 14--CA--295813
+  title: Starbucks Corp.
+  type: legal_case
 
 - id: StarbucksCorporation_NLRB2023
   authority: N.L.R.B.
@@ -28609,6 +29592,26 @@ references:
   type: article-newspaper
   URL: https://www.miamiherald.com/news/state/florida/article312497577.html
 
+- id: StateWalMartStores_NYAppDiv3rdDept1995
+  authority: N.Y. App. Div.
+  citation-key: StateWalMartStores_NYAppDiv3rdDept1995
+  container-title: A.D.2d
+  issued:
+    - year: 1995
+  jurisdiction: NY
+  page: '150'
+  title: State v. Wal-Mart Stores
+  type: legal_case
+  volume: '207'
+
+- id: StatuteLabourers1351
+  citation-key: StatuteLabourers1351
+  container-title: 25 Edw. 3 Stat. 1
+  issued:
+    - year: 1351
+  title: Statute of Labourers
+  type: legislation
+
 - id: Steiner2002
   accessed:
     - year: 2023
@@ -28627,7 +29630,7 @@ references:
       month: 1
       day: 1
   language: en
-  page: 11-23
+  page: 11–23
   publisher: Brill
   source: brill.com
   title: To Speak of Walter Benjamin
@@ -28661,7 +29664,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/ICMPAN4H'
-  page: 370-378
+  page: 370–378
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -28687,13 +29690,25 @@ references:
     - year: 2011
   language: en
   license: Copyright (c) 2015
-  page: 136-142
+  page: 136–142
   source: journals.ub.uni-heidelberg.de
   title: Jewish Cemeteries and Burial Heritage in the Czech Republic
   type: article-journal
   URL: >-
     https://journals.ub.uni-heidelberg.de/index.php/icomoshefte/article/view/20225
   volume: '53'
+
+- id: StengartLovingCareAgency_NJ2010
+  authority: N.J.
+  citation-key: StengartLovingCareAgency_NJ2010
+  container-title: A.2d
+  issued:
+    - year: 2010
+  jurisdiction: NJ
+  page: '650'
+  title: Stengart v. Loving Care Agency
+  type: legal_case
+  volume: '990'
 
 - id: StephensMediaLLC_NLRB2011
   authority: N.L.R.B.
@@ -28709,7 +29724,7 @@ references:
   volume: '356'
 
 - id: StericycleInc_NLRB2023
-  authority: NLRB
+  authority: N.L.R.B.
   citation-key: StericycleInc_NLRB2023
   issued:
     - year: 2023
@@ -28733,7 +29748,7 @@ references:
   issued:
     - year: 1993
   note: 'Select: zotero://select/library/items/SFWTH4AF'
-  page: 383-460
+  page: 383–460
   source: JSTOR
   title: Restraints on Alienation of Human Capital
   type: article-journal
@@ -28766,7 +29781,7 @@ references:
   ISBN: 978-0-8032-4864-9
   issued:
     - year: 2014
-  page: 1-42
+  page: 1–42
   publisher: University of Nebraska Press
   source: JSTOR
   title: 'Introduction: The Theory of Society Talks Back to Its Travesty'
@@ -28801,7 +29816,7 @@ references:
   ISBN: 978-0-8032-4864-9
   issued:
     - year: 2014
-  page: 66-89
+  page: 66–89
   publisher: University of Nebraska Press
   source: JSTOR
   title: >-
@@ -28833,7 +29848,7 @@ references:
   issued:
     - year: 2018
   language: en
-  page: 1467-1486
+  page: 1467–1486
   publisher: SAGE Publications Ltd
   publisher-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
   source: Crossref
@@ -28867,7 +29882,7 @@ references:
   note: >-
     mlzsync1:0064{"extrafields":{"publisher":"Transformative Studies
     Institute"}}Citation Key: Stoetzler2019
-  page: 1-45
+  page: 1–45
   source: EBSCOhost
   title: >-
     Capitalism, the nation and societal corrosion: Notes on 'left-wing
@@ -28930,7 +29945,7 @@ references:
   issued:
     - year: 2006
   note: 'Select: zotero://select/library/items/QN2Y6GCB'
-  page: 251-286
+  page: 251–286
   source: JSTOR
   title: >-
     Legal Protections for Atypical Employees: Employment Law for Workers without
@@ -29164,7 +30179,7 @@ references:
       given: Vivian
   issued:
     - year: 2016
-  page: 178-195
+  page: 178–195
   publisher: De Gruyter
   source: JSTOR
   title: 'Irreducible Pluralities: The Jewish Legacy of Franz Kafka'
@@ -29238,7 +30253,7 @@ references:
   note: >-
     mlzsync1:0064{"extrafields":{"publisher":"Transformative Studies
     Institute"}}Citation Key: Sunshine2019
-  page: 1-67
+  page: 1–67
   source: EBSCOhost
   title: Looking Left at Antisemitism
   type: article-journal
@@ -29339,7 +30354,7 @@ references:
     - year: 2020
       month: 7
       day: 2
-  page: 335-359
+  page: 335–359
   publisher: Routledge
   source: Taylor and Francis+NEJM
   title: >-
@@ -29375,7 +30390,7 @@ references:
       month: 6
       day: 26
   language: eng
-  page: 3-24
+  page: 3–24
   source: brill.com
   title: Was Stalin a Marxist? And If He Was, What Does This Mean for Marxism?
   title-short: Was Stalin a Marxist?
@@ -29490,7 +30505,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/U66LKQ6Z'
-  page: 25-40
+  page: 25–40
   publisher: University of Minnesota Press
   source: JSTOR
   title: Cultural Power and Social Movements
@@ -29551,7 +30566,7 @@ references:
       month: 4
       day: 1
   language: en
-  page: 117-138
+  page: 117–138
   source: Springer Link
   title: >-
     How to Assess Rule-of-Law Violations in a State of Emergency? Towards a
@@ -29649,7 +30664,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/349M5DFV'
-  page: 111-118
+  page: 111–118
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -29704,7 +30719,7 @@ references:
   issued:
     - year: 2019
   note: 'Select: zotero://select/library/items/Q6RJPCUD'
-  page: 677-762
+  page: 677–762
   source: JSTOR
   title: Life After Janus
   type: article-journal
@@ -29754,7 +30769,7 @@ references:
   note: >-
     mlzsync1:0041{"extrafields":{"publisher":"Routledge"}}_eprint:
     https://doi.org/10.1080/09695958.2020.1765782
-  page: 245-267
+  page: 245–267
   source: Taylor and Francis+NEJM
   title: 'Ethical misconduct by new Australian lawyers: prevalence and prevention'
   title-short: Ethical misconduct by new Australian lawyers
@@ -29795,7 +30810,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/JD2FHNLI'
-  page: 163-187
+  page: 163–187
   publisher: University of Minnesota Press
   source: JSTOR
   title: >-
@@ -29926,7 +30941,7 @@ references:
   language: en
   license: © 2017 by the American Anthropological Association
   note: 'Select: zotero://select/library/items/TNEQ7GD5'
-  page: 451-463
+  page: 451–463
   source: Wiley Online Library
   title: >-
     Professional apartheid: The racialization of US law schools after the global
@@ -29970,7 +30985,7 @@ references:
     Amsterdam","publisher":"Springer Nature
     B.V."}}Amsterdam","publisher":"Springer Nature B.V."}}Citation Key:
     tejaniWorkingclassProfessionOpportunism2018
-  page: 131-148
+  page: 131–148
   source: ProQuest
   title: 'A working-class profession: opportunism and diversity in U.S. law'
   title-short: A working-class profession
@@ -30100,6 +31115,19 @@ references:
   URL: >-
     https://www.nytimes.com/2025/10/16/us/politics/justice-department-terrorism-antifa.html
 
+- id: TeslaInc_NLRB2021
+  authority: NLRB
+  citation-key: TeslaInc_NLRB2021
+  container-title: N.L.R.B.
+  issued:
+    - year: 2021
+      month: 3
+      day: 25
+  page: No. 101
+  title: Tesla, Inc.
+  type: legal_case
+  volume: '370'
+
 - id: Teter2020
   abstract: >-
     Brian Schrauger, in The Jerusalem Post, discussed Jews being "slaughtered,"
@@ -30143,7 +31171,7 @@ references:
   note: >-
     mlzsync1:0106{"extrafields":{"place":"Bloomington, United States,
     Bloomington","publisher":"Indiana University Press"}}Citation Key: Teter2020
-  page: 20-32
+  page: 20–32
   source: ProQuest
   title: The Pandemic, Antisemitism, and the Lachrymose Conception of Jewish History
   type: article-journal
@@ -30263,7 +31291,7 @@ references:
   note: |-
     Select: zotero://select/library/items/YZUPU4KR
     Saved from BrowZine: https://thirdiron.com/download
-  page: 93 - 122
+  page: 93–122
   title: Statistical Discrimination and the Rationalization of Stereotypes
   type: article-journal
   URL: https://browzine.com/articles/425697308
@@ -30463,6 +31491,15 @@ references:
   URL: >-
     https://jacobin.com/2023/05/american-labor-movement-decline-salting-union-organizing/
 
+- id: TrappedWorkAct2025
+  citation-key: TrappedWorkAct2025
+  container-title: NY Labor Law, Art. 37
+  issued:
+    - year: 2025
+  section: 1050 et seq.
+  title: Trapped at Work Act
+  type: legislation
+
 - id: Traverso1995
   abstract: >-
     The Jews and Germany debunks a modern myth: that once upon a time there was
@@ -30546,7 +31583,7 @@ references:
     - year: 2022
   language: en
   note: 'Select: zotero://select/library/items/ITYW5XWC'
-  page: 286-308
+  page: 286–308
   source: Wiley Online Library
   title: 'Beyond litigation: Policy work within cause lawyering organizations'
   title-short: Beyond litigation
@@ -30580,6 +31617,17 @@ references:
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
 
+- id: TruittSalisburyBankTrust_2ndCir2022
+  authority: 2nd Cir.
+  citation-key: TruittSalisburyBankTrust_2ndCir2022
+  container-title: F.4th
+  issued:
+    - year: 2022
+  page: '80'
+  title: Truitt v. Salisbury Bank and Trust Co.
+  type: legal_case
+  volume: '52'
+
 - id: TrumpNamesMore_Thrush_TheNewYorkTimes_2025
   abstract: >-
     Top officials, unwilling to fight for the independence of their
@@ -30606,6 +31654,17 @@ references:
   type: article-newspaper
   URL: >-
     https://www.nytimes.com/2025/10/15/us/politics/trump-bondi-patel-blanche-oval-office.html
+
+- id: TSGFinishingLLCBollinger_NCApp2014
+  authority: N.C. Ct. App.
+  citation-key: TSGFinishingLLCBollinger_NCApp2014
+  container-title: S.E.2d
+  issued:
+    - year: 2014
+  page: '870'
+  title: TSG Finishing, LLC v. Bollinger
+  type: legal_case
+  volume: '767'
 
 - id: TuckerAutoMationNorthCarolinaLLC_MDNC2017
   authority: M.D.N.C.
@@ -30741,7 +31800,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/K985WTMD'
-  page: 223-231
+  page: 223–231
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -30764,7 +31823,7 @@ references:
     - year: 2020
   language: eng
   note: 'Select: zotero://select/library/items/6I7TV2SW'
-  page: 339-374
+  page: 339–374
   source: HeinOnline
   title: Disruptive Technology, Work, and Innovation
   type: article-journal
@@ -30819,6 +31878,23 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:86%20Wis.2d%20582#autoLogin
   volume: '86'
 
+- id: USDeptofLabor2024
+  author:
+    - family: U.S. Dept. of Labor
+      given: ''
+  citation-key: USDeptofLabor2024
+  container-title: FR
+  issued:
+    - year: 2024
+      month: 1
+      day: 10
+  section: '1638'
+  title: >-
+    Employee or Independent Contractor Classification Under the Fair Labor
+    Standards Act (Final Rule)
+  type: legislation
+  volume: '89'
+
 - id: UtahAgriculturalOperation2023
   chapter-number: '2023'
   citation-key: UtahAgriculturalOperation2023
@@ -30864,7 +31940,7 @@ references:
   issued:
     - year: 1994
   note: 'Select: zotero://select/library/items/5IM3MQSZ'
-  page: 347-362
+  page: 347–362
   source: JSTOR
   title: >-
     The Racial Basis of Capitalism and the State, and the Impact of the New Deal
@@ -30902,7 +31978,7 @@ references:
   issued:
     - year: 2009
   note: 'Select: zotero://select/library/items/NR7LR65L'
-  page: 589-601
+  page: 589–601
   source: JSTOR
   title: Doe v. Wal-Mart. Revisiting the Scope of Joint Employment
   type: article-journal
@@ -30925,7 +32001,7 @@ references:
   issued:
     - year: 2009
   note: 'Select: zotero://select/library/items/RUW6UPMS'
-  page: 573-601
+  page: 573–601
   source: JSTOR
   title: >-
     The Effects of Institutional and Organizational Characteristics on Work
@@ -31030,7 +32106,7 @@ references:
   issued:
     - year: 2004
   note: 'Select: zotero://select/library/items/I95NXF5D'
-  page: 320-333
+  page: 320–333
   source: JSTOR
   title: >-
     Property as a Social Relation: Rights of "Kindness" and the Social
@@ -31053,7 +32129,7 @@ references:
   container-title: Nomos
   issued:
     - year: 2011
-  page: 3-31
+  page: 3–31
   title: The Rule of Law and the Importance of Procedure
   type: article-journal
   URL: >-
@@ -31108,7 +32184,7 @@ references:
   ISBN: 978-1-316-51213-5
   issued:
     - year: 2021
-  page: 121-136
+  page: 121–136
   publisher: Cambridge University Press
   publisher-place: Cambridge
   source: Cambridge University Press
@@ -31134,7 +32210,7 @@ references:
   issued:
     - year: 1988
   note: 'Select: zotero://select/library/items/LQDSMKI2'
-  page: 1-29
+  page: 1–29
   source: JSTOR
   title: 'American Labor Law: Its Impact on Working-Class Militancy, 1901-1980'
   title-short: American Labor Law
@@ -31171,7 +32247,7 @@ references:
   issued:
     - year: 2007
   note: 'Select: zotero://select/library/items/6MEHDTHQ'
-  page: 769-799
+  page: 769–799
   source: JSTOR
   title: >-
     After Taft-Hartley: The Legal-Institutional Context of U. S. Strike
@@ -31210,6 +32286,28 @@ references:
   URL: >-
     http://nymag.com/intelligencer/2016/02/what-its-like-tobea-salt-for-the-unions.html
 
+- id: WalshEastPennManufacturing_EDPa2021
+  authority: E.D. Pa.
+  citation-key: WalshEastPennManufacturing_EDPa2021
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2021
+  page: '89'
+  title: Walsh v. East Penn Manufacturing, Inc
+  type: legal_case
+  volume: '555'
+
+- id: WangHearstCorp_2ndCir2017
+  authority: 2nd Cir.
+  citation-key: WangHearstCorp_2ndCir2017
+  container-title: F.3d
+  issued:
+    - year: 2017
+  page: '69'
+  title: Wang v. The Hearst Corp.
+  type: legal_case
+  volume: '877'
+
 - id: Warren1923
   accessed:
     - year: 2025
@@ -31226,7 +32324,7 @@ references:
   issue: '1'
   issued:
     - year: 1923
-  page: 49-132
+  page: 49–132
   publisher: The Harvard Law Review Association
   title: New Light on the History of the Federal Judiciary Act of 1789
   type: article-journal
@@ -31346,7 +32444,7 @@ references:
     - literal: 2012-09-0001
   language: en
   note: 'Select: zotero://select/library/items/M5AN53RI'
-  page: 159-176
+  page: 159–176
   source: link.springer.com
   title: >-
     Who is an Employer in the Triangular Employment Relationship? Sorting
@@ -31372,7 +32470,7 @@ references:
     - year: 2022
     - year: 2023
   language: eng
-  page: 551-604
+  page: 551–604
   source: HeinOnline
   title: >-
     The Lawyer's Duty of Tech Competence Post-COVID: Why Georgia Needs a New
@@ -31422,7 +32520,7 @@ references:
       month: 8
       day: 1
   language: en
-  page: 339-374
+  page: 339–374
   source: Springer Link
   title: A Democracy-Friendly Theory of the Rule of Law
   type: article-journal
@@ -31461,7 +32559,7 @@ references:
   issued:
     - year: 1998
   note: 'Select: zotero://select/library/items/P8YZJ5CZ'
-  page: 24-26
+  page: 24–26
   source: JSTOR
   title: 'The Yeshiva Faculty Union: Tales Told out of School'
   title-short: The Yeshiva Faculty Union
@@ -31512,12 +32610,23 @@ references:
   issued:
     - year: 2015
   note: 'Select: zotero://select/library/items/B764QXAK'
-  page: 297-362
+  page: 297–362
   source: JSTOR
   title: Civil Liberties Outside the Courts
   type: article-journal
   URL: www.jstor.org/stable/10.1086/681274
   volume: '2014'
+
+- id: WestCoastHotelCo_US1937
+  authority: U.S.
+  citation-key: WestCoastHotelCo_US1937
+  container-title: U.S.
+  issued:
+    - year: 1937
+  page: '379'
+  title: West Coast Hotel Co. v. Parrish
+  type: legal_case
+  volume: '300'
 
 - id: Western1995
   abstract: >-
@@ -31545,7 +32654,7 @@ references:
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/JZ2AHH44'
-  page: 179-201
+  page: 179–201
   source: JSTOR
   title: >-
     A Comparative Study of Working-Class Disorganization: Union Decline in
@@ -31591,6 +32700,28 @@ references:
   type: legal_case
   volume: '353'
 
+- id: WhichardCHMortgageCompany_NCCtApp2016
+  authority: N.C. Ct. App.
+  citation-key: WhichardCHMortgageCompany_NCCtApp2016
+  container-title: N.C. App.
+  issued:
+    - year: 2016
+  page: '123'
+  title: Whichard v. CH Mortgage Company, Inc.
+  type: legal_case
+  volume: '248'
+
+- id: WhirlpoolCorpMarshall_US1980
+  authority: U.S.
+  citation-key: WhirlpoolCorpMarshall_US1980
+  container-title: U.S.
+  issued:
+    - year: 1980
+  page: '1'
+  title: Whirlpool Corp. v. Marshall
+  type: legal_case
+  volume: '445'
+
 - id: Whistler2024
   author:
     - family: Whistler
@@ -31621,7 +32752,7 @@ references:
   issued:
     - year: 2004
   note: 'Select: zotero://select/library/items/9KZ2Y7RX'
-  page: 275-349
+  page: 275–349
   source: JSTOR
   title: >-
     Mutiny, Shipboard Strikes, and the Supreme Court's Subversion of New Deal
@@ -31701,7 +32832,7 @@ references:
   issue: '5'
   issued:
     - year: 2008
-  page: 545-564
+  page: 545–564
   source: JSTOR
   title: The Organizational Impact of University Labor Unions
   type: article-journal
@@ -31725,7 +32856,7 @@ references:
       month: 7
       day: 12
   language: en
-  page: 63-82
+  page: 63–82
   publisher: Stanford University Press
   title: >-
     A Political-Professional Commitment?: French Workers' and Unions' Lawyers as
@@ -31864,6 +32995,17 @@ references:
   title-short: Learning to Labor
   type: book
 
+- id: WilsonMonarchPaper_5thCir1991
+  authority: 5th Cir.
+  citation-key: WilsonMonarchPaper_5thCir1991
+  container-title: F.2d
+  issued:
+    - year: 1991
+  page: '1138'
+  title: Wilson v. Monarch Paper
+  type: legal_case
+  volume: '939'
+
 - id: Wistrich1990
   accessed:
     - year: 2024
@@ -31878,7 +33020,7 @@ references:
   issue: '1'
   issued:
     - year: 1990
-  page: 20-30
+  page: 20–30
   publisher: Berghahn Books
   source: JSTOR
   title: The German-Jewish Symbiosis in Central Europe
@@ -32005,6 +33147,39 @@ references:
   title: 'Democracy Against Capitalism: Renewing Historical Materialism'
   title-short: Democracy Against Capitalism
   type: book
+
+- id: WoodWard1879
+  authority: Cir. Ct., S.D. Ohio
+  citation-key: WoodWard1879
+  container-title: F.Cas.
+  issued:
+    - year: 1879
+  page: '479'
+  title: Wood v. Ward
+  type: legal_case
+  volume: '30'
+
+- id: WoolleyHoffmannLaRocheInc_NJ1985
+  authority: N.J.
+  citation-key: WoolleyHoffmannLaRocheInc_NJ1985
+  container-title: N.J.
+  issued:
+    - year: 1985
+  page: '284'
+  title: Woolley v. Hoffmann-La Roche, Inc.
+  type: legal_case
+  volume: '99'
+
+- id: WorkmanUnitedParcelService_7thCir2000
+  authority: 7th Cir.
+  citation-key: WorkmanUnitedParcelService_7thCir2000
+  container-title: F.3d
+  issued:
+    - year: 2000
+  page: '998'
+  title: Workman v. United Parcel Service, Inc.
+  type: legal_case
+  volume: '234'
 
 - id: WorldWideVolkswagenCorpWoodson_US1979
   authority: U.S.
@@ -32179,6 +33354,17 @@ references:
   section: 6-3-414
   title: Wyoming Criminal Trespass
   type: legislation
+
+- id: YanowitzLOrealUSAInc_Cal2005
+  authority: Cal.
+  citation-key: YanowitzLOrealUSAInc_Cal2005
+  container-title: P.3d
+  issued:
+    - year: 2005
+  page: '1123'
+  title: Yanowitz v. L'Oreal USA, Inc.
+  type: legal_case
+  volume: '116'
 
 - id: Yates2009
   abstract: >-
@@ -32475,7 +33661,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/UYSDXU46'
-  page: 55-61
+  page: 55–61
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -32500,7 +33686,7 @@ references:
   issued:
     - year: 2023
   language: eng
-  page: 67-70
+  page: 67–70
   source: HeinOnline
   title: >-
     Attorney Disciplinary Cases: The Toll on Lawyer Respondents Disabilities in
@@ -32537,7 +33723,7 @@ references:
   issued:
     - year: 2014
   note: 'Select: zotero://select/library/items/SLVL26M5'
-  page: 343-350
+  page: 343–350
   publisher: NYU Press
   source: JSTOR
   title: >-
@@ -32573,7 +33759,7 @@ references:
   ISBN: 978-0-8032-4864-9
   issued:
     - year: 2014
-  page: 274-295
+  page: 274–295
   publisher: University of Nebraska Press
   source: JSTOR
   title: >-
@@ -32594,6 +33780,26 @@ references:
   title: Zielinski v. Philadelphia Piers
   type: legal_case
   volume: '139'
+
+- id: ZornHillA2BTaxiLLC_SDNY2020
+  authority: S.D.N.Y
+  citation-key: ZornHillA2BTaxiLLC_SDNY2020
+  issued:
+    - year: 2020
+      month: 9
+      day: 17
+  number: 19-CV-1058 & 18-CV-11165
+  title: Zorn-Hill v. A2B Taxi, LLC
+  type: legal_case
+
+- id: zotero-item-7396
+  citation-key: zotero-item-7396
+  container-title: Cal. Labor Code
+  issued:
+    - year: 2025
+  section: '926'
+  title: Contracts Against Public Policy
+  type: legislation
 
 - id: Zuboff2019
   abstract: >-
