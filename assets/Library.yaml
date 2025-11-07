@@ -14599,8 +14599,6 @@ references:
 - id: ImmunityCivilLiability2021
   citation-key: ImmunityCivilLiability2021
   container-title: N.C.G.S.
-  issued:
-    - year: 2021
   section: § 1-539.12
   title: Immunity from Civil Liability for Employers Disclosing Information
   type: legislation
@@ -17742,8 +17740,6 @@ references:
 - id: LawfulUseLawful1992
   citation-key: LawfulUseLawful1992
   container-title: N.C.G.S.
-  issued:
-    - year: 1992
   section: 95-28.2
   title: Lawful Use of Lawful Products
   type: legislation
@@ -21415,8 +21411,6 @@ references:
   page: '261'
   title: Mexican Radio Corp. v. NLRB
   type: legal_case
-  URL: >-
-    https://scholar.google.com/scholar_case?case=6680826468144229535&q=Mexican+Radio+Corp.+v.+NLRB&hl=en&as_sdt=6,34
   volume: '789'
 
 - id: Meyer1996
@@ -22690,8 +22684,6 @@ references:
 - id: NCPropertyProtection2016
   citation-key: NCPropertyProtection2016
   container-title: N.C. Gen. Stat.
-  issued:
-    - year: 2016
   language: en-US
   section: 99A-2
   title: NC Property Protection Act
@@ -33795,8 +33787,6 @@ references:
 - id: zotero-item-7396
   citation-key: zotero-item-7396
   container-title: Cal. Labor Code
-  issued:
-    - year: 2025
   section: '926'
   title: Contracts Against Public Policy
   type: legislation
