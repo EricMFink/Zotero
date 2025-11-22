@@ -1849,6 +1849,33 @@ references:
   URL: http://www.tandfonline.com/doi/full/10.1080/09695958.2016.1229188
   volume: '24'
 
+- id: Bacon2012
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Bacon
+      given: David
+  citation-key: Bacon2012
+  container-title: WorkingUSA
+  DOI: 10.1163/17434580-01503006
+  ISSN: 1089-7011, 1743-4580
+  issue: '3'
+  issued:
+    - year: 2012
+      month: 1
+      day: 5
+  language: en
+  page: 417–426
+  publisher: Brill
+  source: brill.com
+  title: 'Commentary: A Union for Tobacco Workers'
+  title-short: Commentary
+  type: article-journal
+  URL: https://brill.com/view/journals/wusa/15/3/article-p417_6.xml
+  volume: '15'
+
 - id: Baker2014
   author:
     - family: Baker
@@ -2570,6 +2597,48 @@ references:
       given: Kevin
   type: book
 
+- id: Benson2010
+  abstract: >-
+    This article examines the cultural politics of farm labor organizing in
+    North Carolina's tobacco-producing region. Exploring the form and content of
+    a theatrical performance staged in a labor camp by union affiliates, I show
+    how the play builds on strategic cultural stereotypes about growers and
+    workers. The play focuses on the theme of farmworker squalor and questions
+    of who is responsible and who is to blame. While the play clearly has
+    immediate pedagogical and political value for workers and participants, a
+    narrative of good actors and bad actors occludes a full appreciation of the
+    role of multinational capital and government neglect in inducing harm
+    endured by farm labor and constraints faced by growers. This case study
+    permits insights into the relevance of cultural performance in contemporary
+    efforts to invoke ethical concerns and make policy improvements in
+    agriculture and to develop constructive criticism about farm labor
+    organizing and outreach strategies.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Benson
+      given: Peter
+  citation-key: Benson2010
+  container-title: Anthropology of Work Review
+  DOI: 10.1111/j.1548-1417.2010.01042.x
+  ISSN: 1548-1417
+  issue: '2'
+  issued:
+    - year: 2010
+  language: en
+  license: © 2010 by the American Anthropological Association. All rights reserved
+  page: 54–70
+  source: Wiley Online Library
+  title: >-
+    Giants in the Fields: Agribusiness and Farm Labor Politics in the United
+    States
+  title-short: Giants in the Fields
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1548-1417.2010.01042.x
+  volume: '31'
+
 - id: Berenson2008
   author:
     - family: Berenson
@@ -3025,6 +3094,36 @@ references:
   title: 'Response: Legal Ethics in Authoritarian Legality'
   type: article-journal
   volume: '34'
+
+- id: Binford2013
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Binford
+      given: Leigh
+  citation-key: Binford2013
+  container-title: >-
+    Tomorrow We're All Going to the Harvest: Temporary Foreign Worker Programs
+    and Neoliberal Political Economy
+  ISBN: 978-0-292-74381-6
+  issued:
+    - year: 2013
+      month: 1
+      day: 2
+  language: en
+  page: 146–178
+  publisher: University of Texas Press
+  source: www.degruyterbrill.com
+  title: >-
+    CHAPTER 6 The Political Economy of Contract Labor in Neoliberal North
+    America: Cheap Labor and Organized Labor
+  title-short: >-
+    CHAPTER 6 The Political Economy of Contract Labor in Neoliberal North
+    America
+  type: chapter
+  URL: https://www.degruyterbrill.com/document/doi/10.7560/743809-010/html
 
 - id: Bisom-Rapp2003
   author:
@@ -3988,6 +4087,63 @@ references:
   title-short: Organizing to Win
   type: book
 
+- id: Brown2008
+  abstract: >-
+    This paper assesses the possibilities and limits of efforts to incorporate
+    social accountability into California agricultural production through
+    voluntary certification and labeling, in the context neoliberal governance.
+    We argue that, in its contradictory role as market mechanism, regulatory
+    form, and social cause, certification both resists neoliberalization of the
+    agro-food system and reinscribes neoliberal thinking. Unlike more
+    traditional forms of social justice organizing, which have historically
+    sought to alter power relations between labor, capital, and the state, the
+    very notion that production conditions can be regulated through voluntary,
+    third-party monitoring and labeling embraces several key neoliberal
+    principles: the primacy of the market as a mechanism for addressing
+    environmental and social ills, the privatization of regulatory functions
+    previously reserved for the public sphere, and the assertion of the
+    individual rights and responsibilities of citizen–consumers. Interviews with
+    certification actors lead us to conclude that the strategic embrace of
+    certification is driven by contradictory motivations within the movement for
+    social accountability in agriculture, which can only be understood in
+    relation to the confluence of a broader neoliberal political–economic order
+    with California’s particular arrangements of farm labor politics and
+    agro-food activism. Specifically, agro-food consolidation, rollback of
+    protective labor regulation, the evisceration of the farm worker movement,
+    and the conservative agrarianism of the sustainable agriculture movement
+    intersect to circumscribe the realm of possibility and create conditions
+    that undermine farm worker representation in the governance of agricultural
+    labor practices.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Brown
+      given: Sandy
+    - family: Getz
+      given: Christy
+  citation-key: Brown2008
+  collection-title: Rethinking Economy
+  container-title: Geoforum
+  container-title-short: Geoforum
+  DOI: 10.1016/j.geoforum.2007.01.002
+  ISSN: 0016-7185
+  issue: '3'
+  issued:
+    - year: 2008
+      month: 5
+      day: 1
+  page: 1184–1196
+  source: ScienceDirect
+  title: >-
+    Privatizing farm worker justice: Regulating labor through voluntary
+    certification and labeling
+  title-short: Privatizing farm worker justice
+  type: article-journal
+  URL: https://www.sciencedirect.com/science/article/pii/S0016718507000127
+  volume: '39'
+
 - id: BrownHotelRestaurantEmployees_US1984
   authority: U.S.
   citation-key: BrownHotelRestaurantEmployees_US1984
@@ -4522,6 +4678,35 @@ references:
   type: legal_case
   volume: '356'
 
+- id: Cabanillas2006
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Cabanillas
+      given: Francisco
+  citation-key: Cabanillas2006
+  container-title: Latino Studies
+  container-title-short: Lat Stud
+  DOI: 10.1057/palgrave.lst.8600206
+  ISSN: 1476-3435, 1476-3443
+  issue: '3'
+  issued:
+    - year: 2006
+      month: 9
+  language: en
+  license: http://www.springer.com/tdm
+  page: 335–339
+  source: DOI.org (Crossref)
+  title: >-
+    Settling the boycott: Ohio's Farm Labor Organizing Committee brings North
+    Carolina's Mt. Olive Company to the table
+  title-short: Settling the boycott
+  type: article-journal
+  URL: http://link.springer.com/10.1057/palgrave.lst.8600206
+  volume: '4'
+
 - id: CaesarsEntertainmentRioAllSuites_NLRB2015
   authority: N.L.R.B.
   citation-key: CaesarsEntertainmentRioAllSuites_NLRB2015
@@ -4749,6 +4934,60 @@ references:
   URL: >-
     https://read.dukeupress.edu/public-culture/article/31/1/69/137316/Banana-BrokersCommunicative-Labor-Translocal
   volume: '31'
+
+- id: Canfield2023
+  abstract: >-
+    Farmworker movements have often been at the forefront of efforts to use the
+    law to achieve social justice. While past generations of farmworker
+    movements in the United States won gains by innovatively using state law and
+    economic tactics to improve their working conditions, farmworkers today face
+    a shifting landscape of law and governance stemming from the development of
+    global value chains. This Article analyzes how contemporary farmworker
+    movements are exploiting both “legal opportunities” and what we term
+    “governance opportunities”— strategic openings for action arising from the
+    contingent industry structures and private governance of global value
+    chains. We analyze two cases of recent farmworker mobilization: Coalition of
+    Immokalee Workers (CIW) in Florida and Familias Unidas por la Justicia (FUJ)
+    in Washington State. By comparing the strategic decisionmaking and processes
+    through which these movements ultimately found success, we show how legal
+    and governance opportunities are interdependent and interactive. Our
+    analysis suggests that the governance opportunities that social movements
+    pursue are highly dependent on the contingent legal contexts in which they
+    operate. Legal opportunities provide important symbolic and constitutive
+    effects for farmworker movements, but as we show, governance opportunities
+    can provide movements with greater leverage and allow them to expand beyond
+    the limited legal protections provided to farm labor. Examining the tactics
+    of farmworker movements—workers that face multiple forms of marginalization—
+    therefore offers significant insights into the strategic opportunities for
+    social change amidst the changing relationship between public and private
+    governance.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Canfield
+      given: Matthew
+    - family: Dias-Abey
+      given: Manoj
+  citation-key: Canfield2023
+  DOI: 10.2139/ssrn.4554935
+  event-place: Rochester, NY
+  genre: SSRN Scholarly Paper
+  issued:
+    - year: 2023
+      month: 8
+      day: 29
+  language: en
+  number: '4554935'
+  publisher: Social Science Research Network
+  publisher-place: Rochester, NY
+  source: papers.ssrn.com
+  title: >-
+    Mobilizing for Farmworker Rights in an Era of Shifting Legal and Governance
+    Opportunities
+  type: article
+  URL: https://papers.ssrn.com/abstract=4554935
 
 - id: CanPrivateEmployeesBe_Pace_NYStateBarAssociation2023
   accessed:
@@ -5600,6 +5839,34 @@ references:
   URL: https://larc.cardozo.yu.edu/clr/vol11/iss4/3
   volume: '11'
 
+- id: Coffman2022
+  abstract: >-
+    Disclaimer: This summary was generated by AI based on the content of the
+    source document.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Coffman
+      given: Dustin J.
+  citation-key: Coffman2022
+  container-title: Drake Journal of Agricultural Law
+  container-title-short: Drake J. Agric. L.
+  issue: '1'
+  issued:
+    - year: 2022
+  language: eng
+  page: 85–110
+  source: HeinOnline
+  title: >-
+    The Excluded Workers: The NLRA, Farm Laborers, and a Lineage of Exploitation
+    Notes
+  title-short: The Excluded Workers
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/dragl27&i=93
+  volume: '27'
+
 - id: Coglianese2014
   abstract: >-
     Conflicts pervade society, and legal institutions provide means of resolving
@@ -5675,6 +5942,48 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/40342523
   volume: '14'
+
+- id: Coin2010
+  abstract: >-
+    This chapter analyzes the changes introduced in the U.S.-Mexico food-chain,
+    and the ways in which the multinational corporations that control the food
+    industrial complex from seed to shelves have altered the labor dynamics of
+    farm-workers. Over the past two decades, U.S. agribusiness and big
+    retail-chains such as Wal-Mart have reached the top of the food pyramid and
+    have come to control the process of production, supply, and distribution of
+    agricultural inputs and perishable food. My study analyzes the impact of
+    U.S. agribusiness on growers and farm-workers, focusing on how the
+    integration of agriculture into a “free-trade” world economy has affected
+    the working conditions of farm-labor. It explores how migrant farm-workers
+    have responded to their deteriorating labor conditions with a campaign led
+    by the Farm-Labor Organizing Committee (FLOC) that involved innovative
+    cross-border grassroots tactics and strategy. It traces how this campaign
+    culminated in the achievement of the first labor contract for guest-workers
+    in U.S. history. Based on participant observation, interviews with the
+    workers and their union leaders, and the analysis of workers’ grievances, I
+    conclude that such a re-organization of the farm-labor movement at the
+    grassroots level is crucial to the creation of a food-chain that is capable
+    of satisfying the needs of production and consumption for the global
+    population.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Coin
+      given: Francesca
+  citation-key: Coin2010
+  container-title: 'Being Brown in Dixie: Race, Ethicicy, & Latino Immigration in the New South'
+  ISBN: 978-1-935049-28-9
+  issued:
+    - year: 2010
+  language: eng
+  note: 'Accepted: 2015-05-20T08:44:07Z'
+  publisher: USA
+  source: iris.unive.it
+  title: Organizing Labor in a Right-to-Work State
+  type: chapter
+  URL: https://iris.unive.it/handle/10278/30103
 
 - id: ColbornForestGoodEats_DistCourt2020
   authority: Dist. Court
@@ -6155,6 +6464,50 @@ references:
   type: webpage
   URL: >-
     https://www.msnbc.com/deadline-white-house/deadline-legal-blog/bondi-halligan-disbarred-trump-comey-james-ask-jordan-rcna238183
+
+- id: Cozzens2025
+  abstract: >-
+    In 1966, the Johnson administration established the largest poverty law
+    agency in the nation: the California Rural Legal Assistance (CRLA). From the
+    agency’s creation onward, Mexican American farmworkers in rural California
+    directed CRLA staff to significant cases of injustice, many of which
+    involved their communities’ disproportionate exposure to environmental
+    hazards in and around produce fields. CRLA litigation helped lead to bans on
+    dangerous pesticides such as Dichlorodiphenyltrichloroethane (DDT) and
+    1,2-Dibromo-3-chloropropane (DBCP), and it forced growers to be more
+    transparent in their use of agrochemicals. Furthermore, the work of the CRLA
+    helped lead to statewide regulations that required growers to provide
+    portable toilets, washing facilities, and safe drinking water in the fields.
+    Litigation on these matters, which CRLA attorneys later labeled
+    “environmental poverty law,” helped expand the focus of reform from workers
+    in the field to entire farmworker communities and helped lay the legal
+    groundwork for the environmental justice movement in rural California.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Cozzens
+      given: Taylor
+  citation-key: Cozzens2025
+  container-title: Pacific Historical Review
+  container-title-short: Pacific Historical Review
+  DOI: 10.1525/phr.2025.94.1.67
+  ISSN: 0030-8684
+  issue: '1'
+  issued:
+    - year: 2025
+      month: 2
+      day: 1
+  page: 67–97
+  source: Silverchair
+  title: >-
+    Workers in the Field and Lawyers in the Court: Environmental Justice,
+    Poverty Law, and the California Rural Legal Assistance
+  title-short: Workers in the Field and Lawyers in the Court
+  type: article-journal
+  URL: https://doi.org/10.1525/phr.2025.94.1.67
+  volume: '94'
 
 - id: Crain2002
   archive: JSTOR
@@ -11510,6 +11863,28 @@ references:
     https://www.cambridge.org/core/journals/law-and-social-inquiry/article/abs/comparative-sociology-of-law-legal-fields-legal-scholarships-and-social-sciences-in-europe-and-the-united-states/DF6C463AB43D46D6D2CB5DDC3999DDC6#
   volume: '31'
 
+- id: Garcia2007
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: García
+      given: Victor
+  citation-key: Garcia2007
+  container-title: The Journal of Latino - Latin American Studies
+  issue: '4'
+  issued:
+    - year: 2007
+  page: 20–33
+  title: >-
+    Local Challenges to Labor Organizing in Mexican Immigrant Enclaves: Kaolin
+    Mushroom Workers Union in Southeastern Pennsylvania - ProQuest
+  type: article-journal
+  URL: >-
+    https://www.proquest.com/docview/223743171?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals
+  volume: '2'
+
 - id: Garcia2013
   abstract: >-
     Undocumented and authorized immigrant laborers, female workers, workers of
@@ -12270,6 +12645,28 @@ references:
   type: legal_case
   volume: '634'
 
+- id: Gordon2005
+  author:
+    - family: Gordon
+      given: Jennifer
+  citation-key: Gordon2005
+  container-title: University of Pennsylvania Journal of Business Law
+  ISSN: 1945-2934
+  issue: '1'
+  issued:
+    - year: 2005
+      month: 10
+      day: 1
+  page: '1'
+  source: COinS
+  title: >-
+    Law, Lawyers, and Labor: The United Farm Workers' Legal Strategy in the
+    1960s and 1970s and the Role of Law in Union Organizing Today
+  title-short: Law, Lawyers, and Labor
+  type: article-journal
+  URL: https://scholarship.law.upenn.edu/jbl/vol8/iss1/1
+  volume: '8'
+
 - id: Gordon2008
   abstract: >-
     This chapter deals with two broad topics. One is the “legal profession,” the
@@ -12933,6 +13330,62 @@ references:
   type: legal_case
   URL: >-
     https://1.next.westlaw.com/Search/Results.html?query=find:2009%20WL%203837658#autoLogin
+
+- id: Griffith2004
+  author:
+    - family: Griffith,
+      given: David
+  citation-key: Griffith2004
+  container-title: Culture & Agriculture
+  issue: 1/2
+  issued:
+    - year: 2004
+  page: 25–37
+  title: >-
+    Challenges to farmworker organizing in the South: from the Southern Tenant
+    Farmers Union to the Farm Labor Organizing Committee's Mt. Olive campaign.
+  type: article-journal
+  volume: '26'
+
+- id: Griffith2009
+  abstract: >-
+    Farm workers pose special problems for union organizing due to their legal
+    status, their high rates of turnover, their employment through subcontracts,
+    and the temporary and seasonal dimensions of farm work. Yet by organizing
+    farm workers, unions have developed and refined strategies that point to
+    methods of meeting the challenges of contemporary work environments in and
+    out of agriculture. This includes organizing workers across fragmented
+    space, whether transnational or transregional, and organizing workers who
+    are sifted into production regimes via subcontractual relationships. This
+    paper examines two farm worker unions – the Farm Labor Organizing Committee
+    and the Coalition of Immokalee Workers – in terms of their successes and
+    failures with farm labor organizing. It finds that boycotts, the use of fine
+    arts, balancing local and transnational interests, and building
+    relationships based on confianza (trust) are critical to the formation and
+    maintenance of effective union organization.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Griffith
+      given: David
+  citation-key: Griffith2009
+  container-title: Anthropology of Work Review
+  DOI: 10.1111/j.1548-1417.2009.01021.x
+  ISSN: 1548-1417
+  issue: '2'
+  issued:
+    - year: 2009
+  language: en
+  license: © 2009 by the American Anthropological Association. All rights reserved.
+  page: 54–66
+  source: Wiley Online Library
+  title: 'Unions without Borders: Organizing and Enlightening Immigrant Farm Workers'
+  title-short: Unions without Borders
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1548-1417.2009.01021.x
+  volume: '30'
 
 - id: Griffith2015
   author:
@@ -14068,6 +14521,50 @@ references:
   title-short: Images and Narratives
   type: chapter
   URL: https://www.jstor.org.elon.idm.oclc.org/stable/j.ctvbkk4bs.5
+
+- id: Hill2010
+  abstract: >-
+    Agricultural guest workers have organized in recent years, but building
+    viable unions to represent guest workers is challenging. To effectively
+    represent guest workers, a union must address problems throughout the work
+    cycle in both home and host countries. The Farm Labor Organizing Committee
+    (FLOC) is one union that has organized guest-worker units in recent years.
+    FLOC is experimenting with outreach, education, and representation
+    activities in Mexico, the home country for members of their guest-worker
+    bargaining unit. To be successful, FLOC and other guest-worker unions must
+    use the advantages available in each country's legal and political regimes
+    to advance the interests of its members. In Mexico, legal requirements for
+    an employment relationship and restrictions on foreign union officials might
+    stand in the way of union recognition. Neither is insuperable in principle,
+    but they point to the legal and political minefield into which a
+    guest-worker union might fall. Nevertheless, experiments aimed at developing
+    new transnational forms and tools is a worthwhile venture because purely
+    domestic forms of organization will not adequately serve workers in a world
+    where both labor and capital cross borders.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Hill
+      given: Jennifer
+  citation-key: Hill2010
+  container-title: Labor
+  container-title-short: Labor
+  DOI: 10.1215/15476715-2010-026
+  ISSN: 1547-6715
+  issue: '4'
+  issued:
+    - year: 2010
+      month: 12
+      day: 1
+  page: 9–15
+  source: Silverchair
+  title: 'Binational Unions: New Hope for Guest Workers'
+  title-short: Binational Unions
+  type: article-journal
+  URL: https://doi.org/10.1215/15476715-2010-026
+  volume: '7'
 
 - id: HillhavenOaklandNursingEtc_CalCtApp1996
   authority: Cal. Ct. App.
@@ -16638,6 +17135,32 @@ references:
   type: book
   URL: https://www.jstor.org/stable/j.ctvm7bbc1
 
+- id: Kidd2004
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Kidd
+      given: Allison
+  citation-key: Kidd2004
+  container-title: Labor Lawyer
+  container-title-short: Lab. Law.
+  issue: '3'
+  issued:
+    - year: 2004
+    - year: 2005
+  language: eng
+  page: 339–362
+  source: HeinOnline
+  title: >-
+    Union Access to Migrant Farmworkers: The Mt. Olive Pickle Company, Cucumber
+    Farmers, and Farmerworkers
+  title-short: Union Access to Migrant Farmworkers
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/lablaw20&i=357
+  volume: '20'
+
 - id: Kieval1997
   accessed:
     - year: 2024
@@ -17784,6 +18307,17 @@ references:
   section: 95-28.2
   title: Lawful Use of Lawful Products
   type: legislation
+
+- id: LawJournalLibrary_nd
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  citation-key: LawJournalLibrary_nd
+  title: Law Journal Library - HeinOnline.org
+  type: webpage
+  URL: >-
+    https://heinonline.org/HOL/Page?handle=hein.journals/ilr93&div=12&g_sent=1&casa_token=&collection=journals
 
 - id: LawlorLoewe_US1915
   authority: U.S.
@@ -20670,6 +21204,18 @@ references:
   title: McAllister Bros.
   type: legal_case
   volume: '278'
+
+- id: McCallUnemploymentCompBd_PaCommwCt1998
+  authority: Pa. Commw. Ct.
+  citation-key: McCallUnemploymentCompBd_PaCommwCt1998
+  container-title: A. 2d
+  issued:
+    - year: 1998
+  jurisdiction: Pa
+  page: '623'
+  title: McCall v. Unemployment Comp. Bd. of Rev.
+  type: legal_case
+  volume: '717'
 
 - id: McCammon1990
   abstract: >-
@@ -25619,6 +26165,31 @@ references:
   title: History of the Jews in the Bohemian Lands in the 10th-18th Centuries
   type: book
 
+- id: Quandt2009
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  citation-key: Quandt2009
+  DOI: 10.1007/978-0-387-88347-2
+  editor:
+    - family: Quandt
+      given: Sara A.
+    - family: Arcury
+      given: Thomas A.
+  event-place: New York, NY
+  ISBN: 978-0-387-88346-5 978-0-387-88347-2
+  issued:
+    - year: 2009
+  language: en
+  license: http://www.springer.com/tdm
+  publisher: Springer
+  publisher-place: New York, NY
+  source: DOI.org (Crossref)
+  title: Latino Farmworkers in the Eastern United States
+  type: book
+  URL: http://link.springer.com/10.1007/978-0-387-88347-2
+
 - id: QuickenLoansInc_NLRB2019
   authority: NLRB
   citation-key: QuickenLoansInc_NLRB2019
@@ -26561,6 +27132,18 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/26588341
   volume: '72'
+
+- id: SadlerUnemploymentCompensationBoard_PaCommwCt2010
+  authority: Pa. Commw. Ct.
+  citation-key: SadlerUnemploymentCompensationBoard_PaCommwCt2010
+  issued:
+    - year: 2010
+      month: 3
+      day: 24
+  jurisdiction: Pa
+  number: 1800 C.D. 2009
+  title: Sadler v. Unemployment Compensation Board of Review
+  type: legal_case
 
 - id: Saez2019
   abstract: >-
@@ -28237,6 +28820,26 @@ references:
   title-short: Lawyers Crossing Lines
   type: book
 
+- id: Selznick2013
+  author:
+    - family: Selznick
+      given: Loren
+  citation-key: Selznick2013
+  container-title: Oklahoma Law Review
+  ISSN: 2473-9111
+  issue: '4'
+  issued:
+    - year: 2013
+      month: 1
+      day: 1
+  page: '573'
+  source: COinS
+  title: 'Walking the Executive Speech Tightrope: From Starbucks to Chick-Fil-A'
+  title-short: Walking the Executive Speech Tightrope
+  type: article-journal
+  URL: https://digitalcommons.law.ou.edu/olr/vol65/iss4/1
+  volume: '65'
+
 - id: Seron2014
   abstract: >-
     This article reports findings from a randomized experiment to test the
@@ -28431,6 +29034,27 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/26732322
   volume: '33'
+
+- id: Shea2003
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Shea
+      given: Anne
+  citation-key: Shea2003
+  container-title: Multi-Ethnic Literatures and the Idea of Social Justice
+  issue: '1'
+  issued:
+    - year: 2003
+  page: 123–144
+  title: >-
+    "Don't Let Them Make You Feel You Did a Crime": Immigration Law, Labor
+    Rights, and Farmworker Testimony
+  type: article-journal
+  URL: https://www.jstor.org/stable/3595249?seq=1
+  volume: '28'
 
 - id: Sheft1992
   accessed:
@@ -28997,6 +29621,40 @@ references:
   title: 'Made in the USA: The Rise and Retreat of American Manufacturing'
   title-short: Made in the USA
   type: book
+
+- id: Smith-Nonini2009
+  abstract: >-
+    In this article, I summarize my experience conducting “an experiment in
+    public anthropology” involving ethnographic fieldwork on a labor union
+    struggle from the standpoint of volunteer work with community advocates for
+    farm labor rights in North Carolina between 1998 and 2004. Theoretical
+    rationales for participatory action research, issues of access, pros and
+    cons from an information-gathering perspective, and ethical perspectives are
+    discussed.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Smith-Nonini
+      given: Sandy
+  citation-key: Smith-Nonini2009
+  container-title: NAPA Bulletin
+  DOI: 10.1111/j.1556-4797.2009.01022.x
+  ISSN: 1556-4797
+  issue: '1'
+  issued:
+    - year: 2009
+  language: en
+  license: © 2009 by the American Anthropological Association
+  page: 114–128
+  source: Wiley Online Library
+  title: >-
+    Inventing a Public Anthropology with Latino Farm Labor Organizers in North
+    Carolina
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1556-4797.2009.01022.x
+  volume: '31'
 
 - id: Smith2008
   author:
@@ -32914,6 +33572,59 @@ references:
   URL: www.jstor.org/stable/40269087
   volume: '56'
 
+- id: WiegandMotivaEnterprisesLLC_DistCourt2003
+  authority: Dist. Court
+  citation-key: WiegandMotivaEnterprisesLLC_DistCourt2003
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2003
+      month: 12
+      day: 16
+  jurisdiction: D. New Jersey
+  page: '465'
+  title: Wiegand v. Motiva Enterprises, LLC
+  type: legal_case
+  volume: '295'
+
+- id: Wiggins2020
+  abstract: >-
+    This chapter focuses on the strategies that organizations working with
+    farmworkers in the eastern United States (US) use to address systemic
+    barriers to social justice faced by farmworkers, including organizing,
+    advocacy, and service. It highlights national and state organizations that
+    are involved in these efforts, paying particular attention to the role of
+    workers, women, and allies in working for farmworker justice. It will
+    contextualize the current situation faced by farmworkers with a historical
+    perspective as to how the US got to where it is today and offer concrete
+    ideas for where we go next.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Wiggins
+      given: Melinda F.
+  citation-key: Wiggins2020
+  container-title: 'Latinx Farmworkers in the Eastern United States: Health, Safety, and Justice'
+  DOI: 10.1007/978-3-030-36643-8_9
+  editor:
+    - family: Arcury
+      given: Thomas A.
+    - family: Quandt
+      given: Sara A.
+  event-place: Cham
+  ISBN: 978-3-030-36643-8
+  issued:
+    - year: 2020
+  language: en
+  page: 227–251
+  publisher: Springer International Publishing
+  publisher-place: Cham
+  source: Springer Link
+  title: Farm Labor and the Struggle for Justice in the Eastern United States
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-030-36643-8_9
+
 - id: Willemez2005
   accessed:
     - year: 2024
@@ -33282,9 +33993,8 @@ references:
     - year: 1991
   page: '223'
   title: >-
-    CONSTITUTIONAL LAW—FIRST AMENDMENT—FREE EXERCISE CLAUSE—EXPRESSION OF
-    CULTURAL AND RELIGIOUS HERITAGE IS NOT GROUNDS FOR DENIAL OF UNEMPLOYMENT
-    COMPENSATION | Secondary Sources | National | Westlaw Precision
+    Expression of Cultural and Religious Heritage is Not Grounds for Denial of
+    Unemployment Compensation
   type: article-journal
   URL: >-
     https://1.next.westlaw.com/Document/Ifbfdfd815a2811dbbe1cf2d29fe2afe6/View/FullText.html?navigationPath=%2FRelatedInfo%2Fv1%2FkcCitingReferences%2Fnav%3FdocGuid%3DI86291a5dff1f11d9b386b232635db992%26midlineIndex%3D4%26warningFlag%3DN%26planIcons%3DNO%26skipOutOfPlan%3DNO%26sort%3Ddepthdesc%26filterGuid%3Dhe2c946cad0287a6a5f92b2d2c89e8854%26category%3DkcCitingReferences%26origRank%3D5%26origDocSource%3D6fce665600934f05ba735af6751edeb1&listSource=RelatedInfo&list=CitingReferences&rank=4&docFamilyGuid=I35901d8765db11d8a524d4816c3e3768&overruleRisk=true&ppcid=41efaf201cff43ff957865bcc4f6cc64&originationContext=citingreferences&transitionType=CitingReferencesItem&contextData=%28sc.Keycite%29
@@ -33855,6 +34565,42 @@ references:
   title: Zielinski v. Philadelphia Piers
   type: legal_case
   volume: '139'
+
+- id: Zirakzadeh2009
+  abstract: >-
+    Among the many farm-worker organizations that appeared in the wake of the
+    achievements of the United Farm Workers (UFW), the Farm Labor Organizing
+    Committee (FLOC) stands out because of its remarkable longevity and
+    effectiveness. Founded in 1967, the FLOC attempted to organize migrant farm
+    workers in the Midwest. Farms in Ohio, Indiana, and Michigan relied on
+    seasonal farmhands to harvest crops that then were purchased by large
+    processing companies, such as Heinz USA, Vlasic Foods, and the Campbell Soup
+    Company. Most farmhands were Mexican Americans and legal Mexican immigrants
+    who over a year traveled from southern states, especially Florida and Texas,
+    to the Midwest and then back to the South. In the 1980s government
+    investigators in the Midwest reported that migrant farm workers were often
+    housed in rooms without heating and indoor plumbing, and were provided with
+    water contaminated by pesticide runoff.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 21
+  author:
+    - family: Zirakzadeh
+      given: Cyrus Ernesto
+  citation-key: Zirakzadeh2009
+  container-title: The International Encyclopedia of Revolution and Protest
+  DOI: 10.1002/9781405198073.wbierp0541
+  ISBN: 978-1-4051-9807-3
+  issued:
+    - year: 2009
+  language: en
+  page: 1–2
+  publisher: John Wiley & Sons, Ltd
+  source: Wiley Online Library
+  title: Farm Labor Organizing Committee
+  type: chapter
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405198073.wbierp0541
 
 - id: ZornHillA2BTaxiLLC_SDNY2020
   authority: S.D.N.Y
