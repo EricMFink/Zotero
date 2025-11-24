@@ -6119,7 +6119,6 @@ references:
   container-title: Doc. His. of Am. Ind. Soc.
   issued:
     - year: 1806
-  note: (2d ed. Commons 1910)
   page: '59'
   title: Commonwealth v. Pullis
   type: legal_case
@@ -6267,11 +6266,25 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.8
 
+- id: ContractsPublicPolicy_nd
+  citation-key: ContractsPublicPolicy_nd
+  container-title: Cal. Labor Code
+  section: '926'
+  title: Contracts Against Public Policy (Employee Training Debts)
+  type: legislation
+
 - id: ContractsRestraintTrade_nd
   citation-key: ContractsRestraintTrade_nd
   container-title: Cal. Bus. & Prof. Code
   section: 16600 et seq.
-  title: Contracts in Restraint of Trade
+  title: Contracts in Restraint of Trade (Noncompetition Agreements)
+  type: legislation
+
+- id: ContractsRestraintTrade_nda
+  citation-key: ContractsRestraintTrade_nda
+  container-title: Cal. Bus. & Prof. Code
+  section: '16608'
+  title: Contracts in Restraint of Trade (Employee Training Debts)
   type: legislation
 
 - id: Cooley2019
@@ -9451,6 +9464,17 @@ references:
   title: Farmer v. United Brotherhood of Carpenters & Joiners, Local 25
   type: legal_case
   volume: '430'
+
+- id: FarwellBostonWorcesterRailroad_Mass1842
+  authority: Mass.
+  citation-key: FarwellBostonWorcesterRailroad_Mass1842
+  container-title: Mass.
+  issued:
+    - year: 1842
+  page: '42'
+  title: Farwell v. Boston & Worcester Railroad Co
+  type: legal_case
+  volume: '45'
 
 - id: FBISpyChilds_DailyTarHeel_1955
   abstract: >-
@@ -12757,14 +12781,14 @@ references:
   URL: https://browzine.com/articles/385797747
   volume: '74'
 
-- id: GouldIV2001
+- id: Gould2001
   abstract: >-
     A personally revealing, politically astute memoir by a former Chairman of
     the National Labor Relations Board.
   author:
-    - family: Gould IV
+    - family: Gould
       given: William B.
-  citation-key: GouldIV2001
+  citation-key: Gould2001
   event-place: Cambridge, Mass
   ISBN: 978-0-262-57155-5
   issued:
@@ -12779,11 +12803,11 @@ references:
   title-short: Labored Relations
   type: book
 
-- id: GouldIV2004
+- id: Gould2004
   author:
-    - family: Gould IV
+    - family: Gould
       given: William B.
-  citation-key: GouldIV2004
+  citation-key: Gould2004
   edition: 4th
   ISBN: 978-1-108-59750-0
   issued:
@@ -13948,6 +13972,21 @@ references:
   title: 'The Other America: Poverty in the United States'
   title-short: The Other America
   type: book
+
+- id: Harris2021
+  author:
+    - family: Harris
+      given: Jonathan F
+  citation-key: Harris2021
+  container-title: Alabama Law Review
+  issued:
+    - year: 2021
+  language: en
+  page: '723'
+  source: Zotero
+  title: Unconscionability in Contracting for Worker Training
+  type: article-journal
+  volume: '72'
 
 - id: Harvey2007
   author:
@@ -18305,7 +18344,7 @@ references:
   citation-key: LawfulUseLawful1992
   container-title: N.C.G.S.
   section: 95-28.2
-  title: Lawful Use of Lawful Products
+  title: Lawful Use of Lawful Products during Nonworking Hours
   type: legislation
 
 - id: LawJournalLibrary_nd
@@ -18931,13 +18970,11 @@ references:
   license: >-
     Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
     License (CC-BY-NC-SA)
-  note: 'Select: zotero://select/library/items/DH3WM96G'
   page: 51–97
   source: Zotero
-  title: >-
-    “Just When I Thought I Was Out . . . .”: Post-Employment Repayment
-    Obligations
+  title: '“Just When I Thought I Was Out ....”: Post-Employment Repayment Obligations'
   type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2018.pdf
   volume: '25'
 
 - id: Lichtenstein1997
@@ -20628,6 +20665,16 @@ references:
     - family: Nicolaus
       given: Martin
   type: book
+
+- id: MassachusettsNoncompetitionAgreement_nd
+  accessed:
+    - year: 2025
+      month: 11
+      day: 22
+  citation-key: MassachusettsNoncompetitionAgreement_nd
+  container-title: General Law - Part I, Title XXI, Chapter 149, Section 24L
+  title: Massachusetts Noncompetition Agreement Act
+  type: legislation
 
 - id: Matheny2004
   author:
@@ -23265,7 +23312,7 @@ references:
   citation-key: NCEmploymentSecurity_nd
   container-title: N.C.G.S.
   section: 96-1 et seq.
-  title: NC Employment Security Act
+  title: North Carolina Employment Security Act
   type: legislation
 
 - id: NCPropertyProtection2016
@@ -23273,14 +23320,14 @@ references:
   container-title: N.C. Gen. Stat.
   language: en-US
   section: 99A-2
-  title: NC Property Protection Act
+  title: North Carolina Property Protection Act
   type: legislation
 
 - id: NCRetaliatoryEmployment_nd
   citation-key: NCRetaliatoryEmployment_nd
   container-title: N.C.G.S.
   section: 95-240 et seq.
-  title: NC Retaliatory Employment Discrimination Act
+  title: North Carolina Retaliatory Employment Discrimination Act
   type: legislation
 
 - id: NCStateBarEthridge_NCApp2008
@@ -23315,14 +23362,14 @@ references:
   citation-key: NCWageHour_nd
   container-title: N.C.G.S.
   section: 95-25.1 et seq.
-  title: NC Wage & Hour Act
+  title: North Carolina Wage & Hour Act
   type: legislation
 
 - id: NCWorkersCompensation_nd
   citation-key: NCWorkersCompensation_nd
   container-title: N.C.G.S.
   section: 97-1 et seq.
-  title: NC Workers' Compensation Act
+  title: North Carolina Workers' Compensation Act
   type: legislation
 
 - id: NDAgGag1991
@@ -30046,6 +30093,17 @@ references:
   type: book
   URL: https://press.uchicago.edu/ucp/books/book/chicago/L/bo5928619.html
 
+- id: SpecialtyProduce_NLRB2019
+  authority: N.L.R.B.
+  citation-key: SpecialtyProduce_NLRB2019
+  container-title: N.L.R.B.
+  issued:
+    - year: 2019
+  page: '93'
+  title: L.A. Specialty Produce
+  type: legal_case
+  volume: '368'
+
 - id: Spitzer2000
   abstract: >-
     Politics and Constitutionalism presents a collection of eight original
@@ -30866,6 +30924,19 @@ references:
   source: Google Books
   title: Bringing the State Back In
   type: book
+
+- id: StudentBorrowerProtectionCenter2022
+  author:
+    - family: Student Borrower Protection Center
+      given: ''
+  citation-key: StudentBorrowerProtectionCenter2022
+  issued:
+    - year: 2022
+      month: 7
+  title: Trapped at Work
+  type: report
+  URL: >-
+    https://protectborrowers.org/wp-content/uploads/2022/07/Trapped-at-Work_Final.pdf
 
 - id: Suchoff2016
   abstract: >-
@@ -34612,13 +34683,6 @@ references:
   number: No. 19-CV-1058 & 18-CV-11165
   title: Zorn-Hill v. A2B Taxi, LLC
   type: legal_case
-
-- id: zotero-item-7396
-  citation-key: zotero-item-7396
-  container-title: Cal. Labor Code
-  section: '926'
-  title: Contracts Against Public Policy
-  type: legislation
 
 - id: Zuboff2019
   abstract: >-
