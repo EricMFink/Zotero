@@ -7602,6 +7602,19 @@ references:
   title: Discrimination Against the Engagement in Certain Activities
   type: legislation
 
+- id: DiversityCitizenship_nd
+  accessed:
+    - year: 2025
+      month: 11
+      day: 24
+  citation-key: DiversityCitizenship_nd
+  container-title: U.S.C.
+  language: en
+  section: '1332'
+  title: Diversity of Citizenship
+  type: legislation
+  volume: '28'
+
 - id: Dlugacz2011
   author:
     - family: Dlugacz
@@ -8845,6 +8858,18 @@ references:
     Doctrines
   type: report
 
+- id: EganAWCompaniesInc_NDIll2024
+  authority: N.D. Ill.
+  citation-key: EganAWCompaniesInc_NDIll2024
+  issued:
+    - year: 2024
+      month: 10
+      day: 3
+  jurisdiction: ND Illinois
+  number: Case No. 23 C 1148
+  title: Egan v. A.W. Companies, Inc.
+  type: legal_case
+
 - id: EhlingMonmouthOceanHospService_DNJ2013
   authority: D.N.J.
   citation-key: EhlingMonmouthOceanHospService_DNJ2013
@@ -9504,6 +9529,14 @@ references:
   type: article-newspaper
   URL: https://newspapers.digitalnc.org/lccn/sn92073228/1955-04-20/ed-1/seq-1/
 
+- id: FederalQuestion_nd
+  citation-key: FederalQuestion_nd
+  container-title: U.S.C.
+  section: '1331'
+  title: Federal Question
+  type: legislation
+  volume: '28'
+
 - id: FederalSecurityInc_NLRB2012
   authority: N.L.R.B.
   citation-key: FederalSecurityInc_NLRB2012
@@ -10145,6 +10178,7 @@ references:
     Analysis of the Rise and Diffusion of Law and Economics
   title-short: Post-Realism, or the Jurisprudential Logic of Late Capitalism
   type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2004.pdf
   volume: '55'
 
 - id: Fink2008
@@ -10168,6 +10202,7 @@ references:
     Politics of Appellate Review in Asylum Cases
   title-short: Liars and Terrorists and Judges, Oh My
   type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2008.pdf
   volume: '83'
 
 - id: Fink2010
@@ -10184,6 +10219,7 @@ references:
     Law School & The Web of Group Affiliation: Socializing, Socialization, and
     Social Network Site Use Among Law Students
   type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2010.pdf
   volume: '27'
 
 - id: Fink2011
@@ -10205,6 +10241,7 @@ references:
     The Virtual Construction of Legality: 'Griefing' and Normative Order in
     Second Life
   type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2011.pdf
   volume: '21'
 
 - id: Fink2013
@@ -10225,9 +10262,26 @@ references:
     Unethical
   title-short: No Money, Mo' Problems
   type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2013.pdf
   volume: '47'
 
 - id: Fink2014
+  author:
+    - family: Fink
+      given: Eric M
+  citation-key: Fink2014
+  container-title: Nevada Law Journal
+  issued:
+    - year: 2014
+  language: en
+  page: '444'
+  source: Zotero
+  title: 'Sewer Syndicalism: Worker Self-Management in Public Services'
+  type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2014.pdf
+  volume: '14'
+
+- id: Fink2014a
   accessed:
     - year: 2022
       month: 1
@@ -10237,7 +10291,7 @@ references:
       given: Eric M.
     - family: Zullo
       given: Roland
-  citation-key: Fink2014
+  citation-key: Fink2014a
   issued:
     - year: 2014
   language: en
@@ -10245,6 +10299,7 @@ references:
   title: 'Federal Student Loan Servicing: Contract Problems and Public Solutions'
   title-short: Federal Student Loan Servicing
   type: document
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2014a.pdf
 
 - id: Fink2019
   author:
@@ -10258,6 +10313,7 @@ references:
   page: 953–973
   title: Union Organizing & Collective Bargaining for Incarcerated Workers
   type: article-journal
+  URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2016.pdf
   volume: '52'
 
 - id: Finkin2007
@@ -14210,6 +14266,34 @@ references:
   title-short: Competing Institutions
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.37
+
+- id: Heine2025
+  abstract: >-
+    This Article highlights the persistence of post-Jones labor and political
+    organizing by people in prison and considers how this history informs
+    potential reforms supporting incarcerated workers’ organizing.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 24
+  author:
+    - family: Heine
+      given: Clare
+  citation-key: Heine2025
+  container-title: 'The Harbinger: N.Y.U. Review of Law & Social Change'
+  issued:
+    - year: 2025
+      month: 10
+      day: 8
+  language: en-US
+  page: '1'
+  title: >-
+    Lessons From the Post-Jones Persistence of Imprisoned People’s Labor
+    Organizing
+  type: article-journal
+  URL: >-
+    https://socialchangenyu.com/harbinger/lessons-from-the-post-jones-persistence-of-imprisoned-peoples-labor-organizing/
+  volume: '52'
 
 - id: Heinz1982
   abstract: >-
@@ -31204,6 +31288,19 @@ references:
   URL: https://brill.com/view/journals/hima/31/2/article-p3_1.xml
   volume: '31'
 
+- id: SupplementalJurisdiction_nd
+  accessed:
+    - year: 2025
+      month: 11
+      day: 24
+  citation-key: SupplementalJurisdiction_nd
+  container-title: U.S.C.
+  language: en
+  section: '1367'
+  title: Supplemental Jurisdiction
+  type: legislation
+  volume: '28'
+
 - id: SuspectFatalStabbingUkrainian_BBC2025
   abstract: >-
     The murder of Ukrainian refugee Iryna Zarutska on a train prompted an outcry
@@ -32837,6 +32934,18 @@ references:
   type: post-weblog
   URL: >-
     https://www.vice.com/en/article/7xap54/north-carolinas-ag-gag-law-might-be-the-worst-in-the-nation
+
+- id: VinluanDoyle_NYAppDiv2009
+  authority: N.Y. App. Div.
+  citation-key: VinluanDoyle_NYAppDiv2009
+  container-title: N.Y.S.2d
+  issued:
+    - year: 2009
+  jurisdiction: N.Y. App. Div.
+  page: '72'
+  title: Vinluan v. Doyle
+  type: legal_case
+  volume: '873'
 
 - id: Wacks2021
   abstract: >-
