@@ -101,6 +101,13 @@ references:
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2022-formal-ethics-opinion-1/
 
+- id: 231039AmesOhio_nd
+  citation-key: 231039AmesOhio_nd
+  language: en
+  source: Zotero
+  title: 23-1039 Ames v. Ohio Dept. of Youth Servs. (06/05/2025)
+  type: article-journal
+
 - id: 98FEO16_NCStateBar1999
   accessed:
     - year: 2024
@@ -147,28 +154,6 @@ references:
   publisher: University of Chicago Press
   publisher-place: Chicago
   title: 'The System of Professions: An Essay on the Division of Expert Labor'
-  type: book
-
-- id: Abel1989
-  abstract: >-
-    Contains comparative and theoretical essays on the legal profession around
-    the world.
-  author:
-    - family: Abel
-      given: Richard L.
-    - family: Lewis
-      given: Philip
-  citation-key: Abel1989
-  ISBN: 978-1-58798-266-8
-  issued:
-    - year: 1989
-  language: en
-  note: 'Select: zotero://select/library/items/ZMGD9JTZ'
-  number-of-pages: '580'
-  publisher: Beard Books
-  source: Google Books
-  title: 'Lawyers in Society: Comparative Theories'
-  title-short: Lawyers in Society
   type: book
 
 - id: Abel1991
@@ -517,6 +502,28 @@ references:
   title-short: Law's Wars
   type: book
 
+- id: abelLawyersSocietyComparative1989
+  abstract: >-
+    Contains comparative and theoretical essays on the legal profession around
+    the world.
+  author:
+    - family: Abel
+      given: Richard L.
+    - family: Lewis
+      given: Philip
+  citation-key: abelLawyersSocietyComparative1989
+  ISBN: 978-1-58798-266-8
+  issued:
+    - year: 1989
+  language: en
+  note: 'Select: zotero://select/library/items/ZMGD9JTZ'
+  number-of-pages: '580'
+  publisher: Beard Books
+  source: Google Books
+  title: 'Lawyers in Society: Comparative Theories'
+  title-short: Lawyers in Society
+  type: book
+
 - id: Abt1993
   author:
     - family: Abt
@@ -633,7 +640,20 @@ references:
   type: legal_case
   volume: '883'
 
-- id: Ahlering2014
+- id: AgeDiscriminationEmploymentAct_USEqualEmploymentOpportunityCommission_nd
+  abstract: Age Discrimination in Employment Act of 1967 (ADEA)
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: AgeDiscriminationEmploymentAct_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: Age Discrimination in Employment Act of 1967
+  type: webpage
+  URL: https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967
+
+- id: ahleringLaborRegulationCorporate2014
   abstract: >-
     The legal origin hypothesis claims that diversity across national systems of
     production can be explained by the influence of common law and civil law
@@ -651,7 +671,7 @@ references:
       given: Beth
     - family: Deakin
       given: Simon
-  citation-key: Ahlering2014
+  citation-key: ahleringLaborRegulationCorporate2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -1036,6 +1056,19 @@ references:
   title: On the Necessity and Impossibility of Being a Jew
   type: article-journal
   URL: https://www.jstor.org.elon.idm.oclc.org/stable/487703
+
+- id: AmesOhioDepartmentYouth_US2025
+  authority: U.S.
+  citation-key: AmesOhioDepartmentYouth_US2025
+  container-title: U.S.
+  issued:
+    - year: 2025
+      month: 6
+      day: 5
+  page: '303'
+  title: Ames v. Ohio Department of Youth Services
+  type: legal_case
+  volume: '605'
 
 - id: Anderson1979
   abstract: >-
@@ -1575,7 +1608,7 @@ references:
     - year: 2022
   jurisdiction: WD North Carolina
   page: '602'
-  title: Arku v. Wells Fargo Bank, Nat. Association
+  title: Arku v. Wells Fargo Bank
   type: legal_case
   volume: '621'
 
@@ -2266,6 +2299,18 @@ references:
   type: article-journal
   volume: '40'
 
+- id: BautistaPRGramercySquare_SDNY2022
+  authority: S.D.N.Y
+  citation-key: BautistaPRGramercySquare_SDNY2022
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2022
+  jurisdiction: SD New York
+  page: '411'
+  title: Bautista v. PR Gramercy Square Condominium
+  type: legal_case
+  volume: '642'
+
 - id: Baxandall1995
   abstract: >-
     “I am stunned by the scope and breadth of this splendid new collection of
@@ -2379,7 +2424,7 @@ references:
   title-short: The Monied Metropolis
   type: book
 
-- id: Beckett2014
+- id: beckettChallengingMedicineLaw2014
   abstract: >-
     Much recent sociolegal scholarship focuses on hegemony and resistance to it.
     In this scholarship, hegemony is broadly understood as power that maintains
@@ -2396,7 +2441,7 @@ references:
       given: Katherine
     - family: Hoffman
       given: Bruce
-  citation-key: Beckett2014
+  citation-key: beckettChallengingMedicineLaw2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -2506,6 +2551,107 @@ references:
     Silent Covenants: Brown v. Board of Education and the Unfulfilled Hopes for
     Racial Reform
   title-short: Silent Covenants
+  type: book
+
+- id: Belton2014
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  author:
+    - family: Belton
+      given: Robert
+    - family: Wasby
+      given: Stephen L.
+  citation-key: Belton2014
+  container-title: Journal of Supreme Court History
+  container-title-short: Journal of Supreme Court History
+  DOI: 10.1353/sch.2014.0006
+  ISSN: 1540-5818
+  issue: '3'
+  issued:
+    - year: 2014
+  language: en
+  page: 425–443
+  source: DOI.org (Crossref)
+  title: How Griggs Came To Be
+  type: article-journal
+  URL: https://muse.jhu.edu/article/875392
+  volume: '39'
+
+- id: Belton2014a
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  author:
+    - family: Belton
+      given: Robert
+    - family: Wasby
+      given: Stephen L.
+  citation-key: Belton2014a
+  container-title: Journal of Supreme Court History
+  container-title-short: Journal of Supreme Court History
+  issue: '3'
+  issued:
+    - year: 2014
+  language: en
+  page: 425–443
+  title: How Griggs Came To Be
+  type: article-journal
+  URL: https://www.emfink.net/EmploymentLaw/exhibits/Belton2014a.pdf
+  volume: '39'
+
+- id: Belton2014b
+  abstract: >-
+    On March 8, 1971, the Supreme Court of the United States decided a case,
+    Griggs v. Duke Power Co., brought by thirteen African American employees who
+    worked as common laborers and janitors at one of Duke Power's facilities.
+    The decision, in plaintiffs' favor, marked a profound and enduring challenge
+    to the dominance of white males in the workplace. In this book, Robert
+    Belton, who represented the plaintiffs for the NAACP Legal Defense Fund and
+    argued the case in the lower courts, gives a firsthand account of legal
+    history in the making—and a behind-the-scenes look at the highly complex
+    process of putting civil rights law to work.Title VII of the Civil Rights
+    Act of 1964 eliminated much blatant discrimination, but after its enactment
+    and before Griggs, businesses held the view that a commitment to equality
+    required only eliminating policies and practices that were intentionally
+    discriminator—the "disparate treatment" test.In Griggs v. Duke Power Co.,
+    the Supreme Court ruled that a "disparate impact" test could also apply—that
+    the 1964 Civil Rights Act extended to practices with a discriminatory
+    effect. In tracing the impact of the Griggs ruling on employment practices,
+    this book documents the birth, maturation, death, and rebirth of the
+    disparate impact theory, including its erosion by later Supreme Court
+    decisions and its restoration by congressional action in the Civil Rights
+    Act of 1991.Belton conducts us through this historic case from the original
+    lawsuit to the Supreme Court decision in Griggs and beyond as he traces the
+    post-Griggs developments in the lower courts, the Supreme Court, and
+    Congress; he provides informed insights into both litigators' and judges'
+    perspectives and decision-making. His work situates the case in its legal,
+    social, and historical contexts and explores the relationship between public
+    and private enforcement of the law, with a focus on the Legal Defense Fund's
+    litigation campaign against employment discrimination. A detailed
+    examination of the development of legal principles under Title VII, this
+    book tells the story of this seminal decision on equal employment law and
+    offers an unprecedented close-up view of personal conviction, legal
+    strategy, and historical forces combining to effect dramatic social change.
+  author:
+    - family: Belton
+      given: Robert
+  citation-key: Belton2014b
+  editor:
+    - family: Wasby
+      given: Stephen L.
+  event-place: Lawrence, Kansas
+  ISBN: 978-0-7006-1953-5
+  issued:
+    - year: 2014
+  language: English
+  number-of-pages: '424'
+  publisher: University Press of Kansas
+  publisher-place: Lawrence, Kansas
+  title: 'The Crusade for Equality in the Workplace: The Griggs v. Duke Power Story'
+  title-short: The Crusade for Equality in the Workplace
   type: book
 
 - id: Ben-Menachem2025
@@ -4768,39 +4914,6 @@ references:
     https://read.dukeupress.edu/labor/article/16/2/99/138628/Influence-without-BargainingUnionization-at-the
   volume: '16'
 
-- id: Calavita2014
-  abstract: >-
-    On 10 February 1999, Italy’s highest court of appeals overturned the
-    conviction of a driving instructor who had allegedly raped his 18-year-old
-    student. The Corte di Cassazione reasoned that the young woman was wearing
-    blue jeans at the time, so the sexual intercourse must have been consensual.
-    The Justices proclaimed, “It is impossible to take off jeans . . . without
-    the active cooperation of the person wearing them.” The decision set off a
-    wave of protest across the political spectrum in Italy and around the world.
-    Alessandra Mussolini, deputy of the right-wing National Alliance Party and
-    granddaughter of former
-  archive: JSTOR
-  author:
-    - family: Calavita
-      given: Kitty
-  citation-key: Calavita2014
-  container-title: The Law and Society Reader II
-  editor:
-    - family: Larson
-      given: Erik
-    - family: Schmidt
-      given: Patrick
-  ISBN: 978-0-8147-7081-8
-  issued:
-    - year: 2014
-  note: 'Select: zotero://select/library/items/IPR7AMP6'
-  page: 381–386
-  publisher: NYU Press
-  source: JSTOR
-  title: Blue Jeans, Rape, and the “De-Constitutive” Power of Law
-  type: chapter
-  URL: https://www.jstor.org/stable/j.ctt9qg0dk.50
-
 - id: Calavita2016
   abstract: >-
     Law and society is a rapidly growing field that turns the conventional view
@@ -4840,6 +4953,39 @@ references:
     of Real Law
   title-short: Invitation to Law and Society, Second Edition
   type: book
+
+- id: calavitaBlueJeansRape2014
+  abstract: >-
+    On 10 February 1999, Italy’s highest court of appeals overturned the
+    conviction of a driving instructor who had allegedly raped his 18-year-old
+    student. The Corte di Cassazione reasoned that the young woman was wearing
+    blue jeans at the time, so the sexual intercourse must have been consensual.
+    The Justices proclaimed, “It is impossible to take off jeans . . . without
+    the active cooperation of the person wearing them.” The decision set off a
+    wave of protest across the political spectrum in Italy and around the world.
+    Alessandra Mussolini, deputy of the right-wing National Alliance Party and
+    granddaughter of former
+  archive: JSTOR
+  author:
+    - family: Calavita
+      given: Kitty
+  citation-key: calavitaBlueJeansRape2014
+  container-title: The Law and Society Reader II
+  editor:
+    - family: Larson
+      given: Erik
+    - family: Schmidt
+      given: Patrick
+  ISBN: 978-0-8147-7081-8
+  issued:
+    - year: 2014
+  note: 'Select: zotero://select/library/items/IPR7AMP6'
+  page: 381–386
+  publisher: NYU Press
+  source: JSTOR
+  title: Blue Jeans, Rape, and the “De-Constitutive” Power of Law
+  type: chapter
+  URL: https://www.jstor.org/stable/j.ctt9qg0dk.50
 
 - id: CamachoMajorLeagueBaseball_SDCal2013
   authority: S.D. Cal.
@@ -5487,6 +5633,22 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/1600910X.2023.2252192
 
+- id: ChampionMediaAgreesPay_USEqualEmploymentOpportunityCommission_nd
+  abstract: RALEIGH, N.C.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: ChampionMediaAgreesPay_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: >-
+    Champion Media Agrees to Pay $102,500 to Employee in EEOC Disability
+    Discrimination Suit
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/newsroom/champion-media-agrees-pay-102500-employee-eeoc-disability-discrimination-suit
+
 - id: Chang2009
   abstract: >-
     "Lucid, deeply informed, and enlivened with striking illustrations." -Noam
@@ -5650,9 +5812,9 @@ references:
   URL: https://www.ssrn.com/abstract=4921254
   volume: '34'
 
-- id: ClarkCarter_DistCourt2025
-  authority: Dist. Court
-  citation-key: ClarkCarter_DistCourt2025
+- id: ClarkCarter_SDInd2025
+  authority: S.D. Ind.
+  citation-key: ClarkCarter_SDInd2025
   container-title: F. Supp. 3d
   issued:
     - year: 2025
@@ -6334,6 +6496,31 @@ references:
   type: legal_case
   volume: '236'
 
+- id: Corbett2005
+  accessed:
+    - year: 2025
+      month: 12
+      day: 23
+  author:
+    - family: Corbett
+      given: William L.
+  citation-key: Corbett2005
+  container-title: Montana Law Review
+  container-title-short: Mont. L. Rev.
+  issue: '2'
+  issued:
+    - year: 2005
+  language: eng
+  page: 329–404
+  source: HeinOnline
+  title: >-
+    Resolving Employee Discharge Disputes under the Montana Wrongful Discharge
+    Act (MWDA), Discharge Claims Arising Apart from the MWDA, and Practice and
+    Procedure Issues in the Context of a Discharge Case
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/montlr66&i=335
+  volume: '66'
+
 - id: Cornfield1991
   abstract: >-
     The proliferation of research on the US labor movement has created
@@ -6477,6 +6664,19 @@ references:
   type: webpage
   URL: >-
     https://www.msnbc.com/deadline-white-house/deadline-legal-blog/bondi-halligan-disbarred-trump-comey-james-ask-jordan-rcna238183
+
+- id: CoverageBusinessPrivateEmployers_USEqualEmploymentOpportunityCommission_nd
+  abstract: Coverage of Business/Private Employers
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: CoverageBusinessPrivateEmployers_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: Coverage of Business/Private Employers
+  type: webpage
+  URL: https://www.eeoc.gov/employers/coverage-businessprivate-employers
 
 - id: Cozzens2025
   abstract: >-
@@ -6966,6 +7166,7 @@ references:
   title: 'Salting the Earth: Organizing for the Long Haul'
   title-short: Salting the Earth
   type: article-journal
+  URL: https://www.jstor.org/stable/40342338
 
 - id: DaltonCamp_NC2001
   authority: N.C.
@@ -7147,6 +7348,30 @@ references:
   title: Deem v. Treadway
   type: legal_case
   volume: '543'
+
+- id: DefendingWomenGenderIdeology_FederalRegister2025
+  abstract: >-
+    Search, browse and learn about the Federal Register. Federal Register 2.0 is
+    the unofficial daily publication for rules, proposed rules, and notices of
+    Federal agencies and organizations, as well as executive orders and other
+    presidential documents.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: DefendingWomenGenderIdeology_FederalRegister2025
+  container-title: Federal Register
+  issued:
+    - year: 2025
+      month: 1
+      day: 30
+  language: en
+  title: >-
+    Defending Women From Gender Ideology Extremism and Restoring Biological
+    Truth to the Federal Government
+  type: webpage
+  URL: >-
+    https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal
 
 - id: Dekel2013
   accessed:
@@ -8843,6 +9068,62 @@ references:
   title-short: $2.00 a Day
   type: book
 
+- id: EEOCSuesGatorStrong_USEqualEmploymentOpportunityCommission_nd
+  abstract: RALEIGH, N.C.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: EEOCSuesGatorStrong_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: EEOC Sues Gator Strong Services for Sexual Harassment and Sex Discrimination
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/newsroom/eeoc-sues-gator-strong-services-sexual-harassment-and-sex-discrimination
+
+- id: EEOCSuesMooreComfort_USEqualEmploymentOpportunityCommission_nd
+  abstract: NORFOLK, Va.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: EEOCSuesMooreComfort_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: EEOC Sues Moore Comfort Home Care, LLC for Sexual Harassment
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/newsroom/eeoc-sues-moore-comfort-home-care-llc-sexual-harassment
+
+- id: EEOCSuesPiedmontCheerwine_USEqualEmploymentOpportunityCommission_nd
+  abstract: GREENSBORO, N.C.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: EEOCSuesPiedmontCheerwine_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: EEOC Sues Piedmont Cheerwine Bottling Company for Disability Discrimination
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/newsroom/eeoc-sues-piedmont-cheerwine-bottling-company-disability-discrimination
+
+- id: EEOCSuesSmithfieldFresh_USEqualEmploymentOpportunityCommission_nd
+  abstract: RALEIGH, N.C.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: EEOCSuesSmithfieldFresh_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: EEOC Sues Smithfield Fresh Meats Corp. for Pregnancy Discrimination
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/newsroom/eeoc-sues-smithfield-fresh-meats-corp-pregnancy-discrimination
+
 - id: EffectuationNationalLabor2021
   citation-key: EffectuationNationalLabor2021
   genre: General Counsel Memo
@@ -8866,7 +9147,7 @@ references:
       month: 10
       day: 3
   jurisdiction: ND Illinois
-  number: Case No. 23 C 1148
+  number: No. 23-cv-1148
   title: Egan v. A.W. Companies, Inc.
   type: legal_case
 
@@ -8922,6 +9203,34 @@ references:
   title: 'Nickel and Dimed: On (Not) Getting By in America'
   title-short: Nickel and Dimed
   type: book
+
+- id: Eliasoph2008
+  abstract: >-
+    Disclaimer: This summary was generated by AI based on the content of the
+    source document.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 23
+  author:
+    - family: Eliasoph
+      given: Ian H.
+  citation-key: Eliasoph2008
+  container-title: Employee Rights and Employment Policy Journal
+  container-title-short: Emp. Rts. & Emp. Pol'y J.
+  issue: '2'
+  issued:
+    - year: 2008
+  language: eng
+  page: 197–232
+  source: HeinOnline
+  title: >-
+    Know Your (Lack of) Rights: Reexamining the Causes and Effects of Phantom
+    Employment Rights
+  title-short: Know Your (Lack of) Rights
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght12&i=213
+  volume: '12'
 
 - id: Elliott-Negri2018
   author:
@@ -8986,6 +9295,19 @@ references:
   title: Employee Duty of Loyalty to the Employer
   type: chapter
 
+- id: EmployeesJobApplicants_USEqualEmploymentOpportunityCommission_nd
+  abstract: Overview
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: EmployeesJobApplicants_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: Employees & Job Applicants
+  type: webpage
+  URL: https://www.eeoc.gov/employees-job-applicants
+
 - id: EmployerUseSocial_nd
   citation-key: EmployerUseSocial_nd
   container-title: Cal. Labor Code
@@ -9004,6 +9326,77 @@ references:
   title: Employment Div., Dept. of Human Resources of Ore. v. Smith
   type: legal_case
   volume: '494'
+
+- id: EndingIllegalDiscriminationRestoring_FederalRegister2025
+  abstract: >-
+    Search, browse and learn about the Federal Register. Federal Register 2.0 is
+    the unofficial daily publication for rules, proposed rules, and notices of
+    Federal agencies and organizations, as well as executive orders and other
+    presidential documents.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: EndingIllegalDiscriminationRestoring_FederalRegister2025
+  container-title: Federal Register
+  issued:
+    - year: 2025
+      month: 1
+      day: 31
+  language: en
+  title: Ending Illegal Discrimination and Restoring Merit-Based Opportunity
+  type: webpage
+  URL: >-
+    https://www.federalregister.gov/documents/2025/01/31/2025-02097/ending-illegal-discrimination-and-restoring-merit-based-opportunity
+
+- id: EndingRadicalWastefulGovernment_FederalRegister2025
+  abstract: >-
+    Search, browse and learn about the Federal Register. Federal Register 2.0 is
+    the unofficial daily publication for rules, proposed rules, and notices of
+    Federal agencies and organizations, as well as executive orders and other
+    presidential documents.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: EndingRadicalWastefulGovernment_FederalRegister2025
+  container-title: Federal Register
+  issued:
+    - year: 2025
+      month: 1
+      day: 29
+  language: en
+  title: Ending Radical and Wasteful Government DEI Programs and Preferencing
+  type: webpage
+  URL: >-
+    https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing
+
+- id: EnforcementGuidanceHarassment_EEOC_2024
+  abstract: >-
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ .highlight { background-color:
+    #DEDEDE; } h3 { margin-left: 2em; } h4 { margin-left: 4em; } h5 {
+    margin-left: 6em; } h6 { margin-left: 8em; } .example { margin: 1em 6em; }
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
+    /**/ /**/ /**/ /**/ /**/ /**/
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  author:
+    - family: EEOC
+      given: ''
+  citation-key: EnforcementGuidanceHarassment_EEOC_2024
+  issued:
+    - year: 2024
+      month: 4
+      day: 29
+  language: en
+  title: Enforcement Guidance on Harassment in the Workplace, EEOC-CVG-2024-1
+  type: document
+  URL: https://www.eeoc.gov/laws/guidance/enforcement-guidance-harassment-workplace
 
 - id: Engel2014
   abstract: >-
@@ -9041,7 +9434,6 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.40
 
 - id: EnterpriseWireCo1966
-  authority: Carroll R. Daugherty, Arbitrator
   citation-key: EnterpriseWireCo1966
   container-title: L.A.
   issued:
@@ -9087,6 +9479,19 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/1599554?seq=1
   volume: '51'
+
+- id: EqualEmploymentOpportunityLaws_USEqualEmploymentOpportunityCommission_nd
+  abstract: Equal Pay Act of 1963 (EPA)
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: EqualEmploymentOpportunityLaws_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: Equal Employment Opportunity Laws
+  type: webpage
+  URL: https://www.eeoc.gov/equal-employment-opportunity-laws
 
 - id: ErieCoTompkins_US1938
   authority: U.S.
@@ -9142,11 +9547,11 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.12253
   volume: '47'
 
-- id: Ernst1995
+- id: ernstLawyersLaborIndividual1995
   author:
     - family: Ernst
       given: Daniel R
-  citation-key: Ernst1995
+  citation-key: ernstLawyersLaborIndividual1995
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/HYKY6847'
@@ -9383,6 +9788,7 @@ references:
     H. Comm. on Education and the Workforce
   title-short: Examining Union Salting Abuses
   type: hearing
+  URL: https://www.congress.gov/event/108th-congress/house-event/LC14997/text
 
 - id: ExxonMobilCorpAllapattah_US2005
   authority: U.S.
@@ -10301,14 +10707,14 @@ references:
   type: document
   URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2014a.pdf
 
-- id: Fink2019
+- id: Fink2016
   author:
     - family: Fink
       given: Eric M
-  citation-key: Fink2019
+  citation-key: Fink2016
   container-title: Idaho Law Review
   issued:
-    - year: 2019
+    - year: 2016
   language: en
   page: 953–973
   title: Union Organizing & Collective Bargaining for Incarcerated Workers
@@ -11023,9 +11429,9 @@ references:
   title-short: Selling Free Enterprise
   type: book
 
-- id: FoodLionIncCapital_4thCircuit1999
-  authority: 4th Circuit
-  citation-key: FoodLionIncCapital_4thCircuit1999
+- id: FoodLionIncCapital_4thCir1999
+  authority: 4th Cir.
+  citation-key: FoodLionIncCapital_4thCir1999
   container-title: F.3d
   issued:
     - year: 1999
@@ -11250,7 +11656,7 @@ references:
       month: 2
       day: 9
   jurisdiction: SD New York
-  number: 20 Civ. 10495 (KPF)
+  number: No. 20 Civ. 10495 (KPF)
   title: Franklin v. Vertex Global Solutions, Inc.
   type: legal_case
 
@@ -11630,7 +12036,7 @@ references:
   type: legal_case
   volume: '513'
 
-- id: Frohman2014
+- id: frohmanConvictabilityDiscordantLocales2014
   abstract: >-
     What categories do prosecutors use to assess sexual assault cases? What are
     the ramifications of using case convictability as a decisionmaking standard?
@@ -11646,7 +12052,7 @@ references:
   author:
     - family: Frohman
       given: Lisa
-  citation-key: Frohman2014
+  citation-key: frohmanConvictabilityDiscordantLocales2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -12042,7 +12448,7 @@ references:
   type: legal_case
   volume: '515'
 
-- id: Garth2014
+- id: garthLegalRealismLaw2014
   abstract: >-
     The 1960s, in retrospect, were a good time for an alliance between law and
     social science both because of what was happening in the production of
@@ -12059,7 +12465,7 @@ references:
       given: Bryant
     - family: Sterling
       given: Joyce
-  citation-key: Garth2014
+  citation-key: garthLegalRealismLaw2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -12874,7 +13280,7 @@ references:
   title: A Primer on American Labor Law
   type: book
 
-- id: Gowder
+- id: Gowder_nd
   abstract: >-
     The Rule of Law in the Real World (Cambridge University Press, 2016) gives a
     comprehensive new theory of the political and legal ideal known as 'the rule
@@ -12889,7 +13295,7 @@ references:
   author:
     - family: Gowder
       given: Paul
-  citation-key: Gowder
+  citation-key: Gowder_nd
   language: en
   title: The Rule of Law in the Real World
   type: webpage
@@ -13486,6 +13892,17 @@ references:
   URL: www.jstor.org/stable/26356852
   volume: '36'
 
+- id: GriggsDukePowerCo_US1971
+  authority: U.S.
+  citation-key: GriggsDukePowerCo_US1971
+  container-title: U.S.
+  issued:
+    - year: 1971
+  page: '424'
+  title: Griggs v. Duke Power Co.
+  type: legal_case
+  volume: '401'
+
 - id: Grimshaw2020
   accessed:
     - year: 2025
@@ -13511,6 +13928,19 @@ references:
   type: article-journal
   URL: https://ir.canterbury.ac.nz/handle/10092/100966
   volume: '3'
+
+- id: GroffDeJoy_US2023
+  authority: U.S.
+  citation-key: GroffDeJoy_US2023
+  container-title: U.S.
+  issued:
+    - year: 2023
+      month: 6
+      day: 29
+  page: '447'
+  title: Groff v. DeJoy
+  type: legal_case
+  volume: '600'
 
 - id: Gross2012
   abstract: >-
@@ -13710,7 +14140,7 @@ references:
   type: article-journal
   volume: '62'
 
-- id: Hadfield2014
+- id: hadfieldFramingChoiceCash2014
   abstract: >-
     Most lawyers and judges thought it would be an easy choice. When the 9/11
     victims and those who lost family members in the attacks were offered an
@@ -13724,7 +14154,7 @@ references:
   author:
     - family: Hadfield
       given: Gillian K.
-  citation-key: Hadfield2014
+  citation-key: hadfieldFramingChoiceCash2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -13993,6 +14423,16 @@ references:
   type: legal_case
   volume: '96'
 
+- id: HarassmentUSEqual_nd
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: HarassmentUSEqual_nd
+  title: Harassment | U.S. Equal Employment Opportunity Commission
+  type: webpage
+  URL: https://www.eeoc.gov/harassment
+
 - id: Harrington1997
   abstract: >-
     In the fifty years since it was published, The Other America has been
@@ -14028,21 +14468,6 @@ references:
   title: 'The Other America: Poverty in the United States'
   title-short: The Other America
   type: book
-
-- id: Harris2021
-  author:
-    - family: Harris
-      given: Jonathan F
-  citation-key: Harris2021
-  container-title: Alabama Law Review
-  issued:
-    - year: 2021
-  language: en
-  page: '723'
-  source: Zotero
-  title: Unconscionability in Contracting for Worker Training
-  type: article-journal
-  volume: '72'
 
 - id: Harvey2007
   author:
@@ -14232,7 +14657,7 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/jle8&i=371
   volume: '8'
 
-- id: Heimer2014
+- id: heimerCompetingInstitutionsLaw2014
   abstract: >-
     Sociolegal scholars have long acknowledged that the influence of law varies
     from one setting to another and that other normative systems also shape
@@ -14248,7 +14673,7 @@ references:
   author:
     - family: Heimer
       given: Carol A.
-  citation-key: Heimer2014
+  citation-key: heimerCompetingInstitutionsLaw2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -14495,6 +14920,19 @@ references:
     and Radio Artists
   type: legal_case
   volume: '301'
+
+- id: HenryAdventistHealthCastle_9thCir2020
+  authority: 9th Cir.
+  citation-key: HenryAdventistHealthCastle_9thCir2020
+  container-title: F. 3d
+  issued:
+    - year: 2020
+      month: 8
+      day: 14
+  page: '1126'
+  title: Henry v. Adventist Health Castle Medical Center
+  type: legal_case
+  volume: '970'
 
 - id: Herbert2016
   abstract: >-
@@ -16884,51 +17322,6 @@ references:
     https://fastcapitalism.journal.library.uta.edu/index.php/fastcapitalism/article/view/355
   volume: '14'
 
-- id: Kelly1996
-  abstract: >-
-    America has long enjoyed a love/hate relationship with its attorneys; jokes
-    equating lawyers with vermin abound at the same time that our love of
-    litigation is reflected in a doubling of the ranks of lawyers since the
-    1960s. Though we often see the lawyer as a crusading lone wolf of justice,
-    the illuminating Lives of Lawyers demonstrates that the integrity of
-    individual lawyers is fundamentally influenced by the nature of the legal
-    organizations that have come to dominate the field. In fleshing out these
-    agencies of legal expertise, Kelly offers important insights into the
-    personal ideals of lawyers, the struggle to clarify professionalism as
-    interpreted by the legal origination, and the effects of these factors on
-    society's perceptions of law and lawyering. Lives of Lawyers paints an
-    intimate portrait of five legal entities: two corporate firms, an in-house
-    corporate counsel's office, and a public interest agency. Each is viewed
-    through a kaleidoscope of client/colleague relationships, connections to
-    civic and community life, income levels and career satisfaction of
-    attorneys, the social status of the organization, and the character of the
-    particular law practiced. These detailed portrayals vividly reveal the
-    diversity inherent to the profession and the wealth of responses to the
-    question of what shapes the values of today's legal practices. The author's
-    deft use of narrative and debt to the discipline of biography and sociology
-    make his five stores a first-rate read. Kelly gets into the trenches with
-    lawyers comprising these organizations; they don't mince words in passing
-    judgment on themselves, their employers, or the state of the
-    profession--particularly its growing commercialism. Nonetheless, Lives of
-    Lawyers reminds us of the constantly renewed dedication by lawyers to the
-    principles of legal professionalism. Michael J. Kelly is University Vice
-    President and Professor of Law, Georgetown University.
-  author:
-    - family: Kelly
-      given: Michael J.
-  citation-key: Kelly1996
-  ISBN: 978-0-472-08385-5
-  issued:
-    - year: 1996
-  language: en
-  note: 'Select: zotero://select/library/items/325IP8A2'
-  number-of-pages: '272'
-  publisher: University of Michigan Press
-  source: Google Books
-  title: 'Lives of Lawyers: Journeys in the Organizations of Practice'
-  title-short: Lives of Lawyers
-  type: book
-
 - id: Kelly2002
   abstract: >-
     Because of its characterization of National Socialism as a form of
@@ -17014,6 +17407,51 @@ references:
     Lives of Lawyers Revisited: Transformation and Resilience in the
     Organizations of Practice
   title-short: Lives of Lawyers Revisited
+  type: book
+
+- id: kellyLivesLawyersJourneys1996
+  abstract: >-
+    America has long enjoyed a love/hate relationship with its attorneys; jokes
+    equating lawyers with vermin abound at the same time that our love of
+    litigation is reflected in a doubling of the ranks of lawyers since the
+    1960s. Though we often see the lawyer as a crusading lone wolf of justice,
+    the illuminating Lives of Lawyers demonstrates that the integrity of
+    individual lawyers is fundamentally influenced by the nature of the legal
+    organizations that have come to dominate the field. In fleshing out these
+    agencies of legal expertise, Kelly offers important insights into the
+    personal ideals of lawyers, the struggle to clarify professionalism as
+    interpreted by the legal origination, and the effects of these factors on
+    society's perceptions of law and lawyering. Lives of Lawyers paints an
+    intimate portrait of five legal entities: two corporate firms, an in-house
+    corporate counsel's office, and a public interest agency. Each is viewed
+    through a kaleidoscope of client/colleague relationships, connections to
+    civic and community life, income levels and career satisfaction of
+    attorneys, the social status of the organization, and the character of the
+    particular law practiced. These detailed portrayals vividly reveal the
+    diversity inherent to the profession and the wealth of responses to the
+    question of what shapes the values of today's legal practices. The author's
+    deft use of narrative and debt to the discipline of biography and sociology
+    make his five stores a first-rate read. Kelly gets into the trenches with
+    lawyers comprising these organizations; they don't mince words in passing
+    judgment on themselves, their employers, or the state of the
+    profession--particularly its growing commercialism. Nonetheless, Lives of
+    Lawyers reminds us of the constantly renewed dedication by lawyers to the
+    principles of legal professionalism. Michael J. Kelly is University Vice
+    President and Professor of Law, Georgetown University.
+  author:
+    - family: Kelly
+      given: Michael J.
+  citation-key: kellyLivesLawyersJourneys1996
+  ISBN: 978-0-472-08385-5
+  issued:
+    - year: 1996
+  language: en
+  note: 'Select: zotero://select/library/items/325IP8A2'
+  number-of-pages: '272'
+  publisher: University of Michigan Press
+  source: Google Books
+  title: 'Lives of Lawyers: Journeys in the Organizations of Practice'
+  title-short: Lives of Lawyers
   type: book
 
 - id: Kelman1990
@@ -17257,6 +17695,22 @@ references:
     Political Life
   type: book
   URL: https://www.jstor.org/stable/j.ctvm7bbc1
+
+- id: KickbackJacksSuedEEOC_USEqualEmploymentOpportunityCommission_nd
+  abstract: GREENSBORO, N.C.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: KickbackJacksSuedEEOC_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: >-
+    Kickback Jack’s Sued by EEOC for Failing to Hire Males for Front-of-House
+    Positions
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/newsroom/kickback-jacks-sued-eeoc-failing-hire-males-front-house-positions
 
 - id: Kidd2004
   accessed:
@@ -18478,7 +18932,7 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/geojlege34&i=70
   volume: '34'
 
-- id: Lazarus-Black2014
+- id: lazarus-blackAlternativeReadingsStatus2014
   abstract: >-
     English colonists settled Antigua [one of the Leeward Islands in the eastern
     Caribbean] in 1632. During the next century, they turned the island into a
@@ -18493,7 +18947,7 @@ references:
   author:
     - family: Lazarus-Black
       given: Mindie
-  citation-key: Lazarus-Black2014
+  citation-key: lazarus-blackAlternativeReadingsStatus2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -20138,6 +20592,32 @@ references:
     Findings of the Disparities in the Discipline System Study
   type: document
 
+- id: Magner2024
+  abstract: >-
+    Disclaimer: This summary was generated by AI based on the content of the
+    source document.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 23
+  author:
+    - family: Magner
+      given: Brandon R.
+  citation-key: Magner2024
+  container-title: Employee Rights and Employment Policy Journal
+  container-title-short: Emp. Rts. & Emp. Pol'y J.
+  issue: '1'
+  issued:
+    - year: 2024
+  language: eng
+  page: 1–55
+  source: HeinOnline
+  title: 'Whither the Wagner Act: On the Waning View of Labor Law and Leviathan'
+  title-short: Whither the Wagner Act
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght27&i=1
+  volume: '27'
+
 - id: Maharg2007
   abstract: >-
     Simulation is one of the major applications of the web in entertainment and
@@ -20188,6 +20668,22 @@ references:
   source: Zotero
   title: Bargaining for Contingent Faculty
   type: article-journal
+
+- id: MaleJobSeekersNot_USEqualEmploymentOpportunityCommission_nd
+  abstract: GREENSBORO, N.C. – The U.S.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: MaleJobSeekersNot_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: >-
+    Male Job Seekers Not Hired by Kickback Jack’s Restaurants May Have Suffered
+    Discrimination, EEOC Says
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/newsroom/male-job-seekers-not-hired-kickback-jacks-restaurants-may-have-suffered-discrimination
 
 - id: MalloryNorfolkSouthernRy_US2023
   authority: U.S.
@@ -21990,24 +22486,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.42
 
-- id: Mertz1994
-  author:
-    - family: Mertz
-      given: Elizabeth
-  call-number: '0055'
-  citation-key: Mertz1994
-  container-title: Law & Society Review
-  issue: '5'
-  issued:
-    - year: 1994
-  note: |-
-    Select: zotero://select/library/items/9JX48T2I
-    00065
-  page: '1243'
-  title: A New Social Constructionism for Sociolegal Studies
-  type: article-journal
-  volume: '28'
-
 - id: Mertz2014
   abstract: >-
     I hope to indicate a way in which social science can overcome (indeed, has
@@ -22040,6 +22518,24 @@ references:
   title: A New Social Constructionism for Sociolegal Studies
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.27
+
+- id: mertzNewSocialConstructionism1994
+  author:
+    - family: Mertz
+      given: Elizabeth
+  call-number: '0055'
+  citation-key: mertzNewSocialConstructionism1994
+  container-title: Law & Society Review
+  issue: '5'
+  issued:
+    - year: 1994
+  note: |-
+    Select: zotero://select/library/items/9JX48T2I
+    00065
+  page: '1243'
+  title: A New Social Constructionism for Sociolegal Studies
+  type: article-journal
+  volume: '28'
 
 - id: MessinaIowaDeptJob_Iowa1983
   accessed:
@@ -22191,9 +22687,9 @@ references:
   type: legal_case
   volume: '281'
 
-- id: MiklinEnterprisesIncNLRB_8thCircuit2016
-  authority: 8th Circuit
-  citation-key: MiklinEnterprisesIncNLRB_8thCircuit2016
+- id: MiklinEnterprisesIncNLRB_8thCir2016
+  authority: 8th Cir.
+  citation-key: MiklinEnterprisesIncNLRB_8thCir2016
   container-title: F.3d
   issued:
     - year: 2016
@@ -22492,6 +22988,31 @@ references:
   title-short: What Do We Need a Union For?
   type: book
   URL: https://uncpress.org/book/9780807846254/what-do-we-need-a-union-for/
+
+- id: Minchin2005
+  accessed:
+    - year: 2025
+      month: 12
+      day: 24
+  author:
+    - family: Minchin
+      given: Timothy J.
+  citation-key: Minchin2005
+  container-title: Journal of American Studies
+  ISSN: 0021-8758
+  issue: '3'
+  issued:
+    - year: 2005
+  page: 511–543
+  publisher: Cambridge University Press
+  source: JSTOR
+  title: >-
+    "Don't Sleep with Stevens!": The J. P. Stevens Boycott and Social Activism
+    in the 1970s
+  title-short: Don't Sleep with Stevens!
+  type: article-journal
+  URL: https://www.jstor.org/stable/27557695
+  volume: '39'
 
 - id: MineWorkersGibbs_US1966
   authority: U.S.
@@ -23465,10 +23986,10 @@ references:
   title: ND Ag-Gag
   type: legislation
 
-- id: NdambiCoreCivicInc_4thCircuit2021
-  authority: 4th Circuit
-  citation-key: NdambiCoreCivicInc_4thCircuit2021
-  container-title: F. 3d
+- id: NdambiCoreCivicInc_4thCir2021
+  authority: 4th Cir.
+  citation-key: NdambiCoreCivicInc_4thCir2021
+  container-title: F.3d
   issued:
     - year: 2021
       month: 3
@@ -23891,6 +24412,17 @@ references:
   title: NLRB v. Electrical Workers
   type: legal_case
   volume: '346'
+
+- id: NLRBJonesLaughlinSteel_US1937
+  authority: U.S.
+  citation-key: NLRBJonesLaughlinSteel_US1937
+  container-title: US
+  issued:
+    - year: 1937
+  page: '1'
+  title: NLRB v. Jones & Laughlin Steel Corp.
+  type: legal_case
+  volume: '301'
 
 - id: NLRBMontereyCountyTrades_9thCircuit1953
   authority: 9th Circuit
@@ -24944,6 +25476,128 @@ references:
   URL: https://ir.lawnet.fordham.edu/faculty_scholarship/345
   volume: '37'
 
+- id: Pearce2012
+  abstract: >-
+    In this essay, I examine the extent to which the narration of versions of
+    the life of Alexander the Great were responsive to the battle at Las Navas
+    de Tolosa, and the ways in which subsequent generations of writers used
+    those romances to explore the battle and its consequences. With particular
+    reference to two codices, containing strikingly similar collections of texts
+    relating both to the life of Alexander the Great and to the rise of the
+    Almohad Empire, I describe the persistence of Alexander romances in the
+    construction of memory and note the similar ways in which later Jewish and
+    Christian historians used them to reflect upon the battle at Las Navas de
+    Tolosa and its religious and political underpinnings.
+  accessed:
+    - year: 2025
+      month: 11
+      day: 28
+  author:
+    - family: Pearce
+      given: S. J.
+  citation-key: Pearce2012
+  container-title: Journal of Medieval Iberian Studies
+  DOI: 10.1080/17546559.2012.677196
+  ISSN: 1754-6559
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 3
+      day: 1
+  page: 107–111
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    Alexander and the Almohads: telling the stories of antiquity before and
+    after Las Navas
+  title-short: Alexander and the Almohads
+  type: article-journal
+  URL: https://doi.org/10.1080/17546559.2012.677196
+  volume: '4'
+
+- id: Pearce2020
+  abstract: >-
+    Since Washington Irving’s embassy to Spain (1826–1829) and his subsequent
+    publication of stories and essays collected under the title Tales of the
+    Alhambra, American readers, artists and politicians have imagined and drawn
+    inspiration from the medieval period of Spain’s history—before Spain was
+    Spain, as such. Anglophone fascination has continued through the
+    contemporary period, often standing as a proxy for domestic issues, even in
+    the United States, a country with no medieval past of its own and a fraught
+    contemporary relationship with both Spanish and Arabic, the modern languages
+    that are the heirs to the languages of culture and state in Spain’s Middle
+    Ages. As the peoples and places of medieval Spain enter the Anglophone
+    political discourse, the extreme right has seized upon the dystopian vision
+    in order to assail the scientific study of history and promote a presentist,
+    anti-intellectual agenda that uses medieval history to promote its ideals
+    for the modern world. One recent contribution to the popular debates on the
+    nature of interfaith conflict and coexistence in medieval Spain and its
+    utility in contemporary political discourse is Darío Fernández-Morera’s The
+    Myth of the Andalusian Paradise, which this chapter analyses.
+  author:
+    - family: Pearce
+      given: S. J.
+  citation-key: Pearce2020
+  container-title: Far-Right Revisionism and the End of History
+  issued:
+    - year: 2020
+  publisher: Routledge
+  title: >-
+    The Myth of the Myth of the Andalusian Paradise: The Extreme Right and the
+    American Revision of the History and Historiography of Medieval
+    Spain                            1
+  title-short: The Myth of the Myth of the Andalusian Paradise
+  type: chapter
+
+- id: Pearce2020a
+  accessed:
+    - year: 2025
+      month: 11
+      day: 28
+  author:
+    - family: Pearce
+      given: S.J.
+  citation-key: Pearce2020a
+  container-title: Medieval Encounters
+  container-title-short: Mediev. Encount.
+  DOI: 10.1163/15700674-12340067
+  ISSN: 1380-7854, 1570-0674
+  issue: '2'
+  issued:
+    - year: 2020
+      month: 8
+      day: 25
+  language: en
+  page: 145–190
+  source: DOI.org (Crossref)
+  title: >-
+    The Inquisitor and the Moseret: The Invention of Race in the European Middle
+    Ages and the New English Colonialism in Jewish Historiography
+  title-short: The Inquisitor and the Moseret
+  type: article-journal
+  URL: https://brill.com/view/journals/me/26/2/article-p145_3.xml
+  volume: '26'
+
+- id: Pearce2020b
+  accessed:
+    - year: 2025
+      month: 11
+      day: 28
+  author:
+    - family: Pearce
+      given: S.J.
+  citation-key: Pearce2020b
+  container-title: Esferas
+  issued:
+    - year: 2020
+      month: 5
+  language: en
+  page: 248–256
+  title: 'Más español que Cervantes: La identidad sefaradí y la traducción del Quijote'
+  type: article-journal
+  URL: https://issuu.com/nyu_esferas/docs/esferas10_final_issu_may_8
+  volume: '10'
+
 - id: Pehl2019
   author:
     - family: Pehl
@@ -25782,30 +26436,6 @@ references:
   URL: http://www.jstor.org/stable/27641352
   volume: '24'
 
-- id: Porter1998
-  author:
-    - family: Porter
-      given: Aaron
-  citation-key: Porter1998
-  container-title: 'Cause Lawyering: Political Commitments and Professional Responsibilities'
-  editor:
-    - family: Sarat
-      given: Austin
-    - family: Scheingold
-      given: Stuart
-  ISBN: 978-0-19-535447-8
-  issued:
-    - year: 1998
-  note: 'Select: zotero://select/library/items/R5SCDQ5F'
-  page: '151'
-  publisher: Oxford University Press, Incorporated
-  source: ProQuest Ebook Central
-  title: >-
-    Norris, Schmidt, Green, Harris, Higginbothom & Associates: The Sociological
-    Import of Philadelphia Cause Lawyers
-  type: chapter
-  URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
-
 - id: Porter2013
   abstract: >-
     The author's goal in this article is to estimate the causal effect of
@@ -25836,6 +26466,30 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/001979391306600508
   volume: '66'
+
+- id: porterNorrisSchmidtGreen1998
+  author:
+    - family: Porter
+      given: Aaron
+  citation-key: porterNorrisSchmidtGreen1998
+  container-title: 'Cause Lawyering: Political Commitments and Professional Responsibilities'
+  editor:
+    - family: Sarat
+      given: Austin
+    - family: Scheingold
+      given: Stuart
+  ISBN: 978-0-19-535447-8
+  issued:
+    - year: 1998
+  note: 'Select: zotero://select/library/items/R5SCDQ5F'
+  page: '151'
+  publisher: Oxford University Press, Incorporated
+  source: ProQuest Ebook Central
+  title: >-
+    Norris, Schmidt, Green, Harris, Higginbothom & Associates: The Sociological
+    Import of Philadelphia Cause Lawyers
+  type: chapter
+  URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
 
 - id: Posner2003
   abstract: >-
@@ -26103,6 +26757,18 @@ references:
   title: Legal Profession in America
   type: article-journal
   volume: '19'
+
+- id: ProhibitedEmploymentPolicies_nd
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: ProhibitedEmploymentPolicies_nd
+  title: >-
+    Prohibited Employment Policies/Practices | U.S. Equal Employment Opportunity
+    Commission
+  type: webpage
+  URL: https://www.eeoc.gov/prohibited-employment-policiespractices
 
 - id: Przeworski2024
   abstract: >-
@@ -26631,6 +27297,19 @@ references:
   type: legal_case
   volume: '462'
 
+- id: RemediesEmploymentDiscrimination_USEqualEmploymentOpportunityCommission_nd
+  abstract: Remedies
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: RemediesEmploymentDiscrimination_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: Remedies For Employment Discrimination
+  type: webpage
+  URL: https://www.eeoc.gov/employers/remedies-employment-discrimination
+
 - id: ReNageleisen_EDKentuckyBankr2014
   authority: E.D. Kentucky, Bankr.
   citation-key: ReNageleisen_EDKentuckyBankr2014
@@ -26680,6 +27359,19 @@ references:
   source: Amazon
   title: The Story of the Jewish Labor Bund, 1897-1997; A Centennial Exhibition
   type: book
+
+- id: ResolvingCharge_USEqualEmploymentOpportunityCommission_nd
+  abstract: Resolving a Charge
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: ResolvingCharge_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: Resolving a Charge
+  type: webpage
+  URL: https://www.eeoc.gov/employers/resolving-charge
 
 - id: Ressl-Moyer2021
   author:
@@ -26856,6 +27548,32 @@ references:
   title-short: Rooted in Resilience
   type: webpage
   URL: https://www.acluofnorthcarolina.org/60a/
+
+- id: Roseman2009
+  abstract: >-
+    Disclaimer: This summary was generated by AI based on the content of the
+    source document.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 23
+  author:
+    - family: Roseman
+      given: Barry D.
+  citation-key: Roseman2009
+  container-title: 'Advance: The Journal of the ACS Issue Groups'
+  container-title-short: Advance
+  issue: '1'
+  issued:
+    - year: 2009
+  language: eng
+  page: 173–190
+  source: HeinOnline
+  title: 'Just Cause in Montana: Did the Big Sky Fall?'
+  title-short: Just Cause in Montana
+  type: article-journal
+  URL: https://heinonline.org/HOL/P?h=hein.journals/advnce3&i=177
+  volume: '3'
 
 - id: Rosenfeld2006
   archive: JSTOR
@@ -28765,10 +29483,10 @@ references:
   title-short: The Art of Not Being Governed
   type: book
 
-- id: ScottBaltimoreCountyMaryland_4thCircuit2024
-  authority: 4th Circuit
-  citation-key: ScottBaltimoreCountyMaryland_4thCircuit2024
-  container-title: F. 4th
+- id: ScottBaltimoreCountyMaryland_4thCir2024
+  authority: 4th Cir.
+  citation-key: ScottBaltimoreCountyMaryland_4thCir2024
+  container-title: F.4th
   issued:
     - year: 2024
       month: 5
@@ -29811,6 +30529,56 @@ references:
   URL: http://www.jstor.org/stable/27734694
   volume: '88'
 
+- id: Smith2008a
+  abstract: >-
+    In 1966, thirteen black employees of the Duke Power Company's Dan River
+    Plant in Draper, North Carolina, filed a lawsuit against the company
+    challenging its requirement of a high school diploma or a passing grade on
+    an intelligence test for internal transfer or promotion. In the
+    groundbreaking decision Griggs v. Duke Power (1971), the United States
+    Supreme Court ruled in favor of the plaintiffs, finding such employment
+    practices violated Title 7 of the Civil Rights Act of 1964 when they
+    disparately affected minorities. In doing so, the court delivered a
+    significant anti-employment discrimination verdict. Legal scholars rank
+    Griggs v. Duke Power on par with Brown v. Board of Education (1954) in terms
+    of its impact on eradicating race discrimination from American institutions.
+    In Race, Labor, and Civil Rights, Robert Samuel Smith offers the first
+    full-length historical examination of this important case and its connection
+    to civil rights activism during the second half of the 1960s. Smith explores
+    all aspects of Griggs, highlighting the sustained energy of the grassroots
+    civil rights community and the critical importance of courtroom activism.
+    Smith shows that after years of nonviolent, direct action protests, African
+    Americans remained vigilant in the 1960s, heading back to the courts to
+    reinvigorate the civil rights acts in an effort to remove the lingering
+    institutional bias left from decades of overt racism. He asserts that
+    alongside the more boisterous expressions of black radicalism of the late
+    sixties, foot soldiers and local leaders of the civil rights community --
+    many of whom were working-class black southerners -- mustered ongoing legal
+    efforts to mold Title 7 into meaningful law. Smith also highlights the
+    persistent judicial activism of the NAACP-Legal Defense and Education Fund
+    and the ascension of the second generation of civil rights attorneys. By
+    exploring the virtually untold story of Griggs v. Duke Power, Smith's
+    enlightening study connects the case and the campaign for equal employment
+    opportunity to the broader civil rights movement and reveals the civil
+    rights community's continued spirit of legal activism well into the 1970s.
+  author:
+    - family: Smith
+      given: Robert Samuel
+  citation-key: Smith2008a
+  event-place: Baton Rouge
+  ISBN: 978-0-8071-3363-7
+  issued:
+    - year: 2008
+  language: English
+  number-of-pages: '248'
+  publisher: LSU Press
+  publisher-place: Baton Rouge
+  title: >-
+    Race, Labor, and Civil Rights: Griggs versus Duke Power and the Struggle for
+    Equal Employment Opportunity
+  title-short: Race, Labor, and Civil Rights
+  type: book
+
 - id: Smith2013
   abstract: >-
     In the last two decades, objects of analysis such as 'the state' have
@@ -30425,6 +31193,25 @@ references:
   title: State v. DeAngelo
   type: legal_case
   volume: '930'
+
+- id: StateEEOCFrequentlyAsked_USEqualEmploymentOpportunityCommission_nd
+  abstract: >-
+    On January 20, 21, and 29, 2025, President Trump issued a series of
+    executive orders restoring even-handed civil rights enforcement and
+    directing the federal government, including the EEOC, to combat serious
+    patterns of discrimination and harassment that have gone unchecked for too
+    long:
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: StateEEOCFrequentlyAsked_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: 'The State of the EEOC: Frequently Asked Questions'
+  title-short: The State of the EEOC
+  type: webpage
+  URL: https://www.eeoc.gov/wysk/state-eeoc-frequently-asked-questions
 
 - id: StateSupremeCourt_Weaver_MiamiHerald_2025
   abstract: >-
@@ -31068,6 +31855,26 @@ references:
   number: Civil Action No. 18-1698
   title: Sullivan-Blake v. Fedex Ground Package System, Inc.
   type: legal_case
+
+- id: SummaryKeyProvisionsEEOC_USEqualEmploymentOpportunityCommission_nd
+  abstract: >-
+    This summary of key provisions of the EEOC Enforcement Guidance on
+    Harassment in the Workplace is intended to provide a broad overview of the
+    document and issues related to workplace harassment.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: SummaryKeyProvisionsEEOC_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: >-
+    Summary of Key Provisions: EEOC Enforcement Guidance on Harassment in the
+    Workplace
+  title-short: Summary of Key Provisions
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/summary-key-provisions-eeoc-enforcement-guidance-harassment-workplace
 
 - id: Summers2000
   author:
@@ -31812,6 +32619,22 @@ references:
   type: legal_case
   volume: '553'
 
+- id: TeethDoctorsPay$61000_USEqualEmploymentOpportunityCommission_nd
+  abstract: RALEIGH, N.C.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: TeethDoctorsPay$61000_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: >-
+    The Teeth Doctors to Pay $61,000 to Resolve EEOC Religious Discrimination
+    Charge
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/newsroom/teeth-doctors-pay-61000-resolve-eeoc-religious-discrimination-charge
+
 - id: Tejani2017
   abstract: >-
     After the 2008 global financial crisis, US law schools suffered a steep drop
@@ -32094,6 +32917,20 @@ references:
   type: article-journal
   volume: '35'
 
+- id: TexasEEOC_NDTex2025
+  authority: N.D. Tex.
+  citation-key: TexasEEOC_NDTex2025
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2025
+      month: 5
+      day: 15
+  jurisdiction: ND Texas
+  page: '170'
+  title: Texas v. EEOC
+  type: legal_case
+  volume: '785'
+
 - id: Therborn2016
   abstract: "The intricate practices of the elite and how they maintain their dominance.In his new book, Göran Therborn – author of the now standard comparative work on classical sociology and historical materialism,\_Science, Class and Society\_– looks at successive state structures in an arrestingly fresh perspective. Therborn uses the formal categories of modern system analysis – input mechanisms, processes of transformation, output flows – to advance a substantive Marxist analysis of state power and state apparatuses. His account of these is comparative in the most far-reaching historical sense: its object is nothing less than the construction of systematic typology of the differences between the feudal state, the capitalist state and the socialist state. Therborn ranges from the monarchies of mediaeval Europe through the bourgeois democracies of the west in the 20th\_century to the contemporary regimes in Russia, Eastern Europe and China. The book ends with a major analytic survey of the strategies of working class parties for socialism, from the Second International to the Comintern to Eurocommunism, that applies the structural findings of Therborn’s enquiry in the ‘Future as History’. Written with lucidity and economy,\_What Does the Ruling Class Do when it Rules?\_represents a remarkable sociological and political synthesis."
   author:
@@ -32296,6 +33133,19 @@ references:
   type: legal_case
   volume: '334'
 
+- id: TitleVIICivilRights_USEqualEmploymentOpportunityCommission_nd
+  abstract: Title VII of the Civil Rights Act of 1964
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: TitleVIICivilRights_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: Title VII of the Civil Rights Act of 1964
+  type: webpage
+  URL: https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964
+
 - id: TKOFleetEnterprisesDistrict_EDNY1999
   authority: E.D.N.Y.
   citation-key: TKOFleetEnterprisesDistrict_EDNY1999
@@ -32393,6 +33243,25 @@ references:
   type: article-magazine
   URL: >-
     https://jacobin.com/2023/05/american-labor-movement-decline-salting-union-organizing/
+
+- id: Townsend2023a
+  accessed:
+    - year: 2025
+      month: 12
+      day: 6
+  author:
+    - family: Townsend
+      given: Chris
+  citation-key: Townsend2023a
+  container-title: Labor Notes
+  issue: '530'
+  issued:
+    - year: 2023
+      month: 5
+      day: 3
+  title: We Are All Salts
+  type: article-magazine
+  URL: https://labornotes.org/2023/05/viewpoint-we-are-all-salts
 
 - id: TrappedWorkAct2025
   citation-key: TrappedWorkAct2025
@@ -33613,6 +34482,36 @@ references:
   type: legal_case
   volume: '353'
 
+- id: WhatIfYouExperience_USEqualEmploymentOpportunityCommission_nd
+  abstract: >-
+    /**/ /**/ /**/ /**/ /**/ /**/ /**/ /* Default styles for the grid */ .row {
+    display: grid; grid-template-columns: repeat(2, 1fr); /* Two equal columns
+    */ gap: 20px; /* Increased gap between columns */ } .grid-col { padding:
+    10px; } @media (max-width: 1024px) { /* Stac
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: WhatIfYouExperience_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: What To Do If You Experience Discrimination Related to DEI at Work
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/what-do-if-you-experience-discrimination-related-dei-work
+
+- id: WhatYouCan_nd
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: WhatYouCan_nd
+  title: >-
+    What You Can Expect After a Charge is Filed | U.S. Equal Employment
+    Opportunity Commission
+  type: webpage
+  URL: https://www.eeoc.gov/employers/what-you-can-expect-after-charge-filed
+
 - id: WhichardCHMortgageCompany_NCCtApp2016
   authority: N.C. Ct. App.
   citation-key: WhichardCHMortgageCompany_NCCtApp2016
@@ -33752,9 +34651,9 @@ references:
   URL: www.jstor.org/stable/40269087
   volume: '56'
 
-- id: WiegandMotivaEnterprisesLLC_DistCourt2003
-  authority: Dist. Court
-  citation-key: WiegandMotivaEnterprisesLLC_DistCourt2003
+- id: WiegandMotivaEnterprisesLLC_DNJ2003
+  authority: D.N.J.
+  citation-key: WiegandMotivaEnterprisesLLC_DNJ2003
   container-title: F. Supp. 2d
   issued:
     - year: 2003
@@ -34135,6 +35034,32 @@ references:
   title: Woolley v. Hoffmann-La Roche, Inc.
   type: legal_case
   volume: '99'
+
+- id: WorkersDeniedHowDiagnose_ORourke_NationalEmploymentLawProject2025
+  abstract: >-
+    Each year many workers who apply for unemployment insurance benefits are
+    improperly denied.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 23
+  author:
+    - family: O’Rourke
+      given: Flannery
+  citation-key: WorkersDeniedHowDiagnose_ORourke_NationalEmploymentLawProject2025
+  container-title: National Employment Law Project
+  issued:
+    - year: 2025
+      month: 7
+      day: 30
+  language: en-US
+  title: >-
+    Workers Denied: How to Diagnose and Prevent Improper Unemployment Insurance
+    Denials
+  title-short: Workers Denied
+  type: post-weblog
+  URL: >-
+    https://www.nelp.org/insights-research/workers-denied-how-to-diagnose-and-prevent-improper-unemployment-insurance-denials/
 
 - id: WorkmanUnitedParcelService_7thCir2000
   authority: 7th Cir.
@@ -34789,7 +35714,7 @@ references:
     - year: 2020
       month: 9
       day: 17
-  number: No. 19-CV-1058 & 18-CV-11165
+  number: Nos. 19-CV-1058 & 18-CV-11165
   title: Zorn-Hill v. A2B Taxi, LLC
   type: legal_case
 
