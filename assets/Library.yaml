@@ -3752,6 +3752,19 @@ references:
   type: article-journal
   volume: '3'
 
+- id: BostockClaytonCountyGeorgia_US2020
+  authority: U.S.
+  citation-key: BostockClaytonCountyGeorgia_US2020
+  container-title: US
+  issued:
+    - year: 2020
+      month: 6
+      day: 15
+  page: '644'
+  title: Bostock v. Clayton County, Georgia
+  type: legal_case
+  volume: '590'
+
 - id: Bottomore1978
   author:
     - family: Bottomore
@@ -5713,6 +5726,20 @@ references:
   type: article-journal
   volume: '31'
 
+- id: CivilRightsFraud_Blanche_2025
+  author:
+    - family: Blanche
+      given: Todd
+  citation-key: CivilRightsFraud_Blanche_2025
+  issued:
+    - year: 2025
+      month: 5
+      day: 19
+  publisher: Deputy Attorney General
+  title: Civil Rights Fraud Initiative
+  type: document
+  URL: https://www.justice.gov/dag/media/1400826/dl?inline
+
 - id: Clark2012
   abstract: Comparative Law and Society
   citation-key: Clark2012
@@ -6558,6 +6585,32 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/2083334
   volume: '17'
+
+- id: CorporateAmericaFaces_Hood-Nuno_Reuters_2025
+  abstract: Federal inquiries into corporate diversity programs are underway.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 31
+  author:
+    - family: Hood-Nuño
+      given: David
+    - family: Flowers
+      given: Bianca
+  citation-key: CorporateAmericaFaces_Hood-Nuno_Reuters_2025
+  container-title: Reuters
+  issued:
+    - year: 2025
+      month: 12
+      day: 19
+  language: en
+  section: Society & Equity
+  source: www.reuters.com
+  title: Corporate America faces DEI reckoning in 2026, EEOC chair says
+  title-short: Exclusive
+  type: article-newspaper
+  URL: >-
+    https://www.reuters.com/sustainability/society-equity/corporate-america-faces-dei-reckoning-2026-eeoc-chair-says-2025-12-19/
 
 - id: Correll2020
   author:
@@ -7819,6 +7872,19 @@ references:
   title: Lawyer Satisfaction in the Process of Structuring Legal Careers
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.21
+
+- id: DiscriminationAmericanWorkersLaw_USEqualEmploymentOpportunityCommission_nd
+  abstract: Download a PDF version of this document
+  accessed:
+    - year: 2025
+      month: 12
+      day: 31
+  citation-key: DiscriminationAmericanWorkersLaw_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: Discrimination Against American Workers Is Against The Law
+  type: webpage
+  URL: https://www.eeoc.gov/discrimination-against-american-workers-against-law
 
 - id: DiscriminationEngagementCertain_nd
   citation-key: DiscriminationEngagementCertain_nd
@@ -9327,50 +9393,6 @@ references:
   type: legal_case
   volume: '494'
 
-- id: EndingIllegalDiscriminationRestoring_FederalRegister2025
-  abstract: >-
-    Search, browse and learn about the Federal Register. Federal Register 2.0 is
-    the unofficial daily publication for rules, proposed rules, and notices of
-    Federal agencies and organizations, as well as executive orders and other
-    presidential documents.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: EndingIllegalDiscriminationRestoring_FederalRegister2025
-  container-title: Federal Register
-  issued:
-    - year: 2025
-      month: 1
-      day: 31
-  language: en
-  title: Ending Illegal Discrimination and Restoring Merit-Based Opportunity
-  type: webpage
-  URL: >-
-    https://www.federalregister.gov/documents/2025/01/31/2025-02097/ending-illegal-discrimination-and-restoring-merit-based-opportunity
-
-- id: EndingRadicalWastefulGovernment_FederalRegister2025
-  abstract: >-
-    Search, browse and learn about the Federal Register. Federal Register 2.0 is
-    the unofficial daily publication for rules, proposed rules, and notices of
-    Federal agencies and organizations, as well as executive orders and other
-    presidential documents.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: EndingRadicalWastefulGovernment_FederalRegister2025
-  container-title: Federal Register
-  issued:
-    - year: 2025
-      month: 1
-      day: 29
-  language: en
-  title: Ending Radical and Wasteful Government DEI Programs and Preferencing
-  type: webpage
-  URL: >-
-    https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing
-
 - id: EnforcementGuidanceHarassment_EEOC_2024
   abstract: >-
     /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/ /**/
@@ -9790,6 +9812,96 @@ references:
   type: hearing
   URL: https://www.congress.gov/event/108th-congress/house-event/LC14997/text
 
+- id: ExecutiveOrder14151_90FR83392025
+  abstract: >-
+    Search, browse and learn about the Federal Register. Federal Register 2.0 is
+    the unofficial daily publication for rules, proposed rules, and notices of
+    Federal agencies and organizations, as well as executive orders and other
+    presidential documents.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: ExecutiveOrder14151_90FR83392025
+  issued:
+    - year: 2025
+      month: 1
+      day: 29
+  language: en
+  publisher: 90 FR 8339
+  title: >-
+    Executive Order 14151:  Ending Radical and Wasteful Government DEI Programs
+    and Preferencing
+  type: document
+  URL: >-
+    https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing
+
+- id: ExecutiveOrder14168_90FR86152025
+  abstract: >-
+    Search, browse and learn about the Federal Register. Federal Register 2.0 is
+    the unofficial daily publication for rules, proposed rules, and notices of
+    Federal agencies and organizations, as well as executive orders and other
+    presidential documents.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 31
+  citation-key: ExecutiveOrder14168_90FR86152025
+  issued:
+    - year: 2025
+      month: 1
+      day: 30
+  language: en
+  publisher: 90 FR 8615
+  title: >-
+    Executive Order 14168: Defending Women From Gender Ideology Extremism and
+    Restoring Biological Truth to the Federal Government
+  type: document
+  URL: >-
+    https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal
+
+- id: ExecutiveOrder14173_90FR86332025
+  abstract: >-
+    Search, browse and learn about the Federal Register. Federal Register 2.0 is
+    the unofficial daily publication for rules, proposed rules, and notices of
+    Federal agencies and organizations, as well as executive orders and other
+    presidential documents.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: ExecutiveOrder14173_90FR86332025
+  issued:
+    - year: 2025
+      month: 1
+      day: 31
+  language: en
+  publisher: 90 FR 8633
+  title: >-
+    Executive Order 14173 : Ending Illegal Discrimination and Restoring
+    Merit-Based Opportunity
+  type: document
+  URL: >-
+    https://www.federalregister.gov/documents/2025/01/31/2025-02097/ending-illegal-discrimination-and-restoring-merit-based-opportunity
+
+- id: ExecutiveOrder14281_90FR175372025
+  abstract: "By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered: Section\_1.\_\_Purpose. \_A"
+  accessed:
+    - year: 2025
+      month: 12
+      day: 31
+  citation-key: ExecutiveOrder14281_90FR175372025
+  issued:
+    - year: 2025
+      month: 4
+      day: 23
+  language: en-US
+  publisher: 90 FR 17537
+  title: 'Executive Order 14281: Restoring Equality of Opportunity and Meritocracy'
+  type: document
+  URL: >-
+    https://www.whitehouse.gov/presidential-actions/2025/04/restoring-equality-of-opportunity-and-meritocracy/
+
 - id: ExxonMobilCorpAllapattah_US2005
   authority: U.S.
   citation-key: ExxonMobilCorpAllapattah_US2005
@@ -9934,6 +10046,35 @@ references:
     Confessed Communist Scales
   type: article-newspaper
   URL: https://newspapers.digitalnc.org/lccn/sn92073228/1955-04-20/ed-1/seq-1/
+
+- id: FederalCourtAdoptsStricter_Quan_OgletreeDeakins2025
+  abstract: >-
+    On October 31, 2025, a federal district court ruled that the University of
+    Pennsylvania could not be held liable for harassing behavior by a student
+    toward a research associate. The case sheds light on an evolving standard
+    for employer liability for harassment by non-employees.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 31
+  author:
+    - family: Quan
+      given: Amanda
+    - family: Tompkins-Payton
+      given: Lauren
+  citation-key: FederalCourtAdoptsStricter_Quan_OgletreeDeakins2025
+  container-title: Ogletree Deakins
+  issued:
+    - year: 2025
+      month: 11
+      day: 26
+  language: en-US
+  title: >-
+    Federal Court Adopts Stricter Standard for Employer Liability in Third-Party
+    Harassment Cases
+  type: post-weblog
+  URL: >-
+    https://ogletree.com/insights-resources/blog-posts/federal-court-adopts-stricter-standard-for-employer-liability-in-third-party-harassment-cases/
 
 - id: FederalQuestion_nd
   citation-key: FederalQuestion_nd
@@ -10467,6 +10608,31 @@ references:
   title: The Fight Against Opportunism in the C.P. of North Carolina
   type: personal_communication
   URL: https://www.marxists.org/history/erol/periodicals/spark/spark-2-4.htm
+
+- id: FinallyQuorumEEOCLikely_Lawcom2025
+  abstract: >-
+    “I think they really are going to kick it into high gear,” said Jason
+    Schwartz, cochair of Gibson, Dunn & Crutcher’s labor and employment group.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 31
+  author:
+    - family: Pierson
+      given: Brenden
+  citation-key: FinallyQuorumEEOCLikely_Lawcom2025
+  container-title: Law.com
+  issued:
+    - year: 2025
+      month: 12
+      day: 4
+  language: en
+  title: >-
+    Finally With Quorum, EEOC Likely to Unleash Reverse-Discrimination,
+    Bathroom-Policy Cases
+  type: webpage
+  URL: >-
+    https://www.law.com/corpcounsel/2025/12/04/finally-with-quorum-eeoc-likely-to-unleash-reverse-discrimination-bathroom-policy-cases/
 
 - id: Fine1995
   abstract: >-
@@ -16853,6 +17019,32 @@ references:
   type: chapter
   URL: https://intr2dok.vifa-recht.de/receive/mir_mods_00015103
 
+- id: JusticeDepartmentUsing_Wheeler_WallStreetJournal_2025
+  abstract: >-
+    Google and Verizon are among those being investigated under the novel
+    interpretation of a law applying to government contractors.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 31
+  author:
+    - family: Wheeler
+      given: Lydia
+  citation-key: JusticeDepartmentUsing_Wheeler_WallStreetJournal_2025
+  container-title: Wall Street Journal
+  ISSN: 0099-9660
+  issued:
+    - year: 2025
+      month: 12
+      day: 29
+  language: en-US
+  section: Politics
+  source: www.wsj.com
+  title: Justice Department Using Fraud Law to Target Companies on DEI
+  type: article-newspaper
+  URL: >-
+    https://www.wsj.com/politics/policy/trump-doj-dei-fraud-investigations-93213d52
+
 - id: KadlecMedicalLakeviewAnesthesia_5thCir2008
   authority: 5th Cir.
   citation-key: KadlecMedicalLakeviewAnesthesia_5thCir2008
@@ -17695,6 +17887,29 @@ references:
     Political Life
   type: book
   URL: https://www.jstor.org/stable/j.ctvm7bbc1
+
+- id: Key2025EmploymentDiscrimination_Hellman_LathropGPM2025
+  abstract: >-
+    Get the latest news and updates from Lathrop GPM, a top law firm providing
+    legal insights, achievements, and community impact.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 31
+  author:
+    - family: Hellman
+      given: Margo
+  citation-key: Key2025EmploymentDiscrimination_Hellman_LathropGPM2025
+  container-title: Lathrop GPM
+  issued:
+    - year: 2025
+      month: 12
+      day: 18
+  language: en-US
+  title: Key 2025 Employment Discrimination Law Updates
+  type: post-weblog
+  URL: >-
+    https://www.lathropgpm.com/insights/key-2025-employment-discrimination-law-updates/
 
 - id: KickbackJacksSuedEEOC_USEqualEmploymentOpportunityCommission_nd
   abstract: GREENSBORO, N.C.
@@ -23634,6 +23849,17 @@ references:
   type: webpage
   URL: https://www.movementlawlab.org
 
+- id: MuldrowCityStLouis_US2024
+  authority: U.S.
+  citation-key: MuldrowCityStLouis_US2024
+  container-title: U.S.
+  issued:
+    - year: 2024
+  page: '346'
+  title: Muldrow v. City of St. Louis, Missouri
+  type: legal_case
+  volume: '601'
+
 - id: Muncy2018
   accessed:
     - year: 2019
@@ -24988,6 +25214,17 @@ references:
     Second Printing with a New Preface and Appendix
   title-short: The Logic of Collective Action
   type: book
+
+- id: ONeillUniversityPennsylvania_EDPa2025
+  authority: E.D. Pa.
+  citation-key: ONeillUniversityPennsylvania_EDPa2025
+  issued:
+    - year: 2025
+      month: 10
+      day: 31
+  number: No. 25-1129
+  title: O’Neill v. University of Pennsylvania
+  type: legal_case
 
 - id: OrdinanceLabourers1349
   citation-key: OrdinanceLabourers1349
@@ -30114,6 +30351,35 @@ references:
     https://www.jstor.org.elon.idm.oclc.org/stable/10.5699/austrianstudies.24.2016.0001
   volume: '24'
 
+- id: SixthCircuitStands_Meub_TheLegalIntelligencer_2025
+  abstract: >-
+    Because sexual harassment does not serve any business purpose, most circuit
+    courts have interpreted Title VII to require a showing that the harasser was
+    either “aided in accomplishing the tort by the existence of the agency
+    relationship” or that the employer was negligent in letting the employee
+    commit the tort. When a third-party harasses an employee, most courts invoke
+    the same negligence theory to hold the employer liable. That is, until the
+    Sixth Circuit tackled the issue in August.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 31
+  author:
+    - family: Meub
+      given: Janet
+  citation-key: SixthCircuitStands_Meub_TheLegalIntelligencer_2025
+  container-title: The Legal Intelligencer
+  issued:
+    - year: 2025
+      month: 12
+      day: 11
+  language: en
+  title: Sixth Circuit Stands Alone (For Now?) on Third-Party Harassment Liability
+  title-short: Sixth Circuit Stands Alone (For Now?
+  type: article-newspaper
+  URL: >-
+    https://www.law.com/thelegalintelligencer/2025/12/11/sixth-circuit-stands-alone-for-now-on-third-party-harassment-liability/
+
 - id: SkagerbergBlandinPaperCo_Minn1936
   authority: Minn.
   citation-key: SkagerbergBlandinPaperCo_Minn1936
@@ -34500,17 +34766,36 @@ references:
   URL: >-
     https://www.eeoc.gov/what-do-if-you-experience-discrimination-related-dei-work
 
-- id: WhatYouCan_nd
+- id: WhatYouCanExpect_USEqualEmploymentOpportunityCommission_nd
   accessed:
     - year: 2025
       month: 12
       day: 22
-  citation-key: WhatYouCan_nd
+  citation-key: WhatYouCanExpect_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
   title: >-
     What You Can Expect After a Charge is Filed | U.S. Equal Employment
     Opportunity Commission
   type: webpage
   URL: https://www.eeoc.gov/employers/what-you-can-expect-after-charge-filed
+
+- id: WhatYouShouldKnow_USEqualEmploymentOpportunityCommission_nd
+  abstract: >-
+    Diversity, Equity and Inclusion (DEI) is a broad term that is not defined in
+    Title VII of the Civil Rights Act of 1964 (Title VII). Title VII prohibits
+    employment discrimination based on protected characteristics such as race
+    and sex.
+  accessed:
+    - year: 2025
+      month: 12
+      day: 31
+  citation-key: WhatYouShouldKnow_USEqualEmploymentOpportunityCommission_nd
+  container-title: U.S. Equal Employment Opportunity Commission
+  language: en
+  title: What You Should Know About DEI-Related Discrimination at Work
+  type: webpage
+  URL: >-
+    https://www.eeoc.gov/wysk/what-you-should-know-about-dei-related-discrimination-work
 
 - id: WhichardCHMortgageCompany_NCCtApp2016
   authority: N.C. Ct. App.
