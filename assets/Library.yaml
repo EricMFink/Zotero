@@ -1,5 +1,25 @@
 ---
 references:
+- id: 1947PressPhotoGeorge_HistoricImages_nd
+  abstract: >-
+    State senator George T. Penny, above, of Greensboro, N.C. and his brother,
+    Jim C. Perry of Charlotte, N.C. are known as the auctioneering Pennys. The
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  author:
+    - family: Images
+      given: Historic
+  citation-key: 1947PressPhotoGeorge_HistoricImages_nd
+  container-title: Historic Images
+  language: en
+  title: >-
+    1947 Press Photo George T. Penny, North Carolina State Senator and
+    Auctioneer
+  type: webpage
+  URL: https://historicimages.com/products/sax09595
+
 - id: 2002FEO8_NCStateBar2003
   accessed:
     - year: 2024
@@ -154,28 +174,6 @@ references:
   publisher: University of Chicago Press
   publisher-place: Chicago
   title: 'The System of Professions: An Essay on the Division of Expert Labor'
-  type: book
-
-- id: Abel1989
-  abstract: >-
-    Contains comparative and theoretical essays on the legal profession around
-    the world.
-  author:
-    - family: Abel
-      given: Richard L.
-    - family: Lewis
-      given: Philip
-  citation-key: Abel1989
-  ISBN: 978-1-58798-266-8
-  issued:
-    - year: 1989
-  language: en
-  note: 'Select: zotero://select/library/items/ZMGD9JTZ'
-  number-of-pages: '580'
-  publisher: Beard Books
-  source: Google Books
-  title: 'Lawyers in Society: Comparative Theories'
-  title-short: Lawyers in Society
   type: book
 
 - id: Abel1991
@@ -524,6 +522,28 @@ references:
   title-short: Law's Wars
   type: book
 
+- id: abelLawyersSocietyComparative1989
+  abstract: >-
+    Contains comparative and theoretical essays on the legal profession around
+    the world.
+  author:
+    - family: Abel
+      given: Richard L.
+    - family: Lewis
+      given: Philip
+  citation-key: abelLawyersSocietyComparative1989
+  ISBN: 978-1-58798-266-8
+  issued:
+    - year: 1989
+  language: en
+  note: 'Select: zotero://select/library/items/ZMGD9JTZ'
+  number-of-pages: '580'
+  publisher: Beard Books
+  source: Google Books
+  title: 'Lawyers in Society: Comparative Theories'
+  title-short: Lawyers in Society
+  type: book
+
 - id: Abt1993
   author:
     - family: Abt
@@ -673,7 +693,7 @@ references:
   type: legal_case
   volume: '883'
 
-- id: Ahlering2014
+- id: ahleringLaborRegulationCorporate2014
   abstract: >-
     The legal origin hypothesis claims that diversity across national systems of
     production can be explained by the influence of common law and civil law
@@ -691,7 +711,7 @@ references:
       given: Beth
     - family: Deakin
       given: Simon
-  citation-key: Ahlering2014
+  citation-key: ahleringLaborRegulationCorporate2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -2444,7 +2464,7 @@ references:
   title-short: The Monied Metropolis
   type: book
 
-- id: Beckett2014
+- id: beckettChallengingMedicineLaw2014
   abstract: >-
     Much recent sociolegal scholarship focuses on hegemony and resistance to it.
     In this scholarship, hegemony is broadly understood as power that maintains
@@ -2461,7 +2481,7 @@ references:
       given: Katherine
     - family: Hoffman
       given: Bruce
-  citation-key: Beckett2014
+  citation-key: beckettChallengingMedicineLaw2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -4117,6 +4137,23 @@ references:
   title: Nationalism and the State
   type: book
 
+- id: BritePenny_NC1911
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  authority: NC
+  citation-key: BritePenny_NC1911
+  container-title: S.E.
+  issued:
+    - year: 1911
+  page: '964'
+  title: Brite v. Penny
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Document/Iad1e3206044611dab386b232635db992/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+  volume: '72'
+
 - id: Britton-Purdy2024
   abstract: >-
     Democracy and the rule of law aim at the same thing in different ways. Both
@@ -4971,39 +5008,6 @@ references:
     https://read.dukeupress.edu/labor/article/16/2/99/138628/Influence-without-BargainingUnionization-at-the
   volume: '16'
 
-- id: Calavita2014
-  abstract: >-
-    On 10 February 1999, Italy’s highest court of appeals overturned the
-    conviction of a driving instructor who had allegedly raped his 18-year-old
-    student. The Corte di Cassazione reasoned that the young woman was wearing
-    blue jeans at the time, so the sexual intercourse must have been consensual.
-    The Justices proclaimed, “It is impossible to take off jeans . . . without
-    the active cooperation of the person wearing them.” The decision set off a
-    wave of protest across the political spectrum in Italy and around the world.
-    Alessandra Mussolini, deputy of the right-wing National Alliance Party and
-    granddaughter of former
-  archive: JSTOR
-  author:
-    - family: Calavita
-      given: Kitty
-  citation-key: Calavita2014
-  container-title: The Law and Society Reader II
-  editor:
-    - family: Larson
-      given: Erik
-    - family: Schmidt
-      given: Patrick
-  ISBN: 978-0-8147-7081-8
-  issued:
-    - year: 2014
-  note: 'Select: zotero://select/library/items/IPR7AMP6'
-  page: 381–386
-  publisher: NYU Press
-  source: JSTOR
-  title: Blue Jeans, Rape, and the “De-Constitutive” Power of Law
-  type: chapter
-  URL: https://www.jstor.org/stable/j.ctt9qg0dk.50
-
 - id: Calavita2016
   abstract: >-
     Law and society is a rapidly growing field that turns the conventional view
@@ -5043,6 +5047,39 @@ references:
     of Real Law
   title-short: Invitation to Law and Society, Second Edition
   type: book
+
+- id: calavitaBlueJeansRape2014
+  abstract: >-
+    On 10 February 1999, Italy’s highest court of appeals overturned the
+    conviction of a driving instructor who had allegedly raped his 18-year-old
+    student. The Corte di Cassazione reasoned that the young woman was wearing
+    blue jeans at the time, so the sexual intercourse must have been consensual.
+    The Justices proclaimed, “It is impossible to take off jeans . . . without
+    the active cooperation of the person wearing them.” The decision set off a
+    wave of protest across the political spectrum in Italy and around the world.
+    Alessandra Mussolini, deputy of the right-wing National Alliance Party and
+    granddaughter of former
+  archive: JSTOR
+  author:
+    - family: Calavita
+      given: Kitty
+  citation-key: calavitaBlueJeansRape2014
+  container-title: The Law and Society Reader II
+  editor:
+    - family: Larson
+      given: Erik
+    - family: Schmidt
+      given: Patrick
+  ISBN: 978-0-8147-7081-8
+  issued:
+    - year: 2014
+  note: 'Select: zotero://select/library/items/IPR7AMP6'
+  page: 381–386
+  publisher: NYU Press
+  source: JSTOR
+  title: Blue Jeans, Rape, and the “De-Constitutive” Power of Law
+  type: chapter
+  URL: https://www.jstor.org/stable/j.ctt9qg0dk.50
 
 - id: CamachoMajorLeagueBaseball_SDCal2013
   authority: S.D. Cal.
@@ -9628,11 +9665,11 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.12253
   volume: '47'
 
-- id: Ernst1995
+- id: ernstLawyersLaborIndividual1995
   author:
     - family: Ernst
       given: Daniel R
-  citation-key: Ernst1995
+  citation-key: ernstLawyersLaborIndividual1995
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/HYKY6847'
@@ -10071,6 +10108,29 @@ references:
   title: Farmer v. United Brotherhood of Carpenters & Joiners, Local 25
   type: legal_case
   volume: '430'
+
+- id: Farriss_nd
+  author:
+    - family: Farriss
+      given: James Joseph
+  citation-key: Farriss_nd
+  language: en
+  source: Zotero
+  title: High Point North Carolina [1915]
+  type: article-journal
+
+- id: Farriss1915
+  author:
+    - family: Farriss
+      given: J.J.
+  citation-key: Farriss1915
+  edition: 7th
+  issued:
+    - year: 1915
+  note: 7th ed.
+  title: High Point, North Carolin
+  type: book
+  URL: https://lib.digitalnc.org/record/26280?ln=en&v=pdf
 
 - id: FarwellBostonWorcesterRailroad_Mass1842
   authority: Mass.
@@ -12266,7 +12326,7 @@ references:
   type: legal_case
   volume: '513'
 
-- id: Frohman2014
+- id: frohmanConvictabilityDiscordantLocales2014
   abstract: >-
     What categories do prosecutors use to assess sexual assault cases? What are
     the ramifications of using case convictability as a decisionmaking standard?
@@ -12282,7 +12342,7 @@ references:
   author:
     - family: Frohman
       given: Lisa
-  citation-key: Frohman2014
+  citation-key: frohmanConvictabilityDiscordantLocales2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -12678,7 +12738,7 @@ references:
   type: legal_case
   volume: '515'
 
-- id: Garth2014
+- id: garthLegalRealismLaw2014
   abstract: >-
     The 1960s, in retrospect, were a good time for an alliance between law and
     social science both because of what was happening in the production of
@@ -12695,7 +12755,7 @@ references:
       given: Bryant
     - family: Sterling
       given: Joyce
-  citation-key: Garth2014
+  citation-key: garthLegalRealismLaw2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -12808,6 +12868,36 @@ references:
   title: 'Which Side Are You On?: Trying to Be for Labor When It''s Flat on Its Back'
   title-short: Which Side Are You On?
   type: book
+
+- id: GeorgePennyBids_NorthWilkesboroHustler_1924
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  citation-key: GeorgePennyBids_NorthWilkesboroHustler_1924
+  container-title: North Wilkesboro Hustler
+  issued:
+    - year: 1924
+      month: 7
+      day: 30
+  page: '1'
+  title: George Penny Bids $300,000 for Bailey Brothers Tobacco Plant
+  title-short: Rural North Carolina History
+  type: article-newspaper
+  URL: >-
+    https://ruralnchistory.blogspot.com/2024/07/george-penny-bids-300000-for-bailey.html
+
+- id: GeorgeThomasPenny_nd
+  abstract: Son of Mark Penny & Clementine Wright Penny.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  citation-key: GeorgeThomasPenny_nd
+  language: en
+  title: George Thomas Penny (1876-1961) - Find a Grave...
+  type: webpage
+  URL: https://www.findagrave.com/memorial/29636796/george_thomas-penny
 
 - id: GeorgetownUniversityDiscussion2025
   abstract: >-
@@ -13524,7 +13614,7 @@ references:
   title: A Primer on American Labor Law
   type: book
 
-- id: Gowder
+- id: Gowder_nd
   abstract: >-
     The Rule of Law in the Real World (Cambridge University Press, 2016) gives a
     comprehensive new theory of the political and legal ideal known as 'the rule
@@ -13539,7 +13629,7 @@ references:
   author:
     - family: Gowder
       given: Paul
-  citation-key: Gowder
+  citation-key: Gowder_nd
   language: en
   title: The Rule of Law in the Real World
   type: webpage
@@ -14384,7 +14474,7 @@ references:
   type: article-journal
   volume: '62'
 
-- id: Hadfield2014
+- id: hadfieldFramingChoiceCash2014
   abstract: >-
     Most lawyers and judges thought it would be an easy choice. When the 9/11
     victims and those who lost family members in the attacks were offered an
@@ -14398,7 +14488,7 @@ references:
   author:
     - family: Hadfield
       given: Gillian K.
-  citation-key: Hadfield2014
+  citation-key: hadfieldFramingChoiceCash2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -14914,7 +15004,7 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/jle8&i=371
   volume: '8'
 
-- id: Heimer2014
+- id: heimerCompetingInstitutionsLaw2014
   abstract: >-
     Sociolegal scholars have long acknowledged that the influence of law varies
     from one setting to another and that other normative systems also shape
@@ -14930,7 +15020,7 @@ references:
   author:
     - family: Heimer
       given: Carol A.
-  citation-key: Heimer2014
+  citation-key: heimerCompetingInstitutionsLaw2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -17605,51 +17695,6 @@ references:
     https://fastcapitalism.journal.library.uta.edu/index.php/fastcapitalism/article/view/355
   volume: '14'
 
-- id: Kelly1996
-  abstract: >-
-    America has long enjoyed a love/hate relationship with its attorneys; jokes
-    equating lawyers with vermin abound at the same time that our love of
-    litigation is reflected in a doubling of the ranks of lawyers since the
-    1960s. Though we often see the lawyer as a crusading lone wolf of justice,
-    the illuminating Lives of Lawyers demonstrates that the integrity of
-    individual lawyers is fundamentally influenced by the nature of the legal
-    organizations that have come to dominate the field. In fleshing out these
-    agencies of legal expertise, Kelly offers important insights into the
-    personal ideals of lawyers, the struggle to clarify professionalism as
-    interpreted by the legal origination, and the effects of these factors on
-    society's perceptions of law and lawyering. Lives of Lawyers paints an
-    intimate portrait of five legal entities: two corporate firms, an in-house
-    corporate counsel's office, and a public interest agency. Each is viewed
-    through a kaleidoscope of client/colleague relationships, connections to
-    civic and community life, income levels and career satisfaction of
-    attorneys, the social status of the organization, and the character of the
-    particular law practiced. These detailed portrayals vividly reveal the
-    diversity inherent to the profession and the wealth of responses to the
-    question of what shapes the values of today's legal practices. The author's
-    deft use of narrative and debt to the discipline of biography and sociology
-    make his five stores a first-rate read. Kelly gets into the trenches with
-    lawyers comprising these organizations; they don't mince words in passing
-    judgment on themselves, their employers, or the state of the
-    profession--particularly its growing commercialism. Nonetheless, Lives of
-    Lawyers reminds us of the constantly renewed dedication by lawyers to the
-    principles of legal professionalism. Michael J. Kelly is University Vice
-    President and Professor of Law, Georgetown University.
-  author:
-    - family: Kelly
-      given: Michael J.
-  citation-key: Kelly1996
-  ISBN: 978-0-472-08385-5
-  issued:
-    - year: 1996
-  language: en
-  note: 'Select: zotero://select/library/items/325IP8A2'
-  number-of-pages: '272'
-  publisher: University of Michigan Press
-  source: Google Books
-  title: 'Lives of Lawyers: Journeys in the Organizations of Practice'
-  title-short: Lives of Lawyers
-  type: book
-
 - id: Kelly2002
   abstract: >-
     Because of its characterization of National Socialism as a form of
@@ -17735,6 +17780,51 @@ references:
     Lives of Lawyers Revisited: Transformation and Resilience in the
     Organizations of Practice
   title-short: Lives of Lawyers Revisited
+  type: book
+
+- id: kellyLivesLawyersJourneys1996
+  abstract: >-
+    America has long enjoyed a love/hate relationship with its attorneys; jokes
+    equating lawyers with vermin abound at the same time that our love of
+    litigation is reflected in a doubling of the ranks of lawyers since the
+    1960s. Though we often see the lawyer as a crusading lone wolf of justice,
+    the illuminating Lives of Lawyers demonstrates that the integrity of
+    individual lawyers is fundamentally influenced by the nature of the legal
+    organizations that have come to dominate the field. In fleshing out these
+    agencies of legal expertise, Kelly offers important insights into the
+    personal ideals of lawyers, the struggle to clarify professionalism as
+    interpreted by the legal origination, and the effects of these factors on
+    society's perceptions of law and lawyering. Lives of Lawyers paints an
+    intimate portrait of five legal entities: two corporate firms, an in-house
+    corporate counsel's office, and a public interest agency. Each is viewed
+    through a kaleidoscope of client/colleague relationships, connections to
+    civic and community life, income levels and career satisfaction of
+    attorneys, the social status of the organization, and the character of the
+    particular law practiced. These detailed portrayals vividly reveal the
+    diversity inherent to the profession and the wealth of responses to the
+    question of what shapes the values of today's legal practices. The author's
+    deft use of narrative and debt to the discipline of biography and sociology
+    make his five stores a first-rate read. Kelly gets into the trenches with
+    lawyers comprising these organizations; they don't mince words in passing
+    judgment on themselves, their employers, or the state of the
+    profession--particularly its growing commercialism. Nonetheless, Lives of
+    Lawyers reminds us of the constantly renewed dedication by lawyers to the
+    principles of legal professionalism. Michael J. Kelly is University Vice
+    President and Professor of Law, Georgetown University.
+  author:
+    - family: Kelly
+      given: Michael J.
+  citation-key: kellyLivesLawyersJourneys1996
+  ISBN: 978-0-472-08385-5
+  issued:
+    - year: 1996
+  language: en
+  note: 'Select: zotero://select/library/items/325IP8A2'
+  number-of-pages: '272'
+  publisher: University of Michigan Press
+  source: Google Books
+  title: 'Lives of Lawyers: Journeys in the Organizations of Practice'
+  title-short: Lives of Lawyers
   type: book
 
 - id: Kelman1990
@@ -19238,7 +19328,7 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/geojlege34&i=70
   volume: '34'
 
-- id: Lazarus-Black2014
+- id: lazarus-blackAlternativeReadingsStatus2014
   abstract: >-
     English colonists settled Antigua [one of the Leeward Islands in the eastern
     Caribbean] in 1632. During the next century, they turned the island into a
@@ -19253,7 +19343,7 @@ references:
   author:
     - family: Lazarus-Black
       given: Mindie
-  citation-key: Lazarus-Black2014
+  citation-key: lazarus-blackAlternativeReadingsStatus2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -20765,6 +20855,23 @@ references:
   type: article-journal
   URL: https://scholarship.law.georgetown.edu/facpub/2368
   volume: '34'
+
+- id: LudwickPenny_NC1911
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  authority: N.C.
+  citation-key: LudwickPenny_NC1911
+  container-title: S.E.
+  issued:
+    - year: 1911
+  page: '228'
+  title: Ludwick v. Penny
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Document/Ie4adfb01044611da9439b076ef9ec4de/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+  volume: '73'
 
 - id: Lynd2011
   abstract: "Blending cutting-edge legal strategies for winning justice at work with a theory of dramatic, bottom-up social change, this practical guide to workers’ rights aims to make work better while reinvigorating the labor movement. A powerful organization model called “solidarity unionism” is explained, showing how the labor force can avoid the pitfalls of the legal system and utilize direct action to win fair rights. The new edition includes new cases governing fundamental labor rights\_and can be used not only by union workers, but can serve as a guerrilla legal handbook for any employee in this unstable economy."
@@ -22818,24 +22925,6 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.42
 
-- id: Mertz1994
-  author:
-    - family: Mertz
-      given: Elizabeth
-  call-number: '0055'
-  citation-key: Mertz1994
-  container-title: Law & Society Review
-  issue: '5'
-  issued:
-    - year: 1994
-  note: |-
-    Select: zotero://select/library/items/9JX48T2I
-    00065
-  page: '1243'
-  title: A New Social Constructionism for Sociolegal Studies
-  type: article-journal
-  volume: '28'
-
 - id: Mertz2014
   abstract: >-
     I hope to indicate a way in which social science can overcome (indeed, has
@@ -22868,6 +22957,24 @@ references:
   title: A New Social Constructionism for Sociolegal Studies
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.27
+
+- id: mertzNewSocialConstructionism1994
+  author:
+    - family: Mertz
+      given: Elizabeth
+  call-number: '0055'
+  citation-key: mertzNewSocialConstructionism1994
+  container-title: Law & Society Review
+  issue: '5'
+  issued:
+    - year: 1994
+  note: |-
+    Select: zotero://select/library/items/9JX48T2I
+    00065
+  page: '1243'
+  title: A New Social Constructionism for Sociolegal Studies
+  type: article-journal
+  volume: '28'
 
 - id: MessinaIowaDeptJob_Iowa1983
   accessed:
@@ -25251,6 +25358,16 @@ references:
   URL: >-
     https://archive.seattletimes.com/archive/19960901/2347082/an-old-communist-ponders-life-as-a-red-menace----scales-worked-in-the-south-for-rights-of-blacks
 
+- id: OldSongsPennys_nd
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  citation-key: OldSongsPennys_nd
+  title: 'Old Songs: Penny''s Farm'
+  type: webpage
+  URL: https://www.lizlyle.lofgrens.org/RmOlSngs/RTOS-PennysFarm.html
+
 - id: Olivares2025
   abstract: >-
     Democratic Congress members who visited detention center with mayor say Ice
@@ -26017,6 +26134,73 @@ references:
   title: Pennoyer v. Neff
   type: legal_case
   volume: '95'
+
+- id: PennybyrnCelebratesDiamondAnniversary_YESWeekly2022
+  abstract: >-
+    A great white tent on the lawn of the Pennybyrn Convent and a wee bit of
+    Irish background music greeted guests gathered to celebrate the diamond
+    anniversary of Pennybyrn at
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  author:
+    - family: Dennis
+      given: Norma B.
+  citation-key: PennybyrnCelebratesDiamondAnniversary_YESWeekly2022
+  container-title: YES! Weekly
+  issued:
+    - year: 2022
+      month: 10
+      day: 12
+  language: en
+  title: Pennybyrn celebrates diamond anniversary
+  type: webpage
+  URL: >-
+    https://www.yesweekly.com/news/jamestown_news/pennybyrn-celebrates-diamond-anniversary/article_ae231572-4a59-11ed-ac96-2b650d2a678a.html
+
+- id: PennybyrnGeorgePenny_nd
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  citation-key: PennybyrnGeorgePenny_nd
+  title: Pennybyrn (George T. Penny House)
+  type: webpage
+  URL: https://ncarchitects.lib.ncsu.edu/buildings/B003811
+
+- id: PennyLudwick_NC1910
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  authority: N.C.
+  citation-key: PennyLudwick_NC1910
+  container-title: S.E.
+  issued:
+    - year: 1910
+  page: '919'
+  title: Penny v. Ludwick
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Document/Iad264846044611dab386b232635db992/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+  volume: '67'
+
+- id: PennysDealingsPaved_JamestownNews_2016
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  citation-key: PennysDealingsPaved_JamestownNews_2016
+  container-title: Jamestown News
+  event-place: Jamestown, NC
+  issued:
+    - year: 2016
+      month: 6
+      day: 22
+  publisher-place: Jamestown, NC
+  title: Penny's dealings paved the way for nursing home
+  type: article-newspaper
 
 - id: PeopleEthicalTreatmentAnimals_4thCir2018
   authority: 4th Cir.
@@ -26821,30 +27005,6 @@ references:
   URL: http://www.jstor.org/stable/27641352
   volume: '24'
 
-- id: Porter1998
-  author:
-    - family: Porter
-      given: Aaron
-  citation-key: Porter1998
-  container-title: 'Cause Lawyering: Political Commitments and Professional Responsibilities'
-  editor:
-    - family: Sarat
-      given: Austin
-    - family: Scheingold
-      given: Stuart
-  ISBN: 978-0-19-535447-8
-  issued:
-    - year: 1998
-  note: 'Select: zotero://select/library/items/R5SCDQ5F'
-  page: '151'
-  publisher: Oxford University Press, Incorporated
-  source: ProQuest Ebook Central
-  title: >-
-    Norris, Schmidt, Green, Harris, Higginbothom & Associates: The Sociological
-    Import of Philadelphia Cause Lawyers
-  type: chapter
-  URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
-
 - id: Porter2013
   abstract: >-
     The author's goal in this article is to estimate the causal effect of
@@ -26875,6 +27035,30 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/001979391306600508
   volume: '66'
+
+- id: porterNorrisSchmidtGreen1998
+  author:
+    - family: Porter
+      given: Aaron
+  citation-key: porterNorrisSchmidtGreen1998
+  container-title: 'Cause Lawyering: Political Commitments and Professional Responsibilities'
+  editor:
+    - family: Sarat
+      given: Austin
+    - family: Scheingold
+      given: Stuart
+  ISBN: 978-0-19-535447-8
+  issued:
+    - year: 1998
+  note: 'Select: zotero://select/library/items/R5SCDQ5F'
+  page: '151'
+  publisher: Oxford University Press, Incorporated
+  source: ProQuest Ebook Central
+  title: >-
+    Norris, Schmidt, Green, Harris, Higginbothom & Associates: The Sociological
+    Import of Philadelphia Cause Lawyers
+  type: chapter
+  URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
 
 - id: Posner2003
   abstract: >-
@@ -27157,6 +27341,30 @@ references:
   title: Pregnancy Discrimination and Pregnancy-Related Disability Discrimination
   type: webpage
   URL: https://www.eeoc.gov/pregnancy-discrimination
+
+- id: PresbyterianHomeBuildingBe_YESWeekly2023
+  abstract: >-
+    The big, empty building at the intersection of Jamestown Parkway and
+    I-74/311 Bypass in High Point will be empty no longer if John and Bonnie
+    Hannon’s dreams go as planned.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  author:
+    - family: Brooks
+      given: Carol
+  citation-key: PresbyterianHomeBuildingBe_YESWeekly2023
+  container-title: YES! Weekly
+  issued:
+    - year: 2023
+      month: 6
+      day: 7
+  language: en
+  title: Presbyterian Home building to be revitalized
+  type: webpage
+  URL: >-
+    https://www.yesweekly.com/news/jamestown_news/presbyterian-home-building-to-be-revitalized/article_d25b62c2-0544-11ee-89ab-23afde08d8e6.html
 
 - id: ProhibitedEmploymentPolicies_nd
   accessed:
@@ -34849,6 +35057,23 @@ references:
   URL: www.jstor.org/stable/10.1086/681274
   volume: '2014'
 
+- id: WelchWachoviaBankTrust_NC1946
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  authority: N.C.
+  citation-key: WelchWachoviaBankTrust_NC1946
+  container-title: S.E.2d
+  issued:
+    - year: 1946
+  page: '197'
+  title: Welch v. Wachovia Bank & Trust Co.
+  type: legal_case
+  URL: >-
+    https://1.next.westlaw.com/Document/Ie98fbf6604b311da9439b076ef9ec4de/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+  volume: '38'
+
 - id: WestCoastHotelCo_US1937
   authority: U.S.
   citation-key: WestCoastHotelCo_US1937
@@ -35074,6 +35299,27 @@ references:
   title: White Oak Manor
   type: legal_case
   volume: '353'
+
+- id: WhoKilledBillBailey_ForsythCountyPublicLibraryNorthCarolinaCollection2015
+  abstract: >-
+    As with most posts, many of the images can be seen full size by clicking on
+    them The area was known as Long Branch because it lay in the fork of two
+    creeks, one called Long Branch, which drained in…
+  accessed:
+    - year: 2026
+      month: 1
+      day: 6
+  citation-key: WhoKilledBillBailey_ForsythCountyPublicLibraryNorthCarolinaCollection2015
+  container-title: 'Forsyth County Public Library: North Carolina Collection'
+  issued:
+    - year: 2015
+      month: 11
+      day: 24
+  language: en
+  title: Who killed (Bill) Bailey Brothers?
+  type: post-weblog
+  URL: >-
+    https://northcarolinaroom.wordpress.com/2015/11/24/who-killed-bill-bailey-brothers/
 
 - id: WholeFoodsMarketInc_NLRB2015
   authority: N.L.R.B.
