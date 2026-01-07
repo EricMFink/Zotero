@@ -606,10 +606,9 @@ references:
   issued:
     - year: 1990
   language: en
-  section: § 12101
+  section: '12101'
   title: Americans with Disabilities Act
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/42/12101
   volume: '42'
 
 - id: AdairUnitedStates_US1908
@@ -674,11 +673,10 @@ references:
   issued:
     - year: 1967
   language: en
-  section: 621, et seq.
+  section: '621'
   title: Age Discrimination in Employment Act of 1967
   type: legislation
-  URL: https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967
-  volume: '26'
+  volume: '29'
 
 - id: AerotekIncNLRB_8thCir2018
   authority: 8th Cir.
@@ -3806,7 +3804,7 @@ references:
 - id: BostockClaytonCountyGeorgia_US2020
   authority: U.S.
   citation-key: BostockClaytonCountyGeorgia_US2020
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 2020
       month: 6
@@ -4788,7 +4786,7 @@ references:
 - id: BurlingtonIndustriesIncEllerth_US1998
   authority: U.S.
   citation-key: BurlingtonIndustriesIncEllerth_US1998
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1998
       month: 6
@@ -4889,6 +4887,19 @@ references:
   title: Burroughs v. Green Apple, LLC
   type: legal_case
   volume: '832'
+
+- id: ButlerDriveAutomotiveIndustries_4thCir2015
+  authority: 4th Cir.
+  citation-key: ButlerDriveAutomotiveIndustries_4thCir2015
+  container-title: F. 3d
+  issued:
+    - year: 2015
+      month: 7
+      day: 15
+  page: '404'
+  title: Butler v. Drive Automotive Industries of America
+  type: legal_case
+  volume: '793'
 
 - id: Butterick2015
   author:
@@ -5820,6 +5831,19 @@ references:
   title: Civil Rights Fraud Initiative
   type: document
   URL: https://www.justice.gov/dag/media/1400826/dl?inline
+
+- id: ClackamasGastroenterologyAssociatesPC_US2003
+  authority: U.S.
+  citation-key: ClackamasGastroenterologyAssociatesPC_US2003
+  container-title: U.S.
+  issued:
+    - year: 2003
+      month: 4
+      day: 22
+  page: '440'
+  title: Clackamas Gastroenterology Associates, PC v. Wells
+  type: legal_case
+  volume: '538'
 
 - id: Clark2012
   abstract: Comparative Law and Society
@@ -7976,7 +8000,7 @@ references:
   container-title: C.F.R.
   language: en
   section: '1604.11'
-  title: Discrimination Because of Sex - Sexual harassment.
+  title: Discrimination Because of Sex - Sexual harassment
   type: legislation
   volume: '29'
 
@@ -13168,12 +13192,14 @@ references:
       month: 1
       day: 5
   citation-key: GINA2008
+  container-title: U.S.C.
   issued:
     - year: 2008
   language: en
+  section: 2000ff
   title: Genetic Information Nondiscrimination Act of 2008
   type: legislation
-  URL: https://www.eeoc.gov/statutes/genetic-information-nondiscrimination-act-2008
+  volume: '42'
 
 - id: GinwrightExeterFinanceCorp_DMd2017
   authority: D. Md.
@@ -14806,7 +14832,7 @@ references:
 - id: HarrisForkliftSystemsInc_US1993
   authority: U.S.
   citation-key: HarrisForkliftSystemsInc_US1993
-  container-title: US
+  container-title: U.S.
   issued:
     - year: 1993
       month: 11
@@ -14983,6 +15009,19 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/43489395
   volume: '28'
+
+- id: HazenPaperCoBiggins_US1993
+  authority: U.S.
+  citation-key: HazenPaperCoBiggins_US1993
+  container-title: U.S.
+  issued:
+    - year: 1993
+      month: 4
+      day: 20
+  page: '604'
+  title: Hazen Paper Co. v. Biggins
+  type: legal_case
+  volume: '507'
 
 - id: Head1979
   author:
@@ -19492,6 +19531,19 @@ references:
   title: Lemmerman v. A.T. Williams Oil Co.
   type: legal_case
   volume: '350'
+
+- id: LemonMyersBigelPA_4thCir2021
+  authority: 4th Cir.
+  citation-key: LemonMyersBigelPA_4thCir2021
+  container-title: F. 3d
+  issued:
+    - year: 2021
+      month: 1
+      day: 19
+  page: '392'
+  title: Lemon v. Myers Bigel, P.A.
+  type: legal_case
+  volume: '985'
 
 - id: Leon2015
   abstract: >-
@@ -24352,6 +24404,19 @@ references:
   type: legal_case
   volume: '253'
 
+- id: NationwideMutInsCo_US1992
+  authority: U.S.
+  citation-key: NationwideMutInsCo_US1992
+  container-title: U.S.
+  issued:
+    - year: 1992
+      month: 3
+      day: 24
+  page: '318'
+  title: Nationwide Mut. Ins. Co. v. Darden
+  type: legal_case
+  volume: '503'
+
 - id: NBAPropertiesIncHanwjh_7thCircuit2022
   authority: 7th Circuit
   citation-key: NBAPropertiesIncHanwjh_7thCircuit2022
@@ -25953,11 +26018,9 @@ references:
   issued:
     - year: 1978
   language: en
-  number: Pub. L. 95–555
   section: 701(k)
   title: Pregnancy Discrimination Act of 1978
   type: legislation
-  URL: https://www.eeoc.gov/statutes/pregnancy-discrimination-act-1978
   volume: '42'
 
 - id: Pearce1996
@@ -27586,7 +27649,6 @@ references:
   section: 2000gg
   title: Pregnant Workers Fairness Act
   type: legislation
-  URL: https://www.eeoc.gov/statutes/pregnant-workers-fairness-act
   volume: '42'
 
 - id: Quandt2009
@@ -27772,6 +27834,19 @@ references:
   title: Ramji v. Hospital Housekeeping Systems, LLC
   type: legal_case
   volume: '992'
+
+- id: RaytheonCoHernandez_US2003
+  authority: U.S.
+  citation-key: RaytheonCoHernandez_US2003
+  container-title: U.S.
+  issued:
+    - year: 2003
+      month: 12
+      day: 2
+  page: '44'
+  title: Raytheon Co. v. Hernandez
+  type: legal_case
+  volume: '540'
 
 - id: RazakUberTechnologiesInc_3rdCir2020
   authority: 3rd Cir.
@@ -31280,6 +31355,19 @@ references:
   type: legislation
   volume: '18'
 
+- id: SmithCityJackson_US2005
+  authority: U.S.
+  citation-key: SmithCityJackson_US2005
+  container-title: U.S.
+  issued:
+    - year: 2005
+      month: 3
+      day: 30
+  page: '228'
+  title: Smith v. City of Jackson
+  type: legal_case
+  volume: '544'
+
 - id: SmithManheimRemarketingInc_WDNC2019
   authority: W.D.N.C.
   citation-key: SmithManheimRemarketingInc_WDNC2019
@@ -33275,6 +33363,19 @@ references:
   type: legal_case
   volume: '553'
 
+- id: TeamstersUnitedStates_US1977
+  authority: U.S.
+  citation-key: TeamstersUnitedStates_US1977
+  container-title: US
+  issued:
+    - year: 1977
+      month: 5
+      day: 31
+  page: '324'
+  title: Teamsters v. United States
+  type: legal_case
+  volume: '431'
+
 - id: TeethDoctorsPay$61000_USEqualEmploymentOpportunityCommission_nd
   abstract: RALEIGH, N.C.
   accessed:
@@ -33798,10 +33899,9 @@ references:
   citation-key: TitleVII_1964
   container-title: U.S.C.
   language: en
-  section: 2000e, et seq.
-  title: Title VII of the Civil Rights Act of 1964
+  section: 2000e
+  title: Civil Rights Act of 1964, Title VII
   type: legislation
-  URL: https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964
   volume: '42'
 
 - id: TKOFleetEnterprisesDistrict_EDNY1999
