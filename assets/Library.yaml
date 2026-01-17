@@ -319,6 +319,28 @@ references:
   title: 'The System of Professions: An Essay on the Division of Expert Labor'
   type: book
 
+- id: Abel1989
+  abstract: >-
+    Contains comparative and theoretical essays on the legal profession around
+    the world.
+  author:
+    - family: Abel
+      given: Richard L.
+    - family: Lewis
+      given: Philip
+  citation-key: Abel1989
+  ISBN: 978-1-58798-266-8
+  issued:
+    - year: 1989
+  language: en
+  note: 'Select: zotero://select/library/items/ZMGD9JTZ'
+  number-of-pages: '580'
+  publisher: Beard Books
+  source: Google Books
+  title: 'Lawyers in Society: Comparative Theories'
+  title-short: Lawyers in Society
+  type: book
+
 - id: Abel1991
   abstract: >-
     This detailed portrait of American lawyers traces their efforts to
@@ -665,28 +687,6 @@ references:
   title-short: Law's Wars
   type: book
 
-- id: abelLawyersSocietyComparative1989
-  abstract: >-
-    Contains comparative and theoretical essays on the legal profession around
-    the world.
-  author:
-    - family: Abel
-      given: Richard L.
-    - family: Lewis
-      given: Philip
-  citation-key: abelLawyersSocietyComparative1989
-  ISBN: 978-1-58798-266-8
-  issued:
-    - year: 1989
-  language: en
-  note: 'Select: zotero://select/library/items/ZMGD9JTZ'
-  number-of-pages: '580'
-  publisher: Beard Books
-  source: Google Books
-  title: 'Lawyers in Society: Comparative Theories'
-  title-short: Lawyers in Society
-  type: book
-
 - id: Abt1993
   author:
     - family: Abt
@@ -834,7 +834,7 @@ references:
   type: legal_case
   volume: '883'
 
-- id: ahleringLaborRegulationCorporate2014
+- id: Ahlering2014
   abstract: >-
     The legal origin hypothesis claims that diversity across national systems of
     production can be explained by the influence of common law and civil law
@@ -852,7 +852,7 @@ references:
       given: Beth
     - family: Deakin
       given: Simon
-  citation-key: ahleringLaborRegulationCorporate2014
+  citation-key: Ahlering2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -2764,7 +2764,7 @@ references:
   title-short: The Monied Metropolis
   type: book
 
-- id: beckettChallengingMedicineLaw2014
+- id: Beckett2014
   abstract: >-
     Much recent sociolegal scholarship focuses on hegemony and resistance to it.
     In this scholarship, hegemony is broadly understood as power that maintains
@@ -2781,7 +2781,7 @@ references:
       given: Katherine
     - family: Hoffman
       given: Bruce
-  citation-key: beckettChallengingMedicineLaw2014
+  citation-key: Beckett2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -4135,6 +4135,159 @@ references:
   title: A History of Sociological Analysis
   type: book
 
+- id: Boudin1939
+  accessed:
+    - year: 2026
+      month: 1
+      day: 17
+  author:
+    - family: Boudin
+      given: Louis B.
+  citation-key: Boudin1939
+  container-title: Columbia Law Review
+  DOI: 10.2307/1116642
+  ISSN: 0010-1958
+  issue: '8'
+  issued:
+    - year: 1939
+  page: 1283–1337
+  source: JSTOR
+  title: 'The Sherman Act and Labor Disputes: I'
+  title-short: The Sherman Act and Labor Disputes
+  type: article-journal
+  volume: '39'
+
+- id: Boudin1940
+  accessed:
+    - year: 2026
+      month: 1
+      day: 17
+  author:
+    - family: Boudin
+      given: Louis B.
+  citation-key: Boudin1940
+  container-title: Columbia Law Review
+  DOI: 10.2307/1117112
+  ISSN: 0010-1958
+  issue: '1'
+  issued:
+    - year: 1940
+  page: 14–51
+  source: JSTOR
+  title: 'The Sherman Act and Labor Disputes: II'
+  title-short: The Sherman Act and Labor Disputes II
+  type: article-journal
+  volume: '40'
+
+- id: Boudin1942
+  accessed:
+    - year: 2026
+      month: 1
+      day: 17
+  author:
+    - family: Boudin
+      given: Louis B.
+  citation-key: Boudin1942
+  container-title: The Journal of Politics
+  DOI: 10.2307/2125547
+  ISSN: 0022-3816
+  issue: '1'
+  issued:
+    - year: 1942
+  page: 20–46
+  source: JSTOR
+  title: 'Wanted: An Integrated System of Labor Law'
+  type: article-journal
+  volume: '4'
+
+- id: Boudin1942a
+  accessed:
+    - year: 2026
+      month: 1
+      day: 17
+  author:
+    - family: Boudin
+      given: Louis B.
+  citation-key: Boudin1942a
+  container-title: Virginia Law Review
+  DOI: 10.2307/1068463
+  ISSN: 0042-6601
+  issue: '3'
+  issued:
+    - year: 1942
+  page: 272–315
+  source: JSTOR
+  title: 'Organized Labor and the Clayton Act: Part I'
+  title-short: Organized Labor and the Clayton Act
+  type: article-journal
+  volume: '29'
+
+- id: Boudin1943
+  accessed:
+    - year: 2026
+      month: 1
+      day: 17
+  author:
+    - family: Boudin
+      given: Louis B.
+  citation-key: Boudin1943
+  container-title: Virginia Law Review
+  DOI: 10.2307/1068552
+  ISSN: 0042-6601
+  issue: '4'
+  issued:
+    - year: 1943
+  page: 395–439
+  source: JSTOR
+  title: 'Organized Labor and the Clayton Act: Part II'
+  title-short: Organized Labor and the Clayton Act II
+  type: article-journal
+  volume: '29'
+
+- id: Boudin1952
+  accessed:
+    - year: 2026
+      month: 1
+      day: 17
+  author:
+    - family: Boudin
+      given: Louis B.
+  citation-key: Boudin1952
+  container-title: Virginia Law Review
+  DOI: 10.2307/1069474
+  ISSN: 0042-6601
+  issue: '2'
+  issued:
+    - year: 1952
+  page: 143–186
+  source: JSTOR
+  title: '"Seditious Doctrines" and the "Clear and Present Danger" Rule: Part I'
+  title-short: '"Seditious Doctrines" I'
+  type: article-journal
+  volume: '38'
+
+- id: Boudin1952a
+  accessed:
+    - year: 2026
+      month: 1
+      day: 17
+  author:
+    - family: Boudin
+      given: Louis B.
+  citation-key: Boudin1952a
+  container-title: Virginia Law Review
+  DOI: 10.2307/1069631
+  ISSN: 0042-6601
+  issue: '3'
+  issued:
+    - year: 1952
+  page: 315–356
+  source: JSTOR
+  title: '"Seditious Doctrines" and the "Clear and Present Danger" Rule: Part II'
+  title-short: '"Seditious Doctrines" II'
+  type: article-journal
+  volume: '38'
+
 - id: Boukalas2013
   abstract: >-
     The ‘resolutions movement’ – a popular political mobilisation guided by
@@ -5321,6 +5474,39 @@ references:
     https://read.dukeupress.edu/labor/article/16/2/99/138628/Influence-without-BargainingUnionization-at-the
   volume: '16'
 
+- id: Calavita2014
+  abstract: >-
+    On 10 February 1999, Italy’s highest court of appeals overturned the
+    conviction of a driving instructor who had allegedly raped his 18-year-old
+    student. The Corte di Cassazione reasoned that the young woman was wearing
+    blue jeans at the time, so the sexual intercourse must have been consensual.
+    The Justices proclaimed, “It is impossible to take off jeans . . . without
+    the active cooperation of the person wearing them.” The decision set off a
+    wave of protest across the political spectrum in Italy and around the world.
+    Alessandra Mussolini, deputy of the right-wing National Alliance Party and
+    granddaughter of former
+  archive: JSTOR
+  author:
+    - family: Calavita
+      given: Kitty
+  citation-key: Calavita2014
+  container-title: The Law and Society Reader II
+  editor:
+    - family: Larson
+      given: Erik
+    - family: Schmidt
+      given: Patrick
+  ISBN: 978-0-8147-7081-8
+  issued:
+    - year: 2014
+  note: 'Select: zotero://select/library/items/IPR7AMP6'
+  page: 381–386
+  publisher: NYU Press
+  source: JSTOR
+  title: Blue Jeans, Rape, and the “De-Constitutive” Power of Law
+  type: chapter
+  URL: https://www.jstor.org/stable/j.ctt9qg0dk.50
+
 - id: Calavita2016
   abstract: >-
     Law and society is a rapidly growing field that turns the conventional view
@@ -5360,39 +5546,6 @@ references:
     of Real Law
   title-short: Invitation to Law and Society, Second Edition
   type: book
-
-- id: calavitaBlueJeansRape2014
-  abstract: >-
-    On 10 February 1999, Italy’s highest court of appeals overturned the
-    conviction of a driving instructor who had allegedly raped his 18-year-old
-    student. The Corte di Cassazione reasoned that the young woman was wearing
-    blue jeans at the time, so the sexual intercourse must have been consensual.
-    The Justices proclaimed, “It is impossible to take off jeans . . . without
-    the active cooperation of the person wearing them.” The decision set off a
-    wave of protest across the political spectrum in Italy and around the world.
-    Alessandra Mussolini, deputy of the right-wing National Alliance Party and
-    granddaughter of former
-  archive: JSTOR
-  author:
-    - family: Calavita
-      given: Kitty
-  citation-key: calavitaBlueJeansRape2014
-  container-title: The Law and Society Reader II
-  editor:
-    - family: Larson
-      given: Erik
-    - family: Schmidt
-      given: Patrick
-  ISBN: 978-0-8147-7081-8
-  issued:
-    - year: 2014
-  note: 'Select: zotero://select/library/items/IPR7AMP6'
-  page: 381–386
-  publisher: NYU Press
-  source: JSTOR
-  title: Blue Jeans, Rape, and the “De-Constitutive” Power of Law
-  type: chapter
-  URL: https://www.jstor.org/stable/j.ctt9qg0dk.50
 
 - id: CamachoMajorLeagueBaseball_SDCal2013
   authority: S.D. Cal.
@@ -10392,11 +10545,11 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/jols.12253
   volume: '47'
 
-- id: ernstLawyersLaborIndividual1995
+- id: Ernst1995
   author:
     - family: Ernst
       given: Daniel R
-  citation-key: ernstLawyersLaborIndividual1995
+  citation-key: Ernst1995
   issued:
     - year: 1995
   note: 'Select: zotero://select/library/items/HYKY6847'
@@ -13097,7 +13250,7 @@ references:
   type: legal_case
   volume: '513'
 
-- id: frohmanConvictabilityDiscordantLocales2014
+- id: Frohman2014
   abstract: >-
     What categories do prosecutors use to assess sexual assault cases? What are
     the ramifications of using case convictability as a decisionmaking standard?
@@ -13113,7 +13266,7 @@ references:
   author:
     - family: Frohman
       given: Lisa
-  citation-key: frohmanConvictabilityDiscordantLocales2014
+  citation-key: Frohman2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -13532,7 +13685,7 @@ references:
   type: legal_case
   volume: '515'
 
-- id: garthLegalRealismLaw2014
+- id: Garth2014
   abstract: >-
     The 1960s, in retrospect, were a good time for an alliance between law and
     social science both because of what was happening in the production of
@@ -13549,7 +13702,7 @@ references:
       given: Bryant
     - family: Sterling
       given: Joyce
-  citation-key: garthLegalRealismLaw2014
+  citation-key: Garth2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -14410,7 +14563,7 @@ references:
   title: A Primer on American Labor Law
   type: book
 
-- id: Gowder_nd
+- id: Gowder
   abstract: >-
     The Rule of Law in the Real World (Cambridge University Press, 2016) gives a
     comprehensive new theory of the political and legal ideal known as 'the rule
@@ -14425,7 +14578,7 @@ references:
   author:
     - family: Gowder
       given: Paul
-  citation-key: Gowder_nd
+  citation-key: Gowder
   language: en
   title: The Rule of Law in the Real World
   type: webpage
@@ -15339,7 +15492,7 @@ references:
   type: article-journal
   volume: '62'
 
-- id: hadfieldFramingChoiceCash2014
+- id: Hadfield2014
   abstract: >-
     Most lawyers and judges thought it would be an easy choice. When the 9/11
     victims and those who lost family members in the attacks were offered an
@@ -15353,7 +15506,7 @@ references:
   author:
     - family: Hadfield
       given: Gillian K.
-  citation-key: hadfieldFramingChoiceCash2014
+  citation-key: Hadfield2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -15922,7 +16075,7 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/113315996/abstract/ED56F11C3D72496FPQ/1
 
-- id: heimerCompetingInstitutionsLaw2014
+- id: Heimer2014
   abstract: >-
     Sociolegal scholars have long acknowledged that the influence of law varies
     from one setting to another and that other normative systems also shape
@@ -15938,7 +16091,7 @@ references:
   author:
     - family: Heimer
       given: Carol A.
-  citation-key: heimerCompetingInstitutionsLaw2014
+  citation-key: Heimer2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -18643,6 +18796,51 @@ references:
     https://fastcapitalism.journal.library.uta.edu/index.php/fastcapitalism/article/view/355
   volume: '14'
 
+- id: Kelly1996
+  abstract: >-
+    America has long enjoyed a love/hate relationship with its attorneys; jokes
+    equating lawyers with vermin abound at the same time that our love of
+    litigation is reflected in a doubling of the ranks of lawyers since the
+    1960s. Though we often see the lawyer as a crusading lone wolf of justice,
+    the illuminating Lives of Lawyers demonstrates that the integrity of
+    individual lawyers is fundamentally influenced by the nature of the legal
+    organizations that have come to dominate the field. In fleshing out these
+    agencies of legal expertise, Kelly offers important insights into the
+    personal ideals of lawyers, the struggle to clarify professionalism as
+    interpreted by the legal origination, and the effects of these factors on
+    society's perceptions of law and lawyering. Lives of Lawyers paints an
+    intimate portrait of five legal entities: two corporate firms, an in-house
+    corporate counsel's office, and a public interest agency. Each is viewed
+    through a kaleidoscope of client/colleague relationships, connections to
+    civic and community life, income levels and career satisfaction of
+    attorneys, the social status of the organization, and the character of the
+    particular law practiced. These detailed portrayals vividly reveal the
+    diversity inherent to the profession and the wealth of responses to the
+    question of what shapes the values of today's legal practices. The author's
+    deft use of narrative and debt to the discipline of biography and sociology
+    make his five stores a first-rate read. Kelly gets into the trenches with
+    lawyers comprising these organizations; they don't mince words in passing
+    judgment on themselves, their employers, or the state of the
+    profession--particularly its growing commercialism. Nonetheless, Lives of
+    Lawyers reminds us of the constantly renewed dedication by lawyers to the
+    principles of legal professionalism. Michael J. Kelly is University Vice
+    President and Professor of Law, Georgetown University.
+  author:
+    - family: Kelly
+      given: Michael J.
+  citation-key: Kelly1996
+  ISBN: 978-0-472-08385-5
+  issued:
+    - year: 1996
+  language: en
+  note: 'Select: zotero://select/library/items/325IP8A2'
+  number-of-pages: '272'
+  publisher: University of Michigan Press
+  source: Google Books
+  title: 'Lives of Lawyers: Journeys in the Organizations of Practice'
+  title-short: Lives of Lawyers
+  type: book
+
 - id: Kelly2002
   abstract: >-
     Because of its characterization of National Socialism as a form of
@@ -18728,51 +18926,6 @@ references:
     Lives of Lawyers Revisited: Transformation and Resilience in the
     Organizations of Practice
   title-short: Lives of Lawyers Revisited
-  type: book
-
-- id: kellyLivesLawyersJourneys1996
-  abstract: >-
-    America has long enjoyed a love/hate relationship with its attorneys; jokes
-    equating lawyers with vermin abound at the same time that our love of
-    litigation is reflected in a doubling of the ranks of lawyers since the
-    1960s. Though we often see the lawyer as a crusading lone wolf of justice,
-    the illuminating Lives of Lawyers demonstrates that the integrity of
-    individual lawyers is fundamentally influenced by the nature of the legal
-    organizations that have come to dominate the field. In fleshing out these
-    agencies of legal expertise, Kelly offers important insights into the
-    personal ideals of lawyers, the struggle to clarify professionalism as
-    interpreted by the legal origination, and the effects of these factors on
-    society's perceptions of law and lawyering. Lives of Lawyers paints an
-    intimate portrait of five legal entities: two corporate firms, an in-house
-    corporate counsel's office, and a public interest agency. Each is viewed
-    through a kaleidoscope of client/colleague relationships, connections to
-    civic and community life, income levels and career satisfaction of
-    attorneys, the social status of the organization, and the character of the
-    particular law practiced. These detailed portrayals vividly reveal the
-    diversity inherent to the profession and the wealth of responses to the
-    question of what shapes the values of today's legal practices. The author's
-    deft use of narrative and debt to the discipline of biography and sociology
-    make his five stores a first-rate read. Kelly gets into the trenches with
-    lawyers comprising these organizations; they don't mince words in passing
-    judgment on themselves, their employers, or the state of the
-    profession--particularly its growing commercialism. Nonetheless, Lives of
-    Lawyers reminds us of the constantly renewed dedication by lawyers to the
-    principles of legal professionalism. Michael J. Kelly is University Vice
-    President and Professor of Law, Georgetown University.
-  author:
-    - family: Kelly
-      given: Michael J.
-  citation-key: kellyLivesLawyersJourneys1996
-  ISBN: 978-0-472-08385-5
-  issued:
-    - year: 1996
-  language: en
-  note: 'Select: zotero://select/library/items/325IP8A2'
-  number-of-pages: '272'
-  publisher: University of Michigan Press
-  source: Google Books
-  title: 'Lives of Lawyers: Journeys in the Organizations of Practice'
-  title-short: Lives of Lawyers
   type: book
 
 - id: Kelman1990
@@ -20276,7 +20429,7 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/geojlege34&i=70
   volume: '34'
 
-- id: lazarus-blackAlternativeReadingsStatus2014
+- id: Lazarus-Black2014
   abstract: >-
     English colonists settled Antigua [one of the Leeward Islands in the eastern
     Caribbean] in 1632. During the next century, they turned the island into a
@@ -20291,7 +20444,7 @@ references:
   author:
     - family: Lazarus-Black
       given: Mindie
-  citation-key: lazarus-blackAlternativeReadingsStatus2014
+  citation-key: Lazarus-Black2014
   container-title: The Law and Society Reader II
   editor:
     - family: Larson
@@ -24063,6 +24216,24 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.42
 
+- id: Mertz1994
+  author:
+    - family: Mertz
+      given: Elizabeth
+  call-number: '0055'
+  citation-key: Mertz1994
+  container-title: Law & Society Review
+  issue: '5'
+  issued:
+    - year: 1994
+  note: |-
+    Select: zotero://select/library/items/9JX48T2I
+    00065
+  page: '1243'
+  title: A New Social Constructionism for Sociolegal Studies
+  type: article-journal
+  volume: '28'
+
 - id: Mertz2014
   abstract: >-
     I hope to indicate a way in which social science can overcome (indeed, has
@@ -24095,24 +24266,6 @@ references:
   title: A New Social Constructionism for Sociolegal Studies
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.27
-
-- id: mertzNewSocialConstructionism1994
-  author:
-    - family: Mertz
-      given: Elizabeth
-  call-number: '0055'
-  citation-key: mertzNewSocialConstructionism1994
-  container-title: Law & Society Review
-  issue: '5'
-  issued:
-    - year: 1994
-  note: |-
-    Select: zotero://select/library/items/9JX48T2I
-    00065
-  page: '1243'
-  title: A New Social Constructionism for Sociolegal Studies
-  type: article-journal
-  volume: '28'
 
 - id: MessinaIowaDeptJob_Iowa1983
   accessed:
@@ -28177,6 +28330,30 @@ references:
   URL: http://www.jstor.org/stable/27641352
   volume: '24'
 
+- id: Porter1998
+  author:
+    - family: Porter
+      given: Aaron
+  citation-key: Porter1998
+  container-title: 'Cause Lawyering: Political Commitments and Professional Responsibilities'
+  editor:
+    - family: Sarat
+      given: Austin
+    - family: Scheingold
+      given: Stuart
+  ISBN: 978-0-19-535447-8
+  issued:
+    - year: 1998
+  note: 'Select: zotero://select/library/items/R5SCDQ5F'
+  page: '151'
+  publisher: Oxford University Press, Incorporated
+  source: ProQuest Ebook Central
+  title: >-
+    Norris, Schmidt, Green, Harris, Higginbothom & Associates: The Sociological
+    Import of Philadelphia Cause Lawyers
+  type: chapter
+  URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
+
 - id: Porter2013
   abstract: >-
     The author's goal in this article is to estimate the causal effect of
@@ -28207,30 +28384,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/001979391306600508
   volume: '66'
-
-- id: porterNorrisSchmidtGreen1998
-  author:
-    - family: Porter
-      given: Aaron
-  citation-key: porterNorrisSchmidtGreen1998
-  container-title: 'Cause Lawyering: Political Commitments and Professional Responsibilities'
-  editor:
-    - family: Sarat
-      given: Austin
-    - family: Scheingold
-      given: Stuart
-  ISBN: 978-0-19-535447-8
-  issued:
-    - year: 1998
-  note: 'Select: zotero://select/library/items/R5SCDQ5F'
-  page: '151'
-  publisher: Oxford University Press, Incorporated
-  source: ProQuest Ebook Central
-  title: >-
-    Norris, Schmidt, Green, Harris, Higginbothom & Associates: The Sociological
-    Import of Philadelphia Cause Lawyers
-  type: chapter
-  URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
 
 - id: Posner2003
   abstract: >-
