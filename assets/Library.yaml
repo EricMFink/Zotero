@@ -4188,27 +4188,6 @@ references:
     - family: Boudin
       given: Louis B.
   citation-key: Boudin1942
-  container-title: The Journal of Politics
-  DOI: 10.2307/2125547
-  ISSN: 0022-3816
-  issue: '1'
-  issued:
-    - year: 1942
-  page: 20–46
-  source: JSTOR
-  title: 'Wanted: An Integrated System of Labor Law'
-  type: article-journal
-  volume: '4'
-
-- id: Boudin1942a
-  accessed:
-    - year: 2026
-      month: 1
-      day: 17
-  author:
-    - family: Boudin
-      given: Louis B.
-  citation-key: Boudin1942a
   container-title: Virginia Law Review
   DOI: 10.2307/1068463
   ISSN: 0042-6601
@@ -4221,6 +4200,27 @@ references:
   title-short: Organized Labor and the Clayton Act
   type: article-journal
   volume: '29'
+
+- id: Boudin1942a
+  accessed:
+    - year: 2026
+      month: 1
+      day: 17
+  author:
+    - family: Boudin
+      given: Louis B.
+  citation-key: Boudin1942a
+  container-title: The Journal of Politics
+  DOI: 10.2307/2125547
+  ISSN: 0022-3816
+  issue: '1'
+  issued:
+    - year: 1942
+  page: 20–46
+  source: JSTOR
+  title: 'Wanted: An Integrated System of Labor Law'
+  type: article-journal
+  volume: '4'
 
 - id: Boudin1943
   accessed:
@@ -4254,15 +4254,15 @@ references:
       given: Louis B.
   citation-key: Boudin1952
   container-title: Virginia Law Review
-  DOI: 10.2307/1069474
+  DOI: 10.2307/1069631
   ISSN: 0042-6601
-  issue: '2'
+  issue: '3'
   issued:
     - year: 1952
-  page: 143–186
+  page: 315–356
   source: JSTOR
-  title: '"Seditious Doctrines" and the "Clear and Present Danger" Rule: Part I'
-  title-short: '"Seditious Doctrines" I'
+  title: '"Seditious Doctrines" and the "Clear and Present Danger" Rule: Part II'
+  title-short: '"Seditious Doctrines" II'
   type: article-journal
   volume: '38'
 
@@ -4276,15 +4276,15 @@ references:
       given: Louis B.
   citation-key: Boudin1952a
   container-title: Virginia Law Review
-  DOI: 10.2307/1069631
+  DOI: 10.2307/1069474
   ISSN: 0042-6601
-  issue: '3'
+  issue: '2'
   issued:
     - year: 1952
-  page: 315–356
+  page: 143–186
   source: JSTOR
-  title: '"Seditious Doctrines" and the "Clear and Present Danger" Rule: Part II'
-  title-short: '"Seditious Doctrines" II'
+  title: '"Seditious Doctrines" and the "Clear and Present Danger" Rule: Part I'
+  title-short: '"Seditious Doctrines" I'
   type: article-journal
   volume: '38'
 
@@ -25695,6 +25695,13 @@ references:
   container-title: N.C.G.S.
   section: 96-1 et seq.
   title: North Carolina Employment Security Act
+  type: legislation
+
+- id: NCGS7A-759
+  citation-key: NCGS7A-759
+  container-title: N.C.G.S.
+  section: 7A-759
+  title: Office of Administrative Hearings--Role as Deferral Agency
   type: legislation
 
 - id: NCPropertyProtection2016
