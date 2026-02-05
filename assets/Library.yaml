@@ -160,6 +160,7 @@ references:
       day: 8
   citation-key: 2GroupsGiven_TheWashingtonPostandTimesHerald1954-1959_1957
   container-title: The Washington Post and Times Herald  (1954-1959)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1957
       month: 7
@@ -185,6 +186,7 @@ references:
       day: 8
   citation-key: 4thOfficialBail_TheWashingtonPost1923-1954_1951
   container-title: The Washington Post  (1923-1954)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1951
       month: 7
@@ -211,6 +213,7 @@ references:
       day: 8
   citation-key: 6MOREREDS_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1951
@@ -248,6 +251,7 @@ references:
   contributor:
     - family: Trump
       given: Donald J.
+  event-place: Boston, United States
   issued:
     - year: 2024
       month: 8
@@ -305,6 +309,7 @@ references:
     - family: Abbott
       given: Andrew
   citation-key: Abbott1988
+  event-place: Chicago
   issued:
     - year: 1988
   language: en
@@ -1336,6 +1341,7 @@ references:
     - family: Anderson
       given: Elizabeth
   citation-key: Anderson2017
+  event-place: Princeton
   ISBN: 978-0-691-17651-2
   issued:
     - year: 2017
@@ -1645,6 +1651,7 @@ references:
       given: The Associated
   citation-key: AntiRedBillsHeld_Press_TheWashingtonPost1923-1954_1950
   container-title: The Washington Post  (1923-1954)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1950
       month: 3
@@ -1970,6 +1977,7 @@ references:
       day: 8
   citation-key: Article2No_TheWashingtonPost1923-1954_1951
   container-title: The Washington Post  (1923-1954)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1951
       month: 7
@@ -2163,6 +2171,7 @@ references:
       given: RUSSELL
   citation-key: Bail14Reds_PORTER_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1951
@@ -2197,6 +2206,7 @@ references:
       day: 8
   citation-key: BailCommunists_TheWashingtonPost1923-1954_1951
   container-title: The Washington Post  (1923-1954)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1951
       month: 7
@@ -2223,6 +2233,7 @@ references:
       day: 8
   citation-key: BailFundNames_TheWashingtonPost1923-1954_1952
   container-title: The Washington Post  (1923-1954)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1952
       month: 7
@@ -2327,6 +2338,7 @@ references:
   container-title: >-
     The ISA Handbook in Contemporary Sociology: Conflict, Competition,
     Cooperation
+  event-place: "1 Oliver's Yard,\_ 55 City Road,\_ London\_ \_ EC1Y 1SP\_ United Kingdom"
   ISBN: 978-1-4129-3463-3 978-1-4462-1462-6
   issued:
     - year: 2009
@@ -2672,6 +2684,7 @@ references:
       given: Rosalyn Fraad
     - family: Gordon
       given: Linda
+  event-place: New York
   ISBN: 978-0-393-31262-1
   issued:
     - literal: 1995-06-0017
@@ -2703,6 +2716,7 @@ references:
       given: Gary
   citation-key: Becker1993
   edition: 3d
+  event-place: Chicago
   issued:
     - year: 1993
   note: 'Select: zotero://select/library/items/V5AUUXIS'
@@ -2732,6 +2746,7 @@ references:
     - family: Beckert
       given: Sven
   citation-key: Beckert2003
+  event-place: Cambridge
   ISBN: 978-0-521-52410-0
   issued:
     - year: 2003
@@ -2810,6 +2825,7 @@ references:
     - family: Belknap
       given: Michal R.
   citation-key: Belknap1977
+  event-place: Westport, Conn.
   ISBN: 978-0-8371-9692-3
   issued:
     - year: 1977
@@ -2940,6 +2956,7 @@ references:
   editor:
     - family: Wasby
       given: Stephen L.
+  event-place: Lawrence, Kansas
   ISBN: 978-0-7006-1953-5
   issued:
     - year: 2014
@@ -3145,6 +3162,7 @@ references:
       given: Fox Piven
   citation-key: Bernstein2010
   edition: Reissue edition
+  event-place: 'Chicago, Ill. : Minneapolis, Minn.'
   ISBN: 978-1-60846-064-9
   issued:
     - literal: 2010-07-0001
@@ -3380,6 +3398,7 @@ references:
   edition: >-
     First Edition, A new direction for labor by two of its leading activist
     intellectuals edition
+  event-place: Berkeley, Calif.; London
   ISBN: 978-0-520-26156-3
   issued:
     - literal: 2009-10-0019
@@ -3648,6 +3667,7 @@ references:
     - family: Blanc
       given: Eric
   citation-key: Blanc2019
+  event-place: London ; New York
   ISBN: 978-1-78873-574-2
   issued:
     - literal: 2019-04-0023
@@ -4045,6 +4065,7 @@ references:
       given: Eileen
     - family: Lichtenstein
       given: Nelson
+  event-place: Boston
   ISBN: 978-0-618-04254-8
   issued:
     - year: 2016
@@ -4103,6 +4124,7 @@ references:
       given: Robert <eds>
   call-number: '0154'
   citation-key: Bottomore1978
+  event-place: New York
   issued:
     - year: 1978
   note: |-
@@ -4615,6 +4637,7 @@ references:
       given: Jedediah S.
   citation-key: Britton-Purdy2024
   DOI: 10.2139/ssrn.5052568
+  event-place: Rochester, NY
   genre: SSRN Scholarly Paper
   issued:
     - year: 2024
@@ -4730,6 +4753,7 @@ references:
       given: Rudolph A.
     - family: Seeber
       given: Ronald L.
+  event-place: Ithaca
   ISBN: 978-0-8014-8446-9
   issued:
     - literal: 1998-02-0015
@@ -4902,6 +4926,7 @@ references:
       given: Deborah Jones
   citation-key: Brudney2000
   DOI: 10.2139/ssrn.223520
+  event-place: Rochester, NY
   genre: SSRN Scholarly Paper
   issued:
     - year: 2000
@@ -4990,6 +5015,7 @@ references:
     - family: Schulman
       given: Nicole
   citation-key: Buhle2005
+  event-place: London ; New York, NY
   ISBN: 978-1-84467-525-8
   issued:
     - literal: 2005-04-0017
@@ -5024,6 +5050,7 @@ references:
   contributor:
     - family: Noah
       given: Van Sciver
+  event-place: 'London : Brooklyn, NY'
   ISBN: 978-1-78663-687-4
   issued:
     - literal: 2019-02-0012
@@ -5248,6 +5275,7 @@ references:
     - family: Burns
       given: Joe
   citation-key: Burns2011
+  event-place: Brooklyn, N.Y
   ISBN: 978-1-935439-24-0
   issued:
     - literal: 2011-05-0031
@@ -5288,6 +5316,7 @@ references:
     - family: Blanc
       given: Eric
   citation-key: Burns2019
+  event-place: Place of publication not identified
   ISBN: 978-1-63246-089-9
   issued:
     - literal: 2019-10-0015
@@ -5332,6 +5361,7 @@ references:
     - family: Butterick
       given: Matthew
   citation-key: Butterick2015
+  event-place: Houston, TX
   ISBN: 978-1-59839-262-3
   issued:
     - year: 2015
@@ -5499,6 +5529,7 @@ references:
       given: Kitty
   citation-key: Calavita2016
   edition: 2 edition
+  event-place: Chicago ; London
   ISBN: 978-0-226-29658-6
   issued:
     - year: 2016
@@ -5647,6 +5678,7 @@ references:
       given: Manoj
   citation-key: Canfield2023
   DOI: 10.2139/ssrn.4554935
+  event-place: Rochester, NY
   genre: SSRN Scholarly Paper
   issued:
     - year: 2023
@@ -6208,6 +6240,7 @@ references:
       given: Ha-Joon
   citation-key: Chang2009
   edition: Reprint edition
+  event-place: New York, NY
   ISBN: 978-1-59691-598-5
   issued:
     - year: 2009
@@ -6266,6 +6299,7 @@ references:
       given: The Associated
   citation-key: CivilRightsAide_Press_TheWashingtonPost1923-1954_1950
   container-title: The Washington Post  (1923-1954)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1950
       month: 8
@@ -6291,6 +6325,7 @@ references:
       day: 8
   citation-key: CivilRightsCongress_BostonGlobe_1951
   container-title: Boston Globe
+  event-place: Boston, MA
   issued:
     - year: 1951
       month: 7
@@ -6316,6 +6351,7 @@ references:
       given: Dean W.
   citation-key: CivilRightsCongress_Dittmer_TheWashingtonPost_1947
   container-title: The Washington Post
+  event-place: Washington, DC
   issued:
     - year: 1947
       month: 8
@@ -6346,6 +6382,7 @@ references:
       given: Gwen
   citation-key: CivilRightsCongress_Gibson_TheWashingtonPostandTimesHerald1954-1959_1955
   container-title: The Washington Post and Times Herald  (1954-1959)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1955
       month: 12
@@ -6368,6 +6405,7 @@ references:
       day: 8
   citation-key: CivilRightsCongress_NewYorkTimes_1955
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1955
@@ -6465,6 +6503,7 @@ references:
       day: 8
   citation-key: CIVILRIGHTSGROUP_NewYorkTimes_1947
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1947
@@ -6492,6 +6531,7 @@ references:
       day: 8
   citation-key: CivilRightsGroup_NewYorkTimes_1954
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1954
@@ -6517,6 +6557,7 @@ references:
       day: 8
   citation-key: CIVILRIGHTSUNIT_NewYorkTimes_1955
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1955
@@ -6543,6 +6584,7 @@ references:
       day: 8
   citation-key: CivilRightsUnit_TheWashingtonPostandTimesHerald1954-1959_1954
   container-title: The Washington Post and Times Herald  (1954-1959)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1954
       month: 12
@@ -7028,6 +7070,7 @@ references:
       given: David
     - family: Zimmer
       given: Kenyon
+  event-place: London
   ISBN: 978-0-7453-9959-1
   issued:
     - literal: 2017-11-0015
@@ -7191,6 +7234,7 @@ references:
       given: Fred
   citation-key: CommunistsPlantedSouth_McGee_DurhamHerald-Sun_1956
   container-title: Durham Herald-Sun
+  event-place: Durham, NC
   issued:
     - year: 1956
       month: 3
@@ -7225,6 +7269,7 @@ references:
     - family: O'Barr
       given: William M.
   citation-key: Conley1990
+  event-place: Chicago
   issued:
     - year: 1990
   language: en
@@ -7273,6 +7318,7 @@ references:
       given: the United
   citation-key: ContemptCaseHead_Press_TheWashingtonPost1923-1954_1952
   container-title: The Washington Post  (1923-1954)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1952
       month: 3
@@ -7522,6 +7568,7 @@ references:
     - family: Sayer
       given: Derek
   citation-key: Corrigan1985
+  event-place: Oxford, OX, UK ; New York, NY, USA
   ISBN: 978-0-631-14054-2
   issued:
     - year: 1985
@@ -7592,6 +7639,7 @@ references:
       day: 8
   citation-key: CourtRevokesBond_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, NY
   issued:
     - year: 1951
       month: 9
@@ -7718,6 +7766,19 @@ references:
   URL: >-
     https://heinonline.org/HOL/Page?handle=hein.journals/dragl27&id=455&div=&collection=
   volume: '27'
+
+- id: CuddebackFloridaBdEduc_CourtofAppeals11thCircuit2004
+  authority: 11th Cir.
+  citation-key: CuddebackFloridaBdEduc_CourtofAppeals11thCircuit2004
+  container-title: F. 3d
+  issued:
+    - year: 2004
+      month: 8
+      day: 25
+  page: '1230'
+  title: Cuddeback v. Florida Bd. of Educ.
+  type: legal_case
+  volume: '381'
 
 - id: Cudworth2007
   abstract: >-
@@ -8117,6 +8178,14 @@ references:
   type: legal_case
   volume: '353'
 
+- id: DamagesCasesIntentional_nd
+  citation-key: DamagesCasesIntentional_nd
+  container-title: U.S.C.
+  section: 1981a
+  title: Damages in cases of intentional discrimination in employment
+  type: legislation
+  volume: '42'
+
 - id: Damm2020
   abstract: >-
     The quality of the legal system is of fundamental importance within any
@@ -8484,6 +8553,7 @@ references:
       given: Matthew
   citation-key: Desmond2017
   edition: Reprint edition
+  event-place: New York
   ISBN: 978-0-553-44745-3
   issued:
     - year: 2017
@@ -8625,6 +8695,7 @@ references:
     - family: Dickens
       given: Charles
   citation-key: Dickens2003
+  event-place: London New York
   ISBN: 978-0-14-143972-3
   issued:
     - year: 2003
@@ -8894,6 +8965,7 @@ references:
       given: Nigel
   citation-key: Dodd2016
   edition: Revised edition
+  event-place: Princeton Oxford
   ISBN: 978-0-691-16917-0
   issued:
     - year: 2016
@@ -9562,6 +9634,7 @@ references:
       given: David
   citation-key: Drehle2004
   edition: Reprint edition
+  event-place: New York
   ISBN: 978-0-8021-4151-4
   issued:
     - literal: 2004-08-0016
@@ -9633,6 +9706,7 @@ references:
   editor:
     - family: Dubofsky
       given: Melvyn
+  event-place: New York, NY
   ISBN: 978-0-312-29564-6
   issued:
     - literal: 2005-03-0008
@@ -9664,6 +9738,7 @@ references:
       given: Joseph A.
   citation-key: Dubofsky2017
   edition: 9 edition
+  event-place: Southern Gate, Chichester, West Sussex, UK
   ISBN: 978-1-118-97684-5
   issued:
     - literal: 2017-05-0001
@@ -10159,6 +10234,7 @@ references:
       given: Barbara
   citation-key: Ehrenreich2011
   edition: First edition
+  event-place: New York
   ISBN: 978-0-312-62668-6
   issued:
     - literal: 2011-08-0002
@@ -10184,6 +10260,7 @@ references:
       day: 8
   citation-key: EIGHTTOPREDS_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1951
@@ -10656,6 +10733,7 @@ references:
       given: Sir Edward
   call-number: '0108'
   citation-key: Evans-Pritchard1981
+  event-place: New York
   issued:
     - year: 1981
   note: |-
@@ -10690,6 +10768,7 @@ references:
     - family: Silbey
       given: Susan S.
   citation-key: Ewick1998
+  event-place: Chicago
   issued:
     - year: 1998
   language: en
@@ -10824,6 +10903,7 @@ references:
       day: 8
   citation-key: ExRedCitesRole_NewYorkTimes_1954
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1954
@@ -11002,6 +11082,7 @@ references:
       day: 21
   citation-key: FBISpyChilds_DailyTarHeel_1955
   container-title: Daily Tar Heel
+  event-place: Chapel Hill, NC
   ISSN: 1070-9436
   issued:
     - year: 1955
@@ -11397,6 +11478,7 @@ references:
     Stories of Progressive Institutional Change: Challenges to the Neoliberal
     Economy
   DOI: 10.1007/978-3-319-59779-9_3
+  event-place: Cham
   ISBN: 978-3-319-59779-9
   issued:
     - year: 2017
@@ -11434,6 +11516,7 @@ references:
   editor:
     - family: Figart
       given: Deborah M.
+  event-place: Cham
   ISBN: 978-3-319-59779-9
   issued:
     - year: 2017
@@ -11471,6 +11554,7 @@ references:
   editor:
     - family: Figart
       given: Deborah M.
+  event-place: Cham
   ISBN: 978-3-319-59779-9
   issued:
     - year: 2017
@@ -11509,6 +11593,7 @@ references:
   editor:
     - family: Figart
       given: Deborah M.
+  event-place: Cham
   ISBN: 978-3-319-59779-9
   issued:
     - year: 2017
@@ -11547,6 +11632,7 @@ references:
   editor:
     - family: Figart
       given: Deborah M.
+  event-place: Cham
   ISBN: 978-3-319-59779-9
   issued:
     - year: 2017
@@ -11705,6 +11791,7 @@ references:
   editor:
     - family: Shostak
       given: Arthur
+  event-place: New York
   ISBN: 978-0-7656-0803-1
   issued:
     - year: 2001
@@ -12073,6 +12160,7 @@ references:
       given: Tim
   citation-key: Fisman2016
   edition: 1 edition
+  event-place: New York
   ISBN: 978-1-61039-492-5
   issued:
     - year: 2016
@@ -12224,6 +12312,7 @@ references:
       given: Philip S.
   citation-key: Foner1965
   edition: Second Printing edition
+  event-place: New York, NY
   ISBN: 978-0-7178-0396-5
   issued:
     - literal: 1965-06-0001
@@ -12271,6 +12360,7 @@ references:
       given: Philip S.
   citation-key: Foner1975
   edition: New edition edition
+  event-place: New York
   ISBN: 978-0-7178-0388-0
   issued:
     - literal: 1975-04-0001
@@ -12316,6 +12406,7 @@ references:
       given: Philip S.
   citation-key: Foner1979
   edition: New edition edition
+  event-place: New York, NY
   ISBN: 978-0-7178-0376-7
   issued:
     - literal: 1979-06-0001
@@ -12340,6 +12431,7 @@ references:
       given: Philip S.
   citation-key: Foner1979a
   edition: New edition edition
+  event-place: New York
   ISBN: 978-0-7178-0562-4
   issued:
     - literal: 1979-06-0001
@@ -12376,6 +12468,7 @@ references:
       given: Philip S.
   citation-key: Foner1987
   edition: 1st ed edition
+  event-place: New York, NY
   ISBN: 978-0-7178-0627-0
   issued:
     - literal: 1987-05-0012
@@ -12400,6 +12493,7 @@ references:
       given: Philip S.
   citation-key: Foner1987a
   edition: First Edition
+  event-place: New York
   ISBN: 978-0-7178-0652-2
   issued:
     - literal: 1987-10-0001
@@ -12423,6 +12517,7 @@ references:
     - family: Foner
       given: Philip S.
   citation-key: Foner1991
+  event-place: New York, NY
   ISBN: 978-0-7178-0674-4
   issued:
     - literal: 1991-06-0001
@@ -12447,6 +12542,7 @@ references:
     - family: Foner
       given: Philip S.
   citation-key: Foner1991a
+  event-place: New York, NY
   ISBN: 978-0-7178-0691-1
   issued:
     - literal: 1991-11-0001
@@ -12469,6 +12565,7 @@ references:
       given: Philip S.
   citation-key: Foner2010
   edition: Reprint 10/22/2010 edition
+  event-place: New York, NY
   ISBN: 978-0-7178-0595-2
   issued:
     - literal: 2010-10-0022
@@ -12522,6 +12619,7 @@ references:
       given: Annelise
   citation-key: Foner2018a
   edition: 2 edition
+  event-place: Place of publication not identified
   ISBN: 978-1-60846-921-5
   issued:
     - literal: 2018-07-0017
@@ -12550,6 +12648,7 @@ references:
     - family: Fones-Wolf
       given: Elizabeth A.
   citation-key: Fones-Wolf1995
+  event-place: Urbana
   ISBN: 978-0-252-06439-5
   issued:
     - literal: 1995-01-0001
@@ -12604,6 +12703,7 @@ references:
     - family: Forbath
       given: William E.
   citation-key: Forbath1991
+  event-place: Cambridge, Mass
   ISBN: 978-0-674-51782-0
   issued:
     - literal: 1991-05-0001
@@ -12875,6 +12975,7 @@ references:
       given: Joel
   citation-key: Freeman2006
   edition: Updated edition
+  event-place: 'Ithaca : New York'
   ISBN: 978-0-8014-7325-8
   issued:
     - literal: 2006-08-0008
@@ -12950,6 +13051,7 @@ references:
     - family: Frey
       given: Carl Benedikt
   citation-key: Frey2019
+  event-place: Princeton, NJ
   ISBN: 978-0-691-17279-8
   issued:
     - year: 2019
@@ -13043,6 +13145,7 @@ references:
       given: Rudolph A.
     - family: Seeber
       given: Ronald L.
+  event-place: Ithaca, N.Y
   ISBN: 978-0-87546-326-1
   issued:
     - literal: 1994-03-0031
@@ -13328,6 +13431,7 @@ references:
       day: 8
   citation-key: FUNDWINSTAX_NewYorkTimes_1956
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1956
@@ -13350,6 +13454,7 @@ references:
       given: John Kenneth
   citation-key: Galbraith1998
   edition: 40th Anniversary ed. edition
+  event-place: Boston
   ISBN: 978-0-395-92500-3
   issued:
     - year: 1998
@@ -13545,6 +13650,7 @@ references:
     - family: Garcia
       given: Ruben J.
   citation-key: Garcia2013
+  event-place: New York, NY
   ISBN: 978-1-4798-2358-1
   issued:
     - literal: 2013-09-0013
@@ -13717,6 +13823,7 @@ references:
       given: Thomas
   citation-key: Georgehegan1991
   edition: 1st edition
+  event-place: New York
   ISBN: 978-0-374-28919-5
   issued:
     - literal: 1991-08-0001
@@ -13822,6 +13929,7 @@ references:
       given: Julius G.
   citation-key: Getman2012
   edition: Reprint edition
+  event-place: New Haven Conn.
   ISBN: 978-0-300-18817-2
   issued:
     - literal: 2012-11-0027
@@ -13937,6 +14045,7 @@ references:
       given: Anthony
   call-number: '0000'
   citation-key: Giddens1981
+  event-place: Berkeley
   issued:
     - year: 1981
   note: >-
@@ -14056,6 +14165,7 @@ references:
   editor:
     - family: Gitelman
       given: Zvi
+  event-place: Pittsbugh, Pa
   ISBN: 978-0-8229-4188-0
   issued:
     - literal: 2003-03-0002
@@ -14274,6 +14384,7 @@ references:
     - family: Goldstein
       given: Bernard
   citation-key: Goldstein2016
+  event-place: West Lafayette, Indiana
   ISBN: 978-1-55753-749-2
   issued:
     - literal: 2016-03-0015
@@ -14380,6 +14491,7 @@ references:
       given: Christopher
     - family: Grossberg
       given: Michael
+  event-place: Cambridge
   ISBN: 978-0-521-80307-6
   issued:
     - year: 2008
@@ -14400,6 +14512,7 @@ references:
       given: Professor Yosef
   citation-key: Gorny2006
   edition: annotated edition edition
+  event-place: New York
   ISBN: 978-0-7914-6659-9
   issued:
     - literal: 2006-01-0019
@@ -14442,6 +14555,7 @@ references:
     - family: Gould
       given: William B.
   citation-key: Gould2001
+  event-place: Cambridge, Mass
   ISBN: 978-0-262-57155-5
   issued:
     - literal: 2001-10-0001
@@ -14593,6 +14707,7 @@ references:
       given: RUSSELL
   citation-key: GRANDJURYSIFTS_PORTER_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1951
@@ -14675,6 +14790,7 @@ references:
       given: James
   citation-key: Green2007
   edition: Reprint edition
+  event-place: New York
   ISBN: 978-1-4000-3322-5
   issued:
     - literal: 2007-03-0013
@@ -14719,6 +14835,7 @@ references:
       given: James
   citation-key: Green2015
   edition: First Edition edition
+  event-place: New York
   ISBN: 978-0-8021-2331-2
   issued:
     - literal: 2015-02-0003
@@ -14960,6 +15077,7 @@ references:
       day: 8
   citation-key: GREENGETSNEW_NewYorkTimes_1948
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1948
@@ -15004,6 +15122,7 @@ references:
       given: Steven
   citation-key: Greenhouse2019
   edition: 1st Edition edition
+  event-place: New York
   ISBN: 978-1-101-87443-1
   issued:
     - literal: 2019-08-0006
@@ -15325,6 +15444,7 @@ references:
     - family: Hann
       given: Chris
   citation-key: Gudeman2015
+  event-place: New York, NY, UNITED STATES
   ISBN: 978-1-78238-570-7
   issued:
     - year: 2015
@@ -15375,6 +15495,14 @@ references:
   type: post-weblog
   URL: >-
     https://islamophobia.org/anti-prejudice-tools/guidance-to-u-s-employees-in-response-to-islamophobic-and-anti-palestinian-rhetoric-in-the-workplace/
+
+- id: GuidelinesDiscriminationBecause_nd
+  citation-key: GuidelinesDiscriminationBecause_nd
+  container-title: C.F.R.
+  section: 1604.1 et seq
+  title: Guidelines on Discrimination Because of Sex
+  type: legislation
+  volume: '29'
 
 - id: Gurr1968
   author:
@@ -15720,6 +15848,7 @@ references:
       given: Michael
   citation-key: Harrington1997
   edition: Reprint edition
+  event-place: New York
   ISBN: 978-0-684-82678-3
   issued:
     - year: 1997
@@ -15784,6 +15913,7 @@ references:
       given: David
   citation-key: Harvey2018
   edition: Reprint edition
+  event-place: London
   ISBN: 978-1-78873-154-6
   issued:
     - year: 2018
@@ -15958,6 +16088,7 @@ references:
       day: 8
   citation-key: HEARINGHALTEDLEFTIST_NewYorkTimes_1955
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1955
@@ -16262,6 +16393,7 @@ references:
     - family: Herbert
       given: William A.
   citation-key: Herbert2016
+  event-place: Rochester, NY
   genre: SSRN Scholarly Paper
   issued:
     - literal: 2016-12-0001
@@ -16292,6 +16424,7 @@ references:
     - family: Apkarian
       given: Jacob
   citation-key: Herbert2017
+  event-place: Rochester, NY
   genre: SSRN Scholarly Paper
   issued:
     - literal: 2017-12-0009
@@ -16346,6 +16479,7 @@ references:
     - family: Hertogh
       given: Marc
   citation-key: Hertogh2018
+  event-place: London
   ISBN: 978-1-137-60397-5
   issued:
     - year: 2018
@@ -16504,6 +16638,7 @@ references:
     - family: Hirschman
       given: Albert O.
   citation-key: Hirschman1970
+  event-place: Cambridge, Mass
   ISBN: 978-0-674-27660-4
   issued:
     - year: 1970
@@ -16554,6 +16689,7 @@ references:
       given: Albert O.
   citation-key: Hirschman1991
   edition: 1st edition
+  event-place: Cambridge, Mass
   ISBN: 978-0-674-76868-0
   issued:
     - year: 1991
@@ -16599,6 +16735,7 @@ references:
       given: Amartya
   citation-key: Hirschman2013
   edition: Revised ed. edition
+  event-place: PRINCETON
   ISBN: 978-0-691-16025-2
   issued:
     - year: 2013
@@ -16761,6 +16898,7 @@ references:
       given: Oliver Wendell
   citation-key: Holmes2020
   DOI: 10.4324/9780429338908
+  event-place: New York
   ISBN: 978-0-429-33890-8
   issued:
     - year: 2020
@@ -16843,6 +16981,7 @@ references:
     - family: Horne
       given: Gerald
   citation-key: Horne1988
+  event-place: Rutherford, N.J.
   ISBN: 978-0-8386-3285-7
   issued:
     - year: 1988
@@ -16860,6 +16999,7 @@ references:
     - family: Horwitz
       given: Morton
   citation-key: Horwitz1994
+  event-place: Oxford, New York
   ISBN: 978-0-19-509259-2
   issued:
     - literal: 1994-12-0015
@@ -16893,32 +17033,6 @@ references:
   URL: >-
     https://read.dukeupress.edu/labor/article/15/4/13/137120/SidelinedThe-Chicago-Women-s-Trade-Union-League-in
   volume: '15'
-
-- id: Hsu2026
-  abstract: >-
-    The Equal Employment Opportunity Commission voted 2-1 to roll back the
-    agency's 2024 harassment guidance in its entirety. The document gave
-    employers information on what makes up unlawful harassment.
-  accessed:
-    - year: 2026
-      month: 1
-      day: 26
-  citation-key: Hsu2026
-  container-title: NPR Morning Edition
-  director:
-    - family: Hsu
-      given: Andrea
-  issued:
-    - year: 2026
-      month: 1
-      day: 23
-  language: en
-  title: >-
-    Trump's EEOC strikes harassment guidance amid debate over transgender
-    protections
-  type: broadcast
-  URL: >-
-    https://www.npr.org/2026/01/22/nx-s1-5683134/eeoc-trump-gender-identity-harassment
 
 - id: HunterEarthgrainsCoBakery_4thCircuit2001
   authority: 4th Circuit
@@ -17259,6 +17373,7 @@ references:
       given: Jane
   citation-key: Jacobs1970
   edition: First Paperback Edition. edition
+  event-place: New York
   ISBN: 978-0-394-70584-2
   issued:
     - year: 1970
@@ -17277,6 +17392,7 @@ references:
   editor:
     - family: Jacobs
       given: Jack
+  event-place: New York
   ISBN: 978-0-8147-4258-7
   issued:
     - year: 2001
@@ -17295,6 +17411,7 @@ references:
     - family: Jacobs
       given: Jack
   citation-key: Jacobs2009
+  event-place: Syracuse, N.Y
   ISBN: 978-0-8156-3226-9
   issued:
     - literal: 2009-05-0001
@@ -17315,6 +17432,7 @@ references:
       given: Michael
     - family: Mazzucato
       given: Mariana
+  event-place: Chichester, West Sussex, United Kingdom
   ISBN: 978-1-119-12095-7
   issued:
     - year: 2016
@@ -18166,6 +18284,7 @@ references:
       given: Joanne
   citation-key: JuniusScalesOrdeal_Grant_NationalGuardian_1961
   container-title: National Guardian
+  event-place: New York, NY
   issued:
     - year: 1961
       month: 10
@@ -18199,6 +18318,7 @@ references:
   editor:
     - family: Straub
       given: Marlene
+  event-place: Berlin
   issued:
     - year: 2023
   license: Creative Commons Attribution Share Alike 4.0 International
@@ -18467,6 +18587,7 @@ references:
     - family: Karlip
       given: Joshua M.
   citation-key: Karlip2013
+  event-place: Cambridge, Massachusetts
   ISBN: 978-0-674-07285-5
   issued:
     - literal: 2013-07-0015
@@ -18613,6 +18734,7 @@ references:
     - family: Kaufman
       given: Bruce E.
   citation-key: Kaufman2006
+  event-place: New Brunswick, N.J
   ISBN: 978-1-4128-0594-0
   issued:
     - literal: 2006-12-0015
@@ -18954,6 +19076,7 @@ references:
       given: Alice
   citation-key: Kessler-Harris2001
   edition: First printing. edition
+  event-place: Oxford ; New York
   ISBN: 978-0-19-503835-4
   issued:
     - literal: 2001-09-0020
@@ -18986,6 +19109,7 @@ references:
       given: Alice
   citation-key: Kessler-Harris2003
   edition: 20th edition
+  event-place: Oxford, Eng. ; New York
   ISBN: 978-0-19-515709-3
   issued:
     - year: 2003
@@ -19020,6 +19144,7 @@ references:
       given: Alice
   citation-key: Kessler-Harris2018
   edition: Second edition
+  event-place: Urbana
   ISBN: 978-0-252-08358-7
   issued:
     - literal: 2018-10-0010
@@ -19489,6 +19614,7 @@ references:
       given: Robert B.
   citation-key: Kochan1993
   edition: Second Edition, with a New Introduction edition
+  event-place: Ithaca, N.Y
   ISBN: 978-0-87546-320-9
   issued:
     - literal: 1993-12-0031
@@ -19752,6 +19878,7 @@ references:
       given: Neil
   citation-key: Kritzer2015
   DOI: 10.2139/ssrn.2627735
+  event-place: Rochester, NY
   genre: SSRN Scholarly Paper
   issued:
     - year: 2015
@@ -19819,6 +19946,7 @@ references:
     - family: Hacking
       given: Ian
   citation-key: Kuhn2012
+  event-place: Chicago ; London
   ISBN: 978-0-226-45812-0
   issued:
     - year: 2012
@@ -19850,6 +19978,7 @@ references:
       given: Dan
   citation-key: LABotz1991
   edition: First edition
+  event-place: Detroit
   ISBN: 978-0-914093-04-6
   issued:
     - literal: 1991-01-0001
@@ -20394,6 +20523,7 @@ references:
       given: Special to THE NEW YORK
   citation-key: LEFTISTUNITBALKS_TIMES_NewYorkTimes_1950
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1950
@@ -20896,6 +21026,7 @@ references:
       given: Austin
     - family: Ewick
       given: Patricia
+  event-place: Hoboken, NJ
   ISBN: 978-1-118-70143-0 978-1-118-70146-1
   issued:
     - literal: 2015-04-0007
@@ -20960,6 +21091,7 @@ references:
     - family: Lichtenstein
       given: Nelson
   citation-key: Lichtenstein1997
+  event-place: Urbana
   ISBN: 978-0-252-06626-9
   issued:
     - year: 1997
@@ -21072,6 +21204,7 @@ references:
       given: Nelson
   citation-key: Lichtenstein2013
   edition: Revised, Expanded edition
+  event-place: Princeton, New Jersey
   ISBN: 978-0-691-16027-6
   issued:
     - literal: 2013-08-0025
@@ -21178,6 +21311,7 @@ references:
     - family: Williamson
       given: Jeffrey G.
   citation-key: Lindert2016
+  event-place: Princeton
   ISBN: 978-0-691-17049-7
   issued:
     - year: 2016
@@ -21215,6 +21349,7 @@ references:
       given: Franklin
     - family: Roediger
       given: David
+  event-place: Oakland, CA
   ISBN: 978-1-84935-080-8
   issued:
     - literal: 2012-03-0027
@@ -21252,6 +21387,7 @@ references:
       day: 8
   citation-key: LINKREDSCHARGED_NewYorkTimes_1954
   container-title: New York Times
+  event-place: New York, NY
   issued:
     - year: 1954
       month: 12
@@ -21572,6 +21708,7 @@ references:
     - family: Loomis
       given: Erik
   citation-key: Loomis2015
+  event-place: New York ; London
   ISBN: 978-1-62097-008-9
   issued:
     - year: 2015
@@ -21609,6 +21746,7 @@ references:
     - family: Loomis
       given: Erik
   citation-key: Loomis2017
+  event-place: New York, NY
   ISBN: 978-1-107-56503-6
   issued:
     - literal: 2017-05-0018
@@ -21660,6 +21798,7 @@ references:
       given: Erik
   citation-key: Loomis2018
   edition: 1st Edition edition
+  event-place: New York
   ISBN: 978-1-62097-161-1
   issued:
     - literal: 2018-10-0002
@@ -21938,6 +22077,7 @@ references:
       given: Daniel
   citation-key: Lynd2011
   edition: Second Edition, Second edition edition
+  event-place: Oakland, CA
   ISBN: 978-1-60486-419-9
   issued:
     - literal: 2011-06-0001
@@ -21982,6 +22122,7 @@ references:
     - family: Konopacki
       given: Mike
   edition: Second Edition, Second edition edition
+  event-place: 'Oakland, CA : Dexter, MI'
   ISBN: 978-1-62963-096-0
   issued:
     - literal: 2015-04-0015
@@ -22311,6 +22452,7 @@ references:
       given: José María
     - family: Przeworski
       given: Adam
+  event-place: Cambridge
   ISBN: 978-0-521-82559-7
   issued:
     - year: 2003
@@ -22441,6 +22583,7 @@ references:
     - family: Markovits
       given: Daniel
   citation-key: Markovits2019
+  event-place: New York
   ISBN: 978-0-7352-2199-4
   issued:
     - year: 2019
@@ -22522,6 +22665,7 @@ references:
     - family: Martelle
       given: Scott
   citation-key: Martelle2008
+  event-place: New Brunswick
   ISBN: 978-0-8135-4419-9
   issued:
     - literal: 2008-08-0029
@@ -22602,6 +22746,7 @@ references:
       given: Ernest
   citation-key: Marx1992
   edition: Reprint edition
+  event-place: London ; New York, N.Y
   ISBN: 978-0-14-044568-8
   issued:
     - year: 1992
@@ -22642,6 +22787,7 @@ references:
       given: Ernest
   citation-key: Marx1993
   edition: Reprint edition
+  event-place: London
   ISBN: 978-0-14-044569-5
   issued:
     - year: 1993
@@ -22688,6 +22834,7 @@ references:
       given: Ernest
   citation-key: Marx1993a
   edition: Reissue edition
+  event-place: New York, N.Y., U.S.A
   ISBN: 978-0-14-044570-1
   issued:
     - year: 1993
@@ -22980,6 +23127,7 @@ references:
       given: Marcel
   call-number: '0000'
   citation-key: Mauss1972
+  event-place: New York
   issued:
     - year: 1972
   note: |-
@@ -23032,6 +23180,7 @@ references:
   editor:
     - family: May
       given: Kenneth
+  event-place: Arlington, VA
   ISBN: 978-1-68267-057-6
   issued:
     - literal: 2016-11-0021
@@ -23086,6 +23235,7 @@ references:
       given: Immanuel
     - family: Cope
       given: Zak
+  event-place: Cham
   ISBN: 978-3-030-29901-9
   issued:
     - year: 2021
@@ -23189,6 +23339,7 @@ references:
       given: Bob
   citation-key: Mcalevey2014
   edition: Reprint edition
+  event-place: London
   ISBN: 978-1-78168-315-6
   issued:
     - literal: 2014-05-0006
@@ -23239,6 +23390,7 @@ references:
       given: Jane F.
   citation-key: McAlevey2018
   edition: Reprint edition
+  event-place: New York
   ISBN: 978-0-19-086865-9
   issued:
     - literal: 2018-04-0001
@@ -23278,6 +23430,7 @@ references:
     - family: McAlevey
       given: Jane
   citation-key: McAlevey2020
+  event-place: New York, NY
   ISBN: 978-0-06-290859-9
   issued:
     - literal: 2020-01-0007
@@ -23526,6 +23679,7 @@ references:
       given: Joseph A.
   citation-key: McCartin1998
   edition: New edition edition
+  event-place: Chapel Hill
   ISBN: 978-0-8078-4679-7
   issued:
     - literal: 1998-02-0009
@@ -23778,6 +23932,7 @@ references:
       day: 8
   citation-key: MEETINGGARDENSCORES_NewYorkTimes_1949
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1949
@@ -23805,6 +23960,7 @@ references:
       day: 8
   citation-key: MEETINGSPLANNEDHELP_NewYorkTimes_1948
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1948
@@ -23882,6 +24038,7 @@ references:
       given: Jens
     - family: Loughlin
       given: Martin
+  event-place: Cambridge
   ISBN: 978-1-316-51213-5
   issued:
     - year: 2021
@@ -23927,6 +24084,7 @@ references:
       day: 8
   citation-key: MELISHREVERSESPART_NewYorkTimes_1954
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1954
@@ -24042,6 +24200,7 @@ references:
     - family: Merry
       given: Sally Engle
   citation-key: Merry1990
+  event-place: Chicago
   issued:
     - year: 1990
   language: en
@@ -24330,6 +24489,7 @@ references:
       given: Branko
   citation-key: Milanovic2012
   edition: Reprint edition
+  event-place: New York
   ISBN: 978-0-465-03141-2
   issued:
     - year: 2012
@@ -24377,6 +24537,7 @@ references:
     - family: Milanovic
       given: Branko
   citation-key: Milanovic2019
+  event-place: Cambridge, Massachusetts
   ISBN: 978-0-674-98759-3
   issued:
     - year: 2019
@@ -24455,6 +24616,7 @@ references:
       given: Ruth
     - family: Voss
       given: Kim
+  event-place: Ithaca, N.Y
   ISBN: 978-0-8014-8902-0
   issued:
     - literal: 2004-07-0014
@@ -24483,6 +24645,7 @@ references:
     - family: Erwin
       given: Steve
   edition: 1st edition
+  event-place: Mankato, Minn
   ISBN: 978-0-7368-9662-7
   issued:
     - literal: 2006-09-0001
@@ -24736,6 +24899,7 @@ references:
       given: Angel
     - family: Sable
       given: Marc Benjamin
+  event-place: Cham
   ISBN: 978-3-319-74445-2
   issued:
     - year: 2018
@@ -24825,6 +24989,7 @@ references:
       given: ''
   citation-key: Montgomery1989
   edition: Reprint, 1999 edition
+  event-place: Cambridge
   ISBN: 978-0-521-37982-3
   issued:
     - literal: 1989-01-0027
@@ -25668,6 +25833,7 @@ references:
   citation-key: NeJaime2011
   collection-title: Studies in Law, Politics, and Society
   container-title: 'Special Issue: Social Movements/Legal Possibilities'
+  event-place: Bingley, UNITED KINGDOM
   ISBN: 978-0-85724-826-8
   issued:
     - year: 2011
@@ -25735,6 +25901,7 @@ references:
     - family: Michelson
       given: Ethan
   citation-key: Nelson2023
+  event-place: Chicago
   issued:
     - year: 2023
   language: en
@@ -25897,6 +26064,7 @@ references:
 - id: NewTrialAwaits_NationalGuardian_1954
   citation-key: NewTrialAwaits_NationalGuardian_1954
   container-title: National Guardian
+  event-place: New York, NY
   issued:
     - year: 1954
       month: 12
@@ -26180,6 +26348,7 @@ references:
       given: Junius
   citation-key: NoPlaceBrain_Scales_DailyWorker_1956
   container-title: Daily Worker
+  event-place: New York, NY
   issued:
     - year: 1956
       month: 4
@@ -26236,6 +26405,7 @@ references:
       given: Douglass C.
   citation-key: North1990
   edition: 59262nd edition
+  event-place: Cambridge ; New York
   ISBN: 978-0-521-39734-6
   issued:
     - year: 1990
@@ -26552,6 +26722,7 @@ references:
       given: Holly
   citation-key: OldCommunistPonders_Coryell_SeattleTimes_1996
   container-title: Seattle Times
+  event-place: Seattle, Washington
   issued:
     - year: 1996
       month: 9
@@ -26637,6 +26808,7 @@ references:
       given: Mancur
   citation-key: Olson1971
   edition: Revised edition
+  event-place: Cambridge, Mass.
   ISBN: 978-0-674-53751-4
   issued:
     - year: 1971
@@ -26699,6 +26871,7 @@ references:
       given: Annelise
   citation-key: Orleck1995
   edition: New edition edition
+  event-place: Chapel Hill
   ISBN: 978-0-8078-4511-0
   issued:
     - literal: 1995-05-0022
@@ -27395,6 +27568,7 @@ references:
       day: 6
   citation-key: PennysDealingsPaved_JamestownNews_2016
   container-title: Jamestown News
+  event-place: Jamestown, NC
   issued:
     - year: 2016
       month: 6
@@ -27738,6 +27912,7 @@ references:
       given: Thomas
   citation-key: Piketty2015
   edition: Translation edition
+  event-place: Cambridge, Massachusetts ; London, England
   ISBN: 978-0-674-50480-6
   issued:
     - year: 2015
@@ -27830,6 +28005,7 @@ references:
     - family: Piketty
       given: Thomas
   citation-key: Piketty2020
+  event-place: Cambridge, Massachusetts
   ISBN: 978-0-674-98082-2
   issued:
     - year: 2020
@@ -27926,6 +28102,7 @@ references:
     - family: Pistor
       given: Katharina
   citation-key: Pistor2019
+  event-place: Princeton, NJ
   ISBN: 978-0-691-17897-4
   issued:
     - year: 2019
@@ -28080,6 +28257,7 @@ references:
       given: Karl
   citation-key: Polanyi2001
   edition: 2 edition
+  event-place: Boston, MA
   ISBN: 978-0-8070-5643-1
   issued:
     - year: 2001
@@ -28338,6 +28516,7 @@ references:
     - family: Weyl
       given: E. Glen
   citation-key: Posner2018
+  event-place: Princeton
   ISBN: 978-0-691-17750-2
   issued:
     - year: 2018
@@ -28581,6 +28760,7 @@ references:
       day: 8
   citation-key: PROREDUNITGETS_NewYorkTimes_1950
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1950
@@ -28595,6 +28775,17 @@ references:
   title-short: PRO-RED UNIT GETS BID
   type: article-newspaper
   URL: https://www.proquest.com/docview/111601761/citation/C7C6757E0ED14FACPQ/13
+
+- id: PryorUnitedAirLines_4thCir2015
+  authority: 4th Cir.
+  citation-key: PryorUnitedAirLines_4thCir2015
+  container-title: F. 3d
+  issued:
+    - year: 2015
+  page: '488'
+  title: Pryor v. United Air Lines, Inc.
+  type: legal_case
+  volume: '791'
 
 - id: Przeworski2024
   abstract: >-
@@ -28818,6 +29009,7 @@ references:
       given: Sara A.
     - family: Arcury
       given: Thomas A.
+  event-place: New York, NY
   ISBN: 978-0-387-88346-5 978-0-387-88347-2
   issued:
     - year: 2009
@@ -28962,6 +29154,7 @@ references:
       given: C.
     - family: Sreejith
       given: S.G.
+  event-place: Singapore
   ISBN: 978-981-19-2568-9
   issued:
     - year: 2022
@@ -29051,6 +29244,7 @@ references:
       day: 8
   citation-key: RedBailBooks_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1951
@@ -29080,6 +29274,7 @@ references:
       given: RUSSELL
   citation-key: REDBAILFUND_PORTER_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1951
@@ -29110,6 +29305,7 @@ references:
       given: PETER
   citation-key: RedBailJumpers_KIHSS_NewYorkTimes_1952
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1952
@@ -29137,6 +29333,7 @@ references:
       day: 8
   citation-key: REDBAILSOURCE_NewYorkTimes_1956
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1956
@@ -29163,6 +29360,7 @@ references:
       day: 8
   citation-key: RedBailUnit_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1951
@@ -29188,6 +29386,7 @@ references:
       day: 8
   citation-key: REDLEADERNEARS_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1951
@@ -29214,6 +29413,7 @@ references:
       day: 8
   citation-key: REDOUTLAWBILL_NewYorkTimes_1954
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1954
@@ -29258,6 +29458,7 @@ references:
     - family: Rohrer
       given: Lisa H.
   citation-key: Regan2021
+  event-place: Chicago
   issued:
     - year: 2021
   language: en
@@ -29570,6 +29771,7 @@ references:
       day: 8
   citation-key: RIGHTSCONGRESSFACES_NewYorkTimes_1955
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1955
@@ -29596,6 +29798,7 @@ references:
       day: 8
   citation-key: RightsGroupBail_TheWashingtonPost1923-1954_1951
   container-title: The Washington Post  (1923-1954)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1951
       month: 9
@@ -29663,6 +29866,7 @@ references:
       day: 8
   citation-key: ROGGEFILESLIEN_NewYorkTimes_1952
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1952
@@ -29688,6 +29892,7 @@ references:
       given: Special to THE NEW YORK
   citation-key: ROGGELOSESSUIT_TIMES_NewYorkTimes_1952
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1952
@@ -29793,6 +29998,7 @@ references:
       given: Jake
   citation-key: Rosenfeld2014
   edition: First Edition edition
+  event-place: Cambridge, Massachusetts ; London, England
   ISBN: 978-0-674-72511-9
   issued:
     - literal: 2014-02-0010
@@ -29949,6 +30155,7 @@ references:
       given: Kyle
   citation-key: Rozema2023
   DOI: 10.2139/ssrn.4381417
+  event-place: Rochester, NY
   genre: SSRN Scholarly Paper
   issued:
     - year: 2023
@@ -30193,6 +30400,7 @@ references:
       given: Gabriel
   citation-key: Saez2019
   edition: 1 edition
+  event-place: New York, NY
   ISBN: 978-1-324-00272-7
   issued:
     - year: 2019
@@ -30255,6 +30463,7 @@ references:
       given: Nick
   citation-key: Salvatore2007
   edition: 2nd edition
+  event-place: Urbana
   ISBN: 978-0-252-07452-3
   issued:
     - literal: 2007-03-0015
@@ -30481,6 +30690,7 @@ references:
     - family: Smith
       given: Charles W.
   citation-key: Savage2017
+  event-place: Vancouver ; Toronto
   ISBN: 978-0-7748-3538-1
   issued:
     - literal: 2017-03-0027
@@ -30603,6 +30813,7 @@ references:
 - id: ScalesTrial2nd_NationalGuardian_1958
   citation-key: ScalesTrial2nd_NationalGuardian_1958
   container-title: National Guardian
+  event-place: New York, NY
   issued:
     - year: 1958
       month: 2
@@ -31414,6 +31625,7 @@ references:
       given: Joseph A.
   citation-key: Schumpeter2008
   edition: unknown edition
+  event-place: New York
   ISBN: 978-0-06-156161-0
   issued:
     - year: 2008
@@ -31456,6 +31668,7 @@ references:
     - family: Thorkelson
       given: Nick
   edition: 1st edition
+  event-place: Cambridge, Mass
   ISBN: 978-0-945902-15-7
   issued:
     - literal: 2006-01-0030
@@ -31479,6 +31692,7 @@ references:
     - family: Thorkelson
       given: Nick
   edition: 4th edition
+  event-place: Cambridge, Mass
   ISBN: 978-0-945902-16-4
   issued:
     - literal: 2006-07-0001
@@ -31574,6 +31788,7 @@ references:
       given: James C.
   citation-key: Scott1987
   edition: Reprint edition
+  event-place: New Haven
   ISBN: 978-0-300-03641-1
   issued:
     - year: 1987
@@ -31624,6 +31839,7 @@ references:
       given: James C.
   citation-key: Scott2010
   edition: Yale Agrarian Studies Series edition
+  event-place: New Haven London
   ISBN: 978-0-300-16917-1
   issued:
     - year: 2010
@@ -31993,6 +32209,7 @@ references:
       given: Gregory
     - family: Sandholtz
       given: Wayne
+  event-place: Cambridge
   ISBN: 978-1-009-46024-8
   issued:
     - year: 2025
@@ -32505,6 +32722,7 @@ references:
     - family: Skurzynski
       given: Gloria
   citation-key: Skurzynski2008
+  event-place: Minneapolis
   ISBN: 978-0-8225-7594-8
   issued:
     - literal: 2008-08-0001
@@ -32579,6 +32797,7 @@ references:
   editor:
     - family: Slaughter
       given: Jane
+  event-place: Detroit, Mich
   ISBN: 978-0-914093-12-1
   issued:
     - literal: 2005-05-0001
@@ -32598,6 +32817,7 @@ references:
       given: Dr David
   citation-key: Slucki2012
   edition: 1st Ed. edition
+  event-place: New Brunswick, N.J
   ISBN: 978-0-8135-5168-5
   issued:
     - literal: 2012-01-0017
@@ -32746,6 +32966,7 @@ references:
     - family: Smith
       given: Robert Samuel
   citation-key: Smith2008a
+  event-place: Baton Rouge
   ISBN: 978-0-8071-3363-7
   issued:
     - year: 2008
@@ -33127,6 +33348,7 @@ references:
     - family: Southworth
       given: Ann
   citation-key: Southworth2008
+  event-place: Chicago
   issued:
     - year: 2008
   language: en
@@ -33298,6 +33520,7 @@ references:
   editor:
     - family: St. Antoine
       given: Theodore J.
+  event-place: Washington, DC
   ISBN: 978-1-57018-540-3
   issued:
     - literal: 2005-09-0030
@@ -33678,6 +33901,7 @@ references:
     - family: O’Kane
       given: Chris
   container-title: The SAGE Handbook of Frankfurt School Critical Theory
+  event-place: "1 Oliver's Yard,\_55 City Road\_London\_EC1Y 1SP"
   ISBN: 978-1-4739-5334-5 978-1-5264-3612-2
   issued:
     - year: 2018
@@ -33835,6 +34059,7 @@ references:
   editor:
     - family: Stowell
       given: David O.
+  event-place: Urbana
   ISBN: 978-0-252-07477-6
   issued:
     - literal: 2008-02-0019
@@ -34364,6 +34589,7 @@ references:
     - family: Swenson
       given: Peter
   citation-key: Swenson1989
+  event-place: Ithaca
   issued:
     - year: 1989
   note: 'Select: zotero://select/library/items/4E3KMPBG'
@@ -34685,6 +34911,7 @@ references:
       day: 8
   citation-key: TAXLIENCLAMPED_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1951
@@ -34803,6 +35030,7 @@ references:
     - family: Taylor
       given: Keeanga-Yamahtta
   citation-key: Taylor2019
+  event-place: Chapel Hill
   ISBN: 978-1-4696-5366-2
   issued:
     - year: 2019
@@ -35021,6 +35249,7 @@ references:
       given: Denise
   citation-key: Tepper2018
   edition: 1 edition
+  event-place: Hoboken, New Jersey
   ISBN: 978-1-119-54819-5
   issued:
     - year: 2018
@@ -35212,6 +35441,7 @@ references:
       given: Michael D.
   citation-key: Thompson2018
   edition: Reprint edition
+  event-place: Columbia, South Carolina
   ISBN: 978-1-61117-857-9
   issued:
     - literal: 2018-02-0015
@@ -35600,6 +35830,7 @@ references:
       given: Austin
     - family: Scheingold
       given: Stuart
+  event-place: Cary, UNITED STATES
   ISBN: 978-0-19-535447-8
   issued:
     - year: 1998
@@ -35638,6 +35869,7 @@ references:
       given: WILLIAM S. WHITESpecial to THE NEW YORK
   citation-key: TRUMANURGEDCLEAR_TIMES_NewYorkTimes_1948
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1948
@@ -35795,6 +36027,7 @@ references:
       day: 8
   citation-key: TWOCOMMUNISTSBAILED_NewYorkTimes_1951
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1951
@@ -35824,6 +36057,7 @@ references:
       given: Special to The New York
   citation-key: TWOGROUPSHELD_Times_NewYorkTimes_1957
   container-title: New York Times
+  event-place: New York, N.Y., United States
   ISSN: '03624331'
   issued:
     - year: 1957
@@ -35969,6 +36203,7 @@ references:
       day: 8
   citation-key: USAttacksCivil_LosAngelesTimes_1951
   container-title: Los Angeles Times
+  event-place: Los Angeles, California
   issued:
     - year: 1951
       month: 7
@@ -35995,6 +36230,7 @@ references:
       given: The Associated
   citation-key: USCivilRights_Press_TheWashingtonPost1923-1954_1951
   container-title: The Washington Post  (1923-1954)
+  event-place: Washington, D.C., United States
   issued:
     - year: 1951
       month: 12
@@ -36322,6 +36558,7 @@ references:
       given: Jens
     - family: Loughlin
       given: Martin
+  event-place: Cambridge
   ISBN: 978-1-316-51213-5
   issued:
     - year: 2021
@@ -36437,6 +36674,17 @@ references:
   title: Walsh v. East Penn Manufacturing, Inc
   type: legal_case
   volume: '555'
+
+- id: WaltersMetropolitanEdEnterprises_US1997
+  authority: U.S.
+  citation-key: WaltersMetropolitanEdEnterprises_US1997
+  container-title: U.S.
+  issued:
+    - year: 1997
+  page: '202'
+  title: Walters v. Metropolitan Ed. Enterprises, Inc.
+  type: legal_case
+  volume: '519'
 
 - id: WangHearstCorp_2ndCir2017
   authority: 2nd Cir.
@@ -36674,6 +36922,7 @@ references:
       given: Max
   citation-key: Weber2009
   container-title: 'From Max Weber: Essays in Sociology'
+  event-place: New York
   issued:
     - year: 2009
   page: 77–128
@@ -36973,6 +37222,7 @@ references:
       given: Ahmed
   citation-key: White2022
   edition: First edition
+  event-place: Oakland, California
   ISBN: 978-0-520-38240-4
   issued:
     - year: 2022
@@ -37105,6 +37355,7 @@ references:
       given: Thomas A.
     - family: Quandt
       given: Sara A.
+  event-place: Cham
   ISBN: 978-3-030-36643-8
   issued:
     - year: 2020
@@ -37116,6 +37367,17 @@ references:
   title: Farm Labor and the Struggle for Justice in the Eastern United States
   type: chapter
   URL: https://doi.org/10.1007/978-3-030-36643-8_9
+
+- id: WildeCountyKandiyohi_8thCir1994
+  authority: 8th Cir.
+  citation-key: WildeCountyKandiyohi_8thCir1994
+  container-title: F. 3d
+  issued:
+    - year: 1994
+  page: '103'
+  title: Wilde v. County of Kandiyohi
+  type: legal_case
+  volume: '15'
 
 - id: Willemez2005
   accessed:
@@ -37295,6 +37557,7 @@ references:
       given: Stanley
   citation-key: Willis1981
   edition: Morningside edition
+  event-place: New York
   ISBN: 978-0-231-05357-0
   issued:
     - year: 1981
@@ -37397,6 +37660,7 @@ references:
       given: David
   citation-key: Witwer2003
   edition: 1st Edition edition
+  event-place: Urbana
   ISBN: 978-0-252-02825-0
   issued:
     - year: 2003
@@ -37471,6 +37735,7 @@ references:
       given: Ellen Meiksins
   citation-key: Wood2016
   edition: Reprint edition
+  event-place: Verso
   ISBN: 978-1-78478-244-3
   issued:
     - year: 2016
@@ -37681,6 +37946,7 @@ references:
     - family: Wu
       given: Tim
   citation-key: Wu2018
+  event-place: New York, NY
   ISBN: 978-0-9997454-6-5
   issued:
     - year: 2018
@@ -37743,6 +38009,7 @@ references:
     - family: Yates
       given: Michael D.
   citation-key: Yates2009
+  event-place: Winnipeg
   ISBN: 978-1-894037-35-8
   issued:
     - year: 2009
@@ -37780,6 +38047,7 @@ references:
       given: Michael D.
   citation-key: Yates2009a
   edition: 2 edition
+  event-place: New York
   ISBN: 978-1-58367-190-0
   issued:
     - literal: 2009-05-0001
@@ -37815,6 +38083,7 @@ references:
     - family: Yates
       given: Michael D.
   citation-key: Yates2012
+  event-place: New York, NY
   ISBN: 978-1-58367-280-8
   issued:
     - literal: 2012-03-0001
@@ -37846,6 +38115,7 @@ references:
       given: Michael D.
   citation-key: Yates2016
   edition: 1 edition
+  event-place: New York, NY
   ISBN: 978-1-138-18345-2
   issued:
     - year: 2016
@@ -37905,6 +38175,7 @@ references:
     - family: Yates
       given: Michael D.
   citation-key: Yates2018
+  event-place: New York
   ISBN: 978-1-58367-710-0
   issued:
     - literal: 2018-10-0002
@@ -38229,6 +38500,7 @@ references:
       given: Shoshana
   citation-key: Zuboff2019
   edition: 1 edition
+  event-place: New York
   ISBN: 978-1-61039-569-4
   issued:
     - year: 2019
