@@ -1,25 +1,5 @@
 ---
 references:
-- id: 1947PressPhotoGeorge_HistoricImages_nd
-  abstract: >-
-    State senator George T. Penny, above, of Greensboro, N.C. and his brother,
-    Jim C. Perry of Charlotte, N.C. are known as the auctioneering Pennys. The
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  author:
-    - family: Images
-      given: Historic
-  citation-key: 1947PressPhotoGeorge_HistoricImages_nd
-  container-title: Historic Images
-  language: en
-  title: >-
-    1947 Press Photo George T. Penny, North Carolina State Senator and
-    Auctioneer
-  type: webpage
-  URL: https://historicimages.com/products/sax09595
-
 - id: 1951WeChargeGenocide_BlackPast_BlackPastorg2011
   abstract: "We Charge Genocide: The Historic Petition to the United Nations for Relief From a Crime of The United States Government Against the Negro People (1951) Introduction: Out of the inhuman black ghettos of American cities, out of the cotton plantations of the South, comes this record of mass slayings on the basis of race, of lives deliberately warped and distorted by the willful creation of conditions making for premature death, poverty and disease.,\_ It is a record that calls aloud for condemnation, for an end to these terrible injustices that constitute a daily and ever-increasing violation of the United Nations Convention on the Prevention and Punishment of the Crime of Genocide. It is sometimes incorrectly thought that genocide means the complete and definitive destruction of a race or people.\_ The Genocide Convention, however, adopted by the General Assembly of the United Nations on December 9, 1948, defines genocide as any killings on the basis of race, or, in it specific words, as “killing members of the group.”\_ Any intent to destroy, in whole or in part, a national, racial, ethnic or religious group is genocide, according to the Convention.\_ Thus, the Convention states, “causing serious bodily or mental harm to members of the […]"
   accessed:
@@ -141,13 +121,6 @@ references:
   type: document
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2022-formal-ethics-opinion-1/
-
-- id: 231039AmesOhio_nd
-  citation-key: 231039AmesOhio_nd
-  language: en
-  source: Zotero
-  title: 23-1039 Ames v. Ohio Dept. of Youth Servs. (06/05/2025)
-  type: article-journal
 
 - id: 2GroupsGiven_TheWashingtonPostandTimesHerald1954-1959_1957
   abstract: >-
@@ -1199,14 +1172,6 @@ references:
   title: Animal and Ecological Terrorism in America
   type: document
 
-- id: AmericansDisabilitiesAct_nd
-  citation-key: AmericansDisabilitiesAct_nd
-  container-title: U.S.C.
-  section: 12101 et seq.
-  title: Americans with Disabilities Act
-  type: legislation
-  volume: '42'
-
 - id: Amery1980
   accessed:
     - year: 2024
@@ -1441,28 +1406,6 @@ references:
   title: Animal League Defense Fund v. Peco Foods, Inc.
   title-short: Peco Foods
   type: legal_case
-
-- id: AnimalLegalDefense2022
-  abstract: >-
-    In United States v. Alvarez, a fractured Court invalidated the Stolen Valor
-    Act of 2005 — prohibiting any person from “falsely represent[ing] himself
-    or...
-  accessed:
-    - year: 2024
-      month: 4
-      day: 23
-  citation-key: AnimalLegalDefense2022
-  container-title: Harvard Law Review
-  issued:
-    - year: 2022
-      month: 2
-  language: en-US
-  page: '1166'
-  title: Animal Legal Defense Fund v. Reynolds (Case Note)
-  type: article-journal
-  URL: >-
-    https://harvardlawreview.org/print/vol-135/animal-legal-defense-fund-v-reynolds/
-  volume: '135'
 
 - id: AnimalLegalDefenseFund_10thCir2021
   authority: 10th Cir.
@@ -2950,32 +2893,6 @@ references:
   title: 'The Crusade for Equality in the Workplace: The Griggs v. Duke Power Story'
   title-short: The Crusade for Equality in the Workplace
   type: book
-
-- id: Belton2014b
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  author:
-    - family: Belton
-      given: Robert
-    - family: Wasby
-      given: Stephen L.
-  citation-key: Belton2014b
-  container-title: Journal of Supreme Court History
-  container-title-short: Journal of Supreme Court History
-  DOI: 10.1353/sch.2014.0006
-  ISSN: 1540-5818
-  issue: '3'
-  issued:
-    - year: 2014
-  language: en
-  page: 425–443
-  source: DOI.org (Crossref)
-  title: How Griggs Came To Be
-  type: article-journal
-  URL: https://muse.jhu.edu/article/875392
-  volume: '39'
 
 - id: Ben-Menachem2025
   abstract: >-
@@ -4568,23 +4485,6 @@ references:
   title: Nationalism and the State
   type: book
 
-- id: BritePenny_NC1911
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  authority: NC
-  citation-key: BritePenny_NC1911
-  container-title: S.E.
-  issued:
-    - year: 1911
-  page: '964'
-  title: Brite v. Penny
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Document/Iad1e3206044611dab386b232635db992/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
-  volume: '72'
-
 - id: Britton-Purdy2024
   abstract: >-
     Democracy and the rule of law aim at the same thing in different ways. Both
@@ -6161,22 +6061,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/1600910X.2023.2252192
 
-- id: ChampionMediaAgreesPay_USEqualEmploymentOpportunityCommission_nd
-  abstract: RALEIGH, N.C.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: ChampionMediaAgreesPay_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: >-
-    Champion Media Agrees to Pay $102,500 to Employee in EEOC Disability
-    Discrimination Suit
-  type: webpage
-  URL: >-
-    https://www.eeoc.gov/newsroom/champion-media-agrees-pay-102500-employee-eeoc-disability-discrimination-suit
-
 - id: Chang2009
   abstract: >-
     "Lucid, deeply informed, and enlivened with striking illustrations." -Noam
@@ -6438,20 +6322,6 @@ references:
   type: entry-encyclopedia
   URL: >-
     https://en.wikipedia.org/w/index.php?title=Civil_Rights_Congress&oldid=1320752793
-
-- id: CivilRightsFraud_Blanche_2025
-  author:
-    - family: Blanche
-      given: Todd
-  citation-key: CivilRightsFraud_Blanche_2025
-  issued:
-    - year: 2025
-      month: 5
-      day: 19
-  publisher: Deputy Attorney General
-  title: Civil Rights Fraud Initiative
-  type: document
-  URL: https://www.justice.gov/dag/media/1400826/dl?inline
 
 - id: CIVILRIGHTSGROUP_NewYorkTimes_1947
   abstract: >-
@@ -7603,19 +7473,6 @@ references:
   URL: >-
     https://www.proquest.com/docview/111923018/C7C6757E0ED14FACPQ/6?accountid=10730&sourcetype=Newspapers
 
-- id: CoverageBusinessPrivateEmployers_USEqualEmploymentOpportunityCommission_nd
-  abstract: Coverage of Business/Private Employers
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: CoverageBusinessPrivateEmployers_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: Coverage of Business/Private Employers
-  type: webpage
-  URL: https://www.eeoc.gov/employers/coverage-businessprivate-employers
-
 - id: Cozzens2025
   abstract: >-
     In 1966, the Johnson administration established the largest poverty law
@@ -8307,30 +8164,6 @@ references:
   title: Deem v. Treadway
   type: legal_case
   volume: '543'
-
-- id: DefendingWomenGenderIdeology_FederalRegister2025
-  abstract: >-
-    Search, browse and learn about the Federal Register. Federal Register 2.0 is
-    the unofficial daily publication for rules, proposed rules, and notices of
-    Federal agencies and organizations, as well as executive orders and other
-    presidential documents.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: DefendingWomenGenderIdeology_FederalRegister2025
-  container-title: Federal Register
-  issued:
-    - year: 2025
-      month: 1
-      day: 30
-  language: en
-  title: >-
-    Defending Women From Gender Ideology Extremism and Restoring Biological
-    Truth to the Federal Government
-  type: webpage
-  URL: >-
-    https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal
 
 - id: Dekel2013
   accessed:
@@ -9877,17 +9710,6 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/indana74&i=523
   volume: '74'
 
-- id: DunnWashingtonCountyHospital_7thCir2005
-  authority: 7th Cir.
-  citation-key: DunnWashingtonCountyHospital_7thCir2005
-  container-title: F.3d
-  issued:
-    - year: 2005
-  page: '689'
-  title: Dunn v. Washington County Hospital
-  type: legal_case
-  volume: '429'
-
 - id: DuplexPrintingPressCo_US1921
   authority: U.S.
   citation-key: DuplexPrintingPressCo_US1921
@@ -10058,62 +9880,6 @@ references:
   title-short: $2.00 a Day
   type: book
 
-- id: EEOCSuesGatorStrong_USEqualEmploymentOpportunityCommission_nd
-  abstract: RALEIGH, N.C.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: EEOCSuesGatorStrong_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: EEOC Sues Gator Strong Services for Sexual Harassment and Sex Discrimination
-  type: webpage
-  URL: >-
-    https://www.eeoc.gov/newsroom/eeoc-sues-gator-strong-services-sexual-harassment-and-sex-discrimination
-
-- id: EEOCSuesMooreComfort_USEqualEmploymentOpportunityCommission_nd
-  abstract: NORFOLK, Va.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: EEOCSuesMooreComfort_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: EEOC Sues Moore Comfort Home Care, LLC for Sexual Harassment
-  type: webpage
-  URL: >-
-    https://www.eeoc.gov/newsroom/eeoc-sues-moore-comfort-home-care-llc-sexual-harassment
-
-- id: EEOCSuesPiedmontCheerwine_USEqualEmploymentOpportunityCommission_nd
-  abstract: GREENSBORO, N.C.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: EEOCSuesPiedmontCheerwine_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: EEOC Sues Piedmont Cheerwine Bottling Company for Disability Discrimination
-  type: webpage
-  URL: >-
-    https://www.eeoc.gov/newsroom/eeoc-sues-piedmont-cheerwine-bottling-company-disability-discrimination
-
-- id: EEOCSuesSmithfieldFresh_USEqualEmploymentOpportunityCommission_nd
-  abstract: RALEIGH, N.C.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: EEOCSuesSmithfieldFresh_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: EEOC Sues Smithfield Fresh Meats Corp. for Pregnancy Discrimination
-  type: webpage
-  URL: >-
-    https://www.eeoc.gov/newsroom/eeoc-sues-smithfield-fresh-meats-corp-pregnancy-discrimination
-
 - id: EffectuationNationalLabor2021
   citation-key: EffectuationNationalLabor2021
   genre: General Counsel Memo
@@ -10192,6 +9958,18 @@ references:
   title: 'Nickel and Dimed: On (Not) Getting By in America'
   title-short: Nickel and Dimed
   type: book
+
+- id: EighthCircuitUpholds2022
+  citation-key: EighthCircuitUpholds2022
+  container-title: Harvard Law Review
+  issued:
+    - year: 2022
+  page: '1166'
+  title: >-
+    Eighth Circuit Upholds Law Criminalizing Access to Agricultural Production
+    Facilities under False Pretenses
+  type: article-journal
+  volume: '135'
 
 - id: EIGHTTOPREDS_NewYorkTimes_1951
   abstract: >-
@@ -10310,19 +10088,6 @@ references:
   publisher: American Law Institute
   title: Employee Duty of Loyalty to the Employer
   type: chapter
-
-- id: EmployeesJobApplicants_USEqualEmploymentOpportunityCommission_nd
-  abstract: Overview
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: EmployeesJobApplicants_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: Employees & Job Applicants
-  type: webpage
-  URL: https://www.eeoc.gov/employees-job-applicants
 
 - id: EmployerUseSocial_nd
   citation-key: EmployerUseSocial_nd
@@ -10471,19 +10236,6 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/1599554?seq=1
   volume: '51'
-
-- id: EqualEmploymentOpportunityLaws_USEqualEmploymentOpportunityCommission_nd
-  abstract: Equal Pay Act of 1963 (EPA)
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: EqualEmploymentOpportunityLaws_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: Equal Employment Opportunity Laws
-  type: webpage
-  URL: https://www.eeoc.gov/equal-employment-opportunity-laws
 
 - id: ErieCoTompkins_US1938
   authority: U.S.
@@ -11006,29 +10758,6 @@ references:
   title: Farmer v. United Brotherhood of Carpenters & Joiners, Local 25
   type: legal_case
   volume: '430'
-
-- id: Farriss_nd
-  author:
-    - family: Farriss
-      given: James Joseph
-  citation-key: Farriss_nd
-  language: en
-  source: Zotero
-  title: High Point North Carolina [1915]
-  type: article-journal
-
-- id: Farriss1915
-  author:
-    - family: Farriss
-      given: J.J.
-  citation-key: Farriss1915
-  edition: 7th
-  issued:
-    - year: 1915
-  note: 7th ed.
-  title: High Point, North Carolin
-  type: book
-  URL: https://lib.digitalnc.org/record/26280?ln=en&v=pdf
 
 - id: FarwellBostonWorcesterRailroad_Mass1842
   authority: Mass.
@@ -11641,31 +11370,6 @@ references:
   type: webpage
   URL: >-
     https://www.dclibrary.org/research-and-learn/fight-racial-justice-and-civil-rights-congress
-
-- id: FinallyQuorumEEOCLikely_Lawcom2025
-  abstract: >-
-    “I think they really are going to kick it into high gear,” said Jason
-    Schwartz, cochair of Gibson, Dunn & Crutcher’s labor and employment group.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 31
-  author:
-    - family: Pierson
-      given: Brenden
-  citation-key: FinallyQuorumEEOCLikely_Lawcom2025
-  container-title: Law.com
-  issued:
-    - year: 2025
-      month: 12
-      day: 4
-  language: en
-  title: >-
-    Finally With Quorum, EEOC Likely to Unleash Reverse-Discrimination,
-    Bathroom-Policy Cases
-  type: webpage
-  URL: >-
-    https://www.law.com/corpcounsel/2025/12/04/finally-with-quorum-eeoc-likely-to-unleash-reverse-discrimination-bathroom-policy-cases/
 
 - id: Fine1995
   abstract: >-
@@ -13779,36 +13483,6 @@ references:
   title: 'Which Side Are You On?: Trying to Be for Labor When It''s Flat on Its Back'
   title-short: Which Side Are You On?
   type: book
-
-- id: GeorgePennyBids_NorthWilkesboroHustler_1924
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  citation-key: GeorgePennyBids_NorthWilkesboroHustler_1924
-  container-title: North Wilkesboro Hustler
-  issued:
-    - year: 1924
-      month: 7
-      day: 30
-  page: '1'
-  title: George Penny Bids $300,000 for Bailey Brothers Tobacco Plant
-  title-short: Rural North Carolina History
-  type: article-newspaper
-  URL: >-
-    https://ruralnchistory.blogspot.com/2024/07/george-penny-bids-300000-for-bailey.html
-
-- id: GeorgeThomasPenny_nd
-  abstract: Son of Mark Penny & Clementine Wright Penny.
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  citation-key: GeorgeThomasPenny_nd
-  language: en
-  title: George Thomas Penny (1876-1961) - Find a Grave...
-  type: webpage
-  URL: https://www.findagrave.com/memorial/29636796/george_thomas-penny
 
 - id: GeorgetownUniversityDiscussion2025
   abstract: >-
@@ -18268,32 +17942,6 @@ references:
   type: chapter
   URL: https://intr2dok.vifa-recht.de/receive/mir_mods_00015103
 
-- id: JusticeDepartmentUsing_Wheeler_WallStreetJournal_2025
-  abstract: >-
-    Google and Verizon are among those being investigated under the novel
-    interpretation of a law applying to government contractors.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 31
-  author:
-    - family: Wheeler
-      given: Lydia
-  citation-key: JusticeDepartmentUsing_Wheeler_WallStreetJournal_2025
-  container-title: Wall Street Journal
-  ISSN: 0099-9660
-  issued:
-    - year: 2025
-      month: 12
-      day: 29
-  language: en-US
-  section: Politics
-  source: www.wsj.com
-  title: Justice Department Using Fraud Law to Target Companies on DEI
-  type: article-newspaper
-  URL: >-
-    https://www.wsj.com/politics/policy/trump-doj-dei-fraud-investigations-93213d52
-
 - id: KadlecMedicalLakeviewAnesthesia_5thCir2008
   authority: 5th Cir.
   citation-key: KadlecMedicalLakeviewAnesthesia_5thCir2008
@@ -19154,22 +18802,6 @@ references:
   type: post-weblog
   URL: >-
     https://www.lathropgpm.com/insights/key-2025-employment-discrimination-law-updates/
-
-- id: KickbackJacksSuedEEOC_USEqualEmploymentOpportunityCommission_nd
-  abstract: GREENSBORO, N.C.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: KickbackJacksSuedEEOC_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: >-
-    Kickback Jack’s Sued by EEOC for Failing to Hire Males for Front-of-House
-    Positions
-  type: webpage
-  URL: >-
-    https://www.eeoc.gov/newsroom/kickback-jacks-sued-eeoc-failing-hire-males-front-house-positions
 
 - id: Kidd2004
   accessed:
@@ -21970,23 +21602,6 @@ references:
   URL: https://scholarship.law.georgetown.edu/facpub/2368
   volume: '34'
 
-- id: LudwickPenny_NC1911
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  authority: N.C.
-  citation-key: LudwickPenny_NC1911
-  container-title: S.E.
-  issued:
-    - year: 1911
-  page: '228'
-  title: Ludwick v. Penny
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Document/Ie4adfb01044611da9439b076ef9ec4de/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
-  volume: '73'
-
 - id: Lynd2011
   abstract: "Blending cutting-edge legal strategies for winning justice at work with a theory of dramatic, bottom-up social change, this practical guide to workers’ rights aims to make work better while reinvigorating the labor movement. A powerful organization model called “solidarity unionism” is explained, showing how the labor force can avoid the pitfalls of the legal system and utilize direct action to win fair rights. The new edition includes new cases governing fundamental labor rights\_and can be used not only by union workers, but can serve as a guerrilla legal handbook for any employee in this unstable economy."
   author:
@@ -22193,22 +21808,6 @@ references:
   source: Zotero
   title: Bargaining for Contingent Faculty
   type: article-journal
-
-- id: MaleJobSeekersNot_USEqualEmploymentOpportunityCommission_nd
-  abstract: GREENSBORO, N.C. – The U.S.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: MaleJobSeekersNot_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: >-
-    Male Job Seekers Not Hired by Kickback Jack’s Restaurants May Have Suffered
-    Discrimination, EEOC Says
-  type: webpage
-  URL: >-
-    https://www.eeoc.gov/newsroom/male-job-seekers-not-hired-kickback-jacks-restaurants-may-have-suffered-discrimination
 
 - id: MalloryNorfolkSouthernRy_US2023
   authority: U.S.
@@ -26650,16 +26249,6 @@ references:
   URL: >-
     https://archive.seattletimes.com/archive/19960901/2347082/an-old-communist-ponders-life-as-a-red-menace----scales-worked-in-the-south-for-rights-of-blacks
 
-- id: OldSongsPennys_nd
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  citation-key: OldSongsPennys_nd
-  title: 'Old Songs: Penny''s Farm'
-  type: webpage
-  URL: https://www.lizlyle.lofgrens.org/RmOlSngs/RTOS-PennysFarm.html
-
 - id: Olivares2025
   abstract: >-
     Democratic Congress members who visited detention center with mayor say Ice
@@ -27422,72 +27011,6 @@ references:
   title: Pennoyer v. Neff
   type: legal_case
   volume: '95'
-
-- id: PennybyrnCelebratesDiamondAnniversary_YESWeekly2022
-  abstract: >-
-    A great white tent on the lawn of the Pennybyrn Convent and a wee bit of
-    Irish background music greeted guests gathered to celebrate the diamond
-    anniversary of Pennybyrn at
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  author:
-    - family: Dennis
-      given: Norma B.
-  citation-key: PennybyrnCelebratesDiamondAnniversary_YESWeekly2022
-  container-title: YES! Weekly
-  issued:
-    - year: 2022
-      month: 10
-      day: 12
-  language: en
-  title: Pennybyrn celebrates diamond anniversary
-  type: webpage
-  URL: >-
-    https://www.yesweekly.com/news/jamestown_news/pennybyrn-celebrates-diamond-anniversary/article_ae231572-4a59-11ed-ac96-2b650d2a678a.html
-
-- id: PennybyrnGeorgePenny_nd
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  citation-key: PennybyrnGeorgePenny_nd
-  title: Pennybyrn (George T. Penny House)
-  type: webpage
-  URL: https://ncarchitects.lib.ncsu.edu/buildings/B003811
-
-- id: PennyLudwick_NC1910
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  authority: N.C.
-  citation-key: PennyLudwick_NC1910
-  container-title: S.E.
-  issued:
-    - year: 1910
-  page: '919'
-  title: Penny v. Ludwick
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Document/Iad264846044611dab386b232635db992/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
-  volume: '67'
-
-- id: PennysDealingsPaved_JamestownNews_2016
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  citation-key: PennysDealingsPaved_JamestownNews_2016
-  container-title: Jamestown News
-  issued:
-    - year: 2016
-      month: 6
-      day: 22
-  publisher-place: Jamestown, NC
-  title: Penny's dealings paved the way for nursing home
-  type: article-newspaper
 
 - id: PeopleEthicalTreatmentAnimals_4thCir2018
   authority: 4th Cir.
@@ -28624,30 +28147,6 @@ references:
   type: webpage
   URL: https://www.eeoc.gov/pregnancy-discrimination
 
-- id: PresbyterianHomeBuildingBe_YESWeekly2023
-  abstract: >-
-    The big, empty building at the intersection of Jamestown Parkway and
-    I-74/311 Bypass in High Point will be empty no longer if John and Bonnie
-    Hannon’s dreams go as planned.
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  author:
-    - family: Brooks
-      given: Carol
-  citation-key: PresbyterianHomeBuildingBe_YESWeekly2023
-  container-title: YES! Weekly
-  issued:
-    - year: 2023
-      month: 6
-      day: 7
-  language: en
-  title: Presbyterian Home building to be revitalized
-  type: webpage
-  URL: >-
-    https://www.yesweekly.com/news/jamestown_news/presbyterian-home-building-to-be-revitalized/article_d25b62c2-0544-11ee-89ab-23afde08d8e6.html
-
 - id: ProhibitedEmploymentPolicies_nd
   accessed:
     - year: 2025
@@ -29085,19 +28584,6 @@ references:
   type: legal_case
   volume: '992'
 
-- id: RaytheonCoHernandez_US2003
-  authority: U.S.
-  citation-key: RaytheonCoHernandez_US2003
-  container-title: U.S.
-  issued:
-    - year: 2003
-      month: 12
-      day: 2
-  page: '44'
-  title: Raytheon Co. v. Hernandez
-  type: legal_case
-  volume: '540'
-
 - id: RazakUberTechnologiesInc_3rdCir2020
   authority: 3rd Cir.
   citation-key: RazakUberTechnologiesInc_3rdCir2020
@@ -29437,19 +28923,6 @@ references:
   type: legal_case
   volume: '462'
 
-- id: RemediesEmploymentDiscrimination_USEqualEmploymentOpportunityCommission_nd
-  abstract: Remedies
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: RemediesEmploymentDiscrimination_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: Remedies For Employment Discrimination
-  type: webpage
-  URL: https://www.eeoc.gov/employers/remedies-employment-discrimination
-
 - id: ReNageleisen_EDKentuckyBankr2014
   authority: E.D. Kentucky, Bankr.
   citation-key: ReNageleisen_EDKentuckyBankr2014
@@ -29521,19 +28994,6 @@ references:
   source: Amazon
   title: The Story of the Jewish Labor Bund, 1897-1997; A Centennial Exhibition
   type: book
-
-- id: ResolvingCharge_USEqualEmploymentOpportunityCommission_nd
-  abstract: Resolving a Charge
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: ResolvingCharge_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: Resolving a Charge
-  type: webpage
-  URL: https://www.eeoc.gov/employers/resolving-charge
 
 - id: Ressl-Moyer2021
   author:
@@ -32901,19 +32361,6 @@ references:
   type: legislation
   volume: '18'
 
-- id: SmithCityJackson_US2005
-  authority: U.S.
-  citation-key: SmithCityJackson_US2005
-  container-title: U.S.
-  issued:
-    - year: 2005
-      month: 3
-      day: 30
-  page: '228'
-  title: Smith v. City of Jackson
-  type: legal_case
-  volume: '544'
-
 - id: SmithManheimRemarketingInc_WDNC2019
   authority: W.D.N.C.
   citation-key: SmithManheimRemarketingInc_WDNC2019
@@ -33481,25 +32928,6 @@ references:
   title: State v. DeAngelo
   type: legal_case
   volume: '930'
-
-- id: StateEEOCFrequentlyAsked_USEqualEmploymentOpportunityCommission_nd
-  abstract: >-
-    On January 20, 21, and 29, 2025, President Trump issued a series of
-    executive orders restoring even-handed civil rights enforcement and
-    directing the federal government, including the EEOC, to combat serious
-    patterns of discrimination and harassment that have gone unchecked for too
-    long:
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: StateEEOCFrequentlyAsked_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: 'The State of the EEOC: Frequently Asked Questions'
-  title-short: The State of the EEOC
-  type: webpage
-  URL: https://www.eeoc.gov/wysk/state-eeoc-frequently-asked-questions
 
 - id: StateSupremeCourt_Weaver_MiamiHerald_2025
   abstract: >-
@@ -34940,22 +34368,6 @@ references:
   title: Teamsters v. United States
   type: legal_case
   volume: '431'
-
-- id: TeethDoctorsPay$61000_USEqualEmploymentOpportunityCommission_nd
-  abstract: RALEIGH, N.C.
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: TeethDoctorsPay$61000_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  language: en
-  title: >-
-    The Teeth Doctors to Pay $61,000 to Resolve EEOC Religious Discrimination
-    Charge
-  type: webpage
-  URL: >-
-    https://www.eeoc.gov/newsroom/teeth-doctors-pay-61000-resolve-eeoc-religious-discrimination-charge
 
 - id: Tejani2017
   abstract: >-
@@ -36535,17 +35947,6 @@ references:
   type: legal_case
   volume: '555'
 
-- id: WaltersMetropolitanEdEnterprises_US1997
-  authority: U.S.
-  citation-key: WaltersMetropolitanEdEnterprises_US1997
-  container-title: U.S.
-  issued:
-    - year: 1997
-  page: '202'
-  title: Walters v. Metropolitan Ed. Enterprises, Inc.
-  type: legal_case
-  volume: '519'
-
 - id: WangHearstCorp_2ndCir2017
   authority: 2nd Cir.
   citation-key: WangHearstCorp_2ndCir2017
@@ -36865,23 +36266,6 @@ references:
   URL: www.jstor.org/stable/10.1086/681274
   volume: '2014'
 
-- id: WelchWachoviaBankTrust_NC1946
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  authority: N.C.
-  citation-key: WelchWachoviaBankTrust_NC1946
-  container-title: S.E.2d
-  issued:
-    - year: 1946
-  page: '197'
-  title: Welch v. Wachovia Bank & Trust Co.
-  type: legal_case
-  URL: >-
-    https://1.next.westlaw.com/Document/Ie98fbf6604b311da9439b076ef9ec4de/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
-  volume: '38'
-
 - id: WestCoastHotelCo_US1937
   authority: U.S.
   citation-key: WestCoastHotelCo_US1937
@@ -36982,19 +36366,6 @@ references:
   type: webpage
   URL: >-
     https://www.eeoc.gov/what-do-if-you-experience-discrimination-related-dei-work
-
-- id: WhatYouCanExpect_USEqualEmploymentOpportunityCommission_nd
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: WhatYouCanExpect_USEqualEmploymentOpportunityCommission_nd
-  container-title: U.S. Equal Employment Opportunity Commission
-  title: >-
-    What You Can Expect After a Charge is Filed | U.S. Equal Employment
-    Opportunity Commission
-  type: webpage
-  URL: https://www.eeoc.gov/employers/what-you-can-expect-after-charge-filed
 
 - id: WhatYouShouldKnow_USEqualEmploymentOpportunityCommission_nd
   abstract: >-
@@ -37107,27 +36478,6 @@ references:
   type: legal_case
   volume: '353'
 
-- id: WhoKilledBillBailey_ForsythCountyPublicLibraryNorthCarolinaCollection2015
-  abstract: >-
-    As with most posts, many of the images can be seen full size by clicking on
-    them The area was known as Long Branch because it lay in the fork of two
-    creeks, one called Long Branch, which drained in…
-  accessed:
-    - year: 2026
-      month: 1
-      day: 6
-  citation-key: WhoKilledBillBailey_ForsythCountyPublicLibraryNorthCarolinaCollection2015
-  container-title: 'Forsyth County Public Library: North Carolina Collection'
-  issued:
-    - year: 2015
-      month: 11
-      day: 24
-  language: en
-  title: Who killed (Bill) Bailey Brothers?
-  type: post-weblog
-  URL: >-
-    https://northcarolinaroom.wordpress.com/2015/11/24/who-killed-bill-bailey-brothers/
-
 - id: WholeFoodsMarketInc_NLRB2015
   authority: N.L.R.B.
   citation-key: WholeFoodsMarketInc_NLRB2015
@@ -37224,17 +36574,6 @@ references:
   title: Farm Labor and the Struggle for Justice in the Eastern United States
   type: chapter
   URL: https://doi.org/10.1007/978-3-030-36643-8_9
-
-- id: WildeCountyKandiyohi_8thCir1994
-  authority: 8th Cir.
-  citation-key: WildeCountyKandiyohi_8thCir1994
-  container-title: F. 3d
-  issued:
-    - year: 1994
-  page: '103'
-  title: Wilde v. County of Kandiyohi
-  type: legal_case
-  volume: '15'
 
 - id: Willemez2005
   accessed:
