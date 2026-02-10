@@ -1,26 +1,5 @@
 ---
 references:
-- id: 1951WeChargeGenocide_BlackPast_BlackPastorg2011
-  abstract: "We Charge Genocide: The Historic Petition to the United Nations for Relief From a Crime of The United States Government Against the Negro People (1951) Introduction: Out of the inhuman black ghettos of American cities, out of the cotton plantations of the South, comes this record of mass slayings on the basis of race, of lives deliberately warped and distorted by the willful creation of conditions making for premature death, poverty and disease.,\_ It is a record that calls aloud for condemnation, for an end to these terrible injustices that constitute a daily and ever-increasing violation of the United Nations Convention on the Prevention and Punishment of the Crime of Genocide. It is sometimes incorrectly thought that genocide means the complete and definitive destruction of a race or people.\_ The Genocide Convention, however, adopted by the General Assembly of the United Nations on December 9, 1948, defines genocide as any killings on the basis of race, or, in it specific words, as “killing members of the group.”\_ Any intent to destroy, in whole or in part, a national, racial, ethnic or religious group is genocide, according to the Convention.\_ Thus, the Convention states, “causing serious bodily or mental harm to members of the […]"
-  accessed:
-    - year: 2026
-      month: 1
-      day: 8
-  author:
-    - family: BlackPast
-      given: ''
-  citation-key: 1951WeChargeGenocide_BlackPast_BlackPastorg2011
-  container-title: BlackPast.org
-  issued:
-    - year: 2011
-      month: 7
-      day: 15
-  language: en-US
-  title: (1951) We Charge Genocide
-  type: post-weblog
-  URL: >-
-    https://blackpast.org/global-african-history/we-charge-genocide-historic-petition-united-nations-relief-crime-united-states-government-against/
-
 - id: 2002FEO8_NCStateBar2003
   accessed:
     - year: 2024
@@ -122,7 +101,7 @@ references:
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2022-formal-ethics-opinion-1/
 
-- id: 2GroupsGiven_TheWashingtonPostandTimesHerald1954-1959_1957
+- id: 2GroupsGiven_TheWashingtonPostandTimesHerald_1957
   abstract: >-
     The Civil Rights Congress and the American Peace Crusade were branded
     yesterday as "Communist-front" organizations and ordered to register with
@@ -131,8 +110,8 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: 2GroupsGiven_TheWashingtonPostandTimesHerald1954-1959_1957
-  container-title: The Washington Post and Times Herald  (1954-1959)
+  citation-key: 2GroupsGiven_TheWashingtonPostandTimesHerald_1957
+  container-title: The Washington Post and Times Herald
   issued:
     - year: 1957
       month: 7
@@ -148,7 +127,7 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/148879626/abstract/C7C6757E0ED14FACPQ/78
 
-- id: 4thOfficialBail_TheWashingtonPost1923-1954_1951
+- id: 4thOfficialBail_TheWashingtonPost_1951
   abstract: >-
     NEW YORK, July 23 (AP). -- Once more the Government used a contempt threat
     today to try to pry loose bail records of the Civil Rights Congress.
@@ -156,8 +135,8 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: 4thOfficialBail_TheWashingtonPost1923-1954_1951
-  container-title: The Washington Post  (1923-1954)
+  citation-key: 4thOfficialBail_TheWashingtonPost_1951
+  container-title: The Washington Post
   issued:
     - year: 1951
       month: 7
@@ -195,7 +174,7 @@ references:
   publisher-place: New York, N.Y., United States
   source: ProQuest
   title: 6 More Reds Free on Bail of $80,000
-  title-short: 6 MORE REDS FREE IN BAIL OF $80,000
+  title-short: 6 More Reds Free in Bail of $80,000
   type: article-newspaper
   URL: https://www.proquest.com/docview/112191239/abstract/C7C6757E0ED14FACPQ/28
 
@@ -1574,7 +1553,7 @@ references:
   type: post-weblog
   URL: https://awionline.org/content/anti-whistleblower-ag-gag-legislation
 
-- id: AntiRedBillsHeld_Press_TheWashingtonPost1923-1954_1950
+- id: AntiRedBillsHeld_Press_TheWashingtonPost_1950
   abstract: >-
     The Civil Rights Congress contended before a House committee yesterday that
     proposed anti-Communist legislation represents "a dangerous short-cut to
@@ -1586,8 +1565,8 @@ references:
   author:
     - family: Press
       given: The Associated
-  citation-key: AntiRedBillsHeld_Press_TheWashingtonPost1923-1954_1950
-  container-title: The Washington Post  (1923-1954)
+  citation-key: AntiRedBillsHeld_Press_TheWashingtonPost_1950
+  container-title: The Washington Post
   issued:
     - year: 1950
       month: 3
@@ -1903,31 +1882,6 @@ references:
   type: legal_case
   volume: '321'
 
-- id: Article2No_TheWashingtonPost1923-1954_1951
-  abstract: >-
-    NEW YORK, July 16 (AP). -- For the second time in a week, the Civil Rights
-    Congress today was outlawed as a bondsman in Federal Court.
-  accessed:
-    - year: 2026
-      month: 1
-      day: 8
-  citation-key: Article2No_TheWashingtonPost1923-1954_1951
-  container-title: The Washington Post  (1923-1954)
-  issued:
-    - year: 1951
-      month: 7
-      day: 17
-  language: English
-  license: Copyright The Washington Post Company Jul 17, 1951
-  number-of-pages: '1'
-  page: '3'
-  publisher: WP Company LLC d/b/a The Washington Post
-  publisher-place: Washington, D.C., United States
-  source: ProQuest
-  title: Article 2 -- No Title
-  type: article-newspaper
-  URL: https://www.proquest.com/docview/152393840/abstract/C7C6757E0ED14FACPQ/76
-
 - id: Ashcraft2021
   abstract: >-
     Three amicus curiae briefs were filed in the Fourth Circuit on Monday in a
@@ -2091,7 +2045,7 @@ references:
   URL: https://brill.com/view/journals/wusa/15/3/article-p417_6.xml
   volume: '15'
 
-- id: Bail14Reds_PORTER_NewYorkTimes_1951
+- id: Bail14Reds_Porter_NewYorkTimes_1951
   abstract: >-
     Federal Judge Sylvester Ryan revoked the bail of fourteen Communist leaders
     yesterday for the second time, effective at noon today. He ordered them to
@@ -2102,9 +2056,9 @@ references:
       month: 1
       day: 8
   author:
-    - family: PORTER
-      given: RUSSELL
-  citation-key: Bail14Reds_PORTER_NewYorkTimes_1951
+    - family: Porter
+      given: Russell
+  citation-key: Bail14Reds_Porter_NewYorkTimes_1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -2116,12 +2070,12 @@ references:
   page: '1'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "Bail of 14 Reds Voided Again; New Bonds Required Today:\_Ryan Disqualifies Civil Rights Congress-- Gives Defendants Until Noon to Raise $165,000 Elsewhere or Be Jailed BAIL AGAIN VOIDED FOR 14 COMMUNISTS"
-  title-short: Bail of 14 Reds Voided Again; New Bonds Required Today
+  title: Bail of 14 Reds Voided Again
+  title-short: Bail of 14 Reds Voided Again
   type: article-newspaper
   URL: https://www.proquest.com/docview/112192045/abstract/C7C6757E0ED14FACPQ/34
 
-- id: BailCommunists_TheWashingtonPost1923-1954_1951
+- id: BailCommunists_TheWashingtonPost_1951
   abstract: >-
     Judge Ryan in New York and Judge Holtzoff in Washington have ample reason,
     in our opinion, for outlawing the so-called Civil Rights Congress as a
@@ -2138,8 +2092,8 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: BailCommunists_TheWashingtonPost1923-1954_1951
-  container-title: The Washington Post  (1923-1954)
+  citation-key: BailCommunists_TheWashingtonPost_1951
+  container-title: The Washington Post
   issued:
     - year: 1951
       month: 7
@@ -2155,7 +2109,7 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/152341566/abstract/C7C6757E0ED14FACPQ/52
 
-- id: BailFundNames_TheWashingtonPost1923-1954_1952
+- id: BailFundNames_TheWashingtonPost_1952
   abstract: >-
     NEW YORK, June 30 (AP). -- State Attorney General Nathaniel L. Goldstein
     today said names of 6442 contributors to the Civil Rights Congress bail fund
@@ -2164,8 +2118,8 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: BailFundNames_TheWashingtonPost1923-1954_1952
-  container-title: The Washington Post  (1923-1954)
+  citation-key: BailFundNames_TheWashingtonPost_1952
+  container-title: The Washington Post
   issued:
     - year: 1952
       month: 7
@@ -3433,51 +3387,6 @@ references:
   title: Bill Johnson's Restaurants, Inc. v. NLRB
   type: legal_case
   volume: '461'
-
-- id: Bilsky2021
-  abstract: >-
-    In “Complicity and Lesser Evils: A Tale of Two Lawyers,” David Luban
-    considers the dilemma of a decent person employed by the government or
-    offered a government position in an evil regime. Through an analysis of two
-    legal advisors in the Third Reich, Bernhard Lo¨sener and Helmuth James von
-    Moltke, who remained on the job and arguably saved lives, Luban challenges
-    Hannah Arendt’s contention that remaining in office in these conditions is
-    necessarily to support the regime. In this response, we remain within
-    Luban’s primarily consequentialist perspective, and ask, like him, whether
-    any good can be done by lawyers staying on the job. However, we challenge
-    his analytical framework for being overly individualist and agentist. We
-    argue that, if we expand our perspective to the structure of evil regimes
-    and the ways they inflict harm, we will notice important consequences of
-    remaining and leaving that Luban fails to take into account. In particular,
-    we argue that understanding the complex part played by legal institutions
-    and legal discourse in authoritarian and semi-authoritarian regimes would
-    lead to the realization that lawyers face a particularly sharp dilemma in
-    such regimes, as both their possibilities of doing good and of strengthening
-    the regime are strong. We proceed in three steps. First, we show that
-    Luban’s analysis is narrowly focused on individual agency. We then draw on
-    scholarship on the Third Reich, bureaucratic crimes, and authoritarian uses
-    of law to outline the structural characteristics and legal foundations of
-    authoritarian wrongs. Finally, equipped with this theoretical background, we
-    analyze anew the lawyer’s dilemma. Applying a structural perspective
-    cognizant of the role of law in repression to the stories of Lo¨sener and
-    Moltke as well as of two other lawyers in the Third Reich, Ernst Fraenkel
-    and Georg Konrad Morgen, we argue that the lawyer’s dilemma is more
-    difficult to resolve than Luban suggests.
-  author:
-    - family: Bilsky
-      given: Leora
-    - family: Davidson
-      given: Natalie R
-  citation-key: Bilsky2021
-  container-title: The Georgetown Journal of Legal Ethics
-  issued:
-    - year: 2021
-  language: en
-  page: '665'
-  source: Zotero
-  title: 'Response: Legal Ethics in Authoritarian Legality'
-  type: article-journal
-  volume: '34'
 
 - id: Binford2013
   accessed:
@@ -6076,19 +5985,6 @@ references:
   title-short: Bad Samaritans
   type: book
 
-- id: CHAPTERFIVERed_nd
-  accessed:
-    - year: 2026
-      month: 1
-      day: 8
-  citation-key: CHAPTERFIVERed_nd
-  title: >-
-    CHAPTER FIVE Red Menace from Troubling the Waters: Black-Jewish Relations in
-    the American Century on JSTOR
-  type: webpage
-  URL: >-
-    https://www.jstor.org/stable/j.ctt7rp2v.9?searchText&searchUri&ab_segments&searchKey&refreqid=fastly-default%3Ab402ddebf67289addad7b846d2f4ca51&initiator=recommender&seq=1
-
 - id: Chhoy2024
   author:
     - family: Chhoy
@@ -6106,7 +6002,7 @@ references:
   type: article-journal
   volume: '31'
 
-- id: CivilRightsAide_Press_TheWashingtonPost1923-1954_1950
+- id: CivilRightsAide_Press_TheWashingtonPost_1950
   abstract: >-
     The executive secretary of the Civil Rights Congress yesterday failed to
     produce records demanded by the House Lobby Investigating Committee.
@@ -6117,8 +6013,8 @@ references:
   author:
     - family: Press
       given: The Associated
-  citation-key: CivilRightsAide_Press_TheWashingtonPost1923-1954_1950
-  container-title: The Washington Post  (1923-1954)
+  citation-key: CivilRightsAide_Press_TheWashingtonPost_1950
+  container-title: The Washington Post
   issued:
     - year: 1950
       month: 8
@@ -6133,27 +6029,6 @@ references:
   title: Civil Rights Aide Silent on Red Question
   type: article-newspaper
   URL: https://www.proquest.com/docview/152265512/abstract/C7C6757E0ED14FACPQ/66
-
-- id: CivilRightsCongress_BostonGlobe_1951
-  abstract: >-
-    Explore millions of resources from scholarly journals, books, newspapers,
-    videos and more, on the ProQuest Platform.
-  accessed:
-    - year: 2026
-      month: 1
-      day: 8
-  citation-key: CivilRightsCongress_BostonGlobe_1951
-  container-title: Boston Globe
-  issued:
-    - year: 1951
-      month: 7
-      day: 17
-  language: en
-  page: '5'
-  publisher-place: Boston, MA
-  title: Civil Rights Congress Again Outlawed as Bondsman for Reds
-  type: article-newspaper
-  URL: https://www.proquest.com/docview/839556810?sourcetype=Newspapers
 
 - id: CivilRightsCongress_Dittmer_TheWashingtonPost_1947
   abstract: >-
@@ -6185,7 +6060,7 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/151894999/abstract/C7C6757E0ED14FACPQ/1
 
-- id: CivilRightsCongress_Gibson_TheWashingtonPostandTimesHerald1954-1959_1955
+- id: CivilRightsCongress_Gibson_TheWashingtonPostandTimesHerald_1955
   abstract: >-
     A Government examiner filed yesterday that the Civil Rights Congress was
     "conceived by the Kremlin" and operates as a money-raising front for the
@@ -6197,8 +6072,8 @@ references:
   author:
     - family: Gibson
       given: Gwen
-  citation-key: CivilRightsCongress_Gibson_TheWashingtonPostandTimesHerald1954-1959_1955
-  container-title: The Washington Post and Times Herald  (1954-1959)
+  citation-key: CivilRightsCongress_Gibson_TheWashingtonPostandTimesHerald_1955
+  container-title: The Washington Post and Times Herald
   issued:
     - year: 1955
       month: 12
@@ -6234,6 +6109,28 @@ references:
   title: Civil Rights Congress Pleads
   type: article-newspaper
   URL: https://www.proquest.com/docview/113329495/citation/E5947C5FC7094283PQ/1
+
+- id: CivilRightsCongress_TheWashingtonPost_1951
+  abstract: >-
+    NEW YORK, July 16 (AP). -- For the second time in a week, the Civil Rights
+    Congress today was outlawed as a bondsman in Federal Court.
+  accessed:
+    - year: 2026
+      month: 1
+      day: 8
+  citation-key: CivilRightsCongress_TheWashingtonPost_1951
+  container-title: The Washington Post
+  issued:
+    - year: 1951
+      month: 7
+      day: 17
+  language: English
+  page: '3'
+  publisher: WP Company LLC d/b/a The Washington Post
+  publisher-place: Washington, D.C., United States
+  title: Civil Rights Congress Again Outlawed as Bondsman for Reds
+  type: article-newspaper
+  URL: https://www.proquest.com/docview/152393840/abstract/C7C6757E0ED14FACPQ/76
 
 - id: CivilRightsCongress19461956_Salter_BlackPastorg2007
   abstract: "Founded in Detroit, Michigan in 1946, the Civil Rights Congress (CRC) arose out of the merger of three groups with ties to the Communist Party USA:\_ the International Labor Defense (ILD), the National Negro Congress, and the National Federation for Constitutional Liberties. Embodying the spirit and tactics of all three of its predecessors, the CRC concentrated on legal defense and mass political action on behalf of victims of legal frame-ups. It briefly became a major force in post-WWII battles for civil rights for African Americans, and civil liberties for white and black labor movement radicals, before becoming a victim of Cold War anticommunism and government repression. Former ILD secretary William Patterson led the group throughout its existence. Major Civil Rights Congress campaigns on behalf of black defendants included the cases of Willie McGee, the Martinsville Seven, the Trenton Six, and Rosa Lee Graham. The CRC was also instrumental in publicizing the lynching of Emmett Till and pressing authorities for prosecution of his murderers. CRC campaigns helped pioneer many of the tactics that civil rights movement activists would employ in the late 1950s and 1960s. Beyond this, the CRC was among the first organizations to expose American racism in the international arena […]"
@@ -6292,7 +6189,7 @@ references:
   URL: >-
     https://en.wikipedia.org/w/index.php?title=Civil_Rights_Congress&oldid=1320752793
 
-- id: CIVILRIGHTSGROUP_NewYorkTimes_1947
+- id: CivilRightsGroup_NewYorkTimes_1947
   abstract: >-
     The attack on the Civil Rights Congress as a Communist front organization,
     issued in Washington Saturday by the House Committee on Un-American
@@ -6302,7 +6199,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: CIVILRIGHTSGROUP_NewYorkTimes_1947
+  citation-key: CivilRightsGroup_NewYorkTimes_1947
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -6314,8 +6211,8 @@ references:
   page: '12'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "CIVIL RIGHTS GROUP DENIES RED CHARGE:\_Congress Committee Report Called Part of Rankin Drive to Get Bilbo's Seat"
-  title-short: CIVIL RIGHTS GROUP DENIES RED CHARGE
+  title: "Civil Rights Group Denies Red Charge:\_Congress Committee Report Called Part of Rankin Drive to Get Bilbo's Seat"
+  title-short: Civil Rights Group Denies Red Charge
   type: article-newspaper
   URL: https://www.proquest.com/docview/108103849/abstract/C7C6757E0ED14FACPQ/51
 
@@ -6345,7 +6242,7 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/112952397/abstract/C7C6757E0ED14FACPQ/94
 
-- id: CIVILRIGHTSUNIT_NewYorkTimes_1955
+- id: CivilRightsUnit_NewYorkTimes_1955
   abstract: >-
     The Civil Rights Congress accused a joint legislative committee yesterday of
     having distorted at public hearings the financial accounts the congress had
@@ -6354,7 +6251,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: CIVILRIGHTSUNIT_NewYorkTimes_1955
+  citation-key: CivilRightsUnit_NewYorkTimes_1955
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -6366,12 +6263,12 @@ references:
   page: '35'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "CIVIL RIGHTS UNIT ATTACKS INQUIRY:\_Statement Lays Distortion of Fund Collection Facts to Larkin Committee"
-  title-short: CIVIL RIGHTS UNIT ATTACKS INQUIRY
+  title: "Civil Rights Unit Attacks Inquiry:\_Statement Lays Distortion of Fund Collection Facts to Larkin Committee"
+  title-short: Civil Rights Unit Attacks Inquiry
   type: article-newspaper
   URL: https://www.proquest.com/docview/113186702/abstract/C7C6757E0ED14FACPQ/82
 
-- id: CivilRightsUnit_TheWashingtonPostandTimesHerald1954-1959_1954
+- id: CivilRightsUnit_TheWashingtonPostandTimesHerald_1954
   abstract: >-
     A former official of the Civil Rights Congress (CRC) testified yesterday
     that all of the organization's decisions were subject to review by the
@@ -6380,8 +6277,8 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: CivilRightsUnit_TheWashingtonPostandTimesHerald1954-1959_1954
-  container-title: The Washington Post and Times Herald  (1954-1959)
+  citation-key: CivilRightsUnit_TheWashingtonPostandTimesHerald_1954
+  container-title: The Washington Post and Times Herald
   issued:
     - year: 1954
       month: 12
@@ -7060,7 +6957,7 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/nclr82&i=1957
   volume: '82'
 
-- id: ContemptCaseHead_Press_TheWashingtonPost1923-1954_1952
+- id: ContemptCaseHead_Press_TheWashingtonPost_1952
   abstract: >-
     Federal Judge Luther W. Youngdahl threw out of court yesterday the contempt
     of Congress case against William L. Patterson, executive secretary of the
@@ -7072,8 +6969,8 @@ references:
   author:
     - family: Press
       given: the United
-  citation-key: ContemptCaseHead_Press_TheWashingtonPost1923-1954_1952
-  container-title: The Washington Post  (1923-1954)
+  citation-key: ContemptCaseHead_Press_TheWashingtonPost_1952
+  container-title: The Washington Post
   issued:
     - year: 1952
       month: 3
@@ -7591,49 +7488,6 @@ references:
   type: article-journal
   URL: https://www.repository.law.indiana.edu/ilj/vol99/iss1/3
   volume: '99'
-
-- id: Cummings2024
-  abstract: >-
-    This Article explores the role of lawyers in democratic backsliding—the
-    degradation of democratic institutions and practices using law rather than
-    violence. The Article’s central aim is to set an agenda and outline an
-    approach to studying the professional paradox at the center of backsliding:
-    why and how lawyers attack the rule of law. It thus seeks to shift the
-    scholarly lens from the conventional view of lawyers as defenders of
-    democracy to investigate lawyers as authors of autocracy. Toward that end,
-    the Article theorizes the legal profession as a site of backsliding,
-    outlining a framework that positions lawyers in relation to distinct
-    pathways of autocratization on the slow road of gradual democratic decline
-    and the fast track of imminent democratic attack. On the slow road, the
-    Article draws upon evidence of structural change in the American legal
-    profession to suggest how the erosion of key democratic functions performed
-    by lawyers increases backsliding risk by reducing trust in the legal system
-    and commitment to the rule of law. On the fast track, using the 2020 Stop
-    the Steal campaign as a case study, the Article shows how lawyers in moments
-    of democratic crisis engage in legal mobilization to weaponize distrust,
-    fusing legal and media tactics to legitimize false claims and justify
-    invocation of extraordinary power. The Article concludes by calling for
-    changes to U.S. professional regulation and education to strengthen
-    democratic resilience, while mapping a research agenda for comparative study
-    of antidemocratic lawyering in unsettled times.
-  accessed:
-    - year: 2025
-      month: 1
-      day: 24
-  author:
-    - family: Cummings
-      given: Scott L.
-  citation-key: Cummings2024
-  container-title: California Law Review
-  issued:
-    - year: 2024
-  language: en
-  page: '513'
-  source: papers.ssrn.com
-  title: Lawyers in Backsliding Democracy
-  type: article-journal
-  URL: https://papers.ssrn.com/abstract=4321943
-  volume: '112'
 
 - id: Cummings2024a
   abstract: >-
@@ -9876,7 +9730,7 @@ references:
   type: article-journal
   volume: '135'
 
-- id: EIGHTTOPREDS_NewYorkTimes_1951
+- id: EightTopReds_NewYorkTimes_1951
   abstract: >-
     The Federal Bureau of Investigation failed yesterday to report any progress
     in the search for eight Communist party leaders who are fugitives from
@@ -9886,7 +9740,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: EIGHTTOPREDS_NewYorkTimes_1951
+  citation-key: EightTopReds_NewYorkTimes_1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -9898,8 +9752,8 @@ references:
   page: '17'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "EIGHT OF TOP REDS STILL ARE MISSING:\_Two Trustees of Bail Fund of Civil Rights Congress Facing Contempt Charge Today"
-  title-short: EIGHT OF TOP REDS STILL ARE MISSING
+  title: "Eight of Top Reds Still Are Missing:\_Two Trustees of Bail Fund of Civil Rights Congress Facing Contempt Charge Today"
+  title-short: Eight of Top Reds Still Are Missing
   type: article-newspaper
   URL: https://www.proquest.com/docview/112220570/abstract/C7C6757E0ED14FACPQ/22
 
@@ -12891,12 +12745,12 @@ references:
   title-short: Digital Fascism
   type: book
 
-- id: FUNDWINSTAX_NewYorkTimes_1956
+- id: FundWinsTax_NewYorkTimes_1956
   accessed:
     - year: 2026
       month: 1
       day: 8
-  citation-key: FUNDWINSTAX_NewYorkTimes_1956
+  citation-key: FundWinsTax_NewYorkTimes_1956
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -12908,8 +12762,8 @@ references:
   page: '41'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "FUND WINS TAX CASE:\_U. S. Fails in Claim for $5,311 --Gifts Held Tax-Free"
-  title-short: FUND WINS TAX CASE
+  title: "Fund Wins Tax Case:\_U. S. Fails in Claim for $5,311 --Gifts Held Tax-Free"
+  title-short: Fund Wins Tax Case
   type: article-newspaper
   URL: https://www.proquest.com/docview/113816872/citation/EEEF13569BFD4B59PQ/1
 
@@ -14119,7 +13973,7 @@ references:
   URL: >-
     https://findingaids.lib.umich.edu/catalog/umich-scl-acpfb_al_50683a6de24a8c9953615b7b658fdda0b8d9a197
 
-- id: GRANDJURYSIFTS_PORTER_NewYorkTimes_1951
+- id: GrandJurySifts_Porter_NewYorkTimes_1951
   abstract: >-
     The following developments took place yesterday in the prosecution of
     Communist leaders accused of criminal conspiracy to teach and advocate the
@@ -14129,9 +13983,9 @@ references:
       month: 1
       day: 8
   author:
-    - family: PORTER
-      given: RUSSELL
-  citation-key: GRANDJURYSIFTS_PORTER_NewYorkTimes_1951
+    - family: Porter
+      given: Russell
+  citation-key: GrandJurySifts_Porter_NewYorkTimes_1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -14143,8 +13997,8 @@ references:
   page: '1'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "GRAND JURY SIFTS FLIGHT OF 8 REDS:\_Bail Trustees Questioned for Evidence of Harboring--Trial of 17 Set for Aug. 20 GRAND JURY SIFTS FLIGHT OF 8 REDS Defense Opposes Date Set Counsel Tells of Plans"
-  title-short: GRAND JURY SIFTS FLIGHT OF 8 REDS
+  title: Grand Jury Sifts Flight of 8 Reds
+  title-short: Grand Jury Sifts Flight of 8 Reds
   type: article-newspaper
   URL: https://www.proquest.com/docview/111886231/abstract/7E17A7CC8C0844C5PQ/1
 
@@ -14320,6 +14174,24 @@ references:
   URL: https://ir.lawnet.fordham.edu/faculty_scholarship/1200
   volume: '54'
 
+- id: Greenberg2006
+  accessed:
+    - year: 2026
+      month: 1
+      day: 8
+  author:
+    - family: Greenberg
+      given: Cheryl Lynn
+  citation-key: Greenberg2006
+  container-title: 'Troubling the Waters: Black-Jewish Relations in the American Century,'
+  issued:
+    - year: 2006
+  publisher: Princeton University Press
+  title: Red Menace
+  type: chapter
+  URL: >-
+    https://www.jstor.org/stable/j.ctt7rp2v.9?searchText&searchUri&ab_segments&searchKey&refreqid=fastly-default%3Ab402ddebf67289addad7b846d2f4ca51&initiator=recommender&seq=1
+
 - id: Greenberg2014
   author:
     - family: Greenberg
@@ -14493,12 +14365,12 @@ references:
   title-short: Nationalism
   type: book
 
-- id: GREENGETSNEW_NewYorkTimes_1948
+- id: GreenGetsNew_NewYorkTimes_1948
   accessed:
     - year: 2026
       month: 1
       day: 8
-  citation-key: GREENGETSNEW_NewYorkTimes_1948
+  citation-key: GreenGetsNew_NewYorkTimes_1948
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -14510,8 +14382,8 @@ references:
   page: '3'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "GREEN GETS NEW BAIL:\_Civil Rights Congress Puts Up $5,000 for Illinois Communist"
-  title-short: GREEN GETS NEW BAIL
+  title: "Green Gets New Bail:\_Civil Rights Congress Puts Up $5,000 for Illinois Communist"
+  title-short: Green Gets New Bail
   type: article-newspaper
   URL: https://www.proquest.com/docview/108410789/citation/C7C6757E0ED14FACPQ/12
 
@@ -15496,7 +15368,7 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/jle8&i=371
   volume: '8'
 
-- id: HEARINGHALTEDLEFTIST_NewYorkTimes_1955
+- id: HearingHaltedLeftist_NewYorkTimes_1955
   abstract: >-
     The Civil Rights Congress hearing before the Subversive Activities Board was
     adjourned abruptly yesterday when it threatened to get out of hand.
@@ -15504,7 +15376,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: HEARINGHALTEDLEFTIST_NewYorkTimes_1955
+  citation-key: HearingHaltedLeftist_NewYorkTimes_1955
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -15516,8 +15388,8 @@ references:
   page: '19'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "HEARING HALTED ON LEFTIST GROUP:\_Subversive Activities Board Officer Adjourns Session Here After Controversy"
-  title-short: HEARING HALTED ON LEFTIST GROUP
+  title: "Hearing Halted on Leftist Group:\_Subversive Activities Board Officer Adjourns Session Here After Controversy"
+  title-short: Hearing Halted on Leftist Group
   type: article-newspaper
   URL: https://www.proquest.com/docview/113315996/abstract/ED56F11C3D72496FPQ/1
 
@@ -16780,6 +16652,19 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/10.1086/502692
   volume: '112'
+
+- id: ItsTimeCall_CivilRightsCongress1950
+  accessed:
+    - year: 2026
+      month: 2
+      day: 9
+  citation-key: ItsTimeCall_CivilRightsCongress1950
+  issued:
+    - year: 1950
+  publisher: Civil Rights Congress
+  title: It's Time to Call a Halt!
+  type: document
+  URL: https://www.crmvet.org/docs/510000_crc_fascism.pdf
 
 - id: JacksonNCDepartmentCommerce_NCCtApp2015
   authority: N.C. Ct. App.
@@ -19885,7 +19770,7 @@ references:
   type: legal_case
   volume: '468'
 
-- id: LEFTISTUNITBALKS_TIMES_NewYorkTimes_1950
+- id: LeftistUnitBalks_NewYorkTimes_1950
   abstract: >-
     WASHINGTON, Aug. 3--Attempts by the House lobby investigating committee to
     obtain specific data on the direction and membership of the Civil Rights
@@ -19895,10 +19780,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  author:
-    - family: TIMES
-      given: Special to THE NEW YORK
-  citation-key: LEFTISTUNITBALKS_TIMES_NewYorkTimes_1950
+  citation-key: LeftistUnitBalks_NewYorkTimes_1950
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -19910,8 +19792,8 @@ references:
   page: '22'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "LEFTIST UNIT BALKS HOUSE LOBBY STUDY:\_Civil Rights Congress Officer Fails to Produce Data-- Won't Answer 'Red' Query Outline Lists Bills"
-  title-short: LEFTIST UNIT BALKS HOUSE LOBBY STUDY
+  title: "Leftist Unit Balks House Lobby Study:\_Civil Rights Congress Officer Fails to Produce Data"
+  title-short: Leftist Unit Balks House Lobby Study
   type: article-newspaper
   URL: https://www.proquest.com/docview/111628383/abstract/C7C6757E0ED14FACPQ/26
 
@@ -20751,12 +20633,12 @@ references:
   type: article-journal
   volume: '72'
 
-- id: LINKREDSCHARGED_NewYorkTimes_1954
+- id: LinkRedsCharged_NewYorkTimes_1954
   accessed:
     - year: 2026
       month: 1
       day: 8
-  citation-key: LINKREDSCHARGED_NewYorkTimes_1954
+  citation-key: LinkRedsCharged_NewYorkTimes_1954
   container-title: New York Times
   issued:
     - year: 1954
@@ -20764,9 +20646,8 @@ references:
       day: 2
   page: '21'
   publisher-place: New York, NY
-  title: >-
-    LINK TO REDS CHARGED: Civil Rights Congress Got Party Money, Inquiry Hears -
-    ProQuest
+  title: 'Link to Reds Charged: Civil Rights Congress Got Party Money, Inquiry Hears'
+  title-short: Link to Reds Charged
   type: article-newspaper
   URL: >-
     https://www.proquest.com/docview/112855971/C7C6757E0ED14FACPQ/10?accountid=10730&sourcetype=Newspapers
@@ -21401,22 +21282,6 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/flr81&i=725
   volume: '81'
-
-- id: Luban2021
-  author:
-    - family: Luban
-      given: David
-  citation-key: Luban2021
-  container-title: The Georgetown Journal of Legal Ethics
-  issued:
-    - year: 2021
-  page: '613'
-  source: COinS
-  title: 'Complicity and Lesser Evils: A Tale of Two Lawyers'
-  title-short: Complicity and Lesser Evils
-  type: article-journal
-  URL: https://scholarship.law.georgetown.edu/facpub/2368
-  volume: '34'
 
 - id: Lynd2011
   abstract: "Blending cutting-edge legal strategies for winning justice at work with a theory of dramatic, bottom-up social change, this practical guide to workers’ rights aims to make work better while reinvigorating the labor movement. A powerful organization model called “solidarity unionism” is explained, showing how the labor force can avoid the pitfalls of the legal system and utilize direct action to win fair rights. The new edition includes new cases governing fundamental labor rights\_and can be used not only by union workers, but can serve as a guerrilla legal handbook for any employee in this unstable economy."
@@ -23239,7 +23104,7 @@ references:
   type: webpage
   URL: https://finding-aids.lib.unc.edu/catalog/04990
 
-- id: MEETINGGARDENSCORES_NewYorkTimes_1949
+- id: MeetingGardenScores_NewYorkTimes_1949
   abstract: >-
     Protest against the jailing of four of the eleven Communist leaders on trial
     in the Federal court for conspiracy was voiced by speakers and in
@@ -23249,7 +23114,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: MEETINGGARDENSCORES_NewYorkTimes_1949
+  citation-key: MeetingGardenScores_NewYorkTimes_1949
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -23261,12 +23126,12 @@ references:
   page: '4'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "MEETING IN GARDEN SCORES U. S. COURT:\_Civil Rights Congress Rally Protests Jailing of 4 Men in Red Trial Here"
-  title-short: MEETING IN GARDEN SCORES U. S. COURT
+  title: "Meeting in Garden Scores U. S. Court:\_Civil Rights Congress Rally Protests Jailing of 4 Men in Red Trial Here"
+  title-short: Meeting in Garden Scores U. S. Court
   type: article-newspaper
   URL: https://www.proquest.com/docview/105970130/abstract/C7C6757E0ED14FACPQ/21
 
-- id: MEETINGSPLANNEDHELP_NewYorkTimes_1948
+- id: MeetingsPlannedHelp_NewYorkTimes_1948
   abstract: >-
     The Civil Rights Congress, which furnished bail for seven of the Communist
     leaders arrested by Federal authorities, moved yesterday to plan a new
@@ -23276,7 +23141,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: MEETINGSPLANNEDHELP_NewYorkTimes_1948
+  citation-key: MeetingsPlannedHelp_NewYorkTimes_1948
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -23288,8 +23153,8 @@ references:
   page: '3'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "MEETINGS PLANNED TO HELP RADICALS:\_Group That Furnished the Bail for Communists Also Will Distribute Leaflets"
-  title-short: MEETINGS PLANNED TO HELP RADICALS
+  title: "Meetings Planned to Help Radicals:\_Group That Furnished the Bail for Communists Also Will Distribute Leaflets"
+  title-short: Meetings Planned to Help Radicals
   type: article-newspaper
   URL: https://www.proquest.com/docview/108387118/abstract/C7C6757E0ED14FACPQ/89
 
@@ -23389,7 +23254,7 @@ references:
   URL: https://www.jstor.org.elon.idm.oclc.org/stable/43059122
   volume: '50'
 
-- id: MELISHREVERSESPART_NewYorkTimes_1954
+- id: MelishReversesPart_NewYorkTimes_1954
   abstract: >-
     The Rev. William Howard Melish admitted yesterday, after having "refreshed
     my memory," that he had been a vice president of the Civil Rights Congress
@@ -23398,7 +23263,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: MELISHREVERSESPART_NewYorkTimes_1954
+  citation-key: MelishReversesPart_NewYorkTimes_1954
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -23410,8 +23275,8 @@ references:
   page: '8'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "MELISH REVERSES PART OF TESTIMONY:\_Now Admits Vice Presidency of Civil Rights Congress of New York in 1947"
-  title-short: MELISH REVERSES PART OF TESTIMONY
+  title: "Melish Reverses Part of Testimony:\_Now Admits Vice Presidency of Civil Rights Congress of New York in 1947"
+  title-short: Melish Reverses Part of Testimony
   type: article-newspaper
   URL: https://www.proquest.com/docview/112883659/abstract/C7C6757E0ED14FACPQ/19
 
@@ -27963,12 +27828,12 @@ references:
   type: webpage
   URL: https://www.eeoc.gov/prohibited-employment-policiespractices
 
-- id: PROREDUNITGETS_NewYorkTimes_1950
+- id: ProRedUnitGets_NewYorkTimes_1950
   accessed:
     - year: 2026
       month: 1
       day: 8
-  citation-key: PROREDUNITGETS_NewYorkTimes_1950
+  citation-key: ProRedUnitGets_NewYorkTimes_1950
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -27980,8 +27845,8 @@ references:
   page: '19'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "PRO-RED UNIT GETS BID:\_Link to Civil Rights Congress Backed by Party Chiefs"
-  title-short: PRO-RED UNIT GETS BID
+  title: "Pro-Red Unit Gets Bid:\_Link to Civil Rights Congress Backed by Party Chiefs"
+  title-short: Pro-Red Unit Gets Bid
   type: article-newspaper
   URL: https://www.proquest.com/docview/111601761/citation/C7C6757E0ED14FACPQ/13
 
@@ -28448,12 +28313,12 @@ references:
   page: '4'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "Red Bail Books Go to State Inquiry; Banking Official Sees Insolvency:\_Drained by Forfeitures, Fund Is Now Facing Liquidation, Which May Bring Out Names of the 4,000 Contributors Legality of Taking Deposits Field Would \"Protect Principle\""
-  title-short: Red Bail Books Go to State Inquiry; Banking Official Sees Insolvency
+  title: Red Bail Books Go to State Inquiry
+  title-short: Red Bail Books Go to State Inquiry
   type: article-newspaper
   URL: https://www.proquest.com/docview/112085200/abstract/347481120A7441B1PQ/1
 
-- id: REDBAILFUND_PORTER_NewYorkTimes_1951
+- id: RedBailFund_Porter_NewYorkTimes_1951
   abstract: >-
     Justice Henry Clay Greenberg in the State Supreme Court refused to interfere
     yesterday in the investigation to determine whether state banking laws had
@@ -28463,9 +28328,9 @@ references:
       month: 1
       day: 8
   author:
-    - family: PORTER
-      given: RUSSELL
-  citation-key: REDBAILFUND_PORTER_NewYorkTimes_1951
+    - family: Porter
+      given: Russell
+  citation-key: RedBailFund_Porter_NewYorkTimes_1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28477,12 +28342,12 @@ references:
   page: '5'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "RED BAIL FUND TEST ALLOWED BY COURT:\_Justice Greenberg Lets State Banking Inquiry Proceed as Solvency Issue Is Raised Operations of the Bail Fund Question of the Depositors Bank Examiners Thwarted"
-  title-short: RED BAIL FUND TEST ALLOWED BY COURT
+  title: "Red Bail Fund Test Allowed by Court:\_Justice Greenberg Lets State Banking Inquiry Proceed as Solvency Issue Is Raised"
+  title-short: Red Bail Fund Test Allowed by Court
   type: article-newspaper
   URL: https://www.proquest.com/docview/112176730/abstract/C7C6757E0ED14FACPQ/98
 
-- id: RedBailJumpers_KIHSS_NewYorkTimes_1952
+- id: RedBailJumpers_Kihss_NewYorkTimes_1952
   abstract: >-
     With "an indicated insolvency of approximately $140,000," largely caused by
     the bail-jumping of five top Communists, the affairs of the Bail Fund of the
@@ -28493,9 +28358,9 @@ references:
       month: 1
       day: 8
   author:
-    - family: KIHSS
-      given: PETER
-  citation-key: RedBailJumpers_KIHSS_NewYorkTimes_1952
+    - family: Kihss
+      given: Peter
+  citation-key: RedBailJumpers_Kihss_NewYorkTimes_1952
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28507,12 +28372,12 @@ references:
   page: '1'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "Red Bail Jumpers Wreck Fund; State Takes Over to Liquidate It:\_STATE TO LIQUIDATE BAIL FUND OF REDS"
+  title: Red Bail Jumpers Wreck Fund; State Takes Over to Liquidate It
   title-short: Red Bail Jumpers Wreck Fund; State Takes Over to Liquidate It
   type: article-newspaper
   URL: https://www.proquest.com/docview/112497666/abstract/209ECFB4F35E4707PQ/1
 
-- id: REDBAILSOURCE_NewYorkTimes_1956
+- id: RedBailSource_NewYorkTimes_1956
   abstract: >-
     The Civil Rights Congress,
 
@@ -28522,7 +28387,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: REDBAILSOURCE_NewYorkTimes_1956
+  citation-key: RedBailSource_NewYorkTimes_1956
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28534,8 +28399,8 @@ references:
   page: '70'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "RED BAIL SOURCE DECIDES TO QUIT:\_Civil Rights Congress Will Dissolve With 19 Branches, Ending Stormy Career"
-  title-short: RED BAIL SOURCE DECIDES TO QUIT
+  title: "Red Bail Source Decides to Quit:\_Civil Rights Congress Will Dissolve With 19 Branches, Ending Stormy Career"
+  title-short: Red Bail Source Decides to Quit
   type: article-newspaper
   URL: https://www.proquest.com/docview/113619193/abstract/C7C6757E0ED14FACPQ/18
 
@@ -28564,7 +28429,7 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/112101406/abstract/C7C6757E0ED14FACPQ/92
 
-- id: REDLEADERNEARS_NewYorkTimes_1951
+- id: RedLeaderNears_NewYorkTimes_1951
   abstract: >-
     The way was cleared yesterday in Federal Court here for the removal to Los
     Angeles of William Schneiderman, acting national head of the Communist
@@ -28573,7 +28438,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: REDLEADERNEARS_NewYorkTimes_1951
+  citation-key: RedLeaderNears_NewYorkTimes_1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28585,12 +28450,12 @@ references:
   page: '6'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "RED LEADER NEARS REMOVAL TO COAST:\_Dimock to Sign Warrant Today to Send Schneiderman to Trial in Los Angeles Assails Bail as Excessive Fund Trustees Questioned"
-  title-short: RED LEADER NEARS REMOVAL TO COAST
+  title: "Red Leader Nears Removal to Coast:\_Dimock to Sign Warrant Today to Send Schneiderman to Trial in Los Angeles"
+  title-short: Red Leader Nears Removal to Coast
   type: article-newspaper
   URL: https://www.proquest.com/docview/111884399/abstract/9AB713886A4D41F2PQ/1
 
-- id: REDOUTLAWBILL_NewYorkTimes_1954
+- id: RedOutlawBill_NewYorkTimes_1954
   abstract: >-
     Attacks on the recently passed Congressional bill outlawing the Communist
     patry were made yesterday by the American Civil Liberties Union, Civil
@@ -28599,7 +28464,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: REDOUTLAWBILL_NewYorkTimes_1954
+  citation-key: RedOutlawBill_NewYorkTimes_1954
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28611,8 +28476,8 @@ references:
   page: '33'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "RED OUTLAW BILL SCORED:\_Assailed by 4 Organizations -- Eisenhower Veto Urged"
-  title-short: RED OUTLAW BILL SCORED
+  title: "Red Outlaw Bill Scored:\_Assailed by 4 Organizations"
+  title-short: Red Outlaw Bill Scored
   type: article-newspaper
   URL: https://www.proquest.com/docview/113096505/abstract/C7C6757E0ED14FACPQ/90
 
@@ -28762,6 +28627,19 @@ references:
   title: Trump, Fascism, and the Authoritarian Turn
   type: post-weblog
   URL: https://spectrejournal.com/trump-fascism-and-the-authoritarian-turn/
+
+- id: RepealGagLaw_CivilRightsCongress1954
+  accessed:
+    - year: 2026
+      month: 2
+      day: 9
+  citation-key: RepealGagLaw_CivilRightsCongress1954
+  issued:
+    - year: 1954
+  publisher: Civil Rights Congress
+  title: Repeal the Gag Law!
+  type: document
+  URL: https://www.crmvet.org/docs/540000_crc_cca.pdf
 
 - id: ReportCivilRights_nd
   citation-key: ReportCivilRights_nd
@@ -28921,7 +28799,7 @@ references:
   title: Ries v. Mcdonald's USA, LLC
   type: legal_case
 
-- id: RIGHTSCONGRESSFACES_NewYorkTimes_1955
+- id: RightsCongressFaces_NewYorkTimes_1955
   abstract: >-
     The Civil Rights Congress was faced yesterday with a new investigation
     --because one of its contributors blundered.
@@ -28929,7 +28807,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: RIGHTSCONGRESSFACES_NewYorkTimes_1955
+  citation-key: RightsCongressFaces_NewYorkTimes_1955
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28941,12 +28819,12 @@ references:
   page: '27'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "RIGHTS CONGRESS FACES NEW WOES:\_Donor Blunders, Sending Fund Plea to Head of Joint Inquiry Committee"
-  title-short: RIGHTS CONGRESS FACES NEW WOES
+  title: "Rights Congress Faces New Woes:\_Donor Blunders, Sending Fund Plea to Head of Joint Inquiry Committee"
+  title-short: Rights Congress Faces New Woes
   type: article-newspaper
   URL: https://www.proquest.com/docview/113468515/abstract/C7C6757E0ED14FACPQ/63
 
-- id: RightsGroupBail_TheWashingtonPost1923-1954_1951
+- id: RightsGroupBail_TheWashingtonPost_1951
   abstract: >-
     The $10,000 bail bond posted by the left-wing Civil Rights Congress for
     Harold R. Christoffel, Milwaukee labor leader convicted of perjury, was
@@ -28955,8 +28833,8 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: RightsGroupBail_TheWashingtonPost1923-1954_1951
-  container-title: The Washington Post  (1923-1954)
+  citation-key: RightsGroupBail_TheWashingtonPost_1951
+  container-title: The Washington Post
   issued:
     - year: 1951
       month: 9
@@ -29013,7 +28891,7 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/27672355
 
-- id: ROGGEFILESLIEN_NewYorkTimes_1952
+- id: RoggeFilesLien_NewYorkTimes_1952
   abstract: >-
     To collect his fee for defending a former left-wing labor leader, O. John
     Rogge has filed a lawyer's lien for $15,000 of Civil Rights Congress funds
@@ -29022,7 +28900,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: ROGGEFILESLIEN_NewYorkTimes_1952
+  citation-key: RoggeFilesLien_NewYorkTimes_1952
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -29034,20 +28912,17 @@ references:
   page: '7'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "ROGGE FILES A LIEN ON RED BAIL FUNDS:\_Seeks Fee From Impounded Money -- Acts to Bare Civil Rights Congress Records"
-  title-short: ROGGE FILES A LIEN ON RED BAIL FUNDS
+  title: "Rogge Files a Lien on Red Bail Funds:\_Seeks Fee From Impounded Money"
+  title-short: Rogge Files a Lien on Red Bail Funds
   type: article-newspaper
   URL: https://www.proquest.com/docview/112568808/abstract/C5E225B0EA54EAFPQ/1
 
-- id: ROGGELOSESSUIT_TIMES_NewYorkTimes_1952
+- id: RoggeLosesSuit_NewYorkTimes_1952
   accessed:
     - year: 2026
       month: 1
       day: 8
-  author:
-    - family: TIMES
-      given: Special to THE NEW YORK
-  citation-key: ROGGELOSESSUIT_TIMES_NewYorkTimes_1952
+  citation-key: RoggeLosesSuit_NewYorkTimes_1952
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -29059,8 +28934,8 @@ references:
   page: '29'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "ROGGE LOSES SUIT FOR FEE:\_Counsel for Christoffel Sought to Attach Bail Funds"
-  title-short: ROGGE LOSES SUIT FOR FEE
+  title: "Rogge Loses Suit for Fee:\_Counsel for Christoffel Sought to Attach Bail Funds"
+  title-short: Rogge Loses Suit for Fee
   type: article-newspaper
   URL: https://www.proquest.com/docview/112381797/citation/55BEF8A092084795PQ/1
 
@@ -31510,6 +31385,32 @@ references:
   title: Shiftlet v. Allstate Insurance Co.
   type: legal_case
   volume: '451'
+
+- id: Sides1998
+  accessed:
+    - year: 2026
+      month: 2
+      day: 9
+  author:
+    - family: Sides
+      given: Josh
+  citation-key: Sides1998
+  container-title: Pacific Historical Review
+  DOI: 10.2307/3641563
+  ISSN: 0030-8684
+  issue: '2'
+  issued:
+    - year: 1998
+  page: 233–257
+  publisher: University of California Press
+  source: JSTOR
+  title: >-
+    "You Understand My Condition": The Civil Rights Congress in the Los Angeles
+    African-American Community, 1946-1952
+  title-short: You Understand My Condition
+  type: article-journal
+  URL: https://www.jstor.org/stable/3641563
+  volume: '67'
 
 - id: Silbey2005
   abstract: >-
@@ -33961,7 +33862,7 @@ references:
   URL: https://doi.org/10.1080/09695958.2020.1765782
   volume: '27'
 
-- id: TAXLIENCLAMPED_NewYorkTimes_1951
+- id: TaxLienClamped_NewYorkTimes_1951
   abstract: >-
     A tax lien of $1,764,19 was filed yesterday against the Civil Rights
     Congress for unpaid withholding and Social Security taxes.
@@ -33969,7 +33870,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: TAXLIENCLAMPED_NewYorkTimes_1951
+  citation-key: TaxLienClamped_NewYorkTimes_1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -33981,8 +33882,8 @@ references:
   page: '5'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "TAX LIEN CLAMPED ON RED BAIL FUND:\_$376,000 Put in Escrow After U.S. Files for $1,764 Owed by Civil Rights Congress"
-  title-short: TAX LIEN CLAMPED ON RED BAIL FUND
+  title: "Tax Lien Clamped on Red Bail Fund:\_$376,000 Put in Escrow After U.S. Files for $1,764 Owed by Civil Rights Congress"
+  title-short: Tax Lien Clamped on Red Bail Fund
   type: article-newspaper
   URL: https://www.proquest.com/docview/112159150/abstract/C7C6757E0ED14FACPQ/27
 
@@ -34864,7 +34765,7 @@ references:
   type: legal_case
   volume: '52'
 
-- id: TRUMANURGEDCLEAR_TIMES_NewYorkTimes_1948
+- id: TrumanUrgedClear_White_NewYorkTimes_1948
   abstract: >-
     WASHINGTON, Sept. 22 -- Representatives of the Civil Rights Congress, an
     organization named by the Attorney General as subversive, demanded today
@@ -34875,9 +34776,9 @@ references:
       month: 1
       day: 8
   author:
-    - family: TIMES
-      given: WILLIAM S. WHITESpecial to THE NEW YORK
-  citation-key: TRUMANURGEDCLEAR_TIMES_NewYorkTimes_1948
+    - family: White
+      given: William S.
+  citation-key: TrumanUrgedClear_White_NewYorkTimes_1948
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -34889,8 +34790,8 @@ references:
   page: '9'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "TRUMAN IS URGED TO 'CLEAR' 12 REDS:\_Civil Rights Congress Delegates Visit White House, Argue He Can Kill Indictments"
-  title-short: TRUMAN IS URGED TO 'CLEAR' 12 REDS
+  title: "Truman Is Urged to 'Clear' 12 Reds:\_Civil Rights Congress Delegates Visit White House, Argue He Can Kill Indictments"
+  title-short: Truman Is Urged to 'Clear' 12 Reds
   type: article-newspaper
   URL: https://www.proquest.com/docview/108102300/abstract/C7C6757E0ED14FACPQ/20
 
@@ -34997,7 +34898,7 @@ references:
   title: Taking the Constitution Away from the Courts
   type: book
 
-- id: TWOCOMMUNISTSBAILED_NewYorkTimes_1951
+- id: TwoCommunistsBailed_NewYorkTimes_1951
   abstract: >-
     Two more of the sixteen Communists jailed last Wednesday on charges of
     criminal conspiracy to teach and advocate the violent overthrow of the
@@ -35007,7 +34908,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  citation-key: TWOCOMMUNISTSBAILED_NewYorkTimes_1951
+  citation-key: TwoCommunistsBailed_NewYorkTimes_1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -35019,12 +34920,14 @@ references:
   page: '16'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "TWO COMMUNISTS BAILED:\_$10,000 Each Supplied by Friend of Civil Rights Congress"
-  title-short: TWO COMMUNISTS BAILED
+  title: >-
+    Two Communists Bailed: $10,000 Each Supplied by Friend of Civil Rights
+    Congress
+  title-short: Two Communists Bailed
   type: article-newspaper
   URL: https://www.proquest.com/docview/112219372/abstract/C7C6757E0ED14FACPQ/11
 
-- id: TWOGROUPSHELD_Times_NewYorkTimes_1957
+- id: TwoGroupsHeld_NewYorkTimes_1957
   abstract: >-
     WASHINGTON, July 29--The Subversive Activities Control Board ruled today
     that the Civil Rights Congress and the American Peace Crusade were fronts
@@ -35033,10 +34936,7 @@ references:
     - year: 2026
       month: 1
       day: 8
-  author:
-    - family: Times
-      given: Special to The New York
-  citation-key: TWOGROUPSHELD_Times_NewYorkTimes_1957
+  citation-key: TwoGroupsHeld_NewYorkTimes_1957
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -35048,8 +34948,10 @@ references:
   page: '11'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: "TWO GROUPS HELD FRONTS FOR REDS:\_Defunct Civil Rights Group and Peace Crusade Are Cited by U.S. Board Both Out of Business Appeal Is Pending"
-  title-short: TWO GROUPS HELD FRONTS FOR REDS
+  title: >-
+    Two Groups Held Fronts for Reds: Defunct Civil Rights Group and Peace
+    Crusade Are Cited by U.S. Board Both Out of Business Appeal Is Pending
+  title-short: Two Groups Held Fronts for Reds
   type: article-newspaper
   URL: https://www.proquest.com/docview/114132157/abstract/C7C6757E0ED14FACPQ/72
 
@@ -35173,42 +35075,13 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:86%20Wis.2d%20582#autoLogin
   volume: '86'
 
-- id: USAttacksCivil_LosAngelesTimes_1951
-  abstract: >-
-    Explore millions of resources from scholarly journals, books, newspapers,
-    videos and more, on the ProQuest Platform.
+- id: USCivilRights_TheWashingtonPost_1951
   accessed:
     - year: 2026
       month: 1
       day: 8
-  citation-key: USAttacksCivil_LosAngelesTimes_1951
-  container-title: Los Angeles Times
-  issued:
-    - year: 1951
-      month: 7
-      day: 11
-  language: en
-  page: '14'
-  publisher-place: Los Angeles, California
-  title: U.S. Attacks Civil Rights Congress on Reds' Bail
-  type: article-newspaper
-  URL: >-
-    https://www.proquest.com/docview/166264825?accountid=10730&cid=CID%3A20260108205049861%3A822229&fromOL=true&parentSessionId=sjgAFBhfZq4byQxv1Gjxfnz5d33MUiLdD89iheY82C8%3D&sourcetype=Newspapers
-
-- id: USCivilRights_Press_TheWashingtonPost1923-1954_1951
-  abstract: >-
-    The State Department has instructed the American Embassy in Paris to revoke
-    the passport of William Patterson, executive secretary of the American Civil
-    Rights Congress, officials said yesterday.
-  accessed:
-    - year: 2026
-      month: 1
-      day: 8
-  author:
-    - family: Press
-      given: The Associated
-  citation-key: USCivilRights_Press_TheWashingtonPost1923-1954_1951
-  container-title: The Washington Post  (1923-1954)
+  citation-key: USCivilRights_TheWashingtonPost_1951
+  container-title: The Washington Post
   issued:
     - year: 1951
       month: 12
@@ -35901,6 +35774,21 @@ references:
       given: C. Wright
   type: chapter
 
+- id: WeChargeGenocide_CivilRightsCongress1951
+  abstract: >-
+    My Collection Search results from the National Museum of African American
+    History and Culture
+  citation-key: WeChargeGenocide_CivilRightsCongress1951
+  issued:
+    - year: 1951
+  language: en
+  publisher: Civil Rights Congress
+  title: >-
+    We Charge Genocide: The Historic Petition to the United Nations for Relief
+    from a Crime of the United States Government Against the Negro People
+  title-short: We Charge Genocide
+  type: document
+
 - id: Weidhorn1998
   author:
     - family: Weidhorn
@@ -36071,6 +35959,19 @@ references:
   type: webpage
   URL: >-
     https://www.eeoc.gov/what-do-if-you-experience-discrimination-related-dei-work
+
+- id: WhatsYourFreedom_CivilRightsCongress1948
+  accessed:
+    - year: 2026
+      month: 2
+      day: 9
+  citation-key: WhatsYourFreedom_CivilRightsCongress1948
+  issued:
+    - year: 1948
+  publisher: Civil Rights Congress
+  title: Whats Your Freedom Worth to You?
+  type: document
+  URL: https://www.crmvet.org/docs/480000_crc_brochure.pdf
 
 - id: WhatYouShouldKnow_USEqualEmploymentOpportunityCommission_nd
   abstract: >-
@@ -37131,23 +37032,10 @@ references:
       month: 9
       day: 18
   language: en
-  title: Why don't prosecutors get disciplined?
+  title: Why Don't Prosecutors Get Disciplined?
   type: post-weblog
   URL: >-
     https://www.apmreports.org/story/2018/09/18/why-dont-prosecutors-get-disciplined
-
-- id: YouUnderstandMy_nd
-  accessed:
-    - year: 2026
-      month: 1
-      day: 8
-  citation-key: YouUnderstandMy_nd
-  title: >-
-    "You Understand My Condition": The Civil Rights Congress in the Los Angeles
-    African-American Community, 1946-1952 on JSTOR
-  type: webpage
-  URL: >-
-    https://www.jstor.org/stable/3641563?searchText&searchUri&ab_segments&searchKey&refreqid=fastly-default%3Ab402ddebf67289addad7b846d2f4ca51&initiator=recommender&seq=1
 
 - id: Zacharias2001
   author:

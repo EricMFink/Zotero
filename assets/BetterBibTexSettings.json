@@ -1,6 +1,8 @@
 {
   "config": {
-    "options": {},
+    "options": {
+      "cache": true
+    },
     "preferences": {
       "ascii": "",
       "asciiBibLaTeX": false,
@@ -15,7 +17,7 @@
       "automaticTags": true,
       "autoPinDelay": 0,
       "auxImport": false,
-      "baseAttachmentPath": "/home/efink/Research/Zotero/pdf",
+      "baseAttachmentPath": "/home/efink/GitHub/Zotero/pdf",
       "biblatexExtendedDateFormat": true,
       "biblatexExtendedNameFormat": false,
       "biblatexExtractEprint": false,
@@ -23,9 +25,8 @@
       "bibtexEditionOrdinal": false,
       "bibtexParticleNoOp": false,
       "bibtexURL": "off",
-      "cache": true,
+      "cache": false,
       "cacheDelete": false,
-      "cacheRetain": false,
       "charmap": "",
       "chinese": false,
       "chineseSplitName": true,

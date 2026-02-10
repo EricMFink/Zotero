@@ -8,7 +8,7 @@ filters:
 - citeproc
 - pretty-urls.lua
 pdf-engine: xelatex # Change this if you want to use a different engine, e.g. pdflatex
-bibliography: ${HOME}/GitHub/Zotero/MyLibrary.json
+bibliography: ${HOME}/GitHub/Zotero/MyLibrary.yaml
 csl:  ${HOME}/GitHub/Zotero/CSL-styles/indigobook-law-review.csl
 citation-abbreviations: ${HOME}/GitHub/Zotero/CSL-styles/indigobook-abbrevs.json
 template: /home/efink/.pandoc/templates/master.tex
