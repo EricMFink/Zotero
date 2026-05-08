@@ -178,46 +178,28 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/112191239/abstract/C7C6757E0ED14FACPQ/28
 
-- id: 75YearsAgo_Silber_TheConversationU.S._2024
-  abstract: >-
-    Heightened anti-communist anxiety Originally scheduled for Aug. 27, 1949,
-    the concert was a benefit for the Harlem branch of the Civil Rights
-    Congress, an organization with a history of campaigning against racism in
-    the criminal justice system and which was affiliated with U.S. communists.
-    Increasingly, those sympathies put him in the crosshairs of rising Cold War
-    hysteria. A subsequent grand jury investigation found the violence “was
-    basically neither anti-Semitic nor anti-Negro in character,” author Martin
-    Duberman writes in his book on Paul Robeson.
+- id: 75YearsAgoKKK_TheConversation2024
   accessed:
     - year: 2026
-      month: 1
-      day: 8
+      month: 5
+      day: 5
   author:
     - family: Silber
       given: Nina
-  citation-key: 75YearsAgo_Silber_TheConversationU.S._2024
-  container-title: The Conversation U.S.
-  contributor:
-    - family: Trump
-      given: Donald J.
+  citation-key: 75YearsAgoKKK_TheConversation2024
+  container-title: The Conversation
+  DOI: 10.64628/AAI.n9c7tjes6
   issued:
     - year: 2024
       month: 8
       day: 20
-  language: English
-  license: >-
-    © 2024. This work is published under
-    https://creativecommons.org/licenses/by-nd/4.0/ (the “License”).
-    Notwithstanding the ProQuest Terms and Conditions, you may use this content
-    in accordance with the terms of the License.
-  publisher: The Conversation US, Inc.
-  publisher-place: Boston, United States
-  source: ProQuest
+  language: en-US
   title: >-
     75 years ago, the KKK and anti-communists teamed up to violently stop a folk
     concert in NY
-  type: article-newspaper
-  URL: https://www.proquest.com/docview/3094893984/abstract/C7C6757E0ED14FACPQ/30
+  type: webpage
+  URL: >-
+    https://theconversation.com/75-years-ago-the-kkk-and-anti-communists-teamed-up-to-violently-stop-a-folk-concert-in-ny-236094
 
 - id: 98FEO16_NCStateBar1999
   accessed:
@@ -1287,7 +1269,9 @@ references:
   number-of-pages: '224'
   publisher: Princeton University Press
   publisher-place: Princeton
-  title: 'Private Government: How Employers Rule Our Lives'
+  title: >-
+    Private Government: How Employers Rule Our Lives (and Why We Don't Talk
+    about It)
   title-short: Private Government
   type: book
 
@@ -3002,6 +2986,19 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/denlr86&i=461
   volume: '86'
 
+- id: BerkChoy_US2026
+  authority: U.S.
+  citation-key: BerkChoy_US2026
+  container-title: S. Ct.
+  issued:
+    - year: 2026
+      month: 1
+      day: 20
+  page: '546'
+  title: Berk v. Choy
+  type: legal_case
+  volume: '146'
+
 - id: Bernstein2010
   abstract: >-
     "A broad panorama in brilliant prose." —American Historical ReviewIn this
@@ -4317,6 +4314,31 @@ references:
     https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=sih&AN=144213339&site=ehost-live
   volume: '9'
 
+- id: Braverman1974
+  abstract: >-
+    This widely acclaimed book, first published in 1974, was a classic from its
+    first day in print. Written in a direct, inviting way by Harry Braverman,
+    whose years as an industrial worker gave him rich personal insight into
+    work, Labor and Monopoly Capital overturned the reigning ideologies of
+    academic sociology. This new edition features an introduction by John
+    Bellamy Foster that sets the work in historical and theoretical context, as
+    well as two rare articles by Braverman, "The Degradation of Work in the
+    Twentieth Century" (1975) and "Two Comments" (1976), that add much to our
+    understanding of the book.
+  author:
+    - family: Braverman
+      given: Harry
+  citation-key: Braverman1974
+  ISBN: 978-0-85345-370-3
+  issued:
+    - year: 1974
+  language: en
+  number-of-pages: '465'
+  publisher: Monthly Review Press
+  title: 'Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century'
+  title-short: Labor and Monopoly Capital
+  type: book
+
 - id: Breines1980
   author:
     - family: Breines
@@ -4430,6 +4452,17 @@ references:
   type: post-weblog
   URL: >-
     https://lpeproject.org/blog/on-constitutional-crisis-the-rule-of-law-and-the-fate-of-democracy/
+
+- id: BroadbentWilliams_DUtah2025
+  authority: D. Utah
+  citation-key: BroadbentWilliams_DUtah2025
+  issued:
+    - year: 2025
+      month: 2
+      day: 4
+  number: 4:24-cv-00091-DN
+  title: Broadbent v. Williams
+  type: legal_case
 
 - id: Brocic2021
   accessed:
@@ -10515,6 +10548,29 @@ references:
   type: legal_case
   volume: '45'
 
+- id: FascistStormTroopersRacist_AlJazeera2020
+  abstract: >-
+    In 1949, truncheon-wielding police officers descended on the racially
+    integrated concert of singer Paul Robeson.
+  accessed:
+    - year: 2026
+      month: 5
+      day: 5
+  author:
+    - family: Stadler
+      given: Gustavus
+  citation-key: FascistStormTroopersRacist_AlJazeera2020
+  container-title: Al Jazeera
+  issued:
+    - year: 2020
+      month: 9
+      day: 4
+  language: en
+  title: '‘Fascist storm troopers’: Racist police violence in 1940s America'
+  type: webpage
+  URL: >-
+    https://www.aljazeera.com/features/2020/9/4/fascist-storm-troopers-racist-police-violence-in-1940s-america
+
 - id: FBISpyChilds_DailyTarHeel_1955
   abstract: >-
     The daily Tar Heel. (Chapel Hill, N.C.) 1946-current, April 20, 1955, Page
@@ -16291,6 +16347,24 @@ references:
   title: 'The Transformation of American Law, 1870-1960: The Crisis of Legal Orthodoxy'
   title-short: The Transformation of American Law, 1870-1960
   type: book
+
+- id: HowardFastEyewitness_nd
+  accessed:
+    - year: 2026
+      month: 5
+      day: 5
+  author:
+    - family: Fast
+      given: Howard
+  citation-key: HowardFastEyewitness_nd
+  container-title: The Daily Worker
+  issued:
+    - year: 1949
+      month: 10
+      day: 30
+  title: 'Howard Fast: Eyewitness Account'
+  type: article-newspaper
+  URL: https://www.trussel.com/hf/peekskil.htm
 
 - id: Hoy2018
   author:
@@ -28663,6 +28737,17 @@ references:
   title: Report on Civil Rights Congress as a Communist Front Organization
   type: report
 
+- id: ReQuarlesButler_SupremeCourtSubmittedApril221895
+  authority: U.S.
+  citation-key: ReQuarlesButler_SupremeCourtSubmittedApril221895
+  container-title: US
+  issued:
+    - year: 1895
+  page: '532'
+  title: In re Quarles and Butler
+  type: legal_case
+  volume: '158'
+
 - id: Research1998
   author:
     - family: Research
@@ -33502,6 +33587,17 @@ references:
   title: Supplemental Jurisdiction
   type: legislation
   volume: '28'
+
+- id: SureTanIncNLRB_US1984
+  authority: US
+  citation-key: SureTanIncNLRB_US1984
+  container-title: US
+  issued:
+    - year: 1984
+  page: '883'
+  title: Sure-Tan, Inc. v. NLRB
+  type: legal_case
+  volume: '467'
 
 - id: Suwandi2019
   abstract: >-
