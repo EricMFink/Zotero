@@ -1001,9 +1001,9 @@ references:
   URL: https://doi.org/10.3102/01623737221113576
   volume: '45'
 
-- id: ALDFvHerbert2017
+- id: ALDFvHerbert_DUtah2017
   authority: D. Utah
-  citation-key: ALDFvHerbert2017
+  citation-key: ALDFvHerbert_DUtah2017
   container-title: F. Supp. 3d
   issued:
     - year: 2017
@@ -1013,21 +1013,9 @@ references:
   type: legal_case
   volume: '263'
 
-- id: ALDFvKelly2020
-  authority: D. Kansas
-  citation-key: ALDFvKelly2020
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2020
-  page: '974'
-  title: Animal Legal Defense Fund v. Kelly
-  title-short: ALDF v. Kelly
-  type: legal_case
-  volume: '434'
-
-- id: ALDFvKelly2021-10thCir
+- id: ALDFvKelly_10thCir2021
   authority: 10th Cir.
-  citation-key: ALDFvKelly2021-10thCir
+  citation-key: ALDFvKelly_10thCir2021
   container-title: F.4th
   container-title-short: F.4th
   issued:
@@ -1039,9 +1027,21 @@ references:
   type: legal_case
   volume: '9'
 
-- id: ALDFvOtter2015
+- id: ALDFvKelly_DKansas2020
+  authority: D. Kansas
+  citation-key: ALDFvKelly_DKansas2020
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2020
+  page: '974'
+  title: Animal Legal Defense Fund v. Kelly
+  title-short: ALDF v. Kelly
+  type: legal_case
+  volume: '434'
+
+- id: ALDFvOtter_DIdaho2015
   authority: D. Idaho
-  citation-key: ALDFvOtter2015
+  citation-key: ALDFvOtter_DIdaho2015
   container-title: F. Supp. 3d
   issued:
     - year: 2015
@@ -1051,70 +1051,25 @@ references:
   type: legal_case
   volume: '118'
 
-- id: ALDFWasdenFarmworkersAmicus2016
-  citation-key: ALDFWasdenFarmworkersAmicus2016
+- id: ALDFvPeco_EDArk2023
+  authority: E.D. Ark.
+  citation-key: ALDFvPeco_EDArk2023
   issued:
-    - year: 2016
-      month: 6
-      day: 26
-  note: 9th Cir.
-  title: ALDF v. Wasden - Farm Workers Amicus
-  type: document
-
-- id: ALDFWasdenIdahoLaborAmicus2016
-  citation-key: ALDFWasdenIdahoLaborAmicus2016
-  issued:
-    - year: 2016
-      month: 6
-      day: 23
-  note: 9th Cir.
-  title: ALDF v. Wasden - Idaho Labor Amicus
-  type: document
-
-- id: ALFDvReynolds2018
-  authority: S.D. Iowa
-  citation-key: ALFDvReynolds2018
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2018
-  page: '901'
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: ALDF v. Reynolds
+    - year: 2023
+      month: 3
+      day: 31
+  number: 4:19cv00442 JM
+  title: Animal League Defense Fund v. Peco Foods, Inc.
+  title-short: Peco Foods
   type: legal_case
-  volume: '297'
 
-- id: ALFDvReynolds2021
-  authority: 8th Cir.
-  citation-key: ALFDvReynolds2021
-  container-title: F.4th
-  container-title-short: F.4th
-  issued:
-    - year: 2021
-  page: '781'
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: ALDF v. Reynolds
-  type: legal_case
-  volume: '8'
-
-- id: ALFDvReynolds2022-SDIowa
-  authority: S.D. Iowa
-  citation-key: ALFDvReynolds2022-SDIowa
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2022
-  page: '397'
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: ALDF v. Reynolds
-  type: legal_case
-  volume: '591'
-
-- id: ALFDvReynolds2024
+- id: ALDFvReynolds_8Cir2024
   accessed:
     - year: 2024
       month: 2
       day: 19
   authority: 8th Cir.
-  citation-key: ALFDvReynolds2024
+  citation-key: ALDFvReynolds_8Cir2024
   issued:
     - year: 2024
       month: 1
@@ -1125,8 +1080,45 @@ references:
   type: legal_case
   volume: '89'
 
-- id: ALFDvReynoldsCaseNote2022
-  citation-key: ALFDvReynoldsCaseNote2022
+- id: ALDFvReynolds_8thCir2021
+  authority: 8th Cir.
+  citation-key: ALDFvReynolds_8thCir2021
+  container-title: F.4th
+  container-title-short: F.4th
+  issued:
+    - year: 2021
+  page: '781'
+  title: Animal Legal Defense Fund v. Reynolds
+  title-short: ALDF v. Reynolds
+  type: legal_case
+  volume: '8'
+
+- id: ALDFvReynolds_SDIowa2018
+  authority: S.D. Iowa
+  citation-key: ALDFvReynolds_SDIowa2018
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2018
+  page: '901'
+  title: Animal Legal Defense Fund v. Reynolds
+  title-short: ALDF v. Reynolds
+  type: legal_case
+  volume: '297'
+
+- id: ALDFvReynolds_SDIowa2022
+  authority: S.D. Iowa
+  citation-key: ALDFvReynolds_SDIowa2022
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2022
+  page: '397'
+  title: Animal Legal Defense Fund v. Reynolds
+  title-short: ALDF v. Reynolds
+  type: legal_case
+  volume: '591'
+
+- id: ALDFvReynoldsCaseNote2022
+  citation-key: ALDFvReynoldsCaseNote2022
   container-title: Harvard Law Review
   container-title-short: Harv. Law Rev.
   issued:
@@ -1138,21 +1130,9 @@ references:
   type: article-journal
   volume: '135'
 
-- id: ALFDvVaught2020-EDArk
-  authority: E.D. Ark.
-  citation-key: ALFDvVaught2020-EDArk
-  issued:
-    - year: 2020
-      month: 2
-      day: 14
-  number: 4:19cv00442
-  title: Animal Legal Defense Fund v. Vaught
-  title-short: ALDF v. Vaught
-  type: legal_case
-
-- id: ALFDvVaught2021
+- id: ALDFvVaught_8thCir2021
   authority: 8th Cir.
-  citation-key: ALFDvVaught2021
+  citation-key: ALDFvVaught_8thCir2021
   container-title: F.4th
   container-title-short: F.4th
   issued:
@@ -1163,21 +1143,21 @@ references:
   type: legal_case
   volume: '8'
 
-- id: ALFDvWasden2018
-  authority: D. Idaho
-  citation-key: ALFDvWasden2018
-  container-title: F. Supp. 3d
+- id: ALDFvVaught_EDArk2020
+  authority: E.D. Ark.
+  citation-key: ALDFvVaught_EDArk2020
   issued:
-    - year: 2018
-  page: '939'
-  title: Animal Legal Defense Fund v. Wasden
-  title-short: ALDF v. Wasden
+    - year: 2020
+      month: 2
+      day: 14
+  number: 4:19cv00442
+  title: Animal Legal Defense Fund v. Vaught
+  title-short: ALDF v. Vaught
   type: legal_case
-  volume: '312'
 
-- id: ALFDvWasden2018-9Cir
+- id: ALDFvWasden_9thCir2018
   authority: 9th Cir.
-  citation-key: ALFDvWasden2018-9Cir
+  citation-key: ALDFvWasden_9thCir2018
   container-title: F.3d
   container-title-short: F.3d
   issued:
@@ -1187,6 +1167,42 @@ references:
   title-short: ALDF v. Wasden
   type: legal_case
   volume: '878'
+
+- id: ALDFvWasden_DIdaho2018
+  authority: D. Idaho
+  citation-key: ALDFvWasden_DIdaho2018
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2018
+  page: '939'
+  title: Animal Legal Defense Fund v. Wasden
+  title-short: ALDF v. Wasden
+  type: legal_case
+  volume: '312'
+
+- id: ALDFWasdenFarmworkersAmicus2016
+  citation-key: ALDFWasdenFarmworkersAmicus2016
+  genre: Legal Brief
+  issued:
+    - year: 2016
+      month: 6
+      day: 27
+  note: 9th Cir.
+  title: Brief of Amicus Curiae United Farm Workers of America in ALDF v. Wasden
+  type: document
+
+- id: ALDFWasdenIdahoLaborAmicus2016
+  citation-key: ALDFWasdenIdahoLaborAmicus2016
+  genre: Legal Brief
+  issued:
+    - year: 2016
+      month: 6
+      day: 23
+  note: 9th Cir.
+  title: >-
+    Brief of Amicus Curiae Idaho Building Trades Council and Idaho AFL-CIO in
+    ALDF v. Wasden
+  type: document
 
 - id: Alford1985
   abstract: >-
@@ -1538,18 +1554,6 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/ylr126&i=12
   volume: '126'
 
-- id: AnimalLeagueDefenseFund_EDArk2023
-  authority: E.D. Ark.
-  citation-key: AnimalLeagueDefenseFund_EDArk2023
-  issued:
-    - year: 2023
-      month: 3
-      day: 31
-  number: 4:19cv00442 JM
-  title: Animal League Defense Fund v. Peco Foods, Inc.
-  title-short: Peco Foods
-  type: legal_case
-
 - id: AnimalWelfareInstitute2022
   accessed:
     - year: 2023
@@ -1713,9 +1717,9 @@ references:
   title: Arkansas Data Trespass
   type: legislation
 
-- id: ArkansasLabelingIncProctor_EDArk2020
+- id: ArkansasLabeling_Complaint2020
   authority: E.D. Ark.
-  citation-key: ArkansasLabelingIncProctor_EDArk2020
+  citation-key: ArkansasLabeling_Complaint2020
   issued:
     - year: 2020
       month: 1
@@ -7189,8 +7193,6 @@ references:
     Right to Uncover Workplace Wrongdoing
   title-short: Gagged by Big Ag
   type: article-journal
-  URL: >-
-    https://heinonline.org/HOL/Page?handle=hein.journals/ggulr49&id=137&div=&collection=
   volume: '49'
 
 - id: Cooper2017
@@ -7510,8 +7512,6 @@ references:
   title: 'Farm to Tabling Free Speech: The First Amendment & Ag-Gag Law'
   title-short: Farm to Tabling Free Speech
   type: article-journal
-  URL: >-
-    https://heinonline.org/HOL/Page?handle=hein.journals/dragl27&id=455&div=&collection=
   volume: '27'
 
 - id: CuddebackFloridaBdEduc_CourtofAppeals11thCircuit2004
@@ -7872,7 +7872,6 @@ references:
   title: 'Salting the Earth: Organizing for the Long Haul'
   title-short: Salting the Earth
   type: article-journal
-  URL: https://www.jstor.org/stable/40342338
 
 - id: DaltonCamp_NC2001
   authority: N.C.
@@ -8220,8 +8219,6 @@ references:
   title: 'Trespass Plus: Ag-Gag and the Right to Exclude'
   title-short: Trespass Plus
   type: article-journal
-  URL: >-
-    https://heinonline.org/HOL/Page?handle=hein.journals/gintenlr35&id=6&div=&collection=
   volume: '35'
 
 - id: DesaiCharterCommunicationsLLC_WDKy2019
@@ -12546,8 +12543,6 @@ references:
     The Unaddressed Force of the First Amendment's Petition Clause Underlying
     Evolving and Expanding Ag-Gag Legislation
   type: article-journal
-  URL: >-
-    https://heinonline.org/HOL/Page?handle=hein.journals/falr18&id=584&div=&collection=
   volume: '18'
 
 - id: FreshEasyNeighborhoodMarket_NLRB2014
@@ -12616,7 +12611,9 @@ references:
       month: 12
       day: 29
   number: A-09-427
-  title: Friedges Drywall, Inc. v. North Central States Regional Council of Capenters
+  title: >-
+    Friedges Drywall, Inc. v. North Central States Regional Council of
+    Carpenters
   type: legal_case
 
 - id: Friedman1988
@@ -14948,14 +14945,14 @@ references:
   URL: >-
     https://jewish-heritage-europe.eu/2018/07/08/on-the-road-in-cz-a-holocaust-memorial/
 
-- id: GuardsmarkLlcNLRB_DCCircuit2007
+- id: GuardsmarkNLRB_DCCircuit2007
   authority: D.C. Circuit
-  citation-key: GuardsmarkLlcNLRB_DCCircuit2007
+  citation-key: GuardsmarkNLRB_DCCircuit2007
   container-title: F. 3d
   issued:
     - year: 2007
   page: '369'
-  title: Guardsmark, Llc v. NLRB
+  title: Guardsmark, LLC v. NLRB
   type: legal_case
   volume: '475'
 
@@ -20869,8 +20866,6 @@ references:
   source: COinS
   title: In Support of Free Speech on Food Production
   type: article-journal
-  URL: >-
-    https://heinonline.org/HOL/Page?handle=hein.journals/dlr129&id=563&div=&collection=
   volume: '129'
 
 - id: Lindert2016
@@ -23024,7 +23019,6 @@ references:
     Recordings by Employees
   title-short: To Say or Not to Say
   type: article-journal
-  URL: https://heinonline.org/HOL/P?h=hein.journals/deplr73&i=1101
   volume: '73'
 
 - id: McAllisterBros_NLRB1986
@@ -25249,16 +25243,6 @@ references:
   URL: >-
     https://nationalaglawcenter.org/ag-gag-laws-an-update-of-recent-legal-developments/
 
-- id: NationalLaborRelations1935
-  citation-key: NationalLaborRelations1935
-  container-title: U.S. Code
-  issued:
-    - year: 1935
-  section: 151 et seq.
-  title: National Labor Relations Act
-  type: legislation
-  volume: '29'
-
 - id: NationalRighttoWorkCommittee2003
   author:
     - family: National Right to Work Committee
@@ -25329,6 +25313,15 @@ references:
   language: en-US
   section: 99A-2
   title: North Carolina Property Protection Act
+  type: legislation
+
+- id: NCPropertyProtectionAct2016
+  citation-key: NCPropertyProtectionAct2016
+  container-title: N.C. Gen. Stat.
+  issued:
+    - year: 2016
+  section: 99A-2
+  title: NC Property Protection Act
   type: legislation
 
 - id: NCRetaliatoryEmployment_nd
@@ -25806,6 +25799,16 @@ references:
   URL: >-
     https://www.nytimes.com/2026/02/04/business/eeoc-nike-white-employee-discrimination.html
 
+- id: NLRA1935
+  citation-key: NLRA1935
+  container-title: U.S. Code
+  issued:
+    - year: 1935
+  section: 151 et seq.
+  title: National Labor Relations Act
+  type: legislation
+  volume: '29'
+
 - id: NLRBBellAerospaceCo_US1974
   authority: U.S.
   citation-key: NLRBBellAerospaceCo_US1974
@@ -25948,8 +25951,6 @@ references:
   references: enforcing 355 NLRB 1280 (2010)
   title: NLRB v. White Oak Manor
   type: legal_case
-  URL: >-
-    https://scholar-google-com.elon.idm.oclc.org/scholar_case?case=13876650638072932902&q=white+oak+manor+v+nlrb&hl=en&as_sdt=6,36
   volume: '452'
 
 - id: Nomad2025
@@ -27136,23 +27137,6 @@ references:
   type: legal_case
   volume: '737'
 
-- id: PeopleEthicalTreatmentAnimals_4thCir2023
-  authority: 4th Cir.
-  citation-key: PeopleEthicalTreatmentAnimals_4thCir2023
-  container-title: F.4th
-  container-title-short: F.4th
-  issued:
-    - year: 2023
-      month: 2
-      day: 23
-  page: '815'
-  title: >-
-    People for Ethical Treatment of Animals v. North Carolina Farm Bureau
-    Federation
-  title-short: PETA v. Farm Bureau
-  type: legal_case
-  volume: '60'
-
 - id: PeopleEthicalTreatmentAnimals_MDNC2017
   authority: M.D.N.C.
   citation-key: PeopleEthicalTreatmentAnimals_MDNC2017
@@ -27337,6 +27321,23 @@ references:
   note: 4th Cir.
   title: PETA v. Stein - Media Amicus
   type: document
+
+- id: PETAvFarmBureau_4thCir2023
+  authority: 4th Cir.
+  citation-key: PETAvFarmBureau_4thCir2023
+  container-title: F.4th
+  container-title-short: F.4th
+  issued:
+    - year: 2023
+      month: 2
+      day: 23
+  page: '815'
+  title: >-
+    People for Ethical Treatment of Animals v. North Carolina Farm Bureau
+    Federation
+  title-short: PETA v. Farm Bureau
+  type: legal_case
+  volume: '60'
 
 - id: PhamAevaSpecialtyPharmacy_DColo2022
   authority: D. Colo.
@@ -29003,8 +29004,6 @@ references:
   source: COinS
   title: Animal Agricultural Exceptionalism in the 21st Century
   type: article-journal
-  URL: >-
-    https://heinonline.org/HOL/Page?handle=hein.journals/jenvll37&id=250&div=&collection=
   volume: '37'
 
 - id: Reid2018
@@ -29558,7 +29557,6 @@ references:
   citation-key: Rosenfeld2021
   container-title: Journal of Applied Communication Research
   container-title-short: J. Appl. Commun. Res.
-  DOI: 10.1080/00909882.2021.1965185
   ISSN: 0090-9882
   issue: '5'
   issued:
@@ -29567,13 +29565,11 @@ references:
       day: 3
   page: 515–531
   publisher: NCA Website
-  source: Taylor and Francis+NEJM
   title: >-
     Do you hear the people sign?: A critical discourse analysis of comments on a
     2015 online petition opposing North Carolina’s ag-gag law
   title-short: Do you hear the people sign?
   type: article-journal
-  URL: https://doi.org/10.1080/00909882.2021.1965185
   volume: '49'
 
 - id: Ross2001
@@ -30056,8 +30052,6 @@ references:
   source: COinS
   title: Gag with Malice
   type: article-journal
-  URL: >-
-    https://heinonline.org/HOL/Page?handle=hein.journals/waslee79&id=1698&div=&collection=
   volume: '79'
 
 - id: SandersonFarmsIncNLRB_5thCir2003
@@ -31014,8 +31008,6 @@ references:
     Significance of Worker Voice
   title-short: The Impact of Employment Law and Practices on Business and Society
   type: article-journal
-  URL: >-
-    https://heinonline.org/HOL/Page?handle=hein.journals/upjlel19&id=995&div=&collection=
   volume: '19'
 
 - id: Schlozman2018
@@ -33796,6 +33788,18 @@ references:
   title: Sullivan-Blake v. Fedex Ground Package System, Inc.
   type: legal_case
 
+- id: SullivanLongHagerty_NLRB1991
+  authority: N.L.R.B.
+  citation-key: SullivanLongHagerty_NLRB1991
+  container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
+  issued:
+    - year: 1991
+  page: '1007'
+  title: Sullivan, Long & Hagerty
+  type: legal_case
+  volume: '303'
+
 - id: SummaryKeyProvisionsEEOC_USEqualEmploymentOpportunityCommission_nd
   abstract: >-
     This summary of key provisions of the EEOC Enforcement Guidance on
@@ -35040,9 +35044,9 @@ references:
   title: Social Movements, 1768 - 2018
   type: book
 
-- id: TimberAutomationLLCFiberPro_WDArk2020
+- id: TimberAutomation_Complaint2020
   authority: W.D. Ark.
-  citation-key: TimberAutomationLLCFiberPro_WDArk2020
+  citation-key: TimberAutomation_Complaint2020
   container-title: WL
   issued:
     - year: 2020
@@ -35384,9 +35388,9 @@ references:
   type: legal_case
   volume: '767'
 
-- id: TuckerAutoMationNorthCarolinaLLC_MDNC2017
+- id: TuckerAutoMation_Complaint2017
   authority: M.D.N.C.
-  citation-key: TuckerAutoMationNorthCarolinaLLC_MDNC2017
+  citation-key: TuckerAutoMation_Complaint2017
   container-title: WL
   issued:
     - year: 2017
@@ -36450,9 +36454,9 @@ references:
   URL: www.jstor.org/stable/10.1086/681274
   volume: '2014'
 
-- id: WellstreamCorp1994
+- id: WellstreamCorp_NLRB1994
   authority: N.L.R.B.
-  citation-key: WellstreamCorp1994
+  citation-key: WellstreamCorp_NLRB1994
   container-title: N.L.R.B.
   container-title-short: N.L.R.B.
   issued:
@@ -37307,8 +37311,6 @@ references:
     Slightly More than Two Cheers for Sneaky Private Investigations into
     Questionable Business Operations
   type: article-journal
-  URL: >-
-    https://heinonline.org/HOL/Page?handle=hein.journals/drklr71&id=666&div=&collection=
   volume: '71'
 
 - id: WrightComUnemploymentCompensation_PaCommonwealth1979
