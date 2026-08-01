@@ -1,5 +1,84 @@
 ---
 references:
+- id: '@1652RDA'
+  citation-key: '@1652RDA'
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1652'
+  title: State Law as Rules of Decision
+  type: legislation
+  volume: '28'
+
+- id: 1331FederalQuestion
+  citation-key: 1331FederalQuestion
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '1331'
+  title: Federal Question
+  type: legislation
+  volume: '28'
+
+- id: 1332DiversityCitizenship
+  citation-key: 1332DiversityCitizenship
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1332'
+  title: Diversity of Citizenship
+  type: legislation
+  volume: '28'
+
+- id: 1367SupplementalJurisdiction
+  citation-key: 1367SupplementalJurisdiction
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1367'
+  title: Supplemental Jurisdiction
+  type: legislation
+  volume: '28'
+
+- id: 1441Removal
+  citation-key: 1441Removal
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1441'
+  title: Removal of Civil Actions
+  type: legislation
+  volume: '28'
+
+- id: 1445NonremovableActions
+  citation-key: 1445NonremovableActions
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1445'
+  title: Nonremovable Actions
+  type: legislation
+  volume: '28'
+
+- id: 1446ProcedureForRemoval
+  citation-key: 1446ProcedureForRemoval
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1446'
+  title: Procedure for Removal
+  type: legislation
+  volume: '28'
+
+- id: 1447ProcedureAfterRemoval_nd
+  citation-key: 1447ProcedureAfterRemoval_nd
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1447'
+  title: Procedure After Removal
+  type: legislation
+  volume: '28'
+
 - id: 2002FEO8_NCStateBar2003
   accessed:
     - year: 2024
@@ -100,6 +179,36 @@ references:
   type: document
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2022-formal-ethics-opinion-1/
+
+- id: 2071RuleMakingPower
+  citation-key: 2071RuleMakingPower
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2071'
+  title: Rule-making power generally
+  type: legislation
+  volume: '28'
+
+- id: 2072RulesOfProcedure
+  citation-key: 2072RulesOfProcedure
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2072'
+  title: Rules of procedure and evidence; power to prescribe
+  type: legislation
+  volume: '28'
+
+- id: 2073MethodOfProscribing
+  citation-key: 2073MethodOfProscribing
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2073'
+  title: Rules of procedure and evidence; method of proscribing
+  type: legislation
+  volume: '28'
 
 - id: 2GroupsGiven_TheWashingtonPostandTimesHerald_1957
   abstract: >-
@@ -5408,6 +5517,13 @@ references:
   title-short: Invitation to Law and Society, Second Edition
   type: book
 
+- id: CaliforniaLongArm
+  citation-key: CaliforniaLongArm
+  container-title: Cal. Code Civ. Proc.
+  section: '410.10'
+  title: Jurisdiction Exerciseable
+  type: legislation
+
 - id: CamachoMajorLeagueBaseball_SDCal2013
   authority: S.D. Cal.
   citation-key: CamachoMajorLeagueBaseball_SDCal2013
@@ -8559,20 +8675,6 @@ references:
   title: Discrimination Against the Engagement in Certain Activities
   type: legislation
 
-- id: DiversityCitizenship_nd
-  accessed:
-    - year: 2025
-      month: 11
-      day: 24
-  citation-key: DiversityCitizenship_nd
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1332'
-  title: Diversity of Citizenship
-  type: legislation
-  volume: '28'
-
 - id: Dlugacz2011
   author:
     - family: Dlugacz
@@ -10763,15 +10865,6 @@ references:
   type: post-weblog
   URL: >-
     https://ogletree.com/insights-resources/blog-posts/federal-court-adopts-stricter-standard-for-employer-liability-in-third-party-harassment-cases/
-
-- id: FederalQuestion_nd
-  citation-key: FederalQuestion_nd
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: '1331'
-  title: Federal Question
-  type: legislation
-  volume: '28'
 
 - id: FederalSecurityInc_NLRB2012
   authority: N.L.R.B.
@@ -26088,6 +26181,13 @@ references:
   title: The Jewish Labor Bund in Poland
   type: book
 
+- id: NYLongArm
+  citation-key: NYLongArm
+  container-title: NY CPLR
+  section: '302'
+  title: Personal Jurisdiction by Act of Non-Domiciliaries
+  type: legislation
+
 - id: NYURemoved2_Goldstein_TheNewYorkTimes_2024
   accessed:
     - year: 2024
@@ -26906,6 +27006,17 @@ references:
   title: Passaro v. Virginia
   type: legal_case
   volume: '935'
+
+- id: PatelStewartson_DNev2026
+  authority: D. Nev.
+  citation-key: PatelStewartson_DNev2026
+  issued:
+    - year: 2026
+      month: 7
+      day: 25
+  number: Case No. 2:23-cv-00873-APG-NJK
+  title: Patel v. Stewartson
+  type: legal_case
 
 - id: Paul2019
   author:
@@ -34041,20 +34152,6 @@ references:
   URL: https://brill.com/view/journals/hima/31/2/article-p3_1.xml
   volume: '31'
 
-- id: SupplementalJurisdiction_nd
-  accessed:
-    - year: 2025
-      month: 11
-      day: 24
-  citation-key: SupplementalJurisdiction_nd
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1367'
-  title: Supplemental Jurisdiction
-  type: legislation
-  volume: '28'
-
 - id: SureTanIncNLRB_US1984
   authority: US
   citation-key: SureTanIncNLRB_US1984
@@ -35680,6 +35777,21 @@ references:
   title: U.S. Civil Rights Congress Officer To Lose Passport
   type: article-newspaper
   URL: https://www.proquest.com/docview/152417738/abstract/C7C6757E0ED14FACPQ/44
+
+- id: USConstitutionAmendment14
+  citation-key: USConstitutionAmendment14
+  title: U.S. Constitution, Amendment XIV
+  type: legislation
+
+- id: USConstitutionAmendment5
+  citation-key: USConstitutionAmendment5
+  title: U.S. Constitution, Amendment V
+  type: legislation
+
+- id: USConstitutionArticle3
+  citation-key: USConstitutionArticle3
+  title: U.S. Constitution, Article III
+  type: legislation
 
 - id: USDeptofLabor2024
   author:
@@ -37404,6 +37516,18 @@ references:
   section: 6-3-414
   title: Wyoming Criminal Trespass
   type: legislation
+
+- id: XCorpWorldFederationAdvertisers_NDTexas2026
+  authority: N.D. Texas
+  citation-key: XCorpWorldFederationAdvertisers_NDTexas2026
+  issued:
+    - year: 2026
+      month: 3
+      day: 26
+  jurisdiction: ND Texas
+  number: Civil Action No. 7:24-CV-0114-B
+  title: X Corp. v. World Federation of Advertisers
+  type: legal_case
 
 - id: YanowitzLOrealUSAInc_Cal2005
   authority: Cal.
