@@ -1,15 +1,5 @@
 ---
 references:
-- id: '@1652RDA'
-  citation-key: '@1652RDA'
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1652'
-  title: State Law as Rules of Decision
-  type: legislation
-  volume: '28'
-
 - id: 1331FederalQuestion
   citation-key: 1331FederalQuestion
   container-title: U.S.C.
@@ -76,6 +66,28 @@ references:
   language: en
   section: '1447'
   title: Procedure After Removal
+  type: legislation
+  volume: '28'
+
+- id: 1652RDA
+  citation-key: 1652RDA
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1652'
+  title: State Law as Rules of Decision
+  type: legislation
+  volume: '28'
+
+- id: 1738FullFaithCredit
+  citation-key: 1738FullFaithCredit
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1738'
+  title: >-
+    State and Territorial statutes and judicial proceedings; full faith and
+    credit
   type: legislation
   volume: '28'
 
@@ -190,23 +202,33 @@ references:
   type: legislation
   volume: '28'
 
-- id: 2072RulesOfProcedure
-  citation-key: 2072RulesOfProcedure
+- id: 2072RulesofProcedure
+  citation-key: 2072RulesofProcedure
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
   section: '2072'
-  title: Rules of procedure and evidence; power to prescribe
+  title: Rules of procedure and evidence
   type: legislation
   volume: '28'
 
-- id: 2073MethodOfProscribing
-  citation-key: 2073MethodOfProscribing
+- id: 2073MethodofProscribing
+  citation-key: 2073MethodofProscribing
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
   section: '2073'
   title: Rules of procedure and evidence; method of proscribing
+  type: legislation
+  volume: '28'
+
+- id: 2074SubmissiontoCongress
+  citation-key: 2074SubmissiontoCongress
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2074'
+  title: Rules of procedure and evidence; submission to Congress
   type: legislation
   volume: '28'
 
@@ -342,6 +364,11 @@ references:
   title: The Law of Employee Loyalty in the United States
   type: article-journal
   volume: '20'
+
+- id: ABACriminalJusticeStds_Prosecution
+  citation-key: ABACriminalJusticeStds_Prosecution
+  title: ABA Criminal Justice Standards for the Prosecution Function (2017)
+  type: legislation
 
 - id: Abbott1988
   author:
@@ -2036,6 +2063,18 @@ references:
   URL: >-
     https://lawstreetmedia.com/news/agriculture/amicus-briefs-filed-in-peta-suit-against-north-carolina-law/
 
+- id: AshcroftIqbal_US2009
+  authority: U.S.
+  citation-key: AshcroftIqbal_US2009
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2009
+  page: '662'
+  title: Ashcroft v. Iqbal
+  type: legal_case
+  volume: '556'
+
 - id: AshfordTRSNickelLLC_NLRB2018
   authority: N.L.R.B.
   citation-key: AshfordTRSNickelLLC_NLRB2018
@@ -2919,6 +2958,18 @@ references:
   title-short: Silent Covenants
   type: book
 
+- id: BellAtlanticCorpTwombly_US2007
+  authority: U.S.
+  citation-key: BellAtlanticCorpTwombly_US2007
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2007
+  page: '544'
+  title: Bell Atlantic Corp. v. Twombly
+  type: legal_case
+  volume: '550'
+
 - id: Belton2014
   accessed:
     - year: 2025
@@ -3610,6 +3661,17 @@ references:
   title: Bivens v. Zep, Inc.
   type: legal_case
   volume: '147'
+
+- id: BlackWhiteTaxiCo_US1928
+  authority: U.S.
+  citation-key: BlackWhiteTaxiCo_US1928
+  container-title: US
+  issued:
+    - year: 1928
+  page: '518'
+  title: Black & White Taxi. Co. v. Brown & Yellow Taxi. Co.
+  type: legal_case
+  volume: '276'
 
 - id: Blanc2019
   abstract: >-
@@ -5042,8 +5104,8 @@ references:
     - year: 2018
       month: 11
       day: 1
-  number: 3:17-cv-00093-GFVT
-  title: Burdine v. Metropolitan Direct Property and Casualty Ins. Co.
+  number: No. 3:17-cv-00093-GFVT
+  title: Burdine v. Metropolitan Direct Prop. and Cas. Ins. Co.
   type: legal_case
 
 - id: BureaucracyAdministrativeState2024
@@ -5346,11 +5408,12 @@ references:
 - id: ByrdBlueRidgeRural_US1958
   authority: U.S.
   citation-key: ByrdBlueRidgeRural_US1958
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1958
   page: '525'
-  title: Byrd v. Blue Ridge Rural Elec. Cooperative, Inc.
+  title: Byrd v. Blue Ridge Rural Elec. Coop..
   type: legal_case
   volume: '356'
 
@@ -5532,7 +5595,7 @@ references:
       month: 12
       day: 19
   jurisdiction: SD California
-  number: Case No. 12-cv-2859-L(BGS)
+  number: No. 12-cv-2859-L(BGS)
   title: Camacho v. Major League Baseball
   type: legal_case
 
@@ -5881,11 +5944,12 @@ references:
 - id: CarnivalCruiseLinesInc_US1991
   authority: U.S.
   citation-key: CarnivalCruiseLinesInc_US1991
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1991
   page: '585'
-  title: Carnival Cruise Lines, Inc. v. Shute
+  title: Carnival Cruise Lines v. Shute
   type: legal_case
   volume: '499'
 
@@ -7153,8 +7217,8 @@ references:
     - year: 2020
       month: 7
       day: 18
-  number: 20-724
-  title: Complete Business Solutions Group, Inc. v. Annie's Pooch Pops
+  number: No. 20-724
+  title: Complete Bus. Sol. Grp. v. Annie's Pooch Pops
   type: legal_case
 
 - id: Conley1990
@@ -7964,11 +8028,12 @@ references:
 - id: DaimlerAgBauman_US2014
   authority: U.S.
   citation-key: DaimlerAgBauman_US2014
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2014
   page: '117'
-  title: Daimler Ag v. Bauman
+  title: Daimler A.G. v. Bauman
   type: legal_case
   volume: '571'
 
@@ -8630,7 +8695,7 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.21
 
 - id: DisciplinaryCounselBlakeslee_SupremeCourtSubmittedJuly182023
-  authority: Supreme Court
+  authority: Ohio
   citation-key: DisciplinaryCounselBlakeslee_SupremeCourtSubmittedJuly182023
   container-title: NE 3d
   issued:
@@ -8789,8 +8854,8 @@ references:
     - year: 2025
       month: 4
       day: 28
-  number: 1:25-cv-368
-  title: Doe v. Clinton County
+  number: No. 1:25-cv-368
+  title: Doe v. Clinton Cty.
   type: legal_case
 
 - id: DolphinKickboxingCoFranchoice_DMinn2020
@@ -8801,7 +8866,7 @@ references:
       month: 5
       day: 6
   jurisdiction: Minnesota
-  number: Case No. 19-cv-1477 (MJD/ECW)
+  number: No. 19-cv-1477 (MJD/ECW)
   title: Dolphin Kickboxing Co. v. Franchoice, Inc.
   type: legal_case
 
@@ -10016,6 +10081,20 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/112220570/abstract/C7C6757E0ED14FACPQ/22
 
+- id: EldenNirvanaLLC_CDCal2025
+  authority: C.D. Cal.
+  citation-key: EldenNirvanaLLC_CDCal2025
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2025
+      month: 9
+      day: 30
+  jurisdiction: CD California
+  page: '1211'
+  title: Elden v. Nirvana, LLC
+  type: legal_case
+  volume: '802'
+
 - id: Eliasoph2008
   abstract: >-
     Disclaimer: This summary was generated by AI based on the content of the
@@ -10261,11 +10340,12 @@ references:
 - id: ErieCoTompkins_US1938
   authority: U.S.
   citation-key: ErieCoTompkins_US1938
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1938
   page: '64'
-  title: Erie R. Co. v. Tompkins
+  title: Erie Railroad Co. v. Tompkins
   type: legal_case
   volume: '304'
 
@@ -10655,11 +10735,12 @@ references:
 - id: ExxonMobilCorpAllapattah_US2005
   authority: U.S.
   citation-key: ExxonMobilCorpAllapattah_US2005
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2005
   page: '546'
-  title: Exxon Mobil Corp. v. Allapattah Services, Inc.
+  title: Exxon Mobil Corp. v. Allapattah Serv.
   type: legal_case
   volume: '545'
 
@@ -10877,6 +10958,11 @@ references:
   title: Federal Security, Inc.
   type: legal_case
   volume: '359'
+
+- id: FedEvidRule_nd
+  citation-key: FedEvidRule_nd
+  title: Fed. R. Evid. Rule 502
+  type: legislation
 
 - id: Feigenson2000
   abstract: >-
@@ -12350,7 +12436,8 @@ references:
 - id: FordMotorCoMontana_US2021
   authority: U.S.
   citation-key: FordMotorCoMontana_US2021
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2021
   page: '351'
@@ -13761,7 +13848,7 @@ references:
       day: 28
   jurisdiction: D. Maryland
   page: '674'
-  title: Ginwright v. Exeter Finance Corp.
+  title: Ginwright v. Exeter Fin. Corp.
   type: legal_case
   volume: '280'
 
@@ -14276,11 +14363,12 @@ references:
 - id: GrableSonsMetalProducts_US2005
   authority: U.S.
   citation-key: GrableSonsMetalProducts_US2005
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2005
   page: '308'
-  title: Grable & Sons Metal Products, Inc. v. Darue Engineering & Mfg.
+  title: Grable & Sons Metal Prod. v. Darue Eng'g & Mfg.
   type: legal_case
   volume: '545'
 
@@ -15315,14 +15403,15 @@ references:
     - year: 1999
       month: 8
       day: 17
-  number: 1:99CV00119
+  number: No. 1:99CV00119
   title: Hanks v Coan
   type: legal_case
 
 - id: HannaPlumer_US1967
   authority: U.S.
   citation-key: HannaPlumer_US1967
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1967
   page: '460'
@@ -16093,9 +16182,9 @@ references:
   type: article-journal
   URL: https://scholars.unh.edu/radio/55
 
-- id: HernandezAssetAcceptanceLLC_DColorado2013
-  authority: D. Colorado
-  citation-key: HernandezAssetAcceptanceLLC_DColorado2013
+- id: HernandezAssetAcceptance_DColo2013
+  authority: D. Colo.
+  citation-key: HernandezAssetAcceptance_DColo2013
   container-title: F. Supp. 2d
   issued:
     - year: 2013
@@ -16103,7 +16192,7 @@ references:
       day: 10
   jurisdiction: D. Colorado
   page: '1194'
-  title: Hernandez v. Asset Acceptance, LLC
+  title: Hernandez v. Asset Acceptance
   type: legal_case
   volume: '970'
 
@@ -16713,9 +16802,9 @@ references:
   URL: >-
     https://www.npr.org/2026/01/22/nx-s1-5683134/eeoc-trump-gender-identity-harassment
 
-- id: HunterEarthgrainsCoBakery_4thCircuit2001
-  authority: 4th Circuit
-  citation-key: HunterEarthgrainsCoBakery_4thCircuit2001
+- id: HunterEarthgrainsCoBakery_4thCir2001
+  authority: 4th Cir.
+  citation-key: HunterEarthgrainsCoBakery_4thCir2001
   container-title: F. 3d
   issued:
     - year: 2001
@@ -16900,7 +16989,8 @@ references:
 - id: InternationalShoeCoWashington_US1945
   authority: U.S.
   citation-key: InternationalShoeCoWashington_US1945
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1945
   page: '310'
@@ -17159,9 +17249,9 @@ references:
   URL: >-
     https://finding-aids.lib.unc.edu/catalog/05574_aspace_b0e5ca0da66b2e8c87548af7e11ae3e6
 
-- id: JanjuaNeufeld_9thCircuit2019
-  authority: 9th Circuit
-  citation-key: JanjuaNeufeld_9thCircuit2019
+- id: JanjuaNeufeld_9thCir2019
+  authority: 9th Cir.
+  citation-key: JanjuaNeufeld_9thCir2019
   container-title: F. 3d
   issued:
     - year: 2019
@@ -17171,6 +17261,18 @@ references:
   title: Janjua v. Neufeld
   type: legal_case
   volume: '933'
+
+- id: JarrusGovernorMichigan_EDMich2025
+  authority: E.D. Mich.
+  citation-key: JarrusGovernorMichigan_EDMich2025
+  issued:
+    - year: 2025
+      month: 12
+      day: 2
+  jurisdiction: ED Michigan
+  number: No. 25-cv-11168
+  title: Jarrus v. Governor of Michigan
+  type: legal_case
 
 - id: Jarvis2016
   author:
@@ -17686,13 +17788,13 @@ references:
       day: 24
   jurisdiction: North Carolina
   page: '276'
-  title: Johnson v. Cricket Council USA, Inc.
+  title: Johnson v. Cricket Council USA
   type: legal_case
   volume: '658'
 
-- id: JohnsonGriffin_6thCircuit2023
-  authority: 6th Circuit
-  citation-key: JohnsonGriffin_6thCircuit2023
+- id: JohnsonGriffin_6thCir2023
+  authority: 6th Cir.
+  citation-key: JohnsonGriffin_6thCir2023
   container-title: F. 4th
   issued:
     - year: 2023
@@ -17724,9 +17826,9 @@ references:
   type: legal_case
   volume: '561'
 
-- id: JohnsonSpencer_10thCircuit2020
-  authority: 10th Circuit
-  citation-key: JohnsonSpencer_10thCircuit2020
+- id: JohnsonSpencer_10thCir2020
+  authority: 10th Cir.
+  citation-key: JohnsonSpencer_10thCir2020
   container-title: F. 3d
   issued:
     - year: 2020
@@ -18057,7 +18159,7 @@ references:
   translator:
     - family: Johnston
       given: Ian
-  type: manuscript
+  type: webpage
   URL: https://www.kafka-online.info/before-the-law.html
 
 - id: Kagan2014
@@ -19058,7 +19160,7 @@ references:
   issued:
     - year: 2002
   page: '289'
-  title: Kirkcaldy v. Richmond County Bd. of Ed
+  title: Kirkcaldy v. Richmond Cty. Bd. of Ed.
   type: legal_case
   volume: '212'
 
@@ -20184,7 +20286,7 @@ references:
       day: 25
   jurisdiction: CD California
   page: '1220'
-  title: Lee v. POW! Entertainment, Inc.
+  title: Lee v. POW! Entertainment
   type: legal_case
   volume: '468'
 
@@ -21497,7 +21599,8 @@ references:
 - id: LouisvilleNashvilleCoMottley_US1908
   authority: U.S.
   citation-key: LouisvilleNashvilleCoMottley_US1908
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1908
   page: '149'
@@ -21938,7 +22041,8 @@ references:
 - id: MalloryNorfolkSouthernRy_US2023
   authority: U.S.
   citation-key: MalloryNorfolkSouthernRy_US2023
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2023
   page: '122'
@@ -23473,7 +23577,8 @@ references:
 - id: McGeeInternationalLifeIns_US1957
   authority: U.S.
   citation-key: McGeeInternationalLifeIns_US1957
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1957
   page: '220'
@@ -24325,6 +24430,17 @@ references:
   type: legal_case
   volume: '372'
 
+- id: MillerRegionsBank_NDAla2026
+  authority: N.D. Ala.
+  citation-key: MillerRegionsBank_NDAla2026
+  issued:
+    - year: 2026
+      month: 5
+      day: 21
+  number: Case No. 2:24-cv-1324-HDM
+  title: Miller v. Regions Bank
+  type: legal_case
+
 - id: MillerReviewBdIndiana_IndianaApp1982
   accessed:
     - year: 2024
@@ -24432,7 +24548,8 @@ references:
 - id: MineWorkersGibbs_US1966
   authority: U.S.
   citation-key: MineWorkersGibbs_US1966
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1966
   page: '715'
@@ -24991,9 +25108,9 @@ references:
   URL: https://www.jstor.org.elon.idm.oclc.org/stable/24809108
   volume: '39'
 
-- id: MosleyGeneralMotorsCorp_EDMissouri1980
-  authority: E.D. Missouri
-  citation-key: MosleyGeneralMotorsCorp_EDMissouri1980
+- id: MosleyGeneralMotorsCorp_EDMo1980
+  authority: E.D. Mo.
+  citation-key: MosleyGeneralMotorsCorp_EDMo1980
   container-title: F. Supp.
   issued:
     - year: 1980
@@ -25050,6 +25167,11 @@ references:
   title: Movement Law Lab
   type: webpage
   URL: https://www.movementlawlab.org
+
+- id: MRPCRule1
+  citation-key: MRPCRule1
+  title: M.R.P.C. Rule 1
+  type: legislation
 
 - id: MuldrowCityStLouis_US2024
   authority: U.S.
@@ -25348,14 +25470,14 @@ references:
   title-short: Salting
   type: document
 
-- id: NationalSatelliteSportsInc_6thCircuit2001
-  authority: 6th Circuit
-  citation-key: NationalSatelliteSportsInc_6thCircuit2001
+- id: NationalSatelliteSports_6thCir2001
+  authority: 6th Cir.
+  citation-key: NationalSatelliteSports_6thCir2001
   container-title: F. 3d
   issued:
     - year: 2001
   page: '900'
-  title: National Satellite Sports, Inc. v. Eliadis, Inc.
+  title: National Satellite Sports v. Eliadis
   type: legal_case
   volume: '253'
 
@@ -25373,14 +25495,14 @@ references:
   type: legal_case
   volume: '503'
 
-- id: NBAPropertiesIncHanwjh_7thCircuit2022
-  authority: 7th Circuit
-  citation-key: NBAPropertiesIncHanwjh_7thCircuit2022
+- id: NBAPropertiesIncHanwjh_7thCir2022
+  authority: 7th Cir.
+  citation-key: NBAPropertiesIncHanwjh_7thCir2022
   container-title: F. 4th
   issued:
     - year: 2022
   page: '614'
-  title: NBA Properties, Inc. v. Hanwjh
+  title: NBA Properties v. Hanwjh
   type: legal_case
   volume: '46'
 
@@ -25390,6 +25512,20 @@ references:
   container-title-short: N.C.G.S.
   section: 96-1 et seq.
   title: North Carolina Employment Security Act
+  type: legislation
+
+- id: NCGenStat_PracticeLawDefined
+  citation-key: NCGenStat_PracticeLawDefined
+  container-title: N.C. Gen. Stat.
+  section: § 84-2.1
+  title: '"Practice law" defined'
+  type: legislation
+
+- id: NCGenStatDisciplineDisbarment
+  citation-key: NCGenStatDisciplineDisbarment
+  container-title: N.C. Gen. Stat.
+  section: § 84-28
+  title: Discipline and disbarment
   type: legislation
 
 - id: NCGS7A-759
@@ -25423,6 +25559,11 @@ references:
   container-title-short: N.C.G.S.
   section: 95-240 et seq.
   title: North Carolina Retaliatory Employment Discrimination Act
+  type: legislation
+
+- id: NCRPC8_6
+  citation-key: NCRPC8_6
+  title: N.C.R.P.C. Rule 8.6
   type: legislation
 
 - id: NCStateBarEthridge_NCApp2008
@@ -26678,28 +26819,28 @@ references:
   type: legal_case
   volume: '147'
 
-- id: OttawaTownshipBoardTrustees_NDOhio2017
+- id: OttawaTownshipI_NDOhio2017
   authority: N.D. Ohio
-  citation-key: OttawaTownshipBoardTrustees_NDOhio2017
+  citation-key: OttawaTownshipI_NDOhio2017
   issued:
     - year: 2017
       month: 7
       day: 10
   jurisdiction: ND Ohio
-  number: Case No. 3:17CV228
-  title: Ottawa Township Board of Trustees v. New Par
+  number: No. 3:17CV228
+  title: Ottawa Township Bd. of Trustees v. New Par (I)
   type: legal_case
 
-- id: OttawaTownshipBoardTrustees_NDOhio2017a
+- id: OttawaTownshipII_NDOhio2017
   authority: N.D. Ohio
-  citation-key: OttawaTownshipBoardTrustees_NDOhio2017a
+  citation-key: OttawaTownshipII_NDOhio2017
   issued:
     - year: 2017
       month: 10
       day: 10
   jurisdiction: ND Ohio
-  number: Case No. 3:17CV228
-  title: Ottawa Township Board of Trustees v. New Par
+  number: No. 3:17CV228
+  title: Ottawa Township Bd. of Trustees v. New Par (II)
   type: legal_case
 
 - id: OverviewUnconstitutionalConditionsDoctrine_ConstitutionAnnotated_nd
@@ -26826,7 +26967,7 @@ references:
   issued:
     - year: 2014
   page: '748'
-  title: Pace v. Timmermann's Ranch and Saddle Shop Inc.
+  title: Pace v. Timmermann's Ranch & Saddle Shop
   type: legal_case
   volume: '795'
 
@@ -26964,7 +27105,8 @@ references:
 - id: ParklaneHosieryCoShore_US1978
   authority: U.S.
   citation-key: ParklaneHosieryCoShore_US1978
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1978
   page: '322'
@@ -26994,9 +27136,9 @@ references:
   URL: https://www.jstor.org.elon.idm.oclc.org/stable/42942097
   volume: '13'
 
-- id: PassaroVirginia_4thCircuit2019
-  authority: 4th Circuit
-  citation-key: PassaroVirginia_4thCircuit2019
+- id: PassaroVirginia_4thCir2019
+  authority: 4th Cir.
+  citation-key: PassaroVirginia_4thCir2019
   container-title: F. 3d
   issued:
     - year: 2019
@@ -27014,7 +27156,7 @@ references:
     - year: 2026
       month: 7
       day: 25
-  number: Case No. 2:23-cv-00873-APG-NJK
+  number: No. 2:23-cv-00873-APG-NJK
   title: Patel v. Stewartson
   type: legal_case
 
@@ -27223,7 +27365,8 @@ references:
 - id: PennoyerNeff_US1878
   authority: U.S.
   citation-key: PennoyerNeff_US1878
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1878
   page: '714'
@@ -27936,7 +28079,6 @@ references:
     - year: 2024
       month: 12
       day: 13
-  jurisdiction: North Carolina
   page: '683'
   title: Polaski v. Lee
   type: legal_case
@@ -29170,13 +29312,13 @@ references:
       day: 6
   jurisdiction: ND Illinois
   page: '897'
-  title: Reis Robotics USA, Inc. v. Concept Industries
+  title: Reis Robotics USA v. Concept Indus.
   type: legal_case
   volume: '462'
 
-- id: ReNageleisen_EDKentuckyBankr2014
-  authority: E.D. Kentucky, Bankr.
-  citation-key: ReNageleisen_EDKentuckyBankr2014
+- id: ReNageleisen_EDKyBankr2014
+  authority: E.D. Ky., Bankr.
+  citation-key: ReNageleisen_EDKyBankr2014
   container-title: BR
   issued:
     - year: 2014
@@ -29294,6 +29436,16 @@ references:
   type: article-journal
   URL: https://academicworks.cuny.edu/clr/vol24/iss1/6
   volume: '24'
+
+- id: Rest2dJudgments
+  citation-key: Rest2dJudgments
+  title: Rest. (2d) of Judgments
+  type: legislation
+
+- id: Rest2dLawGoverningLawyers
+  citation-key: Rest2dLawGoverningLawyers
+  title: Rest. (2d) of the Law Governing Lawyers
+  type: legislation
 
 - id: RetailPropertyTrustUnited_9thCir2014
   authority: 9th Cir.
@@ -32708,9 +32860,9 @@ references:
   title: Smith v. Manheim Remarketing, Inc.
   type: legal_case
 
-- id: SmithSafemarineCorp_MDLouisiana2024
-  authority: M.D. Louisiana
-  citation-key: SmithSafemarineCorp_MDLouisiana2024
+- id: SmithSafemarineCorp_MDLa2024
+  authority: M.D. La.
+  citation-key: SmithSafemarineCorp_MDLa2024
   container-title: F. Supp. 3d
   issued:
     - year: 2024
@@ -32721,6 +32873,18 @@ references:
   title: Smith v. Safemarine Corp.
   type: legal_case
   volume: '749'
+
+- id: SmithWessonBrandsEstados_US2025
+  authority: U.S.
+  citation-key: SmithWessonBrandsEstados_US2025
+  container-title: S. Ct.
+  container-title-short: Ct
+  issued:
+    - year: 2025
+  page: '1556'
+  title: Smith & Wesson Brands v. Estados Unidos Mexicanos
+  type: legal_case
+  volume: '145'
 
 - id: Smok2016
   abstract: >-
@@ -32960,6 +33124,17 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/40862813
   volume: '18'
+
+- id: SouthernPacificCoJensen_US1917
+  authority: U.S
+  citation-key: SouthernPacificCoJensen_US1917
+  container-title: US
+  issued:
+    - year: 1917
+  page: '205'
+  title: Southern Pacific Co. v. Jensen
+  type: legal_case
+  volume: '244'
 
 - id: SouthernTruthCommunism_Troutman_Scalawag2024
   accessed:
@@ -33895,8 +34070,8 @@ references:
       month: 1
       day: 31
   jurisdiction: WD Pennsylvania
-  number: Civil Action No. 18-1698
-  title: Sullivan-Blake v. Fedex Ground Package System, Inc.
+  number: No. 18-1698
+  title: Sullivan-Blake v. Fedex Ground Package Sys.
   type: legal_case
 
 - id: SullivanLongHagerty_NLRB1991
@@ -34261,7 +34436,8 @@ references:
 - id: SwiftTyson_US1842
   authority: U.S.
   citation-key: SwiftTyson_US1842
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1842
   page: '1'
@@ -34672,7 +34848,8 @@ references:
 - id: TaylorSturgell_US2008
   authority: U.S.
   citation-key: TaylorSturgell_US2008
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2008
   page: '880'
@@ -35473,6 +35650,31 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/108102300/abstract/C7C6757E0ED14FACPQ/20
 
+- id: TrumpInternalRevenueService_SDFla2026
+  authority: S.D. Fla.
+  citation-key: TrumpInternalRevenueService_SDFla2026
+  issued:
+    - year: 2026
+      month: 7
+      day: 13
+  number: No. 26-20609-CV-WILLIAMS
+  title: Trump v. Internal Revenue Serv.
+  type: legal_case
+
+- id: TrumpNewYorkTimes_MDFla2025
+  authority: M.D. Fla.
+  citation-key: TrumpNewYorkTimes_MDFla2025
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2025
+      month: 9
+      day: 19
+  jurisdiction: MD Florida
+  page: '1297'
+  title: Trump v. New York Times Co.
+  type: legal_case
+  volume: '800'
+
 - id: TSGFinishingLLCBollinger_NCApp2014
   authority: N.C. Ct. App.
   citation-key: TSGFinishingLLCBollinger_NCApp2014
@@ -35791,6 +35993,11 @@ references:
 - id: USConstitutionArticle3
   citation-key: USConstitutionArticle3
   title: U.S. Constitution, Article III
+  type: legislation
+
+- id: USConstitutionArticle5
+  citation-key: USConstitutionArticle5
+  title: U.S. Constitution, Article IV
   type: legislation
 
 - id: USDeptofLabor2024
@@ -37044,9 +37251,9 @@ references:
   type: legal_case
   volume: '663'
 
-- id: WilliamsMitchell_4thCircuit2024
-  authority: 4th Circuit
-  citation-key: WilliamsMitchell_4thCircuit2024
+- id: WilliamsMitchell_4thCir2024
+  authority: 4th Cir.
+  citation-key: WilliamsMitchell_4thCir2024
   container-title: F. 4th
   issued:
     - year: 2024
@@ -37283,11 +37490,10 @@ references:
   title-short: Democracy Against Capitalism
   type: book
 
-- id: WoodWard1879
-  authority: Cir. Ct., S.D. Ohio
-  citation-key: WoodWard1879
-  container-title: F.Cas.
-  container-title-short: F.Cas.
+- id: WoodWard_SDOhio1879
+  authority: S.D. Ohio
+  citation-key: WoodWard_SDOhio1879
+  container-title: F. Cas.
   issued:
     - year: 1879
   page: '479'
@@ -37348,7 +37554,8 @@ references:
 - id: WorldWideVolkswagenCorpWoodson_US1979
   authority: U.S.
   citation-key: WorldWideVolkswagenCorpWoodson_US1979
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1979
   page: '286'
@@ -37517,9 +37724,9 @@ references:
   title: Wyoming Criminal Trespass
   type: legislation
 
-- id: XCorpWorldFederationAdvertisers_NDTexas2026
-  authority: N.D. Texas
-  citation-key: XCorpWorldFederationAdvertisers_NDTexas2026
+- id: XCorpWorldFederationAdvertisers_NDTex2026
+  authority: N.D. Tex.
+  citation-key: XCorpWorldFederationAdvertisers_NDTex2026
   issued:
     - year: 2026
       month: 3
