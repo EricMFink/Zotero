@@ -1690,6 +1690,18 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/ylr126&i=12
   volume: '126'
 
+- id: AngMartin_Washington2005
+  authority: Washington
+  citation-key: AngMartin_Washington2005
+  container-title: P. 3d
+  issued:
+    - year: 2005
+  jurisdiction: Wash
+  page: '637'
+  title: Ang v. Martin
+  type: legal_case
+  volume: '114'
+
 - id: AnimalWelfareInstitute2022
   accessed:
     - year: 2023
@@ -2705,6 +2717,17 @@ references:
     two Mexican communities
   type: article-journal
   volume: '40'
+
+- id: BatesStateBarAriz_US1977
+  authority: U.S.
+  citation-key: BatesStateBarAriz_US1977
+  container-title: US
+  issued:
+    - year: 1977
+  page: '350'
+  title: Bates v. State Bar of Ariz.
+  type: legal_case
+  volume: '433'
 
 - id: BautistaPRGramercySquare_SDNY2022
   authority: S.D.N.Y
@@ -4704,7 +4727,7 @@ references:
     - year: 2025
       month: 2
       day: 4
-  number: 4:24-cv-00091-DN
+  number: No. 4:24-cv-00091-DN
   title: Broadbent v. Williams
   type: legal_case
 
@@ -5413,7 +5436,7 @@ references:
   issued:
     - year: 1958
   page: '525'
-  title: Byrd v. Blue Ridge Rural Elec. Coop..
+  title: Byrd v. Blue Ridge Rural Elec. Coop.
   type: legal_case
   volume: '356'
 
@@ -5773,6 +5796,19 @@ references:
   title-short: Sensational Reports
   type: article-journal
   URL: https://scholar.law.colorado.edu/articles/320
+
+- id: CapitalAssociatedIndustriesInc_4thCir2019
+  authority: 4th Cir.
+  citation-key: CapitalAssociatedIndustriesInc_4thCir2019
+  container-title: F. 3d
+  issued:
+    - year: 2019
+      month: 4
+      day: 19
+  page: '198'
+  title: Capital Associated Industries, Inc. v. Stein
+  type: legal_case
+  volume: '922'
 
 - id: Capkova2012
   abstract: >-
@@ -6306,6 +6342,16 @@ references:
   type: article-journal
   volume: '31'
 
+- id: CitingSlaveryProject_nd
+  accessed:
+    - year: 2026
+      month: 8
+      day: 7
+  citation-key: CitingSlaveryProject_nd
+  title: Citing Slavery Project
+  type: webpage
+  URL: https://www.citingslavery.org/
+
 - id: CivilRightsAide_Press_TheWashingtonPost_1950
   abstract: >-
     The executive secretary of the Civil Rights Congress yesterday failed to
@@ -6673,6 +6719,20 @@ references:
   type: article-journal
   URL: https://search.proquest.com/docview/2091008005/4C21E13CCA3B4E92PQ/3
   volume: '43'
+
+- id: ClarkCapitalManagementAnnuity_EDPa2001
+  authority: E.D. Pa.
+  citation-key: ClarkCapitalManagementAnnuity_EDPa2001
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2001
+      month: 7
+      day: 6
+  jurisdiction: ED Pennsylvania
+  page: '193'
+  title: Clark Capital Management v. Annuity Investors Life Ins. Co.
+  type: legal_case
+  volume: '149'
 
 - id: ClarkCarter_SDInd2025
   authority: S.D. Ind.
@@ -7270,6 +7330,20 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/nclr82&i=1957
   volume: '82'
 
+- id: ContemporaneousResidentialRealEstate_NCStateBar2021
+  authority: N.C. State Bar
+  citation-key: ContemporaneousResidentialRealEstate_NCStateBar2021
+  container-title: Formal Ethics Op.
+  container-title-short: Form. Ethics Op
+  issued:
+    - year: 2021
+      month: 4
+      day: 16
+  page: '1'
+  title: Contemporaneous Residential Real Estate Closings
+  type: legal_case
+  volume: '2021'
+
 - id: ContemptCaseHead_Press_TheWashingtonPost_1952
   abstract: >-
     Federal Judge Luther W. Youngdahl threw out of court yesterday the contempt
@@ -7466,6 +7540,20 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/2083334
   volume: '17'
+
+- id: CorpDoe_EDVirginia1992
+  authority: E.D. Virginia
+  citation-key: CorpDoe_EDVirginia1992
+  container-title: F. Supp.
+  issued:
+    - year: 1992
+      month: 8
+      day: 25
+  jurisdiction: ED Virginia
+  page: '1298'
+  title: X Corp. v. Doe
+  type: legal_case
+  volume: '805'
 
 - id: CorporateAmericaFaces_Hood-Nuno_Reuters_2025
   abstract: Federal inquiries into corporate diversity programs are underway.
@@ -7739,6 +7827,21 @@ references:
   title: 'The Modern State: Theories and Ideologies'
   title-short: The Modern State
   type: book
+
+- id: CulpepperCarrollPllcCole_Louisiana2006
+  authority: Louisiana
+  citation-key: CulpepperCarrollPllcCole_Louisiana2006
+  container-title: So. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2006
+      month: 4
+      day: 4
+  jurisdiction: La
+  page: '1224'
+  title: Culpepper & Carroll, Pllc v. Cole
+  type: legal_case
+  volume: '929'
 
 - id: Cummings2009
   author:
@@ -8037,6 +8140,20 @@ references:
   type: legal_case
   volume: '571'
 
+- id: DaimlerChryslerCorpKirkhart_NCCourtofAppeals2002
+  authority: N.C. Court of Appeals
+  citation-key: DaimlerChryslerCorpKirkhart_NCCourtofAppeals2002
+  container-title: SE 2d
+  issued:
+    - year: 2002
+      month: 2
+      day: 19
+  jurisdiction: NC
+  page: '276'
+  title: DaimlerChrysler Corp. v. Kirkhart
+  type: legal_case
+  volume: '561'
+
 - id: Dall2002
   author:
     - family: Dall
@@ -8181,6 +8298,20 @@ references:
   title: US District Court Database
   type: webpage
   URL: https://www.umassd.edu/cas/polisci/resources/us-district-court-database/
+
+- id: DaughertyRunner_KentuckyCourtofAppeals1978
+  authority: Kentucky Court of Appeals
+  citation-key: DaughertyRunner_KentuckyCourtofAppeals1978
+  container-title: SW 2d
+  issued:
+    - year: 1978
+      month: 11
+      day: 3
+  jurisdiction: Ky
+  page: '12'
+  title: Daugherty v. Runner
+  type: legal_case
+  volume: '581'
 
 - id: Davis2005
   abstract: >-
@@ -8694,17 +8825,47 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.21
 
-- id: DisciplinaryCounselBlakeslee_SupremeCourtSubmittedJuly182023
+- id: DisciplinaryCounselBlakeslee_Ohio2023
   authority: Ohio
-  citation-key: DisciplinaryCounselBlakeslee_SupremeCourtSubmittedJuly182023
+  citation-key: DisciplinaryCounselBlakeslee_Ohio2023
   container-title: NE 3d
   issued:
-    - literal: Submitted July 18, 2023
+    - year: 2023
+      month: 7
+      day: 18
   jurisdiction: Ohio
   page: '416'
   title: Disciplinary Counsel v. Blakeslee
   type: legal_case
   volume: '235'
+
+- id: DisciplinaryCounselBlakesleeII_Ohio2024
+  authority: Ohio
+  citation-key: DisciplinaryCounselBlakesleeII_Ohio2024
+  container-title: NE 3d
+  issued:
+    - year: 2024
+      month: 6
+      day: 17
+  jurisdiction: Ohio
+  page: '235'
+  title: Disciplinary Counsel v. Blakeslee (II)
+  type: legal_case
+  volume: '241'
+
+- id: DisciplinaryCounselJarvis_Ohio2022
+  authority: Ohio
+  citation-key: DisciplinaryCounselJarvis_Ohio2022
+  container-title: NE 3d
+  issued:
+    - year: 2022
+      month: 5
+      day: 24
+  jurisdiction: Ohio
+  page: '499'
+  title: Disciplinary Counsel v. Jarvis
+  type: legal_case
+  volume: '205'
 
 - id: DiscriminationAmericanWorkersLaw_USEqualEmploymentOpportunityCommission_nd
   abstract: Download a PDF version of this document
@@ -8981,6 +9142,19 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/24545818
   volume: '39'
+
+- id: DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
+  authority: Pennsylvania Superior Court
+  citation-key: DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
+  container-title: A. 3d
+  container-title-short: 3d
+  issued:
+    - year: 2016
+  jurisdiction: Pa
+  page: '792'
+  title: Dougherty v. Pepper Hamilton LLP
+  type: legal_case
+  volume: '133'
 
 - id: Douglas1983
   abstract: "Can we know the risks we face, now or in the future? No, we cannot; but yes, we must act as if we do. Some dangers are unknown; others are known, but not by us because no one person can know everything. Most people cannot be aware of most dangers at most times. Hence, no one can calculate precisely the total risk to be faced. How, then, do people decide which risks to take and which to ignore? On what basis are certain dangers guarded against and others relegated to secondary status? \_This book explores how we decide what risks to take and which to ignore, both as individuals and as a culture."
@@ -11203,6 +11377,20 @@ references:
   type: article-journal
   URL: https://journals.sagepub.com/doi/10.1177/0001839217715618
 
+- id: FerrantiInternPLCClark_EDPa1991
+  authority: E.D. Pa.
+  citation-key: FerrantiInternPLCClark_EDPa1991
+  container-title: F. Supp.
+  issued:
+    - year: 1991
+      month: 4
+      day: 4
+  jurisdiction: ED Pennsylvania
+  page: '670'
+  title: Ferranti Intern. PLC v. Clark
+  type: legal_case
+  volume: '767'
+
 - id: Feuer2025
   abstract: >-
     The administration cast the threat by the judge, James E. Boasberg, to open
@@ -12018,6 +12206,32 @@ references:
   title-short: Flagstaff Med. Ctr.
   type: legal_case
   volume: '357'
+
+- id: FloridaBarPape_Florida2005
+  authority: Florida
+  citation-key: FloridaBarPape_Florida2005
+  container-title: So. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2005
+      month: 11
+      day: 17
+  jurisdiction: Fla
+  page: '240'
+  title: The Florida Bar v. Pape
+  type: legal_case
+  volume: '918'
+
+- id: FloridaBarWentIt_US1995
+  authority: US
+  citation-key: FloridaBarWentIt_US1995
+  container-title: US
+  issued:
+    - year: 1995
+  page: '618'
+  title: Florida Bar v. Went For It, Inc.
+  type: legal_case
+  volume: '515'
 
 - id: FluorDanielInc_NLRB1993
   authority: N.L.R.B.
@@ -16813,6 +17027,18 @@ references:
   type: legal_case
   volume: '281'
 
+- id: HunterVirginiaStateBar_Virginia2013
+  authority: Virginia
+  citation-key: HunterVirginiaStateBar_Virginia2013
+  container-title: SE 2d
+  issued:
+    - year: 2013
+  jurisdiction: Va
+  page: '611'
+  title: Hunter v. Virginia State Bar ex rel. Third District Committee
+  type: legal_case
+  volume: '744'
+
 - id: Huyssen2019
   abstract: >-
     In a variation on what Adorno once said about nationalism, I would suggest
@@ -17123,6 +17349,18 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/10.1086/502692
   volume: '112'
+
+- id: IshmaelMillington_CaliforniaCourtofAppeal1966
+  authority: California Court of Appeal
+  citation-key: IshmaelMillington_CaliforniaCourtofAppeal1966
+  container-title: Cal. App. 2d
+  issued:
+    - year: 1966
+  jurisdiction: Cal
+  page: '520'
+  title: Ishmael v. Millington
+  type: legal_case
+  volume: '241'
 
 - id: ItsTimeCall_CivilRightsCongress1950
   accessed:
@@ -17958,6 +18196,19 @@ references:
   title: Jones v. Ford Motor Credit Co.
   type: legal_case
   volume: '358'
+
+- id: JonesUS_DCCourtofAppeals2003
+  authority: D.C. Court of Appeals
+  citation-key: JonesUS_DCCourtofAppeals2003
+  container-title: A. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2003
+  jurisdiction: DC
+  page: '169'
+  title: Jones v. US
+  type: legal_case
+  volume: '828'
 
 - id: Joy1996
   author:
@@ -19350,6 +19601,17 @@ references:
   type: legal_case
   volume: '677'
 
+- id: KnowlesMirzayance_SupremeCourt2009
+  authority: Supreme Court
+  citation-key: KnowlesMirzayance_SupremeCourt2009
+  container-title: US
+  issued:
+    - year: 2009
+  page: '111'
+  title: Knowles v. Mirzayance
+  type: legal_case
+  volume: '556'
+
 - id: Knox2022
   abstract: >-
     Conservatives counterpose distant, alienated social forces against British
@@ -20289,6 +20551,17 @@ references:
   title: Lee v. POW! Entertainment
   type: legal_case
   volume: '468'
+
+- id: LeeUnitedStates_SupremeCourt2017
+  authority: Supreme Court
+  citation-key: LeeUnitedStates_SupremeCourt2017
+  container-title: US
+  issued:
+    - year: 2017
+  page: '357'
+  title: Lee v. United States
+  type: legal_case
+  volume: '582'
 
 - id: LeftistUnitBalks_NewYorkTimes_1950
   abstract: >-
@@ -22038,6 +22311,21 @@ references:
   title: Bargaining for Contingent Faculty
   type: article-journal
 
+- id: MakinsDistrictColumbia_DCCourtofAppeals2004
+  authority: D.C. Court of Appeals
+  citation-key: MakinsDistrictColumbia_DCCourtofAppeals2004
+  container-title: A. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2004
+      month: 6
+      day: 29
+  jurisdiction: DC
+  page: '590'
+  title: Makins v. District of Columbia
+  type: legal_case
+  volume: '861'
+
 - id: MalloryNorfolkSouthernRy_US2023
   authority: U.S.
   citation-key: MalloryNorfolkSouthernRy_US2023
@@ -22303,6 +22591,20 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/048661347500700102
   volume: '7'
+
+- id: MarkerGreenberg_Minnesota1981
+  authority: Minnesota
+  citation-key: MarkerGreenberg_Minnesota1981
+  container-title: NW 2d
+  issued:
+    - year: 1981
+      month: 12
+      day: 4
+  jurisdiction: Minn
+  page: '4'
+  title: Marker v. Greenberg
+  type: legal_case
+  volume: '313'
 
 - id: Markovic2023
   abstract: >-
@@ -22768,6 +23070,46 @@ references:
   title-short: Plunder
   type: book
 
+- id: MatterAnonymous_NYAppDiv3rdDept2009
+  authority: N.Y. App. Div., 3rd Dept.
+  citation-key: MatterAnonymous_NYAppDiv3rdDept2009
+  container-title: AD 3d
+  issued:
+    - year: 2009
+      month: 4
+      day: 16
+  jurisdiction: NY
+  page: '1214'
+  title: Matter of Anonymous
+  type: legal_case
+  volume: '61'
+
+- id: MatterAnonymous_NYAppDiv3rdDept2023
+  authority: N.Y. App. Div., 3rd Dept.
+  citation-key: MatterAnonymous_NYAppDiv3rdDept2023
+  container-title: AD 3d
+  issued:
+    - year: 2023
+      month: 6
+      day: 1
+  jurisdiction: NY
+  page: '1054'
+  title: Matter of Anonymous
+  type: legal_case
+  volume: '217'
+
+- id: MatterCooperman_NY1994
+  authority: N.Y.
+  citation-key: MatterCooperman_NY1994
+  container-title: NE 2d
+  issued:
+    - year: 1994
+  jurisdiction: NY
+  page: '1069'
+  title: Matter of Cooperman
+  type: legal_case
+  volume: '633'
+
 - id: MatterCummings_NYAppDiv2010
   accessed:
     - year: 2024
@@ -22822,6 +23164,21 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:46%20A.D.2d%20253#autoLogin
   volume: '46'
 
+- id: MatterFordham_Massachusetts1996
+  authority: Massachusetts
+  citation-key: MatterFordham_Massachusetts1996
+  container-title: Mass.
+  container-title-short: Mass.
+  issued:
+    - year: 1996
+      month: 4
+      day: 2
+  jurisdiction: Mass
+  page: '481'
+  title: In the Matter of Fordham
+  type: legal_case
+  volume: '423'
+
 - id: MatterGunn_NYAppDiv2019
   accessed:
     - year: 2024
@@ -22874,6 +23231,35 @@ references:
   URL: >-
     https://1.next.westlaw.com/Search/Results.html?query=find:138%20A.D.3d%201284#autoLogin
   volume: '138'
+
+- id: MatterSilva_RhodeIsland1994
+  authority: Rhode Island
+  citation-key: MatterSilva_RhodeIsland1994
+  container-title: A. 2d
+  container-title-short: 2d
+  issued:
+    - year: 1994
+      month: 1
+      day: 14
+  jurisdiction: RI
+  page: '316'
+  title: In the Matter of Silva
+  type: legal_case
+  volume: '636'
+
+- id: MatterTennant_Montana2017
+  authority: Montana
+  citation-key: MatterTennant_Montana2017
+  container-title: P. 3d
+  issued:
+    - year: 2017
+      month: 3
+      day: 21
+  jurisdiction: Mont
+  page: '143'
+  title: Matter of Tennant
+  type: legal_case
+  volume: '392'
 
 - id: Mauss1972
   author:
@@ -24437,7 +24823,7 @@ references:
     - year: 2026
       month: 5
       day: 21
-  number: Case No. 2:24-cv-1324-HDM
+  number: No. 2:24-cv-1324-HDM
   title: Miller v. Regions Bank
   type: legal_case
 
@@ -25330,6 +25716,17 @@ references:
   title: Myers v. Howmedica Osteonics Corp
   type: legal_case
 
+- id: NAACPButton_US05
+  authority: U.S.
+  citation-key: NAACPButton_US05
+  container-title: US
+  issued:
+    - year: 5
+  page: '415'
+  title: NAACP v. Button
+  type: legal_case
+  volume: '371'
+
 - id: Nader2024
   abstract: >-
     In this essay, changing times will be center stage – from Euro-American
@@ -25632,6 +26029,20 @@ references:
   title: Ndambi v. CoreCivic, Inc.
   type: legal_case
   volume: '990'
+
+- id: NegotiatingPrivateEmploymentOpposing_NCStateBar2017
+  authority: N.C. State Bar
+  citation-key: NegotiatingPrivateEmploymentOpposing_NCStateBar2017
+  container-title: Formal Ethics Op.
+  container-title-short: Form. Ethics Op
+  issued:
+    - year: 2017
+      month: 1
+      day: 27
+  page: '3'
+  title: Negotiating Private Employment with Opposing Counsel
+  type: legal_case
+  volume: '2016'
 
 - id: NeJaime2011
   author:
@@ -26567,6 +26978,17 @@ references:
     https://www.annualreviews.org/content/journals/10.1146/annurev.lawsocsci.3.011207.080748
   volume: '3'
 
+- id: OhralikOhioStateBar_US1978
+  authority: US
+  citation-key: OhralikOhioStateBar_US1978
+  container-title: US
+  issued:
+    - year: 1978
+  page: '447'
+  title: Ohralik v. Ohio State Bar Assn.
+  type: legal_case
+  volume: '436'
+
 - id: OilCapitolSheetMetal_NLRB2007
   authority: N.L.R.B.
   citation-key: OilCapitolSheetMetal_NLRB2007
@@ -27374,6 +27796,31 @@ references:
   type: legal_case
   volume: '95'
 
+- id: PeopleAlfani_NY1919
+  authority: N.Y.
+  citation-key: PeopleAlfani_NY1919
+  container-title: A.
+  container-title-short: A.
+  issued:
+    - year: 1919
+  page: '671'
+  title: People v. Alfani
+  type: legal_case
+
+- id: PeopleBelge_NYCountyCourtOnandagaCounty1975
+  authority: N.Y. County Court, Onandaga County
+  citation-key: PeopleBelge_NYCountyCourtOnandagaCounty1975
+  container-title: Misc. 2d
+  issued:
+    - year: 1975
+      month: 8
+      day: 1
+  jurisdiction: NY
+  page: '186'
+  title: People v. Belge
+  type: legal_case
+  volume: '83'
+
 - id: PeopleEthicalTreatmentAnimals_4thCir2018
   authority: 4th Cir.
   citation-key: PeopleEthicalTreatmentAnimals_4thCir2018
@@ -28071,9 +28518,9 @@ references:
   title-short: The Great Transformation
   type: book
 
-- id: PolaskiLee_DistCourt2024
+- id: PolaskiLee_EDNC2024
   authority: E.D.N.C.
-  citation-key: PolaskiLee_DistCourt2024
+  citation-key: PolaskiLee_EDNC2024
   container-title: F. Supp. 3d
   issued:
     - year: 2024
@@ -29003,6 +29450,20 @@ references:
   type: legal_case
   volume: '688'
 
+- id: ReConverse_Nebraska1999
+  authority: Nebraska
+  citation-key: ReConverse_Nebraska1999
+  container-title: NW 2d
+  issued:
+    - year: 1999
+      month: 11
+      day: 19
+  jurisdiction: Neb
+  page: '500'
+  title: In re Converse
+  type: legal_case
+  volume: '602'
+
 - id: ReCranor_NCApp2016
   authority: NC App
   citation-key: ReCranor_NCApp2016
@@ -29259,6 +29720,20 @@ references:
   type: article-journal
   volume: '37'
 
+- id: ReGrandJurySubpoena_4thCircuit2005
+  authority: 4th Circuit
+  citation-key: ReGrandJurySubpoena_4thCircuit2005
+  container-title: F. 3d
+  issued:
+    - year: 2005
+      month: 3
+      day: 17
+  page: '334'
+  title: 'In re Grand Jury Subpoena: Under Seal'
+  title-short: In re Grand Jury Subpoena
+  type: legal_case
+  volume: '415'
+
 - id: Reid2018
   author:
     - family: Reid
@@ -29387,6 +29862,45 @@ references:
   title: Report on Civil Rights Congress as a Communist Front Organization
   type: report
 
+- id: RepresentationPartiesCommercialReal_NCStateBar2015
+  authority: N.C. State Bar
+  citation-key: RepresentationPartiesCommercialReal_NCStateBar2015
+  container-title: Formal Ethics Op.
+  container-title-short: Form. Ethics Op
+  issued:
+    - year: 2015
+      month: 1
+      day: 23
+  page: '14'
+  title: Representation of Parties to a Commercial Real Estate Loan Closing
+  type: legal_case
+  volume: '2013'
+
+- id: RepresentationPurchaseForeclosedProperty_NCStateBar2013
+  authority: N.C. State Bar
+  citation-key: RepresentationPurchaseForeclosedProperty_NCStateBar2013
+  container-title: Formal Ethics Op.
+  container-title-short: Form. Ethics Op
+  issued:
+    - year: 2013
+      month: 7
+      day: 19
+  page: '4'
+  title: Representation in Purchase of Foreclosed Property
+  type: legal_case
+  volume: '2013'
+
+- id: RePrimus_US1978
+  authority: US
+  citation-key: RePrimus_US1978
+  container-title: US
+  issued:
+    - year: 1978
+  page: '412'
+  title: In re Primus
+  type: legal_case
+  volume: '436'
+
 - id: ReQuarlesButler_SupremeCourtSubmittedApril221895
   authority: U.S.
   citation-key: ReQuarlesButler_SupremeCourtSubmittedApril221895
@@ -29397,6 +29911,36 @@ references:
   title: In re Quarles and Butler
   type: legal_case
   volume: '158'
+
+- id: ReRiehlmann_Louisiana2005
+  authority: Louisiana
+  citation-key: ReRiehlmann_Louisiana2005
+  container-title: So. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2005
+      month: 1
+      day: 19
+  jurisdiction: La
+  page: '1239'
+  title: In re Riehlmann
+  type: legal_case
+  volume: '891'
+
+- id: ReRoots_RhodeIsland2000
+  authority: Rhode Island
+  citation-key: ReRoots_RhodeIsland2000
+  container-title: A. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2000
+      month: 11
+      day: 20
+  jurisdiction: RI
+  page: '1161'
+  title: In re Roots
+  type: legal_case
+  volume: '762'
 
 - id: Research1998
   author:
@@ -31649,6 +32193,20 @@ references:
   title: Scott v. Baltimore County, Maryland
   type: legal_case
   volume: '101'
+
+- id: ScreeningLateralHireWho_NCStateBar2013
+  authority: N.C. State Bar
+  citation-key: ScreeningLateralHireWho_NCStateBar2013
+  container-title: Formal Ethics Op.
+  container-title-short: Form. Ethics Op
+  issued:
+    - year: 2013
+      month: 1
+      day: 25
+  page: '4'
+  title: Screening Lateral Hire Who Formerly Represented Adverse Organization
+  type: legal_case
+  volume: '2012'
 
 - id: ScudderWoodbridge_Georgia1846
   authority: Georgia
@@ -33968,6 +34526,17 @@ references:
   title-short: Legal Education
   type: book
 
+- id: StricklandWashington_SupremeCourt1984
+  authority: Supreme Court
+  citation-key: StricklandWashington_SupremeCourt1984
+  container-title: US
+  issued:
+    - year: 1984
+  page: '668'
+  title: Strickland v. Washington
+  type: legal_case
+  volume: '466'
+
 - id: Structures1985
   abstract: >-
     Until recently, dominant theoretical paradigms in the comparative social
@@ -35398,6 +35967,18 @@ references:
   type: legal_case
   volume: '351'
 
+- id: TogstadVeselyOttoMiller_Minnesota1980
+  authority: Minnesota
+  citation-key: TogstadVeselyOttoMiller_Minnesota1980
+  container-title: NW 2d
+  issued:
+    - year: 1980
+  jurisdiction: Minn
+  page: '686'
+  title: Togstad v. Vesely, Otto, Miller & Keefe
+  type: legal_case
+  volume: '291'
+
 - id: Torres2018
   abstract: >-
     This book aims to recover from ancient and modern thinkers valuable
@@ -35958,6 +36539,17 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:86%20Wis.2d%20582#autoLogin
   volume: '86'
 
+- id: UpjohnCoUnitedStates_US1981
+  authority: US
+  citation-key: UpjohnCoUnitedStates_US1981
+  container-title: US
+  issued:
+    - year: 1981
+  page: '383'
+  title: Upjohn Co. v. United States
+  type: legal_case
+  volume: '449'
+
 - id: USCivilRights_TheWashingtonPost_1951
   accessed:
     - year: 2026
@@ -36015,6 +36607,20 @@ references:
     Employee or Independent Contractor Classification Under the Fair Labor
     Standards Act (Final Rule)
   type: legislation
+
+- id: USStein_SDNY2006
+  authority: S.D.N.Y.
+  citation-key: USStein_SDNY2006
+  container-title: F. Supp. 2d
+  issued:
+    - year: 2006
+      month: 12
+      day: 4
+  jurisdiction: SD New York
+  page: '459'
+  title: US v. Stein
+  type: legal_case
+  volume: '463'
 
 - id: UtahAgriculturalOperation2023
   chapter-number: '2023'
@@ -37017,6 +37623,17 @@ references:
   type: legal_case
   volume: '353'
 
+- id: WhitingLacara_2ndCircuit1999
+  authority: 2nd Circuit
+  citation-key: WhitingLacara_2ndCircuit1999
+  container-title: F. 3d
+  issued:
+    - year: 1999
+  page: '317'
+  title: Whiting v. Lacara
+  type: legal_case
+  volume: '187'
+
 - id: WholeFoodsMarketInc_NLRB2015
   authority: N.L.R.B.
   citation-key: WholeFoodsMarketInc_NLRB2015
@@ -38010,6 +38627,23 @@ references:
   type: article-journal
   URL: https://scholarship.law.unc.edu/nclr/vol79/iss3/4
   volume: '79'
+
+- id: Zacharias2009
+  author:
+    - family: Zacharias
+      given: Fred
+  citation-key: Zacharias2009
+  container-title: Minnesota Law Review
+  container-title-short: Minn. Law Rev.
+  issue: '4'
+  issued:
+    - year: 2009
+      month: 1
+      day: 1
+  page: '1147'
+  title: The Myth of Self-Regulation
+  type: article-journal
+  volume: '93'
 
 - id: Zackin2014
   abstract: >-
