@@ -365,10 +365,404 @@ references:
   type: article-journal
   volume: '20'
 
-- id: ABACriminalJusticeStds_Prosecution
-  citation-key: ABACriminalJusticeStds_Prosecution
-  title: ABA Criminal Justice Standards for the Prosecution Function (2017)
-  type: legislation
+- id: ABAModelRules_Preamble
+  authority: A.B.A.
+  citation-key: ABAModelRules_Preamble
+  number: Preamble & Scope
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_0
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_0
+  number: Rule 1.0
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_1
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_1
+  number: Rule 1.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_10
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_10
+  number: Rule 1.10
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_11
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_11
+  number: Rule 1.11
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_12
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_12
+  number: Rule 1.12
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_13
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_13
+  number: Rule 1.13
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_14
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_14
+  number: Rule 1.14
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_15
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_15
+  number: Rule 1.15
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_16
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_16
+  number: Rule 1.16
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_2
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_2
+  number: Rule 1.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_3
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_3
+  number: Rule 1.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_4
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_4
+  number: Rule 1.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_5
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_5
+  number: Rule 1.5
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_6
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_6
+  number: Rule 1.6
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_7
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_7
+  number: Rule 1.7
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_8
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_8
+  number: Rule 1.8
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1_9
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1_9
+  number: Rule 1.9
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1.17
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1.17
+  number: Rule Rule1.17
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule1.18
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule1.18
+  number: Rule Rule1.18
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule2_1
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule2_1
+  number: Rule 2.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule2_3
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule2_3
+  number: Rule 2.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule2_4
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule2_4
+  number: Rule 2.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule3_1
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule3_1
+  number: Rule 3.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule3_2
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule3_2
+  number: Rule 3.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule3_3
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule3_3
+  number: Rule 3.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule3_4
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule3_4
+  number: Rule 3.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule3_5
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule3_5
+  number: Rule 3.5
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule3_6
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule3_6
+  number: Rule 3.6
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule3_7
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule3_7
+  number: Rule 3.7
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule3_8
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule3_8
+  number: Rule 3.8
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule3_9
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule3_9
+  number: Rule 3.9
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule4_1
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule4_1
+  number: Rule 4.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule4_2
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule4_2
+  number: Rule 4.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule4_3
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule4_3
+  number: Rule 4.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule4_4
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule4_4
+  number: Rule 4.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule5_1
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule5_1
+  number: Rule 5.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule5_2
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule5_2
+  number: Rule 5.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule5_3
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule5_3
+  number: Rule 5.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule5_4
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule5_4
+  number: Rule 5.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule5_5
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule5_5
+  number: Rule 5.5
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule5_6
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule5_6
+  number: Rule 5.6
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule5_7
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule5_7
+  number: Rule 5.7
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule6_1
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule6_1
+  number: Rule 6.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule6_2
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule6_2
+  number: Rule 6.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule6_3
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule6_3
+  number: Rule 6.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule6_4
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule6_4
+  number: Rule 6.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule6_5
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule6_5
+  number: Rule 6.5
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule7_1
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule7_1
+  number: Rule 7.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule7_2
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule7_2
+  number: Rule 7.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule7_3
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule7_3
+  number: Rule 7.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule7_6
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule7_6
+  number: Rule 7.6
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule8_1
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule8_1
+  number: Rule 8.1
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule8_2
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule8_2
+  number: Rule 8.2
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule8_3
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule8_3
+  number: Rule 8.3
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule8_4
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule8_4
+  number: Rule 8.4
+  title: Model Rules of Professional Conduct
+  type: standard
+
+- id: ABAModelRules_Rule8_5
+  authority: A.B.A.
+  citation-key: ABAModelRules_Rule8_5
+  number: Rule 8.5
+  title: Model Rules of Professional Conduct
+  type: standard
 
 - id: Abbott1988
   author:
@@ -7766,6 +8160,14 @@ references:
   type: document
   URL: https://www.crmvet.org/docs/55_crc_lightfoot.pdf
 
+- id: CriminalJusticeStandards
+  authority: A.B.A.
+  citation-key: CriminalJusticeStandards
+  issued:
+    - year: 2017
+  title: Criminal Justice Standards for the Prosecution Function
+  type: standard
+
 - id: Crocker2022
   author:
     - family: Crocker
@@ -8866,6 +9268,13 @@ references:
   title: Disciplinary Counsel v. Jarvis
   type: legal_case
   volume: '205'
+
+- id: DisciplineDisbarment_nd
+  citation-key: DisciplineDisbarment_nd
+  container-title: N.C. Gen. Stat.
+  section: § 84-28
+  title: Discipline and disbarment
+  type: legislation
 
 - id: DiscriminationAmericanWorkersLaw_USEqualEmploymentOpportunityCommission_nd
   abstract: Download a PDF version of this document
@@ -11092,6 +11501,185 @@ references:
   type: article-newspaper
   URL: https://newspapers.digitalnc.org/lccn/sn92073228/1955-04-20/ed-1/seq-1/
 
+- id: FedCiv
+  citation-key: FedCiv
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule1
+  citation-key: FedCiv_Rule1
+  number: Rule 1
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule10
+  citation-key: FedCiv_Rule10
+  number: Rule 10
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule11
+  citation-key: FedCiv_Rule11
+  number: Rule 11
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule12
+  citation-key: FedCiv_Rule12
+  number: Rule 12
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule13
+  citation-key: FedCiv_Rule13
+  number: Rule 13
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule14
+  citation-key: FedCiv_Rule14
+  number: Rule 14
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule15
+  citation-key: FedCiv_Rule15
+  number: Rule 15
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule16
+  citation-key: FedCiv_Rule16
+  number: Rule 16
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule17
+  citation-key: FedCiv_Rule17
+  number: Rule 17
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule18
+  citation-key: FedCiv_Rule18
+  number: Rule 18
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule19
+  citation-key: FedCiv_Rule19
+  number: Rule 19
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule2
+  citation-key: FedCiv_Rule2
+  number: Rule 2
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule20
+  citation-key: FedCiv_Rule20
+  number: Rule 20
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule21
+  citation-key: FedCiv_Rule21
+  number: Rule 21
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule22
+  citation-key: FedCiv_Rule22
+  number: Rule 22
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule23
+  citation-key: FedCiv_Rule23
+  number: Rule 23
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule24
+  citation-key: FedCiv_Rule24
+  number: Rule 24
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule25
+  citation-key: FedCiv_Rule25
+  number: Rule 25
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule26
+  citation-key: FedCiv_Rule26
+  number: Rule 26
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule3
+  citation-key: FedCiv_Rule3
+  number: Rule 3
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule4
+  citation-key: FedCiv_Rule4
+  number: Rule 4
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule42
+  citation-key: FedCiv_Rule42
+  number: Rule 42
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule5
+  citation-key: FedCiv_Rule5
+  number: Rule 5
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule55
+  citation-key: FedCiv_Rule55
+  number: Rule 55
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule56
+  citation-key: FedCiv_Rule56
+  number: Rule 56
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule6
+  citation-key: FedCiv_Rule6
+  number: Rule 6
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule7
+  citation-key: FedCiv_Rule7
+  number: Rule 7
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule8
+  citation-key: FedCiv_Rule8
+  number: Rule 8
+  title: Fed. R. Civ. P.
+  type: standard
+
+- id: FedCiv_Rule9
+  citation-key: FedCiv_Rule9
+  number: Rule 9
+  title: Fed. R. Civ. P.
+  type: standard
+
 - id: FederalCourtAdoptsStricter_Quan_OgletreeDeakins2025
   abstract: >-
     On October 31, 2025, a federal district court ruled that the University of
@@ -11135,8 +11723,9 @@ references:
 
 - id: FedEvidRule_nd
   citation-key: FedEvidRule_nd
-  title: Fed. R. Evid. Rule 502
-  type: legislation
+  number: Rule 502
+  title: Fed. R. Evid.
+  type: standard
 
 - id: Feigenson2000
   abstract: >-
@@ -25554,11 +26143,6 @@ references:
   type: webpage
   URL: https://www.movementlawlab.org
 
-- id: MRPCRule1
-  citation-key: MRPCRule1
-  title: M.R.P.C. Rule 1
-  type: legislation
-
 - id: MuldrowCityStLouis_US2024
   authority: U.S.
   citation-key: MuldrowCityStLouis_US2024
@@ -25911,20 +26495,6 @@ references:
   title: North Carolina Employment Security Act
   type: legislation
 
-- id: NCGenStat_PracticeLawDefined
-  citation-key: NCGenStat_PracticeLawDefined
-  container-title: N.C. Gen. Stat.
-  section: § 84-2.1
-  title: '"Practice law" defined'
-  type: legislation
-
-- id: NCGenStatDisciplineDisbarment
-  citation-key: NCGenStatDisciplineDisbarment
-  container-title: N.C. Gen. Stat.
-  section: § 84-28
-  title: Discipline and disbarment
-  type: legislation
-
 - id: NCGS7A-759
   citation-key: NCGS7A-759
   container-title: N.C.G.S.
@@ -25958,10 +26528,11 @@ references:
   title: North Carolina Retaliatory Employment Discrimination Act
   type: legislation
 
-- id: NCRPC8_6
-  citation-key: NCRPC8_6
-  title: N.C.R.P.C. Rule 8.6
-  type: legislation
+- id: NCRulesProfessional_Rule86
+  citation-key: NCRulesProfessional_Rule86
+  number: Rule 8.6
+  title: N.C. Rules of Professional Conduct
+  type: standard
 
 - id: NCStateBarEthridge_NCApp2008
   authority: NC App.
@@ -28968,6 +29539,21 @@ references:
   type: article-journal
   volume: '19'
 
+- id: PracticeLawDefined_NCGenStat84-21
+  citation-key: PracticeLawDefined_NCGenStat84-21
+  container-title: U.S. Code
+  section: '1331'
+  title: Federal Question Jurisdiction
+  type: legislation
+  volume: '28'
+
+- id: PracticeLawDefined_NCGenStat84-21a
+  citation-key: PracticeLawDefined_NCGenStat84-21a
+  container-title: N.C. Gen. Stat.
+  section: § 84-2.1
+  title: '"Practice law" defined'
+  type: legislation
+
 - id: >-
     PregnancyDiscriminationPregnancyRelatedDisability_USEqualEmploymentOpportunityCommission_nd
   abstract: Pregnancy Discrimination
@@ -29984,12 +30570,12 @@ references:
 - id: Rest2dJudgments
   citation-key: Rest2dJudgments
   title: Rest. (2d) of Judgments
-  type: legislation
+  type: standard
 
 - id: Rest2dLawGoverningLawyers
   citation-key: Rest2dLawGoverningLawyers
   title: Rest. (2d) of the Law Governing Lawyers
-  type: legislation
+  type: standard
 
 - id: RetailPropertyTrustUnited_9thCir2014
   authority: 9th Cir.
