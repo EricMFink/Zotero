@@ -365,403 +365,11 @@ references:
   type: article-journal
   volume: '20'
 
-- id: ABAModelRules_Preamble
-  authority: A.B.A.
-  citation-key: ABAModelRules_Preamble
-  number: Preamble & Scope
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_0
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_0
-  number: Rule 1.0
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_1
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_1
-  number: Rule 1.1
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_10
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_10
-  number: Rule 1.10
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_11
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_11
-  number: Rule 1.11
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_12
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_12
-  number: Rule 1.12
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_13
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_13
-  number: Rule 1.13
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_14
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_14
-  number: Rule 1.14
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_15
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_15
-  number: Rule 1.15
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_16
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_16
-  number: Rule 1.16
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_2
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_2
-  number: Rule 1.2
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_3
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_3
-  number: Rule 1.3
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_4
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_4
-  number: Rule 1.4
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_5
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_5
-  number: Rule 1.5
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_6
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_6
-  number: Rule 1.6
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_7
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_7
-  number: Rule 1.7
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_8
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_8
-  number: Rule 1.8
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1_9
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1_9
-  number: Rule 1.9
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1.17
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1.17
-  number: Rule Rule1.17
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule1.18
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule1.18
-  number: Rule Rule1.18
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule2_1
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule2_1
-  number: Rule 2.1
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule2_3
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule2_3
-  number: Rule 2.3
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule2_4
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule2_4
-  number: Rule 2.4
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule3_1
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule3_1
-  number: Rule 3.1
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule3_2
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule3_2
-  number: Rule 3.2
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule3_3
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule3_3
-  number: Rule 3.3
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule3_4
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule3_4
-  number: Rule 3.4
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule3_5
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule3_5
-  number: Rule 3.5
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule3_6
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule3_6
-  number: Rule 3.6
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule3_7
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule3_7
-  number: Rule 3.7
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule3_8
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule3_8
-  number: Rule 3.8
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule3_9
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule3_9
-  number: Rule 3.9
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule4_1
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule4_1
-  number: Rule 4.1
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule4_2
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule4_2
-  number: Rule 4.2
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule4_3
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule4_3
-  number: Rule 4.3
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule4_4
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule4_4
-  number: Rule 4.4
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule5_1
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule5_1
-  number: Rule 5.1
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule5_2
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule5_2
-  number: Rule 5.2
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule5_3
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule5_3
-  number: Rule 5.3
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule5_4
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule5_4
-  number: Rule 5.4
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule5_5
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule5_5
-  number: Rule 5.5
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule5_6
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule5_6
-  number: Rule 5.6
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule5_7
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule5_7
-  number: Rule 5.7
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule6_1
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule6_1
-  number: Rule 6.1
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule6_2
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule6_2
-  number: Rule 6.2
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule6_3
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule6_3
-  number: Rule 6.3
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule6_4
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule6_4
-  number: Rule 6.4
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule6_5
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule6_5
-  number: Rule 6.5
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule7_1
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule7_1
-  number: Rule 7.1
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule7_2
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule7_2
-  number: Rule 7.2
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule7_3
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule7_3
-  number: Rule 7.3
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule7_6
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule7_6
-  number: Rule 7.6
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule8_1
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule8_1
-  number: Rule 8.1
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule8_2
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule8_2
-  number: Rule 8.2
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule8_3
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule8_3
-  number: Rule 8.3
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule8_4
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule8_4
-  number: Rule 8.4
-  title: Model Rules of Professional Conduct
-  type: standard
-
-- id: ABAModelRules_Rule8_5
-  authority: A.B.A.
-  citation-key: ABAModelRules_Rule8_5
-  number: Rule 8.5
-  title: Model Rules of Professional Conduct
+- id: ABACriminalJusticeStandardsProsecutionFunction
+  citation-key: ABACriminalJusticeStandardsProsecutionFunction
+  issued:
+    - year: 2017
+  title: A.B.A. Criminal Justice Standards for the Prosecution Function
   type: standard
 
 - id: Abbott1988
@@ -3617,6 +3225,17 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/denlr86&i=461
   volume: '86'
 
+- id: BergerUnitedStates_US1935
+  authority: US
+  citation-key: BergerUnitedStates_US1935
+  container-title: US
+  issued:
+    - year: 1935
+  page: '78'
+  title: Berger v. United States
+  type: legal_case
+  volume: '295'
+
 - id: BerkChoy_US2026
   authority: U.S.
   citation-key: BerkChoy_US2026
@@ -4274,6 +3893,19 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/27592234
   volume: '71'
+
+- id: BlumenthalKimberMfgInc_Connecticut2003
+  authority: Connecticut
+  citation-key: BlumenthalKimberMfgInc_Connecticut2003
+  container-title: Conn.
+  container-title-short: Conn.
+  issued:
+    - year: 2003
+  jurisdiction: Conn
+  page: '1'
+  title: Blumenthal v. Kimber Mfg., Inc.
+  type: legal_case
+  volume: '265'
 
 - id: Bodah2000
   author:
@@ -5119,9 +4751,10 @@ references:
   citation-key: BroadbentWilliams_DUtah2025
   issued:
     - year: 2025
-      month: 2
-      day: 4
-  number: No. 4:24-cv-00091-DN
+      month: 7
+      day: 1
+  jurisdiction: D. Utah
+  number: No. 4:24-cv-00091-DN-PK
   title: Broadbent v. Williams
   type: legal_case
 
@@ -7120,8 +6753,6 @@ references:
   container-title: F. Supp. 2d
   issued:
     - year: 2001
-      month: 7
-      day: 6
   jurisdiction: ED Pennsylvania
   page: '193'
   title: Clark Capital Management v. Annuity Investors Life Ins. Co.
@@ -7168,6 +6799,17 @@ references:
   source: Google Books
   title: The State Debate
   type: book
+
+- id: ClarkUnitedStates_US1933
+  authority: US
+  citation-key: ClarkUnitedStates_US1933
+  container-title: US
+  issued:
+    - year: 1933
+  page: '1'
+  title: Clark v. United States
+  type: legal_case
+  volume: '289'
 
 - id: Classon2014
   author:
@@ -7582,6 +7224,18 @@ references:
   type: legal_case
   volume: '381'
 
+- id: CommitteeProfEthicsEtc_Iowa1982
+  authority: Iowa
+  citation-key: CommitteeProfEthicsEtc_Iowa1982
+  container-title: NW 2d
+  issued:
+    - year: 1982
+  jurisdiction: Iowa
+  page: '895'
+  title: Committee on Prof. Ethics, Etc. v. Mershon
+  type: legal_case
+  volume: '316'
+
 - id: Commons1910
   citation-key: Commons1910
   editor:
@@ -7941,8 +7595,6 @@ references:
   container-title: F. Supp.
   issued:
     - year: 1992
-      month: 8
-      day: 25
   jurisdiction: ED Virginia
   page: '1298'
   title: X Corp. v. Doe
@@ -8160,14 +7812,6 @@ references:
   type: document
   URL: https://www.crmvet.org/docs/55_crc_lightfoot.pdf
 
-- id: CriminalJusticeStandards
-  authority: A.B.A.
-  citation-key: CriminalJusticeStandards
-  issued:
-    - year: 2017
-  title: Criminal Justice Standards for the Prosecution Function
-  type: standard
-
 - id: Crocker2022
   author:
     - family: Crocker
@@ -8230,9 +7874,9 @@ references:
   title-short: The Modern State
   type: book
 
-- id: CulpepperCarrollPllcCole_Louisiana2006
+- id: CulpepperCarrollPLLCCole_Louisiana2006
   authority: Louisiana
-  citation-key: CulpepperCarrollPllcCole_Louisiana2006
+  citation-key: CulpepperCarrollPLLCCole_Louisiana2006
   container-title: So. 2d
   container-title-short: 2d
   issued:
@@ -8241,7 +7885,7 @@ references:
       day: 4
   jurisdiction: La
   page: '1224'
-  title: Culpepper & Carroll, Pllc v. Cole
+  title: Culpepper & Carroll, PLLC v. Cole
   type: legal_case
   volume: '929'
 
@@ -8548,8 +8192,6 @@ references:
   container-title: SE 2d
   issued:
     - year: 2002
-      month: 2
-      day: 19
   jurisdiction: NC
   page: '276'
   title: DaimlerChrysler Corp. v. Kirkhart
@@ -8707,8 +8349,6 @@ references:
   container-title: SW 2d
   issued:
     - year: 1978
-      month: 11
-      day: 3
   jurisdiction: Ky
   page: '12'
   title: Daugherty v. Runner
@@ -9269,10 +8909,34 @@ references:
   type: legal_case
   volume: '205'
 
-- id: DisciplineDisbarment_nd
-  citation-key: DisciplineDisbarment_nd
+- id: DisciplinaryCounselSarver_Ohio2018
+  authority: Ohio
+  citation-key: DisciplinaryCounselSarver_Ohio2018
+  container-title: NE 3d
+  issued:
+    - year: 2018
+  jurisdiction: Ohio
+  page: '405'
+  title: Disciplinary Counsel v. Sarver
+  type: legal_case
+  volume: '119'
+
+- id: DisciplinaryCounselSarver_Ohio2020
+  authority: Ohio
+  citation-key: DisciplinaryCounselSarver_Ohio2020
+  container-title: NE 3d
+  issued:
+    - year: 2020
+  jurisdiction: Ohio
+  page: '799'
+  title: Disciplinary Counsel v. Sarver
+  type: legal_case
+  volume: '170'
+
+- id: DisciplineDisbarment_NCGenStat84-28
+  citation-key: DisciplineDisbarment_NCGenStat84-28
   container-title: N.C. Gen. Stat.
-  section: § 84-28
+  section: 84-28
   title: Discipline and disbarment
   type: legislation
 
@@ -11503,181 +11167,7 @@ references:
 
 - id: FedCiv
   citation-key: FedCiv
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule1
-  citation-key: FedCiv_Rule1
-  number: Rule 1
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule10
-  citation-key: FedCiv_Rule10
-  number: Rule 10
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule11
-  citation-key: FedCiv_Rule11
-  number: Rule 11
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule12
-  citation-key: FedCiv_Rule12
-  number: Rule 12
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule13
-  citation-key: FedCiv_Rule13
-  number: Rule 13
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule14
-  citation-key: FedCiv_Rule14
-  number: Rule 14
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule15
-  citation-key: FedCiv_Rule15
-  number: Rule 15
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule16
-  citation-key: FedCiv_Rule16
-  number: Rule 16
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule17
-  citation-key: FedCiv_Rule17
-  number: Rule 17
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule18
-  citation-key: FedCiv_Rule18
-  number: Rule 18
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule19
-  citation-key: FedCiv_Rule19
-  number: Rule 19
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule2
-  citation-key: FedCiv_Rule2
-  number: Rule 2
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule20
-  citation-key: FedCiv_Rule20
-  number: Rule 20
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule21
-  citation-key: FedCiv_Rule21
-  number: Rule 21
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule22
-  citation-key: FedCiv_Rule22
-  number: Rule 22
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule23
-  citation-key: FedCiv_Rule23
-  number: Rule 23
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule24
-  citation-key: FedCiv_Rule24
-  number: Rule 24
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule25
-  citation-key: FedCiv_Rule25
-  number: Rule 25
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule26
-  citation-key: FedCiv_Rule26
-  number: Rule 26
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule3
-  citation-key: FedCiv_Rule3
-  number: Rule 3
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule4
-  citation-key: FedCiv_Rule4
-  number: Rule 4
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule42
-  citation-key: FedCiv_Rule42
-  number: Rule 42
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule5
-  citation-key: FedCiv_Rule5
-  number: Rule 5
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule55
-  citation-key: FedCiv_Rule55
-  number: Rule 55
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule56
-  citation-key: FedCiv_Rule56
-  number: Rule 56
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule6
-  citation-key: FedCiv_Rule6
-  number: Rule 6
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule7
-  citation-key: FedCiv_Rule7
-  number: Rule 7
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule8
-  citation-key: FedCiv_Rule8
-  number: Rule 8
-  title: Fed. R. Civ. P.
-  type: standard
-
-- id: FedCiv_Rule9
-  citation-key: FedCiv_Rule9
-  number: Rule 9
-  title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure
   type: standard
 
 - id: FederalCourtAdoptsStricter_Quan_OgletreeDeakins2025
@@ -11709,6 +11199,161 @@ references:
   URL: >-
     https://ogletree.com/insights-resources/blog-posts/federal-court-adopts-stricter-standard-for-employer-liability-in-third-party-harassment-cases/
 
+- id: FederalRulesCivilProcedure
+  citation-key: FederalRulesCivilProcedure
+  title: Federal Rules of Civil Procedure
+  type: standard
+
+- id: FederalRulesCivilProcedureRule1
+  citation-key: FederalRulesCivilProcedureRule1
+  title: Federal Rules of Civil Procedure Rule 1
+  type: standard
+
+- id: FederalRulesCivilProcedureRule10
+  citation-key: FederalRulesCivilProcedureRule10
+  title: Federal Rules of Civil Procedure Rule 10
+  type: standard
+
+- id: FederalRulesCivilProcedureRule11
+  citation-key: FederalRulesCivilProcedureRule11
+  title: Federal Rules of Civil Procedure Rule 11
+  type: standard
+
+- id: FederalRulesCivilProcedureRule12
+  citation-key: FederalRulesCivilProcedureRule12
+  title: Federal Rules of Civil Procedure Rule 12
+  type: standard
+
+- id: FederalRulesCivilProcedureRule13
+  citation-key: FederalRulesCivilProcedureRule13
+  title: Federal Rules of Civil Procedure Rule 13
+  type: standard
+
+- id: FederalRulesCivilProcedureRule14
+  citation-key: FederalRulesCivilProcedureRule14
+  title: Federal Rules of Civil Procedure Rule 14
+  type: standard
+
+- id: FederalRulesCivilProcedureRule15
+  citation-key: FederalRulesCivilProcedureRule15
+  title: Federal Rules of Civil Procedure Rule 15
+  type: standard
+
+- id: FederalRulesCivilProcedureRule16
+  citation-key: FederalRulesCivilProcedureRule16
+  title: Federal Rules of Civil Procedure Rule 16
+  type: standard
+
+- id: FederalRulesCivilProcedureRule17
+  citation-key: FederalRulesCivilProcedureRule17
+  title: Federal Rules of Civil Procedure Rule 17
+  type: standard
+
+- id: FederalRulesCivilProcedureRule18
+  citation-key: FederalRulesCivilProcedureRule18
+  title: Federal Rules of Civil Procedure Rule 18
+  type: standard
+
+- id: FederalRulesCivilProcedureRule19
+  citation-key: FederalRulesCivilProcedureRule19
+  title: Federal Rules of Civil Procedure Rule 19
+  type: standard
+
+- id: FederalRulesCivilProcedureRule2
+  citation-key: FederalRulesCivilProcedureRule2
+  title: Federal Rules of Civil Procedure Rule 2
+  type: standard
+
+- id: FederalRulesCivilProcedureRule20
+  citation-key: FederalRulesCivilProcedureRule20
+  title: Federal Rules of Civil Procedure Rule 20
+  type: standard
+
+- id: FederalRulesCivilProcedureRule21
+  citation-key: FederalRulesCivilProcedureRule21
+  title: Federal Rules of Civil Procedure Rule 21
+  type: standard
+
+- id: FederalRulesCivilProcedureRule22
+  citation-key: FederalRulesCivilProcedureRule22
+  title: Federal Rules of Civil Procedure Rule 22
+  type: standard
+
+- id: FederalRulesCivilProcedureRule23
+  citation-key: FederalRulesCivilProcedureRule23
+  title: Federal Rules of Civil Procedure Rule 23
+  type: standard
+
+- id: FederalRulesCivilProcedureRule24
+  citation-key: FederalRulesCivilProcedureRule24
+  title: Federal Rules of Civil Procedure Rule 24
+  type: standard
+
+- id: FederalRulesCivilProcedureRule25
+  citation-key: FederalRulesCivilProcedureRule25
+  title: Federal Rules of Civil Procedure Rule 25
+  type: standard
+
+- id: FederalRulesCivilProcedureRule26
+  citation-key: FederalRulesCivilProcedureRule26
+  title: Federal Rules of Civil Procedure Rule 26
+  type: standard
+
+- id: FederalRulesCivilProcedureRule3
+  citation-key: FederalRulesCivilProcedureRule3
+  title: Federal Rules of Civil Procedure Rule 3
+  type: standard
+
+- id: FederalRulesCivilProcedureRule4
+  citation-key: FederalRulesCivilProcedureRule4
+  title: Federal Rules of Civil Procedure Rule 4
+  type: standard
+
+- id: FederalRulesCivilProcedureRule42
+  citation-key: FederalRulesCivilProcedureRule42
+  title: Federal Rules of Civil Procedure Rule 42
+  type: standard
+
+- id: FederalRulesCivilProcedureRule5
+  citation-key: FederalRulesCivilProcedureRule5
+  title: Federal Rules of Civil Procedure Rule 5
+  type: standard
+
+- id: FederalRulesCivilProcedureRule55
+  citation-key: FederalRulesCivilProcedureRule55
+  title: Federal Rules of Civil Procedure Rule 55
+  type: standard
+
+- id: FederalRulesCivilProcedureRule56
+  citation-key: FederalRulesCivilProcedureRule56
+  title: Federal Rules of Civil Procedure Rule 56
+  type: standard
+
+- id: FederalRulesCivilProcedureRule6
+  citation-key: FederalRulesCivilProcedureRule6
+  title: Federal Rules of Civil Procedure Rule 6
+  type: standard
+
+- id: FederalRulesCivilProcedureRule7
+  citation-key: FederalRulesCivilProcedureRule7
+  title: Federal Rules of Civil Procedure Rule 7
+  type: standard
+
+- id: FederalRulesCivilProcedureRule8
+  citation-key: FederalRulesCivilProcedureRule8
+  title: Federal Rules of Civil Procedure Rule 8
+  type: standard
+
+- id: FederalRulesCivilProcedureRule9
+  citation-key: FederalRulesCivilProcedureRule9
+  title: Federal Rules of Civil Procedure Rule 9
+  type: standard
+
+- id: FederalRulesEvidenceRule502
+  citation-key: FederalRulesEvidenceRule502
+  title: Federal Rules of Evidence Rule 502
+  type: standard
+
 - id: FederalSecurityInc_NLRB2012
   authority: N.L.R.B.
   citation-key: FederalSecurityInc_NLRB2012
@@ -11720,12 +11365,6 @@ references:
   title: Federal Security, Inc.
   type: legal_case
   volume: '359'
-
-- id: FedEvidRule_nd
-  citation-key: FedEvidRule_nd
-  number: Rule 502
-  title: Fed. R. Evid.
-  type: standard
 
 - id: Feigenson2000
   abstract: >-
@@ -11972,8 +11611,6 @@ references:
   container-title: F. Supp.
   issued:
     - year: 1991
-      month: 4
-      day: 4
   jurisdiction: ED Pennsylvania
   page: '670'
   title: Ferranti Intern. PLC v. Clark
@@ -17115,6 +16752,18 @@ references:
   type: legal_case
   volume: '41'
 
+- id: HillmanNuecesCounty_Texas2019
+  authority: Texas
+  citation-key: HillmanNuecesCounty_Texas2019
+  container-title: SW 3d
+  issued:
+    - year: 2019
+  jurisdiction: Tex
+  page: '354'
+  title: Hillman v. Nueces County
+  type: legal_case
+  volume: '579'
+
 - id: Hirsch2005
   author:
     - family: Hirsch
@@ -17624,7 +17273,7 @@ references:
     - year: 2013
   jurisdiction: Va
   page: '611'
-  title: Hunter v. Virginia State Bar ex rel. Third District Committee
+  title: Hunter v. Virginia State Bar
   type: legal_case
   volume: '744'
 
@@ -22907,8 +22556,6 @@ references:
   container-title-short: 2d
   issued:
     - year: 2004
-      month: 6
-      day: 29
   jurisdiction: DC
   page: '590'
   title: Makins v. District of Columbia
@@ -23187,8 +22834,6 @@ references:
   container-title: NW 2d
   issued:
     - year: 1981
-      month: 12
-      day: 4
   jurisdiction: Minn
   page: '4'
   title: Marker v. Greenberg
@@ -23660,7 +23305,7 @@ references:
   type: book
 
 - id: MatterAnonymous_NYAppDiv3rdDept2009
-  authority: N.Y. App. Div., 3rd Dept.
+  authority: N.Y. App. Div.
   citation-key: MatterAnonymous_NYAppDiv3rdDept2009
   container-title: AD 3d
   issued:
@@ -23674,7 +23319,7 @@ references:
   volume: '61'
 
 - id: MatterAnonymous_NYAppDiv3rdDept2023
-  authority: N.Y. App. Div., 3rd Dept.
+  authority: N.Y. App. Div.
   citation-key: MatterAnonymous_NYAppDiv3rdDept2023
   container-title: AD 3d
   issued:
@@ -23753,6 +23398,20 @@ references:
     https://1.next.westlaw.com/Search/Results.html?query=find:46%20A.D.2d%20253#autoLogin
   volume: '46'
 
+- id: MatterDisciplineLeavitt_Utah2025
+  authority: Utah
+  citation-key: MatterDisciplineLeavitt_Utah2025
+  container-title: P. 3d
+  issued:
+    - year: 2025
+      month: 2
+      day: 28
+  jurisdiction: Utah
+  page: '343'
+  title: Matter of Discipline of Leavitt
+  type: legal_case
+  volume: '579'
+
 - id: MatterFordham_Massachusetts1996
   authority: Massachusetts
   citation-key: MatterFordham_Massachusetts1996
@@ -23760,13 +23419,23 @@ references:
   container-title-short: Mass.
   issued:
     - year: 1996
-      month: 4
-      day: 2
   jurisdiction: Mass
   page: '481'
   title: In the Matter of Fordham
   type: legal_case
   volume: '423'
+
+- id: MatterGrandJuryInvestigation_Massachusetts2009
+  authority: Massachusetts
+  citation-key: MatterGrandJuryInvestigation_Massachusetts2009
+  container-title: NE 2d
+  issued:
+    - year: 2009
+  jurisdiction: Mass
+  page: '929'
+  title: In the Matter of a Grand Jury Investigation
+  type: legal_case
+  volume: '902'
 
 - id: MatterGunn_NYAppDiv2019
   accessed:
@@ -23828,8 +23497,6 @@ references:
   container-title-short: 2d
   issued:
     - year: 1994
-      month: 1
-      day: 14
   jurisdiction: RI
   page: '316'
   title: In the Matter of Silva
@@ -24445,6 +24112,17 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/25095467
   volume: '95'
+
+- id: McClureThompson_9thCircuit2003
+  authority: 9th Circuit
+  citation-key: McClureThompson_9thCircuit2003
+  container-title: F. 3d
+  issued:
+    - year: 2003
+  page: '1233'
+  title: McClure v. Thompson
+  type: legal_case
+  volume: '323'
 
 - id: McConnell-Sidorick2017
   author:
@@ -25604,6 +25282,291 @@ references:
   type: article-journal
   volume: '16'
 
+- id: ModelRulesProfessionalConductPreambleScope
+  citation-key: ModelRulesProfessionalConductPreambleScope
+  title: Model Rules of Professional Conduct Preamble & Scope
+  type: standard
+
+- id: ModelRulesProfessionalConductRule10
+  citation-key: ModelRulesProfessionalConductRule10
+  title: Model Rules of Professional Conduct Rule 1.0
+  type: standard
+
+- id: ModelRulesProfessionalConductRule11
+  citation-key: ModelRulesProfessionalConductRule11
+  title: Model Rules of Professional Conduct Rule 1.1
+  type: standard
+
+- id: ModelRulesProfessionalConductRule110
+  citation-key: ModelRulesProfessionalConductRule110
+  title: Model Rules of Professional Conduct Rule 1.10
+  type: standard
+
+- id: ModelRulesProfessionalConductRule111
+  citation-key: ModelRulesProfessionalConductRule111
+  title: Model Rules of Professional Conduct Rule 1.11
+  type: standard
+
+- id: ModelRulesProfessionalConductRule112
+  citation-key: ModelRulesProfessionalConductRule112
+  title: Model Rules of Professional Conduct Rule 1.12
+  type: standard
+
+- id: ModelRulesProfessionalConductRule113
+  citation-key: ModelRulesProfessionalConductRule113
+  title: Model Rules of Professional Conduct Rule 1.13
+  type: standard
+
+- id: ModelRulesProfessionalConductRule114
+  citation-key: ModelRulesProfessionalConductRule114
+  title: Model Rules of Professional Conduct Rule 1.14
+  type: standard
+
+- id: ModelRulesProfessionalConductRule115
+  citation-key: ModelRulesProfessionalConductRule115
+  title: Model Rules of Professional Conduct Rule 1.15
+  type: standard
+
+- id: ModelRulesProfessionalConductRule116
+  citation-key: ModelRulesProfessionalConductRule116
+  title: Model Rules of Professional Conduct Rule 1.16
+  type: standard
+
+- id: ModelRulesProfessionalConductRule117
+  citation-key: ModelRulesProfessionalConductRule117
+  title: Model Rules of Professional Conduct Rule 1.17
+  type: standard
+
+- id: ModelRulesProfessionalConductRule118
+  citation-key: ModelRulesProfessionalConductRule118
+  title: Model Rules of Professional Conduct Rule 1.18
+  type: standard
+
+- id: ModelRulesProfessionalConductRule12
+  citation-key: ModelRulesProfessionalConductRule12
+  title: Model Rules of Professional Conduct Rule 1.2
+  type: standard
+
+- id: ModelRulesProfessionalConductRule13
+  citation-key: ModelRulesProfessionalConductRule13
+  title: Model Rules of Professional Conduct Rule 1.3
+  type: standard
+
+- id: ModelRulesProfessionalConductRule14
+  citation-key: ModelRulesProfessionalConductRule14
+  title: Model Rules of Professional Conduct Rule 1.4
+  type: standard
+
+- id: ModelRulesProfessionalConductRule15
+  citation-key: ModelRulesProfessionalConductRule15
+  title: Model Rules of Professional Conduct Rule 1.5
+  type: standard
+
+- id: ModelRulesProfessionalConductRule16
+  citation-key: ModelRulesProfessionalConductRule16
+  title: Model Rules of Professional Conduct Rule 1.6
+  type: standard
+
+- id: ModelRulesProfessionalConductRule17
+  citation-key: ModelRulesProfessionalConductRule17
+  title: Model Rules of Professional Conduct Rule 1.7
+  type: standard
+
+- id: ModelRulesProfessionalConductRule18
+  citation-key: ModelRulesProfessionalConductRule18
+  title: Model Rules of Professional Conduct Rule 1.8
+  type: standard
+
+- id: ModelRulesProfessionalConductRule19
+  citation-key: ModelRulesProfessionalConductRule19
+  title: Model Rules of Professional Conduct Rule 1.9
+  type: standard
+
+- id: ModelRulesProfessionalConductRule21
+  citation-key: ModelRulesProfessionalConductRule21
+  title: Model Rules of Professional Conduct Rule 2.1
+  type: standard
+
+- id: ModelRulesProfessionalConductRule23
+  citation-key: ModelRulesProfessionalConductRule23
+  title: Model Rules of Professional Conduct Rule 2.3
+  type: standard
+
+- id: ModelRulesProfessionalConductRule24
+  citation-key: ModelRulesProfessionalConductRule24
+  title: Model Rules of Professional Conduct Rule 2.4
+  type: standard
+
+- id: ModelRulesProfessionalConductRule31
+  citation-key: ModelRulesProfessionalConductRule31
+  title: Model Rules of Professional Conduct Rule 3.1
+  type: standard
+
+- id: ModelRulesProfessionalConductRule32
+  citation-key: ModelRulesProfessionalConductRule32
+  title: Model Rules of Professional Conduct Rule 3.2
+  type: standard
+
+- id: ModelRulesProfessionalConductRule33
+  citation-key: ModelRulesProfessionalConductRule33
+  title: Model Rules of Professional Conduct Rule 3.3
+  type: standard
+
+- id: ModelRulesProfessionalConductRule34
+  citation-key: ModelRulesProfessionalConductRule34
+  title: Model Rules of Professional Conduct Rule 3.4
+  type: standard
+
+- id: ModelRulesProfessionalConductRule35
+  citation-key: ModelRulesProfessionalConductRule35
+  title: Model Rules of Professional Conduct Rule 3.5
+  type: standard
+
+- id: ModelRulesProfessionalConductRule36
+  citation-key: ModelRulesProfessionalConductRule36
+  title: Model Rules of Professional Conduct Rule 3.6
+  type: standard
+
+- id: ModelRulesProfessionalConductRule37
+  citation-key: ModelRulesProfessionalConductRule37
+  title: Model Rules of Professional Conduct Rule 3.7
+  type: standard
+
+- id: ModelRulesProfessionalConductRule38
+  citation-key: ModelRulesProfessionalConductRule38
+  title: Model Rules of Professional Conduct Rule 3.8
+  type: standard
+
+- id: ModelRulesProfessionalConductRule39
+  citation-key: ModelRulesProfessionalConductRule39
+  title: Model Rules of Professional Conduct Rule 3.9
+  type: standard
+
+- id: ModelRulesProfessionalConductRule41
+  citation-key: ModelRulesProfessionalConductRule41
+  title: Model Rules of Professional Conduct Rule 4.1
+  type: standard
+
+- id: ModelRulesProfessionalConductRule42
+  citation-key: ModelRulesProfessionalConductRule42
+  title: Model Rules of Professional Conduct Rule 4.2
+  type: standard
+
+- id: ModelRulesProfessionalConductRule43
+  citation-key: ModelRulesProfessionalConductRule43
+  title: Model Rules of Professional Conduct Rule 4.3
+  type: standard
+
+- id: ModelRulesProfessionalConductRule44
+  citation-key: ModelRulesProfessionalConductRule44
+  title: Model Rules of Professional Conduct Rule 4.4
+  type: standard
+
+- id: ModelRulesProfessionalConductRule51
+  citation-key: ModelRulesProfessionalConductRule51
+  title: Model Rules of Professional Conduct Rule 5.1
+  type: standard
+
+- id: ModelRulesProfessionalConductRule52
+  citation-key: ModelRulesProfessionalConductRule52
+  title: Model Rules of Professional Conduct Rule 5.2
+  type: standard
+
+- id: ModelRulesProfessionalConductRule53
+  citation-key: ModelRulesProfessionalConductRule53
+  title: Model Rules of Professional Conduct Rule 5.3
+  type: standard
+
+- id: ModelRulesProfessionalConductRule54
+  citation-key: ModelRulesProfessionalConductRule54
+  title: Model Rules of Professional Conduct Rule 5.4
+  type: standard
+
+- id: ModelRulesProfessionalConductRule55
+  citation-key: ModelRulesProfessionalConductRule55
+  title: Model Rules of Professional Conduct Rule 5.5
+  type: standard
+
+- id: ModelRulesProfessionalConductRule56
+  citation-key: ModelRulesProfessionalConductRule56
+  title: Model Rules of Professional Conduct Rule 5.6
+  type: standard
+
+- id: ModelRulesProfessionalConductRule57
+  citation-key: ModelRulesProfessionalConductRule57
+  title: Model Rules of Professional Conduct Rule 5.7
+  type: standard
+
+- id: ModelRulesProfessionalConductRule61
+  citation-key: ModelRulesProfessionalConductRule61
+  title: Model Rules of Professional Conduct Rule 6.1
+  type: standard
+
+- id: ModelRulesProfessionalConductRule62
+  citation-key: ModelRulesProfessionalConductRule62
+  title: Model Rules of Professional Conduct Rule 6.2
+  type: standard
+
+- id: ModelRulesProfessionalConductRule63
+  citation-key: ModelRulesProfessionalConductRule63
+  title: Model Rules of Professional Conduct Rule 6.3
+  type: standard
+
+- id: ModelRulesProfessionalConductRule64
+  citation-key: ModelRulesProfessionalConductRule64
+  title: Model Rules of Professional Conduct Rule 6.4
+  type: standard
+
+- id: ModelRulesProfessionalConductRule65
+  citation-key: ModelRulesProfessionalConductRule65
+  title: Model Rules of Professional Conduct Rule 6.5
+  type: standard
+
+- id: ModelRulesProfessionalConductRule71
+  citation-key: ModelRulesProfessionalConductRule71
+  title: Model Rules of Professional Conduct Rule 7.1
+  type: standard
+
+- id: ModelRulesProfessionalConductRule72
+  citation-key: ModelRulesProfessionalConductRule72
+  title: Model Rules of Professional Conduct Rule 7.2
+  type: standard
+
+- id: ModelRulesProfessionalConductRule73
+  citation-key: ModelRulesProfessionalConductRule73
+  title: Model Rules of Professional Conduct Rule 7.3
+  type: standard
+
+- id: ModelRulesProfessionalConductRule76
+  citation-key: ModelRulesProfessionalConductRule76
+  title: Model Rules of Professional Conduct Rule 7.6
+  type: standard
+
+- id: ModelRulesProfessionalConductRule81
+  citation-key: ModelRulesProfessionalConductRule81
+  title: Model Rules of Professional Conduct Rule 8.1
+  type: standard
+
+- id: ModelRulesProfessionalConductRule82
+  citation-key: ModelRulesProfessionalConductRule82
+  title: Model Rules of Professional Conduct Rule 8.2
+  type: standard
+
+- id: ModelRulesProfessionalConductRule83
+  citation-key: ModelRulesProfessionalConductRule83
+  title: Model Rules of Professional Conduct Rule 8.3
+  type: standard
+
+- id: ModelRulesProfessionalConductRule84
+  citation-key: ModelRulesProfessionalConductRule84
+  title: Model Rules of Professional Conduct Rule 8.4
+  type: standard
+
+- id: ModelRulesProfessionalConductRule85
+  citation-key: ModelRulesProfessionalConductRule85
+  title: Model Rules of Professional Conduct Rule 8.5
+  type: standard
+
 - id: ModiseCareOneHealthServices_DConn2022
   authority: D. Conn.
   citation-key: ModiseCareOneHealthServices_DConn2022
@@ -26300,12 +26263,12 @@ references:
   title: Myers v. Howmedica Osteonics Corp
   type: legal_case
 
-- id: NAACPButton_US05
+- id: NAACPButton_US1963
   authority: U.S.
-  citation-key: NAACPButton_US05
+  citation-key: NAACPButton_US1963
   container-title: US
   issued:
-    - year: 5
+    - year: 1963
   page: '415'
   title: NAACP v. Button
   type: legal_case
@@ -26486,6 +26449,11 @@ references:
   title: NBA Properties v. Hanwjh
   type: legal_case
   volume: '46'
+
+- id: NCBoardLawExaminersCharacterFitness
+  citation-key: NCBoardLawExaminersCharacterFitness
+  title: N.C. Board of Law Examiners, Character and Fitness Guidelines
+  type: standard
 
 - id: NCEmploymentSecurity_nd
   citation-key: NCEmploymentSecurity_nd
@@ -26987,6 +26955,18 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.33
 
+- id: NiesigTeam_NewYorkAppDiv2ndDept1989
+  authority: N.Y, App. Div.
+  citation-key: NiesigTeam_NewYorkAppDiv2ndDept1989
+  container-title: AD 2d
+  issued:
+    - year: 1989
+  jurisdiction: NY
+  page: '94'
+  title: Niesig v. Team I
+  type: legal_case
+  volume: '149'
+
 - id: NikeAccusedBias_OBrien_TheNewYorkTimes_2026
   abstract: >-
     It appeared to be the first time the Equal Employment Opportunity Commission
@@ -27014,6 +26994,17 @@ references:
   type: article-newspaper
   URL: >-
     https://www.nytimes.com/2026/02/04/business/eeoc-nike-white-employee-discrimination.html
+
+- id: NixWhiteside_US1986
+  authority: US
+  citation-key: NixWhiteside_US1986
+  container-title: US
+  issued:
+    - year: 1986
+  page: '157'
+  title: Nix v. Whiteside
+  type: legal_case
+  volume: '475'
 
 - id: NLRA1935
   citation-key: NLRA1935
@@ -27264,6 +27255,21 @@ references:
   type: legislation
   volume: '96'
 
+- id: NorthCarolinaStateBar_NCCourtofAppeals2019
+  accessed:
+    - year: 2026
+      month: 8
+      day: 8
+  authority: N.C. Court of Appeals
+  citation-key: NorthCarolinaStateBar_NCCourtofAppeals2019
+  issued:
+    - year: 2019
+      month: 6
+      day: 4
+  number: No. COA18-866
+  title: North Carolina State Bar v. Weckworth
+  type: legal_case
+
 - id: NorthCarolinaStateBar2024
   author:
     - family: North Carolina State Bar
@@ -27303,6 +27309,20 @@ references:
   source: Amazon
   title: The Jewish Labor Bund in Poland
   type: book
+
+- id: NuStarFarmsLLCZylstra_Iowa2016
+  authority: Iowa
+  citation-key: NuStarFarmsLLCZylstra_Iowa2016
+  container-title: NW 2d
+  issued:
+    - year: 2016
+      month: 5
+      day: 13
+  jurisdiction: Iowa
+  page: '478'
+  title: NuStar Farms, LLC v. Zylstra
+  type: legal_case
+  volume: '880'
 
 - id: NYLongArm
   citation-key: NYLongArm
@@ -28384,13 +28404,23 @@ references:
   container-title: Misc. 2d
   issued:
     - year: 1975
-      month: 8
-      day: 1
   jurisdiction: NY
   page: '186'
   title: People v. Belge
   type: legal_case
   volume: '83'
+
+- id: PeopleDePallo_NewYork2001
+  authority: New York
+  citation-key: PeopleDePallo_NewYork2001
+  container-title: NE 2d
+  issued:
+    - year: 2001
+  jurisdiction: NY
+  page: '751'
+  title: People v. DePallo
+  type: legal_case
+  volume: '754'
 
 - id: PeopleEthicalTreatmentAnimals_4thCir2018
   authority: 4th Cir.
@@ -29541,16 +29571,8 @@ references:
 
 - id: PracticeLawDefined_NCGenStat84-21
   citation-key: PracticeLawDefined_NCGenStat84-21
-  container-title: U.S. Code
-  section: '1331'
-  title: Federal Question Jurisdiction
-  type: legislation
-  volume: '28'
-
-- id: PracticeLawDefined_NCGenStat84-21a
-  citation-key: PracticeLawDefined_NCGenStat84-21a
   container-title: N.C. Gen. Stat.
-  section: § 84-2.1
+  section: 84-2.1
   title: '"Practice law" defined'
   type: legislation
 
@@ -30042,8 +30064,6 @@ references:
   container-title: NW 2d
   issued:
     - year: 1999
-      month: 11
-      day: 19
   jurisdiction: Neb
   page: '500'
   title: In re Converse
@@ -30201,6 +30221,18 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/112101406/abstract/C7C6757E0ED14FACPQ/92
 
+- id: ReDisciplinaryProceedingHaley_Washington2006
+  authority: Washington
+  citation-key: ReDisciplinaryProceedingHaley_Washington2006
+  container-title: P. 3d
+  issued:
+    - year: 2006
+  jurisdiction: Wash
+  page: '1262'
+  title: In re Disciplinary Proceeding Against Haley
+  type: legal_case
+  volume: '126'
+
 - id: RedLeaderNears_NewYorkTimes_1951
   abstract: >-
     The way was cleared yesterday in Federal Court here for the removal to Los
@@ -30252,6 +30284,17 @@ references:
   title-short: Red Outlaw Bill Scored
   type: article-newspaper
   URL: https://www.proquest.com/docview/113096505/abstract/C7C6757E0ED14FACPQ/90
+
+- id: ReDresserIndustriesInc_5thCircuit1992
+  authority: 5th Circuit
+  citation-key: ReDresserIndustriesInc_5thCircuit1992
+  container-title: F. 2d
+  issued:
+    - year: 1992
+  page: '540'
+  title: In re Dresser Industries, Inc.
+  type: legal_case
+  volume: '972'
 
 - id: Reed2013
   accessed:
@@ -30376,6 +30419,45 @@ references:
   title: Reis Robotics USA v. Concept Indus.
   type: legal_case
   volume: '462'
+
+- id: ReJordan_Louisiana2005
+  authority: Louisiana
+  citation-key: ReJordan_Louisiana2005
+  container-title: So. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2005
+      month: 6
+      day: 29
+  jurisdiction: La
+  page: '775'
+  title: In re Jordan
+  type: legal_case
+  volume: '913'
+
+- id: ReLitz_Indiana1999
+  authority: Indiana
+  citation-key: ReLitz_Indiana1999
+  container-title: NE 2d
+  issued:
+    - year: 1999
+  jurisdiction: Ind
+  page: '258'
+  title: In re Litz
+  type: legal_case
+  volume: '721'
+
+- id: ReMorse_Georgia2013
+  authority: Georgia
+  citation-key: ReMorse_Georgia2013
+  container-title: SE 2d
+  issued:
+    - year: 2013
+  jurisdiction: Ga
+  page: '921'
+  title: In re Morse
+  type: legal_case
+  volume: '748'
 
 - id: ReNageleisen_EDKyBankr2014
   authority: E.D. Ky., Bankr.
@@ -30520,8 +30602,6 @@ references:
   container-title-short: 2d
   issued:
     - year: 2000
-      month: 11
-      day: 20
   jurisdiction: RI
   page: '1161'
   title: In re Roots
@@ -30576,6 +30656,19 @@ references:
   citation-key: Rest2dLawGoverningLawyers
   title: Rest. (2d) of the Law Governing Lawyers
   type: standard
+
+- id: ReStateGrandJury_NewJersey2009
+  authority: New Jersey
+  citation-key: ReStateGrandJury_NewJersey2009
+  container-title: A. 2d
+  container-title-short: 2d
+  issued:
+    - year: 2009
+  jurisdiction: NJ
+  page: '1097'
+  title: In re State Grand Jury Investigation
+  type: legal_case
+  volume: '983'
 
 - id: RetailPropertyTrustUnited_9thCir2014
   authority: 9th Cir.
@@ -31184,6 +31277,16 @@ references:
   type: report
   URL: https://worldjusticeproject.org/rule-of-law-index
 
+- id: RulesGoverningAdmission_2727NCAdminCode030600
+  citation-key: RulesGoverningAdmission_2727NCAdminCode030600
+  container-title: 27 N.C. Admin Code
+  section: 03 .0600
+  title: >-
+    Rules Governing Admission to the Practice of Law in the State of North
+    Carolina
+  type: legislation
+  volume: '27'
+
 - id: RulonMillerInternationalBusMachines_CalApp1984
   authority: Cal. App.
   citation-key: RulonMillerInternationalBusMachines_CalApp1984
@@ -31328,6 +31431,19 @@ references:
   title: 'The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay'
   title-short: The Triumph of Injustice
   type: book
+
+- id: SaladiniRighellisGoldstein_Massachusetts1997
+  authority: Massachusetts
+  citation-key: SaladiniRighellisGoldstein_Massachusetts1997
+  container-title: Mass.
+  container-title-short: Mass.
+  issued:
+    - year: 1997
+  jurisdiction: Mass
+  page: '231'
+  title: Saladini v. Righellis; Goldstein
+  type: legal_case
+  volume: '426'
 
 - id: SaltAppliedAnalyticalInc_NCCtApp1991
   authority: N.C. Ct. App.
@@ -34596,6 +34712,30 @@ references:
   type: legal_case
   volume: '930'
 
+- id: StateHischke_Iowa2002
+  authority: Iowa
+  citation-key: StateHischke_Iowa2002
+  container-title: NW 2d
+  issued:
+    - year: 2002
+  jurisdiction: Iowa
+  page: '6'
+  title: State v. Hischke
+  type: legal_case
+  volume: '639'
+
+- id: StateLensegrav_NewMexico2025
+  authority: New Mexico
+  citation-key: StateLensegrav_NewMexico2025
+  container-title: P. 3d
+  issued:
+    - year: 2025
+  jurisdiction: NM
+  page: '924'
+  title: State v. Lensegrav
+  type: legal_case
+  volume: '572'
+
 - id: StateWalMartStores_NYAppDiv3rdDept1995
   authority: N.Y. App. Div.
   citation-key: StateWalMartStores_NYAppDiv3rdDept1995
@@ -36000,6 +36140,17 @@ references:
   title-short: Race for Profit
   type: book
 
+- id: TaylorKavanagh_2ndCircuit1981
+  authority: 2nd Circuit
+  citation-key: TaylorKavanagh_2ndCircuit1981
+  container-title: F. 2d
+  issued:
+    - year: 1981
+  page: '450'
+  title: Taylor v. Kavanagh
+  type: legal_case
+  volume: '640'
+
 - id: TaylorSturgell_US2008
   authority: U.S.
   citation-key: TaylorSturgell_US2008
@@ -37178,6 +37329,17 @@ references:
   title: U.S. Constitution, Article IV
   type: legislation
 
+- id: USDeloitteLLP_DCCircuit2010
+  authority: D.C. Circuit
+  citation-key: USDeloitteLLP_DCCircuit2010
+  container-title: F. 3d
+  issued:
+    - year: 2010
+  page: '129'
+  title: US v. Deloitte LLP
+  type: legal_case
+  volume: '610'
+
 - id: USDeptofLabor2024
   author:
     - family: U.S. Dept. of Labor
@@ -37193,6 +37355,17 @@ references:
     Employee or Independent Contractor Classification Under the Fair Labor
     Standards Act (Final Rule)
   type: legislation
+
+- id: USLong_8thCircuit1988
+  authority: 8th Circuit
+  citation-key: USLong_8thCircuit1988
+  container-title: F. 2d
+  issued:
+    - year: 1988
+  page: '436'
+  title: US v. Long
+  type: legal_case
+  volume: '857'
 
 - id: USStein_SDNY2006
   authority: S.D.N.Y.
