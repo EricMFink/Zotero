@@ -5,17 +5,17 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   section: '1331'
-  title: Federal Question
+  title: 1331 Federal Question
   type: legislation
   volume: '28'
 
-- id: 1332DiversityCitizenship
-  citation-key: 1332DiversityCitizenship
+- id: 1332Diversity
+  citation-key: 1332Diversity
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
   section: '1332'
-  title: Diversity of Citizenship
+  title: 1332 Diversity of Citizenship
   type: legislation
   volume: '28'
 
@@ -25,7 +25,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '1367'
-  title: Supplemental Jurisdiction
+  title: 1367 Supplemental Jurisdiction
   type: legislation
   volume: '28'
 
@@ -69,25 +69,13 @@ references:
   type: legislation
   volume: '28'
 
-- id: 1652RDA
-  citation-key: 1652RDA
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1652'
-  title: State Law as Rules of Decision
-  type: legislation
-  volume: '28'
-
 - id: 1738FullFaithCredit
   citation-key: 1738FullFaithCredit
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
   section: '1738'
-  title: >-
-    State and Territorial statutes and judicial proceedings; full faith and
-    credit
+  title: 1738 Full Faith & Credit
   type: legislation
   volume: '28'
 
@@ -191,46 +179,6 @@ references:
   type: document
   URL: >-
     https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2022-formal-ethics-opinion-1/
-
-- id: 2071RuleMakingPower
-  citation-key: 2071RuleMakingPower
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '2071'
-  title: Rule-making power generally
-  type: legislation
-  volume: '28'
-
-- id: 2072RulesofProcedure
-  citation-key: 2072RulesofProcedure
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '2072'
-  title: Rules of procedure and evidence
-  type: legislation
-  volume: '28'
-
-- id: 2073MethodofProscribing
-  citation-key: 2073MethodofProscribing
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '2073'
-  title: Rules of procedure and evidence; method of proscribing
-  type: legislation
-  volume: '28'
-
-- id: 2074SubmissiontoCongress
-  citation-key: 2074SubmissiontoCongress
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '2074'
-  title: Rules of procedure and evidence; submission to Congress
-  type: legislation
-  volume: '28'
 
 - id: 2GroupsGiven_TheWashingtonPostandTimesHerald_1957
   abstract: >-
@@ -370,7 +318,7 @@ references:
   issued:
     - year: 2017
   title: A.B.A. Criminal Justice Standards for the Prosecution Function
-  type: standard
+  type: legislation
 
 - id: Abbott1988
   author:
@@ -807,12 +755,12 @@ references:
   type: article-journal
   volume: '10'
 
-- id: ADA1990
+- id: ADA
   accessed:
     - year: 2026
       month: 1
       day: 5
-  citation-key: ADA1990
+  citation-key: ADA
   container-title: U.S.C.
   container-title-short: U.S.C.
   issued:
@@ -1693,9 +1641,10 @@ references:
   volume: '126'
 
 - id: AngMartin_Washington2005
-  authority: Washington
+  authority: Wash.
   citation-key: AngMartin_Washington2005
-  container-title: P. 3d
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2005
   jurisdiction: Wash
@@ -2723,7 +2672,8 @@ references:
 - id: BatesStateBarAriz_US1977
   authority: U.S.
   citation-key: BatesStateBarAriz_US1977
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1977
   page: '350'
@@ -3226,9 +3176,10 @@ references:
   volume: '86'
 
 - id: BergerUnitedStates_US1935
-  authority: US
+  authority: U.S.
   citation-key: BergerUnitedStates_US1935
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1935
   page: '78'
@@ -3701,11 +3652,12 @@ references:
 - id: BlackWhiteTaxiCo_US1928
   authority: U.S.
   citation-key: BlackWhiteTaxiCo_US1928
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1928
   page: '518'
-  title: Black & White Taxi. Co. v. Brown & Yellow Taxi. Co.
+  title: Black & White Taxi Co. v. Brown & Yellow Taxi Co.
   type: legal_case
   volume: '276'
 
@@ -3895,7 +3847,7 @@ references:
   volume: '71'
 
 - id: BlumenthalKimberMfgInc_Connecticut2003
-  authority: Connecticut
+  authority: Conn.
   citation-key: BlumenthalKimberMfgInc_Connecticut2003
   container-title: Conn.
   container-title-short: Conn.
@@ -5026,7 +4978,7 @@ references:
   URL: https://papers.ssrn.com/abstract=223520
 
 - id: BrunnerAttar_TexApp1990
-  authority: Tex. App.
+  authority: Tex. Ct. App.
   citation-key: BrunnerAttar_TexApp1990
   container-title: S.W.2d
   container-title-short: S.W.2d
@@ -5558,6 +5510,14 @@ references:
     https://read.dukeupress.edu/labor/article/16/2/99/138628/Influence-without-BargainingUnionization-at-the
   volume: '16'
 
+- id: Cal16608EmployeeTrainingDebts
+  citation-key: Cal16608EmployeeTrainingDebts
+  container-title: Cal. Bus. & Prof. Code
+  container-title-short: Cal Bus Prof Code
+  section: '16608'
+  title: Contracts in Restraint of Trade (Employee Training Debts)
+  type: legislation
+
 - id: Calavita2014
   abstract: >-
     On 10 February 1999, Italy’s highest court of appeals overturned the
@@ -5630,11 +5590,33 @@ references:
   title-short: Invitation to Law and Society, Second Edition
   type: book
 
+- id: CalBPCode16600NonCompetes
+  citation-key: CalBPCode16600NonCompetes
+  container-title: Cal. Bus. & Prof. Code
+  container-title-short: Cal Bus Prof Code
+  section: 16600 et seq.
+  title: Contracts in Restraint of Trade (Noncompetition Agreements)
+  type: legislation
+
 - id: CaliforniaLongArm
   citation-key: CaliforniaLongArm
   container-title: Cal. Code Civ. Proc.
   section: '410.10'
-  title: Jurisdiction Exerciseable
+  title: California Long Arm
+  type: legislation
+
+- id: CalLabCode926EmployeeTrainingDebts
+  citation-key: CalLabCode926EmployeeTrainingDebts
+  container-title: Cal. Labor Code
+  section: '926'
+  title: Contracts Against Public Policy (Employee Training Debts)
+  type: legislation
+
+- id: CalLabCode980SocialMedia
+  citation-key: CalLabCode980SocialMedia
+  container-title: Cal. Labor Code
+  section: '980'
+  title: Employer Use of Social Media
   type: legislation
 
 - id: CamachoMajorLeagueBaseball_SDCal2013
@@ -5833,7 +5815,7 @@ references:
       month: 4
       day: 19
   page: '198'
-  title: Capital Associated Industries, Inc. v. Stein
+  title: Capital Assoc. Indus., Inc. v. Stein
   type: legal_case
   volume: '922'
 
@@ -6180,8 +6162,8 @@ references:
     - family: Casto
       given: William R
   citation-key: Casto1987
-  container-title: Tul. L. Rev.
-  container-title-short: Tul Rev
+  container-title: Tulane Law Review
+  container-title-short: Tulane Law Rev.
   issued:
     - year: 1987
   page: '907'
@@ -6755,7 +6737,7 @@ references:
     - year: 2001
   jurisdiction: ED Pennsylvania
   page: '193'
-  title: Clark Capital Management v. Annuity Investors Life Ins. Co.
+  title: Clark Capital Mgmt v. Annuity Inv'rs Life Ins. Co.
   type: legal_case
   volume: '149'
 
@@ -6801,9 +6783,10 @@ references:
   type: book
 
 - id: ClarkUnitedStates_US1933
-  authority: US
+  authority: U.S.
   citation-key: ClarkUnitedStates_US1933
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1933
   page: '1'
@@ -7067,6 +7050,18 @@ references:
   URL: www.jstor.org/stable/40342523
   volume: '14'
 
+- id: CohenBeneficialIndustrialLoan_US1949
+  authority: U.S.
+  citation-key: CohenBeneficialIndustrialLoan_US1949
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1949
+  page: '541'
+  title: Cohen v. Beneficial Indus. Loan Corp.
+  type: legal_case
+  volume: '337'
+
 - id: Coin2010
   abstract: >-
     This chapter analyzes the changes introduced in the U.S.-Mexico food-chain,
@@ -7110,7 +7105,7 @@ references:
   URL: https://iris.unive.it/handle/10278/30103
 
 - id: ColbornForestGoodEats_DistCourt2020
-  authority: Dist. Court
+  authority: E.D.N.C.
   citation-key: ColbornForestGoodEats_DistCourt2020
   issued:
     - year: 2020
@@ -7227,7 +7222,8 @@ references:
 - id: CommitteeProfEthicsEtc_Iowa1982
   authority: Iowa
   citation-key: CommitteeProfEthicsEtc_Iowa1982
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 1982
   jurisdiction: Iowa
@@ -7378,6 +7374,26 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/nclr82&i=1957
   volume: '82'
 
+- id: ConstitutionAmend14
+  citation-key: ConstitutionAmend14
+  title: U.S. Constitution, Amendment XIV
+  type: document
+
+- id: ConstitutionAmend5
+  citation-key: ConstitutionAmend5
+  title: U.S. Constitution, Amendment V
+  type: document
+
+- id: ConstitutionArt3
+  citation-key: ConstitutionArt3
+  title: U.S. Constitution, Article III
+  type: document
+
+- id: ConstitutionArt4
+  citation-key: ConstitutionArt4
+  title: U.S. Constitution, Article IV
+  type: document
+
 - id: ContemporaneousResidentialRealEstate_NCStateBar2021
   authority: N.C. State Bar
   citation-key: ContemporaneousResidentialRealEstate_NCStateBar2021
@@ -7455,29 +7471,6 @@ references:
   title-short: The Good Case
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.8
-
-- id: ContractsPublicPolicy_nd
-  citation-key: ContractsPublicPolicy_nd
-  container-title: Cal. Labor Code
-  section: '926'
-  title: Contracts Against Public Policy (Employee Training Debts)
-  type: legislation
-
-- id: ContractsRestraintTrade_nd
-  citation-key: ContractsRestraintTrade_nd
-  container-title: Cal. Bus. & Prof. Code
-  container-title-short: Cal Bus Prof Code
-  section: 16600 et seq.
-  title: Contracts in Restraint of Trade (Noncompetition Agreements)
-  type: legislation
-
-- id: ContractsRestraintTrade_nda
-  citation-key: ContractsRestraintTrade_nda
-  container-title: Cal. Bus. & Prof. Code
-  container-title-short: Cal Bus Prof Code
-  section: '16608'
-  title: Contracts in Restraint of Trade (Employee Training Debts)
-  type: legislation
 
 - id: Cooley2019
   author:
@@ -7590,7 +7583,7 @@ references:
   volume: '17'
 
 - id: CorpDoe_EDVirginia1992
-  authority: E.D. Virginia
+  authority: E.D. Va.
   citation-key: CorpDoe_EDVirginia1992
   container-title: F. Supp.
   issued:
@@ -7793,7 +7786,8 @@ references:
 - id: CraneCityArlingtonTexas_5thCir2022
   authority: 5th Cir.
   citation-key: CraneCityArlingtonTexas_5thCir2022
-  container-title: F. 4th
+  container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2022
       month: 9
@@ -7875,10 +7869,10 @@ references:
   type: book
 
 - id: CulpepperCarrollPLLCCole_Louisiana2006
-  authority: Louisiana
+  authority: La.
   citation-key: CulpepperCarrollPLLCCole_Louisiana2006
-  container-title: So. 2d
-  container-title-short: 2d
+  container-title: So.2d
+  container-title-short: So.2d
   issued:
     - year: 2006
       month: 4
@@ -8187,9 +8181,10 @@ references:
   volume: '571'
 
 - id: DaimlerChryslerCorpKirkhart_NCCourtofAppeals2002
-  authority: N.C. Court of Appeals
+  authority: N.C. Ct. App.
   citation-key: DaimlerChryslerCorpKirkhart_NCCourtofAppeals2002
-  container-title: SE 2d
+  container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2002
   jurisdiction: NC
@@ -8344,9 +8339,10 @@ references:
   URL: https://www.umassd.edu/cas/polisci/resources/us-district-court-database/
 
 - id: DaughertyRunner_KentuckyCourtofAppeals1978
-  authority: Kentucky Court of Appeals
+  authority: Ky. Ct. App.
   citation-key: DaughertyRunner_KentuckyCourtofAppeals1978
-  container-title: SW 2d
+  container-title: S.W.2d
+  container-title-short: S.W.2d
   issued:
     - year: 1978
   jurisdiction: Ky
@@ -8870,7 +8866,8 @@ references:
 - id: DisciplinaryCounselBlakeslee_Ohio2023
   authority: Ohio
   citation-key: DisciplinaryCounselBlakeslee_Ohio2023
-  container-title: NE 3d
+  container-title: N.E.3d
+  container-title-short: N.E.3d
   issued:
     - year: 2023
       month: 7
@@ -8884,7 +8881,8 @@ references:
 - id: DisciplinaryCounselBlakesleeII_Ohio2024
   authority: Ohio
   citation-key: DisciplinaryCounselBlakesleeII_Ohio2024
-  container-title: NE 3d
+  container-title: N.E.3d
+  container-title-short: N.E.3d
   issued:
     - year: 2024
       month: 6
@@ -8898,7 +8896,8 @@ references:
 - id: DisciplinaryCounselJarvis_Ohio2022
   authority: Ohio
   citation-key: DisciplinaryCounselJarvis_Ohio2022
-  container-title: NE 3d
+  container-title: N.E.3d
+  container-title-short: N.E.3d
   issued:
     - year: 2022
       month: 5
@@ -8912,7 +8911,8 @@ references:
 - id: DisciplinaryCounselSarver_Ohio2018
   authority: Ohio
   citation-key: DisciplinaryCounselSarver_Ohio2018
-  container-title: NE 3d
+  container-title: N.E.3d
+  container-title-short: N.E.3d
   issued:
     - year: 2018
   jurisdiction: Ohio
@@ -8924,7 +8924,8 @@ references:
 - id: DisciplinaryCounselSarver_Ohio2020
   authority: Ohio
   citation-key: DisciplinaryCounselSarver_Ohio2020
-  container-title: NE 3d
+  container-title: N.E.3d
+  container-title-short: N.E.3d
   issued:
     - year: 2020
   jurisdiction: Ohio
@@ -8937,7 +8938,7 @@ references:
   citation-key: DisciplineDisbarment_NCGenStat84-28
   container-title: N.C. Gen. Stat.
   section: 84-28
-  title: Discipline and disbarment
+  title: NCGS 84-28 Discipline and disbarment
   type: legislation
 
 - id: DiscriminationAmericanWorkersLaw_USEqualEmploymentOpportunityCommission_nd
@@ -8966,13 +8967,6 @@ references:
   title: Discrimination Because of Sex - Sexual harassment
   type: legislation
   volume: '29'
-
-- id: DiscriminationEngagementCertain_nd
-  citation-key: DiscriminationEngagementCertain_nd
-  container-title: NY Labor Law
-  section: 201-d
-  title: Discrimination Against the Engagement in Certain Activities
-  type: legislation
 
 - id: Dlugacz2011
   author:
@@ -9217,10 +9211,10 @@ references:
   volume: '39'
 
 - id: DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
-  authority: Pennsylvania Superior Court
+  authority: Pa. Super. Ct.
   citation-key: DoughertyPepperHamiltonLLP_PennsylvaniaSuperiorCourt2016
-  container-title: A. 3d
-  container-title-short: 3d
+  container-title: A.3d
+  container-title-short: A.3d
   issued:
     - year: 2016
   jurisdiction: Pa
@@ -10433,13 +10427,6 @@ references:
   title: Employee Duty of Loyalty to the Employer
   type: chapter
 
-- id: EmployerUseSocial_nd
-  citation-key: EmployerUseSocial_nd
-  container-title: Cal. Labor Code
-  section: '980'
-  title: Employer Use of Social Media
-  type: legislation
-
 - id: EmploymentCommissionChair_OBrien_TheNewYorkTimes_2026
   abstract: >-
     Andrea Lucas, the chair of the Equal Employment Opportunity Commission, has
@@ -10536,8 +10523,7 @@ references:
 
 - id: EnterpriseWireCo1966
   citation-key: EnterpriseWireCo1966
-  container-title: L.A.
-  container-title-short: L.A.
+  container-title: Lab. Arb. Rep.
   issued:
     - year: 1966
   page: '359'
@@ -11002,15 +10988,6 @@ references:
   type: legislation
   volume: '29'
 
-- id: FamilyMedicalLeave_nd
-  citation-key: FamilyMedicalLeave_nd
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: 2601 et seq.
-  title: Family and Medical Leave Act
-  type: legislation
-  volume: '29'
-
 - id: Fantasia1995
   abstract: >-
     Theorists recently have made strides in answering key questions about social
@@ -11165,11 +11142,6 @@ references:
   type: article-newspaper
   URL: https://newspapers.digitalnc.org/lccn/sn92073228/1955-04-20/ed-1/seq-1/
 
-- id: FedCiv
-  citation-key: FedCiv
-  title: Federal Rules of Civil Procedure
-  type: standard
-
 - id: FederalCourtAdoptsStricter_Quan_OgletreeDeakins2025
   abstract: >-
     On October 31, 2025, a federal district court ruled that the University of
@@ -11199,159 +11171,11 @@ references:
   URL: >-
     https://ogletree.com/insights-resources/blog-posts/federal-court-adopts-stricter-standard-for-employer-liability-in-third-party-harassment-cases/
 
-- id: FederalRulesCivilProcedure
-  citation-key: FederalRulesCivilProcedure
-  title: Federal Rules of Civil Procedure
-  type: standard
-
-- id: FederalRulesCivilProcedureRule1
-  citation-key: FederalRulesCivilProcedureRule1
-  title: Federal Rules of Civil Procedure Rule 1
-  type: standard
-
-- id: FederalRulesCivilProcedureRule10
-  citation-key: FederalRulesCivilProcedureRule10
-  title: Federal Rules of Civil Procedure Rule 10
-  type: standard
-
-- id: FederalRulesCivilProcedureRule11
-  citation-key: FederalRulesCivilProcedureRule11
-  title: Federal Rules of Civil Procedure Rule 11
-  type: standard
-
-- id: FederalRulesCivilProcedureRule12
-  citation-key: FederalRulesCivilProcedureRule12
-  title: Federal Rules of Civil Procedure Rule 12
-  type: standard
-
-- id: FederalRulesCivilProcedureRule13
-  citation-key: FederalRulesCivilProcedureRule13
-  title: Federal Rules of Civil Procedure Rule 13
-  type: standard
-
-- id: FederalRulesCivilProcedureRule14
-  citation-key: FederalRulesCivilProcedureRule14
-  title: Federal Rules of Civil Procedure Rule 14
-  type: standard
-
-- id: FederalRulesCivilProcedureRule15
-  citation-key: FederalRulesCivilProcedureRule15
-  title: Federal Rules of Civil Procedure Rule 15
-  type: standard
-
-- id: FederalRulesCivilProcedureRule16
-  citation-key: FederalRulesCivilProcedureRule16
-  title: Federal Rules of Civil Procedure Rule 16
-  type: standard
-
-- id: FederalRulesCivilProcedureRule17
-  citation-key: FederalRulesCivilProcedureRule17
-  title: Federal Rules of Civil Procedure Rule 17
-  type: standard
-
-- id: FederalRulesCivilProcedureRule18
-  citation-key: FederalRulesCivilProcedureRule18
-  title: Federal Rules of Civil Procedure Rule 18
-  type: standard
-
-- id: FederalRulesCivilProcedureRule19
-  citation-key: FederalRulesCivilProcedureRule19
-  title: Federal Rules of Civil Procedure Rule 19
-  type: standard
-
-- id: FederalRulesCivilProcedureRule2
-  citation-key: FederalRulesCivilProcedureRule2
-  title: Federal Rules of Civil Procedure Rule 2
-  type: standard
-
-- id: FederalRulesCivilProcedureRule20
-  citation-key: FederalRulesCivilProcedureRule20
-  title: Federal Rules of Civil Procedure Rule 20
-  type: standard
-
-- id: FederalRulesCivilProcedureRule21
-  citation-key: FederalRulesCivilProcedureRule21
-  title: Federal Rules of Civil Procedure Rule 21
-  type: standard
-
-- id: FederalRulesCivilProcedureRule22
-  citation-key: FederalRulesCivilProcedureRule22
-  title: Federal Rules of Civil Procedure Rule 22
-  type: standard
-
-- id: FederalRulesCivilProcedureRule23
-  citation-key: FederalRulesCivilProcedureRule23
-  title: Federal Rules of Civil Procedure Rule 23
-  type: standard
-
-- id: FederalRulesCivilProcedureRule24
-  citation-key: FederalRulesCivilProcedureRule24
-  title: Federal Rules of Civil Procedure Rule 24
-  type: standard
-
-- id: FederalRulesCivilProcedureRule25
-  citation-key: FederalRulesCivilProcedureRule25
-  title: Federal Rules of Civil Procedure Rule 25
-  type: standard
-
-- id: FederalRulesCivilProcedureRule26
-  citation-key: FederalRulesCivilProcedureRule26
-  title: Federal Rules of Civil Procedure Rule 26
-  type: standard
-
-- id: FederalRulesCivilProcedureRule3
-  citation-key: FederalRulesCivilProcedureRule3
-  title: Federal Rules of Civil Procedure Rule 3
-  type: standard
-
-- id: FederalRulesCivilProcedureRule4
-  citation-key: FederalRulesCivilProcedureRule4
-  title: Federal Rules of Civil Procedure Rule 4
-  type: standard
-
-- id: FederalRulesCivilProcedureRule42
-  citation-key: FederalRulesCivilProcedureRule42
-  title: Federal Rules of Civil Procedure Rule 42
-  type: standard
-
-- id: FederalRulesCivilProcedureRule5
-  citation-key: FederalRulesCivilProcedureRule5
-  title: Federal Rules of Civil Procedure Rule 5
-  type: standard
-
-- id: FederalRulesCivilProcedureRule55
-  citation-key: FederalRulesCivilProcedureRule55
-  title: Federal Rules of Civil Procedure Rule 55
-  type: standard
-
-- id: FederalRulesCivilProcedureRule56
-  citation-key: FederalRulesCivilProcedureRule56
-  title: Federal Rules of Civil Procedure Rule 56
-  type: standard
-
-- id: FederalRulesCivilProcedureRule6
-  citation-key: FederalRulesCivilProcedureRule6
-  title: Federal Rules of Civil Procedure Rule 6
-  type: standard
-
-- id: FederalRulesCivilProcedureRule7
-  citation-key: FederalRulesCivilProcedureRule7
-  title: Federal Rules of Civil Procedure Rule 7
-  type: standard
-
-- id: FederalRulesCivilProcedureRule8
-  citation-key: FederalRulesCivilProcedureRule8
-  title: Federal Rules of Civil Procedure Rule 8
-  type: standard
-
-- id: FederalRulesCivilProcedureRule9
-  citation-key: FederalRulesCivilProcedureRule9
-  title: Federal Rules of Civil Procedure Rule 9
-  type: standard
-
 - id: FederalRulesEvidenceRule502
   citation-key: FederalRulesEvidenceRule502
-  title: Federal Rules of Evidence Rule 502
+  genre: Fed. R. Evid.
+  number: '502'
+  title: Federal Rules of Evidence 502
   type: standard
 
 - id: FederalSecurityInc_NLRB2012
@@ -12434,10 +12258,10 @@ references:
   volume: '357'
 
 - id: FloridaBarPape_Florida2005
-  authority: Florida
+  authority: Fla.
   citation-key: FloridaBarPape_Florida2005
-  container-title: So. 2d
-  container-title-short: 2d
+  container-title: So.2d
+  container-title-short: So.2d
   issued:
     - year: 2005
       month: 11
@@ -12449,9 +12273,10 @@ references:
   volume: '918'
 
 - id: FloridaBarWentIt_US1995
-  authority: US
+  authority: U.S.
   citation-key: FloridaBarWentIt_US1995
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1995
   page: '618'
@@ -12470,6 +12295,15 @@ references:
   title: Fluor Daniel, Inc.
   type: legal_case
   volume: '311'
+
+- id: FMLA
+  citation-key: FMLA
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: 2601 et seq.
+  title: Family and Medical Leave Act
+  type: legislation
+  volume: '29'
 
 - id: Foner1965
   abstract: >-
@@ -12881,7 +12715,7 @@ references:
   issued:
     - year: 2021
   page: '351'
-  title: Ford Motor Co. v. Montana Eighth Judicial Dist. Court
+  title: Ford Motor Co. v. Montana Eighth Jud. Dist. Court
   type: legal_case
   volume: '592'
 
@@ -13054,6 +12888,186 @@ references:
   number: No. 20 Civ. 10495 (KPF)
   title: Franklin v. Vertex Global Solutions, Inc.
   type: legal_case
+
+- id: FRCP
+  citation-key: FRCP
+  container-title: Fed. R. Civ. P.
+  title: Federal Rules of Civil Procedure
+  type: legislation
+
+- id: FRCP1
+  citation-key: FRCP1
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 1
+  type: document
+
+- id: FRCP10
+  citation-key: FRCP10
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 10
+  type: document
+
+- id: FRCP11
+  citation-key: FRCP11
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 11
+  type: document
+
+- id: FRCP12
+  citation-key: FRCP12
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 12
+  type: document
+
+- id: FRCP13
+  citation-key: FRCP13
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 13
+  type: document
+
+- id: FRCP14
+  citation-key: FRCP14
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 14
+  type: document
+
+- id: FRCP15
+  citation-key: FRCP15
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 15
+  type: document
+
+- id: FRCP16
+  citation-key: FRCP16
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 16
+  type: document
+
+- id: FRCP17
+  citation-key: FRCP17
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 17
+  type: document
+
+- id: FRCP18
+  citation-key: FRCP18
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 18
+  type: document
+
+- id: FRCP19
+  citation-key: FRCP19
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 19
+  type: document
+
+- id: FRCP2
+  citation-key: FRCP2
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 2
+  type: document
+
+- id: FRCP20
+  citation-key: FRCP20
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 20
+  type: document
+
+- id: FRCP21
+  citation-key: FRCP21
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 21
+  type: document
+
+- id: FRCP22
+  citation-key: FRCP22
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 22
+  type: document
+
+- id: FRCP23
+  citation-key: FRCP23
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 23
+  type: document
+
+- id: FRCP24
+  citation-key: FRCP24
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 24
+  type: document
+
+- id: FRCP25
+  citation-key: FRCP25
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 25
+  type: document
+
+- id: FRCP26
+  citation-key: FRCP26
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 26
+  type: document
+
+- id: FRCP3
+  citation-key: FRCP3
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 3
+  type: document
+
+- id: FRCP4
+  citation-key: FRCP4
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 4
+  type: document
+
+- id: FRCP42
+  citation-key: FRCP42
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 42
+  type: document
+
+- id: FRCP5
+  citation-key: FRCP5
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 5
+  type: document
+
+- id: FRCP55
+  citation-key: FRCP55
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 55
+  type: document
+
+- id: FRCP56
+  citation-key: FRCP56
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 56
+  type: document
+
+- id: FRCP6
+  citation-key: FRCP6
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 6
+  type: document
+
+- id: FRCP7
+  citation-key: FRCP7
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 7
+  type: document
+
+- id: FRCP8
+  citation-key: FRCP8
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 8
+  type: document
+
+- id: FRCP9
+  citation-key: FRCP9
+  genre: Fed. R. Civ. P.
+  title: Fed. R. Civ. P. Rule 9
+  type: document
 
 - id: Freed1990
   author:
@@ -13475,8 +13489,8 @@ references:
     - family: Frye
       given: Brian L
   citation-key: Frye2018
-  container-title: Akron L. Rev.
-  container-title-short: Akron Rev
+  container-title: Akron Law Review
+  container-title-short: Akron Law Rev.
   issued:
     - year: 2018
   page: '531'
@@ -15018,8 +15032,8 @@ references:
     - family: Green
       given: Bruce A.
   citation-key: Green2022
-  container-title: Conn. L. Rev.
-  container-title-short: Conn Rev
+  container-title: Connecticut Law Review
+  container-title-short: Conn. Law Rev.
   issued:
     - year: 2022
   language: en
@@ -15565,6 +15579,18 @@ references:
   type: post-weblog
   URL: >-
     https://jewish-heritage-europe.eu/2018/07/08/on-the-road-in-cz-a-holocaust-memorial/
+
+- id: GuarantyTrustCoYork_US1945
+  authority: U.S.
+  citation-key: GuarantyTrustCoYork_US1945
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1945
+  page: '99'
+  title: Guaranty Trust Co. v. York
+  type: legal_case
+  volume: '326'
 
 - id: GuardsmarkNLRB_DCCircuit2007
   authority: D.C. Circuit
@@ -16753,14 +16779,15 @@ references:
   volume: '41'
 
 - id: HillmanNuecesCounty_Texas2019
-  authority: Texas
+  authority: Tex.
   citation-key: HillmanNuecesCounty_Texas2019
-  container-title: SW 3d
+  container-title: S.W.3d
+  container-title-short: S.W.3d
   issued:
     - year: 2019
   jurisdiction: Tex
   page: '354'
-  title: Hillman v. Nueces County
+  title: Hillman v. Nueces Cty.
   type: legal_case
   volume: '579'
 
@@ -17257,7 +17284,8 @@ references:
 - id: HunterEarthgrainsCoBakery_4thCir2001
   authority: 4th Cir.
   citation-key: HunterEarthgrainsCoBakery_4thCir2001
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2001
   page: '144'
@@ -17266,9 +17294,10 @@ references:
   volume: '281'
 
 - id: HunterVirginiaStateBar_Virginia2013
-  authority: Virginia
+  authority: Va.
   citation-key: HunterVirginiaStateBar_Virginia2013
-  container-title: SE 2d
+  container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2013
   jurisdiction: Va
@@ -17406,14 +17435,6 @@ references:
   title: The Ethics of Guardians ad Litem in Family Law
   type: article-journal
   URL: https://scholarlycommons.law.hofstra.edu/hofstra_law_student_works/15
-
-- id: ImmunityCivilLiability2021
-  citation-key: ImmunityCivilLiability2021
-  container-title: N.C.G.S.
-  container-title-short: N.C.G.S.
-  section: 1-539.12
-  title: Immunity from Civil Liability for Employers Disclosing Information
-  type: legislation
 
 - id: Ingalls1997
   archive: JSTOR
@@ -17589,7 +17610,7 @@ references:
   volume: '112'
 
 - id: IshmaelMillington_CaliforniaCourtofAppeal1966
-  authority: California Court of Appeal
+  authority: Cal. Ct. App.
   citation-key: IshmaelMillington_CaliforniaCourtofAppeal1966
   container-title: Cal. App. 2d
   issued:
@@ -17728,7 +17749,8 @@ references:
 - id: JanjuaNeufeld_9thCir2019
   authority: 9th Cir.
   citation-key: JanjuaNeufeld_9thCir2019
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2019
       month: 8
@@ -18271,7 +18293,8 @@ references:
 - id: JohnsonGriffin_6thCir2023
   authority: 6th Cir.
   citation-key: JohnsonGriffin_6thCir2023
-  container-title: F. 4th
+  container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2023
   page: '429'
@@ -18305,7 +18328,8 @@ references:
 - id: JohnsonSpencer_10thCir2020
   authority: 10th Cir.
   citation-key: JohnsonSpencer_10thCir2020
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2020
       month: 2
@@ -18425,7 +18449,8 @@ references:
 - id: JonesFordMotorCredit_2ndCir2004
   authority: 2nd Cir.
   citation-key: JonesFordMotorCredit_2ndCir2004
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2004
       month: 2
@@ -18436,10 +18461,10 @@ references:
   volume: '358'
 
 - id: JonesUS_DCCourtofAppeals2003
-  authority: D.C. Court of Appeals
+  authority: D.C. Ct. App.
   citation-key: JonesUS_DCCourtofAppeals2003
-  container-title: A. 2d
-  container-title-short: 2d
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 2003
   jurisdiction: DC
@@ -19827,7 +19852,7 @@ references:
   URL: https://doi.org/10.1093/jleo/ewac008
 
 - id: KMartCorpStoreNo_TexApp1984
-  authority: Tex. App.
+  authority: Tex. Ct. App.
   citation-key: KMartCorpStoreNo_TexApp1984
   container-title: S.W.2d
   container-title-short: S.W.2d
@@ -19840,9 +19865,10 @@ references:
   volume: '677'
 
 - id: KnowlesMirzayance_SupremeCourt2009
-  authority: Supreme Court
+  authority: U.S.
   citation-key: KnowlesMirzayance_SupremeCourt2009
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2009
   page: '111'
@@ -20684,14 +20710,6 @@ references:
   URL: https://doi.org/10.1007/s11133-013-9263-7
   volume: '36'
 
-- id: LawfulUseLawful1992
-  citation-key: LawfulUseLawful1992
-  container-title: N.C.G.S.
-  container-title-short: N.C.G.S.
-  section: 95-28.2
-  title: Lawful Use of Lawful Products during Nonworking Hours
-  type: legislation
-
 - id: LawJournalLibrary_nd
   accessed:
     - year: 2025
@@ -20791,9 +20809,10 @@ references:
   volume: '468'
 
 - id: LeeUnitedStates_SupremeCourt2017
-  authority: Supreme Court
+  authority: U.S.
   citation-key: LeeUnitedStates_SupremeCourt2017
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2017
   page: '357'
@@ -20880,7 +20899,8 @@ references:
 - id: LehmanRevolutionPortfolioLLC_1stCir1999
   authority: 1st Cir.
   citation-key: LehmanRevolutionPortfolioLLC_1stCir1999
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 1999
       month: 1
@@ -21950,8 +21970,8 @@ references:
       day: 18
   language: en
   title: >-
-    Today in legislative history: Ordinance of Labourers passed to stop plebs
-    bettering wages/conditions, 1349
+    Today in Legislative History: Ordinance of Labourers Passed to Stop Plebs
+    Bettering Wages/Conditions, 1349
   title-short: Ordinance of Labourers
   type: post-weblog
   URL: >-
@@ -22550,10 +22570,10 @@ references:
   type: article-journal
 
 - id: MakinsDistrictColumbia_DCCourtofAppeals2004
-  authority: D.C. Court of Appeals
+  authority: D.C. Ct.  App.
   citation-key: MakinsDistrictColumbia_DCCourtofAppeals2004
-  container-title: A. 2d
-  container-title-short: 2d
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 2004
   jurisdiction: DC
@@ -22755,8 +22775,8 @@ references:
     - family: Marcus
       given: David
   citation-key: Marcus2009
-  container-title: Ga. L. Rev.
-  container-title-short: Ga Rev
+  container-title: Georgia Law Review
+  container-title-short: Ga. Law Rev.
   issued:
     - year: 2009
   page: '433'
@@ -22829,9 +22849,10 @@ references:
   volume: '7'
 
 - id: MarkerGreenberg_Minnesota1981
-  authority: Minnesota
+  authority: Minn.
   citation-key: MarkerGreenberg_Minnesota1981
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 1981
   jurisdiction: Minn
@@ -23181,14 +23202,15 @@ references:
       given: Martin
   type: book
 
-- id: MassachusettsNoncompetitionAgreement_nd
+- id: MassachusettsNoncompetitionAgreement
   accessed:
     - year: 2025
       month: 11
       day: 22
-  citation-key: MassachusettsNoncompetitionAgreement_nd
-  container-title: General Law - Part I, Title XXI, Chapter 149, Section 24L
-  container-title-short: Gen. Law - Part Title XXI Chapter 149 Sect. 24L
+  citation-key: MassachusettsNoncompetitionAgreement
+  container-title: General Law - Part I, Title XXI, Chap. 149
+  container-title-short: Gen. Law - Part Title XXI Chap 149
+  section: 24L
   title: Massachusetts Noncompetition Agreement Act
   type: legislation
 
@@ -23307,7 +23329,8 @@ references:
 - id: MatterAnonymous_NYAppDiv3rdDept2009
   authority: N.Y. App. Div.
   citation-key: MatterAnonymous_NYAppDiv3rdDept2009
-  container-title: AD 3d
+  container-title: A.D.2d
+  container-title-short: A.D.2d
   issued:
     - year: 2009
       month: 4
@@ -23321,7 +23344,8 @@ references:
 - id: MatterAnonymous_NYAppDiv3rdDept2023
   authority: N.Y. App. Div.
   citation-key: MatterAnonymous_NYAppDiv3rdDept2023
-  container-title: AD 3d
+  container-title: A.D.2d
+  container-title-short: A.D.2d
   issued:
     - year: 2023
       month: 6
@@ -23335,7 +23359,8 @@ references:
 - id: MatterCooperman_NY1994
   authority: N.Y.
   citation-key: MatterCooperman_NY1994
-  container-title: NE 2d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     - year: 1994
   jurisdiction: NY
@@ -23401,7 +23426,8 @@ references:
 - id: MatterDisciplineLeavitt_Utah2025
   authority: Utah
   citation-key: MatterDisciplineLeavitt_Utah2025
-  container-title: P. 3d
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2025
       month: 2
@@ -23413,7 +23439,7 @@ references:
   volume: '579'
 
 - id: MatterFordham_Massachusetts1996
-  authority: Massachusetts
+  authority: Mass.
   citation-key: MatterFordham_Massachusetts1996
   container-title: Mass.
   container-title-short: Mass.
@@ -23421,19 +23447,20 @@ references:
     - year: 1996
   jurisdiction: Mass
   page: '481'
-  title: In the Matter of Fordham
+  title: Matter of Fordham
   type: legal_case
   volume: '423'
 
 - id: MatterGrandJuryInvestigation_Massachusetts2009
-  authority: Massachusetts
+  authority: Mass.
   citation-key: MatterGrandJuryInvestigation_Massachusetts2009
-  container-title: NE 2d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     - year: 2009
   jurisdiction: Mass
   page: '929'
-  title: In the Matter of a Grand Jury Investigation
+  title: In re Grand Jury Investigation
   type: legal_case
   volume: '902'
 
@@ -23491,22 +23518,23 @@ references:
   volume: '138'
 
 - id: MatterSilva_RhodeIsland1994
-  authority: Rhode Island
+  authority: R.I.
   citation-key: MatterSilva_RhodeIsland1994
-  container-title: A. 2d
-  container-title-short: 2d
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 1994
   jurisdiction: RI
   page: '316'
-  title: In the Matter of Silva
+  title: Matter of Silva
   type: legal_case
   volume: '636'
 
 - id: MatterTennant_Montana2017
-  authority: Montana
+  authority: Mont.
   citation-key: MatterTennant_Montana2017
-  container-title: P. 3d
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2017
       month: 3
@@ -24114,7 +24142,7 @@ references:
   volume: '95'
 
 - id: McClureThompson_9thCircuit2003
-  authority: 9th Circuit
+  authority: 9th Cir.
   citation-key: McClureThompson_9thCircuit2003
   container-title: F. 3d
   issued:
@@ -24787,7 +24815,7 @@ references:
     - year: 2025
       month: 11
       day: 2
-  authority: 2d Cir.
+  authority: 2nd Cir.
   citation-key: MexicanRadioCorpNLRB_2dCir2019
   container-title: Fed.Appx.
   container-title-short: Fed.Appx.
@@ -25282,291 +25310,6 @@ references:
   type: article-journal
   volume: '16'
 
-- id: ModelRulesProfessionalConductPreambleScope
-  citation-key: ModelRulesProfessionalConductPreambleScope
-  title: Model Rules of Professional Conduct Preamble & Scope
-  type: standard
-
-- id: ModelRulesProfessionalConductRule10
-  citation-key: ModelRulesProfessionalConductRule10
-  title: Model Rules of Professional Conduct Rule 1.0
-  type: standard
-
-- id: ModelRulesProfessionalConductRule11
-  citation-key: ModelRulesProfessionalConductRule11
-  title: Model Rules of Professional Conduct Rule 1.1
-  type: standard
-
-- id: ModelRulesProfessionalConductRule110
-  citation-key: ModelRulesProfessionalConductRule110
-  title: Model Rules of Professional Conduct Rule 1.10
-  type: standard
-
-- id: ModelRulesProfessionalConductRule111
-  citation-key: ModelRulesProfessionalConductRule111
-  title: Model Rules of Professional Conduct Rule 1.11
-  type: standard
-
-- id: ModelRulesProfessionalConductRule112
-  citation-key: ModelRulesProfessionalConductRule112
-  title: Model Rules of Professional Conduct Rule 1.12
-  type: standard
-
-- id: ModelRulesProfessionalConductRule113
-  citation-key: ModelRulesProfessionalConductRule113
-  title: Model Rules of Professional Conduct Rule 1.13
-  type: standard
-
-- id: ModelRulesProfessionalConductRule114
-  citation-key: ModelRulesProfessionalConductRule114
-  title: Model Rules of Professional Conduct Rule 1.14
-  type: standard
-
-- id: ModelRulesProfessionalConductRule115
-  citation-key: ModelRulesProfessionalConductRule115
-  title: Model Rules of Professional Conduct Rule 1.15
-  type: standard
-
-- id: ModelRulesProfessionalConductRule116
-  citation-key: ModelRulesProfessionalConductRule116
-  title: Model Rules of Professional Conduct Rule 1.16
-  type: standard
-
-- id: ModelRulesProfessionalConductRule117
-  citation-key: ModelRulesProfessionalConductRule117
-  title: Model Rules of Professional Conduct Rule 1.17
-  type: standard
-
-- id: ModelRulesProfessionalConductRule118
-  citation-key: ModelRulesProfessionalConductRule118
-  title: Model Rules of Professional Conduct Rule 1.18
-  type: standard
-
-- id: ModelRulesProfessionalConductRule12
-  citation-key: ModelRulesProfessionalConductRule12
-  title: Model Rules of Professional Conduct Rule 1.2
-  type: standard
-
-- id: ModelRulesProfessionalConductRule13
-  citation-key: ModelRulesProfessionalConductRule13
-  title: Model Rules of Professional Conduct Rule 1.3
-  type: standard
-
-- id: ModelRulesProfessionalConductRule14
-  citation-key: ModelRulesProfessionalConductRule14
-  title: Model Rules of Professional Conduct Rule 1.4
-  type: standard
-
-- id: ModelRulesProfessionalConductRule15
-  citation-key: ModelRulesProfessionalConductRule15
-  title: Model Rules of Professional Conduct Rule 1.5
-  type: standard
-
-- id: ModelRulesProfessionalConductRule16
-  citation-key: ModelRulesProfessionalConductRule16
-  title: Model Rules of Professional Conduct Rule 1.6
-  type: standard
-
-- id: ModelRulesProfessionalConductRule17
-  citation-key: ModelRulesProfessionalConductRule17
-  title: Model Rules of Professional Conduct Rule 1.7
-  type: standard
-
-- id: ModelRulesProfessionalConductRule18
-  citation-key: ModelRulesProfessionalConductRule18
-  title: Model Rules of Professional Conduct Rule 1.8
-  type: standard
-
-- id: ModelRulesProfessionalConductRule19
-  citation-key: ModelRulesProfessionalConductRule19
-  title: Model Rules of Professional Conduct Rule 1.9
-  type: standard
-
-- id: ModelRulesProfessionalConductRule21
-  citation-key: ModelRulesProfessionalConductRule21
-  title: Model Rules of Professional Conduct Rule 2.1
-  type: standard
-
-- id: ModelRulesProfessionalConductRule23
-  citation-key: ModelRulesProfessionalConductRule23
-  title: Model Rules of Professional Conduct Rule 2.3
-  type: standard
-
-- id: ModelRulesProfessionalConductRule24
-  citation-key: ModelRulesProfessionalConductRule24
-  title: Model Rules of Professional Conduct Rule 2.4
-  type: standard
-
-- id: ModelRulesProfessionalConductRule31
-  citation-key: ModelRulesProfessionalConductRule31
-  title: Model Rules of Professional Conduct Rule 3.1
-  type: standard
-
-- id: ModelRulesProfessionalConductRule32
-  citation-key: ModelRulesProfessionalConductRule32
-  title: Model Rules of Professional Conduct Rule 3.2
-  type: standard
-
-- id: ModelRulesProfessionalConductRule33
-  citation-key: ModelRulesProfessionalConductRule33
-  title: Model Rules of Professional Conduct Rule 3.3
-  type: standard
-
-- id: ModelRulesProfessionalConductRule34
-  citation-key: ModelRulesProfessionalConductRule34
-  title: Model Rules of Professional Conduct Rule 3.4
-  type: standard
-
-- id: ModelRulesProfessionalConductRule35
-  citation-key: ModelRulesProfessionalConductRule35
-  title: Model Rules of Professional Conduct Rule 3.5
-  type: standard
-
-- id: ModelRulesProfessionalConductRule36
-  citation-key: ModelRulesProfessionalConductRule36
-  title: Model Rules of Professional Conduct Rule 3.6
-  type: standard
-
-- id: ModelRulesProfessionalConductRule37
-  citation-key: ModelRulesProfessionalConductRule37
-  title: Model Rules of Professional Conduct Rule 3.7
-  type: standard
-
-- id: ModelRulesProfessionalConductRule38
-  citation-key: ModelRulesProfessionalConductRule38
-  title: Model Rules of Professional Conduct Rule 3.8
-  type: standard
-
-- id: ModelRulesProfessionalConductRule39
-  citation-key: ModelRulesProfessionalConductRule39
-  title: Model Rules of Professional Conduct Rule 3.9
-  type: standard
-
-- id: ModelRulesProfessionalConductRule41
-  citation-key: ModelRulesProfessionalConductRule41
-  title: Model Rules of Professional Conduct Rule 4.1
-  type: standard
-
-- id: ModelRulesProfessionalConductRule42
-  citation-key: ModelRulesProfessionalConductRule42
-  title: Model Rules of Professional Conduct Rule 4.2
-  type: standard
-
-- id: ModelRulesProfessionalConductRule43
-  citation-key: ModelRulesProfessionalConductRule43
-  title: Model Rules of Professional Conduct Rule 4.3
-  type: standard
-
-- id: ModelRulesProfessionalConductRule44
-  citation-key: ModelRulesProfessionalConductRule44
-  title: Model Rules of Professional Conduct Rule 4.4
-  type: standard
-
-- id: ModelRulesProfessionalConductRule51
-  citation-key: ModelRulesProfessionalConductRule51
-  title: Model Rules of Professional Conduct Rule 5.1
-  type: standard
-
-- id: ModelRulesProfessionalConductRule52
-  citation-key: ModelRulesProfessionalConductRule52
-  title: Model Rules of Professional Conduct Rule 5.2
-  type: standard
-
-- id: ModelRulesProfessionalConductRule53
-  citation-key: ModelRulesProfessionalConductRule53
-  title: Model Rules of Professional Conduct Rule 5.3
-  type: standard
-
-- id: ModelRulesProfessionalConductRule54
-  citation-key: ModelRulesProfessionalConductRule54
-  title: Model Rules of Professional Conduct Rule 5.4
-  type: standard
-
-- id: ModelRulesProfessionalConductRule55
-  citation-key: ModelRulesProfessionalConductRule55
-  title: Model Rules of Professional Conduct Rule 5.5
-  type: standard
-
-- id: ModelRulesProfessionalConductRule56
-  citation-key: ModelRulesProfessionalConductRule56
-  title: Model Rules of Professional Conduct Rule 5.6
-  type: standard
-
-- id: ModelRulesProfessionalConductRule57
-  citation-key: ModelRulesProfessionalConductRule57
-  title: Model Rules of Professional Conduct Rule 5.7
-  type: standard
-
-- id: ModelRulesProfessionalConductRule61
-  citation-key: ModelRulesProfessionalConductRule61
-  title: Model Rules of Professional Conduct Rule 6.1
-  type: standard
-
-- id: ModelRulesProfessionalConductRule62
-  citation-key: ModelRulesProfessionalConductRule62
-  title: Model Rules of Professional Conduct Rule 6.2
-  type: standard
-
-- id: ModelRulesProfessionalConductRule63
-  citation-key: ModelRulesProfessionalConductRule63
-  title: Model Rules of Professional Conduct Rule 6.3
-  type: standard
-
-- id: ModelRulesProfessionalConductRule64
-  citation-key: ModelRulesProfessionalConductRule64
-  title: Model Rules of Professional Conduct Rule 6.4
-  type: standard
-
-- id: ModelRulesProfessionalConductRule65
-  citation-key: ModelRulesProfessionalConductRule65
-  title: Model Rules of Professional Conduct Rule 6.5
-  type: standard
-
-- id: ModelRulesProfessionalConductRule71
-  citation-key: ModelRulesProfessionalConductRule71
-  title: Model Rules of Professional Conduct Rule 7.1
-  type: standard
-
-- id: ModelRulesProfessionalConductRule72
-  citation-key: ModelRulesProfessionalConductRule72
-  title: Model Rules of Professional Conduct Rule 7.2
-  type: standard
-
-- id: ModelRulesProfessionalConductRule73
-  citation-key: ModelRulesProfessionalConductRule73
-  title: Model Rules of Professional Conduct Rule 7.3
-  type: standard
-
-- id: ModelRulesProfessionalConductRule76
-  citation-key: ModelRulesProfessionalConductRule76
-  title: Model Rules of Professional Conduct Rule 7.6
-  type: standard
-
-- id: ModelRulesProfessionalConductRule81
-  citation-key: ModelRulesProfessionalConductRule81
-  title: Model Rules of Professional Conduct Rule 8.1
-  type: standard
-
-- id: ModelRulesProfessionalConductRule82
-  citation-key: ModelRulesProfessionalConductRule82
-  title: Model Rules of Professional Conduct Rule 8.2
-  type: standard
-
-- id: ModelRulesProfessionalConductRule83
-  citation-key: ModelRulesProfessionalConductRule83
-  title: Model Rules of Professional Conduct Rule 8.3
-  type: standard
-
-- id: ModelRulesProfessionalConductRule84
-  citation-key: ModelRulesProfessionalConductRule84
-  title: Model Rules of Professional Conduct Rule 8.4
-  type: standard
-
-- id: ModelRulesProfessionalConductRule85
-  citation-key: ModelRulesProfessionalConductRule85
-  title: Model Rules of Professional Conduct Rule 8.5
-  type: standard
-
 - id: ModiseCareOneHealthServices_DConn2022
   authority: D. Conn.
   citation-key: ModiseCareOneHealthServices_DConn2022
@@ -25678,8 +25421,8 @@ references:
   title: Montana Farm Animal and Research Facility Protection Act
   type: legislation
 
-- id: MontanaWrongfulDischarge_nd
-  citation-key: MontanaWrongfulDischarge_nd
+- id: MontanaWrongfulDischarge
+  citation-key: MontanaWrongfulDischarge
   container-title: Mont. Code Ann.
   section: 39-2-901 et seq.
   title: Montana Wrongful Discharge from Employment Act
@@ -25786,7 +25529,7 @@ references:
   volume: '43'
 
 - id: MooreBaker_11thCircuit1993
-  authority: 11th Circuit
+  authority: 11th Cir.
   citation-key: MooreBaker_11thCircuit1993
   container-title: F. 2d
   issued:
@@ -26106,6 +25849,291 @@ references:
   type: webpage
   URL: https://www.movementlawlab.org
 
+- id: MRPC10
+  citation-key: MRPC10
+  title: MRPC Rule 1.0
+  type: document
+
+- id: MRPC11
+  citation-key: MRPC11
+  title: MRPC Rule 1.1
+  type: document
+
+- id: MRPC110
+  citation-key: MRPC110
+  title: MRPC Rule 1.10
+  type: document
+
+- id: MRPC111
+  citation-key: MRPC111
+  title: MRPC Rule 1.11
+  type: document
+
+- id: MRPC112
+  citation-key: MRPC112
+  title: MRPC Rule 1.12
+  type: document
+
+- id: MRPC113
+  citation-key: MRPC113
+  title: MRPC Rule 1.13
+  type: document
+
+- id: MRPC114
+  citation-key: MRPC114
+  title: MRPC Rule 1.14
+  type: document
+
+- id: MRPC115
+  citation-key: MRPC115
+  title: MRPC Rule 1.15
+  type: document
+
+- id: MRPC116
+  citation-key: MRPC116
+  title: MRPC Rule 1.16
+  type: document
+
+- id: MRPC117
+  citation-key: MRPC117
+  title: MRPC Rule 1.17
+  type: document
+
+- id: MRPC118
+  citation-key: MRPC118
+  title: MRPC Rule 1.18
+  type: document
+
+- id: MRPC12
+  citation-key: MRPC12
+  title: MRPC Rule 1.2
+  type: document
+
+- id: MRPC13
+  citation-key: MRPC13
+  title: MRPC Rule 1.3
+  type: document
+
+- id: MRPC14
+  citation-key: MRPC14
+  title: MRPC Rule 1.4
+  type: document
+
+- id: MRPC15
+  citation-key: MRPC15
+  title: MRPC Rule 1.5
+  type: document
+
+- id: MRPC16
+  citation-key: MRPC16
+  title: MRPC Rule 1.6
+  type: document
+
+- id: MRPC17
+  citation-key: MRPC17
+  title: MRPC Rule 1.7
+  type: document
+
+- id: MRPC18
+  citation-key: MRPC18
+  title: MRPC Rule 1.8
+  type: document
+
+- id: MRPC19
+  citation-key: MRPC19
+  title: MRPC Rule 1.9
+  type: document
+
+- id: MRPC21
+  citation-key: MRPC21
+  title: MRPC Rule 2.1
+  type: document
+
+- id: MRPC23
+  citation-key: MRPC23
+  title: MRPC Rule 2.3
+  type: document
+
+- id: MRPC24
+  citation-key: MRPC24
+  title: MRPC Rule 2.4
+  type: document
+
+- id: MRPC31
+  citation-key: MRPC31
+  title: MRPC Rule 3.1
+  type: document
+
+- id: MRPC32
+  citation-key: MRPC32
+  title: MRPC Rule 3.2
+  type: document
+
+- id: MRPC33
+  citation-key: MRPC33
+  title: MRPC Rule 3.3
+  type: document
+
+- id: MRPC34
+  citation-key: MRPC34
+  title: MRPC Rule 3.4
+  type: document
+
+- id: MRPC35
+  citation-key: MRPC35
+  title: MRPC Rule 3.5
+  type: document
+
+- id: MRPC36
+  citation-key: MRPC36
+  title: MRPC Rule 3.6
+  type: document
+
+- id: MRPC37
+  citation-key: MRPC37
+  title: MRPC Rule 3.7
+  type: document
+
+- id: MRPC38
+  citation-key: MRPC38
+  title: MRPC Rule 3.8
+  type: document
+
+- id: MRPC39
+  citation-key: MRPC39
+  title: MRPC Rule 3.9
+  type: document
+
+- id: MRPC41
+  citation-key: MRPC41
+  title: MRPC Rule 4.1
+  type: document
+
+- id: MRPC42
+  citation-key: MRPC42
+  title: MRPC Rule 4.2
+  type: document
+
+- id: MRPC43
+  citation-key: MRPC43
+  title: MRPC Rule 4.3
+  type: document
+
+- id: MRPC44
+  citation-key: MRPC44
+  title: MRPC Rule 4.4
+  type: document
+
+- id: MRPC51
+  citation-key: MRPC51
+  title: MRPC Rule 5.1
+  type: document
+
+- id: MRPC52
+  citation-key: MRPC52
+  title: MRPC Rule 5.2
+  type: document
+
+- id: MRPC53
+  citation-key: MRPC53
+  title: MRPC Rule 5.3
+  type: document
+
+- id: MRPC54
+  citation-key: MRPC54
+  title: MRPC Rule 5.4
+  type: document
+
+- id: MRPC55
+  citation-key: MRPC55
+  title: MRPC Rule 5.5
+  type: document
+
+- id: MRPC56
+  citation-key: MRPC56
+  title: MRPC Rule 5.6
+  type: document
+
+- id: MRPC57
+  citation-key: MRPC57
+  title: MRPC Rule 5.7
+  type: document
+
+- id: MRPC61
+  citation-key: MRPC61
+  title: MRPC Rule 6.1
+  type: document
+
+- id: MRPC62
+  citation-key: MRPC62
+  title: MRPC Rule 6.2
+  type: document
+
+- id: MRPC63
+  citation-key: MRPC63
+  title: MRPC Rule 6.3
+  type: document
+
+- id: MRPC64
+  citation-key: MRPC64
+  title: MRPC Rule 6.4
+  type: document
+
+- id: MRPC65
+  citation-key: MRPC65
+  title: MRPC Rule 6.5
+  type: document
+
+- id: MRPC71
+  citation-key: MRPC71
+  title: MRPC Rule 7.1
+  type: document
+
+- id: MRPC72
+  citation-key: MRPC72
+  title: MRPC Rule 7.2
+  type: document
+
+- id: MRPC73
+  citation-key: MRPC73
+  title: MRPC Rule 7.3
+  type: document
+
+- id: MRPC76
+  citation-key: MRPC76
+  title: MRPC Rule 7.6
+  type: document
+
+- id: MRPC81
+  citation-key: MRPC81
+  title: MRPC Rule 8.1
+  type: document
+
+- id: MRPC82
+  citation-key: MRPC82
+  title: MRPC Rule 8.2
+  type: document
+
+- id: MRPC83
+  citation-key: MRPC83
+  title: MRPC Rule 8.3
+  type: document
+
+- id: MRPC84
+  citation-key: MRPC84
+  title: MRPC Rule 8.4
+  type: document
+
+- id: MRPC85
+  citation-key: MRPC85
+  title: MRPC Rule 8.5
+  type: document
+
+- id: MRPCPreambleScope
+  citation-key: MRPCPreambleScope
+  title: MRPC Preamble & Scope
+  type: document
+
 - id: MuldrowCityStLouis_US2024
   authority: U.S.
   citation-key: MuldrowCityStLouis_US2024
@@ -26266,7 +26294,8 @@ references:
 - id: NAACPButton_US1963
   authority: U.S.
   citation-key: NAACPButton_US1963
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1963
   page: '415'
@@ -26417,7 +26446,8 @@ references:
 - id: NationalSatelliteSports_6thCir2001
   authority: 6th Cir.
   citation-key: NationalSatelliteSports_6thCir2001
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2001
   page: '900'
@@ -26442,7 +26472,8 @@ references:
 - id: NBAPropertiesIncHanwjh_7thCir2022
   authority: 7th Cir.
   citation-key: NBAPropertiesIncHanwjh_7thCir2022
-  container-title: F. 4th
+  container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2022
   page: '614'
@@ -26452,11 +26483,20 @@ references:
 
 - id: NCBoardLawExaminersCharacterFitness
   citation-key: NCBoardLawExaminersCharacterFitness
-  title: N.C. Board of Law Examiners, Character and Fitness Guidelines
-  type: standard
+  title: N.C. Bd. of Law Examiners, Character & Fitness Guidelines
+  title-short: Character & Fitness Guidelines
+  type: document
 
-- id: NCEmploymentSecurity_nd
-  citation-key: NCEmploymentSecurity_nd
+- id: NCEmployerImmunityDisclosure
+  citation-key: NCEmployerImmunityDisclosure
+  container-title: N.C.G.S.
+  container-title-short: N.C.G.S.
+  section: 1-539.12
+  title: Immunity from Civil Liability for Employers Disclosing Information
+  type: legislation
+
+- id: NCEmploymentSecurity
+  citation-key: NCEmploymentSecurity
   container-title: N.C.G.S.
   container-title-short: N.C.G.S.
   section: 96-1 et seq.
@@ -26469,6 +26509,14 @@ references:
   container-title-short: N.C.G.S.
   section: 7A-759
   title: Office of Administrative Hearings--Role as Deferral Agency
+  type: legislation
+
+- id: NCLawfulUseLawfulProducts
+  citation-key: NCLawfulUseLawfulProducts
+  container-title: N.C.G.S.
+  container-title-short: N.C.G.S.
+  section: 95-28.2
+  title: Lawful Use of Lawful Products during Nonworking Hours
   type: legislation
 
 - id: NCPropertyProtection2016
@@ -26488,8 +26536,8 @@ references:
   title: NC Property Protection Act
   type: legislation
 
-- id: NCRetaliatoryEmployment_nd
-  citation-key: NCRetaliatoryEmployment_nd
+- id: NCRetaliatoryEmployment
+  citation-key: NCRetaliatoryEmployment
   container-title: N.C.G.S.
   container-title-short: N.C.G.S.
   section: 95-240 et seq.
@@ -26498,8 +26546,9 @@ references:
 
 - id: NCRulesProfessional_Rule86
   citation-key: NCRulesProfessional_Rule86
-  number: Rule 8.6
-  title: N.C. Rules of Professional Conduct
+  genre: N.C.R.P.C.
+  number: '8.6'
+  title: N.C. Rules of Professional Conduct 8.6
   type: standard
 
 - id: NCStateBarEthridge_NCApp2008
@@ -26530,16 +26579,16 @@ references:
   type: legal_case
   volume: '303'
 
-- id: NCWageHour_nd
-  citation-key: NCWageHour_nd
+- id: NCWageHour
+  citation-key: NCWageHour
   container-title: N.C.G.S.
   container-title-short: N.C.G.S.
   section: 95-25.1 et seq.
   title: North Carolina Wage & Hour Act
   type: legislation
 
-- id: NCWorkersCompensation_nd
-  citation-key: NCWorkersCompensation_nd
+- id: NCWorkersCompensation
+  citation-key: NCWorkersCompensation
   container-title: N.C.G.S.
   container-title-short: N.C.G.S.
   section: 97-1 et seq.
@@ -26956,9 +27005,10 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.33
 
 - id: NiesigTeam_NewYorkAppDiv2ndDept1989
-  authority: N.Y, App. Div.
+  authority: N.Y. App. Div.
   citation-key: NiesigTeam_NewYorkAppDiv2ndDept1989
-  container-title: AD 2d
+  container-title: A.D.2d
+  container-title-short: A.D.2d
   issued:
     - year: 1989
   jurisdiction: NY
@@ -26996,9 +27046,10 @@ references:
     https://www.nytimes.com/2026/02/04/business/eeoc-nike-white-employee-discrimination.html
 
 - id: NixWhiteside_US1986
-  authority: US
+  authority: U.S.
   citation-key: NixWhiteside_US1986
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1986
   page: '157'
@@ -27068,7 +27119,8 @@ references:
 - id: NLRBJonesLaughlinSteel_US1937
   authority: U.S.
   citation-key: NLRBJonesLaughlinSteel_US1937
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1937
   page: '1'
@@ -27260,7 +27312,7 @@ references:
     - year: 2026
       month: 8
       day: 8
-  authority: N.C. Court of Appeals
+  authority: N.C. Ct. App.
   citation-key: NorthCarolinaStateBar_NCCourtofAppeals2019
   issued:
     - year: 2019
@@ -27313,7 +27365,8 @@ references:
 - id: NuStarFarmsLLCZylstra_Iowa2016
   authority: Iowa
   citation-key: NuStarFarmsLLCZylstra_Iowa2016
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 2016
       month: 5
@@ -27324,11 +27377,28 @@ references:
   type: legal_case
   volume: '880'
 
+- id: NYEmpDiscrimPoliticalRecreationalActivity
+  citation-key: NYEmpDiscrimPoliticalRecreationalActivity
+  container-title: NY Labor Law
+  section: 201-d
+  title: Discrimination Against the Engagement in Certain Activities
+  type: legislation
+
 - id: NYLongArm
   citation-key: NYLongArm
   container-title: NY CPLR
   section: '302'
-  title: Personal Jurisdiction by Act of Non-Domiciliaries
+  title: NY Long Arm
+  type: legislation
+
+- id: NYTrappedWorkAct2025
+  citation-key: NYTrappedWorkAct2025
+  container-title: NY Labor Law, Art. 37
+  container-title-short: NY Labor Law Art 37
+  issued:
+    - year: 2025
+  section: 1050 et seq.
+  title: Trapped at Work Act
   type: legislation
 
 - id: NYURemoved2_Goldstein_TheNewYorkTimes_2024
@@ -27437,8 +27507,8 @@ references:
   URL: http://search.proquest.com/docview/2352142311/abstract/5B13AF4F8A2249D0PQ/1
   volume: '25'
 
-- id: OccupationalSafetyHealth_nd
-  citation-key: OccupationalSafetyHealth_nd
+- id: OccupationalSafetyHealth
+  citation-key: OccupationalSafetyHealth
   container-title: U.S.C.
   container-title-short: U.S.C.
   section: 641 et seq.
@@ -27570,9 +27640,10 @@ references:
   volume: '3'
 
 - id: OhralikOhioStateBar_US1978
-  authority: US
+  authority: U.S.
   citation-key: OhralikOhioStateBar_US1978
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1978
   page: '447'
@@ -27841,7 +27912,7 @@ references:
       day: 10
   jurisdiction: ND Ohio
   number: No. 3:17CV228
-  title: Ottawa Township Bd. of Trustees v. New Par (I)
+  title: Ottawa Twp. v. New Par (I)
   type: legal_case
 
 - id: OttawaTownshipII_NDOhio2017
@@ -27853,7 +27924,7 @@ references:
       day: 10
   jurisdiction: ND Ohio
   number: No. 3:17CV228
-  title: Ottawa Township Bd. of Trustees v. New Par (II)
+  title: Ottawa Twp. v. New Par (II)
   type: legal_case
 
 - id: OverviewUnconstitutionalConditionsDoctrine_ConstitutionAnnotated_nd
@@ -27976,7 +28047,8 @@ references:
 - id: PaceTimmermannsRanchSaddle_7thCir2014
   authority: 7th Cir.
   citation-key: PaceTimmermannsRanchSaddle_7thCir2014
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2014
   page: '748'
@@ -28152,7 +28224,8 @@ references:
 - id: PassaroVirginia_4thCir2019
   authority: 4th Cir.
   citation-key: PassaroVirginia_4thCir2019
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2019
       month: 8
@@ -28399,7 +28472,7 @@ references:
   type: legal_case
 
 - id: PeopleBelge_NYCountyCourtOnandagaCounty1975
-  authority: N.Y. County Court, Onandaga County
+  authority: N.Y. Cty .Ct., Onandaga Cty.
   citation-key: PeopleBelge_NYCountyCourtOnandagaCounty1975
   container-title: Misc. 2d
   issued:
@@ -28411,9 +28484,10 @@ references:
   volume: '83'
 
 - id: PeopleDePallo_NewYork2001
-  authority: New York
+  authority: N.Y.
   citation-key: PeopleDePallo_NewYork2001
-  container-title: NE 2d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     - year: 2001
   jurisdiction: NY
@@ -29573,7 +29647,7 @@ references:
   citation-key: PracticeLawDefined_NCGenStat84-21
   container-title: N.C. Gen. Stat.
   section: 84-2.1
-  title: '"Practice law" defined'
+  title: NCGS 84-21 Practice of law defined
   type: legislation
 
 - id: >-
@@ -29665,6 +29739,7 @@ references:
   volume: '35'
 
 - id: PughSeesCandiesInc1981
+  authority: Cal. Ct. App.
   citation-key: PughSeesCandiesInc1981
   container-title: Cal. App. 3d
   issued:
@@ -29975,6 +30050,18 @@ references:
   type: article-journal
   volume: '26'
 
+- id: RaganMerchantsTransferWarehouse_US1949
+  authority: U.S.
+  citation-key: RaganMerchantsTransferWarehouse_US1949
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1949
+  page: '530'
+  title: Ragan v. Merchants Transfer & Warehouse Co.
+  type: legal_case
+  volume: '337'
+
 - id: RajKumar2022
   abstract: >-
     COVID-19 is a deadly pandemic that has impacted all walks of human life. As
@@ -30044,6 +30131,56 @@ references:
   type: legal_case
   volume: '951'
 
+- id: RDA1652
+  citation-key: RDA1652
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1652'
+  title: RDA 1652
+  type: legislation
+  volume: '28'
+
+- id: REA2071
+  citation-key: REA2071
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2071'
+  title: REA 2071
+  type: legislation
+  volume: '28'
+
+- id: REA2072
+  citation-key: REA2072
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2072'
+  title: REA 2072
+  type: legislation
+  volume: '28'
+
+- id: REA2073
+  citation-key: REA2073
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2073'
+  title: REA 2073
+  type: legislation
+  volume: '28'
+
+- id: REA2074
+  citation-key: REA2074
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2074'
+  title: REA 2074
+  type: legislation
+  volume: '28'
+
 - id: ReClark_NCApp2010
   authority: NC App.
   citation-key: ReClark_NCApp2010
@@ -30059,9 +30196,10 @@ references:
   volume: '688'
 
 - id: ReConverse_Nebraska1999
-  authority: Nebraska
+  authority: Neb.
   citation-key: ReConverse_Nebraska1999
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 1999
   jurisdiction: Neb
@@ -30222,14 +30360,15 @@ references:
   URL: https://www.proquest.com/docview/112101406/abstract/C7C6757E0ED14FACPQ/92
 
 - id: ReDisciplinaryProceedingHaley_Washington2006
-  authority: Washington
+  authority: Wash.
   citation-key: ReDisciplinaryProceedingHaley_Washington2006
-  container-title: P. 3d
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2006
   jurisdiction: Wash
   page: '1262'
-  title: In re Disciplinary Proceeding Against Haley
+  title: In re Disciplinary Proc. Against Haley
   type: legal_case
   volume: '126'
 
@@ -30286,13 +30425,13 @@ references:
   URL: https://www.proquest.com/docview/113096505/abstract/C7C6757E0ED14FACPQ/90
 
 - id: ReDresserIndustriesInc_5thCircuit1992
-  authority: 5th Circuit
+  authority: 5th Cir.
   citation-key: ReDresserIndustriesInc_5thCircuit1992
   container-title: F. 2d
   issued:
     - year: 1992
   page: '540'
-  title: In re Dresser Industries, Inc.
+  title: In re Dresser Indus., Inc.
   type: legal_case
   volume: '972'
 
@@ -30350,7 +30489,7 @@ references:
   volume: '37'
 
 - id: ReGrandJurySubpoena_4thCircuit2005
-  authority: 4th Circuit
+  authority: 4th Cir.
   citation-key: ReGrandJurySubpoena_4thCircuit2005
   container-title: F. 3d
   issued:
@@ -30421,10 +30560,10 @@ references:
   volume: '462'
 
 - id: ReJordan_Louisiana2005
-  authority: Louisiana
+  authority: La.
   citation-key: ReJordan_Louisiana2005
-  container-title: So. 2d
-  container-title-short: 2d
+  container-title: So.2d
+  container-title-short: So.2d
   issued:
     - year: 2005
       month: 6
@@ -30436,9 +30575,10 @@ references:
   volume: '913'
 
 - id: ReLitz_Indiana1999
-  authority: Indiana
+  authority: Ind.
   citation-key: ReLitz_Indiana1999
-  container-title: NE 2d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     - year: 1999
   jurisdiction: Ind
@@ -30448,9 +30588,10 @@ references:
   volume: '721'
 
 - id: ReMorse_Georgia2013
-  authority: Georgia
+  authority: Ga.
   citation-key: ReMorse_Georgia2013
-  container-title: SE 2d
+  container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     - year: 2013
   jurisdiction: Ga
@@ -30462,7 +30603,8 @@ references:
 - id: ReNageleisen_EDKyBankr2014
   authority: E.D. Ky., Bankr.
   citation-key: ReNageleisen_EDKyBankr2014
-  container-title: BR
+  container-title: B.R.
+  container-title-short: B.R.
   issued:
     - year: 2014
       month: 12
@@ -30559,9 +30701,10 @@ references:
   volume: '2013'
 
 - id: RePrimus_US1978
-  authority: US
+  authority: U.S.
   citation-key: RePrimus_US1978
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1978
   page: '412'
@@ -30581,10 +30724,10 @@ references:
   volume: '158'
 
 - id: ReRiehlmann_Louisiana2005
-  authority: Louisiana
+  authority: La
   citation-key: ReRiehlmann_Louisiana2005
-  container-title: So. 2d
-  container-title-short: 2d
+  container-title: So.2d
+  container-title-short: So.2d
   issued:
     - year: 2005
       month: 1
@@ -30596,10 +30739,10 @@ references:
   volume: '891'
 
 - id: ReRoots_RhodeIsland2000
-  authority: Rhode Island
+  authority: R.I.
   citation-key: ReRoots_RhodeIsland2000
-  container-title: A. 2d
-  container-title-short: 2d
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 2000
   jurisdiction: RI
@@ -30649,19 +30792,21 @@ references:
 
 - id: Rest2dJudgments
   citation-key: Rest2dJudgments
+  genre: Rest. (2d) of Judgments
   title: Rest. (2d) of Judgments
   type: standard
 
 - id: Rest2dLawGoverningLawyers
   citation-key: Rest2dLawGoverningLawyers
+  genre: Rest. (2d) of the Law Governing Lawyers
   title: Rest. (2d) of the Law Governing Lawyers
   type: standard
 
 - id: ReStateGrandJury_NewJersey2009
-  authority: New Jersey
+  authority: N.J.
   citation-key: ReStateGrandJury_NewJersey2009
-  container-title: A. 2d
-  container-title-short: 2d
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     - year: 2009
   jurisdiction: NJ
@@ -31279,7 +31424,7 @@ references:
 
 - id: RulesGoverningAdmission_2727NCAdminCode030600
   citation-key: RulesGoverningAdmission_2727NCAdminCode030600
-  container-title: 27 N.C. Admin Code
+  container-title: N.C. Admin Code
   section: 03 .0600
   title: >-
     Rules Governing Admission to the Practice of Law in the State of North
@@ -31288,7 +31433,7 @@ references:
   volume: '27'
 
 - id: RulonMillerInternationalBusMachines_CalApp1984
-  authority: Cal. App.
+  authority: Cal. Ct. App.
   citation-key: RulonMillerInternationalBusMachines_CalApp1984
   container-title: Cal. App. 3d
   issued:
@@ -31314,9 +31459,7 @@ references:
   ISSN: 0081-9557
   issued:
     - year: 2001
-      month: 1
   page: 347–374
-  publisher: The University of Chicago Press
   source: www-journals-uchicago-edu.elon.idm.oclc.org (Atypon)
   title: International Shoe and the Legacy of Legal Realism
   type: article-journal
@@ -31433,7 +31576,7 @@ references:
   type: book
 
 - id: SaladiniRighellisGoldstein_Massachusetts1997
-  authority: Massachusetts
+  authority: Mass.
   citation-key: SaladiniRighellisGoldstein_Massachusetts1997
   container-title: Mass.
   container-title-short: Mass.
@@ -31441,7 +31584,7 @@ references:
     - year: 1997
   jurisdiction: Mass
   page: '231'
-  title: Saladini v. Righellis; Goldstein
+  title: Saladini v. Righellis
   type: legal_case
   volume: '426'
 
@@ -32911,7 +33054,7 @@ references:
   volume: '2012'
 
 - id: ScudderWoodbridge_Georgia1846
-  authority: Georgia
+  authority: Ga.
   citation-key: ScudderWoodbridge_Georgia1846
   container-title: Ga.
   container-title-short: Ga.
@@ -34386,9 +34529,10 @@ references:
   volume: '18'
 
 - id: SouthernPacificCoJensen_US1917
-  authority: U.S
+  authority: U.S.
   citation-key: SouthernPacificCoJensen_US1917
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1917
   page: '205'
@@ -34715,7 +34859,8 @@ references:
 - id: StateHischke_Iowa2002
   authority: Iowa
   citation-key: StateHischke_Iowa2002
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 2002
   jurisdiction: Iowa
@@ -34725,9 +34870,10 @@ references:
   volume: '639'
 
 - id: StateLensegrav_NewMexico2025
-  authority: New Mexico
+  authority: N.M.
   citation-key: StateLensegrav_NewMexico2025
-  container-title: P. 3d
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     - year: 2025
   jurisdiction: NM
@@ -34874,6 +35020,8 @@ references:
 - id: StericycleInc_NLRB2023
   authority: N.L.R.B.
   citation-key: StericycleInc_NLRB2023
+  container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
   issued:
     - year: 2023
       month: 8
@@ -35134,7 +35282,8 @@ references:
       day: 11
   authority: 5th Cir.
   citation-key: StoutVincent_5thCir2018
-  container-title: Fed. Appx.
+  container-title: Fed. App'x.
+  container-title-short: Fed Appx
   issued:
     - year: 2018
   page: '468'
@@ -35253,9 +35402,10 @@ references:
   type: book
 
 - id: StricklandWashington_SupremeCourt1984
-  authority: Supreme Court
+  authority: U.S.
   citation-key: StricklandWashington_SupremeCourt1984
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1984
   page: '668'
@@ -36141,7 +36291,7 @@ references:
   type: book
 
 - id: TaylorKavanagh_2ndCircuit1981
-  authority: 2nd Circuit
+  authority: 2nd Cir.
   citation-key: TaylorKavanagh_2ndCircuit1981
   container-title: F. 2d
   issued:
@@ -36356,7 +36506,7 @@ references:
   type: book
 
 - id: TeslaInc_NLRB2021
-  authority: NLRB
+  authority: N.L.R.B.
   citation-key: TeslaInc_NLRB2021
   container-title: N.L.R.B.
   container-title-short: N.L.R.B.
@@ -36521,7 +36671,7 @@ references:
   type: book
 
 - id: ThreeLLCTriplePlay_2dCir2015
-  authority: 2d Cir.
+  authority: 2nd Cir.
   citation-key: ThreeLLCTriplePlay_2dCir2015
   container-title: Fed. App'x
   container-title-short: Fed Appx
@@ -36705,9 +36855,10 @@ references:
   volume: '351'
 
 - id: TogstadVeselyOttoMiller_Minnesota1980
-  authority: Minnesota
+  authority: Minn.
   citation-key: TogstadVeselyOttoMiller_Minnesota1980
-  container-title: NW 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     - year: 1980
   jurisdiction: Minn
@@ -36797,16 +36948,6 @@ references:
   title: We Are All Salts
   type: article-magazine
   URL: https://labornotes.org/2023/05/viewpoint-we-are-all-salts
-
-- id: TrappedWorkAct2025
-  citation-key: TrappedWorkAct2025
-  container-title: NY Labor Law, Art. 37
-  container-title-short: NY Labor Law Art 37
-  issued:
-    - year: 2025
-  section: 1050 et seq.
-  title: Trapped at Work Act
-  type: legislation
 
 - id: Traverso1995
   abstract: >-
@@ -37277,9 +37418,10 @@ references:
   volume: '86'
 
 - id: UpjohnCoUnitedStates_US1981
-  authority: US
+  authority: U.S.
   citation-key: UpjohnCoUnitedStates_US1981
-  container-title: US
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 1981
   page: '383'
@@ -37309,28 +37451,8 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/152417738/abstract/C7C6757E0ED14FACPQ/44
 
-- id: USConstitutionAmendment14
-  citation-key: USConstitutionAmendment14
-  title: U.S. Constitution, Amendment XIV
-  type: legislation
-
-- id: USConstitutionAmendment5
-  citation-key: USConstitutionAmendment5
-  title: U.S. Constitution, Amendment V
-  type: legislation
-
-- id: USConstitutionArticle3
-  citation-key: USConstitutionArticle3
-  title: U.S. Constitution, Article III
-  type: legislation
-
-- id: USConstitutionArticle5
-  citation-key: USConstitutionArticle5
-  title: U.S. Constitution, Article IV
-  type: legislation
-
 - id: USDeloitteLLP_DCCircuit2010
-  authority: D.C. Circuit
+  authority: D.C. Cir.
   citation-key: USDeloitteLLP_DCCircuit2010
   container-title: F. 3d
   issued:
@@ -37357,7 +37479,7 @@ references:
   type: legislation
 
 - id: USLong_8thCircuit1988
-  authority: 8th Circuit
+  authority: 8th Cir.
   citation-key: USLong_8thCircuit1988
   container-title: F. 2d
   issued:
@@ -38383,7 +38505,7 @@ references:
   volume: '353'
 
 - id: WhitingLacara_2ndCircuit1999
-  authority: 2nd Circuit
+  authority: 2nd Cir.
   citation-key: WhitingLacara_2ndCircuit1999
   container-title: F. 3d
   issued:
@@ -38630,7 +38752,8 @@ references:
 - id: WilliamsMitchell_4thCir2024
   authority: 4th Cir.
   citation-key: WilliamsMitchell_4thCir2024
-  container-title: F. 4th
+  container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2024
       month: 11
@@ -38865,6 +38988,18 @@ references:
   title: 'Democracy Against Capitalism: Renewing Historical Materialism'
   title-short: Democracy Against Capitalism
   type: book
+
+- id: WoodsInterstateRealtyCo_US1949
+  authority: U.S.
+  citation-key: WoodsInterstateRealtyCo_US1949
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1949
+  page: '535'
+  title: Woods v. Interstate Realty Co.
+  type: legal_case
+  volume: '337'
 
 - id: WoodWard_SDOhio1879
   authority: S.D. Ohio
