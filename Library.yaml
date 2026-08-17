@@ -1853,6 +1853,18 @@ references:
   title-short: Arkansas Labeling
   type: legal_case
 
+- id: ArkansasLabelingIncTim_EDArk2022
+  authority: E.D. Ark.
+  citation-key: ArkansasLabelingIncTim_EDArk2022
+  issued:
+    - year: 2022
+      month: 7
+      day: 22
+  jurisdiction: ED Arkansas
+  number: No. 4:19-cv-00773-KGB
+  title: Arkansas Labeling, Inc. v. Tim Proctor, Label Edge, Llc
+  type: legal_case
+
 - id: ArkuWellsFargoBank_WDNC2022
   authority: W.D.N.C.
   citation-key: ArkuWellsFargoBank_WDNC2022
@@ -6323,6 +6335,17 @@ references:
   title-short: Bad Samaritans
   type: book
 
+- id: CheyTacIncKnesek_ArkCirCt2022
+  authority: Ark. Cir. Ct.
+  citation-key: CheyTacIncKnesek_ArkCirCt2022
+  issued:
+    - year: 2022
+      month: 8
+      day: 31
+  number: No. 17CV-21-174
+  title: Chey-Tac, Inc. v. Knesek
+  type: legal_case
+
 - id: Chhoy2024
   author:
     - family: Chhoy
@@ -7192,6 +7215,20 @@ references:
   title: 'Representing Radicals: A Guide for Lawyers and Movements'
   title-short: Representing Radicals
   type: book
+
+- id: Colwell2026
+  author:
+    - family: Colwell
+      given: Annie R.
+  citation-key: Colwell2026
+  container-title: Iowa Law Review
+  container-title-short: Iowa Law Rev.
+  issued:
+    - year: 2026
+  page: '1241'
+  title: 'Fielding the Truth: Iowa''s Ag-Gag Laws and the Sowing of Silence'
+  type: article-journal
+  volume: '111'
 
 - id: ComanThomasMfgCo_NC1989
   authority: N.C.
@@ -36985,9 +37022,9 @@ references:
   title: Social Movements, 1768 - 2018
   type: book
 
-- id: TimberAutomation_Complaint2020
+- id: TimberAutomationLLCFiberPro_WDArk2020
   authority: W.D. Ark.
-  citation-key: TimberAutomation_Complaint2020
+  citation-key: TimberAutomationLLCFiberPro_WDArk2020
   container-title: WL
   issued:
     - year: 2020
@@ -37357,9 +37394,9 @@ references:
   type: legal_case
   volume: '767'
 
-- id: TuckerAutoMation_Complaint2017
+- id: TuckerAutoMationNorthCarolina_MDNC2017
   authority: M.D.N.C.
-  citation-key: TuckerAutoMation_Complaint2017
+  citation-key: TuckerAutoMationNorthCarolina_MDNC2017
   container-title: WL
   issued:
     - year: 2017
@@ -37367,7 +37404,7 @@ references:
       day: 10
   number: 1:15-cv-893
   page: '2930926'
-  title: Tucker-Auto-Mation of North Carolina, LLC v. Rutledge
+  title: Tucker Auto-Mation of North Carolina, LLC v. Rutledge
   title-short: Tucker-Auto-Mation
   type: legal_case
   volume: '2017'
