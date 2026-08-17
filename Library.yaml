@@ -1552,7 +1552,6 @@ references:
   title: >-
     Private Government: How Employers Rule Our Lives (and Why We Don't Talk
     about It)
-  title-short: Private Government
   type: book
 
 - id: Anderson2019
@@ -2132,30 +2131,9 @@ references:
   issued:
     - year: 2012
   page: '535'
-  title: Austin Maintenance v. Crowder Construction
+  title: Austin Maint. v. Crowder Const.
   type: legal_case
   volume: '742'
-
-- id: Backhouse2016
-  author:
-    - family: Backhouse
-      given: Constance
-  citation-key: Backhouse2016
-  container-title: International Journal of the Legal Profession
-  container-title-short: Int. J. Leg. Prof.
-  DOI: 10.1080/09695958.2016.1229188
-  ISSN: 0969-5958
-  issue: '1'
-  issued:
-    - literal: 2016-09-0013
-  note: |-
-    Select: zotero://select/library/items/TELWXGQS
-    Saved from BrowZine: https://thirdiron.com/download
-  page: 55–59
-  title: Contesting the Legal Culture of Professionalism
-  type: article-journal
-  URL: http://www.tandfonline.com/doi/full/10.1080/09695958.2016.1229188
-  volume: '24'
 
 - id: Bacon2012
   accessed:
@@ -6133,7 +6111,6 @@ references:
   title: >-
     It's Not Just the Contract, It's Capitalism: Inequality and the Restatement
     of Employment Law Chapter on Termination
-  title-short: It's Not Just the Contract, It's Capitalism
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght21&i=331
   volume: '21'
@@ -6830,7 +6807,7 @@ references:
   issued:
     - year: 2020
   page: '404'
-  title: Clayton v. Delmarva Community Services, Inc.
+  title: Clayton v. Delmarva Community Svcs., Inc.
   type: legal_case
   volume: '447'
 
@@ -8207,7 +8184,6 @@ references:
       month: 4
   page: '36'
   title: 'Salting the Earth: Organizing for the Long Haul'
-  title-short: Salting the Earth
   type: article-journal
 
 - id: DaltonCamp_NC2001
@@ -10148,7 +10124,6 @@ references:
     - year: 1978
   page: '556'
   title: Eastex, Inc. v. NLRB
-  title-short: Eastex
   type: legal_case
   volume: '437'
 
@@ -10251,7 +10226,7 @@ references:
     - year: 2013
   jurisdiction: D. New Jersey
   page: '659'
-  title: Ehling v. Monmouth-Ocean Hosp. Service Corp.
+  title: Ehling v. Monmouth-Ocean Hosp. Svc. Corp.
   type: legal_case
   volume: '961'
 
@@ -10853,7 +10828,6 @@ references:
     Examining Union ‘Salting’ Abuses and Organizing Tactics That Harm the U.S.
     Economy: Hearing before the Subcomm. on Employer-Employee Relations of the
     H. Comm. on Education and the Workforce
-  title-short: Examining Union Salting Abuses
   type: hearing
   URL: https://www.congress.gov/event/108th-congress/house-event/LC14997/text
 
@@ -13405,7 +13379,6 @@ references:
     - year: 2023
   page: '463'
   title: 'Work Accidents: A Drama in Three Acts'
-  title-short: Work Accidents
   type: article-journal
   URL: https://scholarlycommons.law.hofstra.edu/hlelj/vol40/iss2/5/
   volume: '40'
@@ -13443,7 +13416,7 @@ references:
   issued:
     - year: 2021
   page: '356'
-  title: Frilando v. New York City Transit Authority
+  title: Frilando v. New York City Transit Auth.
   type: legal_case
   volume: '513'
 
@@ -16572,7 +16545,7 @@ references:
       month: 8
       day: 14
   page: '1126'
-  title: Henry v. Adventist Health Castle Medical Center
+  title: Henry v. Adventist Health Castle Med. Ctr.
   type: legal_case
   volume: '970'
 
@@ -17642,7 +17615,7 @@ references:
   issued:
     - year: 2015
   page: '687'
-  title: Jackson v. N.C. Department of Commerce
+  title: Jackson v. N.C. Dept. of Commerce
   type: legal_case
   volume: '775'
 
@@ -18657,7 +18630,7 @@ references:
   issued:
     - year: 2008
   page: '412'
-  title: Kadlec Medical v. Lakeview Anesthesia Associates
+  title: Kadlec Medical v. Lakeview Anesthesia Assocs.
   type: legal_case
   volume: '527'
 
@@ -19092,7 +19065,7 @@ references:
     - year: 2022
   jurisdiction: NC
   page: '567'
-  title: Keith v. Health-Pro Home Care Services
+  title: Keith v. Health-Pro Home Care Svcs.
   type: legal_case
   volume: '873'
 
@@ -19462,7 +19435,7 @@ references:
   issued:
     - year: 2015
   page: '370'
-  title: Ketner v. Branch Banking and Trust Company
+  title: Ketner v. Branch Banking and Trust Co.
   type: legal_case
   volume: '143'
 
@@ -20267,7 +20240,7 @@ references:
   issued:
     - year: 1997
   page: '420'
-  title: Kurtzman v. Applied Analytical Industries, Inc
+  title: Kurtzman v. Applied Analytical Indus., Inc
   type: legal_case
   volume: '493'
 
@@ -21972,7 +21945,6 @@ references:
   title: >-
     Today in Legislative History: Ordinance of Labourers Passed to Stop Plebs
     Bettering Wages/Conditions, 1349
-  title-short: Ordinance of Labourers
   type: post-weblog
   URL: >-
     https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
@@ -25221,7 +25193,6 @@ references:
   title: >-
     "Don't Sleep with Stevens!": The J. P. Stevens Boycott and Social Activism
     in the 1970s
-  title-short: Don't Sleep with Stevens!
   type: article-journal
   URL: https://www.jstor.org/stable/27557695
   volume: '39'
@@ -25319,7 +25290,7 @@ references:
       month: 11
       day: 1
   page: '159'
-  title: Modise v. CareOne Health Services, LLC
+  title: Modise v. CareOne Health Svcs., LLC
   type: legal_case
   volume: '638'
 
@@ -27100,7 +27071,6 @@ references:
     - year: 1984
   page: '822'
   title: NLRB v. City Disposal Systems, Inc.
-  title-short: City Disposal
   type: legal_case
   volume: '465'
 
@@ -27177,7 +27147,6 @@ references:
     - year: 1995
   page: '85'
   title: NLRB v. Town & Country Elec., Inc.
-  title-short: Town & Country Electric
   type: legal_case
   volume: '516'
 
@@ -27190,7 +27159,6 @@ references:
     - year: 1962
   page: '9'
   title: NLRB v. Washington Aluminum Co.
-  title-short: Washington Aluminum
   type: legal_case
   volume: '370'
 
@@ -27887,7 +27855,6 @@ references:
   title: >-
     Belated Feudalism: Labor, the Law, and Liberal Development in the United
     States
-  title-short: Belated Feudalism
   type: book
 
 - id: OstrofskyMdEmpSecurity_CourtofAppeals1959
@@ -28708,10 +28675,7 @@ references:
       month: 2
       day: 23
   page: '815'
-  title: >-
-    People for Ethical Treatment of Animals v. North Carolina Farm Bureau
-    Federation
-  title-short: PETA v. Farm Bureau
+  title: PETA v. North Carolina Farm Bureau Fed'n
   type: legal_case
   volume: '60'
 
@@ -30115,7 +30079,7 @@ references:
   issued:
     - year: 2021
   page: '1233'
-  title: Ramji v. Hospital Housekeeping Systems, LLC
+  title: Ramji v. Hospital Housekeeping Syst., LLC
   type: legal_case
   volume: '992'
 
@@ -31092,7 +31056,6 @@ references:
   page: 173–190
   source: HeinOnline
   title: 'Just Cause in Montana: Did the Big Sky Fall?'
-  title-short: Just Cause in Montana
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/advnce3&i=177
   volume: '3'
@@ -31727,7 +31690,6 @@ references:
     - year: 1959
   page: '236'
   title: San Diego Building Trades Council v. Garmon
-  title-short: Garmon
   type: legal_case
   volume: '359'
 
@@ -33035,7 +32997,7 @@ references:
       month: 5
       day: 8
   page: '336'
-  title: Scott v. Baltimore County, Maryland
+  title: Scott v. Baltimore Cty.
   type: legal_case
   volume: '101'
 
@@ -35567,7 +35529,6 @@ references:
   page: '65'
   source: COinS
   title: 'Employment at Will in the United States: The Divine Right of Employers'
-  title-short: Employment at Will in the United States
   type: article-journal
   URL: https://scholarship.law.upenn.edu/jbl/vol3/iss1/2
   volume: '3'
@@ -37918,7 +37879,7 @@ references:
   issued:
     - year: 2021
   page: '89'
-  title: Walsh v. East Penn Manufacturing, Inc
+  title: Walsh v. East Penn Mfg., Inc
   type: legal_case
   volume: '555'
 
@@ -38414,7 +38375,7 @@ references:
   issued:
     - year: 2016
   page: '123'
-  title: Whichard v. CH Mortgage Company, Inc.
+  title: Whichard v. CH Mortgage Co.
   type: legal_case
   volume: '248'
 
@@ -39058,7 +39019,7 @@ references:
   issued:
     - year: 2000
   page: '998'
-  title: Workman v. United Parcel Service, Inc.
+  title: Workman v. United Parcel Svc., Inc.
   type: legal_case
   volume: '234'
 
