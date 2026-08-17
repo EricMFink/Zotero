@@ -4438,6 +4438,18 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/utahlr2012&i=1231
   volume: '2012'
 
+- id: BoyleUnitedTechnologiesCorp_US1988
+  authority: U.S.
+  citation-key: BoyleUnitedTechnologiesCorp_US1988
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1988
+  page: '500'
+  title: Boyle v. United Technologies Corp.
+  type: legal_case
+  volume: '487'
+
 - id: Boyule2014
   abstract: >-
     Social science literature tends to assume a link between national policies
@@ -10557,6 +10569,33 @@ references:
   type: legal_case
   volume: '304'
 
+- id: ERISAActuarialAssumptions_29USC1393
+  citation-key: ERISAActuarialAssumptions_29USC1393
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '1393'
+  title: ERISA - Actuarial assumptions
+  type: legislation
+  volume: '29'
+
+- id: ERISAMethodsComputing_29USC1391
+  citation-key: ERISAMethodsComputing_29USC1391
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '1391'
+  title: ERISA - Methods for computing withdrawal liability
+  type: legislation
+  volume: '29'
+
+- id: ERISAWithdrawalLiability_29USC1381
+  citation-key: ERISAWithdrawalLiability_29USC1381
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '1381'
+  title: ERISA - Withdrawal liability established; criteria and definitions
+  type: legislation
+  volume: '29'
+
 - id: Ermakoff2020
   abstract: >-
     This article examines how authoritarian contenders use law to advance an
@@ -10951,6 +10990,15 @@ references:
   type: legal_case
   volume: '545'
 
+- id: FAAAuthorizationAct_49USC14501
+  citation-key: FAAAuthorizationAct_49USC14501
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '14501'
+  title: FAA Authorization Act - Federal authority over intrastate transportation
+  type: legislation
+  volume: '49'
+
 - id: FairLaborStandards1938
   citation-key: FairLaborStandards1938
   container-title: U.S.C.
@@ -11116,6 +11164,123 @@ references:
   type: article-newspaper
   URL: https://newspapers.digitalnc.org/lccn/sn92073228/1955-04-20/ed-1/seq-1/
 
+- id: FedArbAct_9USC1
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: FedArbAct_9USC1
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1'
+  title: >-
+    Fed Arb. Act s.1 - “Maritime transactions” and “commerce” defined;
+    exceptions to operation of title
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: FedArbAct_9USC10
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: FedArbAct_9USC10
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '10'
+  title: Fed Arb. Act s.10 - Award of arbitrators; vacation; grounds
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: FedArbAct_9USC11
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: FedArbAct_9USC11
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '11'
+  title: >-
+    Fed Arb. Act s.11 - Award of arbitrators; modification or correction;
+    grounds; order
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: FedArbAct_9USC2
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: FedArbAct_9USC2
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2'
+  title: >-
+    Fed Arb. Act s.2 - Validity, irrevocability, and enforcement of agreements
+    to arbitrate
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: FedArbAct_9USC3
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: FedArbAct_9USC3
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '3'
+  title: >-
+    Fed Arb. Act s.3 - Stay of proceedings where issue therein referable to
+    arbitration
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: FedArbAct_9USC4
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: FedArbAct_9USC4
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '4'
+  title: >-
+    Fed Arb. Act s.4 - Failure to arbitrate under agreement; petition to United
+    States court having jurisdiction for order to compel arbitration
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: FedArbAct_9USC9
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: FedArbAct_9USC9
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '9'
+  title: >-
+    Fed Arb. Act s.9 - Award of arbitrators; confirmation; jurisdiction;
+    procedure
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
 - id: FederalCourtAdoptsStricter_Quan_OgletreeDeakins2025
   abstract: >-
     On October 31, 2025, a federal district court ruled that the University of
@@ -11163,6 +11328,14 @@ references:
   title: Federal Security, Inc.
   type: legal_case
   volume: '359'
+
+- id: FedTortClaims_USC282680
+  citation-key: FedTortClaims_USC282680
+  container-title: '28'
+  section: '2680'
+  title: Fed. Tort Claims 2680 - Exceptions
+  type: legislation
+  volume: U.S.C.
 
 - id: Feigenson2000
   abstract: >-
@@ -12257,6 +12430,17 @@ references:
   title: Florida Bar v. Went For It, Inc.
   type: legal_case
   volume: '515'
+
+- id: FlowersFoodsIncBrock_US2026
+  authority: U.S.
+  citation-key: FlowersFoodsIncBrock_US2026
+  issued:
+    - year: 2026
+      month: 5
+      day: 28
+  number: No. 24-935
+  title: Flowers Foods, Inc. v. Brock
+  type: legal_case
 
 - id: FluorDanielInc_NLRB1993
   authority: N.L.R.B.
@@ -16522,6 +16706,20 @@ references:
   type: legal_case
   volume: '900'
 
+- id: HencelyFlourCorp_US2026
+  authority: U.S.
+  citation-key: HencelyFlourCorp_US2026
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2026
+      month: 4
+      day: 22
+  page: '31'
+  title: Hencely v. Flour Corp.
+  type: legal_case
+  volume: '608'
+
 - id: HennepinBroadcastingAssociatesInc_Minn1974
   authority: Minn.
   citation-key: HennepinBroadcastingAssociatesInc_Minn1974
@@ -18470,6 +18668,20 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/40862566
   volume: '12'
+
+- id: JulesAndreBalazsProperties_US2026
+  authority: U.S.
+  citation-key: JulesAndreBalazsProperties_US2026
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2026
+      month: 5
+      day: 14
+  page: '200'
+  title: Jules v. Andre Balazs Properties
+  type: legal_case
+  volume: '608'
 
 - id: JuniusGladysBarbaraScales_ARedFamily_nd
   accessed:
@@ -25265,6 +25477,17 @@ references:
   type: legal_case
   volume: '187'
 
+- id: MKEmployeeSolutionsLLC_US2026
+  authority: U.S.
+  citation-key: MKEmployeeSolutionsLLC_US2026
+  issued:
+    - year: 2026
+      month: 5
+      day: 21
+  number: No. 23-1209
+  title: M&K Employee Solutions, LLC v. Trustees of IAM Nat'l Pension Fund
+  type: legal_case
+
 - id: Moander2020
   author:
     - family: Moander
@@ -25425,6 +25648,20 @@ references:
   source: Amazon
   title: The Fall of the House of Labor
   type: book
+
+- id: MontgomeryCaribeTranspII_US2026
+  authority: U.S.
+  citation-key: MontgomeryCaribeTranspII_US2026
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2026
+      month: 5
+      day: 14
+  page: '219'
+  title: Montgomery v. Caribe Transp. II, LLC
+  type: legal_case
+  volume: '608'
 
 - id: Moore1975
   author:
@@ -30537,6 +30774,19 @@ references:
   title: In re Jordan
   type: legal_case
   volume: '913'
+
+- id: ReKBRIncBurn_4thCir2014
+  authority: 4th Cir.
+  citation-key: ReKBRIncBurn_4thCir2014
+  container-title: F. 3d
+  issued:
+    - year: 2014
+      month: 3
+      day: 6
+  page: '326'
+  title: In re KBR, Inc., Burn Pit Litigation
+  type: legal_case
+  volume: '744'
 
 - id: ReLitz_Indiana1999
   authority: Ind.
@@ -37449,6 +37699,18 @@ references:
   title: US v. Long
   type: legal_case
   volume: '857'
+
+- id: USOrleans_US1976
+  authority: U.S.
+  citation-key: USOrleans_US1976
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1976
+  page: '807'
+  title: U.S. v. Orleans
+  type: legal_case
+  volume: '425'
 
 - id: USStein_SDNY2006
   authority: S.D.N.Y.
