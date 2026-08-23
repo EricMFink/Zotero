@@ -470,11 +470,13 @@
 		},
 	"container-title": {
 		"U.S.": "!authority>>>U.S.",
+		"US": "!authority>>>U.S.",
 		"S. Ct.": "!authority>>>S. Ct.",
 		"L. Ed.": "!authority>>>L. Ed.",
 		"L. Ed. 2d": "!authority>>>L. Ed. 2d",
 		"U.S. LEXIS": "!authority>>>U.S. LEXIS",
 		"N.L.R.B.": "!authority>>>N.L.R.B.",
+		"NLRB": "!authority>>>N.L.R.B.",
 		"U.S. Code": "U.S.C.",
 		"USC": "U.S.C.",
 		"CFR": "C.F.R.",

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="2.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
 <info>
   <title>IndigoBook Law Review</title>
   <id>https://emfink.net/Zotero/CSL-styles/indigobook-law-review.csl</id>
@@ -13,7 +13,7 @@
   <category citation-format="note"/>
   <category field="law"/>
   <summary>IndigoBook legal citation style for law reviews.</summary>
-  <updated>2023-02-27T14:35:00+00:00</updated>
+  <updated>2026-08-22T19:48:00+00:00</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
 </info>
 
@@ -418,7 +418,7 @@
 
 <!-- Id. and subsequent references -->
 <macro name="at_page">
-  <group>
+  <group delimiter=" ">
     <text value="at" prefix=" "/>
     <text variable="locator" prefix=" "/>
   </group>
@@ -506,45 +506,61 @@
 <citation et-al-min="4" et-al-use-first="1">
   <layout suffix="." delimiter="; ">
     <choose>
-      <if position="ibid">
-        <text value="id." text-case="capitalize-first" font-style="italic"/>
+      <if position="ibid-with-locator">
         <choose>
-        <if type="legislation">
-          <text variable="section" prefix=" § "/>
-          <text variable="locator" prefix=""/>
-        </if>
-        <else>
-          <text macro="at_page" suffix="."/>
-        </else>
+		  <if type="legislation">
+		    <group delimiter=" ">
+		      <text term="ibid" text-case="capitalize-first" font-style="italic"/>
+		      <text variable="section" prefix=" § "/>
+		      <text variable="locator" prefix=""/>
+		    </group>
+		  </if>
+		  <else>
+			<group delimiter=" ">
+		      <text term="ibid" text-case="capitalize-first" font-style="italic"/>
+		      <text macro="at_page"/>
+		    </group>
+		  </else>
         </choose>
-        <!-- period will not show up - this is for find-and-replace later. -->
       </if>
-      <else-if position="subsequent">
-        <choose>
-          <if type="legal_case">
-            <text macro="short-title"/>
-            <text value="supra" font-style="italic" prefix=", "/>
-            <text value="note" prefix=" "/>
-            <text variable="first-reference-note-number" prefix=" "/>
-            <text macro="at_page"/>
-          </if>
-          <else-if type="legislation">
-            <text macro="source"/>
-          </else-if>
-          <else>
-            <choose>
-              <if type="book" match="any">
-                <text variable="volume" suffix=" "/>
-              </if>
-            </choose>
-            <text macro="author-short"/>
-            <text value="supra" font-style="italic" prefix=", "/>
-            <text value="note" prefix=" "/>
-            <text variable="first-reference-note-number" prefix=" "/>
-            <text macro="at_page"/>
-          </else>
-        </choose>
+      <else-if position="ibid">
+        <text term="ibid" text-case="capitalize-first" font-style="italic"/>
       </else-if>
+      
+      <else-if position="subsequent">
+        <group delimiter=", ">
+          <choose>
+            <if type="legal_case">
+              <text macro="short-title"/>
+              <text value="supra" font-style="italic" prefix=", "/>
+              <text value="note" prefix=" "/>
+              <text variable="first-reference-note-number" prefix=" "/>
+              <text macro="at_page"/>
+            </if>
+            <else-if type="legislation">
+              <text macro="source"/>
+            </else-if>
+            <else>
+              <group delimiter=" ">
+                <choose>
+                  <if type="book" match="any">
+                    <text variable="volume"/>
+                  </if>
+                </choose>
+                <text macro="author-short"/>
+              </group>
+              <group delimiter=" ">
+                <text value="supra" font-style="italic"/>
+                <text value="note"/>
+                <text variable="first-reference-note-number"/>
+                <text macro="at_page"/>
+              </group>
+            </else>
+          </choose>
+        </group>
+      </else-if>
+
+	<!-- first citation -->      
       <else>
         <choose>
           <if type="book" match="any">
@@ -559,7 +575,6 @@
             <text macro="access" prefix=", "/>
           </if>
           <else-if type="legislation" match="any">
-            <text macro="full-title"/>
             <text macro="source"/>
             <text macro="issuance"/>
           </else-if>
@@ -580,5 +595,4 @@
     </choose>
   </layout>
 </citation>
-
 </style>

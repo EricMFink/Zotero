@@ -315,10 +315,11 @@ references:
 
 - id: ABACriminalJusticeStandardsProsecutionFunction
   citation-key: ABACriminalJusticeStandardsProsecutionFunction
+  genre: A.B.A. Criminal Justice Standards for the Prosecution Function
   issued:
     - year: 2017
   title: A.B.A. Criminal Justice Standards for the Prosecution Function
-  type: legislation
+  type: standard
 
 - id: Abbott1988
   author:
@@ -3180,16 +3181,16 @@ references:
 - id: BerkChoy_US2026
   authority: U.S.
   citation-key: BerkChoy_US2026
-  container-title: S. Ct.
-  container-title-short: Ct
+  container-title: U.S.
+  container-title-short: U.S.
   issued:
     - year: 2026
       month: 1
       day: 20
-  page: '546'
+  page: '187'
   title: Berk v. Choy
   type: legal_case
-  volume: '146'
+  volume: '607'
 
 - id: Bernstein2010
   abstract: >-
@@ -5101,15 +5102,15 @@ references:
   title-short: Eugene V. Debs
   type: book
 
-- id: BurdineMetropolitanDirectProperty_EDKy2018
+- id: BurdineMetropolitanDirectProp_EDKy2018
   authority: E.D. Ky.
-  citation-key: BurdineMetropolitanDirectProperty_EDKy2018
+  citation-key: BurdineMetropolitanDirectProp_EDKy2018
   issued:
     - year: 2018
       month: 11
       day: 1
   number: No. 3:17-cv-00093-GFVT
-  title: Burdine v. Metropolitan Direct Prop. and Cas. Ins. Co.
+  title: Burdine v. Metropolitan Direct Prop. & Cas. Ins. Co.
   type: legal_case
 
 - id: BureaucracyAdministrativeState2024
@@ -7400,25 +7401,33 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/nclr82&i=1957
   volume: '82'
 
-- id: ConstitutionAmend14
-  citation-key: ConstitutionAmend14
-  title: U.S. Constitution, Amendment XIV
-  type: document
+- id: ConstitutionAmendment14
+  citation-key: ConstitutionAmendment14
+  genre: U.S. Constitution
+  number: Amend. 14
+  title: Constitution, Amendment 14
+  type: standard
 
-- id: ConstitutionAmend5
-  citation-key: ConstitutionAmend5
-  title: U.S. Constitution, Amendment V
-  type: document
+- id: ConstitutionAmendment5
+  citation-key: ConstitutionAmendment5
+  genre: U.S. Constitution
+  number: Amend. V
+  title: Constitution, Amendment 5
+  type: standard
 
-- id: ConstitutionArt3
-  citation-key: ConstitutionArt3
-  title: U.S. Constitution, Article III
-  type: document
+- id: ConstitutionArticle3
+  citation-key: ConstitutionArticle3
+  genre: U.S. Constitution
+  number: Art. III
+  title: Constitution, Article 3
+  type: standard
 
-- id: ConstitutionArt4
-  citation-key: ConstitutionArt4
-  title: U.S. Constitution, Article IV
-  type: document
+- id: ConstitutionArticle4
+  citation-key: ConstitutionArticle4
+  genre: U.S. Constitution
+  number: Art. IV
+  title: Constitution, Article 4
+  type: standard
 
 - id: ContemporaneousResidentialRealEstate_NCStateBar2021
   authority: N.C. State Bar
@@ -12471,13 +12480,17 @@ references:
 - id: FlowersFoodsIncBrock_US2026
   authority: U.S.
   citation-key: FlowersFoodsIncBrock_US2026
+  container-title: S. Ct.
+  container-title-short: Ct
   issued:
     - year: 2026
       month: 5
       day: 28
   number: No. 24-935
+  page: '1358'
   title: Flowers Foods, Inc. v. Brock
   type: legal_case
+  volume: '146'
 
 - id: FluorDanielInc_NLRB1993
   authority: N.L.R.B.
@@ -12910,7 +12923,7 @@ references:
   issued:
     - year: 2021
   page: '351'
-  title: Ford Motor Co. v. Montana Eighth Jud. Dist. Court
+  title: Ford Motor Co. v. Montana Eighth Jud. Dist. Ct.
   type: legal_case
   volume: '592'
 
@@ -13086,183 +13099,212 @@ references:
 
 - id: FRCP
   citation-key: FRCP
-  container-title: Fed. R. Civ. P.
-  title: Federal Rules of Civil Procedure
-  type: legislation
+  genre: Fed. R. Civ. P.
+  title: FRCP
+  type: standard
 
 - id: FRCP1
   citation-key: FRCP1
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 1
-  type: document
+  number: Rule 1
+  title: FRCP 1
+  type: standard
 
 - id: FRCP10
   citation-key: FRCP10
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 10
-  type: document
+  number: Rule 10
+  title: FRCP 10
+  type: standard
 
 - id: FRCP11
   citation-key: FRCP11
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 11
-  type: document
+  number: Rule 11
+  title: FRCP 11
+  type: standard
 
 - id: FRCP12
   citation-key: FRCP12
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 12
-  type: document
+  number: Rule 12
+  title: FRCP 12
+  type: standard
 
 - id: FRCP13
   citation-key: FRCP13
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 13
-  type: document
+  number: Rule 13
+  title: FRCP 13
+  type: standard
 
 - id: FRCP14
   citation-key: FRCP14
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 14
-  type: document
+  number: Rule 14
+  title: FRCP 14
+  type: standard
 
 - id: FRCP15
   citation-key: FRCP15
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 15
-  type: document
+  number: Rule 15
+  title: FRCP 15
+  type: standard
 
 - id: FRCP16
   citation-key: FRCP16
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 16
-  type: document
+  number: Rule 16
+  title: FRCP 16
+  type: standard
 
 - id: FRCP17
   citation-key: FRCP17
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 17
-  type: document
+  number: Rule 17
+  title: FRCP 17
+  type: standard
 
 - id: FRCP18
   citation-key: FRCP18
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 18
-  type: document
+  number: Rule 18
+  title: FRCP 18
+  type: standard
 
 - id: FRCP19
   citation-key: FRCP19
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 19
-  type: document
+  number: Rule 19
+  title: FRCP 19
+  type: standard
 
 - id: FRCP2
   citation-key: FRCP2
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 2
-  type: document
+  number: Rule 2
+  title: FRCP 2
+  type: standard
 
 - id: FRCP20
   citation-key: FRCP20
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 20
-  type: document
+  number: Rule 20
+  title: FRCP 20
+  type: standard
 
 - id: FRCP21
   citation-key: FRCP21
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 21
-  type: document
+  number: Rule 21
+  title: FRCP 21
+  type: standard
 
 - id: FRCP22
   citation-key: FRCP22
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 22
-  type: document
+  number: Rule 22
+  title: FRCP 22
+  type: standard
 
 - id: FRCP23
   citation-key: FRCP23
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 23
-  type: document
+  number: Rule 23
+  title: FRCP 23
+  type: standard
 
 - id: FRCP24
   citation-key: FRCP24
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 24
-  type: document
+  number: Rule 24
+  title: FRCP 24
+  type: standard
 
 - id: FRCP25
   citation-key: FRCP25
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 25
-  type: document
+  number: Rule 25
+  title: FRCP 25
+  type: standard
 
 - id: FRCP26
   citation-key: FRCP26
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 26
-  type: document
+  number: Rule 26
+  title: FRCP 26
+  type: standard
 
 - id: FRCP3
   citation-key: FRCP3
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 3
-  type: document
+  number: Rule 3
+  title: FRCP 3
+  type: standard
 
 - id: FRCP4
   citation-key: FRCP4
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 4
-  type: document
+  number: Rule 4
+  title: FRCP 4
+  type: standard
 
 - id: FRCP42
   citation-key: FRCP42
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 42
-  type: document
+  number: Rule 42
+  title: FRCP 42
+  type: standard
 
 - id: FRCP5
   citation-key: FRCP5
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 5
-  type: document
+  number: Rule 5
+  title: FRCP 5
+  type: standard
 
 - id: FRCP55
   citation-key: FRCP55
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 55
-  type: document
+  number: Rule 55
+  title: FRCP 55
+  type: standard
 
 - id: FRCP56
   citation-key: FRCP56
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 56
-  type: document
+  number: Rule 56
+  title: FRCP 56
+  type: standard
 
 - id: FRCP6
   citation-key: FRCP6
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 6
-  type: document
+  number: Rule 6
+  title: FRCP 6
+  type: standard
 
 - id: FRCP7
   citation-key: FRCP7
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 7
-  type: document
+  number: Rule 7
+  title: FRCP 7
+  type: standard
 
 - id: FRCP8
   citation-key: FRCP8
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 8
-  type: document
+  number: Rule 8
+  title: FRCP 8
+  type: standard
 
 - id: FRCP9
   citation-key: FRCP9
   genre: Fed. R. Civ. P.
-  title: Fed. R. Civ. P. Rule 9
-  type: document
+  number: Rule 9
+  title: FRCP 9
+  type: standard
 
 - id: Freed1990
   author:
@@ -14185,6 +14227,20 @@ references:
   title: 'Only One Thing Can Save Us: Why America Needs a New Kind of Labor Movement'
   title-short: Only One Thing Can Save Us
   type: book
+
+- id: GEOGroupIncMenocal_US2026
+  authority: U.S.
+  citation-key: GEOGroupIncMenocal_US2026
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 2026
+      month: 2
+      day: 25
+  page: '438'
+  title: GEO Group, Inc. v. Menocal
+  type: legal_case
+  volume: '607'
 
 - id: Georgehegan1991
   abstract: >-
@@ -15786,9 +15842,9 @@ references:
   type: legal_case
   volume: '326'
 
-- id: GuardsmarkNLRB_DCCircuit2007
+- id: GuardsmarkLLCNLRB_DCCircuit2007
   authority: D.C. Circuit
-  citation-key: GuardsmarkNLRB_DCCircuit2007
+  citation-key: GuardsmarkLLCNLRB_DCCircuit2007
   container-title: F. 3d
   issued:
     - year: 2007
@@ -25517,13 +25573,17 @@ references:
 - id: MKEmployeeSolutionsLLC_US2026
   authority: U.S.
   citation-key: MKEmployeeSolutionsLLC_US2026
+  container-title: S. Ct.
+  container-title-short: Ct
   issued:
     - year: 2026
       month: 5
       day: 21
   number: No. 23-1209
+  page: '1224'
   title: M&K Employee Solutions, LLC v. Trustees of IAM Nat'l Pension Fund
   type: legal_case
+  volume: '146'
 
 - id: Moander2020
   author:
@@ -26096,288 +26156,395 @@ references:
 
 - id: MRPC10
   citation-key: MRPC10
-  title: MRPC Rule 1.0
-  type: document
+  genre: MRPC
+  number: Rule 1.0
+  title: MRPC 1.0
+  type: standard
 
 - id: MRPC11
   citation-key: MRPC11
-  title: MRPC Rule 1.1
-  type: document
+  genre: MRPC
+  number: Rule 1.1
+  title: MRPC 1.1
+  type: standard
 
 - id: MRPC110
   citation-key: MRPC110
-  title: MRPC Rule 1.10
-  type: document
+  genre: MRPC
+  number: Rule 1.10
+  title: MRPC 1.10
+  type: standard
 
 - id: MRPC111
   citation-key: MRPC111
-  title: MRPC Rule 1.11
-  type: document
+  genre: MRPC
+  number: Rule 1.11
+  title: MRPC 1.11
+  type: standard
 
 - id: MRPC112
   citation-key: MRPC112
-  title: MRPC Rule 1.12
-  type: document
+  genre: MRPC
+  number: Rule 1.12
+  title: MRPC 1.12
+  type: standard
 
 - id: MRPC113
   citation-key: MRPC113
-  title: MRPC Rule 1.13
-  type: document
+  genre: MRPC
+  number: Rule 1.13
+  title: MRPC 1.13
+  type: standard
 
 - id: MRPC114
   citation-key: MRPC114
-  title: MRPC Rule 1.14
-  type: document
+  genre: MRPC
+  number: Rule 1.14
+  title: MRPC 1.14
+  type: standard
 
 - id: MRPC115
   citation-key: MRPC115
-  title: MRPC Rule 1.15
-  type: document
+  genre: MRPC
+  number: Rule 1.15
+  title: MRPC 1.15
+  type: standard
 
 - id: MRPC116
   citation-key: MRPC116
-  title: MRPC Rule 1.16
-  type: document
+  genre: MRPC
+  number: Rule 1.16
+  title: MRPC 1.16
+  type: standard
 
 - id: MRPC117
   citation-key: MRPC117
-  title: MRPC Rule 1.17
-  type: document
+  genre: MRPC
+  number: Rule 1.17
+  title: MRPC 1.17
+  type: standard
 
 - id: MRPC118
   citation-key: MRPC118
-  title: MRPC Rule 1.18
-  type: document
+  genre: MRPC
+  number: Rule 1.18
+  title: MRPC 1.18
+  type: standard
 
 - id: MRPC12
   citation-key: MRPC12
-  title: MRPC Rule 1.2
-  type: document
+  genre: MRPC
+  number: Rule 1.2
+  title: MRPC 1.2
+  type: standard
 
 - id: MRPC13
   citation-key: MRPC13
-  title: MRPC Rule 1.3
-  type: document
+  genre: MRPC
+  number: Rule 1.3
+  title: MRPC 1.3
+  type: standard
 
 - id: MRPC14
   citation-key: MRPC14
-  title: MRPC Rule 1.4
-  type: document
+  genre: MRPC
+  number: Rule 1.4
+  title: MRPC 1.4
+  type: standard
 
 - id: MRPC15
   citation-key: MRPC15
-  title: MRPC Rule 1.5
-  type: document
+  genre: MRPC
+  number: Rule 1.5
+  title: MRPC 1.5
+  type: standard
 
 - id: MRPC16
   citation-key: MRPC16
-  title: MRPC Rule 1.6
-  type: document
+  genre: MRPC
+  number: Rule 1.6
+  title: MRPC 1.6
+  type: standard
 
 - id: MRPC17
   citation-key: MRPC17
-  title: MRPC Rule 1.7
-  type: document
+  genre: MRPC
+  number: Rule 1.7
+  title: MRPC 1.7
+  type: standard
 
 - id: MRPC18
   citation-key: MRPC18
-  title: MRPC Rule 1.8
-  type: document
+  genre: MRPC
+  number: Rule 1.8
+  title: MRPC 1.8
+  type: standard
 
 - id: MRPC19
   citation-key: MRPC19
-  title: MRPC Rule 1.9
-  type: document
+  genre: MRPC
+  number: Rule 1.9
+  title: MRPC 1.9
+  type: standard
 
 - id: MRPC21
   citation-key: MRPC21
-  title: MRPC Rule 2.1
-  type: document
+  genre: MRPC
+  number: Rule 2.1
+  title: MRPC 2.1
+  type: standard
 
 - id: MRPC23
   citation-key: MRPC23
-  title: MRPC Rule 2.3
-  type: document
+  genre: MRPC
+  number: Rule 2.3
+  title: MRPC 2.3
+  type: standard
 
 - id: MRPC24
   citation-key: MRPC24
-  title: MRPC Rule 2.4
-  type: document
+  genre: MRPC
+  number: Rule 2.4
+  title: MRPC 2.4
+  type: standard
 
 - id: MRPC31
   citation-key: MRPC31
-  title: MRPC Rule 3.1
-  type: document
+  genre: MRPC
+  number: Rule 3.1
+  title: MRPC 3.1
+  type: standard
 
 - id: MRPC32
   citation-key: MRPC32
-  title: MRPC Rule 3.2
-  type: document
+  genre: MRPC
+  number: Rule 3.2
+  title: MRPC 3.2
+  type: standard
 
 - id: MRPC33
   citation-key: MRPC33
-  title: MRPC Rule 3.3
-  type: document
+  genre: MRPC
+  number: Rule 3.3
+  title: MRPC 3.3
+  type: standard
 
 - id: MRPC34
   citation-key: MRPC34
-  title: MRPC Rule 3.4
-  type: document
+  genre: MRPC
+  number: Rule 3.5
+  title: MRPC 3.4
+  type: standard
 
 - id: MRPC35
   citation-key: MRPC35
-  title: MRPC Rule 3.5
-  type: document
+  genre: MRPC
+  number: Rule 3.5
+  title: MRPC 3.5
+  type: standard
 
 - id: MRPC36
   citation-key: MRPC36
-  title: MRPC Rule 3.6
-  type: document
-
-- id: MRPC37
-  citation-key: MRPC37
-  title: MRPC Rule 3.7
-  type: document
+  genre: MRPC
+  number: Rule 3.6
+  title: MRPC 3.6
+  type: standard
 
 - id: MRPC38
   citation-key: MRPC38
-  title: MRPC Rule 3.8
-  type: document
+  genre: MRPC
+  number: Rule 3.8
+  title: MRPC 3.8
+  type: standard
 
 - id: MRPC39
   citation-key: MRPC39
-  title: MRPC Rule 3.9
-  type: document
+  genre: MRPC
+  number: Rule 3.9
+  title: MRPC 3.9
+  type: standard
 
 - id: MRPC41
   citation-key: MRPC41
-  title: MRPC Rule 4.1
-  type: document
+  genre: MRPC
+  number: Rule 4.1
+  title: MRPC 4.1
+  type: standard
 
 - id: MRPC42
   citation-key: MRPC42
-  title: MRPC Rule 4.2
-  type: document
+  genre: MRPC
+  number: Rule 4.1
+  title: MRPC 4.2
+  type: standard
 
 - id: MRPC43
   citation-key: MRPC43
-  title: MRPC Rule 4.3
-  type: document
+  genre: MRPC
+  number: Rule 4.3
+  title: MRPC 4.3
+  type: standard
 
 - id: MRPC44
   citation-key: MRPC44
-  title: MRPC Rule 4.4
-  type: document
+  genre: MRPC
+  number: Rule 4.4
+  title: MRPC 4.4
+  type: standard
 
 - id: MRPC51
   citation-key: MRPC51
-  title: MRPC Rule 5.1
-  type: document
+  genre: MRPC
+  number: Rule 5.1
+  title: MRPC 5.1
+  type: standard
 
 - id: MRPC52
   citation-key: MRPC52
-  title: MRPC Rule 5.2
-  type: document
+  genre: MRPC
+  number: Rule 5.2
+  title: MRPC 5.2
+  type: standard
 
 - id: MRPC53
   citation-key: MRPC53
-  title: MRPC Rule 5.3
-  type: document
+  genre: MRPC
+  number: Rule 5.3
+  title: MRPC 5.3
+  type: standard
 
 - id: MRPC54
   citation-key: MRPC54
-  title: MRPC Rule 5.4
-  type: document
+  genre: MRPC
+  number: Rule 5.4
+  title: MRPC 5.4
+  type: standard
 
 - id: MRPC55
   citation-key: MRPC55
-  title: MRPC Rule 5.5
-  type: document
+  genre: MRPC
+  number: Rule 5.5
+  title: MRPC 5.5
+  type: standard
 
 - id: MRPC56
   citation-key: MRPC56
-  title: MRPC Rule 5.6
-  type: document
+  genre: MRPC
+  number: Rule 5.6
+  title: MRPC 5.6
+  type: standard
 
 - id: MRPC57
   citation-key: MRPC57
-  title: MRPC Rule 5.7
-  type: document
+  genre: MRPC
+  number: Rule 5.7
+  title: MRPC 5.7
+  type: standard
 
 - id: MRPC61
   citation-key: MRPC61
-  title: MRPC Rule 6.1
-  type: document
+  genre: MRPC
+  number: Rule 6.1
+  title: MRPC 6.1
+  type: standard
 
 - id: MRPC62
   citation-key: MRPC62
-  title: MRPC Rule 6.2
-  type: document
+  genre: MRPC
+  number: Rule 6.2
+  title: MRPC 6.2
+  type: standard
 
 - id: MRPC63
   citation-key: MRPC63
-  title: MRPC Rule 6.3
-  type: document
+  genre: MRPC
+  number: Rule 6.3
+  title: MRPC 6.3
+  type: standard
 
 - id: MRPC64
   citation-key: MRPC64
-  title: MRPC Rule 6.4
-  type: document
+  genre: MRPC
+  number: Rule 6.4
+  title: MRPC 6.4
+  type: standard
 
 - id: MRPC65
   citation-key: MRPC65
-  title: MRPC Rule 6.5
-  type: document
+  genre: MRPC
+  number: Rule 6.5
+  title: MRPC 6.5
+  type: standard
 
 - id: MRPC71
   citation-key: MRPC71
-  title: MRPC Rule 7.1
-  type: document
+  genre: MRPC
+  number: Rule 7.1
+  title: MRPC 7.1
+  type: standard
 
 - id: MRPC72
   citation-key: MRPC72
-  title: MRPC Rule 7.2
-  type: document
+  genre: MRPC
+  number: Rule 7.2
+  title: MRPC 7.2
+  type: standard
 
 - id: MRPC73
   citation-key: MRPC73
-  title: MRPC Rule 7.3
-  type: document
+  genre: MRPC
+  number: Rule 7.3
+  title: MRPC 7.3
+  type: standard
 
 - id: MRPC76
   citation-key: MRPC76
-  title: MRPC Rule 7.6
-  type: document
+  genre: MRPC
+  number: Rule 7.6
+  title: MRPC 7.6
+  type: standard
 
 - id: MRPC81
   citation-key: MRPC81
-  title: MRPC Rule 8.1
-  type: document
+  genre: MRPC
+  number: Rule 8.1
+  title: MRPC 8.1
+  type: standard
 
 - id: MRPC82
   citation-key: MRPC82
-  title: MRPC Rule 8.2
-  type: document
+  genre: MRPC
+  number: Rule 8.2
+  title: MRPC 8.2
+  type: standard
 
 - id: MRPC83
   citation-key: MRPC83
-  title: MRPC Rule 8.3
-  type: document
+  genre: MRPC
+  number: Rule 8.3
+  title: MRPC 8.3
+  type: standard
 
 - id: MRPC84
   citation-key: MRPC84
-  title: MRPC Rule 8.4
-  type: document
+  genre: MRPC
+  number: Rule 8.4
+  title: MRPC 8.4
+  type: standard
 
 - id: MRPC85
   citation-key: MRPC85
-  title: MRPC Rule 8.5
-  type: document
+  genre: MRPC
+  number: Rule 8.5
+  title: MRPC 8.5
+  type: standard
 
 - id: MRPCPreambleScope
   citation-key: MRPCPreambleScope
+  genre: MRPC
+  number: Preamble & Scope
   title: MRPC Preamble & Scope
-  type: document
+  type: standard
 
 - id: MuldrowCityStLouis_US2024
   authority: U.S.
@@ -28713,7 +28880,7 @@ references:
   type: legal_case
 
 - id: PeopleBelge_NYCountyCourtOnandagaCounty1975
-  authority: N.Y. Cty .Ct., Onandaga Cty.
+  authority: N.Y. Cty. Ct., Onandaga Cty.
   citation-key: PeopleBelge_NYCountyCourtOnandagaCounty1975
   container-title: Misc. 2d
   issued:
@@ -29626,7 +29793,7 @@ references:
   container-title: >-
     Journal of Institutional and Theoretical Economics (JITE) / Zeitschrift für
     die gesamte Staatswissenschaft
-  container-title-short: J. Institutional Theor. Econ. JITE Z. Für Gesamte Staatswiss.
+  container-title-short: J. Institutional Theor. Econ. JITE Z. Gesamte Staatswiss.
   ISSN: 0932-4569
   issue: '1'
   issued:
@@ -33019,7 +33186,7 @@ references:
       given: Tobias
   citation-key: Schottdorf2018
   container-title: Zeitschrift für Politikwissenschaft
-  container-title-short: Z. Für Polit.
+  container-title-short: Z. Polit.
   DOI: 10.1007/s41358-018-0160-1
   ISSN: 2366-2638
   issue: '4'
@@ -39129,6 +39296,17 @@ references:
   type: article-journal
   URL: https://www.jstor.org.elon.idm.oclc.org/stable/41443007
   volume: '23'
+
+- id: WithersCityAberdeen_NDMiss2026
+  authority: N.D. Miss.
+  citation-key: WithersCityAberdeen_NDMiss2026
+  issued:
+    - year: 2026
+      month: 6
+      day: 8
+  number: No. 1:24-cv-00218-SA-RP
+  title: Withers v. City of Aberdeen
+  type: legal_case
 
 - id: Witwer2003
   abstract: >-
