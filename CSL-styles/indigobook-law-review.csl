@@ -501,7 +501,6 @@
 </choose>
 </macro>
 
-
 <!-- CITATION-->
 <citation et-al-min="4" et-al-use-first="1">
   <layout suffix="." delimiter="; ">

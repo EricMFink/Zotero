@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.1mlz1" demote-non-dropping-particle="sort-only" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="2.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
 <info>
-  <title>IndigoBook-Bibliography</title>
-  <id>https://emfink.net/Zotero/CSL-styles/indigobook-bibliography.csl</id>
-  <link href="https://github.com/EricMFink/Zotero/CSL-styles/indigobook-bibliography.csl" rel="self"/>
+  <title>IndigoBook Inline Bibliography</title>
+  <id>https://emfink.net/Zotero/CSL-styles/indigobook-inline-bibliography.csl</id>
+  <link href="https://github.com/EricMFink/Zotero/CSL-styles/indigobook-inline-bib.csl" rel="self"/>
+  <link href="http://www.zotero.org/styles/bluebook-law-review" rel="documentation"/>
   <link href="https://law.resource.org/pub/us/code/blue/IndigoBook.html" rel="documentation"/>
   <author>
     <name>Eric M. Fink</name>
     <email>efink@elon.edu</email>
   </author>
-  <category citation-format="note"/>
+  <category citation-format="in-text"/>
   <category field="law"/>
-  <summary>IndigoBook legal citation style with footnotes and bibliography.</summary>
-  <updated>2025-08-08T07:40:53-04:00</updated>
+  <summary>IndigoBook legal citation style for with inline references and bibliography.</summary>
+  <updated>2026-08-23T08:42:38-0400-04:00</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
 </info>
-  
+
 <locale>
   <style-options />
   <terms>
@@ -265,14 +266,35 @@
       <text variable="locator" prefix=", "/>
     </else-if>
     <else-if type="legislation">
-      <group delimiter=" ">
-        <text variable="volume"/>
-        <text macro="container"/>
-      </group>
-      <text variable="section" prefix=" § "/>
-      <text variable="locator" prefix=""/>
-    </else-if>      
-   	<else-if type="bill hearing" match="any">
+      <choose>
+        <!-- FOR USC & CFR-->
+        <if variable="volume">  
+          <choose>
+            <if variable="locator">
+              <group delimiter=" ">
+              <text variable="volume"/>
+              <text macro="container"/>
+              <text variable="locator" prefix="§ "/>
+              </group>
+            </if>
+            <else>
+              <group delimiter=" ">
+              <text variable="volume"/>
+              <text macro="container"/>
+              <text variable="section" prefix="§ "/>
+              </group>
+            </else>
+          </choose>
+        </if>
+        <!-- FOR STATE STATUTES, FRCP, ETC.-->
+        <else>
+          <text macro="container"/>
+          <text variable="section" prefix=" § "/>
+          <text variable="locator" prefix=""/>
+        </else>
+      </choose>
+    </else-if> 
+    <else-if type="bill hearing" match="any">
 		<group delimiter=" ">
 			<text variable="authority" form="short"/>
 			<text variable="chapter-number" form="short" prefix=", "/>
@@ -393,10 +415,9 @@
   </choose>
 </macro>
 
-
 <!-- Id. and subsequent references -->
 <macro name="at_page">
-  <group>
+  <group delimiter=" ">
     <text value="at" prefix=" "/>
     <text variable="locator" prefix=" "/>
   </group>
@@ -483,37 +504,135 @@
 <citation et-al-min="4" et-al-use-first="1">
   <layout suffix="." delimiter="; ">
     <choose>
-      <if position="ibid">
-        <text value="id." text-case="capitalize-first" font-style="italic"/>
-        <text macro="at_page" suffix="."/>
-        <!-- period will not show up - this is for find-and-replace later. -->
+      <if position="ibid-with-locator">
+		<group delimiter=", ">
+		<choose>
+			<if type="legal_case">
+				<group delimiter=" ">
+					<choose>
+					<if variable="container-title">
+						<group delimiter=" ">
+						<text variable="volume"/>
+						<text variable="container-title"/>
+						<text macro="at_page"/>
+						</group>
+					</if>
+					<else>
+						<group delimiter=", ">
+						<text variable="number"/>
+						<text macro="at_page"/>
+						</group>
+					</else>
+					</choose>
+				</group>
+			</if>
+			<else-if type="legislation standard" match="any">
+			<text macro="source"/>
+			</else-if>
+			<else>
+			<group delimiter=" ">
+				<choose>
+				<if type="book" match="any">
+					<text variable="volume"/>
+				</if>
+				</choose>
+			</group>
+			<group delimiter=" ">
+				<text macro="author-short"/>
+				<text macro="year-date" prefix="(" suffix=")"/>
+				<text macro="at_page"/>
+			</group>
+			</else>
+		</choose>
+		</group>
       </if>
-      <else-if position="subsequent">
-        <choose>
-          <if type="legal_case">
-            <text macro="short-title"/>
-            <text value="supra" font-style="italic" prefix=", "/>
-            <text value="note" prefix=" "/>
-            <text variable="first-reference-note-number" prefix=" "/>
-            <text macro="at_page"/>
-          </if>
-          <else-if type="legislation">
-            <text macro="source"/>
-          </else-if>
-          <else>
-            <choose>
-              <if type="book" match="any">
-                <text variable="volume" suffix=" "/>
-              </if>
-            </choose>
-            <text macro="author-short"/>
-            <text value="supra" font-style="italic" prefix=", "/>
-            <text value="note" prefix=" "/>
-            <text variable="first-reference-note-number" prefix=" "/>
-            <text macro="at_page"/>
-          </else>
-        </choose>
+      <else-if position="ibid">
+		<group delimiter=", ">
+		<choose>
+			<if type="legal_case">
+				<group delimiter=" ">
+					<choose>
+					<if variable="container-title">
+						<group delimiter=" ">
+						<text variable="volume"/>
+						<text variable="container-title"/>
+						<text macro="at_page"/>
+						</group>
+					</if>
+					<else>
+						<group delimiter=", ">
+						<text variable="number"/>
+						<text macro="at_page"/>
+						</group>
+					</else>
+					</choose>
+				</group>
+			</if>
+			<else-if type="legislation standard" match="any">
+			<text macro="source"/>
+			</else-if>
+			<else>
+			<group delimiter=" ">
+				<choose>
+				<if type="book" match="any">
+					<text variable="volume"/>
+				</if>
+				</choose>
+			</group>
+			<group delimiter=" ">
+				<text macro="author-short"/>
+				<text macro="year-date" prefix="(" suffix=")"/>
+				<text macro="at_page"/>
+			</group>
+			</else>
+		</choose>
+		</group>
       </else-if>
+      
+      <else-if position="subsequent">
+		<group delimiter=", ">
+		<choose>
+			<if type="legal_case">
+				<group delimiter=" ">
+					<choose>
+					<if variable="container-title">
+						<group delimiter=" ">
+						<text variable="volume"/>
+						<text variable="container-title"/>
+						<text macro="at_page"/>
+						</group>
+					</if>
+					<else>
+						<group delimiter=", ">
+						<text variable="number"/>
+						<text macro="at_page"/>
+						</group>
+					</else>
+					</choose>
+				</group>
+			</if>
+			<else-if type="legislation standard" match="any">
+			<text macro="source"/>
+			</else-if>
+			<else>
+			<group delimiter=" ">
+				<choose>
+				<if type="book" match="any">
+					<text variable="volume"/>
+				</if>
+				</choose>
+			</group>
+			<group delimiter=" ">
+				<text macro="author-short"/>
+				<text macro="year-date" prefix="(" suffix=")"/>
+				<text macro="at_page"/>
+			</group>
+			</else>
+		</choose>
+		</group>
+      </else-if>
+
+	<!-- first citation -->      
       <else>
         <choose>
           <if type="book" match="any">
@@ -525,8 +644,13 @@
             <text macro="author" suffix=", "/>
             <text macro="full-title"/>
             <text macro="source"/>
+            <text macro="access" prefix=", "/>
           </if>
-          <else-if type="bill hearing legal_case legislation" match="any">
+          <else-if type="legislation standard" match="any">
+            <text macro="source"/>
+            <text macro="issuance"/>
+          </else-if>
+          <else-if type="bill hearing legal_case" match="any">
             <text macro="full-title"/>
             <text macro="source"/>
             <text macro="issuance"/>
@@ -569,6 +693,9 @@
             <text macro="source"/>
             <text macro="issuance"/>
           </else-if>
+          <else-if type="standard" match="any"></else-if>
+            <text macro="source"/>
+            <text macro="issuance"/>
           <else>
             <text macro="author" suffix=", "/>
             <text macro="full-title"/>
@@ -579,5 +706,4 @@
         </choose>
   </layout>
 </bibliography>
-
 </style>
