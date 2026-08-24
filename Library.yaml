@@ -1748,6 +1748,22 @@ references:
   title-short: The Economists' Hour
   type: book
 
+- id: Appleman2005
+  author:
+    - family: Appleman
+      given: Laura
+  citation-key: Appleman2005
+  container-title: New England Law Review
+  container-title-short: N. Engl. Law Rev.
+  issued:
+    - year: 2005
+  page: '251'
+  title: >-
+    The Rise of the Modern American Law School: How Professionalization, German
+    Scholarship, and Legal Reform Shaped Our System of Legal Education
+  type: article-journal
+  volume: '39'
+
 - id: ArchivesnyplorgCivilRights_nd
   accessed:
     - year: 2026
@@ -27478,18 +27494,6 @@ references:
   title: National Labor Relations Act
   type: legislation
   volume: '29'
-
-- id: NLRBBellAerospaceCo_US1974
-  authority: U.S.
-  citation-key: NLRBBellAerospaceCo_US1974
-  container-title: U.S.
-  container-title-short: U.S.
-  issued:
-    - year: 1974
-  page: '267'
-  title: NLRB v. Bell Aerospace Co.
-  type: legal_case
-  volume: '416'
 
 - id: NLRBCalMaineFarmsInc_5thCircuit1993
   authority: 5th Circuit
