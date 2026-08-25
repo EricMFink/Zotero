@@ -198,7 +198,7 @@
 
     async function getItemsToEdit(editOption, zoteroPane) {
         if (editOption === '2') {
-            let collection = zoteroPane.getSelectedCollection();
+            let collection = ZoteroPane.getSelectedCollections();
             if (!collection) {
                 alert("No collection selected.");
                 return null;
