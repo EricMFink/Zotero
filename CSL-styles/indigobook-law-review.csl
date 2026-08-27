@@ -13,7 +13,7 @@
   <category citation-format="note"/>
   <category field="law"/>
   <summary>IndigoBook legal citation style for law reviews.</summary>
-  <updated>2026-08-22T19:48:00+00:00</updated>
+  <updated>2026-08-26T19:10:00+00:00</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
 </info>
 
@@ -573,21 +573,27 @@
             <text macro="source"/>
             <text macro="access" prefix=", "/>
           </if>
-          <else-if type="legislation" match="any">
-            <text macro="source"/>
-            <text macro="issuance"/>
-          </else-if>
-          <else-if type="bill hearing legal_case" match="any">
+          <else-if type="bill hearing legal_case legislation" match="any">
             <text macro="full-title"/>
             <text macro="source"/>
             <text macro="issuance"/>
+          </else-if>
+          <else-if type="standard" match="any">
+            <text macro="source"/>
+            <text macro="issuance"/>
+          </else-if>
+          <else-if type="post-weblog webpage" match="any">
+            <text macro="author" suffix=", "/>
+            <text macro="full-title"/>
+            <text macro="source"/>
+            <text macro="issuance"/>
+            <text macro="access" prefix=", "/>
           </else-if>
           <else>
             <text macro="author" suffix=", "/>
             <text macro="full-title"/>
             <text macro="source"/>
             <text macro="issuance"/>
-            <text macro="access" prefix=", "/>
           </else>
         </choose>
       </else>

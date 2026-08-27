@@ -13,7 +13,7 @@
   <category citation-format="in-text"/>
   <category field="law"/>
   <summary>IndigoBook legal citation style for with inline references and bibliography.</summary>
-  <updated>2026-08-23T08:42:38-0400-04:00</updated>
+  <updated>2026-08-26T19:10:00+00:00</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
 </info>
 
@@ -303,6 +303,12 @@
    	<else-if type="report">
 		<text variable="number" prefix=", "/>
 	</else-if>
+    <else-if type="standard">
+      <group delimiter="">
+      <text variable="genre"/>
+      <text variable="number" prefix=", "/>
+      </group>
+    </else-if>
     <else-if type="chapter paper-conference" match="any">
       <group prefix=", " delimiter=" " suffix=" ">
         <text variable="volume"/>
@@ -646,21 +652,27 @@
             <text macro="source"/>
             <text macro="access" prefix=", "/>
           </if>
-          <else-if type="legislation standard" match="any">
-            <text macro="source"/>
-            <text macro="issuance"/>
-          </else-if>
-          <else-if type="bill hearing legal_case" match="any">
+          <else-if type="bill hearing legal_case legislation" match="any">
             <text macro="full-title"/>
             <text macro="source"/>
             <text macro="issuance"/>
+          </else-if>
+          <else-if type="standard" match="any">
+            <text macro="source"/>
+            <text macro="issuance"/>
+          </else-if>
+          <else-if type="post-weblog webpage" match="any">
+            <text macro="author" suffix=", "/>
+            <text macro="full-title"/>
+            <text macro="source"/>
+            <text macro="issuance"/>
+            <text macro="access" prefix=", "/>
           </else-if>
           <else>
             <text macro="author" suffix=", "/>
             <text macro="full-title"/>
             <text macro="source"/>
             <text macro="issuance"/>
-            <text macro="access" prefix=", "/>
           </else>
         </choose>
       </else>
@@ -687,21 +699,29 @@
             <text macro="author" suffix=", "/>
             <text macro="full-title"/>
             <text macro="source"/>
+            <text macro="access" prefix=", "/>
           </if>
           <else-if type="bill hearing legal_case legislation" match="any">
             <text macro="full-title"/>
             <text macro="source"/>
             <text macro="issuance"/>
           </else-if>
-          <else-if type="standard" match="any"></else-if>
+          <else-if type="standard" match="any">
             <text macro="source"/>
             <text macro="issuance"/>
-          <else>
+          </else-if>
+          <else-if type="post-weblog webpage" match="any">
             <text macro="author" suffix=", "/>
             <text macro="full-title"/>
             <text macro="source"/>
             <text macro="issuance"/>
             <text macro="access" prefix=", "/>
+          </else-if>
+          <else>
+            <text macro="author" suffix=", "/>
+            <text macro="full-title"/>
+            <text macro="source"/>
+            <text macro="issuance"/>
           </else>
         </choose>
   </layout>
