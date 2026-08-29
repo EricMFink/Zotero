@@ -19115,16 +19115,6 @@ references:
   type: chapter
   URL: https://intr2dok.vifa-recht.de/receive/mir_mods_00015103
 
-- id: JustMoment_nd
-  accessed:
-    - year: 2026
-      month: 8
-      day: 26
-  citation-key: JustMoment_nd
-  title: Just a moment...
-  type: webpage
-  URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2457675
-
 - id: KadlecMedicalLakeviewAnesthesia_5thCir2008
   authority: 5th Cir.
   citation-key: KadlecMedicalLakeviewAnesthesia_5thCir2008
