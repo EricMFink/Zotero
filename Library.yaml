@@ -11181,6 +11181,35 @@ references:
   type: legal_case
   volume: '430'
 
+- id: Farr2022
+  abstract: >-
+    ABSTRACT This Article uses private law as a lens and a guide to excavate an
+    unfamiliar story about labor and racial violence in the post-slavery south.
+    It is the story of farmers like Colonel Bishop, whose landlord attacked him
+    in the middle of the night in an effort to coerce him into breaching his
+    contract. […]
+  accessed:
+    - year: 2026
+      month: 8
+      day: 30
+  author:
+    - family: Farr
+      given: Brittany
+  citation-key: Farr2022
+  container-title: UCLA Law Review
+  container-title-short: UCLA Law Rev.
+  issued:
+    - year: 2022
+      month: 11
+      day: 28
+  page: '674'
+  title: >-
+    Breach by Violence: The Forgotten History of Sharecropper Litigation in the
+    Post-Slavery South
+  title-short: Breach by Violence
+  type: article-journal
+  volume: '69'
+
 - id: FarwellBostonWorcesterRailroad_Mass1842
   authority: Mass.
   citation-key: FarwellBostonWorcesterRailroad_Mass1842
@@ -26521,6 +26550,13 @@ references:
   genre: MRPC
   number: Rule 3.6
   title: MRPC 3.6
+  type: standard
+
+- id: MRPC37
+  citation-key: MRPC37
+  genre: MRPC
+  number: Rule 3.7
+  title: MRPC 3.7
   type: standard
 
 - id: MRPC38
