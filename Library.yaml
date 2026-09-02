@@ -17972,9 +17972,9 @@ references:
   type: legal_case
   volume: '85'
 
-- id: JohnsonNatlCollegiateAthletic_3rdCir2024
-  authority: 3rd Cir.
-  citation-key: JohnsonNatlCollegiateAthletic_3rdCir2024
+- id: JohnsonNatlCollegiateAthletic_3dCir2024
+  authority: 3d Cir.
+  citation-key: JohnsonNatlCollegiateAthletic_3dCir2024
   container-title: F.4th
   issued:
     - year: 2024
@@ -18115,9 +18115,9 @@ references:
   title-short: Mother jones speaks
   type: book
 
-- id: JonesFordMotorCredit_2ndCir2004
-  authority: 2nd Cir.
-  citation-key: JonesFordMotorCredit_2ndCir2004
+- id: JonesFordMotorCredit_2dCir2004
+  authority: 2d Cir.
+  citation-key: JonesFordMotorCredit_2dCir2004
   container-title: F.3d
   issued:
     - year: 2004
@@ -24133,13 +24133,13 @@ references:
   URL: https://lawrepository.ualr.edu/appellatepracticeprocess/vol18/iss2/3
   volume: '18'
 
-- id: MexicanRadioCorpNLRB_2ndCir2019
+- id: MexicanRadioCorpNLRB_2dCir2019
   accessed:
     - year: 2025
       month: 11
       day: 2
-  authority: 2nd Cir.
-  citation-key: MexicanRadioCorpNLRB_2ndCir2019
+  authority: 2d Cir.
+  citation-key: MexicanRadioCorpNLRB_2dCir2019
   container-title: Fed.Appx.
   issued:
     - year: 2019
@@ -29297,9 +29297,9 @@ references:
   type: legal_case
   volume: '992'
 
-- id: RazakUberTechnologiesInc_3rdCir2020
-  authority: 3rd Cir.
-  citation-key: RazakUberTechnologiesInc_3rdCir2020
+- id: RazakUberTechnologiesInc_3dCir2020
+  authority: 3d Cir.
+  citation-key: RazakUberTechnologiesInc_3dCir2020
   container-title: F.3d
   issued:
     - year: 2020
@@ -35293,9 +35293,9 @@ references:
   title-short: Race for profit
   type: book
 
-- id: TaylorKavanagh_2ndCir1981
-  authority: 2nd Cir.
-  citation-key: TaylorKavanagh_2ndCir1981
+- id: TaylorKavanagh_2dCir1981
+  authority: 2d Cir.
+  citation-key: TaylorKavanagh_2dCir1981
   container-title: F. 2d
   issued:
     - year: 1981
@@ -35653,9 +35653,9 @@ references:
   title-short: Working on the dock of the bay
   type: book
 
-- id: ThreeLLCTriplePlay_2ndCir2015
-  authority: 2nd Cir.
-  citation-key: ThreeLLCTriplePlay_2ndCir2015
+- id: ThreeLLCTriplePlay_2dCir2015
+  authority: 2d Cir.
+  citation-key: ThreeLLCTriplePlay_2dCir2015
   container-title: Fed. App'x
   issued:
     - year: 2015
@@ -36033,9 +36033,9 @@ references:
   type: chapter
   URL: http://ebookcentral.proquest.com/lib/elon-ebooks/detail.action?docID=4701078
 
-- id: TruittSalisburyBankTrust_2ndCir2022
-  authority: 2nd Cir.
-  citation-key: TruittSalisburyBankTrust_2ndCir2022
+- id: TruittSalisburyBankTrust_2dCir2022
+  authority: 2d Cir.
+  citation-key: TruittSalisburyBankTrust_2dCir2022
   container-title: F.4th
   issued:
     - year: 2022
@@ -36993,9 +36993,9 @@ references:
   type: legal_case
   volume: '555'
 
-- id: WangHearstCorp_2ndCir2017
-  authority: 2nd Cir.
-  citation-key: WangHearstCorp_2ndCir2017
+- id: WangHearstCorp_2dCir2017
+  authority: 2d Cir.
+  citation-key: WangHearstCorp_2dCir2017
   container-title: F.3d
   issued:
     - year: 2017
@@ -37521,9 +37521,9 @@ references:
   type: legal_case
   volume: '353'
 
-- id: WhitingLacara_2ndCir1999
-  authority: 2nd Cir.
-  citation-key: WhitingLacara_2ndCir1999
+- id: WhitingLacara_2dCir1999
+  authority: 2d Cir.
+  citation-key: WhitingLacara_2dCir1999
   container-title: F. 3d
   issued:
     - year: 1999
