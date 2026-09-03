@@ -15,13 +15,93 @@
     <updated>2026-08-21T04:14:00-0400-04:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
-  <locale>
-    <terms>
-      <term name="editor" form="verb-short">ed.</term>
-      <term name="ibid">id.</term>
-      <term name="translator" form="verb-short">trans.</term>
-    </terms>
-  </locale>
+  
+<locale>
+  <style-options />
+  <terms>
+    <term name="editor" form="verb-short">ed.</term>
+    <term name="translator" form="verb-short">trans.</term>
+    <term name="number" form="long">number</term>
+    <term name="number" form="short">no.</term>
+    <term name="and" form="symbol">&amp;</term>
+    <term name="article">article</term>
+    <term name="director">director</term>
+    <term form="short" name="director">dir.</term>
+    <term form="short" name="article">
+      <single>art.</single>
+      <multiple>arts.</multiple>
+    </term>
+    <term name="rule">Rule</term>
+    <term name="rule" form="short">r.</term>
+    <term form="short" name="chapter">ch.</term>
+    <term form="short" name="column">col.</term>
+    <term form="short" name="figure">fig.</term>
+    <term form="short" name="issue">no.</term>
+    <term form="short" name="line">
+      <single>l.</single>
+      <multiple>ll.</multiple>
+    </term>
+    <term form="short" name="note">
+      <single>n.</single>
+      <multiple>nn.</multiple>
+    </term>
+    <term name="number">
+      <single>number</single>
+      <multiple>numbers</multiple>
+    </term>
+    <term name="number" form="short">
+      <single>no.</single>
+      <multiple>nos.</multiple>
+    </term>
+    <term form="short" name="opus">op.</term>
+    <term form="short" name="page">
+      <single>p.</single>
+      <multiple>pp.</multiple>
+    </term>
+    <term form="short" name="paragraph">
+      <single>para.</single>
+      <multiple>paras.</multiple>
+    </term>
+    <term form="symbol" name="paragraph">
+      <single>&#182;</single>
+      <multiple>&#182;&#182;</multiple>
+    </term>
+    <term form="short" name="part">pt.</term>
+    <term form="short" name="section">
+      <single>sec.</single>
+      <multiple>secs.</multiple>
+    </term>
+    <term form="symbol" name="section">
+      <single>&#167;</single>
+      <multiple>&#167;&#167;</multiple>
+    </term>
+    <term form="short" name="verse">vrs.</term>
+    <term form="short" name="volume">vol.</term>
+    <term form="short" name="edition">
+      <single>ed.</single>
+      <multiple>eds.</multiple>
+    </term>
+    <term form="short" name="supplement">
+      <single>supp.</single>
+      <multiple>supps.</multiple>
+    </term>
+    <term name="ibid">id.</term>
+    <term form="verb" name="interview">interview by</term>
+    <term form="short" name="translator">trans.</term>
+    <term name="ordinal">th</term>
+    <term name="ordinal-01">st</term>
+    <term name="ordinal-02">d</term>
+    <term name="ordinal-03">d</term>
+    <term name="ordinal-11">th</term>
+    <term name="ordinal-12">th</term>
+    <term name="ordinal-13">th</term>
+  </terms>
+  <date form="text">
+    <date-part form="short" name="month" suffix=" "/>
+    <date-part form="numeric" name="day" suffix=", "/>
+    <date-part name="year"/>
+  </date>
+</locale>
   
   <macro name="author">
     <names variable="author">
@@ -109,7 +189,7 @@
       <else-if type="standard">
 	  	<group delimiter=" ">
         	<text variable="genre"/>
-        	<text variable="number" prefix=", "/>
+        	<text variable="number"/>
 		</group>
       </else-if>
       <else-if type="article-newspaper article-magazine" match="any">

@@ -7211,34 +7211,6 @@ references:
   type: post-weblog
   URL: https://lpeproject.org/blog/on-constitutional-crisis-the-rule-of-law-and-the-fate-of-democracy/
 
-- id: ConstitutionAmendment14
-  citation-key: ConstitutionAmendment14
-  genre: U.S. Constitution
-  number: Amend. 14
-  title: Constitution, Amendment 14
-  type: standard
-
-- id: ConstitutionAmendment5
-  citation-key: ConstitutionAmendment5
-  genre: U.S. Constitution
-  number: Amend. V
-  title: Constitution, Amendment 5
-  type: standard
-
-- id: ConstitutionArticle3
-  citation-key: ConstitutionArticle3
-  genre: U.S. Constitution
-  number: Art. III
-  title: Constitution, Article 3
-  type: standard
-
-- id: ConstitutionArticle4
-  citation-key: ConstitutionArticle4
-  genre: U.S. Constitution
-  number: Art. IV
-  title: Constitution, Article 4
-  type: standard
-
 - id: ContemporaneousResidentialRealEstate_NCStateBar2021
   authority: N.C. State Bar
   citation-key: ContemporaneousResidentialRealEstate_NCStateBar2021
@@ -11005,7 +10977,7 @@ references:
 - id: FederalRulesEvidence502
   citation-key: FederalRulesEvidence502
   genre: Fed. R. Evid.
-  number: '502'
+  number: Rule 502
   title: Federal Rules of Evidence 502
   type: standard
 
@@ -25940,7 +25912,7 @@ references:
 - id: NCRulesProfessionalConduct86
   citation-key: NCRulesProfessionalConduct86
   genre: N.C.R.P.C.
-  number: '8.6'
+  number: Rule 8.6
   title: N.C. Rules of Professional Conduct 8.6
   type: standard
 
@@ -36563,6 +36535,34 @@ references:
   title: U.S. Civil Rights Congress Officer To Lose Passport
   type: article-newspaper
   URL: https://www.proquest.com/docview/152417738/abstract/C7C6757E0ED14FACPQ/44
+
+- id: USConstitutionAmend14
+  citation-key: USConstitutionAmend14
+  genre: U.S. Constitution
+  number: amend. XIV
+  title: U.S. Constitution amend. 14
+  type: standard
+
+- id: USConstitutionAmend5
+  citation-key: USConstitutionAmend5
+  genre: U.S. Constitution
+  number: amend. V
+  title: U.S. Constitution amend. 5
+  type: standard
+
+- id: USConstitutionArt3
+  citation-key: USConstitutionArt3
+  genre: U.S. Constitution
+  number: art. III
+  title: U.S. Constitution art. 3
+  type: standard
+
+- id: USConstitutionArt4
+  citation-key: USConstitutionArt4
+  genre: U.S. Constitution
+  number: art. IV
+  title: U.S. Constitution art. 4
+  type: standard
 
 - id: USDeloitteLLP_DCCir2010
   authority: D.C. Cir.
