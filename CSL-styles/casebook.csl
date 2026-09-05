@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="2.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <info>
     <title>Casebook Bibliography</title>
 	<id>https://emfink.net/Zotero/CSL-styles/casebook-bibliography.csl</id>
@@ -12,12 +12,12 @@
     <category citation-format="in-text"/>
     <category field="law"/>
     <summary>Reference style for casebooks, with inline short cites (case_name-date; author-title-date) and bibliography. Based on Bluebook Law Review and Chicago author-date</summary>
-    <updated>2026-08-21T04:14:00-0400-04:00</updated>
+    <updated>2026-09-05T12:58:49-0400-04:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   
-<locale>
-  <style-options />
+<locale xml:lang="en-US">
+  <style-options />>
   <terms>
     <term name="editor" form="verb-short">ed.</term>
     <term name="translator" form="verb-short">trans.</term>
@@ -94,7 +94,20 @@
     <term name="ordinal-03">d</term>
     <term name="ordinal-11">th</term>
     <term name="ordinal-12">th</term>
-    <term name="ordinal-13">th</term>
+    <term name="ordinal-13">th</term>   
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">Jan.</term>
+    <term name="month-02" form="short">Feb.</term>
+    <term name="month-03" form="short">Mar.</term>
+    <term name="month-04" form="short">Apr.</term>
+    <term name="month-05" form="short">May</term>
+    <term name="month-06" form="short">June</term>
+    <term name="month-07" form="short">July</term>
+    <term name="month-08" form="short">Aug.</term>
+    <term name="month-09" form="short">Sept.</term>
+    <term name="month-10" form="short">Oct.</term>
+    <term name="month-11" form="short">Nov.</term>
+    <term name="month-12" form="short">Dec.</term>
   </terms>
   <date form="text">
     <date-part form="short" name="month" suffix=" "/>
@@ -172,7 +185,7 @@
                   </group>
                 </if>
                 <else>
-                  <text variable="number"/>
+                  <text variable="number" prefix="No. " />
                 </else>
               </choose>
             <text macro="issuance" prefix="(" suffix=")"/>
@@ -285,12 +298,26 @@
             </group>
           </if>
           <else-if type="legal_case">
-            <group delimiter=" ">
-              <text variable="authority" form="short"/>
-              <date variable="issued">
-                <date-part name="year"/>
-              </date>
-            </group>
+			<choose>
+			  <if variable="container-title">
+				<group delimiter=" ">
+				  <text variable="authority" form="short"/>
+				  <date variable="issued">
+				  <date-part name="year"/>
+				  </date>
+				</group>
+			  </if>
+			  <else>
+				<group delimiter=" ">
+				  <text variable="authority" form="short"/>
+				  <date variable="issued">
+                      <date-part name="month" form="short" suffix=" "/>
+                      <date-part name="day" prefix=" " suffix=", "/>
+				  <date-part name="year"/>				  
+				  </date>
+				</group>
+			  </else>
+			</choose>
           </else-if>
           <else>
             <group delimiter=", ">

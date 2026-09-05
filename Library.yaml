@@ -1232,6 +1232,17 @@ references:
   type: post-weblog
   URL: https://lawstreetmedia.com/news/agriculture/amicus-briefs-filed-in-peta-suit-against-north-carolina-law/
 
+- id: AmmelSinema_MDNC2026
+  authority: M.D.N.C.
+  citation-key: AmmelSinema_MDNC2026
+  issued:
+    - year: 2026
+      month: 9
+      day: 4
+  number: 1:26-CV-38
+  title: Ammel v. Sinema
+  type: legal_case
+
 - id: Anderson1979
   abstract: >-
     "The political nature of Absolutism has long been a subject of controversy
@@ -4985,7 +4996,7 @@ references:
     - year: 2018
       month: 11
       day: 1
-  number: No. 3:17-cv-00093-GFVT
+  number: 3:17-cv-00093-GFVT
   title: Burdine v. Metropolitan Direct Prop. & Cas. Ins. Co.
   type: legal_case
 

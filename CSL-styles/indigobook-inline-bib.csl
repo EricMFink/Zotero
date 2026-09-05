@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="2.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
 <info>
   <title>IndigoBook Inline Bibliography</title>
   <id>https://emfink.net/Zotero/CSL-styles/indigobook-inline-bibliography.csl</id>
@@ -13,11 +13,11 @@
   <category citation-format="in-text"/>
   <category field="law"/>
   <summary>IndigoBook legal citation style for with inline references and bibliography.</summary>
-  <updated>2026-08-26T19:10:00+00:00</updated>
+  <updated>2026-09-05T01:10:19-0400-04:00</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
 </info>
 
-<locale>
+<locale xml:lang="en-US">
   <style-options />
   <terms>
     <term name="editor" form="verb-short">ed.</term>
@@ -96,6 +96,19 @@
     <term name="ordinal-11">th</term>
     <term name="ordinal-12">th</term>
     <term name="ordinal-13">th</term>
+    <!-- SHORT MONTH FORMS -->
+    <term name="month-01" form="short">Jan.</term>
+    <term name="month-02" form="short">Feb.</term>
+    <term name="month-03" form="short">Mar.</term>
+    <term name="month-04" form="short">Apr.</term>
+    <term name="month-05" form="short">May</term>
+    <term name="month-06" form="short">June</term>
+    <term name="month-07" form="short">July</term>
+    <term name="month-08" form="short">Aug.</term>
+    <term name="month-09" form="short">Sept.</term>
+    <term name="month-10" form="short">Oct.</term>
+    <term name="month-11" form="short">Nov.</term>
+    <term name="month-12" form="short">Dec.</term>
   </terms>
   <date form="text">
     <date-part form="short" name="month" suffix=" "/>
