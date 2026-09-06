@@ -18839,6 +18839,20 @@ references:
   type: chapter
   URL: https://intr2dok.vifa-recht.de/receive/mir_mods_00015103
 
+- id: Kabas_nd
+  abstract: LinkedIn may be awash with boosters, but shunning AI is the human choice.
+  accessed:
+    - year: 2026
+      month: 9
+      day: 6
+  author:
+    - family: Kabas
+      given: Marisa
+  citation-key: Kabas_nd
+  title: Hating AI is good, actually
+  type: webpage
+  URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually
+
 - id: KadlecMedicalLakeviewAnesthesia_5thCir2008
   authority: 5th Cir.
   citation-key: KadlecMedicalLakeviewAnesthesia_5thCir2008
