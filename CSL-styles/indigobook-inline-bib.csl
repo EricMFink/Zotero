@@ -252,12 +252,17 @@
 <macro name="source">
   <choose>
     <if type="article-journal" match="any">
-      <group delimiter=" ">
-        <text variable="volume"/>
-        <text macro="container"/>
-      </group>
-      <text variable="page" prefix=" "/>
-      <text variable="locator" prefix=", "/>
+          <group delimiter=", ">
+            <text variable="title" text-case="title" font-style="italic"/>
+            <group delimiter=" ">
+              <text variable="volume"/>
+              <text macro="container"/>
+              <text variable="page-first"/>
+            </group>
+            <text variable="locator"/>
+          </group>
+          <text macro="issuance" prefix="(" suffix=")"/>
+        </group>
     </if>
     <else-if type="legal_case">
         <group delimiter=" ">
@@ -335,17 +340,18 @@
       <text variable="locator" prefix=" "/>
     </else-if>
     <else-if type="article-newspaper article-magazine thesis" match="any">
-      <group delimiter=", ">
-        <group delimiter=" ">
-          <text variable="volume"/>
-          <text macro="container"/>
+        <group delimiter=", ">
+          <text variable="title" text-case="title" font-style="italic"/>
+          <group delimiter=" ">
+            <text variable="volume"/>
+            <text macro="container"/>
+          </group>
+          <text macro="issuance"/>
+          <group delimiter=" ">
+            <text value="at"/>
+            <text variable="page-first"/>
+          </group>
         </group>
-        <text macro="issuance"/>
-        <group delimiter=" ">
-          <text value="at"/>
-          <text variable="page"/>
-        </group>
-      </group>
     </else-if>
     <else>
       <group prefix=", " delimiter=" " suffix=" ">

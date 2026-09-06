@@ -1,34 +1,5 @@
 ---
 references:
-- id: 1331FederalQuestion
-  citation-key: 1331FederalQuestion
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: '1331'
-  title: 1331 Federal Question
-  type: legislation
-  volume: '28'
-
-- id: 1332Diversity
-  citation-key: 1332Diversity
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1332'
-  title: 1332 Diversity of Citizenship
-  type: legislation
-  volume: '28'
-
-- id: 1367SupplementalJurisdiction
-  citation-key: 1367SupplementalJurisdiction
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1367'
-  title: 1367 Supplemental Jurisdiction
-  type: legislation
-  volume: '28'
-
 - id: 1441Removal
   citation-key: 1441Removal
   container-title: U.S.C.
@@ -36,16 +7,6 @@ references:
   language: en
   section: '1441'
   title: Removal of Civil Actions
-  type: legislation
-  volume: '28'
-
-- id: 1445NonremovableActions
-  citation-key: 1445NonremovableActions
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1445'
-  title: Nonremovable Actions
   type: legislation
   volume: '28'
 
@@ -66,16 +27,6 @@ references:
   language: en
   section: '1447'
   title: Procedure After Removal
-  type: legislation
-  volume: '28'
-
-- id: 1738FullFaithCredit
-  citation-key: 1738FullFaithCredit
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1738'
-  title: 1738 Full Faith & Credit
   type: legislation
   volume: '28'
 
@@ -185,6 +136,174 @@ references:
   title: The 2024 Lawyer's Handbook
   type: document
 
+- id: 27NCAdminCode03.0600
+  citation-key: 27NCAdminCode03.0600
+  container-title: N.C. Admin Code
+  section: '03.0600'
+  title: >-
+    Rules Governing Admission to the Practice of Law in the State of North
+    Carolina
+  type: legislation
+  volume: '27'
+
+- id: 28USC1331
+  citation-key: 28USC1331
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '1331'
+  title: 1331 Federal Question
+  type: legislation
+  volume: '28'
+
+- id: 28USC1332
+  citation-key: 28USC1332
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1332'
+  title: 1332 Diversity of Citizenship
+  type: legislation
+  volume: '28'
+
+- id: 28USC1367
+  citation-key: 28USC1367
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1367'
+  title: 1367 Supplemental Jurisdiction
+  type: legislation
+  volume: '28'
+
+- id: 28USC1445
+  citation-key: 28USC1445
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1445'
+  title: Nonremovable Actions
+  type: legislation
+  volume: '28'
+
+- id: 28USC1652
+  citation-key: 28USC1652
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1652'
+  title: RDA 1652
+  type: legislation
+  volume: '28'
+
+- id: 28USC1738
+  citation-key: 28USC1738
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1738'
+  title: 1738 Full Faith & Credit
+  type: legislation
+  volume: '28'
+
+- id: 28USC2071
+  citation-key: 28USC2071
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2071'
+  title: REA 2071
+  type: legislation
+  volume: '28'
+
+- id: 28USC2072
+  citation-key: 28USC2072
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2072'
+  title: REA 2072
+  type: legislation
+  volume: '28'
+
+- id: 28USC2073
+  citation-key: 28USC2073
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2073'
+  title: REA 2073
+  type: legislation
+  volume: '28'
+
+- id: 28USC2074
+  citation-key: 28USC2074
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2074'
+  title: REA 2074
+  type: legislation
+  volume: '28'
+
+- id: 29CFR1604.11
+  accessed:
+    - year: 2026
+      month: 1
+      day: 5
+  citation-key: 29CFR1604.11
+  container-title: C.F.R.
+  container-title-short: C.F.R.
+  language: en
+  section: '1604.11'
+  title: Discrimination Because of Sex - Sexual harassment
+  type: legislation
+  volume: '29'
+
+- id: 29CFR1604.1etseq
+  citation-key: 29CFR1604.1etseq
+  container-title: C.F.R.
+  container-title-short: C.F.R.
+  section: 1604.1 et seq
+  title: Guidelines on Discrimination Because of Sex
+  type: legislation
+  volume: '29'
+
+- id: 29USC1381
+  citation-key: 29USC1381
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '1381'
+  title: ERISA - Withdrawal liability established; criteria and definitions
+  type: legislation
+  volume: '29'
+
+- id: 29USC1391
+  citation-key: 29USC1391
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '1391'
+  title: ERISA - Methods for computing withdrawal liability
+  type: legislation
+  volume: '29'
+
+- id: 29USC1393
+  citation-key: 29USC1393
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '1393'
+  title: ERISA - Actuarial assumptions
+  type: legislation
+  volume: '29'
+
+- id: 29USC2601etseq.
+  citation-key: 29USC2601etseq.
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: 2601 et seq.
+  title: Family and Medical Leave Act
+  type: legislation
+  volume: '29'
+
 - id: 2GroupsGiven_TheWashingtonPostandTimesHerald1957
   abstract: >-
     The Civil Rights Congress and the American Peace Crusade were branded
@@ -209,6 +328,39 @@ references:
   title: 2 Groups Given Red Front Label
   type: article-newspaper
   URL: https://www.proquest.com/docview/148879626/abstract/C7C6757E0ED14FACPQ/78
+
+- id: 42USC1981a
+  citation-key: 42USC1981a
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: 1981a
+  title: Damages in cases of intentional discrimination in employment
+  type: legislation
+  volume: '42'
+
+- id: 42USC2000e
+  abstract: Title VII of the Civil Rights Act of 1964
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: 42USC2000e
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: 2000e
+  title: Civil Rights Act of 1964, Title VII
+  type: legislation
+  volume: '42'
+
+- id: 49USC14501
+  citation-key: 49USC14501
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '14501'
+  title: FAA Authorization Act - Federal authority over intrastate transportation
+  type: legislation
+  volume: '49'
 
 - id: 4thOfficialBail_TheWashingtonPost1951
   abstract: >-
@@ -259,6 +411,22 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/112191239/abstract/C7C6757E0ED14FACPQ/28
 
+- id: 89FR1638Jan
+  author:
+    - family: U.S. Dept. of Labor
+      given: ''
+  citation-key: 89FR1638Jan
+  container-title: 89 FR 1638 (Jan. 10, 2024)
+  container-title-short: 89 FR 1638 Jan 10 2024
+  issued:
+    - year: 2024
+      month: 1
+      day: 10
+  title: >-
+    Employee or Independent Contractor Classification Under the Fair Labor
+    Standards Act (Final Rule)
+  type: legislation
+
 - id: 98FEO16_NCStateBar1999
   accessed:
     - year: 2024
@@ -273,6 +441,121 @@ references:
   title: '98 FEO 16: Representation of Client Resisting an Incompetency Petition'
   type: document
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/98-formal-ethics-opinion-16/
+
+- id: 9USC1
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: 9USC1
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1'
+  title: >-
+    Fed Arb. Act s.1 - “Maritime transactions” and “commerce” defined;
+    exceptions to operation of title
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: 9USC10
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: 9USC10
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '10'
+  title: Fed Arb. Act s.10 - Award of arbitrators; vacation; grounds
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: 9USC11
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: 9USC11
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '11'
+  title: >-
+    Fed Arb. Act s.11 - Award of arbitrators; modification or correction;
+    grounds; order
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: 9USC2
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: 9USC2
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '2'
+  title: >-
+    Fed Arb. Act s.2 - Validity, irrevocability, and enforcement of agreements
+    to arbitrate
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: 9USC3
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: 9USC3
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '3'
+  title: >-
+    Fed Arb. Act s.3 - Stay of proceedings where issue therein referable to
+    arbitration
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: 9USC4
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: 9USC4
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '4'
+  title: Fed Arb. Act s.4 - Failure to arbitrate under agreement
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
+
+- id: 9USC9
+  accessed:
+    - year: 2026
+      month: 8
+      day: 17
+  citation-key: 9USC9
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '9'
+  title: >-
+    Fed Arb. Act s.9 - Award of arbitrators; confirmation; jurisdiction;
+    procedure
+  type: legislation
+  URL: https://www.law.cornell.edu/uscode/text/9/1
+  volume: '9'
 
 - id: Aaron1998
   author:
@@ -291,8 +574,8 @@ references:
   type: article-journal
   volume: '20'
 
-- id: ABACriminalJusticeStandardsProsecutionFunction
-  citation-key: ABACriminalJusticeStandardsProsecutionFunction
+- id: ABACriminalJusticeStandards
+  citation-key: ABACriminalJusticeStandards
   genre: A.B.A. Criminal Justice Standards for the Prosecution Function
   issued:
     - year: 2017
@@ -808,6 +1091,26 @@ references:
   type: legislation
   volume: '29'
 
+- id: Adib-Moghaddam2025
+  abstract: >-
+    The myth of good AI - Browse and buy the Paperback edition of The myth of
+    good AI by Arshin Adib-Moghaddam
+  accessed:
+    - year: 2026
+      month: 9
+      day: 5
+  author:
+    - family: Adib-Moghaddam
+      given: Arshin
+  citation-key: Adib-Moghaddam2025
+  issued:
+    - year: 2025
+  language: en-US
+  publisher: Manchester University Press
+  title: 'The myth of good AI: A manifesto for critical Artificial Intelligence'
+  type: book
+  URL: https://manchesteruniversitypress.co.uk/9781526189509/
+
 - id: AerotekIncNLRB_8thCir2018
   authority: 8th Cir.
   citation-key: AerotekIncNLRB_8thCir2018
@@ -1239,7 +1542,7 @@ references:
     - year: 2026
       month: 9
       day: 4
-  number: 1:26-CV-38
+  number: 1:26-cv-38
   title: Ammel v. Sinema
   type: legal_case
 
@@ -4599,7 +4902,7 @@ references:
     - year: 2025
       month: 7
       day: 1
-  number: No. 4:24-cv-00091-DN-PK
+  number: No. 4:24-cv-00091
   title: Broadbent v. Williams
   type: legal_case
 
@@ -4996,7 +5299,7 @@ references:
     - year: 2018
       month: 11
       day: 1
-  number: 3:17-cv-00093-GFVT
+  number: 3:17-cv-00093
   title: Burdine v. Metropolitan Direct Prop. & Cas. Ins. Co.
   type: legal_case
 
@@ -5391,14 +5694,6 @@ references:
   URL: https://read.dukeupress.edu/labor/article/16/2/99/138628/Influence-without-BargainingUnionization-at-the
   volume: '16'
 
-- id: Cal16608EmployeeTrainingDebts
-  citation-key: Cal16608EmployeeTrainingDebts
-  container-title: Cal. Bus. & Prof. Code
-  container-title-short: Cal Bus Prof Code
-  section: '16608'
-  title: Contracts in Restraint of Trade (Employee Training Debts)
-  type: legislation
-
 - id: Calavita2014
   abstract: >-
     On 10 February 1999, Italy’s highest court of appeals overturned the
@@ -5470,34 +5765,39 @@ references:
   title-short: Invitation to law and society, second edition
   type: book
 
-- id: CalBPCode16600NonCompetes
-  citation-key: CalBPCode16600NonCompetes
-  container-title: Cal. Bus. & Prof. Code
-  container-title-short: Cal Bus Prof Code
+- id: CalBusProfCode16600etseq.
+  citation-key: CalBusProfCode16600etseq.
+  container-title: Bus. & Prof. Code
+  container-title-short: Bus Prof Code
   section: 16600 et seq.
   title: Contracts in Restraint of Trade (Noncompetition Agreements)
   type: legislation
+  volume: Cal.
 
-- id: CaliforniaLongArm
-  citation-key: CaliforniaLongArm
-  container-title: Cal. Code Civ. Proc.
+- id: CalBusProfCode16608
+  citation-key: CalBusProfCode16608
+  container-title: Bus. & Prof. Code
+  container-title-short: Bus Prof Code
+  section: '16608'
+  title: Contracts in Restraint of Trade (Employee Training Debts)
+  type: legislation
+  volume: Cal.
+
+- id: CalCodeCivProc410.10
+  citation-key: CalCodeCivProc410.10
+  container-title: Code Civ. Proc.
   section: '410.10'
   title: California Long Arm
   type: legislation
+  volume: Cal.
 
-- id: CalLabCode926EmployeeTrainingDebts
-  citation-key: CalLabCode926EmployeeTrainingDebts
-  container-title: Cal. Labor Code
+- id: CalLaborCode926
+  citation-key: CalLaborCode926
+  container-title: Labor Code
   section: '926'
   title: Contracts Against Public Policy (Employee Training Debts)
   type: legislation
-
-- id: CalLabCode980SocialMedia
-  citation-key: CalLabCode980SocialMedia
-  container-title: Cal. Labor Code
-  section: '980'
-  title: Employer Use of Social Media
-  type: legislation
+  volume: Cal.
 
 - id: CamachoMajorLeagueBaseball_SDCal2013
   authority: S.D. Cal.
@@ -5506,7 +5806,7 @@ references:
     - year: 2013
       month: 12
       day: 19
-  number: No. 12-cv-2859-L(BGS)
+  number: 12-cv-2859
   title: Camacho v. Major League Baseball
   type: legal_case
 
@@ -6810,6 +7110,44 @@ references:
   URL: https://larc.cardozo.yu.edu/clr/vol11/iss4/3
   volume: '11'
 
+- id: Coeckelbergh2026
+  abstract: >-
+    The rapid development of digital technologies, including AI, is having a
+    significant impact on the social, economic, and political life. Yet, while
+    presented as milestones in innovation and progress, these technological
+    transformations have also introduced mechanisms of control, forms of
+    organization, and ideological patterns that bear striking resemblances to
+    historical fascist phenomena. Moreover, in parallel and increasingly
+    intersecting with this development is a broader political context of fascist
+    ideologies and strategies, populism, authoritarianism, and (other forms of)
+    illiberalism in the West. Drawing from the classic philosophical and
+    political theory literature on fascism, authoritarianism, and
+    totalitarianism, this paper argues that and how features of contemporary
+    digital technologies, their governance, and their political context mirror
+    features of fascism. It concludes with a call to resist these new,
+    anti-democratic forms of governance and domination, and make more systemic
+    changes to both the development of technologies and the governance of tech
+    and society.
+  author:
+    - family: Coeckelbergh
+      given: Mark
+  citation-key: Coeckelbergh2026
+  container-title: AI & Society
+  container-title-short: AI Soc.
+  DOI: 10.1007/s00146-026-02862-9
+  ISSN: 1435-5655
+  issue: '5'
+  issued:
+    - year: 2026
+      month: 5
+      day: 1
+  language: en
+  page: 5163–5176
+  title: 'Technofascism: AI, Big Tech, and the new authoritarianism'
+  title-short: Technofascism
+  type: article-journal
+  volume: '41'
+
 - id: Coffman2022
   abstract: >-
     Disclaimer: This summary was generated by AI based on the content of the
@@ -7195,7 +7533,7 @@ references:
     - year: 2020
       month: 7
       day: 18
-  number: No. 20-724
+  number: 20-724
   title: Complete Bus. Sol. Grp. v. Annie's Pooch Pops
   type: legal_case
 
@@ -7715,6 +8053,30 @@ references:
   type: legal_case
   volume: '50'
 
+- id: Crawford2024
+  abstract: >-
+    First-of-its-kind US bill would address the environmental costs of the
+    technology, but there’s a long way to go.
+  author:
+    - family: Crawford
+      given: Kate
+  citation-key: Crawford2024
+  container-title: Nature
+  DOI: 10.1038/d41586-024-00478-x
+  issue: '8000'
+  issued:
+    - year: 2024
+      month: 2
+      day: 20
+  language: en
+  license: 2024 Springer Nature Limited
+  page: 693–693
+  publisher: Nature Publishing Group
+  source: www.nature.com
+  title: Generative AI’s environmental costs are soaring — and mostly secret
+  type: article-journal
+  volume: '626'
+
 - id: CrimesClaudeLightfoot_CivilRightsCongress1955
   citation-key: CrimesClaudeLightfoot_CivilRightsCongress1955
   issued:
@@ -8081,15 +8443,6 @@ references:
   title: Dalton v. Camp
   type: legal_case
   volume: '353'
-
-- id: DamagesCasesIntentional_nd
-  citation-key: DamagesCasesIntentional_nd
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: 1981a
-  title: Damages in cases of intentional discrimination in employment
-  type: legislation
-  volume: '42'
 
 - id: Damm2020
   abstract: >-
@@ -8749,13 +9102,6 @@ references:
   type: legal_case
   volume: '170'
 
-- id: DisciplineDisbarment_NCGenStat84-28
-  citation-key: DisciplineDisbarment_NCGenStat84-28
-  container-title: N.C. Gen. Stat.
-  section: 84-28
-  title: NCGS 84-28 Discipline and disbarment
-  type: legislation
-
 - id: DiscriminationAmericanWorkersLaw_USEqualEmploymentOpportunityCommission_nd
   abstract: Download a PDF version of this document
   accessed:
@@ -8768,20 +9114,6 @@ references:
   title: Discrimination Against American Workers Is Against The Law
   type: webpage
   URL: https://www.eeoc.gov/discrimination-against-american-workers-against-law
-
-- id: DiscriminationBecauseSex_nd
-  accessed:
-    - year: 2026
-      month: 1
-      day: 5
-  citation-key: DiscriminationBecauseSex_nd
-  container-title: C.F.R.
-  container-title-short: C.F.R.
-  language: en
-  section: '1604.11'
-  title: Discrimination Because of Sex - Sexual harassment
-  type: legislation
-  volume: '29'
 
 - id: Dlugacz2011
   author:
@@ -8895,7 +9227,7 @@ references:
     - year: 2025
       month: 4
       day: 28
-  number: No. 1:25-cv-368
+  number: 1:25-cv-368
   title: Doe v. Clinton Cty.
   type: legal_case
 
@@ -10011,6 +10343,9 @@ references:
   type: book
 
 - id: EffectuationNationalLabor2021
+  author:
+    - family: National Labor Relations Board
+      given: ''
   citation-key: EffectuationNationalLabor2021
   genre: General Counsel Memo
   issued:
@@ -10212,20 +10547,6 @@ references:
   URL: http://www.jstor.org/stable/1073394
   volume: '78'
 
-- id: EmployeeDutyLoyaltyEmployer
-  accessed:
-    - year: 2023
-      month: 2
-      day: 28
-  citation-key: EmployeeDutyLoyaltyEmployer
-  genre: Restatement of Employment Law
-  issued:
-    - year: 2015
-  language: en
-  publisher: American Law Institute
-  title: Employee duty of loyalty to the employer
-  type: standard
-
 - id: EmployersStealBillions_Cooper2017-05-0010
   author:
     - family: Cooper
@@ -10344,6 +10665,31 @@ references:
   type: legal_case
   volume: '46'
 
+- id: EnvironmentalCostDatacentres_Stock_TheGuardian2026
+  abstract: >-
+    As the QuitGPT movement gains momentum, should people concerned about the
+    environmental impacts of AI consider opting out?
+  accessed:
+    - year: 2026
+      month: 9
+      day: 5
+  author:
+    - family: Stock
+      given: Petra
+  citation-key: EnvironmentalCostDatacentres_Stock_TheGuardian2026
+  container-title: The Guardian
+  ISSN: 0261-3077
+  issued:
+    - year: 2026
+      month: 3
+      day: 13
+  language: en-GB
+  section: Australia news
+  source: The Guardian
+  title: The environmental cost of datacentres is rising. Is it time to quit AI?
+  type: article-newspaper
+  URL: https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts
+
 - id: Epstein1983
   author:
     - family: Epstein
@@ -10391,33 +10737,6 @@ references:
   title: Erie Railroad Co. v. Tompkins
   type: legal_case
   volume: '304'
-
-- id: ERISAActuarialAssumptions_29USC1393
-  citation-key: ERISAActuarialAssumptions_29USC1393
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: '1393'
-  title: ERISA - Actuarial assumptions
-  type: legislation
-  volume: '29'
-
-- id: ERISAMethodsComputing_29USC1391
-  citation-key: ERISAMethodsComputing_29USC1391
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: '1391'
-  title: ERISA - Methods for computing withdrawal liability
-  type: legislation
-  volume: '29'
-
-- id: ERISAWithdrawalLiability_29USC1381
-  citation-key: ERISAWithdrawalLiability_29USC1381
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: '1381'
-  title: ERISA - Withdrawal liability established; criteria and definitions
-  type: legislation
-  volume: '29'
 
 - id: Ermakoff2020
   abstract: >-
@@ -10796,15 +11115,6 @@ references:
   type: legal_case
   volume: '545'
 
-- id: FAAAuthorizationAct_49USC14501
-  citation-key: FAAAuthorizationAct_49USC14501
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: '14501'
-  title: FAA Authorization Act - Federal authority over intrastate transportation
-  type: legislation
-  volume: '49'
-
 - id: FairLaborStandards1938
   citation-key: FairLaborStandards1938
   container-title: U.S.C.
@@ -10999,120 +11309,214 @@ references:
   type: article-newspaper
   URL: https://newspapers.digitalnc.org/lccn/sn92073228/1955-04-20/ed-1/seq-1/
 
-- id: FedArbAct_9USC1
-  accessed:
-    - year: 2026
-      month: 8
-      day: 17
-  citation-key: FedArbAct_9USC1
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1'
-  title: >-
-    Fed Arb. Act s.1 - “Maritime transactions” and “commerce” defined;
-    exceptions to operation of title
-  type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
-  volume: '9'
+- id: FedCiv
+  citation-key: FedCiv
+  genre: Fed. R. Civ. P.
+  title: FRCP
+  type: standard
 
-- id: FedArbAct_9USC10
-  accessed:
-    - year: 2026
-      month: 8
-      day: 17
-  citation-key: FedArbAct_9USC10
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '10'
-  title: Fed Arb. Act s.10 - Award of arbitrators; vacation; grounds
-  type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
-  volume: '9'
+- id: FedCiv_Rule1
+  citation-key: FedCiv_Rule1
+  genre: Fed. R. Civ. P.
+  number: Rule 1
+  title: FRCP 1
+  type: standard
 
-- id: FedArbAct_9USC11
-  accessed:
-    - year: 2026
-      month: 8
-      day: 17
-  citation-key: FedArbAct_9USC11
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '11'
-  title: >-
-    Fed Arb. Act s.11 - Award of arbitrators; modification or correction;
-    grounds; order
-  type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
-  volume: '9'
+- id: FedCiv_Rule10
+  citation-key: FedCiv_Rule10
+  genre: Fed. R. Civ. P.
+  number: Rule 10
+  title: FRCP 10
+  type: standard
 
-- id: FedArbAct_9USC2
-  accessed:
-    - year: 2026
-      month: 8
-      day: 17
-  citation-key: FedArbAct_9USC2
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '2'
-  title: >-
-    Fed Arb. Act s.2 - Validity, irrevocability, and enforcement of agreements
-    to arbitrate
-  type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
-  volume: '9'
+- id: FedCiv_Rule11
+  citation-key: FedCiv_Rule11
+  genre: Fed. R. Civ. P.
+  number: Rule 11
+  title: FRCP 11
+  type: standard
 
-- id: FedArbAct_9USC3
-  accessed:
-    - year: 2026
-      month: 8
-      day: 17
-  citation-key: FedArbAct_9USC3
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '3'
-  title: >-
-    Fed Arb. Act s.3 - Stay of proceedings where issue therein referable to
-    arbitration
-  type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
-  volume: '9'
+- id: FedCiv_Rule12
+  citation-key: FedCiv_Rule12
+  genre: Fed. R. Civ. P.
+  number: Rule 12
+  title: FRCP 12
+  type: standard
 
-- id: FedArbAct_9USC4
-  accessed:
-    - year: 2026
-      month: 8
-      day: 17
-  citation-key: FedArbAct_9USC4
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '4'
-  title: Fed Arb. Act s.4 - Failure to arbitrate under agreement
-  type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
-  volume: '9'
+- id: FedCiv_Rule13
+  citation-key: FedCiv_Rule13
+  genre: Fed. R. Civ. P.
+  number: Rule 13
+  title: FRCP 13
+  type: standard
 
-- id: FedArbAct_9USC9
-  accessed:
-    - year: 2026
-      month: 8
-      day: 17
-  citation-key: FedArbAct_9USC9
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '9'
-  title: >-
-    Fed Arb. Act s.9 - Award of arbitrators; confirmation; jurisdiction;
-    procedure
-  type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
-  volume: '9'
+- id: FedCiv_Rule14
+  citation-key: FedCiv_Rule14
+  genre: Fed. R. Civ. P.
+  number: Rule 14
+  title: FRCP 14
+  type: standard
+
+- id: FedCiv_Rule15
+  citation-key: FedCiv_Rule15
+  genre: Fed. R. Civ. P.
+  number: Rule 15
+  title: FRCP 15
+  type: standard
+
+- id: FedCiv_Rule16
+  citation-key: FedCiv_Rule16
+  genre: Fed. R. Civ. P.
+  number: Rule 16
+  title: FRCP 16
+  type: standard
+
+- id: FedCiv_Rule17
+  citation-key: FedCiv_Rule17
+  genre: Fed. R. Civ. P.
+  number: Rule 17
+  title: FRCP 17
+  type: standard
+
+- id: FedCiv_Rule18
+  citation-key: FedCiv_Rule18
+  genre: Fed. R. Civ. P.
+  number: Rule 18
+  title: FRCP 18
+  type: standard
+
+- id: FedCiv_Rule19
+  citation-key: FedCiv_Rule19
+  genre: Fed. R. Civ. P.
+  number: Rule 19
+  title: FRCP 19
+  type: standard
+
+- id: FedCiv_Rule2
+  citation-key: FedCiv_Rule2
+  genre: Fed. R. Civ. P.
+  number: Rule 2
+  title: FRCP 2
+  type: standard
+
+- id: FedCiv_Rule20
+  citation-key: FedCiv_Rule20
+  genre: Fed. R. Civ. P.
+  number: Rule 20
+  title: FRCP 20
+  type: standard
+
+- id: FedCiv_Rule21
+  citation-key: FedCiv_Rule21
+  genre: Fed. R. Civ. P.
+  number: Rule 21
+  title: FRCP 21
+  type: standard
+
+- id: FedCiv_Rule22
+  citation-key: FedCiv_Rule22
+  genre: Fed. R. Civ. P.
+  number: Rule 22
+  title: FRCP 22
+  type: standard
+
+- id: FedCiv_Rule23
+  citation-key: FedCiv_Rule23
+  genre: Fed. R. Civ. P.
+  number: Rule 23
+  title: FRCP 23
+  type: standard
+
+- id: FedCiv_Rule24
+  citation-key: FedCiv_Rule24
+  genre: Fed. R. Civ. P.
+  number: Rule 24
+  title: FRCP 24
+  type: standard
+
+- id: FedCiv_Rule25
+  citation-key: FedCiv_Rule25
+  genre: Fed. R. Civ. P.
+  number: Rule 25
+  title: FRCP 25
+  type: standard
+
+- id: FedCiv_Rule26
+  citation-key: FedCiv_Rule26
+  genre: Fed. R. Civ. P.
+  number: Rule 26
+  title: FRCP 26
+  type: standard
+
+- id: FedCiv_Rule3
+  citation-key: FedCiv_Rule3
+  genre: Fed. R. Civ. P.
+  number: Rule 3
+  title: FRCP 3
+  type: standard
+
+- id: FedCiv_Rule4
+  citation-key: FedCiv_Rule4
+  genre: Fed. R. Civ. P.
+  number: Rule 4
+  title: FRCP 4
+  type: standard
+
+- id: FedCiv_Rule42
+  citation-key: FedCiv_Rule42
+  genre: Fed. R. Civ. P.
+  number: Rule 42
+  title: FRCP 42
+  type: standard
+
+- id: FedCiv_Rule5
+  citation-key: FedCiv_Rule5
+  genre: Fed. R. Civ. P.
+  number: Rule 5
+  title: FRCP 5
+  type: standard
+
+- id: FedCiv_Rule55
+  citation-key: FedCiv_Rule55
+  genre: Fed. R. Civ. P.
+  number: Rule 55
+  title: FRCP 55
+  type: standard
+
+- id: FedCiv_Rule56
+  citation-key: FedCiv_Rule56
+  genre: Fed. R. Civ. P.
+  number: Rule 56
+  title: FRCP 56
+  type: standard
+
+- id: FedCiv_Rule6
+  citation-key: FedCiv_Rule6
+  genre: Fed. R. Civ. P.
+  number: Rule 6
+  title: FRCP 6
+  type: standard
+
+- id: FedCiv_Rule7
+  citation-key: FedCiv_Rule7
+  genre: Fed. R. Civ. P.
+  number: Rule 7
+  title: FRCP 7
+  type: standard
+
+- id: FedCiv_Rule8
+  citation-key: FedCiv_Rule8
+  genre: Fed. R. Civ. P.
+  number: Rule 8
+  title: FRCP 8
+  type: standard
+
+- id: FedCiv_Rule9
+  citation-key: FedCiv_Rule9
+  genre: Fed. R. Civ. P.
+  number: Rule 9
+  title: FRCP 9
+  type: standard
 
 - id: FederalCourtAdoptsStricter_Quan_OgletreeDeakins2025
   abstract: >-
@@ -11163,13 +11567,6 @@ references:
   type: post-weblog
   URL: https://pulse.ncpolicywatch.org/2023/02/24/federal-court-of-appeals-rules-ncs-ag-gag-law-is-unconstitutional-signals-a-win-for-whistleblowers/
 
-- id: FederalRulesEvidence502
-  citation-key: FederalRulesEvidence502
-  genre: Fed. R. Evid.
-  number: Rule 502
-  title: Federal Rules of Evidence 502
-  type: standard
-
 - id: FederalSecurityInc_NLRB2012
   authority: N.L.R.B.
   citation-key: FederalSecurityInc_NLRB2012
@@ -11202,13 +11599,12 @@ references:
   type: document
   URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2014a.pdf
 
-- id: FedTortClaims_USC282680
-  citation-key: FedTortClaims_USC282680
-  container-title: '28'
-  section: '2680'
-  title: Fed. Tort Claims 2680 - Exceptions
-  type: legislation
-  volume: U.S.C.
+- id: FedEvid_Rule502
+  citation-key: FedEvid_Rule502
+  genre: Fed. R. Evid.
+  number: Rule 502
+  title: Federal Rules of Evidence 502
+  type: standard
 
 - id: Feigenson2000
   abstract: >-
@@ -12232,22 +12628,6 @@ references:
   type: legal_case
   volume: '146'
 
-- id: FLSAEmployerClassification_FinalRule_2024
-  author:
-    - family: U.S. Dept. of Labor
-      given: ''
-  citation-key: FLSAEmployerClassification_FinalRule_2024
-  container-title: 89 FR 1638 (Jan. 10, 2024)
-  container-title-short: 89 FR 1638 Jan 10 2024
-  issued:
-    - year: 2024
-      month: 1
-      day: 10
-  title: >-
-    Employee or Independent Contractor Classification Under the Fair Labor
-    Standards Act (Final Rule)
-  type: legislation
-
 - id: FluorDanielInc_NLRB1993
   authority: N.L.R.B.
   citation-key: FluorDanielInc_NLRB1993
@@ -12260,14 +12640,28 @@ references:
   type: legal_case
   volume: '311'
 
-- id: FMLA
-  citation-key: FMLA
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: 2601 et seq.
-  title: Family and Medical Leave Act
-  type: legislation
-  volume: '29'
+- id: Folco_nd
+  abstract: >-
+    AI and algorithms are more than technologies. They are rooted in new
+    capitalist forms and processes that transcend economics and technology to
+    reshape social reality, politics, culture, and subjectivities.Set out in
+    twenty theses—stretching across geopolitics, the mining of rare earths,
+    labor, crypto, influencers, clim
+  author:
+    - family: Folco
+      given: Jonathan Durand
+    - family: Martineau
+      given: Jonathan
+  citation-key: Folco_nd
+  issued:
+    - year: 2026
+  language: en
+  publisher: Verso
+  title: Algorithmic Capital
+  translator:
+    - family: Broder
+      given: David
+  type: book
 
 - id: Foner1965
   abstract: >-
@@ -12883,215 +13277,6 @@ references:
   number: No. 20 Civ. 10495 (KPF)
   title: Franklin v. Vertex Global Solutions, Inc.
   type: legal_case
-
-- id: FRCP
-  citation-key: FRCP
-  genre: Fed. R. Civ. P.
-  title: FRCP
-  type: standard
-
-- id: FRCP1
-  citation-key: FRCP1
-  genre: Fed. R. Civ. P.
-  number: Rule 1
-  title: FRCP 1
-  type: standard
-
-- id: FRCP10
-  citation-key: FRCP10
-  genre: Fed. R. Civ. P.
-  number: Rule 10
-  title: FRCP 10
-  type: standard
-
-- id: FRCP11
-  citation-key: FRCP11
-  genre: Fed. R. Civ. P.
-  number: Rule 11
-  title: FRCP 11
-  type: standard
-
-- id: FRCP12
-  citation-key: FRCP12
-  genre: Fed. R. Civ. P.
-  number: Rule 12
-  title: FRCP 12
-  type: standard
-
-- id: FRCP13
-  citation-key: FRCP13
-  genre: Fed. R. Civ. P.
-  number: Rule 13
-  title: FRCP 13
-  type: standard
-
-- id: FRCP14
-  citation-key: FRCP14
-  genre: Fed. R. Civ. P.
-  number: Rule 14
-  title: FRCP 14
-  type: standard
-
-- id: FRCP15
-  citation-key: FRCP15
-  genre: Fed. R. Civ. P.
-  number: Rule 15
-  title: FRCP 15
-  type: standard
-
-- id: FRCP16
-  citation-key: FRCP16
-  genre: Fed. R. Civ. P.
-  number: Rule 16
-  title: FRCP 16
-  type: standard
-
-- id: FRCP17
-  citation-key: FRCP17
-  genre: Fed. R. Civ. P.
-  number: Rule 17
-  title: FRCP 17
-  type: standard
-
-- id: FRCP18
-  citation-key: FRCP18
-  genre: Fed. R. Civ. P.
-  number: Rule 18
-  title: FRCP 18
-  type: standard
-
-- id: FRCP19
-  citation-key: FRCP19
-  genre: Fed. R. Civ. P.
-  number: Rule 19
-  title: FRCP 19
-  type: standard
-
-- id: FRCP2
-  citation-key: FRCP2
-  genre: Fed. R. Civ. P.
-  number: Rule 2
-  title: FRCP 2
-  type: standard
-
-- id: FRCP20
-  citation-key: FRCP20
-  genre: Fed. R. Civ. P.
-  number: Rule 20
-  title: FRCP 20
-  type: standard
-
-- id: FRCP21
-  citation-key: FRCP21
-  genre: Fed. R. Civ. P.
-  number: Rule 21
-  title: FRCP 21
-  type: standard
-
-- id: FRCP22
-  citation-key: FRCP22
-  genre: Fed. R. Civ. P.
-  number: Rule 22
-  title: FRCP 22
-  type: standard
-
-- id: FRCP23
-  citation-key: FRCP23
-  genre: Fed. R. Civ. P.
-  number: Rule 23
-  title: FRCP 23
-  type: standard
-
-- id: FRCP24
-  citation-key: FRCP24
-  genre: Fed. R. Civ. P.
-  number: Rule 24
-  title: FRCP 24
-  type: standard
-
-- id: FRCP25
-  citation-key: FRCP25
-  genre: Fed. R. Civ. P.
-  number: Rule 25
-  title: FRCP 25
-  type: standard
-
-- id: FRCP26
-  citation-key: FRCP26
-  genre: Fed. R. Civ. P.
-  number: Rule 26
-  title: FRCP 26
-  type: standard
-
-- id: FRCP3
-  citation-key: FRCP3
-  genre: Fed. R. Civ. P.
-  number: Rule 3
-  title: FRCP 3
-  type: standard
-
-- id: FRCP4
-  citation-key: FRCP4
-  genre: Fed. R. Civ. P.
-  number: Rule 4
-  title: FRCP 4
-  type: standard
-
-- id: FRCP42
-  citation-key: FRCP42
-  genre: Fed. R. Civ. P.
-  number: Rule 42
-  title: FRCP 42
-  type: standard
-
-- id: FRCP5
-  citation-key: FRCP5
-  genre: Fed. R. Civ. P.
-  number: Rule 5
-  title: FRCP 5
-  type: standard
-
-- id: FRCP55
-  citation-key: FRCP55
-  genre: Fed. R. Civ. P.
-  number: Rule 55
-  title: FRCP 55
-  type: standard
-
-- id: FRCP56
-  citation-key: FRCP56
-  genre: Fed. R. Civ. P.
-  number: Rule 56
-  title: FRCP 56
-  type: standard
-
-- id: FRCP6
-  citation-key: FRCP6
-  genre: Fed. R. Civ. P.
-  number: Rule 6
-  title: FRCP 6
-  type: standard
-
-- id: FRCP7
-  citation-key: FRCP7
-  genre: Fed. R. Civ. P.
-  number: Rule 7
-  title: FRCP 7
-  type: standard
-
-- id: FRCP8
-  citation-key: FRCP8
-  genre: Fed. R. Civ. P.
-  number: Rule 8
-  title: FRCP 8
-  type: standard
-
-- id: FRCP9
-  citation-key: FRCP9
-  genre: Fed. R. Civ. P.
-  number: Rule 9
-  title: FRCP 9
-  type: standard
 
 - id: Freed1990
   author:
@@ -14427,6 +14612,24 @@ references:
   title-short: The emergence of modern jewish politics
   type: book
 
+- id: Giussani2026
+  abstract: "Former director of TED conferences Bruno Giussani’s meditation on AI’s influence and how to resist it.\_Author, curator, and podcaster Bruno Giussani was the European director and global curator of the TED conferences for two decades (2005–24). In Our Minds Under Siege, the specialist of digital culture writes about the “technologies of influence” and their social and political implications. In a world saturated with information, social media, artificial intelligence, and strategies of cognitive influence, our capacity for thinking clearly and understanding reality are themselves under threat. It is no longer only about disinformation and fake news: these technologies capture our attention, appropriate our data, analyze and exploit our emotions, and challenge our autonomy of thought.Giussani decrypts how AI and other algorithmic technologies work and what their impacts are. He explains the nature of the relationship that is developing between us and these machines and the economic and power structures in which they exist. Finally, he offers guidance on how to resist this technological takeover and how to become competent users of AI without being used by it."
+  author:
+    - family: Giussani
+      given: Bruno
+  citation-key: Giussani2026
+  ISBN: 978-3-03942-339-2
+  issued:
+    - year: 2026
+  language: en
+  number-of-pages: '220'
+  publisher: Scheidegger & Spiess
+  title: >-
+    Our Minds Under Siege: How to Avoid Being Manipulated in the Age of
+    Artificial Intelligence
+  title-short: Our Minds Under Siege
+  type: book
+
 - id: GlacierNorthwestIncInternational_US2023
   authority: U.S.
   citation-key: GlacierNorthwestIncInternational_US2023
@@ -15721,15 +15924,6 @@ references:
   type: post-weblog
   URL: https://islamophobia.org/anti-prejudice-tools/guidance-to-u-s-employees-in-response-to-islamophobic-and-anti-palestinian-rhetoric-in-the-workplace/
 
-- id: GuidelinesDiscriminationBecause_nd
-  citation-key: GuidelinesDiscriminationBecause_nd
-  container-title: C.F.R.
-  container-title-short: C.F.R.
-  section: 1604.1 et seq
-  title: Guidelines on Discrimination Because of Sex
-  type: legislation
-  volume: '29'
-
 - id: Gurr1968
   author:
     - family: Gurr
@@ -15908,7 +16102,7 @@ references:
     - year: 1999
       month: 8
       day: 17
-  number: No. 1:99CV00119
+  number: 1:99-cv-00119
   title: Hanks v Coan
   type: legal_case
 
@@ -16072,6 +16266,25 @@ references:
   title: Harris v. Forklift Systems, Inc.
   type: legal_case
   volume: '510'
+
+- id: Hartzog2026
+  author:
+    - family: Hartzog
+      given: Woodrow
+    - family: Silbey
+      given: Jessica
+  citation-key: Hartzog2026
+  container-title: UC Law Journal
+  container-title-short: UC Law J.
+  issue: '4'
+  issued:
+    - year: 2026
+      month: 5
+      day: 1
+  page: '727'
+  title: How AI Destroys Institutions
+  type: article-journal
+  volume: '77'
 
 - id: Harvey2007
   author:
@@ -16656,7 +16869,7 @@ references:
     Everything Passes, Everything Changes: Unionization and Collective
     Bargaining in Higher Education
   title-short: Everything Passes, Everything Changes
-  type: report
+  type: article
   URL: https://papers.ssrn.com/abstract=3085214
 
 - id: HernandezAssetAcceptance_DColo2013
@@ -17758,7 +17971,7 @@ references:
     - year: 2025
       month: 12
       day: 2
-  number: No. 25-cv-11168
+  number: 25-cv-11168
   title: Jarrus v. Governor of Michigan
   type: legal_case
 
@@ -18897,6 +19110,31 @@ references:
   title: Karraker v. Rent-A-Center, Inc.
   type: legal_case
   volume: '411'
+
+- id: Kasparov2025
+  abstract: Will powerful new tools be used to promote democracy or undermine it?
+  accessed:
+    - year: 2026
+      month: 9
+      day: 5
+  citation-key: Kasparov2025
+  collection-title: Podcasts
+  container-title: The Atlantic
+  guest:
+    - family: Marcus
+      given: Gary
+  host:
+    - family: Kasparov
+      given: Garry
+  issued:
+    - year: 2025
+      month: 9
+      day: 5
+  language: en
+  section: Podcasts
+  title: AI and the Rise of Techno-Fascism in the United States
+  type: broadcast
+  URL: https://www.theatlantic.com/podcasts/archive/2025/09/ai-and-the-fight-between-democracy-and-autocracy/684095/
 
 - id: Katz2017
   abstract: >-
@@ -20804,6 +21042,24 @@ references:
   title: “DOGE” Access to Treasury Payment Systems Raises Serious Risks
   type: report
   URL: https://www.jstor.org/stable/resrep67476
+
+- id: Leiser2025
+  abstract: >-
+    This book provides essential insights on dark patterns and AI-powered
+    deceptive design for anyone who wants to understand and challenge the
+    pervasive influence…
+  author:
+    - family: Leiser
+      given: M.R.
+  citation-key: Leiser2025
+  issued:
+    - year: 2025
+  language: en
+  publisher: Bloomsbury Publishing
+  title: >-
+    Dark Patterns, Deceptive Design, and the Law: AI’s Hidden Influence on Our
+    Digital Experience
+  type: book
 
 - id: LemmermanWilliamsOilCo_NC1986
   authority: N.C.
@@ -22947,17 +23203,18 @@ references:
   type: book
   volume: '3'
 
-- id: MassachusettsNoncompetitionAgreement
+- id: MassGeneralLaw-Part24L
   accessed:
     - year: 2025
       month: 11
       day: 22
-  citation-key: MassachusettsNoncompetitionAgreement
+  citation-key: MassGeneralLaw-Part24L
   container-title: General Law - Part I, Title XXI, Chap. 149
   container-title-short: Gen. Law - Part Title XXI Chap 149
   section: 24L
   title: Massachusetts Noncompetition Agreement Act
   type: legislation
+  volume: Mass.
 
 - id: Matheny2004
   author:
@@ -25108,12 +25365,13 @@ references:
   title: Montana Farm Animal and Research Facility Protection Act
   type: legislation
 
-- id: MontanaWrongfulDischarge
-  citation-key: MontanaWrongfulDischarge
-  container-title: Mont. Code Ann.
+- id: MontCodeAnn39-2-901etseq.
+  citation-key: MontCodeAnn39-2-901etseq.
+  container-title: Code Ann.
   section: 39-2-901 et seq.
   title: Montana Wrongful Discharge from Employment Act
   type: legislation
+  volume: Mont.
 
 - id: Montgomery1989
   abstract: >-
@@ -25549,404 +25807,435 @@ references:
   type: webpage
   URL: https://www.movementlawlab.org
 
-- id: MRPC10
-  citation-key: MRPC10
+- id: MRPC_PreambleandScope
+  citation-key: MRPC_PreambleandScope
+  genre: MRPC
+  number: Preamble and Scope
+  title: MRPC Preamble & Scope
+  type: standard
+
+- id: MRPC_Rule1.0
+  citation-key: MRPC_Rule1.0
   genre: MRPC
   number: Rule 1.0
   title: MRPC 1.0
   type: standard
 
-- id: MRPC11
-  citation-key: MRPC11
+- id: MRPC_Rule1.1
+  citation-key: MRPC_Rule1.1
   genre: MRPC
   number: Rule 1.1
   title: MRPC 1.1
   type: standard
 
-- id: MRPC110
-  citation-key: MRPC110
+- id: MRPC_Rule1.10
+  citation-key: MRPC_Rule1.10
   genre: MRPC
   number: Rule 1.10
   title: MRPC 1.10
   type: standard
 
-- id: MRPC111
-  citation-key: MRPC111
+- id: MRPC_Rule1.11
+  citation-key: MRPC_Rule1.11
   genre: MRPC
   number: Rule 1.11
   title: MRPC 1.11
   type: standard
 
-- id: MRPC112
-  citation-key: MRPC112
+- id: MRPC_Rule1.12
+  citation-key: MRPC_Rule1.12
   genre: MRPC
   number: Rule 1.12
   title: MRPC 1.12
   type: standard
 
-- id: MRPC113
-  citation-key: MRPC113
+- id: MRPC_Rule1.13
+  citation-key: MRPC_Rule1.13
   genre: MRPC
   number: Rule 1.13
   title: MRPC 1.13
   type: standard
 
-- id: MRPC114
-  citation-key: MRPC114
+- id: MRPC_Rule1.14
+  citation-key: MRPC_Rule1.14
   genre: MRPC
   number: Rule 1.14
   title: MRPC 1.14
   type: standard
 
-- id: MRPC115
-  citation-key: MRPC115
+- id: MRPC_Rule1.15
+  citation-key: MRPC_Rule1.15
   genre: MRPC
   number: Rule 1.15
   title: MRPC 1.15
   type: standard
 
-- id: MRPC116
-  citation-key: MRPC116
+- id: MRPC_Rule1.16
+  citation-key: MRPC_Rule1.16
   genre: MRPC
   number: Rule 1.16
   title: MRPC 1.16
   type: standard
 
-- id: MRPC117
-  citation-key: MRPC117
+- id: MRPC_Rule1.17
+  citation-key: MRPC_Rule1.17
   genre: MRPC
   number: Rule 1.17
   title: MRPC 1.17
   type: standard
 
-- id: MRPC118
-  citation-key: MRPC118
+- id: MRPC_Rule1.18
+  citation-key: MRPC_Rule1.18
   genre: MRPC
   number: Rule 1.18
   title: MRPC 1.18
   type: standard
 
-- id: MRPC12
-  citation-key: MRPC12
+- id: MRPC_Rule1.2
+  citation-key: MRPC_Rule1.2
   genre: MRPC
   number: Rule 1.2
   title: MRPC 1.2
   type: standard
 
-- id: MRPC13
-  citation-key: MRPC13
+- id: MRPC_Rule1.3
+  citation-key: MRPC_Rule1.3
   genre: MRPC
   number: Rule 1.3
   title: MRPC 1.3
   type: standard
 
-- id: MRPC14
-  citation-key: MRPC14
+- id: MRPC_Rule1.4
+  citation-key: MRPC_Rule1.4
   genre: MRPC
   number: Rule 1.4
   title: MRPC 1.4
   type: standard
 
-- id: MRPC15
-  citation-key: MRPC15
+- id: MRPC_Rule1.5
+  citation-key: MRPC_Rule1.5
   genre: MRPC
   number: Rule 1.5
   title: MRPC 1.5
   type: standard
 
-- id: MRPC16
-  citation-key: MRPC16
+- id: MRPC_Rule1.6
+  citation-key: MRPC_Rule1.6
   genre: MRPC
   number: Rule 1.6
   title: MRPC 1.6
   type: standard
 
-- id: MRPC17
-  citation-key: MRPC17
+- id: MRPC_Rule1.7
+  citation-key: MRPC_Rule1.7
   genre: MRPC
   number: Rule 1.7
   title: MRPC 1.7
   type: standard
 
-- id: MRPC18
-  citation-key: MRPC18
+- id: MRPC_Rule1.8
+  citation-key: MRPC_Rule1.8
   genre: MRPC
   number: Rule 1.8
   title: MRPC 1.8
   type: standard
 
-- id: MRPC19
-  citation-key: MRPC19
+- id: MRPC_Rule1.9
+  citation-key: MRPC_Rule1.9
   genre: MRPC
   number: Rule 1.9
   title: MRPC 1.9
   type: standard
 
-- id: MRPC21
-  citation-key: MRPC21
+- id: MRPC_Rule2.1
+  citation-key: MRPC_Rule2.1
   genre: MRPC
   number: Rule 2.1
   title: MRPC 2.1
   type: standard
 
-- id: MRPC23
-  citation-key: MRPC23
+- id: MRPC_Rule2.3
+  citation-key: MRPC_Rule2.3
   genre: MRPC
   number: Rule 2.3
   title: MRPC 2.3
   type: standard
 
-- id: MRPC24
-  citation-key: MRPC24
+- id: MRPC_Rule2.4
+  citation-key: MRPC_Rule2.4
   genre: MRPC
   number: Rule 2.4
   title: MRPC 2.4
   type: standard
 
-- id: MRPC31
-  citation-key: MRPC31
+- id: MRPC_Rule3.1
+  citation-key: MRPC_Rule3.1
   genre: MRPC
   number: Rule 3.1
   title: MRPC 3.1
   type: standard
 
-- id: MRPC32
-  citation-key: MRPC32
+- id: MRPC_Rule3.2
+  citation-key: MRPC_Rule3.2
   genre: MRPC
   number: Rule 3.2
   title: MRPC 3.2
   type: standard
 
-- id: MRPC33
-  citation-key: MRPC33
+- id: MRPC_Rule3.3
+  citation-key: MRPC_Rule3.3
   genre: MRPC
   number: Rule 3.3
   title: MRPC 3.3
   type: standard
 
-- id: MRPC34
-  citation-key: MRPC34
+- id: MRPC_Rule3.4
+  citation-key: MRPC_Rule3.4
   genre: MRPC
-  number: Rule 3.5
+  number: Rule 3.4
   title: MRPC 3.4
   type: standard
 
-- id: MRPC35
-  citation-key: MRPC35
+- id: MRPC_Rule3.5
+  citation-key: MRPC_Rule3.5
   genre: MRPC
   number: Rule 3.5
   title: MRPC 3.5
   type: standard
 
-- id: MRPC36
-  citation-key: MRPC36
+- id: MRPC_Rule3.6
+  citation-key: MRPC_Rule3.6
   genre: MRPC
   number: Rule 3.6
   title: MRPC 3.6
   type: standard
 
-- id: MRPC37
-  citation-key: MRPC37
+- id: MRPC_Rule3.7
+  citation-key: MRPC_Rule3.7
   genre: MRPC
   number: Rule 3.7
   title: MRPC 3.7
   type: standard
 
-- id: MRPC38
-  citation-key: MRPC38
+- id: MRPC_Rule3.8
+  citation-key: MRPC_Rule3.8
   genre: MRPC
   number: Rule 3.8
   title: MRPC 3.8
   type: standard
 
-- id: MRPC39
-  citation-key: MRPC39
+- id: MRPC_Rule3.9
+  citation-key: MRPC_Rule3.9
   genre: MRPC
   number: Rule 3.9
   title: MRPC 3.9
   type: standard
 
-- id: MRPC41
-  citation-key: MRPC41
+- id: MRPC_Rule4.1
+  citation-key: MRPC_Rule4.1
   genre: MRPC
   number: Rule 4.1
   title: MRPC 4.1
   type: standard
 
-- id: MRPC42
-  citation-key: MRPC42
+- id: MRPC_Rule4.2
+  citation-key: MRPC_Rule4.2
   genre: MRPC
-  number: Rule 4.1
+  number: Rule 4.2
   title: MRPC 4.2
   type: standard
 
-- id: MRPC43
-  citation-key: MRPC43
+- id: MRPC_Rule4.3
+  citation-key: MRPC_Rule4.3
   genre: MRPC
   number: Rule 4.3
   title: MRPC 4.3
   type: standard
 
-- id: MRPC44
-  citation-key: MRPC44
+- id: MRPC_Rule4.4
+  citation-key: MRPC_Rule4.4
   genre: MRPC
   number: Rule 4.4
   title: MRPC 4.4
   type: standard
 
-- id: MRPC51
-  citation-key: MRPC51
+- id: MRPC_Rule5.1
+  citation-key: MRPC_Rule5.1
   genre: MRPC
   number: Rule 5.1
   title: MRPC 5.1
   type: standard
 
-- id: MRPC52
-  citation-key: MRPC52
+- id: MRPC_Rule5.2
+  citation-key: MRPC_Rule5.2
   genre: MRPC
   number: Rule 5.2
   title: MRPC 5.2
   type: standard
 
-- id: MRPC53
-  citation-key: MRPC53
+- id: MRPC_Rule5.3
+  citation-key: MRPC_Rule5.3
   genre: MRPC
   number: Rule 5.3
   title: MRPC 5.3
   type: standard
 
-- id: MRPC54
-  citation-key: MRPC54
+- id: MRPC_Rule5.4
+  citation-key: MRPC_Rule5.4
   genre: MRPC
   number: Rule 5.4
   title: MRPC 5.4
   type: standard
 
-- id: MRPC55
-  citation-key: MRPC55
+- id: MRPC_Rule5.5
+  citation-key: MRPC_Rule5.5
   genre: MRPC
   number: Rule 5.5
   title: MRPC 5.5
   type: standard
 
-- id: MRPC56
-  citation-key: MRPC56
+- id: MRPC_Rule5.6
+  citation-key: MRPC_Rule5.6
   genre: MRPC
   number: Rule 5.6
   title: MRPC 5.6
   type: standard
 
-- id: MRPC57
-  citation-key: MRPC57
+- id: MRPC_Rule5.7
+  citation-key: MRPC_Rule5.7
   genre: MRPC
   number: Rule 5.7
   title: MRPC 5.7
   type: standard
 
-- id: MRPC61
-  citation-key: MRPC61
+- id: MRPC_Rule6.1
+  citation-key: MRPC_Rule6.1
   genre: MRPC
   number: Rule 6.1
   title: MRPC 6.1
   type: standard
 
-- id: MRPC62
-  citation-key: MRPC62
+- id: MRPC_Rule6.2
+  citation-key: MRPC_Rule6.2
   genre: MRPC
   number: Rule 6.2
   title: MRPC 6.2
   type: standard
 
-- id: MRPC63
-  citation-key: MRPC63
+- id: MRPC_Rule6.3
+  citation-key: MRPC_Rule6.3
   genre: MRPC
   number: Rule 6.3
   title: MRPC 6.3
   type: standard
 
-- id: MRPC64
-  citation-key: MRPC64
+- id: MRPC_Rule6.4
+  citation-key: MRPC_Rule6.4
   genre: MRPC
   number: Rule 6.4
   title: MRPC 6.4
   type: standard
 
-- id: MRPC65
-  citation-key: MRPC65
+- id: MRPC_Rule6.5
+  citation-key: MRPC_Rule6.5
   genre: MRPC
   number: Rule 6.5
   title: MRPC 6.5
   type: standard
 
-- id: MRPC71
-  citation-key: MRPC71
+- id: MRPC_Rule7.1
+  citation-key: MRPC_Rule7.1
   genre: MRPC
   number: Rule 7.1
   title: MRPC 7.1
   type: standard
 
-- id: MRPC72
-  citation-key: MRPC72
+- id: MRPC_Rule7.2
+  citation-key: MRPC_Rule7.2
   genre: MRPC
   number: Rule 7.2
   title: MRPC 7.2
   type: standard
 
-- id: MRPC73
-  citation-key: MRPC73
+- id: MRPC_Rule7.3
+  citation-key: MRPC_Rule7.3
   genre: MRPC
   number: Rule 7.3
   title: MRPC 7.3
   type: standard
 
-- id: MRPC76
-  citation-key: MRPC76
+- id: MRPC_Rule7.6
+  citation-key: MRPC_Rule7.6
   genre: MRPC
   number: Rule 7.6
   title: MRPC 7.6
   type: standard
 
-- id: MRPC81
-  citation-key: MRPC81
+- id: MRPC_Rule8.1
+  citation-key: MRPC_Rule8.1
   genre: MRPC
   number: Rule 8.1
   title: MRPC 8.1
   type: standard
 
-- id: MRPC82
-  citation-key: MRPC82
+- id: MRPC_Rule8.2
+  citation-key: MRPC_Rule8.2
   genre: MRPC
   number: Rule 8.2
   title: MRPC 8.2
   type: standard
 
-- id: MRPC83
-  citation-key: MRPC83
+- id: MRPC_Rule8.3
+  citation-key: MRPC_Rule8.3
   genre: MRPC
   number: Rule 8.3
   title: MRPC 8.3
   type: standard
 
-- id: MRPC84
-  citation-key: MRPC84
+- id: MRPC_Rule8.4
+  citation-key: MRPC_Rule8.4
   genre: MRPC
   number: Rule 8.4
   title: MRPC 8.4
   type: standard
 
-- id: MRPC85
-  citation-key: MRPC85
+- id: MRPC_Rule8.5
+  citation-key: MRPC_Rule8.5
   genre: MRPC
   number: Rule 8.5
   title: MRPC 8.5
   type: standard
 
-- id: MRPCPreambleScope
-  citation-key: MRPCPreambleScope
-  genre: MRPC
-  number: Preamble & Scope
-  title: MRPC Preamble & Scope
-  type: standard
+- id: Muhlhoff2025
+  abstract: >-
+    How the convergence of AI and ultra-right ideology is creating a digital
+    infrastructure for 21st-century fascism
+  author:
+    - family: Mühlhoff
+      given: Ranier
+  citation-key: Muhlhoff2025
+  ISBN: 978-1-5292-4926-2
+  issued:
+    - year: 2025
+  language: en-US
+  publisher: Bristol University Press
+  title: 'The Ethics of AI: Power, Critique, Responsibility'
+  type: book
+
+- id: Muhlhoff2026
+  abstract: >-
+    How the convergence of AI and ultra-right ideology is creating a digital
+    infrastructure for 21st-century fascism
+  author:
+    - family: Mühlhoff
+      given: Ranier
+  citation-key: Muhlhoff2026
+  issued:
+    - year: 2026
+  language: en-US
+  publisher: Pluto Press
+  title: AI and the New Fascism
+  type: book
 
 - id: MuldrowCityStLouis_US2024
   authority: U.S.
@@ -26275,47 +26564,103 @@ references:
   type: legal_case
   volume: '46'
 
-- id: NCBdLaw_nd
-  citation-key: NCBdLaw_nd
-  title: N.C. Bd. of Law Examiners, Character & Fitness Guidelines
+- id: NCBdofLawExaminers_CharacterFitnessGuidelines_nd
+  author:
+    - family: N.C. Bd. of Law Examiners
+      given: ''
+  citation-key: NCBdofLawExaminers_CharacterFitnessGuidelines_nd
+  title: Character & Fitness Guidelines
   title-short: Character & Fitness Guidelines
   type: document
 
-- id: NCEmployerImmunityDisclosure
-  citation-key: NCEmployerImmunityDisclosure
-  container-title: N.C. Gen. Stat.
+- id: NCGenStat1-539.12
+  citation-key: NCGenStat1-539.12
+  container-title: Gen. Stat.
   section: 1-539.12
   title: Immunity from Civil Liability for Employers Disclosing Information
   type: legislation
+  volume: N.C.
 
-- id: NCEmploymentSecurity
-  citation-key: NCEmploymentSecurity
-  container-title: N.C. Gen. Stat.
-  section: 96-1 et seq.
-  title: North Carolina Employment Security Act
+- id: NCGenStat84-2.1
+  citation-key: NCGenStat84-2.1
+  container-title: Gen. Stat.
+  section: 84-2.1
+  title: NCGS 84-21 Practice of law defined
   type: legislation
+  volume: N.C.
 
-- id: NCGS7A-759
-  citation-key: NCGS7A-759
-  container-title: N.C. Gen. Stat.
-  section: 7A-759
-  title: Office of Administrative Hearings--Role as Deferral Agency
+- id: NCGenStat84-28
+  citation-key: NCGenStat84-28
+  container-title: Gen. Stat.
+  section: 84-28
+  title: NCGS 84-28 Discipline and disbarment
   type: legislation
+  volume: N.C.
 
-- id: NCLawfulUseLawfulProducts
-  citation-key: NCLawfulUseLawfulProducts
-  container-title: N.C. Gen. Stat.
+- id: NCGenStat95-240etseq.
+  citation-key: NCGenStat95-240etseq.
+  container-title: Gen. Stat.
+  section: 95-240 et seq.
+  title: North Carolina Retaliatory Employment Discrimination Act
+  type: legislation
+  volume: N.C.
+
+- id: NCGenStat95-25.1etseq.
+  citation-key: NCGenStat95-25.1etseq.
+  container-title: Gen. Stat.
+  section: 95-25.1 et seq.
+  title: North Carolina Wage & Hour Act
+  type: legislation
+  volume: N.C.
+
+- id: NCGenStat95-28.2
+  citation-key: NCGenStat95-28.2
+  container-title: Gen. Stat.
   section: 95-28.2
   title: Lawful Use of Lawful Products during Nonworking Hours
   type: legislation
+  volume: N.C.
 
-- id: NCPropertyProtection2016
-  citation-key: NCPropertyProtection2016
-  container-title: N.C. Gen. Stat.
+- id: NCGenStat96-1etseq.
+  citation-key: NCGenStat96-1etseq.
+  container-title: Gen. Stat.
+  section: 96-1 et seq.
+  title: North Carolina Employment Security Act
+  type: legislation
+  volume: N.C.
+
+- id: NCGenStat97-1etseq.
+  citation-key: NCGenStat97-1etseq.
+  container-title: Gen. Stat.
+  section: 97-1 et seq.
+  title: North Carolina Workers' Compensation Act
+  type: legislation
+  volume: N.C.
+
+- id: NCGenStat99A-2
+  citation-key: NCGenStat99A-2
+  container-title: Gen. Stat.
   language: en-US
   section: 99A-2
   title: North Carolina Property Protection Act
   type: legislation
+  volume: N.C.
+
+- id: NCGenStatSS96-1etseq.
+  citation-key: NCGenStatSS96-1etseq.
+  container-title: Gen. Stat.
+  section: § 96-1 et seq.
+  title: North Carolina Employment Security Law
+  type: legislation
+  volume: N.C.
+
+- id: NCGS7A-759
+  citation-key: NCGS7A-759
+  container-title: Gen. Stat.
+  section: 7A-759
+  title: Office of Administrative Hearings--Role as Deferral Agency
+  type: legislation
+  volume: N.C.
 
 - id: NCPropertyProtectionAct2016
   citation-key: NCPropertyProtectionAct2016
@@ -26326,15 +26671,8 @@ references:
   title: NC Property Protection Act
   type: legislation
 
-- id: NCRetaliatoryEmployment
-  citation-key: NCRetaliatoryEmployment
-  container-title: N.C. Gen. Stat.
-  section: 95-240 et seq.
-  title: North Carolina Retaliatory Employment Discrimination Act
-  type: legislation
-
-- id: NCRulesProfessionalConduct86
-  citation-key: NCRulesProfessionalConduct86
+- id: NCRPC_Rule8.6
+  citation-key: NCRPC_Rule8.6
   genre: N.C.R.P.C.
   number: Rule 8.6
   title: N.C. Rules of Professional Conduct 8.6
@@ -26367,20 +26705,6 @@ references:
   title: NC State Bar v. Talman
   type: legal_case
   volume: '303'
-
-- id: NCWageHour
-  citation-key: NCWageHour
-  container-title: N.C. Gen. Stat.
-  section: 95-25.1 et seq.
-  title: North Carolina Wage & Hour Act
-  type: legislation
-
-- id: NCWorkersCompensation
-  citation-key: NCWorkersCompensation
-  container-title: N.C. Gen. Stat.
-  section: 97-1 et seq.
-  title: North Carolina Workers' Compensation Act
-  type: legislation
 
 - id: NDAgGag1991
   citation-key: NDAgGag1991
@@ -26665,20 +26989,6 @@ references:
   title: New Trial Awaits Potash on 'Release'
   type: article-newspaper
   URL: https://www.marxists.org/history/usa/pubs/national-guardian/1954-12-13-7-8-nat-guardian.pdf
-
-- id: NewYorkUnemployment_nd
-  accessed:
-    - year: 2024
-      month: 4
-      day: 12
-  citation-key: NewYorkUnemployment_nd
-  container-title: N.Y. Lab.
-  container-title-short: N Lab
-  section: § 593
-  title: New York Unemployment Insurance Law - Disqualification for Benefits
-  type: legislation
-  URL: https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
-  volume: Chap. 31, Art. 18
 
 - id: Nielsen2000
   abstract: >-
@@ -27073,14 +27383,6 @@ references:
   title: Institutions, institutional change and economic performance
   type: book
 
-- id: NorthCarolinaEmployment_nd
-  citation-key: NorthCarolinaEmployment_nd
-  container-title: N.C. Gen. Stat.
-  section: § 96-1 et seq.
-  title: North Carolina Employment Security Law
-  type: legislation
-  volume: '96'
-
 - id: NorthCarolinasAgGagLaw_Verger_Vice2015
   accessed:
     - year: 2023
@@ -27160,31 +27462,56 @@ references:
   type: legal_case
   volume: '880'
 
-- id: NYEmpDiscrimPoliticalRecreationalActivity
-  citation-key: NYEmpDiscrimPoliticalRecreationalActivity
-  container-title: N.Y. Lab.
-  container-title-short: N Lab
-  section: 201-d
-  title: Discrimination Against the Engagement in Certain Activities
-  type: legislation
-
-- id: NYLongArm
-  citation-key: NYLongArm
-  container-title: N.Y. C.P.L.R.
-  container-title-short: N CPLR
+- id: NYCPLR302
+  citation-key: NYCPLR302
+  container-title: C.P.L.R.
+  container-title-short: C.P.L.R.
   section: '302'
   title: NY Long Arm
   type: legislation
+  volume: N.Y.
+
+- id: NYLab201-d
+  citation-key: NYLab201-d
+  container-title: Lab.
+  container-title-short: Lab.
+  section: 201-d
+  title: Discrimination Against the Engagement in Certain Activities
+  type: legislation
+  volume: N.Y.
+
+- id: NYLaborCode980
+  citation-key: NYLaborCode980
+  container-title: Labor Code
+  section: '980'
+  title: Employer Use of Social Media
+  type: legislation
+  volume: N.Y.
+
+- id: NYLabSS593
+  accessed:
+    - year: 2024
+      month: 4
+      day: 12
+  citation-key: NYLabSS593
+  container-title: Lab.
+  container-title-short: Lab.
+  section: § 593
+  title: New York Unemployment Insurance Law - Disqualification for Benefits
+  type: legislation
+  URL: https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
+  volume: N.Y.
 
 - id: NYTrappedWorkAct2025
   citation-key: NYTrappedWorkAct2025
-  container-title: N.Y. Lab., Art. 37
-  container-title-short: N Lab Art 37
+  container-title: Lab.
+  container-title-short: Lab.
   issued:
     - year: 2025
   section: 1050 et seq.
   title: Trapped at Work Act
   type: legislation
+  volume: N.Y.
 
 - id: NYURemoved2_Goldstein_TheNewYorkTimes2024
   accessed:
@@ -27659,7 +27986,7 @@ references:
     - year: 2017
       month: 7
       day: 10
-  number: No. 3:17CV228
+  number: 3:17-cv-228
   title: Ottawa Twp. v. New Par (I)
   type: legal_case
 
@@ -27670,7 +27997,7 @@ references:
     - year: 2017
       month: 10
       day: 10
-  number: No. 3:17CV228
+  number: 3:17-cv-228
   title: Ottawa Twp. v. New Par (II)
   type: legal_case
 
@@ -28021,7 +28348,7 @@ references:
     - year: 2026
       month: 7
       day: 25
-  number: No. 2:23-cv-00873-APG-NJK
+  number: 2:23-cv-00873
   title: Patel v. Stewartson
   type: legal_case
 
@@ -28463,6 +28790,30 @@ references:
       day: 1
   title: PETA v. Stein - Media Amicus
   type: document
+
+- id: Pfeffer2026
+  abstract: >-
+    Uncontrolled AI will erode our freedom, self-determination and democracy.
+    That is why a robust democracy must not leave the future in the hands of the
+    alliance between Big Tech and the far right. AI must be politically reined
+    in and democratically shaped so that humanity retains its sovereignty.
+  author:
+    - family: Pfeffer
+      given: Matthias
+    - family: Pfeffer
+      given: Jürgen
+    - family: Nemitz
+      given: Paul
+  citation-key: Pfeffer2026
+  ISBN: 978-3-8012-3111-8
+  issued:
+    - year: 2026
+  language: de
+  publisher: Dietz
+  title: >-
+    The Open Future and Its Enemies: How we can Protect Free Society from AI
+    Dictatorship
+  type: book
 
 - id: PhamAevaSpecialtyPharmacy_DColo2022
   authority: D. Colo.
@@ -29316,13 +29667,6 @@ references:
   type: article-journal
   volume: '19'
 
-- id: PracticeLawDefined_NCGenStat84-21
-  citation-key: PracticeLawDefined_NCGenStat84-21
-  container-title: N.C. Gen. Stat.
-  section: 84-2.1
-  title: NCGS 84-21 Practice of law defined
-  type: legislation
-
 - id: PregnancyDiscriminationPregnancyRelatedDisability_USEqualEmploymentOpportunityCommission_nd
   abstract: Pregnancy Discrimination
   accessed:
@@ -29775,56 +30119,6 @@ references:
   title: Razak v. Uber Technologies, Inc.
   type: legal_case
   volume: '951'
-
-- id: RDA1652
-  citation-key: RDA1652
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1652'
-  title: RDA 1652
-  type: legislation
-  volume: '28'
-
-- id: REA2071
-  citation-key: REA2071
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '2071'
-  title: REA 2071
-  type: legislation
-  volume: '28'
-
-- id: REA2072
-  citation-key: REA2072
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '2072'
-  title: REA 2072
-  type: legislation
-  volume: '28'
-
-- id: REA2073
-  citation-key: REA2073
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '2073'
-  title: REA 2073
-  type: legislation
-  volume: '28'
-
-- id: REA2074
-  citation-key: REA2074
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '2074'
-  title: REA 2074
-  type: legislation
-  volume: '28'
 
 - id: ReClark_NCCtApp2010
   authority: N.C. Ct. App.
@@ -30475,6 +30769,20 @@ references:
   type: legal_case
   volume: '983'
 
+- id: RestatementEmploymentLaw
+  accessed:
+    - year: 2023
+      month: 2
+      day: 28
+  citation-key: RestatementEmploymentLaw
+  genre: Restatement of Employment Law
+  issued:
+    - year: 2015
+  language: en
+  publisher: American Law Institute
+  title: Employee duty of loyalty to the employer
+  type: standard
+
 - id: RetailPropertyTrustUnited_9thCir2014
   authority: 9th Cir.
   citation-key: RetailPropertyTrustUnited_9thCir2014
@@ -31117,16 +31425,6 @@ references:
   title: Rule of Law Index
   type: report
   URL: https://worldjusticeproject.org/rule-of-law-index
-
-- id: RulesGoverningAdmission_2727NCAdminCode030600
-  citation-key: RulesGoverningAdmission_2727NCAdminCode030600
-  container-title: N.C. Admin Code
-  section: 03 .0600
-  title: >-
-    Rules Governing Admission to the Practice of Law in the State of North
-    Carolina
-  type: legislation
-  volume: '27'
 
 - id: RulonMillerInternationalBusMachines_CalCtApp1984
   authority: Cal. Ct. App.
@@ -33208,6 +33506,58 @@ references:
   URL: https://www.jstor.org/stable/3641563
   volume: '67'
 
+- id: Siebold2026
+  abstract: >-
+    This article develops the concept of ‘AI resignation’ to capture how young
+    people encounter AI not only as a helpful or flawed tool, but as an
+    overpowering and seemingly inevitable force that can foreclose their sense
+    of political and personal power to act in relation to the future. Building
+    on qualitative work with high school students in Germany (ages 15–18), we
+    conceptualize AI resignation as a future-oriented sensibility that emerges
+    at the intersection of pervasive data-driven infrastructures and hegemonic
+    narratives of AI inevitability. Drawing on Foucault's late work on
+    subjectivation and subjectivity, as well as extensions in media and affect
+    theory, we identify four contradictory pulls that structure adolescents'
+    everyday engagements with AI—between enthusiasm and dependency, effortless
+    access and eroded learning, self-governance and repeated failure, aspiration
+    and foreclosed futures—and show how these double binds gradually hollow out
+    experiences of self-efficacy. We further argue that AI resignation fulfils a
+    strategic affective function within digital capitalism: by naturalizing
+    dependence on predictive AI infrastructures and normalizing diminished
+    expectations of the power to act, it stabilizes the very sociotechnical
+    structures that produce it. The article concludes by outlining implications
+    for re-politicizing AI and education, emphasizing power-critical curricula
+    and collective spaces of reflection that enable young people to meaningfully
+    participate in shaping sociotechnical futures.
+  accessed:
+    - year: 2026
+      month: 9
+      day: 5
+  author:
+    - family: Siebold
+      given: Jan-Philipp
+    - family: Witschas
+      given: Annemarie
+    - family: Mühlhoff
+      given: Rainer
+  citation-key: Siebold2026
+  container-title: Future Humanities
+  container-title-short: Future Humanit.
+  DOI: 10.1002/fhu2.70026
+  ISSN: 2770-2030
+  issue: '1'
+  issued:
+    - year: 2026
+  language: en
+  license: © 2026 The Author(s). Future Humanities published by John Wiley & Sons Ltd.
+  page: e70026
+  source: Wiley Online Library
+  title: 'When the Future Feels Foreclosed: AI Resignation and the Power to Act'
+  title-short: When the Future Feels Foreclosed
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/fhu2.70026
+  volume: '4'
+
 - id: Silber_TheConversation2024
   accessed:
     - year: 2026
@@ -33307,6 +33657,34 @@ references:
   type: article-journal
   URL: https://doi.org/10.1146/annurev-lawsocsci-110316-113326
   volume: '15'
+
+- id: SiliconEmpiresFight_nd
+  abstract: >-
+    <p>Since the emergence of ChatGPT, generative AI has been heralded as a
+    technology poised to revolutionize our world. But beyond the hype and
+    hyperbole, who truly wields power over this transformative technology?<br
+    /><br />In *Silicon Empires*, Nick Srnicek explores the geopolitical economy
+    of artificial intelligence, revealing how a handful of powerful corporations
+    and states are engaged in a monumental struggle to control its future.
+    Srnicek moves beyond the headlines to lay bare the elaborate strategies that
+    these silicon empires - from tech giants to great powers - are deploying to
+    capture the immense value of AI. This incisive analysis uncovers the
+    deep-seated tensions between corporate ambitions and national interests, and
+    the profound consequences of this new era of technological competition.<br
+    /><br />As the race for AI supremacy accelerates, Srnicek compellingly
+    demonstrates that the decisions being made in the boardrooms of Silicon
+    Valley and the halls of government will shape the distribution of wealth and
+    power on a global scale for decades to come.<br /><br />*Now available as an
+    audiobook.*</p>
+  citation-key: SiliconEmpiresFight_nd
+  ISBN: 978-1-5095-5050-0
+  issued:
+    - year: 2025
+  language: en
+  publisher: Polity
+  title: 'Silicon Empires: The Fight for the Future of AI | Wiley'
+  title-short: Silicon Empires
+  type: book
 
 - id: Silverman2014
   author:
@@ -35077,7 +35455,7 @@ references:
     - year: 2020
       month: 1
       day: 31
-  number: No. 18-1698
+  number: 18-1698
   title: Sullivan-Blake v. Fedex Ground Package Sys.
   type: legal_case
 
@@ -35496,6 +35874,47 @@ references:
   type: article-journal
   URL: https://doi.org/10.1007/s40803-024-00244-1
   volume: '17'
+
+- id: Szilagyi2026
+  abstract: >-
+    A timely investigation of what is at stake when AI takes legal
+    decision-making out of human hands.Artificial intelligence is proliferating
+    in many professions, and the legal field is no exception. In The Rule of Law
+    After Artificial Intelligence, Katie Szilagyi investigates the philosophical
+    and practical implications of using AI in legal spaces, beginning with
+    several fundamental questions: What is the law supposed to do, and from
+    where does it derive its authority? Would law still achieve these aims if
+    automated? How might automation affect the rule of law’s integrity and
+    democratic institutions’ operations?Blending legal philosophy, applied case
+    studies, and insights from both critical legal scholarship and science and
+    technology studies, Szilagyi argues that law and storytelling are deeply
+    connected. Through creating and contesting the law, we make sense of the
+    information around us and generate narratives about our collective world.
+    These narratives are not static: legal precedent evolves, and legal
+    deliberation on hard cases can help to resolve unclear or unprecedented
+    social issues.Szilagyi demonstrates that technological innovations make the
+    rule of law vulnerable because large language models and machine learning
+    undermine the visioning function of legal narratives, collapsing exercises
+    of legal interpretation into mere administration. Datafication of law—built
+    on the biased data of our cultural past—threatens longstanding legal ideals,
+    lessens the constraints against abuses of power by private actors, and
+    hamstrings society’s ability to reach a more egalitarian future. Szilagyi
+    argues instead for centering narratives within the law and, in turn,
+    rediscovering the tales the law tells us about who we are.
+  author:
+    - family: Szilagyi
+      given: Katie
+  citation-key: Szilagyi2026
+  ISBN: 978-0-226-85170-9
+  issued:
+    - year: 2026
+  language: en
+  number-of-pages: '320'
+  publisher: University of Chicago Press
+  publisher-place: Chicago, IL
+  title: 'The Rule of Law After Artificial Intelligence: Automated Narratives'
+  title-short: The Rule of Law After Artificial Intelligence
+  type: book
 
 - id: Szymanski1978
   author:
@@ -36364,21 +36783,6 @@ references:
   type: legal_case
   volume: '334'
 
-- id: TitleVII_1964
-  abstract: Title VII of the Civil Rights Act of 1964
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: TitleVII_1964
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: 2000e
-  title: Civil Rights Act of 1964, Title VII
-  type: legislation
-  volume: '42'
-
 - id: TKOFleetEnterprisesDistrict_EDNY1999
   authority: E.D.N.Y.
   citation-key: TKOFleetEnterprisesDistrict_EDNY1999
@@ -36716,7 +37120,7 @@ references:
     - year: 2026
       month: 7
       day: 13
-  number: No. 26-20609-CV-WILLIAMS
+  number: 26-20609-cv
   title: Trump v. Internal Revenue Serv.
   type: legal_case
 
@@ -37140,6 +37544,14 @@ references:
   type: legal_case
   volume: '449'
 
+- id: USC282680
+  citation-key: USC282680
+  container-title: '28'
+  section: '2680'
+  title: Fed. Tort Claims 2680 - Exceptions
+  type: legislation
+  volume: U.S.C.
+
 - id: USCivilRights_TheWashingtonPost1951
   accessed:
     - year: 2026
@@ -37161,30 +37573,30 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/152417738/abstract/C7C6757E0ED14FACPQ/44
 
-- id: USConstitutionAmend14
-  citation-key: USConstitutionAmend14
-  genre: U.S. Constitution
-  number: amend. XIV
-  title: U.S. Constitution amend. 14
-  type: standard
-
-- id: USConstitutionAmend5
-  citation-key: USConstitutionAmend5
-  genre: U.S. Constitution
+- id: USConst_amend.V
+  citation-key: USConst_amend.V
+  genre: U.S. Const.
   number: amend. V
   title: U.S. Constitution amend. 5
   type: standard
 
-- id: USConstitutionArt3
-  citation-key: USConstitutionArt3
-  genre: U.S. Constitution
+- id: USConst_amend.XIV
+  citation-key: USConst_amend.XIV
+  genre: U.S. Const.
+  number: amend. XIV
+  title: U.S. Constitution amend. 14
+  type: standard
+
+- id: USConst_art.III
+  citation-key: USConst_art.III
+  genre: U.S. Const.
   number: art. III
   title: U.S. Constitution art. 3
   type: standard
 
-- id: USConstitutionArt4
-  citation-key: USConstitutionArt4
-  genre: U.S. Constitution
+- id: USConst_art.IV
+  citation-key: USConst_art.IV
+  genre: U.S. Const.
   number: art. IV
   title: U.S. Constitution art. 4
   type: standard
@@ -37353,6 +37765,27 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/25594527
   volume: '62'
+
+- id: Varoufakis2024
+  abstract: >-
+    Capitalism is dead. Welcome to technofeudalism. In his boldest and most
+    far-reaching book, the visionary economist and number-one bestselling author
+    Yanis Varoufakis shows how the owners of big tech became the world's feudal
+    overlords –replacing capitalism with a fundamentally new system that
+    enslaves our minds, defies democracy and rewrite the rules of global power.
+    But as Varoufakis also reveals, technofeudalism contains new opportunities
+    to thwart and overturn it, bringing into focus more clearly than ever the
+    revolution we need to escape our digital prison.
+  author:
+    - family: Varoufakis
+      given: Yanis
+  citation-key: Varoufakis2024
+  issued:
+    - year: 2024
+  language: en
+  publisher: Penguin Press
+  title: Technofeudalism
+  type: book
 
 - id: VinluanDoyle_NYAppDiv2009
   authority: N.Y. App. Div.
@@ -38566,7 +38999,7 @@ references:
     - year: 2026
       month: 6
       day: 8
-  number: No. 1:24-cv-00218-SA-RP
+  number: 1:24-cv-00218
   title: Withers v. City of Aberdeen
   type: legal_case
 

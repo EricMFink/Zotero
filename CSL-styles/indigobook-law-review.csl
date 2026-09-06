@@ -13,7 +13,7 @@
   <category citation-format="note"/>
   <category field="law"/>
   <summary>IndigoBook legal citation style for law reviews.</summary>
-  <updated>2026-09-05T12:58:59-0400-04:00</updated>
+  <updated>2026-09-05T12:58:59</updated>
   <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
 </info>
 
@@ -220,7 +220,7 @@
       <text variable="title" font-style="italic" suffix=", "/>
     </else-if>
     <else-if type="book" match="any">
-      <text variable="title" font-variant="small-caps" suffix=", "/>
+      <text variable="title" font-variant="small-caps"/>
     </else-if>
     <else>
       <text variable="title" suffix=""/>
@@ -280,33 +280,30 @@
     </else-if>
     <else-if type="legislation">
       <choose>
-        <!-- FOR USC & CFR-->
-        <if variable="volume">  
-          <choose>
-            <if variable="locator">
-              <group delimiter=" ">
-              <text variable="volume"/>
-              <text macro="container"/>
-              <text variable="locator" prefix="§ "/>
-              </group>
-            </if>
-            <else>
-              <group delimiter=" ">
-              <text variable="volume"/>
-              <text macro="container"/>
-              <text variable="section" prefix="§ "/>
-              </group>
-            </else>
-          </choose>
-        </if>
-        <!-- FOR STATE STATUTES, FRCP, ETC.-->
-        <else>
-          <text macro="container"/>
-          <text variable="section" prefix=" § "/>
-          <text variable="locator" prefix=""/>
-        </else>
+		<if variable="locator">
+		  <group delimiter=" ">
+			<text variable="volume"/>
+			<text macro="container"/>
+			<text variable="locator" prefix="§ "/>
+		  </group>
+		</if>
+		<else>
+			<group delimiter=" ">
+			<text variable="volume"/>
+			<text macro="container"/>
+			<text variable="section" prefix="§ "/>
+			</group>
+		</else>
       </choose>
     </else-if> 
+	<!-- FOR FRCP, MRCP, ETC.-->
+    <else-if type="standard">
+	  <group delimiter=" ">
+		<text variable="authority"/>
+		<text variable="genre"/>
+		<text variable="number"/>
+	  </group>
+	</else-if>
     <else-if type="bill hearing" match="any">
 		<group delimiter=" ">
 			<text variable="authority" form="short"/>
@@ -415,7 +412,6 @@
         </date>
       </group>
     </else-if>
-
     <else>
       <group delimiter=" " prefix=" (" suffix=")">
         <text macro="editor-translator"/>
@@ -427,7 +423,6 @@
     </else>
   </choose>
 </macro>
-
 
 <!-- Id. and subsequent references -->
 <macro name="at_page">
@@ -586,12 +581,12 @@
             <text macro="source"/>
             <text macro="access" prefix=", "/>
           </if>
-          <else-if type="bill hearing legal_case legislation" match="any">
+          <else-if type="bill hearing legal_case" match="any">
             <text macro="full-title"/>
             <text macro="source"/>
             <text macro="issuance"/>
           </else-if>
-          <else-if type="standard" match="any">
+          <else-if type="legislation standard" match="any">
             <text macro="source"/>
             <text macro="issuance"/>
           </else-if>
