@@ -1,34 +1,28 @@
 ---
 references:
-- id: 1441Removal
-  citation-key: 1441Removal
+- id: 15USC17etseq
+  abstract: C
+  citation-key: 15USC17etseq
   container-title: U.S.C.
   container-title-short: U.S.C.
-  language: en
-  section: '1441'
-  title: Removal of Civil Actions
+  issued:
+    - year: 1914
+  section: 17 et seq.
+  title: Clayton Antitrust Act
   type: legislation
-  volume: '28'
+  volume: '15'
 
-- id: 1446ProcedureForRemoval
-  citation-key: 1446ProcedureForRemoval
+- id: 15USC1etseq
+  abstract: C
+  citation-key: 15USC1etseq
   container-title: U.S.C.
   container-title-short: U.S.C.
-  language: en
-  section: '1446'
-  title: Procedure for Removal
+  issued:
+    - year: 1890
+  section: 1 et seq.
+  title: Sherman Antitrust Act
   type: legislation
-  volume: '28'
-
-- id: 1447ProcedureAfterRemoval_nd
-  citation-key: 1447ProcedureAfterRemoval_nd
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  language: en
-  section: '1447'
-  title: Procedure After Removal
-  type: legislation
-  volume: '28'
+  volume: '15'
 
 - id: 2002FEO8_NCStateBar2003
   accessed:
@@ -136,6 +130,22 @@ references:
   title: The 2024 Lawyer's Handbook
   type: document
 
+- id: 23Edw3cc
+  citation-key: 23Edw3cc
+  container-title: 23 Edw. 3 cc. 1-8
+  issued:
+    - year: 1349
+  title: Ordinance of Labourers
+  type: legislation
+
+- id: 25Edw3Stat
+  citation-key: 25Edw3Stat
+  container-title: 25 Edw. 3 Stat. 1
+  issued:
+    - year: 1351
+  title: Statute of Labourers
+  type: legislation
+
 - id: 27NCAdminCode03.0600
   citation-key: 27NCAdminCode03.0600
   container-title: N.C. Admin Code
@@ -175,6 +185,16 @@ references:
   type: legislation
   volume: '28'
 
+- id: 28USC1441
+  citation-key: 28USC1441
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1441'
+  title: Removal of Civil Actions
+  type: legislation
+  volume: '28'
+
 - id: 28USC1445
   citation-key: 28USC1445
   container-title: U.S.C.
@@ -182,6 +202,26 @@ references:
   language: en
   section: '1445'
   title: Nonremovable Actions
+  type: legislation
+  volume: '28'
+
+- id: 28USC1446
+  citation-key: 28USC1446
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1446'
+  title: Procedure for Removal
+  type: legislation
+  volume: '28'
+
+- id: 28USC1447
+  citation-key: 28USC1447
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  language: en
+  section: '1447'
+  title: Procedure After Removal
   type: legislation
   volume: '28'
 
@@ -245,6 +285,15 @@ references:
   type: legislation
   volume: '28'
 
+- id: 28USC2680
+  citation-key: 28USC2680
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: '2680'
+  title: Fed. Tort Claims 2680 - Exceptions
+  type: legislation
+  volume: '28'
+
 - id: 29CFR1604.11
   accessed:
     - year: 2026
@@ -265,6 +314,17 @@ references:
   container-title-short: C.F.R.
   section: 1604.1 et seq
   title: Guidelines on Discrimination Because of Sex
+  type: legislation
+  volume: '29'
+
+- id: 29USC101etseq
+  citation-key: 29USC101etseq
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1932
+  section: 101 et seq.
+  title: Norris-LaGuardia Act
   type: legislation
   volume: '29'
 
@@ -295,12 +355,58 @@ references:
   type: legislation
   volume: '29'
 
-- id: 29USC2601etseq.
-  citation-key: 29USC2601etseq.
+- id: 29USC151etseq
+  citation-key: 29USC151etseq
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: 151 et seq.
+  title: National Labor Relations Act
+  type: legislation
+  volume: '29'
+
+- id: 29USC201etseq
+  citation-key: 29USC201etseq
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1938
+  section: 201 et seq.
+  title: Fair Labor Standards Act
+  type: legislation
+  volume: '29'
+
+- id: 29USC2601etseq
+  citation-key: 29USC2601etseq
   container-title: U.S.C.
   container-title-short: U.S.C.
   section: 2601 et seq.
   title: Family and Medical Leave Act
+  type: legislation
+  volume: '29'
+
+- id: 29USC621
+  abstract: Age Discrimination in Employment Act of 1967 (ADEA)
+  accessed:
+    - year: 2025
+      month: 12
+      day: 22
+  citation-key: 29USC621
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1967
+  language: en
+  section: '621'
+  title: Age Discrimination in Employment Act of 1967
+  type: legislation
+  volume: '29'
+
+- id: 29USC641etseq
+  citation-key: 29USC641etseq
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  section: 641 et seq.
+  title: Occupational Safety & Health Act
   type: legislation
   volume: '29'
 
@@ -329,6 +435,22 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/148879626/abstract/C7C6757E0ED14FACPQ/78
 
+- id: 42USC12101etseq
+  accessed:
+    - year: 2026
+      month: 1
+      day: 5
+  citation-key: 42USC12101etseq
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1990
+  language: en
+  section: 12101 et seq.
+  title: Americans with Disabilities Act
+  type: legislation
+  volume: '42'
+
 - id: 42USC1981a
   citation-key: 42USC1981a
   container-title: U.S.C.
@@ -350,6 +472,23 @@ references:
   language: en
   section: 2000e
   title: Civil Rights Act of 1964, Title VII
+  type: legislation
+  volume: '42'
+
+- id: 42USC701k
+  abstract: Pregnancy Discrimination Act
+  accessed:
+    - year: 2026
+      month: 1
+      day: 5
+  citation-key: 42USC701k
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1978
+  language: en
+  section: 701(k)
+  title: Pregnancy Discrimination Act of 1978
   type: legislation
   volume: '42'
 
@@ -1006,22 +1145,6 @@ references:
   type: article-journal
   volume: '10'
 
-- id: ADA
-  accessed:
-    - year: 2026
-      month: 1
-      day: 5
-  citation-key: ADA
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    - year: 1990
-  language: en
-  section: '12101'
-  title: Americans with Disabilities Act
-  type: legislation
-  volume: '42'
-
 - id: AdairUnitedStates_US1908
   authority: U.S.
   citation-key: AdairUnitedStates_US1908
@@ -1073,23 +1196,6 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/02633957211041444
   volume: '44'
-
-- id: ADEA1967
-  abstract: Age Discrimination in Employment Act of 1967 (ADEA)
-  accessed:
-    - year: 2025
-      month: 12
-      day: 22
-  citation-key: ADEA1967
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    - year: 1967
-  language: en
-  section: '621'
-  title: Age Discrimination in Employment Act of 1967
-  type: legislation
-  volume: '29'
 
 - id: Adib-Moghaddam2025
   abstract: >-
@@ -1249,8 +1355,29 @@ references:
   URL: https://doi.org/10.1080/09649069.2019.1663024
   volume: '41'
 
-- id: AlabamaAgGag2002
-  citation-key: AlabamaAgGag2002
+- id: AIhasenvironmental2025
+  abstract: >-
+    The sprawling data centres that house AI servers churn out toxic electronic
+    waste and are voracious consumers of electricity, which in most places is
+    still produced from fossil fuels.
+  accessed:
+    - year: 2026
+      month: 9
+      day: 7
+  citation-key: AIhasenvironmental2025
+  container-title: UN Environment Program
+  issued:
+    - year: 2025
+      month: 11
+      day: 13
+  language: en
+  section: News and Stories
+  title: AI has an environmental problem. Here’s what the world can do about that.
+  type: webpage
+  URL: https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about
+
+- id: AlaCode13A-11-150
+  citation-key: AlaCode13A-11-150
   container-title: Ala. Code
   issued:
     - year: 2002
@@ -2083,15 +2210,6 @@ references:
   type: article-journal
   volume: '50'
 
-- id: ArkansasDataTrespass2017
-  citation-key: ArkansasDataTrespass2017
-  container-title: Ark. Code
-  issued:
-    - year: 2017
-  section: 16-118-113
-  title: Arkansas Data Trespass
-  type: legislation
-
 - id: ArkansasLabelingIncProctor_EDArk2020
   authority: E.D. Ark.
   citation-key: ArkansasLabelingIncProctor_EDArk2020
@@ -2137,6 +2255,15 @@ references:
   number: No. 4:19-cv-00773-KGB
   title: Arkansas Labeling, Inc. v. Tim Proctor, Label Edge, Llc
   type: legal_case
+
+- id: ArkCode16-118-113
+  citation-key: ArkCode16-118-113
+  container-title: Ark. Code
+  issued:
+    - year: 2017
+  section: 16-118-113
+  title: Arkansas Data Trespass
+  type: legislation
 
 - id: ArkuWellsFargoBank_WDNC2022
   authority: W.D.N.C.
@@ -5765,11 +5892,11 @@ references:
   title-short: Invitation to law and society, second edition
   type: book
 
-- id: CalBusProfCode16600etseq.
-  citation-key: CalBusProfCode16600etseq.
+- id: CalBusProfCode16600
+  citation-key: CalBusProfCode16600
   container-title: Bus. & Prof. Code
   container-title-short: Bus Prof Code
-  section: 16600 et seq.
+  section: '16600'
   title: Contracts in Restraint of Trade (Noncompetition Agreements)
   type: legislation
   volume: Cal.
@@ -5796,6 +5923,14 @@ references:
   container-title: Labor Code
   section: '926'
   title: Contracts Against Public Policy (Employee Training Debts)
+  type: legislation
+  volume: Cal.
+
+- id: CalLaborCode980
+  citation-key: CalLaborCode980
+  container-title: Labor Code
+  section: '980'
+  title: Employer Use of Social Media
   type: legislation
   volume: Cal.
 
@@ -6977,18 +7112,6 @@ references:
   type: thesis
   URL: https://scholarship.rollins.edu/mls/50
 
-- id: ClaytonAntitrustAct1914
-  abstract: C
-  citation-key: ClaytonAntitrustAct1914
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    - year: 1914
-  section: 17 et seq.
-  title: Clayton Antitrust Act
-  type: legislation
-  volume: '15'
-
 - id: ClaytonDelmarvaCommunitySvcs_DMd2020
   authority: D. Md.
   citation-key: ClaytonDelmarvaCommunitySvcs_DMd2020
@@ -6996,7 +7119,7 @@ references:
   issued:
     - year: 2020
   page: '404'
-  title: Clayton v. Delmarva Community Svcs., Inc.
+  title: Clayton v. Delmarva Community Svcs.
   type: legal_case
   volume: '447'
 
@@ -8075,6 +8198,7 @@ references:
   source: www.nature.com
   title: Generative AI’s environmental costs are soaring — and mostly secret
   type: article-journal
+  URL: https://www.nature.com/articles/d41586-024-00478-x
   volume: '626'
 
 - id: CrimesClaudeLightfoot_CivilRightsCongress1955
@@ -10367,7 +10491,7 @@ references:
     - year: 2024
       month: 10
       day: 3
-  number: No. 23-cv-1148
+  number: 1:23-CV-1148
   title: Egan v. A.W. Companies, Inc.
   type: legal_case
 
@@ -11114,17 +11238,6 @@ references:
   title: Exxon Mobil Corp. v. Allapattah Serv.
   type: legal_case
   volume: '545'
-
-- id: FairLaborStandards1938
-  citation-key: FairLaborStandards1938
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    - year: 1938
-  section: 201 et seq.
-  title: Fair Labor Standards Act
-  type: legislation
-  volume: '29'
 
 - id: Fantasia1995
   abstract: >-
@@ -14147,6 +14260,20 @@ references:
   title-short: Labor Organizing in the Age of Surveillance Symposium
   type: article-journal
   volume: '63'
+
+- id: GarnerKadinceInc_UtahCtApp2025
+  authority: Utah Ct. App.
+  citation-key: GarnerKadinceInc_UtahCtApp2025
+  container-title: P. 3d
+  issued:
+    - year: 2025
+      month: 5
+      day: 22
+  jurisdiction: Utah
+  page: '812'
+  title: Garner v. Kadince, Inc.
+  type: legal_case
+  volume: '571'
 
 - id: GarnerRentenbach_NC1999
   authority: N.C.
@@ -17583,25 +17710,25 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/emplrght21&i=629
   volume: '21'
 
-- id: IdahoAgriculturalProduction2014
-  chapter-number: '2014'
-  citation-key: IdahoAgriculturalProduction2014
-  container-title: Idaho Code
-  container-title-short: Ida. Code
-  issued:
-    - year: 2014
-  section: 18-7042
-  title: Idaho Agricultural Production
-  type: legislation
-
-- id: IdahoAgriculturalResearch2002
-  citation-key: IdahoAgriculturalResearch2002
+- id: IdahoCode18-7040
+  citation-key: IdahoCode18-7040
   container-title: Idaho Code
   container-title-short: Ida. Code
   issued:
     - year: 2002
   section: 18-7040
   title: Idaho Agricultural Research
+  type: legislation
+
+- id: IdahoCode18-7042
+  chapter-number: '2014'
+  citation-key: IdahoCode18-7042
+  container-title: Idaho Code
+  container-title-short: Ida. Code
+  issued:
+    - year: 2014
+  section: 18-7042
+  title: Idaho Agricultural Production
   type: legislation
 
 - id: Imbasciani2020
@@ -17683,8 +17810,8 @@ references:
   type: post-weblog
   URL: https://newfascismsyllabus.com/syllabus/interrogating-the-present/
 
-- id: IowaAgFraud2012
-  citation-key: IowaAgFraud2012
+- id: IowaCode717A.3A
+  citation-key: IowaCode717A.3A
   container-title: Iowa Code
   issued:
     - year: 2012
@@ -17692,8 +17819,8 @@ references:
   title: Iowa Ag Fraud
   type: legislation
 
-- id: IowaAgTrespass2019
-  citation-key: IowaAgTrespass2019
+- id: IowaCode717A.3B
+  citation-key: IowaCode717A.3B
   container-title: Iowa Code
   issued:
     - year: 2019
@@ -17701,8 +17828,8 @@ references:
   title: Iowa Ag Trespass
   type: legislation
 
-- id: IowaAntiRecording2021
-  citation-key: IowaAntiRecording2021
+- id: IowaCode727.8A
+  citation-key: IowaCode727.8A
   container-title: Iowa Code
   issued:
     - year: 2021
@@ -18839,7 +18966,7 @@ references:
   type: chapter
   URL: https://intr2dok.vifa-recht.de/receive/mir_mods_00015103
 
-- id: Kabas_nd
+- id: Kabas2026
   abstract: LinkedIn may be awash with boosters, but shunning AI is the human choice.
   accessed:
     - year: 2026
@@ -18848,7 +18975,11 @@ references:
   author:
     - family: Kabas
       given: Marisa
-  citation-key: Kabas_nd
+  citation-key: Kabas2026
+  issued:
+    - year: 2026
+      month: 5
+      day: 20
   title: Hating AI is good, actually
   type: webpage
   URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually
@@ -19010,8 +19141,8 @@ references:
   title: 'A machine that would go of itself: the constitution in American culture'
   type: book
 
-- id: KansasAgGag2006
-  citation-key: KansasAgGag2006
+- id: KanStat47-1827
+  citation-key: KanStat47-1827
   container-title: Kan. Stat.
   issued:
     - year: 2006
@@ -20151,6 +20282,31 @@ references:
   URL: https://www.jstor.org/stable/1901530
   volume: '75'
 
+- id: Kosmyna_MITMediaLab2025
+  abstract: >-
+    This study explores the neural and behavioral consequences of LLM-assisted
+    essay writing. Participants were divided into three groups: LLM, Search
+    Engine, and …
+  accessed:
+    - year: 2026
+      month: 9
+      day: 7
+  author:
+    - family: Kos'myna
+      given: Nataliya
+  citation-key: Kosmyna_MITMediaLab2025
+  container-title: MIT Media Lab
+  issued:
+    - year: 2025
+      month: 6
+      day: 10
+  title: >-
+    Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI
+    Assistant for Essay Writing Task
+  title-short: Your Brain on ChatGPT
+  type: webpage
+  URL: https://www.media.mit.edu/publications/your-brain-on-chatgpt/
+
 - id: Kramer2004
   abstract: >-
     The United States Constitution is the foundational document of the longest
@@ -20410,7 +20566,7 @@ references:
   issued:
     - year: 1997
   page: '420'
-  title: Kurtzman v. Applied Analytical Indus., Inc
+  title: Kurtzman v. Applied Analytical Indus.
   type: legal_case
   volume: '493'
 
@@ -24853,6 +25009,21 @@ references:
   type: legal_case
   volume: '281'
 
+- id: MezuMezu_MdAppCt2025
+  authority: Md. App. Ct.
+  citation-key: MezuMezu_MdAppCt2025
+  container-title: A. 3d
+  container-title-short: 3d
+  issued:
+    - year: 2025
+      month: 10
+      day: 29
+  jurisdiction: Md
+  page: '181'
+  title: Mezu v. Mezu
+  type: legal_case
+  volume: '346'
+
 - id: MiklinEnterprisesIncNLRB_8thCir2016
   authority: 8th Cir.
   citation-key: MiklinEnterprisesIncNLRB_8thCir2016
@@ -25191,50 +25362,6 @@ references:
   type: legal_case
   volume: '383'
 
-- id: MissouriAgGag2017
-  abstract: >-
-    Prohibited acts against animal research and production facilities —
-    definitions — penalties.
-  accessed:
-    - year: 2023
-      month: 3
-      day: 2
-  citation-key: MissouriAgGag2017
-  container-title: Mo. Rev. Stat.
-  issued:
-    - year: 2017
-  language: en
-  section: '578.405'
-  title: Missouri Ag-Gag
-  type: legislation
-
-- id: MissouriAgInspection2021
-  abstract: >-
-    Prohibited acts against animal research and production facilities —
-    definitions — penalties.
-  accessed:
-    - year: 2023
-      month: 3
-      day: 2
-  citation-key: MissouriAgInspection2021
-  container-title: Mo. Rev. Stat.
-  issued:
-    - year: 2021
-  language: en
-  section: '261.099'
-  title: Missouri Ag Inspection & Evidence
-  type: legislation
-
-- id: MissouriFarmAnimal2012
-  chapter-number: '2012'
-  citation-key: MissouriFarmAnimal2012
-  container-title: Mo. Rev. Stat.
-  issued:
-    - year: 2012
-  section: 578.013.1
-  title: Missouri Farm Animal Recordings
-  type: legislation
-
 - id: MitchellSherman_Wis1994
   authority: Wis.
   citation-key: MitchellSherman_Wis1994
@@ -25287,7 +25414,7 @@ references:
       month: 11
       day: 1
   page: '159'
-  title: Modise v. CareOne Health Svcs., LLC
+  title: Modise v. CareOne Health Svcs.
   type: legal_case
   volume: '638'
 
@@ -25370,22 +25497,22 @@ references:
   title-short: The American legal profession in crisis
   type: book
 
-- id: MontanaFarmAnimal1991
-  citation-key: MontanaFarmAnimal1991
+- id: MontCodeAnn39-2-901etseq
+  citation-key: MontCodeAnn39-2-901etseq
+  container-title: Code Ann.
+  section: 39-2-901 et seq.
+  title: Montana Wrongful Discharge from Employment Act
+  type: legislation
+  volume: Mont.
+
+- id: MontCodeAnn81-30-101etseq.
+  citation-key: MontCodeAnn81-30-101etseq.
   container-title: Mont. Code Ann.
   issued:
     - year: 1991
   section: 81-30-101 et seq.
   title: Montana Farm Animal and Research Facility Protection Act
   type: legislation
-
-- id: MontCodeAnn39-2-901etseq.
-  citation-key: MontCodeAnn39-2-901etseq.
-  container-title: Code Ann.
-  section: 39-2-901 et seq.
-  title: Montana Wrongful Discharge from Employment Act
-  type: legislation
-  volume: Mont.
 
 - id: Montgomery1989
   abstract: >-
@@ -25619,6 +25746,50 @@ references:
   source: Google Books
   title: Critical theory and authoritarian populism
   type: book
+
+- id: MoRevStat261.099
+  abstract: >-
+    Prohibited acts against animal research and production facilities —
+    definitions — penalties.
+  accessed:
+    - year: 2023
+      month: 3
+      day: 2
+  citation-key: MoRevStat261.099
+  container-title: Mo. Rev. Stat.
+  issued:
+    - year: 2021
+  language: en
+  section: '261.099'
+  title: Missouri Ag Inspection & Evidence
+  type: legislation
+
+- id: MoRevStat578.013.1
+  chapter-number: '2012'
+  citation-key: MoRevStat578.013.1
+  container-title: Mo. Rev. Stat.
+  issued:
+    - year: 2012
+  section: 578.013.1
+  title: Missouri Farm Animal Recordings
+  type: legislation
+
+- id: MoRevStat578.405
+  abstract: >-
+    Prohibited acts against animal research and production facilities —
+    definitions — penalties.
+  accessed:
+    - year: 2023
+      month: 3
+      day: 2
+  citation-key: MoRevStat578.405
+  container-title: Mo. Rev. Stat.
+  issued:
+    - year: 2017
+  language: en
+  section: '578.405'
+  title: Missouri Ag-Gag
+  type: legislation
 
 - id: MorganCorp_NLRB2022
   authority: N.L.R.B.
@@ -26399,7 +26570,7 @@ references:
     - year: 2016
       month: 3
       day: 30
-  number: No. CV 14-248-M-DLC
+  number: 9:14-cv-248
   title: Myers v. Howmedica Osteonics Corp
   type: legal_case
 
@@ -26587,8 +26758,8 @@ references:
   title-short: Character & Fitness Guidelines
   type: document
 
-- id: NCGenStat1-539.12
-  citation-key: NCGenStat1-539.12
+- id: NCGenStat1-53912
+  citation-key: NCGenStat1-53912
   container-title: Gen. Stat.
   section: 1-539.12
   title: Immunity from Civil Liability for Employers Disclosing Information
@@ -26611,40 +26782,40 @@ references:
   type: legislation
   volume: N.C.
 
-- id: NCGenStat95-240etseq.
-  citation-key: NCGenStat95-240etseq.
+- id: NCGenStat95-240etseq
+  citation-key: NCGenStat95-240etseq
   container-title: Gen. Stat.
   section: 95-240 et seq.
   title: North Carolina Retaliatory Employment Discrimination Act
   type: legislation
   volume: N.C.
 
-- id: NCGenStat95-25.1etseq.
-  citation-key: NCGenStat95-25.1etseq.
+- id: NCGenStat95-251etseq
+  citation-key: NCGenStat95-251etseq
   container-title: Gen. Stat.
   section: 95-25.1 et seq.
   title: North Carolina Wage & Hour Act
   type: legislation
   volume: N.C.
 
-- id: NCGenStat95-28.2
-  citation-key: NCGenStat95-28.2
+- id: NCGenStat95-282
+  citation-key: NCGenStat95-282
   container-title: Gen. Stat.
   section: 95-28.2
   title: Lawful Use of Lawful Products during Nonworking Hours
   type: legislation
   volume: N.C.
 
-- id: NCGenStat96-1etseq.
-  citation-key: NCGenStat96-1etseq.
+- id: NCGenStat96-1etseq
+  citation-key: NCGenStat96-1etseq
   container-title: Gen. Stat.
   section: 96-1 et seq.
   title: North Carolina Employment Security Act
   type: legislation
   volume: N.C.
 
-- id: NCGenStat97-1etseq.
-  citation-key: NCGenStat97-1etseq.
+- id: NCGenStat97-1etseq
+  citation-key: NCGenStat97-1etseq
   container-title: Gen. Stat.
   section: 97-1 et seq.
   title: North Carolina Workers' Compensation Act
@@ -26659,6 +26830,15 @@ references:
   title: North Carolina Property Protection Act
   type: legislation
   volume: N.C.
+
+- id: NCGenStat99A-2a
+  citation-key: NCGenStat99A-2a
+  container-title: N.C. Gen. Stat.
+  issued:
+    - year: 2016
+  section: 99A-2
+  title: NC Property Protection Act
+  type: legislation
 
 - id: NCGenStatSS96-1etseq.
   citation-key: NCGenStatSS96-1etseq.
@@ -26675,15 +26855,6 @@ references:
   title: Office of Administrative Hearings--Role as Deferral Agency
   type: legislation
   volume: N.C.
-
-- id: NCPropertyProtectionAct2016
-  citation-key: NCPropertyProtectionAct2016
-  container-title: N.C. Gen. Stat.
-  issued:
-    - year: 2016
-  section: 99A-2
-  title: NC Property Protection Act
-  type: legislation
 
 - id: NCRPC_Rule8.6
   citation-key: NCRPC_Rule8.6
@@ -26720,15 +26891,6 @@ references:
   type: legal_case
   volume: '303'
 
-- id: NDAgGag1991
-  citation-key: NDAgGag1991
-  container-title: N.D. Cent. Code
-  issued:
-    - year: 1991
-  section: 12.1-21.1-01
-  title: ND Ag-Gag
-  type: legislation
-
 - id: NdambiCoreCivicInc_4thCir2021
   authority: 4th Cir.
   citation-key: NdambiCoreCivicInc_4thCir2021
@@ -26742,6 +26904,15 @@ references:
   title: Ndambi v. CoreCivic, Inc.
   type: legal_case
   volume: '990'
+
+- id: NDCentCode12.1-21.1-01
+  citation-key: NDCentCode12.1-21.1-01
+  container-title: N.D. Cent. Code
+  issued:
+    - year: 1991
+  section: 12.1-21.1-01
+  title: ND Ag-Gag
+  type: legislation
 
 - id: NegotiatingPrivateEmploymentOpposing_NCStateBar2017
   authority: N.C. State Bar
@@ -27158,17 +27329,6 @@ references:
   type: legal_case
   volume: '475'
 
-- id: NLRA1935
-  citation-key: NLRA1935
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    - year: 1935
-  section: 151 et seq.
-  title: National Labor Relations Act
-  type: legislation
-  volume: '29'
-
 - id: NLRBBellAerospaceCo_US1974
   authority: U.S.
   citation-key: NLRBBellAerospaceCo_US1974
@@ -27277,7 +27437,7 @@ references:
   issued:
     - year: 1995
   page: '85'
-  title: NLRB v. Town & Country Elec., Inc.
+  title: NLRB v. Town & Country Elec.
   type: legal_case
   volume: '516'
 
@@ -27311,6 +27471,20 @@ references:
   type: legal_case
   volume: '452'
 
+- id: NolandLandFreeLP_CalCtApp2025
+  authority: Cal. Ct. App.
+  citation-key: NolandLandFreeLP_CalCtApp2025
+  container-title: Cal. App. 5th
+  issued:
+    - year: 2025
+      month: 9
+      day: 12
+  jurisdiction: Cal
+  page: '426'
+  title: Noland v. Land of the Free, LP
+  type: legal_case
+  volume: '114'
+
 - id: Nomad2025
   author:
     - family: Nomad
@@ -27335,17 +27509,6 @@ references:
   title: No Place for 'Brain Trusts' (Letter to the Editor)
   type: article-newspaper
   URL: https://www.marxists.org/history/erol/1956-1960/dw/letters-4-20.pdf
-
-- id: NorrisLaGuardiaAct1932
-  citation-key: NorrisLaGuardiaAct1932
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    - year: 1932
-  section: 101 et seq.
-  title: Norris-LaGuardia Act
-  type: legislation
-  volume: '29'
 
 - id: North1990
   abstract: >-
@@ -27485,20 +27648,23 @@ references:
   type: legislation
   volume: N.Y.
 
+- id: NYLab1050etseq
+  citation-key: NYLab1050etseq
+  container-title: Lab.
+  container-title-short: Lab.
+  issued:
+    - year: 2025
+  section: 1050 et seq.
+  title: Trapped at Work Act
+  type: legislation
+  volume: N.Y.
+
 - id: NYLab201-d
   citation-key: NYLab201-d
   container-title: Lab.
   container-title-short: Lab.
   section: 201-d
   title: Discrimination Against the Engagement in Certain Activities
-  type: legislation
-  volume: N.Y.
-
-- id: NYLaborCode980
-  citation-key: NYLaborCode980
-  container-title: Labor Code
-  section: '980'
-  title: Employer Use of Social Media
   type: legislation
   volume: N.Y.
 
@@ -27514,17 +27680,6 @@ references:
   title: New York Unemployment Insurance Law - Disqualification for Benefits
   type: legislation
   URL: https://1.next.westlaw.com/Document/N3C2CDAF089B811D8A8ACD145B11214D7/View/FullText.html?originationContext=typeAhead&transitionType=Default&contextData=(sc.Default)
-  volume: N.Y.
-
-- id: NYTrappedWorkAct2025
-  citation-key: NYTrappedWorkAct2025
-  container-title: Lab.
-  container-title-short: Lab.
-  issued:
-    - year: 2025
-  section: 1050 et seq.
-  title: Trapped at Work Act
-  type: legislation
   volume: N.Y.
 
 - id: NYURemoved2_Goldstein_TheNewYorkTimes2024
@@ -27628,15 +27783,6 @@ references:
   type: article-journal
   URL: http://search.proquest.com/docview/2352142311/abstract/5B13AF4F8A2249D0PQ/1
   volume: '25'
-
-- id: OccupationalSafetyHealth
-  citation-key: OccupationalSafetyHealth
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  section: 641 et seq.
-  title: Occupational Safety & Health Act
-  type: legislation
-  volume: '29'
 
 - id: ODonnell2004
   abstract: >-
@@ -27880,14 +28026,6 @@ references:
   number: 25-1129
   title: O’Neill v. University of Pennsylvania
   type: legal_case
-
-- id: OrdinanceLabourers1349
-  citation-key: OrdinanceLabourers1349
-  container-title: 23 Edw. 3 cc. 1-8
-  issued:
-    - year: 1349
-  title: Ordinance of Labourers
-  type: legislation
 
 - id: Orleck1995
   abstract: >-
@@ -28385,23 +28523,6 @@ references:
   URL: https://doi.org/10.1177/1095796019864931
   volume: '28'
 
-- id: PDA_1978
-  abstract: Pregnancy Discrimination Act
-  accessed:
-    - year: 2026
-      month: 1
-      day: 5
-  citation-key: PDA_1978
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    - year: 1978
-  language: en
-  section: 701(k)
-  title: Pregnancy Discrimination Act of 1978
-  type: legislation
-  volume: '42'
-
 - id: Pearce1996-01-0001
   author:
     - family: Pearce
@@ -28836,7 +28957,7 @@ references:
     - year: 2022
       month: 12
       day: 8
-  number: No. 21-cv-00703-NYW-STV
+  number: 1:21-CV-00703
   title: Pham v. Aeva Specialty Pharmacy
   type: legal_case
 
@@ -30891,7 +31012,7 @@ references:
     - year: 2021
       month: 12
       day: 6
-  number: No. 1:20-cv-2
+  number: 1:20-cv-2
   title: Ries v. Mcdonald's USA, LLC
   type: legal_case
 
@@ -33445,18 +33566,6 @@ references:
   URL: https://1.next.westlaw.com/Search/Results.html?query=find:374%20U.S.%20398#autoLogin
   volume: '374'
 
-- id: ShermanAntitrustAct1890
-  abstract: C
-  citation-key: ShermanAntitrustAct1890
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    - year: 1890
-  section: 1 et seq.
-  title: Sherman Antitrust Act
-  type: legislation
-  volume: '15'
-
 - id: Sherwin2001
   accessed:
     - year: 2024
@@ -34282,7 +34391,7 @@ references:
     - year: 2019
       month: 11
       day: 26
-  number: No. 5:19-CV-00086-KDB-DSC
+  number: 5:19-CV-00086
   title: Smith v. Manheim Remarketing, Inc.
   type: legal_case
 
@@ -34861,14 +34970,6 @@ references:
   title: State v. Wal-Mart Stores
   type: legal_case
   volume: '207'
-
-- id: StatuteLabourers1351
-  citation-key: StatuteLabourers1351
-  container-title: 25 Edw. 3 Stat. 1
-  issued:
-    - year: 1351
-  title: Statute of Labourers
-  type: legislation
 
 - id: Steiner2002
   accessed:
@@ -37558,14 +37659,6 @@ references:
   type: legal_case
   volume: '449'
 
-- id: USC282680
-  citation-key: USC282680
-  container-title: '28'
-  section: '2680'
-  title: Fed. Tort Claims 2680 - Exceptions
-  type: legislation
-  volume: U.S.C.
-
 - id: USCivilRights_TheWashingtonPost1951
   accessed:
     - year: 2026
@@ -37662,9 +37755,9 @@ references:
   type: legal_case
   volume: '463'
 
-- id: UtahAgriculturalOperation2023
+- id: UtahCrimCode76-6-112
   chapter-number: '2023'
-  citation-key: UtahAgriculturalOperation2023
+  citation-key: UtahCrimCode76-6-112
   container-title: Utah Crim. Code
   issued:
     - year: 2023
@@ -37672,9 +37765,9 @@ references:
   title: Utah Agricultural Operation Interference
   type: legislation
 
-- id: UtahAgTrespass2023
+- id: UtahCrimCode76-6-206.3
   chapter-number: '2023'
-  citation-key: UtahAgTrespass2023
+  citation-key: UtahCrimCode76-6-206.3
   container-title: Utah Crim. Code
   issued:
     - year: 2023
@@ -38068,7 +38161,7 @@ references:
   issued:
     - year: 2021
   page: '89'
-  title: Walsh v. East Penn Mfg., Inc
+  title: Walsh v. East Penn Mfg.
   type: legal_case
   volume: '555'
 
@@ -39353,27 +39446,6 @@ references:
   title-short: The curse of bigness
   type: book
 
-- id: WyomingCivilTrespass2015
-  chapter-number: '2015'
-  citation-key: WyomingCivilTrespass2015
-  container-title: Wyo. Stat.
-  issued:
-    - year: 2015
-  section: 40-27-101
-  title: Wyoming Civil Trespass
-  type: legislation
-
-- id: WyomingCriminalTrespass2015
-  chapter-number: '2015'
-  citation-key: WyomingCriminalTrespass2015
-  container-title: Wyo. Stat.
-  issued:
-    - year: 2015
-  references: "Laws 2015, ch.\_146, § 1, eff. March 5, 2015; Laws 2016, ch.\_117, §§ 1, 2, eff. March 15, 2016."
-  section: 6-3-414
-  title: Wyoming Criminal Trespass
-  type: legislation
-
 - id: WyomingsDataTrespassLaws_Solomon_VermontJournalofEnvironmentalLawEcoperspectivesBlog2016
   accessed:
     - year: 2023
@@ -39393,6 +39465,27 @@ references:
   title-short: Wyoming’s Data Trespass Laws Trample First Amendment Rights
   type: post-weblog
   URL: https://vjel.vermontlaw.edu/wyomings-data-trespass-laws-trample-first-amendment-rights-preview
+
+- id: WyoStat40-27-101
+  chapter-number: '2015'
+  citation-key: WyoStat40-27-101
+  container-title: Wyo. Stat.
+  issued:
+    - year: 2015
+  section: 40-27-101
+  title: Wyoming Civil Trespass
+  type: legislation
+
+- id: WyoStat6-3-414
+  chapter-number: '2015'
+  citation-key: WyoStat6-3-414
+  container-title: Wyo. Stat.
+  issued:
+    - year: 2015
+  references: "Laws 2015, ch.\_146, § 1, eff. March 5, 2015; Laws 2016, ch.\_117, §§ 1, 2, eff. March 15, 2016."
+  section: 6-3-414
+  title: Wyoming Criminal Trespass
+  type: legislation
 
 - id: YanowitzLOrealUSAInc_Cal2005
   authority: Cal.
@@ -39786,6 +39879,30 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.46
 
+- id: Zewe_MITNews2025
+  abstract: >-
+    MIT News explores the environmental and sustainability implications of
+    generative AI technologies and applications.
+  accessed:
+    - year: 2026
+      month: 9
+      day: 7
+  author:
+    - family: Zewe
+      given: Adam
+  citation-key: Zewe_MITNews2025
+  container-title: MIT News
+  issued:
+    - year: 2025
+      month: 1
+      day: 17
+  language: en
+  publisher: Massachusetts Institute of Technology
+  title: 'Explained: Generative AI’s environmental impact'
+  title-short: Explained
+  type: webpage
+  URL: https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117
+
 - id: Ziege2014
   abstract: >-
     Recent years have seen a major reassessment of the forced migration of the
@@ -39877,7 +39994,7 @@ references:
     - year: 2020
       month: 9
       day: 17
-  number: Nos. 19-CV-1058 & 18-CV-11165
+  number: 19-CV-1058 & 18-CV-11165
   title: Zorn-Hill v. A2B Taxi, LLC
   type: legal_case
 
