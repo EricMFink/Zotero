@@ -1488,6 +1488,184 @@ references:
   URL: https://doi.org/10.3102/01623737221113576
   volume: '45'
 
+- id: ALDFHerbert_DUtah2017
+  authority: D. Utah
+  citation-key: ALDFHerbert_DUtah2017
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2017
+  page: '1193'
+  title: ALDF v. Herbert
+  title-short: ALDF v. Herbert
+  type: legal_case
+  volume: '263'
+
+- id: ALDFKelly_10thCir2021
+  authority: 10th Cir.
+  citation-key: ALDFKelly_10thCir2021
+  container-title: F.4th
+  container-title-short: F.4th
+  issued:
+    - year: 2021
+  page: '1219'
+  references: Cert. denied, 142 S.Ct. 2647 (2022)
+  title: ALDF v. Kelly
+  title-short: ALDF v. Kelly
+  type: legal_case
+  volume: '9'
+
+- id: ALDFKelly_DKansas2020
+  authority: D. Kansas
+  citation-key: ALDFKelly_DKansas2020
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2020
+  page: '974'
+  title: ALDF v. Kelly
+  title-short: ALDF v. Kelly
+  type: legal_case
+  volume: '434'
+
+- id: ALDFOtter_DIdaho2015
+  authority: D. Idaho
+  citation-key: ALDFOtter_DIdaho2015
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2015
+  page: '1195'
+  title: ALDF v. Otter
+  title-short: ALDF v. Otter
+  type: legal_case
+  volume: '118'
+
+- id: ALDFPecoFoodsInc_EDArk2023
+  authority: E.D. Ark.
+  citation-key: ALDFPecoFoodsInc_EDArk2023
+  issued:
+    - year: 2023
+      month: 3
+      day: 31
+  number: 4:19-CV-00442
+  title: ALDF v. Peco Foods, Inc.
+  title-short: Peco Foods
+  type: legal_case
+
+- id: ALDFReynolds_8thCir2021
+  authority: 8th Cir.
+  citation-key: ALDFReynolds_8thCir2021
+  container-title: F.4th
+  container-title-short: F.4th
+  issued:
+    - year: 2021
+  page: '781'
+  title: ALDF v. Reynolds
+  title-short: ALDF v. Reynolds
+  type: legal_case
+  volume: '8'
+
+- id: ALDFReynolds_8thCir2024
+  accessed:
+    - year: 2024
+      month: 2
+      day: 19
+  authority: 8th Cir.
+  citation-key: ALDFReynolds_8thCir2024
+  container-title: F.4th
+  container-title-short: F.4th
+  issued:
+    - year: 2024
+      month: 1
+      day: 8
+  page: '1065'
+  title: ALDF v. Reynolds
+  title-short: ALDF v. Reynolds
+  type: legal_case
+  volume: '89'
+
+- id: ALDFReynolds_SDIowa2018
+  authority: S.D. Iowa
+  citation-key: ALDFReynolds_SDIowa2018
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2018
+  page: '901'
+  title: ALDF v. Reynolds
+  title-short: ALDF v. Reynolds
+  type: legal_case
+  volume: '297'
+
+- id: ALDFReynolds_SDIowa2022
+  authority: S.D. Iowa
+  citation-key: ALDFReynolds_SDIowa2022
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2022
+  page: '397'
+  title: ALDF v. Reynolds
+  title-short: ALDF v. Reynolds
+  type: legal_case
+  volume: '591'
+
+- id: ALDFVaught_8thCir2021
+  authority: 8th Cir.
+  citation-key: ALDFVaught_8thCir2021
+  container-title: F.4th
+  container-title-short: F.4th
+  issued:
+    - year: 2021
+  page: '714'
+  title: ALDF v. Vaught
+  title-short: ALDF v. Vaught
+  type: legal_case
+  volume: '8'
+
+- id: ALDFVaught_EDArk2020
+  authority: E.D. Ark.
+  citation-key: ALDFVaught_EDArk2020
+  issued:
+    - year: 2020
+      month: 2
+      day: 14
+  number: 4:19-CV-00442
+  title: ALDF v. Vaught
+  title-short: ALDF v. Vaught
+  type: legal_case
+
+- id: ALDFWasden_9thCir2018
+  authority: 9th Cir.
+  citation-key: ALDFWasden_9thCir2018
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2018
+  page: '1184'
+  title: ALDF v. Wasden
+  title-short: ALDF v. Wasden
+  type: legal_case
+  volume: '878'
+
+- id: ALDFWasdenLaborAmicus2016
+  citation-key: ALDFWasdenLaborAmicus2016
+  genre: Legal Brief
+  issued:
+    - year: 2016
+      month: 6
+      day: 23
+  title: >-
+    Brief of Amicus Curiae Idaho Building Trades Council and Idaho AFL-CIO in
+    ALDF v. Wasden
+  type: document
+
+- id: ALDFWasdenUFWAmicus2016
+  citation-key: ALDFWasdenUFWAmicus2016
+  genre: Legal Brief
+  issued:
+    - year: 2016
+      month: 6
+      day: 27
+  title: Brief of Amicus Curiae United Farm Workers of America in ALDF v. Wasden
+  type: document
+
 - id: Alford1985
   abstract: >-
     Existing theories of the nature of the state in Western capitalist
@@ -1531,6 +1709,18 @@ references:
   title: 'Powers of theory: capitalism, the state, and democracy'
   title-short: Powers of theory
   type: book
+
+- id: AlgrecoSportswearCo_NLRB1984
+  authority: N.L.R.B.
+  citation-key: AlgrecoSportswearCo_NLRB1984
+  container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
+  issued:
+    - year: 1984
+  page: '499'
+  title: Algreco Sportswear Co.
+  type: legal_case
+  volume: '271'
 
 - id: Almeida2019
   author:
@@ -1590,7 +1780,8 @@ references:
 - id: AmadorCountyCalUs_DCCir2014
   authority: D.C. Cir.
   citation-key: AmadorCountyCalUs_DCCir2014
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2014
   page: '901'
@@ -1669,7 +1860,7 @@ references:
     - year: 2026
       month: 9
       day: 4
-  number: 1:26-cv-38
+  number: 1:26-CV-38
   title: Ammel v. Sinema
   type: legal_case
 
@@ -1878,78 +2069,9 @@ references:
   title: Animal and Ecological Terrorism in America
   type: document
 
-- id: AnimalLeagueDefenseFund_EDArk2023
-  authority: E.D. Ark.
-  citation-key: AnimalLeagueDefenseFund_EDArk2023
-  issued:
-    - year: 2023
-      month: 3
-      day: 31
-  number: 4:19cv00442 JM
-  title: Animal League Defense Fund v. Peco Foods, Inc.
-  title-short: Peco Foods
-  type: legal_case
-
-- id: AnimalLegalDefenseFund_10thCir2021
-  authority: 10th Cir.
-  citation-key: AnimalLegalDefenseFund_10thCir2021
-  container-title: F.4th
-  container-title-short: F.4th
-  issued:
-    - year: 2021
-  page: '1219'
-  references: Cert. denied, 142 S.Ct. 2647 (2022)
-  title: Animal Legal Defense Fund v. Kelly
-  title-short: ALDF v. Kelly
-  type: legal_case
-  volume: '9'
-
-- id: AnimalLegalDefenseFund_8thCir2021
-  authority: 8th Cir.
-  citation-key: AnimalLegalDefenseFund_8thCir2021
-  container-title: F.4th
-  container-title-short: F.4th
-  issued:
-    - year: 2021
-  page: '781'
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: ALDF v. Reynolds
-  type: legal_case
-  volume: '8'
-
-- id: AnimalLegalDefenseFund_8thCir2021a
-  authority: 8th Cir.
-  citation-key: AnimalLegalDefenseFund_8thCir2021a
-  container-title: F.4th
-  container-title-short: F.4th
-  issued:
-    - year: 2021
-  page: '714'
-  title: Animal Legal Defense Fund v. Vaught
-  title-short: ALDF v. Vaught
-  type: legal_case
-  volume: '8'
-
-- id: AnimalLegalDefenseFund_8thCir2024
-  accessed:
-    - year: 2024
-      month: 2
-      day: 19
-  authority: 8th Cir.
-  citation-key: AnimalLegalDefenseFund_8thCir2024
-  issued:
-    - year: 2024
-      month: 1
-      day: 8
-  page: '1065'
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: ALDF v. Reynolds
-  type: legal_case
-  volume: '89'
-
-- id: AnimalLegalDefenseFund_9thCir2018
+- id: AnimalLegalDefenseFundWasden_9thCir2018
   authority: 9th Cir.
-  citation-key: AnimalLegalDefenseFund_9thCir2018
+  citation-key: AnimalLegalDefenseFundWasden_9thCir2018
   container-title: F.3d
   container-title-short: F.3d
   issued:
@@ -1959,90 +2081,6 @@ references:
   title-short: ALDF v. Wasden
   type: legal_case
   volume: '878'
-
-- id: AnimalLegalDefenseFund_DIdaho2015
-  authority: D. Idaho
-  citation-key: AnimalLegalDefenseFund_DIdaho2015
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2015
-  page: '1195'
-  title: Animal Legal Defense Fund v. Otter
-  title-short: ALDF v. Otter
-  type: legal_case
-  volume: '118'
-
-- id: AnimalLegalDefenseFund_DIdaho2018
-  authority: D. Idaho
-  citation-key: AnimalLegalDefenseFund_DIdaho2018
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2018
-  page: '939'
-  title: Animal Legal Defense Fund v. Wasden
-  title-short: ALDF v. Wasden
-  type: legal_case
-  volume: '312'
-
-- id: AnimalLegalDefenseFund_DKansas2020
-  authority: D. Kansas
-  citation-key: AnimalLegalDefenseFund_DKansas2020
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2020
-  page: '974'
-  title: Animal Legal Defense Fund v. Kelly
-  title-short: ALDF v. Kelly
-  type: legal_case
-  volume: '434'
-
-- id: AnimalLegalDefenseFund_DUtah2017
-  authority: D. Utah
-  citation-key: AnimalLegalDefenseFund_DUtah2017
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2017
-  page: '1193'
-  title: Animal Legal Defense Fund v. Herbert
-  title-short: ALDF v. Herbert
-  type: legal_case
-  volume: '263'
-
-- id: AnimalLegalDefenseFund_EDArk2020
-  authority: E.D. Ark.
-  citation-key: AnimalLegalDefenseFund_EDArk2020
-  issued:
-    - year: 2020
-      month: 2
-      day: 14
-  number: 4:19cv00442
-  title: Animal Legal Defense Fund v. Vaught
-  title-short: ALDF v. Vaught
-  type: legal_case
-
-- id: AnimalLegalDefenseFund_SDIowa2018
-  authority: S.D. Iowa
-  citation-key: AnimalLegalDefenseFund_SDIowa2018
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2018
-  page: '901'
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: ALDF v. Reynolds
-  type: legal_case
-  volume: '297'
-
-- id: AnimalLegalDefenseFund_SDIowa2022
-  authority: S.D. Iowa
-  citation-key: AnimalLegalDefenseFund_SDIowa2022
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2022
-  page: '397'
-  title: Animal Legal Defense Fund v. Reynolds
-  title-short: ALDF v. Reynolds
-  type: legal_case
-  volume: '591'
 
 - id: AntiRedBillsHeld_Press_TheWashingtonPost1950
   abstract: >-
@@ -2217,7 +2255,7 @@ references:
     - year: 2020
       month: 1
       day: 6
-  number: 4:19-cv-00773-KGB
+  number: 4:19-CV-00773
   title: Arkansas Labeling, Inc. v. Proctor (Complaint)
   title-short: Arkansas Labeling
   type: legal_case
@@ -2229,7 +2267,7 @@ references:
     - year: 2020
       month: 11
       day: 27
-  number: Case No. 4:19-cv-00773-KGB
+  number: 4:19-CV-00773
   title: Arkansas Labeling, Inc. v. Proctor
   type: legal_case
 
@@ -2240,7 +2278,7 @@ references:
     - year: 2021
       month: 9
       day: 3
-  number: Case No. 4:19-cv-00773-KGB
+  number: 4:19-CV-00773
   title: Arkansas Labeling, Inc. v. Proctor
   title-short: Arkansas Labeling
   type: legal_case
@@ -2252,7 +2290,7 @@ references:
     - year: 2022
       month: 7
       day: 22
-  number: No. 4:19-cv-00773-KGB
+  number: 4:19-CV-00773
   title: Arkansas Labeling, Inc. v. Tim Proctor, Label Edge, Llc
   type: legal_case
 
@@ -3989,7 +4027,8 @@ references:
 - id: BivensZepInc_6thCir2025
   authority: 6th Cir.
   citation-key: BivensZepInc_6thCir2025
-  container-title: F. 4th
+  container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2025
   page: '635'
@@ -4956,28 +4995,6 @@ references:
   title: Nationalism and the state
   type: book
 
-- id: BriefAmicusCuriae2016
-  citation-key: BriefAmicusCuriae2016
-  genre: Legal Brief
-  issued:
-    - year: 2016
-      month: 6
-      day: 23
-  title: >-
-    Brief of Amicus Curiae Idaho Building Trades Council and Idaho AFL-CIO in
-    ALDF v. Wasden
-  type: document
-
-- id: BriefAmicusCuriae2016a
-  citation-key: BriefAmicusCuriae2016a
-  genre: Legal Brief
-  issued:
-    - year: 2016
-      month: 6
-      day: 27
-  title: Brief of Amicus Curiae United Farm Workers of America in ALDF v. Wasden
-  type: document
-
 - id: Britton-Purdy2024
   abstract: >-
     Democracy and the rule of law aim at the same thing in different ways. Both
@@ -5029,7 +5046,7 @@ references:
     - year: 2025
       month: 7
       day: 1
-  number: No. 4:24-cv-00091
+  number: 4:24-cv-00091
   title: Broadbent v. Williams
   type: legal_case
 
@@ -5426,7 +5443,7 @@ references:
     - year: 2018
       month: 11
       day: 1
-  number: 3:17-cv-00093
+  number: 3:17-CV-00093
   title: Burdine v. Metropolitan Direct Prop. & Cas. Ins. Co.
   type: legal_case
 
@@ -5695,7 +5712,8 @@ references:
 - id: ButlerDriveAutomotiveIndustries_4thCir2015
   authority: 4th Cir.
   citation-key: ButlerDriveAutomotiveIndustries_4thCir2015
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2015
       month: 7
@@ -5941,7 +5959,7 @@ references:
     - year: 2013
       month: 12
       day: 19
-  number: 12-cv-2859
+  number: 12-CV-2859
   title: Camacho v. Major League Baseball
   type: legal_case
 
@@ -6119,7 +6137,8 @@ references:
 - id: CapitalAssocIndusInc_4thCir2019
   authority: 4th Cir.
   citation-key: CapitalAssocIndusInc_4thCir2019
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2019
       month: 4
@@ -6650,7 +6669,7 @@ references:
     - year: 2022
       month: 8
       day: 31
-  number: No. 17CV-21-174
+  number: 17CV-21-174
   title: Chey-Tac, Inc. v. Knesek
   type: legal_case
 
@@ -7435,7 +7454,7 @@ references:
     - year: 2020
       month: 9
       day: 18
-  number: 5:19-CV-431-D
+  number: 5:19-CV-431
   title: Colborn v. Forest Good Eats, Llc
   type: legal_case
 
@@ -7656,7 +7675,7 @@ references:
     - year: 2020
       month: 7
       day: 18
-  number: 20-724
+  number: 20-CV-724
   title: Complete Bus. Sol. Grp. v. Annie's Pooch Pops
   type: legal_case
 
@@ -8006,7 +8025,7 @@ references:
     - year: 2026
       month: 3
       day: 26
-  number: Civil Action No. 7:24-CV-0114-B
+  number: 7:24-CV-0114
   title: X Corp. v. World Federation of Advertisers
   type: legal_case
 
@@ -8229,7 +8248,8 @@ references:
 - id: CuddebackFloridaBdEduc_11thCir2004
   authority: 11th Cir.
   citation-key: CuddebackFloridaBdEduc_11thCir2004
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2004
       month: 8
@@ -9351,7 +9371,7 @@ references:
     - year: 2025
       month: 4
       day: 28
-  number: 1:25-cv-368
+  number: 1:25-CV-368
   title: Doe v. Clinton Cty.
   type: legal_case
 
@@ -9362,7 +9382,7 @@ references:
     - year: 2020
       month: 5
       day: 6
-  number: No. 19-cv-1477 (MJD/ECW)
+  number: 19-CV-1477
   title: Dolphin Kickboxing Co. v. Franchoice, Inc.
   type: legal_case
 
@@ -9955,7 +9975,7 @@ references:
     - year: 2024
       month: 9
       day: 26
-  number: No. 24-1443
+  number: 24-1443
   title: Draftkings, Inc. v. Hermalyn
   type: legal_case
 
@@ -11815,7 +11835,8 @@ references:
 - id: FelixLucentTechnologiesInc_10thCir2004
   authority: 10th Cir.
   citation-key: FelixLucentTechnologiesInc_10thCir2004
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2004
       month: 10
@@ -15713,7 +15734,7 @@ references:
     - year: 2009
       month: 10
       day: 2
-  number: Civil No. 09-cv-00250-SM
+  number: 09-cv-00250-SM
   page: '3213438'
   title: Griffin v. New Hampshire Department of Employment Security
   type: legal_case
@@ -15951,7 +15972,8 @@ references:
 - id: GuardsmarkLLCNLRB_DCCir2007
   authority: D.C. Cir.
   citation-key: GuardsmarkLLCNLRB_DCCir2007
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2007
   page: '369'
@@ -16229,7 +16251,7 @@ references:
     - year: 1999
       month: 8
       day: 17
-  number: 1:99-cv-00119
+  number: 1:99-CV-00119
   title: Hanks v Coan
   type: legal_case
 
@@ -16918,7 +16940,8 @@ references:
 - id: HenryAdventistHealthCastle_9thCir2020
   authority: 9th Cir.
   citation-key: HenryAdventistHealthCastle_9thCir2020
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2020
       month: 8
@@ -18098,7 +18121,7 @@ references:
     - year: 2025
       month: 12
       day: 2
-  number: 25-cv-11168
+  number: 25-CV-11168
   title: Jarrus v. Governor of Michigan
   type: legal_case
 
@@ -21246,7 +21269,8 @@ references:
 - id: LemonMyersBigelPA_4thCir2021
   authority: 4th Cir.
   citation-key: LemonMyersBigelPA_4thCir2021
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2021
       month: 1
@@ -21941,6 +21965,8 @@ references:
 - id: LionElastomersInc_NLRB2023
   authority: N.L.R.B.
   citation-key: LionElastomersInc_NLRB2023
+  container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
   issued:
     - year: 2023
       month: 5
@@ -22197,6 +22223,20 @@ references:
     Bettering Wages/Conditions, 1349
   type: post-weblog
   URL: https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
+
+- id: LongVerticalTechnologiesInc_NCCtApp1994
+  authority: N.C. Ct. App.
+  citation-key: LongVerticalTechnologiesInc_NCCtApp1994
+  container-title: SE 2d
+  issued:
+    - year: 1994
+      month: 2
+      day: 15
+  jurisdiction: NC
+  page: '797'
+  title: Long v. Vertical Technologies, Inc.
+  type: legal_case
+  volume: '439'
 
 - id: Loomis1930
   author:
@@ -24277,7 +24317,8 @@ references:
 - id: McClureThompson_9thCir2003
   authority: 9th Cir.
   citation-key: McClureThompson_9thCir2003
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2003
   page: '1233'
@@ -25231,6 +25272,8 @@ references:
 - id: MillerPlasticProductsInc_NLRB2023
   authority: N.L.R.B.
   citation-key: MillerPlasticProductsInc_NLRB2023
+  container-title: N.L.R.B.
+  container-title-short: N.L.R.B.
   issued:
     - year: 2023
       month: 8
@@ -25247,7 +25290,7 @@ references:
     - year: 2026
       month: 5
       day: 21
-  number: No. 2:24-cv-1324-HDM
+  number: 2:24-CV-1324
   title: Miller v. Regions Bank
   type: legal_case
 
@@ -25630,7 +25673,8 @@ references:
 - id: MooreBaker_11thCir1993
   authority: 11th Cir.
   citation-key: MooreBaker_11thCir1993
-  container-title: F. 2d
+  container-title: F.2d
+  container-title-short: F.2d
   issued:
     - year: 1993
       month: 4
@@ -26570,7 +26614,7 @@ references:
     - year: 2016
       month: 3
       day: 30
-  number: 9:14-cv-248
+  number: 9:14-CV-248
   title: Myers v. Howmedica Osteonics Corp
   type: legal_case
 
@@ -27421,7 +27465,8 @@ references:
       day: 12
   authority: 3d Cir.
   citation-key: NLRBStarbucksCorporation_3dCir2024
-  container-title: F4th
+  container-title: F.4th
+  container-title-short: F.4th
   issued:
     - year: 2024
   page: '78'
@@ -28023,7 +28068,7 @@ references:
     - year: 2025
       month: 10
       day: 31
-  number: 25-1129
+  number: 25-CV-1129
   title: O’Neill v. University of Pennsylvania
   type: legal_case
 
@@ -28138,7 +28183,7 @@ references:
     - year: 2017
       month: 7
       day: 10
-  number: 3:17-cv-228
+  number: 3:17-CV-228
   title: Ottawa Twp. v. New Par (I)
   type: legal_case
 
@@ -28149,7 +28194,7 @@ references:
     - year: 2017
       month: 10
       day: 10
-  number: 3:17-cv-228
+  number: 3:17-CV-228
   title: Ottawa Twp. v. New Par (II)
   type: legal_case
 
@@ -28500,7 +28545,7 @@ references:
     - year: 2026
       month: 7
       day: 25
-  number: 2:23-cv-00873
+  number: 2:23-CV-00873
   title: Patel v. Stewartson
   type: legal_case
 
@@ -28732,48 +28777,6 @@ references:
   type: legal_case
   volume: '754'
 
-- id: PeopleEthicalTreatmentAnimals_4thCir2018
-  authority: 4th Cir.
-  citation-key: PeopleEthicalTreatmentAnimals_4thCir2018
-  container-title: Fed. App'x
-  container-title-short: Fed Appx
-  issued:
-    - year: 2018
-      month: 6
-      day: 5
-  number: 17-1669
-  page: '122'
-  references: reversing 259 F.Supp. 3d 369 (M.D.N.C. 2017)
-  title: People for Ethical Treatment of Animals v. Stein
-  title-short: PETA v. Stein
-  type: legal_case
-  volume: '737'
-
-- id: PeopleEthicalTreatmentAnimals_MDNC2017
-  authority: M.D.N.C.
-  citation-key: PeopleEthicalTreatmentAnimals_MDNC2017
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2017
-  page: '369'
-  references: Rev'd, No. 17-1669 (4th. Cir. June 6, 2018)
-  title: People for Ethical Treatment of Animals v. Stein
-  title-short: PETA v. Stein
-  type: legal_case
-  volume: '259'
-
-- id: PeopleEthicalTreatmentAnimals_MDNC2020
-  authority: M.D.N.C.
-  citation-key: PeopleEthicalTreatmentAnimals_MDNC2020
-  container-title: F. Supp. 3d
-  issued:
-    - year: 2020
-  page: '547'
-  title: People for Ethical Treatment of Animals v. Stein
-  title-short: PETA v. Stein
-  type: legal_case
-  volume: '466'
-
 - id: Perdue1987
   author:
     - family: Perdue
@@ -28881,6 +28884,48 @@ references:
   type: article-newspaper
   URL: http://www.newsobserver.com/news/politics-government/state-politics/article88670927.html
 
+- id: PETAStein_4thCir2018
+  authority: 4th Cir.
+  citation-key: PETAStein_4thCir2018
+  container-title: Fed. App'x
+  container-title-short: Fed Appx
+  issued:
+    - year: 2018
+      month: 6
+      day: 5
+  number: 17-1669
+  page: '122'
+  references: reversing 259 F.Supp. 3d 369 (M.D.N.C. 2017)
+  title: PETA v. Stein
+  title-short: PETA v. Stein
+  type: legal_case
+  volume: '737'
+
+- id: PETAStein_MDNC2017
+  authority: M.D.N.C.
+  citation-key: PETAStein_MDNC2017
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2017
+  page: '369'
+  references: Rev'd, No. 17-1669 (4th. Cir. June 6, 2018)
+  title: PETA v. Stein
+  title-short: PETA v. Stein
+  type: legal_case
+  volume: '259'
+
+- id: PETAStein_MDNC2020
+  authority: M.D.N.C.
+  citation-key: PETAStein_MDNC2020
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2020
+  page: '547'
+  title: PETA v. Stein
+  title-short: PETA v. Stein
+  type: legal_case
+  volume: '466'
+
 - id: PETASteinCert2023
   citation-key: PETASteinCert2023
   issued:
@@ -28888,15 +28933,6 @@ references:
       month: 5
       day: 24
   title: PETA v. Stein - Cert Petition
-  type: document
-
-- id: PETASteinFarm2021
-  citation-key: PETASteinFarm2021
-  issued:
-    - year: 2021
-      month: 3
-      day: 1
-  title: PETA v. Stein - Farm Workers Amicus
   type: document
 
 - id: PETASteinLaw2017
@@ -28924,6 +28960,15 @@ references:
       month: 3
       day: 1
   title: PETA v. Stein - Media Amicus
+  type: document
+
+- id: PETASteinUFWAmicus2021
+  citation-key: PETASteinUFWAmicus2021
+  issued:
+    - year: 2021
+      month: 3
+      day: 1
+  title: PETA v. Stein - Farm Workers Amicus
   type: document
 
 - id: Pfeffer2026
@@ -29851,7 +29896,8 @@ references:
 - id: PryorUnitedAirLines_4thCir2015
   authority: 4th Cir.
   citation-key: PryorUnitedAirLines_4thCir2015
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2015
   page: '488'
@@ -29901,17 +29947,14 @@ references:
 - id: PulaskiCountyMedicalExchange_EDArk2022
   authority: E.D. Ark.
   citation-key: PulaskiCountyMedicalExchange_EDArk2022
-  container-title: WL
   issued:
     - year: 2022
       month: 2
       day: 15
-  number: 4:22-CV-00028-BRW
-  page: '468027'
+  number: 4:22-CV-00028
   title: Pulaski County Medical Exchange v. Medcom Medical Messaging, Inc.
   title-short: Pulaski County Medical Exchange
   type: legal_case
-  volume: '2022'
 
 - id: Purcell2007
   abstract: >-
@@ -30510,7 +30553,8 @@ references:
 - id: ReDresserIndusInc_5thCir1992
   authority: 5th Cir.
   citation-key: ReDresserIndusInc_5thCir1992
-  container-title: F. 2d
+  container-title: F.2d
+  container-title-short: F.2d
   issued:
     - year: 1992
   page: '540'
@@ -30586,7 +30630,8 @@ references:
 - id: ReGrandJurySubpoena_4thCir2005
   authority: 4th Cir.
   citation-key: ReGrandJurySubpoena_4thCir2005
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2005
       month: 3
@@ -30668,7 +30713,8 @@ references:
 - id: ReKBRIncBurn_4thCir2014
   authority: 4th Cir.
   citation-key: ReKBRIncBurn_4thCir2014
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2014
       month: 3
@@ -31012,7 +31058,7 @@ references:
     - year: 2021
       month: 12
       day: 6
-  number: 1:20-cv-2
+  number: 1:20-CV-2
   title: Ries v. Mcdonald's USA, LLC
   type: legal_case
 
@@ -32152,7 +32198,8 @@ references:
 - id: ScalesUS_4thCir1955
   authority: 4th Cir.
   citation-key: ScalesUS_4thCir1955
-  container-title: F. 2d
+  container-title: F.2d
+  container-title-short: F.2d
   issued:
     - year: 1955
   page: '581'
@@ -32164,7 +32211,8 @@ references:
 - id: ScalesUS_4thCir1958
   authority: 4th Cir.
   citation-key: ScalesUS_4thCir1958
-  container-title: F. 2d
+  container-title: F.2d
+  container-title-short: F.2d
   issued:
     - year: 1958
   page: '21'
@@ -34795,7 +34843,8 @@ references:
 - id: StanfordHospClinicsNLRB_DCCir2003
   authority: D.C. Cir.
   citation-key: StanfordHospClinicsNLRB_DCCir2003
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2003
   page: '334'
@@ -34856,7 +34905,7 @@ references:
     - year: 2023
       month: 9
       day: 21
-  number: No. 14--CA--295813
+  number: 14-CA-295813
   title: Starbucks Corp.
   type: legal_case
 
@@ -34877,13 +34926,11 @@ references:
 - id: StarbucksCorporation_NLRBDivofJudges2025
   authority: N.L.R.B. Div. of Judges
   citation-key: StarbucksCorporation_NLRBDivofJudges2025
-  container-title: WL
   issued:
     - year: 2025
       month: 3
       day: 17
-  number: 14-CA-334485 JD-23-25
-  page: '855159'
+  number: 14-CA-334485
   title: Starbucks Corporation
   type: legal_case
   volume: '2025'
@@ -36406,7 +36453,8 @@ references:
 - id: TaylorKavanagh_2dCir1981
   authority: 2d Cir.
   citation-key: TaylorKavanagh_2dCir1981
-  container-title: F. 2d
+  container-title: F.2d
+  container-title-short: F.2d
   issued:
     - year: 1981
   page: '450'
@@ -36873,17 +36921,14 @@ references:
 - id: TimberAutomationLLCFiberPro_WDArk2020
   authority: W.D. Ark.
   citation-key: TimberAutomationLLCFiberPro_WDArk2020
-  container-title: WL
   issued:
     - year: 2020
       month: 10
       day: 2
   number: 6:20-CV-06076
-  page: '5878211'
   title: Timber Automation, LLC v. FiberPro, LLC
   title-short: Timber Automation
   type: legal_case
-  volume: '2020'
 
 - id: TimesHeraldRecord_NLRB2001
   authority: N.L.R.B.
@@ -37235,7 +37280,7 @@ references:
     - year: 2026
       month: 7
       day: 13
-  number: 26-20609-cv
+  number: 26-CV-20609
   title: Trump v. Internal Revenue Serv.
   type: legal_case
 
@@ -37370,17 +37415,14 @@ references:
 - id: TuckerAutoMationNorthCarolina_MDNC2017
   authority: M.D.N.C.
   citation-key: TuckerAutoMationNorthCarolina_MDNC2017
-  container-title: WL
   issued:
     - year: 2017
       month: 7
       day: 10
-  number: 1:15-cv-893
-  page: '2930926'
+  number: 1:15-CV-893
   title: Tucker Auto-Mation of North Carolina, LLC v. Rutledge
   title-short: Tucker-Auto-Mation
   type: legal_case
-  volume: '2017'
 
 - id: Turek2011
   author:
@@ -37403,7 +37445,7 @@ references:
     - year: 2015
       month: 1
       day: 15
-  number: Civil Action No. 3:14cv446
+  number: 3:14-CV-446
   title: Turton v. Virginia Department of Education
   type: legal_case
 
@@ -37711,7 +37753,8 @@ references:
 - id: USDeloitteLLP_DCCir2010
   authority: D.C. Cir.
   citation-key: USDeloitteLLP_DCCir2010
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 2010
   page: '129'
@@ -37722,7 +37765,8 @@ references:
 - id: USLong_8thCir1988
   authority: 8th Cir.
   citation-key: USLong_8thCir1988
-  container-title: F. 2d
+  container-title: F.2d
+  container-title-short: F.2d
   issued:
     - year: 1988
   page: '436'
@@ -38708,7 +38752,8 @@ references:
 - id: WhitingLacara_2dCir1999
   authority: 2d Cir.
   citation-key: WhitingLacara_2dCir1999
-  container-title: F. 3d
+  container-title: F.3d
+  container-title-short: F.3d
   issued:
     - year: 1999
   page: '317'
@@ -39106,7 +39151,7 @@ references:
     - year: 2026
       month: 6
       day: 8
-  number: 1:24-cv-00218
+  number: 1:24-CV-00218
   title: Withers v. City of Aberdeen
   type: legal_case
 
