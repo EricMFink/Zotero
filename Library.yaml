@@ -12020,7 +12020,7 @@ references:
   volume: '311'
 
 -
-  id: Folco_nd
+  id: Folco2026
   abstract: AI and algorithms are more than technologies. They are rooted in new capitalist forms and processes that transcend economics and technology to reshape social reality, politics, culture, and subjectivities.Set out in twenty theses—stretching across geopolitics, the mining of rare earths, labor, crypto, influencers, clim
   author:
     -
@@ -12029,7 +12029,7 @@ references:
     -
       family: Martineau
       given: Jonathan
-  citation-key: Folco_nd
+  citation-key: Folco2026
   issued:
     -
       year: 2026
@@ -21452,13 +21452,14 @@ references:
       family: Martel
       given: James
   citation-key: Martel2011
+  container-title: 'Textual Conspiracies: Walter Benjamin, Idolatry, and Political Theory'
   issued:
     -
       year: 2011
   language: en
   publisher: University of Michigan Press
-  title: 'Textual conspiracies: walter benjamin, idolatry, and political theory'
-  type: book
+  title: 'Kafka: The Messiah Who Does Nothing at All'
+  type: chapter
   URL: https://www-jstor-org.elon.idm.oclc.org/stable/10.3998/mpub.3124327.7?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3Ae34f057fafb5e55263995e404d516c07&initiator=recommender&seq=1
 
 -
@@ -23805,7 +23806,7 @@ references:
       family: Moran
       given: Brendan
   citation-key: Moran2016
-  container-title: Kafka and the universal
+  container-title: Kafka and the Universal
   edition: '1'
   editor:
     -
@@ -23821,7 +23822,7 @@ references:
   page: 43–65
   publisher: De Gruyter
   source: JSTOR
-  title: Philosophy and ambiguity in benjamin’s kafka
+  title: Philosophy and Ambiguity in Benjamin’s Kafka
   type: chapter
   URL: https://www.jstor.org.elon.idm.oclc.org/stable/j.ctvbkjt9v.5
 
@@ -23937,7 +23938,7 @@ references:
   page: 160–182
   publisher: University of Nebraska Press
   source: JSTOR
-  title: 'From assimilationist antiracism to zionist anti-antisemitism: georg simmel, franz boas, and arthur ruppin'
+  title: 'From Assimilationist Antiracism to Zionist Anti-Antisemitism: Georg Simmel, Franz Boas, and Arthur Ruppin'
   title-short: From assimilationist antiracism to zionist anti-antisemitism
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt1d9nnbd.10
@@ -31540,20 +31541,6 @@ references:
   volume: '15'
 
 -
-  id: SiliconEmpiresFight_nd
-  abstract: <p>Since the emergence of ChatGPT, generative AI has been heralded as a technology poised to revolutionize our world. But beyond the hype and hyperbole, who truly wields power over this transformative technology?<br /><br />In *Silicon Empires*, Nick Srnicek explores the geopolitical economy of artificial intelligence, revealing how a handful of powerful corporations and states are engaged in a monumental struggle to control its future. Srnicek moves beyond the headlines to lay bare the elaborate strategies that these silicon empires - from tech giants to great powers - are deploying to capture the immense value of AI. This incisive analysis uncovers the deep-seated tensions between corporate ambitions and national interests, and the profound consequences of this new era of technological competition.<br /><br />As the race for AI supremacy accelerates, Srnicek compellingly demonstrates that the decisions being made in the boardrooms of Silicon Valley and the halls of government will shape the distribution of wealth and power on a global scale for decades to come.<br /><br />*Now available as an audiobook.*</p>
-  citation-key: SiliconEmpiresFight_nd
-  ISBN: 978-1-5095-5050-0
-  issued:
-    -
-      year: 2025
-  language: en
-  publisher: Polity
-  title: 'Silicon Empires: The Fight for the Future of AI | Wiley'
-  title-short: Silicon Empires
-  type: book
-
--
   id: Silverman2014
   author:
     -
@@ -32350,6 +32337,23 @@ references:
   source: Google Books
   title: 'Politics and constitutionalism: the louis fisher connection'
   title-short: Politics and constitutionalism
+  type: book
+
+-
+  id: Srnicek2025
+  author:
+    -
+      family: Srnicek
+      given: Nick
+  citation-key: Srnicek2025
+  ISBN: 978-1-5095-5050-0
+  issued:
+    -
+      year: 2025
+  language: en
+  publisher: Polity
+  title: 'Silicon Empires: The Fight for the Future of AI'
+  title-short: Silicon Empires
   type: book
 
 -
