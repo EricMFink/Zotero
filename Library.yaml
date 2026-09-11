@@ -7576,6 +7576,70 @@ references:
   URL: https://www.proquest.com/docview/111923018/C7C6757E0ED14FACPQ/6?accountid=10730&sourcetype=Newspapers
 
 -
+  id: Cover1986
+  author:
+    -
+      family: Cover
+      given: Robert M
+  citation-key: Cover1986
+  container-title: Yale Law Journal
+  container-title-short: Yale Law J.
+  issued:
+    -
+      year: 1986
+  language: en
+  page: '1601'
+  source: Zotero
+  title: Violence and the Word
+  type: article-journal
+  volume: '95'
+
+-
+  id: Cover1987
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 11
+  author:
+    -
+      family: Cover
+      given: Robert
+  citation-key: Cover1987
+  container-title: Journal of Law & Religion
+  container-title-short: J. Law Relig.
+  issued:
+    -
+      year: 1987
+  page: '65'
+  title: 'Obligation: A Jewish Jurisprudence of the Social Order'
+  type: article-journal
+  URL: https://www.jstor.org/stable/1051017?searchText=au%3A%22Robert%20M.%20Cover%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26Query%3Dau%253A%2522Robert%2520M.%2520Cover%2522%26so%3Drel&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3A66ddb885f2d89afcf2316674e037a16b&seq=1
+  volume: '5'
+
+-
+  id: Cover1988
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 11
+  author:
+    -
+      family: Cover
+      given: Robert M
+  citation-key: Cover1988
+  container-title: Nomos
+  issued:
+    -
+      year: 1988
+  page: '201'
+  title: 'Bringing the Messiah Through the Law: A Case Study'
+  type: article-journal
+  URL: https://www.jstor.org/stable/24219327?searchText=au%3A%22Robert%20M.%20Cover%22&searchUri=%2Faction%2FdoBasicSearch%3Fsi%3D1%26Query%3Dau%253A%2522Robert%2520M.%2520Cover%2522%26so%3Drel&ab_segments=0%2Fbasic_phrase_search%2Fcontrol&refreqid=fastly-default%3A66ddb885f2d89afcf2316674e037a16b&seq=1
+  volume: '30'
+
+-
   id: Cozzens2025
   abstract: 'In 1966, the Johnson administration established the largest poverty law agency in the nation: the California Rural Legal Assistance (CRLA). From the agency’s creation onward, Mexican American farmworkers in rural California directed CRLA staff to significant cases of injustice, many of which involved their communities’ disproportionate exposure to environmental hazards in and around produce fields. CRLA litigation helped lead to bans on dangerous pesticides such as Dichlorodiphenyltrichloroethane (DDT) and 1,2-Dibromo-3-chloropropane (DBCP), and it forced growers to be more transparent in their use of agrochemicals. Furthermore, the work of the CRLA helped lead to statewide regulations that required growers to provide portable toilets, washing facilities, and safe drinking water in the fields. Litigation on these matters, which CRLA attorneys later labeled “environmental poverty law,” helped expand the focus of reform from workers in the field to entire farmworker communities and helped lay the legal groundwork for the environmental justice movement in rural California.'
   accessed:
