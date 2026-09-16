@@ -1260,21 +1260,6 @@ references:
   volume: '883'
 
 -
-  id: AgGagAmericaCorporateBacked_CenterforConstitutionalRights2017
-  author:
-    -
-      family: Center for Constitutional Rights
-      given: ''
-  citation-key: AgGagAmericaCorporateBacked_CenterforConstitutionalRights2017
-  issued:
-    -
-      year: 2017
-  language: en
-  title: 'Ag-Gag Across America: Corporate-Backed Attacks on Activitsts and Whistleblowers'
-  title-short: Ag-Gag Across America
-  type: document
-
--
   id: Ahlering2014
   archive: JSTOR
   author:
@@ -5441,7 +5426,7 @@ references:
   URL: https://www.ncpedia.org/communism
 
 -
-  id: Cain_NCpedia2006a
+  id: Cain2006
   accessed:
     -
       year: 2025
@@ -5451,7 +5436,7 @@ references:
     -
       family: Cain
       given: Robert J.
-  citation-key: Cain_NCpedia2006a
+  citation-key: Cain2006
   container-title: NCpedia
   issued:
     -
@@ -6198,6 +6183,21 @@ references:
   title: Spending Cuts and Tax Reforms
   type: report
   URL: https://www.jstor.org/stable/resrep65607.6
+
+-
+  id: CenterforConstitutionalRights2017
+  author:
+    -
+      family: Center for Constitutional Rights
+      given: ''
+  citation-key: CenterforConstitutionalRights2017
+  issued:
+    -
+      year: 2017
+  language: en
+  title: 'Ag-Gag Across America: Corporate-Backed Attacks on Activitsts and Whistleblowers'
+  title-short: Ag-Gag Across America
+  type: document
 
 -
   id: Chambers2023
@@ -10281,9 +10281,9 @@ references:
   volume: '861'
 
 -
-  id: ExaminingUnionSalting2004
+  id: ExaminingUnionSaltingAbuses2004
   authority: 108th Cong.
-  citation-key: ExaminingUnionSalting2004
+  citation-key: ExaminingUnionSaltingAbuses2004
   issued:
     -
       year: 2004
@@ -10566,13 +10566,13 @@ references:
   URL: https://www.trussel.com/hf/peekskil.htm
 
 -
-  id: FBISpyChilds1955
+  id: FBISpyChildsSays1955
   accessed:
     -
       year: 2025
       month: 9
       day: 21
-  citation-key: FBISpyChilds1955
+  citation-key: FBISpyChildsSays1955
   container-title: Daily Tar Heel
   ISSN: 1070-9436
   issued:
@@ -14280,12 +14280,12 @@ references:
   URL: https://findingaids.lib.umich.edu/catalog/umich-scl-acpfb_al_50683a6de24a8c9953615b7b658fdda0b8d9a197
 
 -
-  id: Grant_JuniusScalesOrdeal_NationalGuardian1961
+  id: Grant1961
   author:
     -
       family: Grant
       given: Joanne
-  citation-key: Grant_JuniusScalesOrdeal_NationalGuardian1961
+  citation-key: Grant1961
   container-title: National Guardian
   issued:
     -
@@ -17656,13 +17656,13 @@ references:
   URL: https://www.fromtherockwall.org/people/junius-scales
 
 -
-  id: JuniusScalesIndictment_USDepartmentofJustice1954
+  id: JuniusScalesIndictment1954
   accessed:
     -
       year: 2025
       month: 7
       day: 14
-  citation-key: JuniusScalesIndictment_USDepartmentofJustice1954
+  citation-key: JuniusScalesIndictment1954
   issued:
     -
       year: 1954
@@ -17797,7 +17797,7 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.14
 
 -
-  id: Kaiser-SchatzleinPayThousandsQuit_TheNewYorkTimes2023
+  id: Kaiser-Schatzlein2023
   accessed:
     -
       year: 2026
@@ -17807,7 +17807,7 @@ references:
     -
       family: Kaiser-Schatzlein
       given: Robin
-  citation-key: Kaiser-SchatzleinPayThousandsQuit_TheNewYorkTimes2023
+  citation-key: Kaiser-Schatzlein2023
   container-title: The New York Times
   ISSN: 0362-4331
   issued:
@@ -19831,12 +19831,12 @@ references:
   type: book
 
 -
-  id: Lemieux_TheFreeSpeechCenter2023
+  id: Lemieux2023
   author:
     -
       family: Lemieux
       given: Scott
-  citation-key: Lemieux_TheFreeSpeechCenter2023
+  citation-key: Lemieux2023
   container-title: The Free Speech Center
   issued:
     -
@@ -19844,7 +19844,7 @@ references:
       month: 8
       day: 6
   language: en
-  title: Scales V. United States
+  title: Scales v. United States
   type: post-weblog
   URL: https://firstamendment.mtsu.edu/article/scales-v-united-states/
 
@@ -25124,6 +25124,22 @@ references:
   type: report
 
 -
+  id: NationalRighttoWorkCommittee2003
+  author:
+    -
+      family: National Right to Work Committee
+      given: ''
+  citation-key: NationalRighttoWorkCommittee2003
+  issued:
+    -
+      year: 2003
+  language: en
+  publisher: National Right to Work Committee
+  title: 'Salting: Coercive Big Labor Scheme to Increase Forced Unionism'
+  title-short: Salting
+  type: document
+
+-
   id: NationalSatelliteSportsEliadis_6thCir2001
   authority: 6th Cir.
   citation-key: NationalSatelliteSportsEliadis_6thCir2001
@@ -28211,7 +28227,7 @@ references:
   type: book
 
 -
-  id: Poulos_OnLabor2025
+  id: Poulos2025
   accessed:
     -
       year: 2025
@@ -28221,7 +28237,7 @@ references:
     -
       family: Poulos
       given: Liz
-  citation-key: Poulos_OnLabor2025
+  citation-key: Poulos2025
   container-title: On Labor
   issued:
     -
@@ -30270,22 +30286,6 @@ references:
   volume: '5'
 
 -
-  id: SaltingCoerciveBig_NationalRighttoWorkCommittee2003
-  author:
-    -
-      family: National Right to Work Committee
-      given: ''
-  citation-key: SaltingCoerciveBig_NationalRighttoWorkCommittee2003
-  issued:
-    -
-      year: 2003
-  language: en
-  publisher: National Right to Work Committee
-  title: 'Salting: Coercive Big Labor Scheme to Increase Forced Unionism'
-  title-short: Salting
-  type: document
-
--
   id: Salvatore2007
   author:
     -
@@ -30633,8 +30633,8 @@ references:
   URL: https://www.ugapress.org/9780820327853/cause-at-heart/
 
 -
-  id: ScalesTrial2nd1958
-  citation-key: ScalesTrial2nd1958
+  id: ScalesTrial2ndTime1958
+  citation-key: ScalesTrial2ndTime1958
   container-title: National Guardian
   issued:
     -
@@ -32804,7 +32804,7 @@ references:
   volume: '30'
 
 -
-  id: Solomon_VermontJournalofEnvironmental2016
+  id: Solomon2016
   accessed:
     -
       year: 2023
@@ -32814,7 +32814,7 @@ references:
     -
       family: Solomon
       given: Hannah
-  citation-key: Solomon_VermontJournalofEnvironmental2016
+  citation-key: Solomon2016
   container-title: 'Vermont Journal of Environmental Law: Ecoperspectives Blog'
   issued:
     -
