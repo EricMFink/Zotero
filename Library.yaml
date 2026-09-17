@@ -1564,11 +1564,6 @@ references:
 
 -
   id: ALDFReynolds_8thCir2024
-  accessed:
-    -
-      year: 2024
-      month: 2
-      day: 19
   authority: 8th Cir.
   citation-key: ALDFReynolds_8thCir2024
   container-title: F.4th
@@ -1777,6 +1772,20 @@ references:
   volume: '81'
 
 -
+  id: AlphaCardServicesToombs_EDPa2026
+  authority: E.D. Pa.
+  citation-key: AlphaCardServicesToombs_EDPa2026
+  issued:
+    -
+      year: 2026
+      month: 4
+      day: 29
+  jurisdiction: ED Pennsylvania
+  number: 25-cv-4907
+  title: Alpha Card Services v. Toombs
+  type: legal_case
+
+-
   id: AlstateMaintenanceLLC_NLRB2019
   authority: N.L.R.B.
   citation-key: AlstateMaintenanceLLC_NLRB2019
@@ -1805,7 +1814,7 @@ references:
       year: 2014
   language: en
   page: '901'
-  title: Amador County, Cal. v. Us Dept. of the Interior
+  title: Amador County, Cal. v. U.S. Dept. of the Interior
   type: legal_case
   volume: '772'
 
@@ -2440,19 +2449,19 @@ references:
   volume: '370'
 
 -
-  id: AultUnemploymentCompensationCase_Pa1960
+  id: AultUnemploymentCompensationBoard_Pa1960
   authority: Pa.
-  citation-key: AultUnemploymentCompensationCase_Pa1960
-  container-title: Pa.
-  container-title-short: Pa.
+  citation-key: AultUnemploymentCompensationBoard_Pa1960
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     -
       year: 1960
   language: en
   page: '250'
-  title: Ault Unemployment Compensation Case
+  title: Ault v. Unemployment Compensation Board of Review
   type: legal_case
-  volume: '398'
+  volume: '157'
 
 -
   id: AustinMaintCrowderConst_NCCtApp2012
@@ -2571,27 +2580,22 @@ references:
   volume: '43'
 
 -
-  id: BalaComUnemploymentCompensation_PaCommwCt1979
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
+  id: BalaUnemploymentCompensationBoard_PaCommwCt1979
   authority: Pa. Commw. Ct.
-  citation-key: BalaComUnemploymentCompensation_PaCommwCt1979
-  container-title: Pa. Cmwlth.
+  citation-key: BalaUnemploymentCompensationBoard_PaCommwCt1979
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     -
       year: 1979
       month: 5
       day: 8
   language: en
-  page: '487'
-  title: Bala v. Com., Unemployment Compensation Bd. of Review
+  page: '1359'
+  title: Bala v. Unemployment Compensation Board of Review
   title-short: Bala
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:42%20Pa.Cmwlth.%20487#autoLogin
-  volume: '42'
+  volume: '400'
 
 -
   id: Ballam1995
@@ -3912,16 +3916,16 @@ references:
   id: BlumenthalKimberMfgInc_Conn2003
   authority: Conn.
   citation-key: BlumenthalKimberMfgInc_Conn2003
-  container-title: Conn.
-  container-title-short: Conn.
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     -
       year: 2003
   language: en
-  page: '1'
+  page: '1088'
   title: Blumenthal v. Kimber Mfg., Inc.
   type: legal_case
-  volume: '265'
+  volume: '826'
 
 -
   id: Bodah2000
@@ -8075,16 +8079,16 @@ references:
   id: DaltonCamp_NC2001
   authority: N.C.
   citation-key: DaltonCamp_NC2001
-  container-title: N.C.
-  container-title-short: N.C.
+  container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     -
       year: 2001
   language: en
-  page: '647'
+  page: '704'
   title: Dalton v. Camp
   type: legal_case
-  volume: '353'
+  volume: '548'
 
 -
   id: Damm2020
@@ -8867,15 +8871,18 @@ references:
   id: DolphinKickboxingCoFranchoice_DMinn2020
   authority: D. Minn.
   citation-key: DolphinKickboxingCoFranchoice_DMinn2020
+  container-title: F.R.D.
+  container-title-short: F.R.D.
   issued:
     -
       year: 2020
       month: 5
       day: 6
   language: en
-  number: 19-CV-1477
+  page: '393'
   title: Dolphin Kickboxing Co. v. Franchoice, Inc.
   type: legal_case
+  volume: '335'
 
 -
   id: Domhoff2017
@@ -9287,15 +9294,15 @@ references:
   id: DraftkingsIncHermalyn_1stCir2024
   authority: 1st Cir.
   citation-key: DraftkingsIncHermalyn_1stCir2024
+  container-title: F4th
   issued:
     -
       year: 2024
-      month: 9
-      day: 26
   language: en
-  number: 24-1443
-  title: Draftkings, Inc. v. Hermalyn
+  page: '416'
+  title: DraftKings, Inc. v. Hermalyn
   type: legal_case
+  volume: '118'
 
 -
   id: DreamingDumplingsCamps2014
@@ -12831,9 +12838,9 @@ references:
   volume: '440'
 
 -
-  id: FrigmUnempCompBd_PaCommwCtMay241994
+  id: FrigmUnemploymentCompensationBoard_PaCommwCtMay241994
   authority: Pa. Commw. Ct.
-  citation-key: FrigmUnempCompBd_PaCommwCtMay241994
+  citation-key: FrigmUnemploymentCompensationBoard_PaCommwCtMay241994
   container-title: A.2d
   container-title-short: A.2d
   issued:
@@ -12841,7 +12848,7 @@ references:
       literal: May24, 1994
   language: en
   page: '629'
-  title: Frigm v. Unemp. Comp. Bd. of Review
+  title: Frigm v. Unemployment Compensation Board of Review
   type: legal_case
   volume: '642'
 
@@ -13246,7 +13253,6 @@ references:
       year: 2025
       month: 5
       day: 22
-  jurisdiction: Utah
   language: en
   page: '812'
   title: Garner v. Kadince, Inc.
@@ -13611,11 +13617,6 @@ references:
 
 -
   id: GilbertFlandreauSanteeSioux_SD2006
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: S.D.
   citation-key: GilbertFlandreauSanteeSioux_SD2006
   container-title: N.W.2d
@@ -13630,7 +13631,6 @@ references:
   title: Gilbert v. Flandreau Santee Sioux Tribe
   title-short: Gilbert
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:725%20N.W.2d%20249#autoLogin
   volume: '725'
 
 -
@@ -14039,9 +14039,9 @@ references:
   URL: https://blackpast.org/african-american-history/patterson-william-l-1891-1980/
 
 -
-  id: GoodwillIndUnemploymentComp_PaCommwCtArguedOctober061993
+  id: GoodwillIndUnemploymentCompensation_PaCommwCtArguedOctober061993
   authority: Pa. Commw. Ct.
-  citation-key: GoodwillIndUnemploymentComp_PaCommwCtArguedOctober061993
+  citation-key: GoodwillIndUnemploymentCompensation_PaCommwCtArguedOctober061993
   container-title: A.2d
   container-title-short: A.2d
   issued:
@@ -14049,7 +14049,7 @@ references:
       literal: Argued October 6, 1993
   language: en
   page: '738'
-  title: Goodwill Ind. v. Unemployment Comp. Bd.
+  title: Goodwill Ind. v. Unemployment Compensation Board of Review
   type: legal_case
   volume: '634'
 
@@ -14639,11 +14639,6 @@ references:
 
 -
   id: GriffinGarrison_DNH2011
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: D.N.H.
   citation-key: GriffinGarrison_DNH2011
   container-title: WL
@@ -14653,11 +14648,11 @@ references:
       month: 1
       day: 13
   language: en
+  number: 09–cv–250
   page: '111882'
   title: Griffin v. Garrison
   title-short: Griffin
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:2011%20WL%20111882#autoLogin
   volume: '2011'
 
 -
@@ -14679,11 +14674,6 @@ references:
 
 -
   id: GriffinNewHampshireDepartment_DNH2009a
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: D.N.H.
   citation-key: GriffinNewHampshireDepartment_DNH2009a
   issued:
@@ -14695,7 +14685,6 @@ references:
   title: Griffin v. New Hampshire Department of Employment Security
   title-short: Griffin
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:2009%20WL%203837658#autoLogin
 
 -
   id: Griffith2004
@@ -15841,19 +15830,32 @@ references:
   volume: '608'
 
 -
+  id: HennepinBroadcastingAssociatesInc_DMinn1975
+  authority: D. Minn.
+  citation-key: HennepinBroadcastingAssociatesInc_DMinn1975
+  container-title: F. Supp.
+  issued:
+    -
+      year: 1975
+  page: '932'
+  title: Hennepin Broadcasting Associates, Inc. v. Nlrb
+  type: legal_case
+  volume: '408'
+
+-
   id: HennepinBroadcastingAssociatesInc_Minn1974
   authority: Minn.
   citation-key: HennepinBroadcastingAssociatesInc_Minn1974
-  container-title: Minn.
-  container-title-short: Minn.
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     -
       year: 1974
   language: en
-  page: '508'
+  page: '391'
   title: Hennepin Broadcasting Associates, Inc. v. American Federation of Television and Radio Artists
   type: legal_case
-  volume: '301'
+  volume: '223'
 
 -
   id: HenryAdventistHealthCastle_9thCir2020
@@ -16175,11 +16177,6 @@ references:
 
 -
   id: HobbieUnemploymentAppealsComn_US1987
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: U.S.
   citation-key: HobbieUnemploymentAppealsComn_US1987
   container-title: U.S.
@@ -16194,7 +16191,6 @@ references:
   title: Hobbie v. Unemployment Appeals Com'n of Florida
   title-short: Hobbie
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:480%20U.S.%20136#autoLogin
   volume: '480'
 
 -
@@ -18120,7 +18116,8 @@ references:
   id: KatzWestlawnCemeteryAssn_IllCtApp1996
   authority: Ill. Ct. App.
   citation-key: KatzWestlawnCemeteryAssn_IllCtApp1996
-  container-title: Ill. App. 3d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     -
       year: 1996
@@ -18129,7 +18126,7 @@ references:
   title: Katz v. Westlawn Cemetery Ass'n, Inc.
   title-short: Katz
   type: legal_case
-  volume: '285'
+  volume: '673'
 
 -
   id: Kaufman2006
@@ -18664,11 +18661,6 @@ references:
 
 -
   id: KingCaliforniaUnemploymentIns_CalCtApp1972
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: Cal. Ct. App.
   citation-key: KingCaliforniaUnemploymentIns_CalCtApp1972
   container-title: Cal.App.3d
@@ -18683,7 +18675,6 @@ references:
   title: King v. California Unemployment Ins. Appeals Bd.
   title-short: King
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:25%20Cal.App.3d%20199#autoLogin
   volume: '25'
 
 -
@@ -19543,27 +19534,21 @@ references:
 
 -
   id: LavelleHaydenEmploymentDepartment_OrCtApp2023
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: Or. Ct. App.
   citation-key: LavelleHaydenEmploymentDepartment_OrCtApp2023
-  container-title: Or. App.
-  container-title-short: App
+  container-title: P.3d
+  container-title-short: P.3d
   issued:
     -
       year: 2023
       month: 6
       day: 22
   language: en
-  page: '490'
+  page: '75'
   title: Lavelle-Hayden v. Employment Department
   title-short: Lavelle-Hayden
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:326%20Or.App.%20490#autoLogin
-  volume: '326'
+  volume: '533'
 
 -
   id: Law2013
@@ -19981,26 +19966,21 @@ references:
 
 -
   id: LesterButler_GaCtApp2015
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: Ga. Ct. App.
   citation-key: LesterButler_GaCtApp2015
-  container-title: Ga. App.
+  container-title: S.E.2d
+  container-title-short: S.E.2d
   issued:
     -
       year: 2015
       month: 3
       day: 17
   language: en
-  page: '223'
+  page: '303'
   title: Lester v. Butler
   title-short: Lester
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:331%20Ga.App.%20223#autoLogin
-  volume: '331'
+  volume: '770'
 
 -
   id: Levin2004
@@ -20778,13 +20758,12 @@ references:
   id: LongVerticalTechnologiesInc_NCCtApp1994
   authority: N.C. Ct. App.
   citation-key: LongVerticalTechnologiesInc_NCCtApp1994
-  container-title: SE 2d
+  container-title: S.E. 2d
   issued:
     -
       year: 1994
       month: 2
       day: 15
-  jurisdiction: NC
   language: en
   page: '797'
   title: Long v. Vertical Technologies, Inc.
@@ -21720,9 +21699,9 @@ references:
   volume: '71'
 
 -
-  id: MartinezDirDeptWorkforce_ArkCtApp4thDiv2015
-  authority: Ark. Ct. App., 4th Div.
-  citation-key: MartinezDirDeptWorkforce_ArkCtApp4thDiv2015
+  id: MartinezDirDeptWorkforce_ArkCtApp2015
+  authority: Ark. Ct. App.
+  citation-key: MartinezDirDeptWorkforce_ArkCtApp2015
   container-title: S.W.3d
   container-title-short: S.W.3d
   issued:
@@ -22040,14 +22019,10 @@ references:
 
 -
   id: MatterCummings_NYAppDiv2010
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: N.Y. App. Div.
   citation-key: MatterCummings_NYAppDiv2010
-  container-title: AD3d
+  container-title: A.D.3d
+  container-title-short: A.D.3d
   issued:
     -
       year: 2010
@@ -22057,34 +22032,29 @@ references:
   page: '1088'
   title: Matter of Cummings
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:69%20A.D.3d%201088#autoLogin
   volume: '69'
 
 -
   id: MatterDeGrego_NY1976
   authority: N.Y.
   citation-key: MatterDeGrego_NY1976
-  container-title: NY 2d
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     -
       year: 1976
   language: en
-  page: '180'
+  page: '611'
   title: Matter of DeGrego
   type: legal_case
-  volume: '39'
+  volume: '347'
 
 -
   id: MatterDeGrego_NYAppDiv1974
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: N.Y. App. Div.
   citation-key: MatterDeGrego_NYAppDiv1974
-  container-title: A.D.
-  container-title-short: A.D.
+  container-title: A.D.2d
+  container-title-short: A.D.2d
   issued:
     -
       year: 1974
@@ -22095,7 +22065,6 @@ references:
   title: Matter of DeGrego
   title-short: De Grego
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:46%20A.D.2d%20253#autoLogin
   volume: '46'
 
 -
@@ -22119,27 +22088,23 @@ references:
   id: MatterFordham_Mass1996
   authority: Mass.
   citation-key: MatterFordham_Mass1996
-  container-title: Mass.
-  container-title-short: Mass.
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     -
       year: 1996
   language: en
-  page: '481'
+  page: '816'
   title: Matter of Fordham
   type: legal_case
-  volume: '423'
+  volume: '668'
 
 -
   id: MatterGunn_NYAppDiv2019
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: N.Y. App. Div.
   citation-key: MatterGunn_NYAppDiv2019
-  container-title: AD3d
+  container-title: A.D.3d
+  container-title-short: A.D.3d
   issued:
     -
       year: 2019
@@ -22150,7 +22115,6 @@ references:
   title: Matter of Gunn
   title-short: Gunn
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:172%20A.D.3d%201865#autoLogin
   volume: '172'
 
 -
@@ -22170,14 +22134,10 @@ references:
 
 -
   id: MatterRoy_NYAppDiv2016
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: N.Y. App. Div.
   citation-key: MatterRoy_NYAppDiv2016
-  container-title: AD3d
+  container-title: A.D.3d
+  container-title-short: A.D.3d
   issued:
     -
       year: 2016
@@ -22187,7 +22147,6 @@ references:
   page: '1284'
   title: Matter of Roy
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:138%20A.D.3d%201284#autoLogin
   volume: '138'
 
 -
@@ -22512,9 +22471,9 @@ references:
   volume: '278'
 
 -
-  id: McCallUnemploymentCompBd_PaCommwCt1998
+  id: McCallUnemploymentCompensationBoard_PaCommwCt1998
   authority: Pa. Commw. Ct.
-  citation-key: McCallUnemploymentCompBd_PaCommwCt1998
+  citation-key: McCallUnemploymentCompensationBoard_PaCommwCt1998
   container-title: A.2d
   container-title-short: A.2d
   issued:
@@ -22522,7 +22481,7 @@ references:
       year: 1998
   language: en
   page: '623'
-  title: McCall v. Unemployment Comp. Bd. of Rev.
+  title: McCall v. Unemployment Compensation Board of Review
   type: legal_case
   volume: '717'
 
@@ -23256,11 +23215,6 @@ references:
 
 -
   id: MessinaIowaDeptJob_Iowa1983
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: Iowa
   citation-key: MessinaIowaDeptJob_Iowa1983
   container-title: N.W.2d
@@ -23275,7 +23229,6 @@ references:
   title: Messina v. Iowa Dept. of Job Service
   title-short: Messina
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:341%20N.W.2d%2052#autoLogin
   volume: '341'
 
 -
@@ -23353,11 +23306,6 @@ references:
 
 -
   id: MexicanRadioCorpNLRB_2dCir2019
-  accessed:
-    -
-      year: 2025
-      month: 11
-      day: 2
   authority: 2d Cir.
   citation-key: MexicanRadioCorpNLRB_2dCir2019
   container-title: Fed.Appx.
@@ -23432,14 +23380,13 @@ references:
   id: MezuMezu_MdAppCt2025
   authority: Md. App. Ct.
   citation-key: MezuMezu_MdAppCt2025
-  container-title: A. 3d
-  container-title-short: 3d
+  container-title: A.3d
+  container-title-short: A.3d
   issued:
     -
       year: 2025
       month: 10
       day: 29
-  jurisdiction: Md
   language: en
   page: '181'
   title: Mezu v. Mezu
@@ -23657,11 +23604,6 @@ references:
 
 -
   id: MillerReviewBdIndiana_IndCtApp1982
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: Ind. Ct. App.
   citation-key: MillerReviewBdIndiana_IndCtApp1982
   container-title: N.E.2d
@@ -23676,7 +23618,6 @@ references:
   title: Miller v. Review Bd. of Indiana Employment Sec. Div.
   title-short: Miller
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:436%20N.E.2d%20804#autoLogin
   volume: '436'
 
 -
@@ -23764,16 +23705,17 @@ references:
   id: MitchellSherman_Wis1994
   authority: Wis.
   citation-key: MitchellSherman_Wis1994
-  container-title: Wis. 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     -
       year: 1994
   language: en
-  page: '388'
+  page: '738'
   title: Mitchell v. Sherman
   title-short: Mitchell
   type: legal_case
-  volume: '187'
+  volume: '523'
 
 -
   id: MKEmployeeSolutionsLLC_US2026
@@ -24320,11 +24262,6 @@ references:
 
 -
   id: MotorCityPawnBrokers_NLRB2020
-  accessed:
-    -
-      year: 2023
-      month: 2
-      day: 28
   authority: N.L.R.B.
   citation-key: MotorCityPawnBrokers_NLRB2020
   container-title: N.L.R.B.
@@ -24973,18 +24910,17 @@ references:
   id: MurrayVerizonWirelessLLC_EDPa2025
   authority: E.D. Pa.
   citation-key: MurrayVerizonWirelessLLC_EDPa2025
-  container-title: WL
+  container-title: F. Supp. 3d
   issued:
     -
       year: 2025
       month: 10
       day: 8
   language: en
-  number: No. 24-273
-  page: '2848494'
+  page: '490'
   title: Murray v. Verizon Wireless, LLC
   type: legal_case
-  volume: '2025'
+  volume: '806'
 
 -
   id: Murthy2020
@@ -25869,11 +25805,6 @@ references:
 
 -
   id: NLRBStarbucksCorporation_3dCir2024
-  accessed:
-    -
-      year: 2025
-      month: 5
-      day: 12
   authority: 3d Cir.
   citation-key: NLRBStarbucksCorporation_3dCir2024
   container-title: F.4th
@@ -25919,11 +25850,6 @@ references:
 
 -
   id: NLRBWhiteOakManor_4thCir2011
-  accessed:
-    -
-      year: 2025
-      month: 7
-      day: 22
   authority: 4th Cir.
   citation-key: NLRBWhiteOakManor_4thCir2011
   container-title: Fed.Appx.
@@ -25949,7 +25875,6 @@ references:
       year: 2025
       month: 9
       day: 12
-  jurisdiction: Cal
   language: en
   page: '426'
   title: Noland v. Land of the Free, LP
@@ -25994,11 +25919,6 @@ references:
 
 -
   id: NorthCarolinaStateBar_NCCtApp2019
-  accessed:
-    -
-      year: 2026
-      month: 8
-      day: 8
   authority: N.C. Ct. App.
   citation-key: NorthCarolinaStateBar_NCCtApp2019
   issued:
@@ -27882,6 +27802,20 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/27641352
   volume: '24'
+
+-
+  id: PoplinUnemploymentCompensationBoard_PaCommwCt1997
+  authority: Pa. Commw. Ct.
+  citation-key: PoplinUnemploymentCompensationBoard_PaCommwCt1997
+  container-title: A.2d
+  container-title-short: A.2d
+  issued:
+    -
+      year: 1997
+  page: '781'
+  title: Poplin v. Unemployment Compensation Board of Review
+  type: legal_case
+  volume: '690'
 
 -
   id: Porter_Bail14Reds_NewYorkTimes1951
@@ -30210,16 +30144,16 @@ references:
   id: SaladiniRighellis_Mass1997
   authority: Mass.
   citation-key: SaladiniRighellis_Mass1997
-  container-title: Mass.
-  container-title-short: Mass.
+  container-title: N.E.2d
+  container-title-short: N.E.2d
   issued:
     -
       year: 1997
   language: en
-  page: '231'
+  page: '1224'
   title: Saladini v. Righellis
   type: legal_case
-  volume: '426'
+  volume: '687'
 
 -
   id: SaltAppliedAnalyticalInc_NCCtApp1991
@@ -31965,11 +31899,6 @@ references:
 
 -
   id: SherbertVerner_US1963
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: U.S.
   citation-key: SherbertVerner_US1963
   container-title: U.S.
@@ -31984,7 +31913,6 @@ references:
   title: Sherbert v. Verner
   title-short: Sherbert
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:374%20U.S.%20398#autoLogin
   volume: '374'
 
 -
@@ -33671,11 +33599,6 @@ references:
 
 -
   id: StoutVincent_5thCir2018
-  accessed:
-    -
-      year: 2025
-      month: 8
-      day: 11
   authority: 5th Cir.
   citation-key: StoutVincent_5thCir2018
   container-title: Fed. App'x.
@@ -35478,26 +35401,21 @@ references:
 
 -
   id: UniversalFoundryCoDepartment_Wis1979
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
   authority: Wis.
   citation-key: UniversalFoundryCoDepartment_Wis1979
-  container-title: Wis. 2d
+  container-title: N.W.2d
+  container-title-short: N.W.2d
   issued:
     -
       year: 1979
       month: 1
       day: 9
   language: en
-  page: '582'
+  page: '324'
   title: Universal Foundry Co. v. Department of Industry, Labor and Human Relations
   title-short: Universal Foundry
   type: legal_case
-  URL: https://1.next.westlaw.com/Search/Results.html?query=find:86%20Wis.2d%20582#autoLogin
-  volume: '86'
+  volume: '273'
 
 -
   id: UpjohnCoUnitedStates_US1981
@@ -36154,9 +36072,9 @@ references:
   volume: '37'
 
 -
-  id: WaverlyHtsUnemploymentBd_PaCommwCt2017
+  id: WaverlyHtsUnemploymentCompensation_PaCommwCt2017
   authority: Pa. Commw. Ct.
-  citation-key: WaverlyHtsUnemploymentBd_PaCommwCt2017
+  citation-key: WaverlyHtsUnemploymentCompensation_PaCommwCt2017
   container-title: A.3d
   container-title-short: A.3d
   issued:
@@ -36166,7 +36084,7 @@ references:
       day: 13
   language: en
   page: '1224'
-  title: Waverly Hts. v. Unemployment Bd of Review
+  title: Waverly Hts. v. Unemployment Compensation Board of Review
   type: legal_case
   volume: '173'
 
@@ -37038,6 +36956,19 @@ references:
   type: book
 
 -
+  id: WolfeUnemploymentCompensationBoard_PaCommwCt2015
+  authority: Pa. Commw. Ct.
+  citation-key: WolfeUnemploymentCompensationBoard_PaCommwCt2015
+  issued:
+    -
+      year: 2015
+      month: 11
+      day: 16
+  number: 96 C.D. 2015
+  title: Wolfe v. Unemployment Compensation Board of Review
+  type: legal_case
+
+-
   id: WolfStreetSupermarketsInc_NYAppDiv1985
   authority: N. Y. App. Div.
   citation-key: WolfStreetSupermarketsInc_NYAppDiv1985
@@ -37129,16 +37060,16 @@ references:
   id: WoolleyHoffmannLaRocheInc_NJ1985
   authority: N.J.
   citation-key: WoolleyHoffmannLaRocheInc_NJ1985
-  container-title: N.J.
-  container-title-short: N.J.
+  container-title: A.2d
+  container-title-short: A.2d
   issued:
     -
       year: 1985
   language: en
-  page: '284'
+  page: '1257'
   title: Woolley v. Hoffmann-La Roche, Inc.
   type: legal_case
-  volume: '99'
+  volume: '491'
 
 -
   id: WorkmanUnitedParcelSvc_7thCir2000
@@ -37258,26 +37189,6 @@ references:
   volume: '71'
 
 -
-  id: WrightComUnemploymentCompensation_PaCommwCt1979
-  accessed:
-    -
-      year: 2024
-      month: 5
-      day: 16
-  authority: Pa. Commw. Ct.
-  citation-key: WrightComUnemploymentCompensation_PaCommwCt1979
-  container-title: Pa. Cmwlth.
-  issued:
-    -
-      year: 1979
-  language: en
-  page: '117'
-  title: Wright v. Com., Unemployment Compensation Bd. of Review
-  type: legal_case
-  URL: https://1.next.westlaw.com/Link/Document/FullText?findType=Y&serNum=1979109926&pubNum=0000162&originatingDoc=I86291a5dff1f11d9b386b232635db992&refType=RP&originationContext=document&transitionType=DocumentItem&ppcid=b0249b2b13204b3eb6709139effed1e7&contextData=(sc.Keycite)
-  volume: '45'
-
--
   id: WrightElecIncOuellette_MinnCtApp2004
   authority: Minn. Ct. App.
   citation-key: WrightElecIncOuellette_MinnCtApp2004
@@ -37291,6 +37202,21 @@ references:
   title: Wright Elec., Inc. v. Ouellette
   type: legal_case
   volume: '686'
+
+-
+  id: WrightUnemploymentCompensationBoard_PaCommwCt1979
+  authority: Pa. Commw. Ct.
+  citation-key: WrightUnemploymentCompensationBoard_PaCommwCt1979
+  container-title: A.2d
+  container-title-short: A.2d
+  issued:
+    -
+      year: 1979
+  language: en
+  page: '792'
+  title: Wright v. Unemployment Compensation Board of Review
+  type: legal_case
+  volume: '404'
 
 -
   id: Wu2018
