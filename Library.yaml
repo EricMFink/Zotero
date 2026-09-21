@@ -1,41 +1,56 @@
 ---
 references:
 -
-  id: 15USC17etseq
-  citation-key: 15USC17etseq
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    -
-      year: 1914
-  language: en
-  section: 17 et seq.
-  title: Clayton Antitrust Act
-  type: legislation
-  volume: '15'
-
--
-  id: 15USC1etseq
-  citation-key: 15USC1etseq
+  id: 15USC1
+  citation-key: 15USC1
   container-title: U.S.C.
   container-title-short: U.S.C.
   issued:
     -
       year: 1890
   language: en
-  section: 1 et seq.
+  section: '1'
   title: Sherman Antitrust Act
   type: legislation
   volume: '15'
 
 -
-  id: 2002FEO8_NCStateBar2003
+  id: 15USC17
+  citation-key: 15USC17
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    -
+      year: 1914
+  language: en
+  section: '17'
+  title: Clayton Antitrust Act
+  type: legislation
+  volume: '15'
+
+-
+  id: 18USC2385
+  citation-key: 18USC2385
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    -
+      year: 1948
+  language: en
+  number: 62 Stat. 808
+  section: '2385'
+  title: Smith Act (Amendment)
+  type: legislation
+  volume: '18'
+
+-
+  id: 2002FEO8Direct2003
   accessed:
     -
       year: 2024
       month: 7
       day: 9
-  citation-key: 2002FEO8_NCStateBar2003
+  citation-key: 2002FEO8Direct2003
   issued:
     -
       year: 2003
@@ -48,13 +63,13 @@ references:
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2002-formal-ethics-opinion-8/
 
 -
-  id: 2004FEO11_NCStateBar2005
+  id: 2004FEO11Lawyer2005
   accessed:
     -
       year: 2024
       month: 7
       day: 9
-  citation-key: 2004FEO11_NCStateBar2005
+  citation-key: 2004FEO11Lawyer2005
   issued:
     -
       year: 2005
@@ -67,13 +82,13 @@ references:
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2004-formal-ethics-opinion-11/
 
 -
-  id: 2006FEO19_NCStateBar2007
+  id: 2006FEO19Communications2007
   accessed:
     -
       year: 2024
       month: 7
       day: 9
-  citation-key: 2006FEO19_NCStateBar2007
+  citation-key: 2006FEO19Communications2007
   issued:
     -
       year: 2007
@@ -86,13 +101,13 @@ references:
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2006-formal-ethics-opinion-19/
 
 -
-  id: 2006FEO9_NCStateBar2006
+  id: 2006FEO9Pursuing2006
   accessed:
     -
       year: 2024
       month: 7
       day: 9
-  citation-key: 2006FEO9_NCStateBar2006
+  citation-key: 2006FEO9Pursuing2006
   issued:
     -
       year: 2006
@@ -105,13 +120,13 @@ references:
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2006-formal-ethics-opinion-9/
 
 -
-  id: 2012FEO9_NCStateBar2013
+  id: 2012FEO9Identifying2013
   accessed:
     -
       year: 2024
       month: 7
       day: 9
-  citation-key: 2012FEO9_NCStateBar2013
+  citation-key: 2012FEO9Identifying2013
   issued:
     -
       year: 2013
@@ -124,13 +139,13 @@ references:
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2012-formal-ethics-opinion-9/
 
 -
-  id: 2022FEO1_NCStateBar2022
+  id: 2022FEO1Attorney2022
   accessed:
     -
       year: 2024
       month: 7
       day: 9
-  citation-key: 2022FEO1_NCStateBar2022
+  citation-key: 2022FEO1Attorney2022
   issued:
     -
       year: 2022
@@ -143,34 +158,20 @@ references:
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/2022-formal-ethics-opinion-1/
 
 -
-  id: 2024LawyersHandbook_NorthCarolinaStateBar2024
-  author:
-    -
-      family: North Carolina State Bar
-      given: ''
-  citation-key: 2024LawyersHandbook_NorthCarolinaStateBar2024
-  issued:
-    -
-      year: 2024
-  language: en
-  publisher: North Carolina State Bar
-  title: The 2024 Lawyer's Handbook
-  type: document
-
--
-  id: 23Edw3cc
-  citation-key: 23Edw3cc
-  container-title: 23 Edw. 3 cc. 1-8
+  id: 23Edw3cc1-8
+  citation-key: 23Edw3cc1-8
+  container-title: Edw. 3 cc. 1-8
   issued:
     -
       year: 1349
   language: en
   title: Ordinance of Labourers
   type: legislation
+  volume: '23'
 
 -
-  id: 25Edw3Stat
-  citation-key: 25Edw3Stat
+  id: 25Edw3Stat1
+  citation-key: 25Edw3Stat1
   container-title: 25 Edw. 3 Stat. 1
   issued:
     -
@@ -344,13 +345,13 @@ references:
   volume: '28'
 
 -
-  id: 29CFR1604.11
+  id: 29CFR160411
   accessed:
     -
       year: 2026
       month: 1
       day: 5
-  citation-key: 29CFR1604.11
+  citation-key: 29CFR160411
   container-title: C.F.R.
   container-title-short: C.F.R.
   language: en
@@ -360,8 +361,8 @@ references:
   volume: '29'
 
 -
-  id: 29CFR1604.1etseq
-  citation-key: 29CFR1604.1etseq
+  id: 29CFR16041etseq
+  citation-key: 29CFR16041etseq
   container-title: C.F.R.
   container-title-short: C.F.R.
   language: en
@@ -371,15 +372,15 @@ references:
   volume: '29'
 
 -
-  id: 29USC101etseq
-  citation-key: 29USC101etseq
+  id: 29USC101
+  citation-key: 29USC101
   container-title: U.S.C.
   container-title-short: U.S.C.
   issued:
     -
       year: 1932
   language: en
-  section: 101 et seq.
+  section: '101'
   title: Norris-LaGuardia Act
   type: legislation
   volume: '29'
@@ -429,26 +430,26 @@ references:
   volume: '29'
 
 -
-  id: 29USC201etseq
-  citation-key: 29USC201etseq
+  id: 29USC201
+  citation-key: 29USC201
   container-title: U.S.C.
   container-title-short: U.S.C.
   issued:
     -
       year: 1938
   language: en
-  section: 201 et seq.
+  section: '201'
   title: Fair Labor Standards Act
   type: legislation
   volume: '29'
 
 -
-  id: 29USC2601etseq
-  citation-key: 29USC2601etseq
+  id: 29USC2601
+  citation-key: 29USC2601
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: 2601 et seq.
+  section: '2601'
   title: Family and Medical Leave Act
   type: legislation
   volume: '29'
@@ -473,24 +474,24 @@ references:
   volume: '29'
 
 -
-  id: 29USC641etseq
-  citation-key: 29USC641etseq
+  id: 29USC641
+  citation-key: 29USC641
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: 641 et seq.
+  section: '641'
   title: Occupational Safety & Health Act
   type: legislation
   volume: '29'
 
 -
-  id: 2GroupsGiven1957
+  id: 2GroupsGivenRed1957
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: 2GroupsGiven1957
+  citation-key: 2GroupsGivenRed1957
   container-title: The Washington Post and Times Herald
   issued:
     -
@@ -508,20 +509,20 @@ references:
   URL: https://www.proquest.com/docview/148879626/abstract/C7C6757E0ED14FACPQ/78
 
 -
-  id: 42USC12101etseq
+  id: 42USC12101
   accessed:
     -
       year: 2026
       month: 1
       day: 5
-  citation-key: 42USC12101etseq
+  citation-key: 42USC12101
   container-title: U.S.C.
   container-title-short: U.S.C.
   issued:
     -
       year: 1990
   language: en
-  section: 12101 et seq.
+  section: '12101'
   title: Americans with Disabilities Act
   type: legislation
   volume: '42'
@@ -550,6 +551,44 @@ references:
   language: en
   section: 2000e
   title: Civil Rights Act of 1964, Title VII
+  type: legislation
+  volume: '42'
+
+-
+  id: 42USC2000ff
+  accessed:
+    -
+      year: 2026
+      month: 1
+      day: 5
+  citation-key: 42USC2000ff
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    -
+      year: 2008
+  language: en
+  section: 2000ff
+  title: Genetic Information Nondiscrimination Act of 2008
+  type: legislation
+  volume: '42'
+
+-
+  id: 42USC2000gg
+  accessed:
+    -
+      year: 2026
+      month: 1
+      day: 5
+  citation-key: 42USC2000gg
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    -
+      year: 2023
+  language: en
+  section: 2000gg
+  title: Pregnant Workers Fairness Act
   type: legislation
   volume: '42'
 
@@ -584,13 +623,13 @@ references:
   volume: '49'
 
 -
-  id: 4thOfficialBail1951
+  id: 4thOfficialBailFund1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: 4thOfficialBail1951
+  citation-key: 4thOfficialBailFund1951
   container-title: The Washington Post
   issued:
     -
@@ -608,13 +647,13 @@ references:
   URL: https://www.proquest.com/docview/152330848/abstract/C7C6757E0ED14FACPQ/73
 
 -
-  id: 6MoreReds1951
+  id: 6MoreRedsFree1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: 6MoreReds1951
+  citation-key: 6MoreRedsFree1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -633,12 +672,12 @@ references:
   URL: https://www.proquest.com/docview/112191239/abstract/C7C6757E0ED14FACPQ/28
 
 -
-  id: 89FR1638Jan
+  id: 89FR1638Jan102024
   author:
     -
       family: U.S. Dept. of Labor
       given: ''
-  citation-key: 89FR1638Jan
+  citation-key: 89FR1638Jan102024
   container-title: 89 FR 1638 (Jan. 10, 2024)
   container-title-short: 89 FR 1638 Jan 10 2024
   issued:
@@ -651,13 +690,13 @@ references:
   type: legislation
 
 -
-  id: 98FEO16_NCStateBar1999
+  id: 98FEO16Representation1999
   accessed:
     -
       year: 2024
       month: 7
       day: 9
-  citation-key: 98FEO16_NCStateBar1999
+  citation-key: 98FEO16Representation1999
   issued:
     -
       year: 1999
@@ -683,7 +722,6 @@ references:
   section: '1'
   title: Fed Arb. Act s.1 - “Maritime transactions” and “commerce” defined; exceptions to operation of title
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
   volume: '9'
 
 -
@@ -700,7 +738,6 @@ references:
   section: '10'
   title: Fed Arb. Act s.10 - Award of arbitrators; vacation; grounds
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
   volume: '9'
 
 -
@@ -717,7 +754,6 @@ references:
   section: '11'
   title: Fed Arb. Act s.11 - Award of arbitrators; modification or correction; grounds; order
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
   volume: '9'
 
 -
@@ -734,7 +770,6 @@ references:
   section: '2'
   title: Fed Arb. Act s.2 - Validity, irrevocability, and enforcement of agreements to arbitrate
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
   volume: '9'
 
 -
@@ -751,7 +786,6 @@ references:
   section: '3'
   title: Fed Arb. Act s.3 - Stay of proceedings where issue therein referable to arbitration
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
   volume: '9'
 
 -
@@ -768,7 +802,6 @@ references:
   section: '4'
   title: Fed Arb. Act s.4 - Failure to arbitrate under agreement
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
   volume: '9'
 
 -
@@ -785,7 +818,6 @@ references:
   section: '9'
   title: Fed Arb. Act s.9 - Award of arbitrators; confirmation; jurisdiction; procedure
   type: legislation
-  URL: https://www.law.cornell.edu/uscode/text/9/1
   volume: '9'
 
 -
@@ -1198,7 +1230,7 @@ references:
   volume: '44'
 
 -
-  id: Adelsberg_Truah2025
+  id: Adelsberg2025
   accessed:
     -
       year: 2026
@@ -1208,7 +1240,7 @@ references:
     -
       family: Adelsberg
       given: Geffrey
-  citation-key: Adelsberg_Truah2025
+  citation-key: Adelsberg2025
   container-title: T'ruah
   issued:
     -
@@ -1241,6 +1273,19 @@ references:
   title: 'The Myth of Good AI: a Manifesto for Critical Artificial Intelligence'
   type: book
   URL: https://manchesteruniversitypress.co.uk/9781526189509/
+
+-
+  id: AdministrativeOfficeoftheUSCourts_nd
+  author:
+    -
+      family: Administrative Office of the U.S. Courts
+      given: ''
+  citation-key: AdministrativeOfficeoftheUSCourts_nd
+  language: en
+  title: Understanding the Federal Courts
+  title-short: Understanding the Federal Courts
+  type: document
+  URL: https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf
 
 -
   id: AerotekIncNLRB_8thCir2018
@@ -1350,13 +1395,13 @@ references:
   volume: '41'
 
 -
-  id: AiHasEnvironmental2025
+  id: AIHasEnvironmentalProblem2025
   accessed:
     -
       year: 2026
       month: 9
       day: 7
-  citation-key: AiHasEnvironmental2025
+  citation-key: AIHasEnvironmentalProblem2025
   container-title: UN Environment Program
   issued:
     -
@@ -1365,7 +1410,7 @@ references:
       day: 13
   language: en
   section: News and Stories
-  title: Ai Has an Environmental Problem. Here’s What the World Can Do About That.
+  title: AI Has an Environmental Problem. Here’s What the World Can Do About That.
   type: webpage
   URL: https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about
 
@@ -1819,6 +1864,20 @@ references:
   volume: '772'
 
 -
+  id: AmericanLegislativeExchangeCouncil2003
+  author:
+    -
+      family: American Legislative Exchange Council
+      given: ''
+  citation-key: AmericanLegislativeExchangeCouncil2003
+  issued:
+    -
+      year: 2003
+  language: en
+  title: Animal and Ecological Terrorism in America
+  type: document
+
+-
   id: Amery1980
   accessed:
     -
@@ -2025,20 +2084,6 @@ references:
   volume: '114'
 
 -
-  id: AnimalEcologicalTerrorism_AmericanLegislativeExchangeCouncil2003
-  author:
-    -
-      family: American Legislative Exchange Council
-      given: ''
-  citation-key: AnimalEcologicalTerrorism_AmericanLegislativeExchangeCouncil2003
-  issued:
-    -
-      year: 2003
-  language: en
-  title: Animal and Ecological Terrorism in America
-  type: document
-
--
   id: AnimalLegalDefenseFundWasden_9thCir2018
   authority: 9th Cir.
   citation-key: AnimalLegalDefenseFundWasden_9thCir2018
@@ -2055,7 +2100,7 @@ references:
   volume: '878'
 
 -
-  id: AnimalWelfareInstitute_AnimalWelfareInstitute2022
+  id: AnimalWelfareInstitute2022
   accessed:
     -
       year: 2023
@@ -2065,7 +2110,7 @@ references:
     -
       family: Animal Welfare Institute
       given: ''
-  citation-key: AnimalWelfareInstitute_AnimalWelfareInstitute2022
+  citation-key: AnimalWelfareInstitute2022
   container-title: Animal Welfare Institute
   issued:
     -
@@ -2334,7 +2379,7 @@ references:
   volume: '321'
 
 -
-  id: Ashcraft_LawStreetMedia2021
+  id: Ashcraft2021
   accessed:
     -
       year: 2022
@@ -2344,7 +2389,7 @@ references:
     -
       family: Ashcraft
       given: Emily
-  citation-key: Ashcraft_LawStreetMedia2021
+  citation-key: Ashcraft2021
   container-title: Law Street Media
   issued:
     -
@@ -2534,13 +2579,13 @@ references:
   URL: https://www.proquest.com/docview/152341566/abstract/C7C6757E0ED14FACPQ/52
 
 -
-  id: BailFundNames1952
+  id: BailFundNamesSent1952
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: BailFundNames1952
+  citation-key: BailFundNamesSent1952
   container-title: The Washington Post
   issued:
     -
@@ -3108,39 +3153,11 @@ references:
 
 -
   id: Belton2014
-  accessed:
-    -
-      year: 2025
-      month: 12
-      day: 22
   author:
     -
       family: Belton
       given: Robert
-    -
-      family: Wasby
-      given: Stephen L.
   citation-key: Belton2014
-  container-title: Journal of Supreme Court History
-  container-title-short: J. Supreme Court Hist.
-  issue: '3'
-  issued:
-    -
-      year: 2014
-  language: en
-  page: 425–443
-  title: How Griggs Came To Be
-  type: article-journal
-  URL: https://www.emfink.net/EmploymentLaw/exhibits/Belton2014a.pdf
-  volume: '39'
-
--
-  id: Belton2014a
-  author:
-    -
-      family: Belton
-      given: Robert
-  citation-key: Belton2014a
   editor:
     -
       family: Wasby
@@ -3158,7 +3175,35 @@ references:
   type: book
 
 -
-  id: Ben-Menachem_WhatCriminalImmigrant_TheGuardian2025
+  id: Belton2014a
+  accessed:
+    -
+      year: 2025
+      month: 12
+      day: 22
+  author:
+    -
+      family: Belton
+      given: Robert
+    -
+      family: Wasby
+      given: Stephen L.
+  citation-key: Belton2014a
+  container-title: Journal of Supreme Court History
+  container-title-short: J. Supreme Court Hist.
+  issue: '3'
+  issued:
+    -
+      year: 2014
+  language: en
+  page: 425–443
+  title: How Griggs Came To Be
+  type: article-journal
+  URL: https://www.emfink.net/EmploymentLaw/exhibits/Belton2014a.pdf
+  volume: '39'
+
+-
+  id: Ben-Menachem2025
   accessed:
     -
       year: 2025
@@ -3168,7 +3213,7 @@ references:
     -
       family: Ben-Menachem
       given: Jonathan
-  citation-key: Ben-Menachem_WhatCriminalImmigrant_TheGuardian2025
+  citation-key: Ben-Menachem2025
   container-title: The Guardian
   ISSN: 0261-3077
   issued:
@@ -4562,7 +4607,7 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.44
 
 -
-  id: Bragg_BlackPastorg2011
+  id: Bragg2011
   accessed:
     -
       year: 2026
@@ -4572,7 +4617,7 @@ references:
     -
       family: Bragg
       given: Susan
-  citation-key: Bragg_BlackPastorg2011
+  citation-key: Bragg2011
   container-title: BlackPast.org
   issued:
     -
@@ -4686,29 +4731,6 @@ references:
   type: book
 
 -
-  id: Britton-Purdy_LPEProject2025
-  accessed:
-    -
-      year: 2025
-      month: 5
-      day: 8
-  author:
-    -
-      family: Britton-Purdy
-      given: Jedediah
-  citation-key: Britton-Purdy_LPEProject2025
-  container-title: LPE Project
-  issued:
-    -
-      year: 2025
-      month: 2
-      day: 17
-  language: en
-  title: On Constitutional Crisis, the Rule of Law, and the Fate of Democracy
-  type: post-weblog
-  URL: https://lpeproject.org/blog/on-constitutional-crisis-the-rule-of-law-and-the-fate-of-democracy/
-
--
   id: Britton-Purdy2024
   accessed:
     -
@@ -4735,6 +4757,29 @@ references:
   title: A Democratic Rule of Law
   type: article
   URL: https://papers.ssrn.com/abstract=5052568
+
+-
+  id: Britton-Purdy2025
+  accessed:
+    -
+      year: 2025
+      month: 5
+      day: 8
+  author:
+    -
+      family: Britton-Purdy
+      given: Jedediah
+  citation-key: Britton-Purdy2025
+  container-title: LPE Project
+  issued:
+    -
+      year: 2025
+      month: 2
+      day: 17
+  language: en
+  title: On Constitutional Crisis, the Rule of Law, and the Fate of Democracy
+  type: post-weblog
+  URL: https://lpeproject.org/blog/on-constitutional-crisis-the-rule-of-law-and-the-fate-of-democracy/
 
 -
   id: BroadbentWilliams_DUtah2025
@@ -5409,27 +5454,6 @@ references:
   volume: '362'
 
 -
-  id: Cain_NCpedia2006
-  accessed:
-    -
-      year: 2025
-      month: 9
-      day: 21
-  author:
-    -
-      family: Cain
-      given: Robert J.
-  citation-key: Cain_NCpedia2006
-  container-title: NCpedia
-  issued:
-    -
-      year: 2006
-  language: en
-  title: Communism
-  type: webpage
-  URL: https://www.ncpedia.org/communism
-
--
   id: Cain2006
   accessed:
     -
@@ -5449,6 +5473,27 @@ references:
   title: Scales Trial
   type: webpage
   URL: https://www.ncpedia.org/scales-trial
+
+-
+  id: Cain2006a
+  accessed:
+    -
+      year: 2025
+      month: 9
+      day: 21
+  author:
+    -
+      family: Cain
+      given: Robert J.
+  citation-key: Cain2006a
+  container-title: NCpedia
+  issued:
+    -
+      year: 2006
+  language: en
+  title: Communism
+  type: webpage
+  URL: https://www.ncpedia.org/communism
 
 -
   id: Cain2017
@@ -6306,66 +6351,6 @@ references:
   URL: https://www.citingslavery.org/
 
 -
-  id: CivilRightsCongress_nd
-  accessed:
-    -
-      year: 2026
-      month: 1
-      day: 8
-  citation-key: CivilRightsCongress_nd
-  container-title: archives.nypl.org
-  language: en
-  title: Civil Rights Congress records
-  type: webpage
-  URL: https://archives.nypl.org/scm/20558
-
--
-  id: CivilRightsCongress1951
-  accessed:
-    -
-      year: 2026
-      month: 1
-      day: 8
-  citation-key: CivilRightsCongress1951
-  container-title: The Washington Post
-  issued:
-    -
-      year: 1951
-      month: 7
-      day: 17
-  language: en
-  page: '3'
-  publisher: WP Company LLC d/b/a The Washington Post
-  publisher-place: Washington, D.C., United States
-  title: Civil Rights Congress Again Outlawed as Bondsman for Reds
-  type: article-newspaper
-  URL: https://www.proquest.com/docview/152393840/abstract/C7C6757E0ED14FACPQ/76
-
--
-  id: CivilRightsCongress1955
-  accessed:
-    -
-      year: 2026
-      month: 1
-      day: 8
-  citation-key: CivilRightsCongress1955
-  container-title: New York Times
-  ISSN: '03624331'
-  issued:
-    -
-      year: 1955
-      month: 5
-      day: 19
-  language: en
-  license: Copyright New York Times Company May 19, 1955
-  page: '27'
-  publisher-place: New York, N.Y., United States
-  source: ProQuest
-  title: Civil Rights Congress Pleads
-  type: article-newspaper
-  URL: https://www.proquest.com/docview/113329495/citation/E5947C5FC7094283PQ/1
-
--
   id: CivilRightsCongress2025
   accessed:
     -
@@ -6387,13 +6372,73 @@ references:
   URL: https://en.wikipedia.org/w/index.php?title=Civil_Rights_Congress&oldid=1320752793
 
 -
-  id: CivilRightsGroup1947
+  id: CivilRightsCongressAgain1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: CivilRightsGroup1947
+  citation-key: CivilRightsCongressAgain1951
+  container-title: The Washington Post
+  issued:
+    -
+      year: 1951
+      month: 7
+      day: 17
+  language: en
+  page: '3'
+  publisher: WP Company LLC d/b/a The Washington Post
+  publisher-place: Washington, D.C., United States
+  title: Civil Rights Congress Again Outlawed as Bondsman for Reds
+  type: article-newspaper
+  URL: https://www.proquest.com/docview/152393840/abstract/C7C6757E0ED14FACPQ/76
+
+-
+  id: CivilRightsCongressPleads1955
+  accessed:
+    -
+      year: 2026
+      month: 1
+      day: 8
+  citation-key: CivilRightsCongressPleads1955
+  container-title: New York Times
+  ISSN: '03624331'
+  issued:
+    -
+      year: 1955
+      month: 5
+      day: 19
+  language: en
+  license: Copyright New York Times Company May 19, 1955
+  page: '27'
+  publisher-place: New York, N.Y., United States
+  source: ProQuest
+  title: Civil Rights Congress Pleads
+  type: article-newspaper
+  URL: https://www.proquest.com/docview/113329495/citation/E5947C5FC7094283PQ/1
+
+-
+  id: CivilRightsCongressRecords_nd
+  accessed:
+    -
+      year: 2026
+      month: 1
+      day: 8
+  citation-key: CivilRightsCongressRecords_nd
+  container-title: archives.nypl.org
+  language: en
+  title: Civil Rights Congress records
+  type: webpage
+  URL: https://archives.nypl.org/scm/20558
+
+-
+  id: CivilRightsGroupDenies1947
+  accessed:
+    -
+      year: 2026
+      month: 1
+      day: 8
+  citation-key: CivilRightsGroupDenies1947
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -6412,13 +6457,13 @@ references:
   URL: https://www.proquest.com/docview/108103849/abstract/C7C6757E0ED14FACPQ/51
 
 -
-  id: CivilRightsGroup1954
+  id: CivilRightsGroupSubmits1954
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: CivilRightsGroup1954
+  citation-key: CivilRightsGroupSubmits1954
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -6436,37 +6481,13 @@ references:
   URL: https://www.proquest.com/docview/112952397/abstract/C7C6757E0ED14FACPQ/94
 
 -
-  id: CivilRightsUnit1954
+  id: CivilRightsUnitAttacks1955
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: CivilRightsUnit1954
-  container-title: The Washington Post and Times Herald
-  issued:
-    -
-      year: 1954
-      month: 12
-      day: 9
-  language: en
-  license: Copyright The Washington Post Company Dec 9, 1954
-  page: '14'
-  publisher: WP Company LLC d/b/a The Washington Post
-  publisher-place: Washington, D.C., United States
-  source: ProQuest
-  title: Civil Rights Unit Called Red Ruled
-  type: article-newspaper
-  URL: https://www.proquest.com/docview/148543577/abstract/C7C6757E0ED14FACPQ/80
-
--
-  id: CivilRightsUnit1955
-  accessed:
-    -
-      year: 2026
-      month: 1
-      day: 8
-  citation-key: CivilRightsUnit1955
+  citation-key: CivilRightsUnitAttacks1955
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -6483,6 +6504,30 @@ references:
   title-short: Civil Rights Unit Attacks Inquiry
   type: article-newspaper
   URL: https://www.proquest.com/docview/113186702/abstract/C7C6757E0ED14FACPQ/82
+
+-
+  id: CivilRightsUnitCalled1954
+  accessed:
+    -
+      year: 2026
+      month: 1
+      day: 8
+  citation-key: CivilRightsUnitCalled1954
+  container-title: The Washington Post and Times Herald
+  issued:
+    -
+      year: 1954
+      month: 12
+      day: 9
+  language: en
+  license: Copyright The Washington Post Company Dec 9, 1954
+  page: '14'
+  publisher: WP Company LLC d/b/a The Washington Post
+  publisher-place: Washington, D.C., United States
+  source: ProQuest
+  title: Civil Rights Unit Called Red Ruled
+  type: article-newspaper
+  URL: https://www.proquest.com/docview/148543577/abstract/C7C6757E0ED14FACPQ/80
 
 -
   id: ClackamasGastroenterologyAssociatesPC_US2003
@@ -7189,23 +7234,6 @@ references:
   volume: '82'
 
 -
-  id: ConsiderationRecommendationsImplement_MacLeod2020
-  author:
-    -
-      family: MacLeod
-      given: Dag
-  citation-key: ConsiderationRecommendationsImplement_MacLeod2020
-  issued:
-    -
-      year: 2020
-      month: 7
-      day: 16
-  language: en
-  publisher: State Bar of California
-  title: Consideration of Recommendations to Implement Changes to Address Key Findings of the Disparities in the Discipline System Study
-  type: document
-
--
   id: ContemporaneousResidentialRealEstate_NCStateBar2021
   authority: N.C. State Bar
   citation-key: ContemporaneousResidentialRealEstate_NCStateBar2021
@@ -7270,6 +7298,25 @@ references:
   title-short: Gagged by Big Ag
   type: article-journal
   volume: '49'
+
+-
+  id: Cooper2017-05-0010
+  author:
+    -
+      family: Cooper
+      given: David
+    -
+      family: Kroeger
+      given: Teresa
+  citation-key: Cooper2017-05-0010
+  issued:
+    -
+      literal: 2017-05-0010
+  language: en
+  publisher: Economic Policy Institute
+  source: Zotero
+  title: Employers steal billions from workers’ paychecks each year
+  type: document
 
 -
   id: CoppageKansas_US1915
@@ -7420,7 +7467,7 @@ references:
   type: book
 
 -
-  id: Coryell_OldCommunistPonders_SeattleTimes1996
+  id: Coryell1996
   accessed:
     -
       year: 2025
@@ -7430,7 +7477,7 @@ references:
     -
       family: Coryell
       given: Holly
-  citation-key: Coryell_OldCommunistPonders_SeattleTimes1996
+  citation-key: Coryell1996
   container-title: Seattle Times
   issued:
     -
@@ -7462,13 +7509,13 @@ references:
   URL: https://www.elgaronline.com/view/edcoll/9781849803618/9781849803618.00010.xml
 
 -
-  id: CourtRevokesBond1951
+  id: CourtRevokesBondCivil1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: CourtRevokesBond1951
+  citation-key: CourtRevokesBondCivil1951
   container-title: New York Times
   issued:
     -
@@ -7643,8 +7690,8 @@ references:
   volume: '626'
 
 -
-  id: CrimesClaudeLightfoot_CivilRightsCongress1955
-  citation-key: CrimesClaudeLightfoot_CivilRightsCongress1955
+  id: CrimesClaudeLightfootJunius1955
+  citation-key: CrimesClaudeLightfootJunius1955
   issued:
     -
       year: 1955
@@ -7734,53 +7781,6 @@ references:
   volume: '929'
 
 -
-  id: Cummings_LPEProject2024
-  accessed:
-    -
-      year: 2025
-      month: 1
-      day: 24
-  author:
-    -
-      family: Cummings
-      given: Scott
-  citation-key: Cummings_LPEProject2024
-  container-title: LPE Project
-  issued:
-    -
-      year: 2024
-      month: 6
-      day: 20
-  language: en
-  title: When Lawyers Attack the Rule of Law
-  type: post-weblog
-  URL: https://lpeproject.org/blog/when-lawyers-attack-the-rule-of-law/
-
--
-  id: Cummings_ThePracticeHarvardLawMarch/April2025
-  accessed:
-    -
-      year: 2025
-      month: 5
-      day: 8
-  author:
-    -
-      family: Cummings
-      given: Scott
-    -
-      family: Wilkins
-      given: David B.
-  citation-key: Cummings_ThePracticeHarvardLawMarch/April2025
-  container-title: The Practice (Harvard Law School Center on the Legal Profession)
-  issued:
-    -
-      literal: March/April 2025
-  language: en
-  title: Why American Lawyers Must Fight Democratic Backsliding
-  type: post-weblog
-  URL: https://clp.law.harvard.edu/article/why-american-lawyers-must-fight-democratic-backsliding/
-
--
   id: Cummings2009
   author:
     -
@@ -7854,6 +7854,29 @@ references:
   volume: '99'
 
 -
+  id: Cummings2024
+  accessed:
+    -
+      year: 2025
+      month: 1
+      day: 24
+  author:
+    -
+      family: Cummings
+      given: Scott
+  citation-key: Cummings2024
+  container-title: LPE Project
+  issued:
+    -
+      year: 2024
+      month: 6
+      day: 20
+  language: en
+  title: When Lawyers Attack the Rule of Law
+  type: post-weblog
+  URL: https://lpeproject.org/blog/when-lawyers-attack-the-rule-of-law/
+
+-
   id: Cummings2025
   accessed:
     -
@@ -7880,6 +7903,30 @@ references:
   title: Stopping Autocratic Legalism in America – Before It Is Too Late
   type: article-journal
   URL: https://verfassungsblog.de/stopping-autocratic-legalism-in-america-before-it-is-too-late/
+
+-
+  id: CummingsMarch/April2025
+  accessed:
+    -
+      year: 2025
+      month: 5
+      day: 8
+  author:
+    -
+      family: Cummings
+      given: Scott
+    -
+      family: Wilkins
+      given: David B.
+  citation-key: CummingsMarch/April2025
+  container-title: The Practice (Harvard Law School Center on the Legal Profession)
+  issued:
+    -
+      literal: March/April 2025
+  language: en
+  title: Why American Lawyers Must Fight Democratic Backsliding
+  type: post-weblog
+  URL: https://clp.law.harvard.edu/article/why-american-lawyers-must-fight-democratic-backsliding/
 
 -
   id: Cunningham-Parmeter2023
@@ -8162,23 +8209,6 @@ references:
   volume: '21'
 
 -
-  id: Dartmouth_nd
-  accessed:
-    -
-      year: 2023
-      month: 12
-      day: 29
-  author:
-    -
-      family: Dartmouth
-      given: University of Massachusetts
-  citation-key: Dartmouth_nd
-  language: en
-  title: US District Court Database
-  type: webpage
-  URL: https://www.umassd.edu/cas/polisci/resources/us-district-court-database/
-
--
   id: DaughertyRunner_KyCtApp1978
   authority: Ky. Ct. App.
   citation-key: DaughertyRunner_KyCtApp1978
@@ -8287,7 +8317,7 @@ references:
   volume: '103'
 
 -
-  id: Demirjian_TrumpOfficialsConsider_TheNewYorkTimes2025
+  id: Demirjian2025
   accessed:
     -
       year: 2025
@@ -8297,7 +8327,7 @@ references:
     -
       family: Demirjian
       given: Karoun
-  citation-key: Demirjian_TrumpOfficialsConsider_TheNewYorkTimes2025
+  citation-key: Demirjian2025
   container-title: The New York Times
   ISSN: 0362-4331
   issued:
@@ -8720,13 +8750,13 @@ references:
   volume: '170'
 
 -
-  id: DiscriminationAmericanWorkers_nd
+  id: DiscriminationAmericanWorkersLaw_nd
   accessed:
     -
       year: 2025
       month: 12
       day: 31
-  citation-key: DiscriminationAmericanWorkers_nd
+  citation-key: DiscriminationAmericanWorkersLaw_nd
   container-title: U.S. Equal Employment Opportunity Commission
   language: en
   title: Discrimination Against American Workers is Against the Law
@@ -8751,7 +8781,7 @@ references:
   URL: https://www.dclibrary.org/research-and-learn/fight-racial-justice-and-civil-rights-congress
 
 -
-  id: Dittmer_CivilRightsCongress_TheWashingtonPost1947
+  id: Dittmer1947
   accessed:
     -
       year: 2026
@@ -8761,7 +8791,7 @@ references:
     -
       family: Dittmer
       given: Dean W.
-  citation-key: Dittmer_CivilRightsCongress_TheWashingtonPost1947
+  citation-key: Dittmer1947
   container-title: The Washington Post
   issued:
     -
@@ -9305,13 +9335,13 @@ references:
   volume: '118'
 
 -
-  id: DreamingDumplingsCamps2014
+  id: DreamingDumplingsCampsForgotten2014
   accessed:
     -
       year: 2023
       month: 12
       day: 23
-  citation-key: DreamingDumplingsCamps2014
+  citation-key: DreamingDumplingsCampsForgotten2014
   container-title: Haaretz
   issued:
     -
@@ -9741,6 +9771,28 @@ references:
   type: book
 
 -
+  id: EEOC2024
+  accessed:
+    -
+      year: 2025
+      month: 12
+      day: 22
+  author:
+    -
+      family: EEOC
+      given: ''
+  citation-key: EEOC2024
+  issued:
+    -
+      year: 2024
+      month: 4
+      day: 29
+  language: en
+  title: Enforcement Guidance on Harassment in the Workplace, EEOC-CVG-2024-1
+  type: document
+  URL: https://www.eeoc.gov/laws/guidance/enforcement-guidance-harassment-workplace
+
+-
   id: EganAWCompaniesInc_NDIll2024
   authority: N.D. Ill.
   citation-key: EganAWCompaniesInc_NDIll2024
@@ -9806,13 +9858,13 @@ references:
   volume: '135'
 
 -
-  id: EightTopReds1951
+  id: EightTopRedsStill1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: EightTopReds1951
+  citation-key: EightTopRedsStill1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -9922,23 +9974,21 @@ references:
   volume: '78'
 
 -
-  id: EmployersStealBillions_Cooper2017-05-0010
-  author:
+  id: EmployeeDutyLoyaltyEmployer
+  accessed:
     -
-      family: Cooper
-      given: David
-    -
-      family: Kroeger
-      given: Teresa
-  citation-key: EmployersStealBillions_Cooper2017-05-0010
+      year: 2023
+      month: 2
+      day: 28
+  citation-key: EmployeeDutyLoyaltyEmployer
+  genre: Restatement of Employment Law
   issued:
     -
-      literal: 2017-05-0010
+      year: 2015
   language: en
-  publisher: Economic Policy Institute
-  source: Zotero
-  title: Employers steal billions from workers’ paychecks each year
-  type: document
+  publisher: American Law Institute
+  title: Employee Duty of Loyalty to the Employer
+  type: standard
 
 -
   id: EmploymentDivDeptHuman_US1990
@@ -9954,28 +10004,6 @@ references:
   title: Employment Div., Dept. of Human Resources of Ore. v. Smith
   type: legal_case
   volume: '494'
-
--
-  id: EnforcementGuidanceHarassment_EEOC2024
-  accessed:
-    -
-      year: 2025
-      month: 12
-      day: 22
-  author:
-    -
-      family: EEOC
-      given: ''
-  citation-key: EnforcementGuidanceHarassment_EEOC2024
-  issued:
-    -
-      year: 2024
-      month: 4
-      day: 29
-  language: en
-  title: Enforcement Guidance on Harassment in the Workplace, EEOC-CVG-2024-1
-  type: document
-  URL: https://www.eeoc.gov/laws/guidance/enforcement-guidance-harassment-workplace
 
 -
   id: Engel2014
@@ -10303,13 +10331,13 @@ references:
   URL: https://www.congress.gov/event/108th-congress/house-event/LC14997/text
 
 -
-  id: ExecutiveOrder14151_90FR83392025
+  id: ExecutiveOrder14151Ending2025
   accessed:
     -
       year: 2025
       month: 12
       day: 22
-  citation-key: ExecutiveOrder14151_90FR83392025
+  citation-key: ExecutiveOrder14151Ending2025
   issued:
     -
       year: 2025
@@ -10321,13 +10349,13 @@ references:
   type: document
 
 -
-  id: ExecutiveOrder14168_90FR86152025
+  id: ExecutiveOrder14168Defending2025
   accessed:
     -
       year: 2025
       month: 12
       day: 31
-  citation-key: ExecutiveOrder14168_90FR86152025
+  citation-key: ExecutiveOrder14168Defending2025
   issued:
     -
       year: 2025
@@ -10339,13 +10367,13 @@ references:
   type: document
 
 -
-  id: ExecutiveOrder14173_90FR86332025
+  id: ExecutiveOrder14173Ending2025
   accessed:
     -
       year: 2025
       month: 12
       day: 22
-  citation-key: ExecutiveOrder14173_90FR86332025
+  citation-key: ExecutiveOrder14173Ending2025
   issued:
     -
       year: 2025
@@ -10357,13 +10385,13 @@ references:
   type: document
 
 -
-  id: ExecutiveOrder14281_90FR175372025
+  id: ExecutiveOrder14281Restoring2025
   accessed:
     -
       year: 2025
       month: 12
       day: 31
-  citation-key: ExecutiveOrder14281_90FR175372025
+  citation-key: ExecutiveOrder14281Restoring2025
   issued:
     -
       year: 2025
@@ -10375,13 +10403,13 @@ references:
   type: document
 
 -
-  id: ExRedCitesRole1954
+  id: ExRedCitesRole121954
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: ExRedCitesRole1954
+  citation-key: ExRedCitesRole121954
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -10550,7 +10578,7 @@ references:
   volume: '45'
 
 -
-  id: Fast_HowardFastEyewitness_TheDailyWorker1949
+  id: Fast1949
   accessed:
     -
       year: 2026
@@ -10560,7 +10588,7 @@ references:
     -
       family: Fast
       given: Howard
-  citation-key: Fast_HowardFastEyewitness_TheDailyWorker1949
+  citation-key: Fast1949
   container-title: The Daily Worker
   issued:
     -
@@ -10934,7 +10962,7 @@ references:
   type: book
 
 -
-  id: Feinberg_KontrradikceContradictions2018
+  id: Feinberg2018
   accessed:
     -
       year: 2023
@@ -10944,7 +10972,7 @@ references:
     -
       family: Feinberg
       given: Joseph Grim
-  citation-key: Feinberg_KontrradikceContradictions2018
+  citation-key: Feinberg2018
   container-title: Kontrradikce/Contradictions
   issued:
     -
@@ -11136,7 +11164,7 @@ references:
   volume: '767'
 
 -
-  id: Feuer_AttackingJudgesTrump_TheNewYorkTimes2025
+  id: Feuer2025
   accessed:
     -
       year: 2025
@@ -11146,7 +11174,7 @@ references:
     -
       family: Feuer
       given: Alan
-  citation-key: Feuer_AttackingJudgesTrump_TheNewYorkTimes2025
+  citation-key: Feuer2025
   container-title: The New York Times
   ISSN: 0362-4331
   issued:
@@ -11343,8 +11371,8 @@ references:
   URL: https://doi.org/10.1007/978-3-319-59779-9_8
 
 -
-  id: FightOpportunismCP1948
-  citation-key: FightOpportunismCP1948
+  id: FightOpportunismCPNorth1948
+  citation-key: FightOpportunismCPNorth1948
   genre: Open letter by expelled members of Communist Party of North Carolina in Chapel Hill
   issued:
     -
@@ -12642,7 +12670,7 @@ references:
   type: legal_case
 
 -
-  id: Friedman_ARedFamily_nd
+  id: Friedman_nd
   accessed:
     -
       year: 2025
@@ -12652,7 +12680,7 @@ references:
     -
       family: Friedman
       given: Mickey
-  citation-key: Friedman_ARedFamily_nd
+  citation-key: Friedman_nd
   container-title: A Red Family
   language: en
   title: Junius, Gladys, and Barbara Scales
@@ -12976,13 +13004,13 @@ references:
   type: book
 
 -
-  id: FundWinsTax1956
+  id: FundWinsTaxCase1956
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: FundWinsTax1956
+  citation-key: FundWinsTaxCase1956
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -13200,30 +13228,6 @@ references:
   volume: '644'
 
 -
-  id: Garden_EconomicPolicyInstitute2022
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
-  author:
-    -
-      family: Garden
-      given: Charlotte
-  citation-key: Garden_EconomicPolicyInstitute2022
-  container-title: Economic Policy Institute
-  issued:
-    -
-      year: 2022
-      month: 5
-      day: 5
-  language: en
-  title: 'Was It Something I Said?: Legal Protections for Employee Speech'
-  title-short: Was it something I said?
-  type: post-weblog
-  URL: https://www.epi.org/unequalpower/publications/free-speech-in-the-workplace/
-
--
   id: Garden2018
   author:
     -
@@ -13242,6 +13246,30 @@ references:
   title-short: Labor Organizing in the Age of Surveillance Symposium
   type: article-journal
   volume: '63'
+
+-
+  id: Garden2022
+  accessed:
+    -
+      year: 2024
+      month: 4
+      day: 12
+  author:
+    -
+      family: Garden
+      given: Charlotte
+  citation-key: Garden2022
+  container-title: Economic Policy Institute
+  issued:
+    -
+      year: 2022
+      month: 5
+      day: 5
+  language: en
+  title: 'Was It Something I Said?: Legal Protections for Employee Speech'
+  title-short: Was it something I said?
+  type: post-weblog
+  URL: https://www.epi.org/unequalpower/publications/free-speech-in-the-workplace/
 
 -
   id: GarnerKadinceInc_UtahCtApp2025
@@ -13507,7 +13535,7 @@ references:
   URL: https://brill.com/display/title/27848
 
 -
-  id: Gibson_CivilRightsCongress_TheWashingtonPostand1955
+  id: Gibson1955
   accessed:
     -
       year: 2026
@@ -13517,7 +13545,7 @@ references:
     -
       family: Gibson
       given: Gwen
-  citation-key: Gibson_CivilRightsCongress_TheWashingtonPostand1955
+  citation-key: Gibson1955
   container-title: The Washington Post and Times Herald
   issued:
     -
@@ -13653,25 +13681,6 @@ references:
   type: book
 
 -
-  id: GINA2008
-  accessed:
-    -
-      year: 2026
-      month: 1
-      day: 5
-  citation-key: GINA2008
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    -
-      year: 2008
-  language: en
-  section: 2000ff
-  title: Genetic Information Nondiscrimination Act of 2008
-  type: legislation
-  volume: '42'
-
--
   id: GinwrightExeterFinCorp_DMd2017
   authority: D. Md.
   citation-key: GinwrightExeterFinCorp_DMd2017
@@ -13782,7 +13791,7 @@ references:
   volume: '20'
 
 -
-  id: Glenza_KetanjiBrownJackson_TheGuardian2025
+  id: Glenza2025
   accessed:
     -
       year: 2025
@@ -13792,7 +13801,7 @@ references:
     -
       family: Glenza
       given: Jessica
-  citation-key: Glenza_KetanjiBrownJackson_TheGuardian2025
+  citation-key: Glenza2025
   container-title: The Guardian
   ISSN: 0261-3077
   issued:
@@ -13941,31 +13950,6 @@ references:
   volume: '80'
 
 -
-  id: Goldstein_NYURemoved2_TheNewYorkTimes2024
-  accessed:
-    -
-      year: 2024
-      month: 4
-      day: 12
-  author:
-    -
-      family: Goldstein
-      given: Joseph
-  citation-key: Goldstein_NYURemoved2_TheNewYorkTimes2024
-  container-title: The New York Times
-  issued:
-    -
-      year: 2024
-      month: 2
-      day: 1
-  language: en
-  page: '17'
-  section: A
-  title: NYU Removed 2 Doctors Over Israel-Hamas Posts. Then Their Fates Diverged
-  type: article-newspaper
-  URL: https://www.nytimes.com/2024/02/01/nyregion/nyu-langone-israel-firing.html
-
--
   id: Goldstein2016
   author:
     -
@@ -13992,6 +13976,31 @@ references:
   type: book
 
 -
+  id: Goldstein2024
+  accessed:
+    -
+      year: 2024
+      month: 4
+      day: 12
+  author:
+    -
+      family: Goldstein
+      given: Joseph
+  citation-key: Goldstein2024
+  container-title: The New York Times
+  issued:
+    -
+      year: 2024
+      month: 2
+      day: 1
+  language: en
+  page: '17'
+  section: A
+  title: NYU Removed 2 Doctors Over Israel-Hamas Posts. Then Their Fates Diverged
+  type: article-newspaper
+  URL: https://www.nytimes.com/2024/02/01/nyregion/nyu-langone-israel-firing.html
+
+-
   id: Gonos1997
   author:
     -
@@ -14016,7 +14025,7 @@ references:
   volume: '31'
 
 -
-  id: Goodloe_BlackPastorg2008
+  id: Goodloe2008
   accessed:
     -
       year: 2026
@@ -14026,7 +14035,7 @@ references:
     -
       family: Goodloe
       given: Trevor
-  citation-key: Goodloe_BlackPastorg2008
+  citation-key: Goodloe2008
   container-title: BlackPast.org
   issued:
     -
@@ -14267,13 +14276,13 @@ references:
   volume: '545'
 
 -
-  id: GrandJuryInvestigation_nd
+  id: GrandJuryInvestigationCivil_nd
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: GrandJuryInvestigation_nd
+  citation-key: GrandJuryInvestigationCivil_nd
   language: en
   title: Grand Jury Investigation of Civil Rights Congress Bail Fund - American Committee for Protection of Foreign Born Records, 1926-1980s
   type: webpage
@@ -14417,29 +14426,6 @@ references:
   volume: '54'
 
 -
-  id: Greenberg_AnthropologyNews2022
-  accessed:
-    -
-      year: 2025
-      month: 5
-      day: 8
-  author:
-    -
-      family: Greenberg
-      given: Jessica
-  citation-key: Greenberg_AnthropologyNews2022
-  container-title: Anthropology News
-  issued:
-    -
-      year: 2022
-      month: 11
-      day: 4
-  language: en
-  title: Compromise, Complicity, and the Rule of Law
-  type: post-weblog
-  URL: https://www.anthropology-news.org/articles/compromise-complicity-and-the-rule-of-law/
-
--
   id: Greenberg2006
   accessed:
     -
@@ -14483,6 +14469,29 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/1095796013512623
   volume: '23'
+
+-
+  id: Greenberg2022
+  accessed:
+    -
+      year: 2025
+      month: 5
+      day: 8
+  author:
+    -
+      family: Greenberg
+      given: Jessica
+  citation-key: Greenberg2022
+  container-title: Anthropology News
+  issued:
+    -
+      year: 2022
+      month: 11
+      day: 4
+  language: en
+  title: Compromise, Complicity, and the Rule of Law
+  type: post-weblog
+  URL: https://www.anthropology-news.org/articles/compromise-complicity-and-the-rule-of-law/
 
 -
   id: Greenblatt2016
@@ -14572,13 +14581,13 @@ references:
   type: book
 
 -
-  id: GreenGetsNew1948
+  id: GreenGetsNewBail1948
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: GreenGetsNew1948
+  citation-key: GreenGetsNewBail1948
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -14620,7 +14629,7 @@ references:
   type: book
 
 -
-  id: Gregory_MappingAmericanSocialMovements_nd
+  id: Gregory_nd
   accessed:
     -
       year: 2025
@@ -14630,7 +14639,7 @@ references:
     -
       family: Gregory
       given: James
-  citation-key: Gregory_MappingAmericanSocialMovements_nd
+  citation-key: Gregory_nd
   container-title: Mapping American Social Movements
   language: en
   title: Communist Party Membership by Districts 1922-1950
@@ -14881,7 +14890,7 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.6
 
 -
-  id: Gruber_JewishHeritageEurope2018
+  id: Gruber2018
   accessed:
     -
       year: 2023
@@ -14891,7 +14900,7 @@ references:
     -
       family: Gruber
       given: Ruth Ellen
-  citation-key: Gruber_JewishHeritageEurope2018
+  citation-key: Gruber2018
   container-title: Jewish Heritage Europe
   issued:
     -
@@ -15005,13 +15014,13 @@ references:
   volume: '93'
 
 -
-  id: GuidanceUSEmployees2023
+  id: GuidanceUSEmployeesResponse2023
   accessed:
     -
       year: 2024
       month: 5
       day: 22
-  citation-key: GuidanceUSEmployees2023
+  citation-key: GuidanceUSEmployeesResponse2023
   container-title: Monitoring and Combating Islamophobia
   issued:
     -
@@ -15208,29 +15217,6 @@ references:
   volume: '380'
 
 -
-  id: Hans_BallsandStrikes2025
-  accessed:
-    -
-      year: 2025
-      month: 5
-      day: 11
-  author:
-    -
-      family: Hans
-      given: G.S.
-  citation-key: Hans_BallsandStrikes2025
-  container-title: Balls and Strikes
-  issued:
-    -
-      year: 2025
-      month: 4
-      day: 28
-  language: en
-  title: Trump’s Law Firm Executive Orders Are Obscuring His More Dangerous Attacks on the Legal Profession
-  type: post-weblog
-  URL: https://ballsandstrikes.org/legal-culture/law-firm-executive-orders-obscuring-legal-profession-attacks/
-
--
   id: Hans2000
   author:
     -
@@ -15271,6 +15257,29 @@ references:
   source: Google Books
   title: Judging the Jury
   type: book
+
+-
+  id: Hans2025
+  accessed:
+    -
+      year: 2025
+      month: 5
+      day: 11
+  author:
+    -
+      family: Hans
+      given: G.S.
+  citation-key: Hans2025
+  container-title: Balls and Strikes
+  issued:
+    -
+      year: 2025
+      month: 4
+      day: 28
+  language: en
+  title: Trump’s Law Firm Executive Orders Are Obscuring His More Dangerous Attacks on the Legal Profession
+  type: post-weblog
+  URL: https://ballsandstrikes.org/legal-culture/law-firm-executive-orders-obscuring-legal-profession-attacks/
 
 -
   id: Hansen2003
@@ -15573,13 +15582,13 @@ references:
   volume: '8'
 
 -
-  id: HearingHaltedLeftist1955
+  id: HearingHaltedLeftistGroup1955
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: HearingHaltedLeftist1955
+  citation-key: HearingHaltedLeftistGroup1955
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -15774,7 +15783,7 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.22
 
 -
-  id: Hellman_LathropGPM2025
+  id: Hellman2025
   accessed:
     -
       year: 2025
@@ -15784,7 +15793,7 @@ references:
     -
       family: Hellman
       given: Margo
-  citation-key: Hellman_LathropGPM2025
+  citation-key: Hellman2025
   container-title: Lathrop GPM
   issued:
     -
@@ -16326,7 +16335,7 @@ references:
   type: book
 
 -
-  id: Hood-Nuno_CorporateAmericaFaces_Reuters2025
+  id: Hood-Nuno2025
   accessed:
     -
       year: 2025
@@ -16339,7 +16348,7 @@ references:
     -
       family: Flowers
       given: Bianca
-  citation-key: Hood-Nuno_CorporateAmericaFaces_Reuters2025
+  citation-key: Hood-Nuno2025
   container-title: Reuters
   issued:
     -
@@ -16529,7 +16538,7 @@ references:
   volume: '744'
 
 -
-  id: Huyssen_n+12019
+  id: Huyssen2019
   accessed:
     -
       year: 2025
@@ -16539,7 +16548,7 @@ references:
     -
       family: Huyssen
       given: Andreas
-  citation-key: Huyssen_n+12019
+  citation-key: Huyssen2019
   container-title: n+1
   issued:
     -
@@ -16717,8 +16726,8 @@ references:
   URL: https://newfascismsyllabus.com/syllabus/interrogating-the-present/
 
 -
-  id: IowaCode717A.3A
-  citation-key: IowaCode717A.3A
+  id: IowaCode717A3A
+  citation-key: IowaCode717A3A
   container-title: Iowa Code
   issued:
     -
@@ -16729,8 +16738,8 @@ references:
   type: legislation
 
 -
-  id: IowaCode717A.3B
-  citation-key: IowaCode717A.3B
+  id: IowaCode717A3B
+  citation-key: IowaCode717A3B
   container-title: Iowa Code
   issued:
     -
@@ -16741,8 +16750,8 @@ references:
   type: legislation
 
 -
-  id: IowaCode727.8A
-  citation-key: IowaCode727.8A
+  id: IowaCode7278A
+  citation-key: IowaCode7278A
   container-title: Iowa Code
   issued:
     -
@@ -16824,13 +16833,13 @@ references:
   volume: '241'
 
 -
-  id: ItsTimeCall_CivilRightsCongress1950
+  id: ItsTimeCallHalt1950
   accessed:
     -
       year: 2026
       month: 2
       day: 9
-  citation-key: ItsTimeCall_CivilRightsCongress1950
+  citation-key: ItsTimeCallHalt1950
   issued:
     -
       year: 1950
@@ -16990,12 +16999,12 @@ references:
   type: legal_case
 
 -
-  id: Jarvis_PETAOtherAnimal_News&Observer2016
+  id: Jarvis2016
   author:
     -
       family: Jarvis
       given: Craig
-  citation-key: Jarvis_PETAOtherAnimal_News&Observer2016
+  citation-key: Jarvis2016
   container-title: News & Observer
   issued:
     -
@@ -17820,6 +17829,20 @@ references:
   URL: https://www.nytimes.com/2023/11/20/magazine/stay-pay-employer-contract.html
 
 -
+  id: Kaiser-Schatzlein2027
+  author:
+    -
+      family: Kaiser-Schatzlein
+      given: Robin
+  citation-key: Kaiser-Schatzlein2027
+  issued:
+    -
+      year: 2027
+  publisher: Harper Collins
+  title: 'Tyranny at Work: Unfreedom and the American Workplace'
+  type: book
+
+-
   id: Kalleberg2000
   author:
     -
@@ -17924,30 +17947,6 @@ references:
   type: legislation
 
 -
-  id: Kantorowicz_UnravellingtheRuleof2024
-  accessed:
-    -
-      year: 2025
-      month: 5
-      day: 8
-  author:
-    -
-      family: Kantorowicz
-      given: Jarosław
-    -
-      family: González-Bustamante
-      given: Bastián
-  citation-key: Kantorowicz_UnravellingtheRuleof2024
-  container-title: Unravelling the Rule of Law
-  issued:
-    -
-      year: 2024
-  language: en
-  title: Unravelling the Rule of Law
-  type: webpage
-  URL: https://rol-project.shinyapps.io/unravelling-rule-of-law/
-
--
   id: Kantorowicz2024
   accessed:
     -
@@ -17974,6 +17973,30 @@ references:
   title: Changing Meaning of the Rule of Law
   type: article
   URL: https://osf.io/2kzpj_v1
+
+-
+  id: Kantorowicz2024a
+  accessed:
+    -
+      year: 2025
+      month: 5
+      day: 8
+  author:
+    -
+      family: Kantorowicz
+      given: Jarosław
+    -
+      family: González-Bustamante
+      given: Bastián
+  citation-key: Kantorowicz2024a
+  container-title: Unravelling the Rule of Law
+  issued:
+    -
+      year: 2024
+  language: en
+  title: Unravelling the Rule of Law
+  type: webpage
+  URL: https://rol-project.shinyapps.io/unravelling-rule-of-law/
 
 -
   id: Karlip2013
@@ -18489,7 +18512,7 @@ references:
   URL: https://www.jstor.org/stable/j.ctvm7bbc1
 
 -
-  id: Khurana_nprorg2024
+  id: Khurana2024
   accessed:
     -
       year: 2024
@@ -18499,7 +18522,7 @@ references:
     -
       family: Khurana
       given: Mansee
-  citation-key: Khurana_nprorg2024
+  citation-key: Khurana2024
   container-title: npr.org
   issued:
     -
@@ -18597,7 +18620,7 @@ references:
   volume: '30'
 
 -
-  id: Kihss_RedBailJumpers_NewYorkTimes1952
+  id: Kihss1952
   accessed:
     -
       year: 2026
@@ -18607,7 +18630,7 @@ references:
     -
       family: Kihss
       given: Peter
-  citation-key: Kihss_RedBailJumpers_NewYorkTimes1952
+  citation-key: Kihss1952
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -18774,7 +18797,7 @@ references:
   volume: '130'
 
 -
-  id: Klein_RiseEndTimes_TheGuardian2025
+  id: Klein2025
   accessed:
     -
       year: 2025
@@ -18787,7 +18810,7 @@ references:
     -
       family: Taylor
       given: Astra
-  citation-key: Klein_RiseEndTimes_TheGuardian2025
+  citation-key: Klein2025
   container-title: The Guardian
   ISSN: 0261-3077
   issued:
@@ -18803,7 +18826,7 @@ references:
   URL: https://www.theguardian.com/us-news/ng-interactive/2025/apr/13/end-times-fascism-far-right-trump-musk
 
 -
-  id: Klenovsky_JewishHeritageEurope2019
+  id: Klenovsky2019
   accessed:
     -
       year: 2023
@@ -18813,7 +18836,7 @@ references:
     -
       family: Klenovský
       given: Jaroslav
-  citation-key: Klenovsky_JewishHeritageEurope2019
+  citation-key: Klenovsky2019
   container-title: Jewish Heritage Europe
   issued:
     -
@@ -19001,7 +19024,7 @@ references:
   volume: '75'
 
 -
-  id: Kosmyna_MITMediaLab2025
+  id: Kosmyna2025
   accessed:
     -
       year: 2026
@@ -19011,7 +19034,7 @@ references:
     -
       family: Kos'myna
       given: Nataliya
-  citation-key: Kosmyna_MITMediaLab2025
+  citation-key: Kosmyna2025
   container-title: MIT Media Lab
   issued:
     -
@@ -19025,7 +19048,7 @@ references:
   URL: https://www.media.mit.edu/publications/your-brain-on-chatgpt/
 
 -
-  id: Kovensky_TPM-TalkingPoints2025
+  id: Kovensky2025
   accessed:
     -
       year: 2025
@@ -19035,7 +19058,7 @@ references:
     -
       family: Kovensky
       given: Josh
-  citation-key: Kovensky_TPM-TalkingPoints2025
+  citation-key: Kovensky2025
   container-title: TPM – Talking Points Memo
   issued:
     -
@@ -19687,13 +19710,13 @@ references:
   volume: '582'
 
 -
-  id: LeftistUnitBalks1950
+  id: LeftistUnitBalksHouse1950
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: LeftistUnitBalks1950
+  citation-key: LeftistUnitBalksHouse1950
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -20111,6 +20134,33 @@ references:
   type: book
 
 -
+  id: Levin2013
+  accessed:
+    -
+      year: 2024
+      month: 2
+      day: 8
+  author:
+    -
+      family: Levin
+      given: Leslie C.
+    -
+      family: Zozula
+      given: Christine
+    -
+      family: Siegelman
+      given: Peter
+  citation-key: Levin2013
+  issued:
+    -
+      year: 2013
+  language: en
+  publisher: Law School Admissions Council
+  title: A Study of the Relationship Between Bar Admissions Data and Subsequent Lawyer Discipline (GR 13-01)
+  type: document
+  URL: https://www.lsac.org/data-research/research/study-relationship-between-bar-admissions-data-and-subsequent-lawyer
+
+-
   id: Levin2015
   author:
     -
@@ -20477,13 +20527,13 @@ references:
   volume: '72'
 
 -
-  id: LinkRedsCharged1954
+  id: LinkRedsChargedCivil1954
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: LinkRedsCharged1954
+  citation-key: LinkRedsChargedCivil1954
   container-title: New York Times
   issued:
     -
@@ -21218,6 +21268,40 @@ references:
   volume: '372'
 
 -
+  id: MacLeod2019
+  author:
+    -
+      family: MacLeod
+      given: Dag
+  citation-key: MacLeod2019
+  issued:
+    -
+      year: 2019
+      month: 11
+      day: 19
+  language: en
+  publisher: State Bar of California
+  title: Report on Disparities in the Discipline System
+  type: document
+
+-
+  id: MacLeod2020
+  author:
+    -
+      family: MacLeod
+      given: Dag
+  citation-key: MacLeod2020
+  issued:
+    -
+      year: 2020
+      month: 7
+      day: 16
+  language: en
+  publisher: State Bar of California
+  title: Consideration of Recommendations to Implement Changes to Address Key Findings of the Disparities in the Discipline System Study
+  type: document
+
+-
   id: Magner2024
   accessed:
     -
@@ -21852,13 +21936,13 @@ references:
   URL: https://www.courts.state.md.us/family/guardianship/attorneyguardians
 
 -
-  id: MassGeneralLaw-Part24L
+  id: MassGeneralLaw-PartITitleXXIChap14924L
   accessed:
     -
       year: 2025
       month: 11
       day: 22
-  citation-key: MassGeneralLaw-Part24L
+  citation-key: MassGeneralLaw-PartITitleXXIChap14924L
   container-title: General Law - Part I, Title XXI, Chap. 149
   container-title-short: Gen. Law - Part Title XXI Chap 149
   language: en
@@ -22199,7 +22283,7 @@ references:
   type: book
 
 -
-  id: May_nd
+  id: May2006
   accessed:
     -
       year: 2025
@@ -22209,7 +22293,10 @@ references:
     -
       family: May
       given: Christopher
-  citation-key: May_nd
+  citation-key: May2006
+  issued:
+    -
+      year: 2006
   language: en
   source: www.academia.edu
   title: 'The Rule of Law and its Discontents: Giorgio Agamben, and the state of exception from below'
@@ -22759,12 +22846,12 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.23
 
 -
-  id: McGee_CommunistsPlantedSouth_DurhamHerald-Sun1956
+  id: McGee1956
   author:
     -
       family: McGee
       given: Fred
-  citation-key: McGee_CommunistsPlantedSouth_DurhamHerald-Sun1956
+  citation-key: McGee1956
   container-title: Durham Herald-Sun
   issued:
     -
@@ -22893,13 +22980,13 @@ references:
   URL: https://finding-aids.lib.unc.edu/catalog/04990
 
 -
-  id: MeetingGardenScores1949
+  id: MeetingGardenScoresCourt1949
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: MeetingGardenScores1949
+  citation-key: MeetingGardenScoresCourt1949
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -22918,13 +23005,13 @@ references:
   URL: https://www.proquest.com/docview/105970130/abstract/C7C6757E0ED14FACPQ/21
 
 -
-  id: MeetingsPlannedHelp1948
+  id: MeetingsPlannedHelpRadicals1948
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: MeetingsPlannedHelp1948
+  citation-key: MeetingsPlannedHelpRadicals1948
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -23024,13 +23111,13 @@ references:
   volume: '50'
 
 -
-  id: MelishReversesPart1954
+  id: MelishReversesPartTestimony1954
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: MelishReversesPart1954
+  citation-key: MelishReversesPartTestimony1954
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -23281,7 +23368,7 @@ references:
   volume: '18'
 
 -
-  id: Meub_SixthCircuitStands_TheLegalIntelligencer2025
+  id: Meub2025
   accessed:
     -
       year: 2025
@@ -23291,7 +23378,7 @@ references:
     -
       family: Meub
       given: Janet
-  citation-key: Meub_SixthCircuitStands_TheLegalIntelligencer2025
+  citation-key: Meub2025
   container-title: The Legal Intelligencer
   issued:
     -
@@ -23475,7 +23562,7 @@ references:
   type: book
 
 -
-  id: Miles_LawfficeSpace2009
+  id: Miles2009
   accessed:
     -
       year: 2024
@@ -23485,7 +23572,7 @@ references:
     -
       family: Miles
       given: Philip K.
-  citation-key: Miles_LawfficeSpace2009
+  citation-key: Miles2009
   container-title: Lawffice Space
   issued:
     -
@@ -23826,7 +23913,7 @@ references:
   type: book
 
 -
-  id: Montague_TrumpsOrderTargeting_TheNewYorkTimes2025
+  id: Montague2025
   accessed:
     -
       year: 2025
@@ -23836,7 +23923,7 @@ references:
     -
       family: Montague
       given: Zach
-  citation-key: Montague_TrumpsOrderTargeting_TheNewYorkTimes2025
+  citation-key: Montague2025
   container-title: The New York Times
   ISSN: 0362-4331
   issued:
@@ -23852,24 +23939,24 @@ references:
   URL: https://www.nytimes.com/2025/05/02/us/politics/trump-law-firms.html
 
 -
-  id: MontCodeAnn39-2-901etseq
-  citation-key: MontCodeAnn39-2-901etseq
+  id: MontCodeAnn39-2-901
+  citation-key: MontCodeAnn39-2-901
   container-title: Code Ann.
   language: en
-  section: 39-2-901 et seq.
+  section: 39-2-901
   title: Montana Wrongful Discharge from Employment Act
   type: legislation
   volume: Mont.
 
 -
-  id: MontCodeAnn81-30-101etseq.
-  citation-key: MontCodeAnn81-30-101etseq.
+  id: MontCodeAnn81-30-101
+  citation-key: MontCodeAnn81-30-101
   container-title: Mont. Code Ann.
   issued:
     -
       year: 1991
   language: en
-  section: 81-30-101 et seq.
+  section: 81-30-101
   title: Montana Farm Animal and Research Facility Protection Act
   type: legislation
 
@@ -24079,13 +24166,13 @@ references:
   type: book
 
 -
-  id: MoRevStat261.099
+  id: MoRevStat261099
   accessed:
     -
       year: 2023
       month: 3
       day: 2
-  citation-key: MoRevStat261.099
+  citation-key: MoRevStat261099
   container-title: Mo. Rev. Stat.
   issued:
     -
@@ -24096,9 +24183,9 @@ references:
   type: legislation
 
 -
-  id: MoRevStat578.013.1
+  id: MoRevStat5780131
   chapter-number: '2012'
-  citation-key: MoRevStat578.013.1
+  citation-key: MoRevStat5780131
   container-title: Mo. Rev. Stat.
   issued:
     -
@@ -24109,13 +24196,13 @@ references:
   type: legislation
 
 -
-  id: MoRevStat578.405
+  id: MoRevStat578405
   accessed:
     -
       year: 2023
       month: 3
       day: 2
-  citation-key: MoRevStat578.405
+  citation-key: MoRevStat578405
   container-title: Mo. Rev. Stat.
   issued:
     -
@@ -25019,6 +25106,32 @@ references:
   volume: '30'
 
 -
+  id: Narayanan2024
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 21
+  author:
+    -
+      family: Narayanan
+      given: Arvind
+    -
+      family: Kapoor
+      given: Sayash
+  citation-key: Narayanan2024
+  ISBN: 978-0-691-24913-1
+  issued:
+    -
+      year: 2024
+      month: 9
+      day: 24
+  publisher: Princeton University Press
+  title: 'AI Snake Oil: What Artificial Intelligence Can Do, What It Can''t, and How to Tell the Difference'
+  title-short: AI Snake Oil
+  type: book
+
+-
   id: NationalAgriculturalLawCenter2021
   accessed:
     -
@@ -25145,6 +25258,16 @@ references:
   volume: N.C.
 
 -
+  id: NCGenStat7A-759
+  citation-key: NCGenStat7A-759
+  container-title: Gen. Stat.
+  language: en
+  section: 7A-759
+  title: Office of Administrative Hearings--Role as Deferral Agency
+  type: legislation
+  volume: N.C.
+
+-
   id: NCGenStat84-2.1
   citation-key: NCGenStat84-2.1
   container-title: Gen. Stat.
@@ -25165,21 +25288,21 @@ references:
   volume: N.C.
 
 -
-  id: NCGenStat95-240etseq
-  citation-key: NCGenStat95-240etseq
+  id: NCGenStat95-240
+  citation-key: NCGenStat95-240
   container-title: Gen. Stat.
   language: en
-  section: 95-240 et seq.
+  section: 95-240
   title: North Carolina Retaliatory Employment Discrimination Act
   type: legislation
   volume: N.C.
 
 -
-  id: NCGenStat95-251etseq
-  citation-key: NCGenStat95-251etseq
+  id: NCGenStat95-251
+  citation-key: NCGenStat95-251
   container-title: Gen. Stat.
   language: en
-  section: 95-25.1 et seq.
+  section: 95-25.1
   title: North Carolina Wage & Hour Act
   type: legislation
   volume: N.C.
@@ -25195,21 +25318,21 @@ references:
   volume: N.C.
 
 -
-  id: NCGenStat96-1etseq
-  citation-key: NCGenStat96-1etseq
+  id: NCGenStat96-1
+  citation-key: NCGenStat96-1
   container-title: Gen. Stat.
   language: en
-  section: 96-1 et seq.
+  section: 96-1
   title: North Carolina Employment Security Act
   type: legislation
   volume: N.C.
 
 -
-  id: NCGenStat97-1etseq
-  citation-key: NCGenStat97-1etseq
+  id: NCGenStat97-1
+  citation-key: NCGenStat97-1
   container-title: Gen. Stat.
   language: en
-  section: 97-1 et seq.
+  section: 97-1
   title: North Carolina Workers' Compensation Act
   type: legislation
   volume: N.C.
@@ -25243,16 +25366,6 @@ references:
   language: en
   section: § 96-1 et seq.
   title: North Carolina Employment Security Law
-  type: legislation
-  volume: N.C.
-
--
-  id: NCGS7A-759
-  citation-key: NCGS7A-759
-  container-title: Gen. Stat.
-  language: en
-  section: 7A-759
-  title: Office of Administrative Hearings--Role as Deferral Agency
   type: legislation
   volume: N.C.
 
@@ -25317,8 +25430,8 @@ references:
   volume: '990'
 
 -
-  id: NDCentCode12.1-21.1-01
-  citation-key: NDCentCode12.1-21.1-01
+  id: NDCentCode121-211-01
+  citation-key: NDCentCode121-211-01
   container-title: N.D. Cent. Code
   issued:
     -
@@ -25570,8 +25683,8 @@ references:
   volume: '62'
 
 -
-  id: NewTrialAwaits1954
-  citation-key: NewTrialAwaits1954
+  id: NewTrialAwaitsPotash1954
+  citation-key: NewTrialAwaitsPotash1954
   container-title: National Guardian
   issued:
     -
@@ -25932,6 +26045,21 @@ references:
   type: legal_case
 
 -
+  id: NorthCarolinaStateBar2024
+  author:
+    -
+      family: North Carolina State Bar
+      given: ''
+  citation-key: NorthCarolinaStateBar2024
+  issued:
+    -
+      year: 2024
+  language: en
+  publisher: North Carolina State Bar
+  title: The 2024 Lawyer's Handbook
+  type: document
+
+-
   id: NowakMajorLeagueSoccer_EDPa2015
   authority: E.D. Pa.
   citation-key: NowakMajorLeagueSoccer_EDPa2015
@@ -25997,15 +26125,15 @@ references:
   volume: N.Y.
 
 -
-  id: NYLab1050etseq
-  citation-key: NYLab1050etseq
+  id: NYLab1050
+  citation-key: NYLab1050
   container-title: Lab.
   container-title-short: Lab.
   issued:
     -
       year: 2025
   language: en
-  section: 1050 et seq.
+  section: '1050'
   title: Trapped at Work Act
   type: legislation
   volume: N.Y.
@@ -26022,13 +26150,13 @@ references:
   volume: N.Y.
 
 -
-  id: NYLabSS593
+  id: NYLab593
   accessed:
     -
       year: 2024
       month: 4
       day: 12
-  citation-key: NYLabSS593
+  citation-key: NYLab593
   container-title: Lab.
   container-title-short: Lab.
   language: en
@@ -26093,7 +26221,7 @@ references:
   volume: '25'
 
 -
-  id: OBrien_EmploymentCommissionChair_TheNewYorkTimes2026
+  id: OBrien2026
   accessed:
     -
       year: 2026
@@ -26103,7 +26231,7 @@ references:
     -
       family: O’Brien
       given: Rebecca Davis
-  citation-key: OBrien_EmploymentCommissionChair_TheNewYorkTimes2026
+  citation-key: OBrien2026
   container-title: The New York Times
   ISSN: 0362-4331
   issued:
@@ -26119,7 +26247,7 @@ references:
   URL: https://www.nytimes.com/2026/01/27/us/politics/eocc-dei-employment-discrimination.html
 
 -
-  id: OBrien_NikeAccusedBias_TheNewYorkTimes2026
+  id: OBrien2026a
   accessed:
     -
       year: 2026
@@ -26132,7 +26260,7 @@ references:
     -
       family: Bhasin
       given: Kim
-  citation-key: OBrien_NikeAccusedBias_TheNewYorkTimes2026
+  citation-key: OBrien2026a
   container-title: The New York Times
   ISSN: 0362-4331
   issued:
@@ -26284,7 +26412,7 @@ references:
   volume: '349'
 
 -
-  id: Olivares_TrumpOfficialsCreated_TheGuardian2025
+  id: Olivares2025
   accessed:
     -
       year: 2025
@@ -26294,7 +26422,7 @@ references:
     -
       family: Olivares
       given: José
-  citation-key: Olivares_TrumpOfficialsCreated_TheGuardian2025
+  citation-key: Olivares2025
   container-title: The Guardian
   ISSN: 0261-3077
   issued:
@@ -26409,7 +26537,7 @@ references:
   volume: '1'
 
 -
-  id: ORourke_NationalEmploymentLawProject2025
+  id: ORourke2025
   accessed:
     -
       year: 2025
@@ -26419,7 +26547,7 @@ references:
     -
       family: O’Rourke
       given: Flannery
-  citation-key: ORourke_NationalEmploymentLawProject2025
+  citation-key: ORourke2025
   container-title: National Employment Law Project
   issued:
     -
@@ -26583,7 +26711,7 @@ references:
   volume: '69'
 
 -
-  id: Pace_NYStateBarAssociation2023
+  id: Pace2023
   accessed:
     -
       year: 2024
@@ -26593,7 +26721,7 @@ references:
     -
       family: Pace
       given: Joseph
-  citation-key: Pace_NYStateBarAssociation2023
+  citation-key: Pace2023
   container-title: NY State Bar Association
   issued:
     -
@@ -27108,7 +27236,7 @@ references:
   volume: '85'
 
 -
-  id: Perez_EconomicPolicyInstitute2023
+  id: Perez2023
   accessed:
     -
       year: 2023
@@ -27121,7 +27249,7 @@ references:
     -
       family: Sherer
       given: Jennifer
-  citation-key: Perez_EconomicPolicyInstitute2023
+  citation-key: Perez2023
   container-title: Economic Policy Institute
   issued:
     -
@@ -27386,7 +27514,7 @@ references:
   type: book
 
 -
-  id: Piccone_Brookings2023
+  id: Piccone2023
   accessed:
     -
       year: 2025
@@ -27396,7 +27524,7 @@ references:
     -
       family: Piccone
       given: Ted
-  citation-key: Piccone_Brookings2023
+  citation-key: Piccone2023
   container-title: Brookings
   issued:
     -
@@ -27818,7 +27946,7 @@ references:
   volume: '690'
 
 -
-  id: Porter_Bail14Reds_NewYorkTimes1951
+  id: Porter1951
   accessed:
     -
       year: 2026
@@ -27828,7 +27956,7 @@ references:
     -
       family: Porter
       given: Russell
-  citation-key: Porter_Bail14Reds_NewYorkTimes1951
+  citation-key: Porter1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -27847,7 +27975,7 @@ references:
   URL: https://www.proquest.com/docview/112192045/abstract/C7C6757E0ED14FACPQ/34
 
 -
-  id: Porter_GrandJurySifts_NewYorkTimes1951
+  id: Porter1951a
   accessed:
     -
       year: 2026
@@ -27857,7 +27985,7 @@ references:
     -
       family: Porter
       given: Russell
-  citation-key: Porter_GrandJurySifts_NewYorkTimes1951
+  citation-key: Porter1951a
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -27876,7 +28004,7 @@ references:
   URL: https://www.proquest.com/docview/111886231/abstract/7E17A7CC8C0844C5PQ/1
 
 -
-  id: Porter_RedBailFund_NewYorkTimes1951
+  id: Porter1951b
   accessed:
     -
       year: 2026
@@ -27886,7 +28014,7 @@ references:
     -
       family: Porter
       given: Russell
-  citation-key: Porter_RedBailFund_NewYorkTimes1951
+  citation-key: Porter1951b
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28204,13 +28332,13 @@ references:
   volume: '19'
 
 -
-  id: PregnancyDiscriminationPregnancyRelated_nd
+  id: PregnancyDiscriminationPregnancyRelatedDisability_nd
   accessed:
     -
       year: 2026
       month: 1
       day: 5
-  citation-key: PregnancyDiscriminationPregnancyRelated_nd
+  citation-key: PregnancyDiscriminationPregnancyRelatedDisability_nd
   container-title: U.S. Equal Employment Opportunity Commission
   language: en
   title: Pregnancy Discrimination and Pregnancy-Related Disability Discrimination
@@ -28218,7 +28346,7 @@ references:
   URL: https://www.eeoc.gov/pregnancy-discrimination
 
 -
-  id: Press_AntiRedBillsHeld_TheWashingtonPost1950
+  id: Press1950
   accessed:
     -
       year: 2026
@@ -28228,7 +28356,7 @@ references:
     -
       family: Press
       given: The Associated
-  citation-key: Press_AntiRedBillsHeld_TheWashingtonPost1950
+  citation-key: Press1950
   container-title: The Washington Post
   issued:
     -
@@ -28246,7 +28374,7 @@ references:
   URL: https://www.proquest.com/docview/152222640/abstract/C7C6757E0ED14FACPQ/65
 
 -
-  id: Press_CivilRightsAide_TheWashingtonPost1950
+  id: Press1950a
   accessed:
     -
       year: 2026
@@ -28256,7 +28384,7 @@ references:
     -
       family: Press
       given: The Associated
-  citation-key: Press_CivilRightsAide_TheWashingtonPost1950
+  citation-key: Press1950a
   container-title: The Washington Post
   issued:
     -
@@ -28274,7 +28402,7 @@ references:
   URL: https://www.proquest.com/docview/152265512/abstract/C7C6757E0ED14FACPQ/66
 
 -
-  id: Press_ContemptCaseHead_TheWashingtonPost1952
+  id: Press1952
   accessed:
     -
       year: 2026
@@ -28284,7 +28412,7 @@ references:
     -
       family: Press
       given: the United
-  citation-key: Press_ContemptCaseHead_TheWashingtonPost1952
+  citation-key: Press1952
   container-title: The Washington Post
   issued:
     -
@@ -28302,13 +28430,13 @@ references:
   URL: https://www.proquest.com/docview/152422132/abstract/C7C6757E0ED14FACPQ/70
 
 -
-  id: ProRedUnitGets1950
+  id: ProRedUnitGetsBid1950
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: ProRedUnitGets1950
+  citation-key: ProRedUnitGetsBid1950
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28327,7 +28455,7 @@ references:
   URL: https://www.proquest.com/docview/111601761/citation/C7C6757E0ED14FACPQ/13
 
 -
-  id: Proyect_LouisProyect_nd
+  id: Proyect_nd
   accessed:
     -
       year: 2025
@@ -28337,7 +28465,7 @@ references:
     -
       family: Proyect
       given: Louis
-  citation-key: Proyect_LouisProyect_nd
+  citation-key: Proyect_nd
   container-title: Louis Proyect
   language: en
   title: Junius Scales
@@ -28503,26 +28631,7 @@ references:
   type: book
 
 -
-  id: PWFA_2023
-  accessed:
-    -
-      year: 2026
-      month: 1
-      day: 5
-  citation-key: PWFA_2023
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    -
-      year: 2023
-  language: en
-  section: 2000gg
-  title: Pregnant Workers Fairness Act
-  type: legislation
-  volume: '42'
-
--
-  id: Quan_OgletreeDeakins2025
+  id: Quan2025
   accessed:
     -
       year: 2025
@@ -28535,7 +28644,7 @@ references:
     -
       family: Tompkins-Payton
       given: Lauren
-  citation-key: Quan_OgletreeDeakins2025
+  citation-key: Quan2025
   container-title: Ogletree Deakins
   issued:
     -
@@ -28638,6 +28747,29 @@ references:
   title: Ethical Ramifications of Representing Clients with Diminished Capacity
   type: chapter
   URL: https://1.next.westlaw.com/Document/Ib0ee3c79987811e7a95df6c70968b893/View/FullText.html?navigationPath=%2FRelatedInfo%2Fv1%2FkcCitingReferences%2Fnav%3FdocGuid%3DI4f99526f101511df8bf6cd8525c41437%26midlineIndex%3D1%26warningFlag%3DN%26planIcons%3DNO%26skipOutOfPlan%3DNO%26sort%3Ddepthdesc%26filterGuid%3Dh41554ea1965e1d2fac01b1e102fb72a7%26category%3DkcCitingReferences%26origRank%3D1%26origDocSource%3D0a2c6c110d4b4fad977bf8b6e250ae0c&listSource=RelatedInfo&list=CitingReferences&rank=1&docFamilyGuid=I7ff76042987a11e78bb0f8ae070ce6ae&overruleRisk=true&ppcid=45a60312225c4ac08b08d2c673e50e3d&originationContext=citingreferences&transitionType=CitingReferencesItem&contextData=%28sc.CustomDigest%29
+
+-
+  id: Radford2023a
+  accessed:
+    -
+      year: 2024
+      month: 7
+      day: 9
+  author:
+    -
+      family: Radford
+      given: Mary F.
+  citation-key: Radford2023a
+  issued:
+    -
+      year: 2023
+      month: 10
+      day: 5
+  language: en
+  publisher: American Law Institute
+  title: Recognizing and Representing Clients Whose Capacity Is Diminishing
+  type: document
+  URL: https://1.next.westlaw.com/Link/Document/FullText?findType=1&serNum=538488608&pubNum=221328&docFamilyGuid=I8e692aa46fd811ee9a74da00493f7f2b&originationContext=citingreferences&list=CitingReferences&navigationPath=%2FRelatedInfo%2Fv1%2FkcCitingReferences%2Fnav%3FdocGuid%3DI4f99526f101511df8bf6cd8525c41437%26midlineIndex%3D15%26warningFlag%3DN%26planIcons%3DNO%26skipOutOfPlan%3DNO%26sort%3Ddepthdesc%26filterGuid%3Dh41554ea1965e1d2fac01b1e102fb72a7%26category%3DkcCitingReferences%26origRank%3D1%26origDocSource%3D0a2c6c110d4b4fad977bf8b6e250ae0c&listSource=RelatedInfo&rank=15&contextData=%28sc.CustomDigest%29&transitionType=CitingReferencesItem&ppcid=45a60312225c4ac08b08d2c673e50e3d
 
 -
   id: Radomski2001
@@ -28767,29 +28899,6 @@ references:
   volume: '688'
 
 -
-  id: RecognizingRepresentingClients_Radford2023
-  accessed:
-    -
-      year: 2024
-      month: 7
-      day: 9
-  author:
-    -
-      family: Radford
-      given: Mary F.
-  citation-key: RecognizingRepresentingClients_Radford2023
-  issued:
-    -
-      year: 2023
-      month: 10
-      day: 5
-  language: en
-  publisher: American Law Institute
-  title: Recognizing and Representing Clients Whose Capacity Is Diminishing
-  type: document
-  URL: https://1.next.westlaw.com/Link/Document/FullText?findType=1&serNum=538488608&pubNum=221328&docFamilyGuid=I8e692aa46fd811ee9a74da00493f7f2b&originationContext=citingreferences&list=CitingReferences&navigationPath=%2FRelatedInfo%2Fv1%2FkcCitingReferences%2Fnav%3FdocGuid%3DI4f99526f101511df8bf6cd8525c41437%26midlineIndex%3D15%26warningFlag%3DN%26planIcons%3DNO%26skipOutOfPlan%3DNO%26sort%3Ddepthdesc%26filterGuid%3Dh41554ea1965e1d2fac01b1e102fb72a7%26category%3DkcCitingReferences%26origRank%3D1%26origDocSource%3D0a2c6c110d4b4fad977bf8b6e250ae0c&listSource=RelatedInfo&rank=15&contextData=%28sc.CustomDigest%29&transitionType=CitingReferencesItem&ppcid=45a60312225c4ac08b08d2c673e50e3d
-
--
   id: ReConverse_Neb1999
   authority: Neb.
   citation-key: ReConverse_Neb1999
@@ -28822,13 +28931,13 @@ references:
   volume: '786'
 
 -
-  id: RedBailBooks1951
+  id: RedBailBooksGo1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: RedBailBooks1951
+  citation-key: RedBailBooksGo1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28847,13 +28956,13 @@ references:
   URL: https://www.proquest.com/docview/112085200/abstract/347481120A7441B1PQ/1
 
 -
-  id: RedBailSource1956
+  id: RedBailSourceDecides1956
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: RedBailSource1956
+  citation-key: RedBailSourceDecides1956
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28872,13 +28981,13 @@ references:
   URL: https://www.proquest.com/docview/113619193/abstract/C7C6757E0ED14FACPQ/18
 
 -
-  id: RedBailUnit1951
+  id: RedBailUnitCalls1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: RedBailUnit1951
+  citation-key: RedBailUnitCalls1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28911,13 +29020,13 @@ references:
   volume: '126'
 
 -
-  id: RedLeaderNears1951
+  id: RedLeaderNearsRemoval1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: RedLeaderNears1951
+  citation-key: RedLeaderNearsRemoval1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -28936,13 +29045,13 @@ references:
   URL: https://www.proquest.com/docview/111884399/abstract/9AB713886A4D41F2PQ/1
 
 -
-  id: RedOutlawBill1954
+  id: RedOutlawBillScored1954
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: RedOutlawBill1954
+  citation-key: RedOutlawBillScored1954
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -29216,7 +29325,7 @@ references:
   volume: '523'
 
 -
-  id: Renton_Spectre2025
+  id: Renton2025
   accessed:
     -
       year: 2025
@@ -29226,7 +29335,7 @@ references:
     -
       family: Renton
       given: D.K.
-  citation-key: Renton_Spectre2025
+  citation-key: Renton2025
   container-title: Spectre
   issued:
     -
@@ -29239,13 +29348,13 @@ references:
   URL: https://spectrejournal.com/trump-fascism-and-the-authoritarian-turn/
 
 -
-  id: RepealGagLaw_CivilRightsCongress1954
+  id: RepealGagLaw1954
   accessed:
     -
       year: 2026
       month: 2
       day: 9
-  citation-key: RepealGagLaw_CivilRightsCongress1954
+  citation-key: RepealGagLaw1954
   issued:
     -
       year: 1954
@@ -29254,23 +29363,6 @@ references:
   title: Repeal the Gag Law!
   type: document
   URL: https://www.crmvet.org/docs/540000_crc_cca.pdf
-
--
-  id: ReportDisparitiesDiscipline_MacLeod2019
-  author:
-    -
-      family: MacLeod
-      given: Dag
-  citation-key: ReportDisparitiesDiscipline_MacLeod2019
-  issued:
-    -
-      year: 2019
-      month: 11
-      day: 19
-  language: en
-  publisher: State Bar of California
-  title: Report on Disparities in the Discipline System
-  type: document
 
 -
   id: RepresentationPartiesCommercialReal_NCStateBar2015
@@ -29445,23 +29537,6 @@ references:
   volume: '983'
 
 -
-  id: RestatementEmploymentLaw
-  accessed:
-    -
-      year: 2023
-      month: 2
-      day: 28
-  citation-key: RestatementEmploymentLaw
-  genre: Restatement of Employment Law
-  issued:
-    -
-      year: 2015
-  language: en
-  publisher: American Law Institute
-  title: Employee Duty of Loyalty to the Employer
-  type: standard
-
--
   id: RetailPropertyTrustUnited_9thCir2014
   authority: 9th Cir.
   citation-key: RetailPropertyTrustUnited_9thCir2014
@@ -29560,13 +29635,13 @@ references:
   type: legal_case
 
 -
-  id: RightsCongressFaces1955
+  id: RightsCongressFacesNew1955
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: RightsCongressFaces1955
+  citation-key: RightsCongressFacesNew1955
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -29585,13 +29660,13 @@ references:
   URL: https://www.proquest.com/docview/113468515/abstract/C7C6757E0ED14FACPQ/63
 
 -
-  id: RightsGroupBail1951
+  id: RightsGroupBailVoided1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: RightsGroupBail1951
+  citation-key: RightsGroupBailVoided1951
   container-title: The Washington Post
   issued:
     -
@@ -29656,7 +29731,7 @@ references:
   volume: '46'
 
 -
-  id: Robinson_INDYWeek2002
+  id: Robinson2002
   accessed:
     -
       year: 2025
@@ -29666,7 +29741,7 @@ references:
     -
       family: Robinson
       given: Matt
-  citation-key: Robinson_INDYWeek2002
+  citation-key: Robinson2002
   container-title: INDY Week
   issued:
     -
@@ -29702,13 +29777,13 @@ references:
   URL: www.jstor.org/stable/27672355
 
 -
-  id: RoggeFilesLien1952
+  id: RoggeFilesLienRed1952
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: RoggeFilesLien1952
+  citation-key: RoggeFilesLienRed1952
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -29727,13 +29802,13 @@ references:
   URL: https://www.proquest.com/docview/112568808/abstract/C5E225B0EA54EAFPQ/1
 
 -
-  id: RoggeLosesSuit1952
+  id: RoggeLosesSuitFee1952
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: RoggeLosesSuit1952
+  citation-key: RoggeLosesSuitFee1952
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -29752,13 +29827,13 @@ references:
   URL: https://www.proquest.com/docview/112381797/citation/55BEF8A092084795PQ/1
 
 -
-  id: RootedResilienceRising_nd
+  id: RootedResilienceRisingTogether_nd
   accessed:
     -
       year: 2025
       month: 9
       day: 24
-  citation-key: RootedResilienceRising_nd
+  citation-key: RootedResilienceRisingTogether_nd
   container-title: ACLU of North Carolina
   language: en
   title: 'Rooted in Resilience: Rising Together'
@@ -29948,13 +30023,13 @@ references:
   URL: https://papers.ssrn.com/abstract=4381417
 
 -
-  id: RPC157Representing_NCStateBar1993
+  id: RPC157RepresentingClient1993
   accessed:
     -
       year: 2024
       month: 7
       day: 9
-  citation-key: RPC157Representing_NCStateBar1993
+  citation-key: RPC157RepresentingClient1993
   issued:
     -
       year: 1993
@@ -29967,13 +30042,13 @@ references:
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/rpc-157/
 
 -
-  id: RPC163Request_NCStateBar1994
+  id: RPC163RequestIndependent1994
   accessed:
     -
       year: 2024
       month: 7
       day: 9
-  citation-key: RPC163Request_NCStateBar1994
+  citation-key: RPC163RequestIndependent1994
   issued:
     -
       year: 1994
@@ -29986,13 +30061,13 @@ references:
   URL: https://www.ncbar.gov/for-lawyers/ethics/adopted-opinions/rpc-163/
 
 -
-  id: RPC249Communnication_NCStateBar1997
+  id: RPC249CommunnicationChild1997
   accessed:
     -
       year: 2024
       month: 7
       day: 9
-  citation-key: RPC249Communnication_NCStateBar1997
+  citation-key: RPC249CommunnicationChild1997
   issued:
     -
       year: 1997
@@ -30171,29 +30246,6 @@ references:
   volume: '412'
 
 -
-  id: Salter_BlackPastorg2007
-  accessed:
-    -
-      year: 2026
-      month: 1
-      day: 8
-  author:
-    -
-      family: Salter
-      given: Daren
-  citation-key: Salter_BlackPastorg2007
-  container-title: BlackPast.org
-  issued:
-    -
-      year: 2007
-      month: 3
-      day: 13
-  language: en
-  title: Civil Rights Congress (1946-1956)
-  type: post-weblog
-  URL: https://blackpast.org/african-american-history/civil-rights-congress-1946-1956/
-
--
   id: Salter1999
   accessed:
     -
@@ -30218,6 +30270,29 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/respub5&i=161
   volume: '5'
+
+-
+  id: Salter2007
+  accessed:
+    -
+      year: 2026
+      month: 1
+      day: 8
+  author:
+    -
+      family: Salter
+      given: Daren
+  citation-key: Salter2007
+  container-title: BlackPast.org
+  issued:
+    -
+      year: 2007
+      month: 3
+      day: 13
+  language: en
+  title: Civil Rights Congress (1946-1956)
+  type: post-weblog
+  URL: https://blackpast.org/african-american-history/civil-rights-congress-1946-1956/
 
 -
   id: Salvatore2007
@@ -30494,12 +30569,12 @@ references:
   volume: '10'
 
 -
-  id: Scales_NoPlaceBrain_DailyWorker1956
+  id: Scales1956
   author:
     -
       family: Scales
       given: Junius
-  citation-key: Scales_NoPlaceBrain_DailyWorker1956
+  citation-key: Scales1956
   container-title: Daily Worker
   issued:
     -
@@ -30744,30 +30819,6 @@ references:
   URL: https://verfassungsblog.de/trumps-counter-constitution/
 
 -
-  id: Scheuerman_DemocracySeminar2021
-  accessed:
-    -
-      year: 2025
-      month: 4
-      day: 18
-  author:
-    -
-      family: Scheuerman
-      given: William E.
-  citation-key: Scheuerman_DemocracySeminar2021
-  container-title: Democracy Seminar
-  issued:
-    -
-      year: 2021
-      month: 2
-      day: 17
-  language: en
-  title: Carl Schmitt’s Comeback?
-  title-short: Carl Schmitt’s Comeback?
-  type: post-weblog
-  URL: https://democracyseminar.newschool.org/essays/carl-schmitts-comeback/
-
--
   id: Scheuerman1996
   accessed:
     -
@@ -30794,6 +30845,27 @@ references:
 
 -
   id: Scheuerman1997
+  author:
+    -
+      family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman1997
+  ISBN: 978-0-262-69196-3
+  issued:
+    -
+      year: 1997
+      month: 1
+      day: 22
+  language: en
+  number-of-pages: '348'
+  publisher: MIT Press
+  source: Google Books
+  title: 'Between the Norm and the Exception: the Frankfurt School and the Rule of Law'
+  title-short: Between the norm and the exception
+  type: book
+
+-
+  id: Scheuerman1997a
   accessed:
     -
       year: 2025
@@ -30803,7 +30875,7 @@ references:
     -
       family: Scheuerman
       given: William E.
-  citation-key: Scheuerman1997
+  citation-key: Scheuerman1997a
   container-title: Cardozo Law Review
   container-title-short: Cardozo Law Rev.
   issue: '5'
@@ -30820,27 +30892,6 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/cdozo19&i=1767
   volume: '19'
-
--
-  id: Scheuerman1997a
-  author:
-    -
-      family: Scheuerman
-      given: William E.
-  citation-key: Scheuerman1997a
-  ISBN: 978-0-262-69196-3
-  issued:
-    -
-      year: 1997
-      month: 1
-      day: 22
-  language: en
-  number-of-pages: '348'
-  publisher: MIT Press
-  source: Google Books
-  title: 'Between the Norm and the Exception: the Frankfurt School and the Rule of Law'
-  title-short: Between the norm and the exception
-  type: book
 
 -
   id: Scheuerman1997b
@@ -31093,6 +31144,30 @@ references:
   URL: https://verfassungsblog.de/schmittian-instincts-at-odds-with-neoliberalism/
 
 -
+  id: Scheuerman2021
+  accessed:
+    -
+      year: 2025
+      month: 4
+      day: 18
+  author:
+    -
+      family: Scheuerman
+      given: William E.
+  citation-key: Scheuerman2021
+  container-title: Democracy Seminar
+  issued:
+    -
+      year: 2021
+      month: 2
+      day: 17
+  language: en
+  title: Carl Schmitt’s Comeback?
+  title-short: Carl Schmitt’s Comeback?
+  type: post-weblog
+  URL: https://democracyseminar.newschool.org/essays/carl-schmitts-comeback/
+
+-
   id: Scheuerman2023
   author:
     -
@@ -31300,36 +31375,6 @@ references:
   type: book
 
 -
-  id: Schwartz_JudgesWorryTrump_TheNewYorkTimes2025
-  accessed:
-    -
-      year: 2025
-      month: 5
-      day: 11
-  author:
-    -
-      family: Schwartz
-      given: Mattathias
-    -
-      family: issues
-      given: Emily Bazelon Mattathias Schwartz reports on the federal judiciary from Philadelphia Emily Bazelon
-      dropping-particle: is a staff writer for the magazine who covers legal
-  citation-key: Schwartz_JudgesWorryTrump_TheNewYorkTimes2025
-  container-title: The New York Times
-  ISSN: 0362-4331
-  issued:
-    -
-      year: 2025
-      month: 4
-      day: 25
-  language: en
-  section: U.S.
-  source: NYTimes.com
-  title: Judges Worry Trump Could Tell U.S. Marshals to Stop Protecting Them
-  type: article-newspaper
-  URL: https://www.nytimes.com/2025/04/25/us/politics/trump-judges-marshals-threats.html
-
--
   id: Schwartz1995
   author:
     -
@@ -31416,6 +31461,36 @@ references:
   title: 'Just Cause: a Union Guide to Winning Discipline Cases by Robert M. Schwartz'
   title-short: Just cause
   type: book
+
+-
+  id: Schwartz2025
+  accessed:
+    -
+      year: 2025
+      month: 5
+      day: 11
+  author:
+    -
+      family: Schwartz
+      given: Mattathias
+    -
+      family: issues
+      given: Emily Bazelon Mattathias Schwartz reports on the federal judiciary from Philadelphia Emily Bazelon
+      dropping-particle: is a staff writer for the magazine who covers legal
+  citation-key: Schwartz2025
+  container-title: The New York Times
+  ISSN: 0362-4331
+  issued:
+    -
+      year: 2025
+      month: 4
+      day: 25
+  language: en
+  section: U.S.
+  source: NYTimes.com
+  title: Judges Worry Trump Could Tell U.S. Marshals to Stop Protecting Them
+  type: article-newspaper
+  URL: https://www.nytimes.com/2025/04/25/us/politics/trump-judges-marshals-threats.html
 
 -
   id: Scott1987
@@ -32026,7 +32101,7 @@ references:
   volume: '4'
 
 -
-  id: Silber_TheConversation2024
+  id: Silber2024
   accessed:
     -
       year: 2026
@@ -32036,7 +32111,7 @@ references:
     -
       family: Silber
       given: Nina
-  citation-key: Silber_TheConversation2024
+  citation-key: Silber2024
   container-title: The Conversation
   DOI: 10.64628/AAI.n9c7tjes6
   issued:
@@ -32475,8 +32550,27 @@ references:
   author:
     -
       family: Smith
-      given: Rebecca
+      given: Robert Samuel
   citation-key: Smith2008
+  ISBN: 978-0-8071-3363-7
+  issued:
+    -
+      year: 2008
+  language: en
+  number-of-pages: '248'
+  publisher: LSU Press
+  publisher-place: Baton Rouge
+  title: 'Race, Labor, and Civil Rights: Griggs Versus Duke Power and the Struggle for Equal Employment Opportunity'
+  title-short: Race, labor, and civil rights
+  type: book
+
+-
+  id: Smith2008a
+  author:
+    -
+      family: Smith
+      given: Rebecca
+  citation-key: Smith2008a
   container-title: Social Indicators Research
   container-title-short: Soc. Indic. Res.
   ISSN: 0303-8300
@@ -32492,25 +32586,6 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/27734694
   volume: '88'
-
--
-  id: Smith2008a
-  author:
-    -
-      family: Smith
-      given: Robert Samuel
-  citation-key: Smith2008a
-  ISBN: 978-0-8071-3363-7
-  issued:
-    -
-      year: 2008
-  language: en
-  number-of-pages: '248'
-  publisher: LSU Press
-  publisher-place: Baton Rouge
-  title: 'Race, Labor, and Civil Rights: Griggs Versus Duke Power and the Struggle for Equal Employment Opportunity'
-  title-short: Race, labor, and civil rights
-  type: book
 
 -
   id: Smith2013
@@ -32545,21 +32620,6 @@ references:
   number: 54 Stat. 670-71
   title: Smith Act
   type: legislation
-
--
-  id: SmithActAmendment1948
-  citation-key: SmithActAmendment1948
-  container-title: U.S.C.
-  container-title-short: U.S.C.
-  issued:
-    -
-      year: 1948
-  language: en
-  number: 62 Stat. 808
-  section: '2385'
-  title: Smith Act (Amendment)
-  type: legislation
-  volume: '18'
 
 -
   id: SmithManheimRemarketingInc_WDNC2019
@@ -32756,7 +32816,7 @@ references:
   URL: https://vjel.vermontlaw.edu/wyomings-data-trespass-laws-trample-first-amendment-rights-preview
 
 -
-  id: Sorg_ThePulse2023
+  id: Sorg2023
   accessed:
     -
       year: 2023
@@ -32766,7 +32826,7 @@ references:
     -
       family: Sorg
       given: Lisa
-  citation-key: Sorg_ThePulse2023
+  citation-key: Sorg2023
   container-title: The Pulse
   issued:
     -
@@ -32779,7 +32839,7 @@ references:
   URL: https://pulse.ncpolicywatch.org/2023/02/24/federal-court-of-appeals-rules-ncs-ag-gag-law-is-unconstitutional-signals-a-win-for-whistleblowers/
 
 -
-  id: Sorg_ThePulse2023a
+  id: Sorg2023a
   accessed:
     -
       year: 2023
@@ -32789,7 +32849,7 @@ references:
     -
       family: Sorg
       given: Lisa
-  citation-key: Sorg_ThePulse2023a
+  citation-key: Sorg2023a
   container-title: The Pulse
   issued:
     -
@@ -32940,7 +33000,7 @@ references:
   type: book
 
 -
-  id: Stadler_AlJazeera2020
+  id: Stadler2020
   accessed:
     -
       year: 2026
@@ -32950,7 +33010,7 @@ references:
     -
       family: Stadler
       given: Gustavus
-  citation-key: Stadler_AlJazeera2020
+  citation-key: Stadler2020
   container-title: Al Jazeera
   issued:
     -
@@ -33384,7 +33444,7 @@ references:
   volume: '79'
 
 -
-  id: Stock_EnvironmentalCostDatacentres_TheGuardian2026
+  id: Stock2026
   accessed:
     -
       year: 2026
@@ -33394,7 +33454,7 @@ references:
     -
       family: Stock
       given: Petra
-  citation-key: Stock_EnvironmentalCostDatacentres_TheGuardian2026
+  citation-key: Stock2026
   container-title: The Guardian
   ISSN: 0261-3077
   issued:
@@ -33549,32 +33609,6 @@ references:
   type: book
 
 -
-  id: Stone_PamBondiTurning_TheGuardian2025
-  accessed:
-    -
-      year: 2025
-      month: 5
-      day: 11
-  author:
-    -
-      family: Stone
-      given: Peter
-  citation-key: Stone_PamBondiTurning_TheGuardian2025
-  container-title: The Guardian
-  ISSN: 0261-3077
-  issued:
-    -
-      year: 2025
-      month: 5
-      day: 2
-  language: en
-  section: US news
-  source: The Guardian
-  title: Pam Bondi turning DoJ into Trump’s ‘personal law firm’, top experts warn
-  type: article-newspaper
-  URL: https://www.theguardian.com/us-news/2025/may/02/trump-doj-pam-bondi
-
--
   id: Stone2006
   author:
     -
@@ -33596,6 +33630,32 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/24052226
   volume: '27'
+
+-
+  id: Stone2025
+  accessed:
+    -
+      year: 2025
+      month: 5
+      day: 11
+  author:
+    -
+      family: Stone
+      given: Peter
+  citation-key: Stone2025
+  container-title: The Guardian
+  ISSN: 0261-3077
+  issued:
+    -
+      year: 2025
+      month: 5
+      day: 2
+  language: en
+  section: US news
+  source: The Guardian
+  title: Pam Bondi turning DoJ into Trump’s ‘personal law firm’, top experts warn
+  type: article-newspaper
+  URL: https://www.theguardian.com/us-news/2025/may/02/trump-doj-pam-bondi
 
 -
   id: StoutVincent_5thCir2018
@@ -33762,33 +33822,6 @@ references:
   URL: https://protectborrowers.org/wp-content/uploads/2022/07/Trapped-at-Work_Final.pdf
 
 -
-  id: StudyRelationshipBar_Levin2013
-  accessed:
-    -
-      year: 2024
-      month: 2
-      day: 8
-  author:
-    -
-      family: Levin
-      given: Leslie C.
-    -
-      family: Zozula
-      given: Christine
-    -
-      family: Siegelman
-      given: Peter
-  citation-key: StudyRelationshipBar_Levin2013
-  issued:
-    -
-      year: 2013
-  language: en
-  publisher: Law School Admissions Council
-  title: A Study of the Relationship Between Bar Admissions Data and Subsequent Lawyer Discipline (GR 13-01)
-  type: document
-  URL: https://www.lsac.org/data-research/research/study-relationship-between-bar-admissions-data-and-subsequent-lawyer
-
--
   id: Suchoff2016
   accessed:
     -
@@ -33851,13 +33884,13 @@ references:
   volume: '303'
 
 -
-  id: SummaryKeyProvisions_nd
+  id: SummaryKeyProvisionsEEOC_nd
   accessed:
     -
       year: 2025
       month: 12
       day: 22
-  citation-key: SummaryKeyProvisions_nd
+  citation-key: SummaryKeyProvisionsEEOC_nd
   container-title: U.S. Equal Employment Opportunity Commission
   language: en
   title: 'Summary of Key Provisions: EEOC Enforcement Guidance on Harassment in the Workplace'
@@ -34325,13 +34358,13 @@ references:
   type: document
 
 -
-  id: TaxLienClamped1951
+  id: TaxLienClampedRed1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: TaxLienClamped1951
+  citation-key: TaxLienClampedRed1951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -35039,7 +35072,7 @@ references:
   volume: '361'
 
 -
-  id: Troutman_Scalawag2024
+  id: Troutman2024
   accessed:
     -
       year: 2025
@@ -35052,7 +35085,7 @@ references:
     -
       family: Brown
       given: Sherronda J.
-  citation-key: Troutman_Scalawag2024
+  citation-key: Troutman2024
   container-title: Scalawag
   issued:
     -
@@ -35251,13 +35284,13 @@ references:
   type: book
 
 -
-  id: TwoCommunistsBailed1951
+  id: TwoCommunistsBailed$100001951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: TwoCommunistsBailed1951
+  citation-key: TwoCommunistsBailed$100001951
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -35276,13 +35309,13 @@ references:
   URL: https://www.proquest.com/docview/112219372/abstract/C7C6757E0ED14FACPQ/11
 
 -
-  id: TwoGroupsHeld1957
+  id: TwoGroupsHeldFronts1957
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: TwoGroupsHeld1957
+  citation-key: TwoGroupsHeldFronts1957
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -35374,19 +35407,6 @@ references:
   volume: '29'
 
 -
-  id: UnderstandingFederalCourts_AdministrativeOfficeoftheUSCourts_nd
-  author:
-    -
-      family: Administrative Office of the U.S. Courts
-      given: ''
-  citation-key: UnderstandingFederalCourts_AdministrativeOfficeoftheUSCourts_nd
-  language: en
-  title: Understanding the Federal Courts
-  title-short: Understanding the Federal Courts
-  type: document
-  URL: https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf
-
--
   id: UnderstandingGuardianship_nd
   accessed:
     -
@@ -35433,13 +35453,13 @@ references:
   volume: '449'
 
 -
-  id: USCivilRights1951
+  id: USCivilRightsCongress1951
   accessed:
     -
       year: 2026
       month: 1
       day: 8
-  citation-key: USCivilRights1951
+  citation-key: USCivilRightsCongress1951
   container-title: The Washington Post
   issued:
     -
@@ -35506,6 +35526,20 @@ references:
   title: US v. Deloitte LLP
   type: legal_case
   volume: '610'
+
+-
+  id: USDistrictCourtDatabase_nd
+  accessed:
+    -
+      year: 2023
+      month: 12
+      day: 29
+  citation-key: USDistrictCourtDatabase_nd
+  container-title: UMass Dartmouth
+  language: en
+  title: US District Court Database
+  type: webpage
+  URL: https://www.umassd.edu/cas/polisci/resources/us-district-court-database/
 
 -
   id: USEqualEmploymentOpportunityCommission_nd
@@ -35625,9 +35659,9 @@ references:
   type: legislation
 
 -
-  id: UtahCrimCode76-6-206.3
+  id: UtahCrimCode76-6-2063
   chapter-number: '2023'
-  citation-key: UtahCrimCode76-6-206.3
+  citation-key: UtahCrimCode76-6-2063
   container-title: Utah Crim. Code
   issued:
     -
@@ -35753,7 +35787,7 @@ references:
   type: book
 
 -
-  id: Verger_Vice2015
+  id: Verger2015
   accessed:
     -
       year: 2023
@@ -35763,7 +35797,7 @@ references:
     -
       family: Verger
       given: Rob
-  citation-key: Verger_Vice2015
+  citation-key: Verger2015
   container-title: Vice
   issued:
     -
@@ -36200,8 +36234,8 @@ references:
   type: chapter
 
 -
-  id: WeChargeGenocide_CivilRightsCongress1951
-  citation-key: WeChargeGenocide_CivilRightsCongress1951
+  id: WeChargeGenocideHistoric1951
+  citation-key: WeChargeGenocideHistoric1951
   issued:
     -
       year: 1951
@@ -36411,13 +36445,13 @@ references:
   volume: '353'
 
 -
-  id: WhatIfYou_nd
+  id: WhatIfYouExperience_nd
   accessed:
     -
       year: 2025
       month: 12
       day: 22
-  citation-key: WhatIfYou_nd
+  citation-key: WhatIfYouExperience_nd
   container-title: U.S. Equal Employment Opportunity Commission
   language: en
   title: What To Do If You Experience Discrimination Related to DEI at Work
@@ -36425,13 +36459,13 @@ references:
   URL: https://www.eeoc.gov/what-do-if-you-experience-discrimination-related-dei-work
 
 -
-  id: WhatsYourFreedom_CivilRightsCongress1948
+  id: WhatsYourFreedomWorth1948
   accessed:
     -
       year: 2026
       month: 2
       day: 9
-  citation-key: WhatsYourFreedom_CivilRightsCongress1948
+  citation-key: WhatsYourFreedomWorth1948
   issued:
     -
       year: 1948
@@ -36442,13 +36476,13 @@ references:
   URL: https://www.crmvet.org/docs/480000_crc_brochure.pdf
 
 -
-  id: WhatYouShould_nd
+  id: WhatYouShouldKnow_nd
   accessed:
     -
       year: 2025
       month: 12
       day: 31
-  citation-key: WhatYouShould_nd
+  citation-key: WhatYouShouldKnow_nd
   container-title: U.S. Equal Employment Opportunity Commission
   language: en
   title: What You Should Know About DEI-Related Discrimination at Work
@@ -36505,7 +36539,7 @@ references:
   volume: '73'
 
 -
-  id: White_TrumanUrgedClear_NewYorkTimes1948
+  id: White1948
   accessed:
     -
       year: 2026
@@ -36515,7 +36549,7 @@ references:
     -
       family: White
       given: William S.
-  citation-key: White_TrumanUrgedClear_NewYorkTimes1948
+  citation-key: White1948
   container-title: New York Times
   ISSN: '03624331'
   issued:
@@ -36855,7 +36889,7 @@ references:
   type: book
 
 -
-  id: Wilson_AAIHS2021
+  id: Wilson2021
   accessed:
     -
       year: 2026
@@ -36865,7 +36899,7 @@ references:
     -
       family: Wilson
       given: Tiana U.
-  citation-key: Wilson_AAIHS2021
+  citation-key: Wilson2021
   container-title: AAIHS
   issued:
     -
@@ -37426,7 +37460,7 @@ references:
   type: book
 
 -
-  id: Yesko_APMReports2018
+  id: Yesko2018
   accessed:
     -
       year: 2023
@@ -37436,7 +37470,7 @@ references:
     -
       family: Yesko
       given: Parker
-  citation-key: Yesko_APMReports2018
+  citation-key: Yesko2018
   container-title: APM Reports
   issued:
     -
@@ -37521,6 +37555,29 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.11
 
 -
+  id: Zakarin2025
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 21
+  citation-key: Zakarin2025
+  collection-title: The Truth About Bullshit
+  host:
+    -
+      family: Zakarin
+      given: Caleb
+  issued:
+    -
+      year: 2025
+      month: 9
+      day: 2
+  title: On Bullshit in AI
+  title-short: The Truth About Bullshit
+  type: broadcast
+  URL: https://press.princeton.edu/ideas/the-truth-about-bullshit-on-bullshit-in-ai
+
+-
   id: Zavieh2023
   accessed:
     -
@@ -37576,7 +37633,7 @@ references:
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.46
 
 -
-  id: Zewe_MITNews2025
+  id: Zewe2025
   accessed:
     -
       year: 2026
@@ -37586,7 +37643,7 @@ references:
     -
       family: Zewe
       given: Adam
-  citation-key: Zewe_MITNews2025
+  citation-key: Zewe2025
   container-title: MIT News
   issued:
     -
@@ -37671,7 +37728,7 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405198073.wbierp0541
 
 -
-  id: Zituni_PalestineLegal2023
+  id: Zituni2023
   accessed:
     -
       year: 2024
@@ -37681,7 +37738,7 @@ references:
     -
       family: Zituni
       given: Danya
-  citation-key: Zituni_PalestineLegal2023
+  citation-key: Zituni2023
   container-title: Palestine Legal
   issued:
     -
@@ -37706,20 +37763,6 @@ references:
   number: 19-CV-1058 & 18-CV-11165
   title: Zorn-Hill v. A2B Taxi, LLC
   type: legal_case
-
--
-  id: zotero-item-3018
-  author:
-    -
-      family: Kaiser-Schatzlein
-      given: Robin
-  citation-key: zotero-item-3018
-  issued:
-    -
-      year: 2027
-  publisher: Harper Collins
-  title: 'Tyranny at Work: Unfreedom and the American Workplace'
-  type: book
 
 -
   id: Zuboff2019
