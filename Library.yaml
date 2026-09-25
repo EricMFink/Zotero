@@ -2379,6 +2379,20 @@ references:
   volume: '321'
 
 -
+  id: ArtificialIntelligenceAAUP_nd
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 25
+  citation-key: ArtificialIntelligenceAAUP_nd
+  container-title: AAUP
+  language: en
+  title: Artificial Intelligence | AAUP
+  type: webpage
+  URL: https://www.aaup.org/issues-higher-education/teaching-and-research/artificial-intelligence
+
+-
   id: Ashcraft2021
   accessed:
     -
@@ -3094,6 +3108,34 @@ references:
   title: Demystifying Federal Labor and Employment Law Preemption
   type: article-journal
   volume: '13'
+
+-
+  id: Beignon2025
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 25
+  author:
+    -
+      family: Beignon
+      given: Anaëlle
+    -
+      family: Thibault
+      given: Thomas
+    -
+      family: Maudet
+      given: Nolwenn
+  citation-key: Beignon2025
+  DOI: 10.48550/arXiv.2508.08672
+  issued:
+    -
+      year: 2025
+  source: arXiv.org
+  title: 'Imposing AI: Deceptive design patterns against sustainability'
+  title-short: Imposing AI
+  type: article
+  URL: http://arxiv.org/abs/2508.08672
 
 -
   id: Belknap1977
@@ -7489,6 +7531,40 @@ references:
   title: An Old Communist Ponders Life As A Red Menace -- Scales Worked In The South For Rights Of Blacks
   type: article-newspaper
   URL: https://archive.seattletimes.com/archive/19960901/2347082/an-old-communist-ponders-life-as-a-red-menace----scales-worked-in-the-south-for-rights-of-blacks
+
+-
+  id: Costello2025
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 25
+  author:
+    -
+      family: Costello
+      given: Eamon
+    -
+      family: Gow
+      given: Stephen
+  citation-key: Costello2025
+  container-title: Dialogues on Digital Society
+  container-title-short: Dialogues Digit. Soc.
+  DOI: 10.1177/29768640251377165
+  ISSN: 2976-8640
+  issue: '3'
+  issued:
+    -
+      year: 2025
+      month: 12
+      day: 1
+  language: EN
+  page: 302–306
+  publisher: SAGE Publications
+  source: SAGE Journals
+  title: Authoritarian EdTech
+  type: article-journal
+  URL: https://doi.org/10.1177/29768640251377165
+  volume: '1'
 
 -
   id: Cotterrell2012-08-0031
@@ -13535,6 +13611,28 @@ references:
   URL: https://brill.com/display/title/27848
 
 -
+  id: Giannini2025
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 25
+  author:
+    -
+      family: Giannini
+      given: Stefania
+  citation-key: Giannini2025
+  DOI: https://doi.org/10.54675/KECK1261
+  issued:
+    -
+      year: 2025
+  language: en
+  publisher: UNESCO
+  title: 'AI and the future of education: disruptions, dilemmas and directions'
+  type: document
+  URL: https://unesdoc.unesco.org/ark:/48223/pf0000395236
+
+-
   id: Gibson1955
   accessed:
     -
@@ -15012,6 +15110,88 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/Page?handle=hein.journals/ilr93&div=12&g_sent=1&casa_token=&collection=journals
   volume: '93'
+
+-
+  id: Guest2026
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 25
+  author:
+    -
+      family: Guest
+      given: Olivia
+    -
+      family: Suarez
+      given: Marcela
+    -
+      family: Müller
+      given: Barbara
+    -
+      family: Meerkerk
+      given: Edwin
+      non-dropping-particle: van
+    -
+      family: Oude Groote Beverborg
+      given: Arnoud
+    -
+      family: Haan
+      given: Ronald
+      non-dropping-particle: de
+    -
+      family: Reyes Elizondo
+      given: Andrea
+    -
+      family: Blokpoel
+      given: Mark
+    -
+      family: Scharfenberg
+      given: Natalia
+    -
+      family: Kleinherenbrink
+      given: Annelies
+    -
+      family: Camerino
+      given: Ileana
+    -
+      family: Woensdregt
+      given: Marieke
+    -
+      family: Monett
+      given: Dagmar
+    -
+      family: Brown
+      given: Jed
+    -
+      family: Avraamidou
+      given: Lucy
+    -
+      family: Alenda-Demoutiez
+      given: Juliette
+    -
+      family: Hermans
+      given: Felienne
+    -
+      family: Rooij
+      given: Iris
+      non-dropping-particle: van
+  citation-key: Guest2026
+  container-title: Digital Culture & Education
+  container-title-short: Digit. Cult. Educ.
+  DOI: 10.5281/zenodo.20082828
+  ISSN: 1836-8301
+  issue: '2'
+  issued:
+    -
+      year: 2026
+      month: 5
+      day: 8
+  page: 85–118
+  source: Zenodo
+  title: Against the Uncritical Adoption of 'AI' Technologies in Academia
+  type: article-journal
+  volume: '16'
 
 -
   id: GuidanceUSEmployeesResponse2023
@@ -18375,6 +18555,35 @@ references:
   type: article-journal
   URL: www.jstor.org/stable/24052189
   volume: '26'
+
+-
+  id: Kenney2025
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 25
+  author:
+    -
+      family: Kenney
+      given: Martha
+    -
+      family: Lincoln
+      given: Martha
+  citation-key: Kenney2025
+  DOI: 10.31235/osf.io/6z5pa_v1
+  issued:
+    -
+      year: 2025
+      month: 10
+      day: 25
+  number: 6z5pa_v1
+  publisher: SocArXiv
+  source: OSF Preprints
+  title: 'Let Them Eat Large Language Models: Artificial Intelligence and Austerity in the Neoliberal University'
+  title-short: Let Them Eat Large Language Models
+  type: article
+  URL: https://osf.io/preprints/socarxiv/6z5pa_v1/
 
 -
   id: Kerew2024
@@ -28724,6 +28933,29 @@ references:
   title-short: The Rationalization of Policy
   type: article-journal
   volume: '18'
+
+-
+  id: Raden2025
+  accessed:
+    -
+      year: 2026
+      month: 9
+      day: 25
+  author:
+    -
+      family: Raden
+      given: Justin
+  citation-key: Raden2025
+  container-title: Defector
+  issued:
+    -
+      year: 2025
+      month: 10
+      day: 23
+  language: en
+  title: Higher Ed’s Rush To Adopt AI Is About So Much More Than AI
+  type: webpage
+  URL: https://defector.com/higher-eds-rush-to-adopt-ai-is-about-so-much-more-than-ai
 
 -
   id: Radford2023
