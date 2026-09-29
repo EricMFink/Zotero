@@ -8974,6 +8974,22 @@ references:
   type: legal_case
 
 -
+  id: DoeHochul_US2026
+  authority: U.S.
+  citation-key: DoeHochul_US2026
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    -
+      year: 2026
+      month: 6
+      day: 29
+  number: 24-1015
+  title: Doe v. Hochul
+  type: legal_case
+  volume: '609'
+
+-
   id: DolphinKickboxingCoFranchoice_DMinn2020
   authority: D. Minn.
   citation-key: DolphinKickboxingCoFranchoice_DMinn2020
