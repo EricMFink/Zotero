@@ -23205,6 +23205,21 @@ references:
   URL: https://finding-aids.lib.unc.edu/catalog/04990
 
 -
+  id: McQuillan2022
+  author:
+    -
+      family: McQuillan
+      given: Dan
+  citation-key: McQuillan2022
+  ISBN: 978-1-5292-1349-2
+  issued:
+    -
+      year: 2022
+  publisher: Bristol University Press
+  title: 'Resisting AI: An Anti-fascist Approach to Artificial Intelligence'
+  type: book
+
+-
   id: MeetingGardenScoresCourt1949
   accessed:
     -
