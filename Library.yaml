@@ -35745,6 +35745,15 @@ references:
   type: standard
 
 -
+  id: USConstitutionCommerceClause
+  citation-key: USConstitutionCommerceClause
+  genre: U.S. Const.
+  language: en
+  number: art. I, sec. 8, clause 3
+  title: U.S. Constitution, Commerce Clause
+  type: standard
+
+-
   id: USDeloitteLLP_DCCir2010
   authority: D.C. Cir.
   citation-key: USDeloitteLLP_DCCir2010
