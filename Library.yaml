@@ -1225,6 +1225,16 @@ references:
   title: Alabama Ag-Gag
   type: legislation
 
+- id: AlbaresPresentsNewStrategy_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: AlbaresPresentsNewStrategy_nd
+  title: Albares presents new Strategy for Culture and Sustainable Development in Spanish Cooperation to Council of Ministers
+  type: webpage
+  URL: https://www.exteriores.gob.es/en/Comunicacion/NotasPrensa/Paginas/2026_NOTAS_P/Albares-lleva-al-Consejo-de-Ministros-la-nueva-Estrategia-de-Cultura-y-Desarrollo-Sostenible-de-la-Cooperacion-Espanola.aspx
+
 - id: Albiston2014
   author:
     - family: Albiston
@@ -1848,6 +1858,18 @@ references:
   type: article-journal
   volume: '39'
 
+- id: ArchaeologicalResourcesProtectionAct_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: ArchaeologicalResourcesProtectionAct_nd
+  container-title: National Park Service
+  language: en
+  title: Archaeological Resources Protection Act of 1979 - Archeology (U.S. National Park Service)
+  type: webpage
+  URL: https://www.nps.gov/subjects/archeology/archaeological-resources-protection-act.htm
+
 - id: Ardant1975
   author:
     - family: Ardant
@@ -2020,6 +2042,18 @@ references:
   title-short: Paradigm lost
   type: book
 
+- id: ARPA_16USC470aa
+  citation-key: ARPA_16USC470aa
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1979
+  number: P.L. 96-95
+  section: 470aa
+  title: Archaeological Resources Protection Act of 1979
+  type: legislation
+  volume: '16'
+
 - id: ArrowFlintElectricCo_NLRB1996
   authority: N.L.R.B.
   citation-key: ArrowFlintElectricCo_NLRB1996
@@ -2032,6 +2066,16 @@ references:
   title: Arrow Flint Electric Co.
   type: legal_case
   volume: '321'
+
+- id: ArtCulturalPropertyLaw_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: ArtCulturalPropertyLaw_nd
+  title: Art & Cultural Property Law 2026 - Spain | Global Practice Guides | Chambers and Partners
+  type: webpage
+  URL: https://practiceguides.chambers.com/practice-guides/art-cultural-property-law-2026/spain/trends-and-developments
 
 - id: ArtificialIntelligenceAAUP_nd
   accessed:
@@ -2432,6 +2476,32 @@ references:
   URL: http://www.jstor.org/stable/43670448
   volume: '48'
 
+- id: BARKER2013
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Barker
+      given: JOANNE
+  citation-key: BARKER2013
+  collection-title: A Sourcebook
+  container-title: Recognition, Sovereignty Struggles, and Indigenous Rights in the United States
+  editor:
+    - family: Den Ouden
+      given: Amy. E.
+    - family: OʹBrien
+      given: Jean M.
+  ISBN: 978-1-4696-0215-8
+  issued:
+    - year: 2013
+  page: 95–114
+  publisher: University of North Carolina Press
+  title: The Recognition of NAGPRA
+  type: chapter
+  URL: http://www.jstor.org/stable/10.5149/9781469602172_obrien.6
+
 - id: Barrow1993
   author:
     - family: Barrow
@@ -2560,6 +2630,29 @@ references:
   title: 'America’s Working Women: A Documentary History, 1600 to the Present'
   title-short: America's working women
   type: book
+
+- id: Baylis2024
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Baylis
+      given: Elena
+  citation-key: Baylis2024
+  container-title: Columbia Law Review
+  container-title-short: Columbia Law Rev.
+  ISSN: 00101958, 19452268
+  issue: '8'
+  issued:
+    - year: 2024
+  page: 183–220
+  publisher: Columbia Law Review Association, Inc.
+  title: Looted cultural objects
+  type: article-journal
+  URL: https://www.jstor.org/stable/27346360
+  volume: '124'
 
 - id: BaysideEnterprisesIncNLRB_US1977
   authority: U.S.
@@ -4308,6 +4401,32 @@ references:
   type: article
   URL: https://papers.ssrn.com/abstract=223520
 
+- id: Bruning2006
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: Bruning
+      given: Susan B.
+  citation-key: Bruning2006
+  container-title: American Antiquity
+  container-title-short: Am. Antiq.
+  DOI: 10.2307/40035362
+  ISSN: 0002-7316, 2325-5064
+  issue: '3'
+  issued:
+    - year: 2006
+      month: 7
+  language: en
+  page: 501–521
+  source: Cambridge University Press
+  title: 'Complex Legal Legacies: The Native American Graves Protection and Repatriation Act, Scientific Study, and Kennewick Man'
+  title-short: Complex Legal Legacies
+  type: article-journal
+  URL: https://www.cambridge.org/core/journals/american-antiquity/article/abs/complex-legal-legacies-the-native-american-graves-protection-and-repatriation-act-scientific-study-and-kennewick-man/F96629A5B464B34A215C6A16446A126C
+  volume: '71'
+
 - id: BrunnerAttar_TexCtApp1990
   authority: Tex. Ct. App.
   citation-key: BrunnerAttar_TexCtApp1990
@@ -4618,6 +4737,32 @@ references:
   title: Byrd v. Blue Ridge Rural Elec. Coop.
   type: legal_case
   volume: '356'
+
+- id: Byrne2024
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: Byrne
+      given: J. Peter
+  citation-key: Byrne2024
+  container-title: Texas A&M Journal of Property Law
+  container-title-short: Tex. AM J. Prop. Law
+  DOI: 10.37419/JPL.V10.I1.1
+  ISSN: 2572-7044
+  issue: '1'
+  issued:
+    - year: 2024
+      month: 3
+  language: en
+  page: 1–37
+  source: DOI.org (Crossref)
+  title: 'Cultural Property: “Progressive Property In Action”'
+  title-short: Cultural Property
+  type: article-journal
+  URL: https://scholarship.law.tamu.edu/journal-of-property-law/vol10/iss1/1
+  volume: '10'
 
 - id: Cabanillas2006
   accessed:
@@ -4995,6 +5140,22 @@ references:
   title-short: Prague and beyond
   type: book
 
+- id: CapotePérez2018
+  author:
+    - family: Capote Pérez
+      given: Luis Javier
+  citation-key: CapotePérez2018
+  DOI: 10.4467/2450050XSNR.17.030.8431
+  ISSN: 2391-7997
+  issue: 2/2017 (3)
+  issued:
+    - year: 2018
+  page: 237–254
+  title: Cultural Heritage and Spanish Private Law
+  type: article-journal
+  URL: https://ejournals.eu/czasopismo/saaclr/artykul/cultural-heritage-and-spanish-private-law
+  volume: '2017'
+
 - id: Capulong2009
   author:
     - family: Capulong
@@ -5318,6 +5479,25 @@ references:
   type: report
   URL: https://www.jstor.org/stable/resrep65607.6
 
+- id: centerforartlaw2023
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: centerforartlaw
+      given: ''
+  citation-key: centerforartlaw2023
+  issued:
+    - year: 2023
+      month: 10
+      day: 27
+  language: en-US
+  title: 'Preserving Spain’s Cultural Heritage: Challenges and Solutions - Center for Art Law'
+  title-short: Preserving Spain’s Cultural Heritage
+  type: post-weblog
+  URL: https://itsartlaw.org/art-law/preserving-spains-cultural-heritage-challenges-and-solutions/
+
 - id: CenterforConstitutionalRights2017
   author:
     - family: Center for Constitutional Rights
@@ -5329,6 +5509,21 @@ references:
   title: 'Ag-Gag Across America: Corporate-Backed Attacks on Activitsts and Whistleblowers'
   title-short: Ag-Gag Across America
   type: document
+
+- id: Centre_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: Centre
+      given: UNESCO World Heritage
+  citation-key: Centre_nd
+  container-title: UNESCO World Heritage Centre
+  language: en
+  title: Spain - UNESCO World Heritage Convention
+  type: webpage
+  URL: https://whc.unesco.org/en/statesparties/es/
 
 - id: Chambers2023
   accessed:
@@ -6595,6 +6790,22 @@ references:
   type: document
   URL: https://www.crmvet.org/docs/55_crc_lightfoot.pdf
 
+- id: CRMHistoricPreservationLaws2015
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: CRMHistoricPreservationLaws2015
+  container-title: Public History Law
+  issued:
+    - year: 2015
+      month: 12
+      day: 11
+  language: en
+  title: CRM and Historic Preservation Laws
+  type: post-weblog
+  URL: https://publichistorylaw.wordpress.com/laws/cultural-resource-management-and-historic-preservation/
+
 - id: Crocker2022
   author:
     - family: Crocker
@@ -6611,6 +6822,29 @@ references:
   title-short: Farm to Tabling Free Speech
   type: article-journal
   volume: '27'
+
+- id: Cryne2009
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Cryne
+      given: Julia A.
+  citation-key: Cryne2009
+  container-title: American Indian Law Review
+  container-title-short: Am. Indian Law Rev.
+  ISSN: 0094002X
+  issue: '1'
+  issued:
+    - year: 2009
+  page: 99–122
+  publisher: '[University of Oklahoma College of Law, Board of Regents of the University of Oklahoma]'
+  title: 'Nagpra Revisited: A Twenty-Year Review of Repatriation Efforts'
+  type: article-journal
+  URL: http://www.jstor.org/stable/25684264
+  volume: '34'
 
 - id: CuddebackFloridaBdEduc_11thCir2004
   authority: 11th Cir.
@@ -6661,6 +6895,31 @@ references:
   title: Culpepper & Carroll, PLLC v. Cole
   type: legal_case
   volume: '929'
+
+- id: CulturalPoliciesSpainEuropean_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: CulturalPoliciesSpainEuropean_nd
+  container-title: https://www.europeanheritagehub.eu/
+  language: en
+  title: Cultural policies – Spain – European Heritage Hub
+  type: post-weblog
+  URL: https://www.europeanheritagehub.eu/document/cultural-policies-spain/
+
+- id: CulturalResourceManagement_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: CulturalResourceManagement_nd
+  container-title: Bureau of Land Management
+  language: en
+  title: Cultural Resource Management
+  title-short: Cultural Resources
+  type: webpage
+  URL: https://www.blm.gov/programs/cultural-resources/cultural-resource-management
 
 - id: Cummings2009
   author:
@@ -7486,6 +7745,36 @@ references:
   title: Discrimination Against American Workers is Against the Law
   type: webpage
   URL: https://www.eeoc.gov/discrimination-against-american-workers-against-law
+
+- id: Disko2017
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Disko
+      given: Stefan
+  citation-key: Disko2017
+  collection-title: Rights, Debates, Challenges
+  container-title: Indigenous Peoples' Cultural Heritage
+  editor:
+    - family: Xanthaki
+      given: Alexandra
+    - family: Valkonen
+      given: Sanna
+    - family: Heinämäki
+      given: Leena
+    - family: Nuorgam
+      given: Piia
+  ISBN: 978-90-04-34218-7
+  issued:
+    - year: 2017
+  page: 39–77
+  publisher: Brill
+  title: 'Indigenous Cultural Heritage in the Implementation of UNESCO’s World Heritage Convention: Opportunities, Obstacles and Challenges'
+  type: chapter
+  URL: http://www.jstor.org/stable/10.1163/j.ctv2gjwsw2.6
 
 - id: DistrictofColumbiaPublicLibrary_nd
   accessed:
@@ -10209,6 +10498,18 @@ references:
   type: legal_case
   volume: '146'
 
+- id: FLPMA_43USC1701
+  citation-key: FLPMA_43USC1701
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1976
+  language: en
+  section: '1701'
+  title: Federal Land Policy and Management Act of 1976
+  type: legislation
+  volume: '43'
+
 - id: FluorDanielInc_NLRB1993
   authority: N.L.R.B.
   citation-key: FluorDanielInc_NLRB1993
@@ -11402,6 +11703,17 @@ references:
   source: Google Books
   title: Nations and Nationalism
   type: book
+
+- id: GeneralSystemProtectionHistorical_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: GeneralSystemProtectionHistorical_nd
+  language: en
+  title: General system for the protection of historical heritage
+  type: webpage
+  URL: https://www.cultura.gob.es/en/cultura/patrimonio/bienes-culturales-protegidos/niveles-de-proteccion/regimen-general.html
 
 - id: Geoghegan2016
   author:
@@ -12911,6 +13223,21 @@ references:
   type: post-weblog
   URL: https://islamophobia.org/anti-prejudice-tools/guidance-to-u-s-employees-in-response-to-islamophobic-and-anti-palestinian-rhetoric-in-the-workplace/
 
+- id: Gunn2010
+  author:
+    - family: Gunn
+      given: Steven J
+  citation-key: Gunn2010
+  container-title: William Mitchell Law Review
+  container-title-short: William Mitchell Law Rev.
+  issued:
+    - year: 2010
+  language: en
+  source: Zotero
+  title: 'The Native American Graves Protection and Repatriation Act at Twenty: Reaching the Limits of Our National Consensus'
+  type: article-journal
+  volume: '36'
+
 - id: Gurr1968
   author:
     - family: Gurr
@@ -13375,6 +13702,24 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/jle8&i=371
   volume: '8'
+
+- id: HealingRestorationNativeAmerican2024
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: HealingRestorationNativeAmerican2024
+  collection-title: NCAL The Sentinel
+  issued:
+    - year: 2024
+      month: 4
+      day: 1
+  language: en
+  medium: National Congress of American Indians
+  title: 'Healing Through Restoration: The Native American Graves Repatriation Act'
+  title-short: Healing Through Restoration
+  type: broadcast
+  URL: https://ncai.org/news/podcast-healing-through-restoration-the-native-american-graves-repatriation-act
 
 - id: HearingHaltedLeftistGroup1955
   accessed:
@@ -14183,6 +14528,39 @@ references:
   type: legal_case
   volume: '744'
 
+- id: Hutt2001
+  author:
+    - family: Hutt
+      given: Sherry
+  citation-key: Hutt2001
+  container-title: Legal Perspectives on Cultural Resources
+  issued:
+    - year: 2001
+  publisher: AltaMira Press
+  title: 'Cultural Property Law Theory: A Comparative Assessment of Contemporary Thought'
+  type: chapter
+
+- id: Hutt2018
+  author:
+    - family: Hutt
+      given: Sherry
+    - family: Blanco
+      given: Caroline M.
+    - family: Harris
+      given: Stan N.
+  citation-key: Hutt2018
+  ISBN: 978-1-62722-736-0
+  issued:
+    - year: 2018
+      month: 8
+  language: en
+  number-of-pages: '464'
+  publisher: American Bar Association
+  source: Google Books
+  title: 'Cultural Property Law: A Practitioner''s Guide to the Management, Protection, and Preservation of Heritage Resources'
+  title-short: Cultural Property Law
+  type: book
+
 - id: Huyssen2019
   accessed:
     - year: 2025
@@ -14341,6 +14719,17 @@ references:
   title: Interrogating the Present
   type: post-weblog
   URL: https://newfascismsyllabus.com/syllabus/interrogating-the-present/
+
+- id: IntroductionCulturalHeritageManagement_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: IntroductionCulturalHeritageManagement_nd
+  language: en
+  title: Introduction to Cultural Heritage management
+  type: webpage
+  URL: https://www.cultura.gob.es/en/cultura/patrimonio/informacion-general/gestion-en-el-ministerio/introduccion.html
 
 - id: IowaCode717A3A
   citation-key: IowaCode717A3A
@@ -14645,6 +15034,19 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/2946077
   volume: '9'
+
+- id: Jenks2017
+  author:
+    - family: Jenks
+      given: Kelly L
+  citation-key: Jenks2017
+  container-title: International Encyclopedia of Anthropology
+  issued:
+    - year: 2017
+  language: en
+  source: Zotero
+  title: Cultural Resource Management
+  type: chapter
 
 - id: Jenson1995
   accessed:
@@ -16018,6 +16420,49 @@ references:
   type: legal_case
   volume: '299'
 
+- id: King2011
+  call-number: CC135 .C534 2011
+  citation-key: King2011
+  collection-number: '17'
+  collection-title: Blackwell companions to anthropology
+  editor:
+    - family: King
+      given: Thomas F.
+  ISBN: 978-1-4051-9873-8
+  issued:
+    - year: 2011
+  language: en
+  number-of-pages: '579'
+  publisher: Wiley-Blackwell
+  publisher-place: Chichester, West Sussex, UK ; Malden, MA
+  source: Library of Congress ISBN
+  title: A Companion to Cultural Resource Management
+  type: book
+
+- id: King2013
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: King
+      given: Thomas F.
+  call-number: KF4310 .K56 2013
+  citation-key: King2013
+  collection-title: Heritage resources management series
+  edition: Fourth edition
+  ISBN: 978-0-7591-2174-4 978-0-7591-2175-1
+  issued:
+    - year: 2013
+  note: 'OCLC: 806017567'
+  number-of-pages: '444'
+  publisher: AltaMira Press
+  publisher-place: Lanham, Maryland
+  source: Berkeley Law
+  title: Cultural resource laws and practice
+  type: book
+  URL: https://lawcat.berkeley.edu/record/511114
+
 - id: KingCaliforniaUnemploymentIns_CalCtApp1972
   authority: Cal. Ct. App.
   citation-key: KingCaliforniaUnemploymentIns_CalCtApp1972
@@ -16840,6 +17285,18 @@ references:
   URL: https://heinonline.org/HOL/P?h=hein.journals/geojlege34&i=70
   volume: '34'
 
+- id: LawsRegulationsGuidelinesArcheology_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: LawsRegulationsGuidelinesArcheology_nd
+  container-title: National Park Service
+  language: en
+  title: Laws, Regulations, & Guidelines - Archeology
+  type: webpage
+  URL: https://www.nps.gov/subjects/archeology/laws-regulations-guidelines.htm
+
 - id: Lazarus-Black2014
   archive: JSTOR
   author:
@@ -17459,6 +17916,25 @@ references:
   title-short: State of the union
   type: book
 
+- id: Lichtenstein2024
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: Lichtenstein
+      given: Amanda
+  citation-key: Lichtenstein2024
+  container-title: SAPIENS
+  issued:
+    - year: 2024
+      month: 12
+      day: 4
+  language: en-US
+  title: Spain’s Move to Decolonize Its Museums Must Continue
+  type: post-weblog
+  URL: https://www.sapiens.org/archaeology/spain-state-museums-decolonization/
+
 - id: Lieberwitz2006
   author:
     - family: Lieberwitz
@@ -17902,6 +18378,35 @@ references:
   source: Amazon
   title: A History of America in Ten Strikes
   type: book
+
+- id: López-Jiménez2026
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: López-Jiménez
+      given: Juan
+    - family: Martínez-Puche
+      given: Antonio
+  citation-key: López-Jiménez2026
+  container-title: Sustainability
+  DOI: 10.3390/su18105047
+  ISSN: 2071-1050
+  issue: '10'
+  issued:
+    - year: 2026
+      month: 5
+  language: en
+  license: https://creativecommons.org/licenses/by/3.0/
+  page: '5047'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: 'Promoting Cultural Heritage in the South of the Valencia Region (Spain): Protection, Conservation and Integrated Management to Maximise Its Socio-Economic Benefits'
+  title-short: Promoting Cultural Heritage in the South of the Valencia Region (Spain)
+  type: article-journal
+  URL: https://www.mdpi.com/2071-1050/18/10/5047
+  volume: '18'
 
 - id: LouisvilleNashvilleCoMottley_US1908
   authority: U.S.
@@ -18562,6 +19067,32 @@ references:
   title-short: The meritocracy trap
   type: book
 
+- id: Marlowe2024
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Marlowe
+      given: Elizabeth
+  citation-key: Marlowe2024
+  container-title: Methods and Methodologies in Heritage Studies
+  DOI: 10.2307/jj.11316378.11
+  editor:
+    - family: King
+      given: Rachel
+    - family: Rico
+      given: Trinidad
+  ISBN: 978-1-80008-380-6
+  issued:
+    - year: 2024
+  page: 71–74
+  publisher: UCL Press
+  title: On not (just) repatriating
+  type: chapter
+  URL: http://www.jstor.org/stable/jj.11316378.11
+
 - id: Marshall2014
   author:
     - family: Marshall
@@ -18615,6 +19146,20 @@ references:
   title: 'Blood Passion: the Ludlow Massacre and Class War in the American West, First Paperback Edition'
   title-short: Blood passion
   type: book
+
+- id: Martin_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: Martin
+      given: Alfredo Mederos
+  citation-key: Martin_nd
+  source: www.academia.edu
+  title: Archaeological Cultural Heritage in Spain
+  type: article-journal
+  URL: https://www.academia.edu/6133422/Archaeological_Cultural_Heritage_in_Spain
 
 - id: Martin1987
   accessed:
@@ -20248,6 +20793,26 @@ references:
   title-short: Mother jones
   type: book
 
+- id: Miller2026
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: Miller
+      given: Josie
+  citation-key: Miller2026
+  DOI: 10.7298/78cf-t665
+  issued:
+    - year: 2026
+      month: 5
+  language: en
+  source: ecommons.cornell.edu
+  title: Why Has Repatriation Taken so Long? Developing a Collaborative Approach to Repatriation Through the Case Study of the 79-a Collection
+  title-short: Why Has Repatriation Taken so Long?
+  type: article-journal
+  URL: https://hdl.handle.net/1813/126254
+
 - id: MillerPlasticProductsInc_NLRB2023
   authority: N.L.R.B.
   citation-key: MillerPlasticProductsInc_NLRB2023
@@ -21499,6 +22064,70 @@ references:
   URL: www.jstor.org/stable/24052581
   volume: '30'
 
+- id: Nafziger2006
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Nafziger
+      given: James A.R.
+  citation-key: Nafziger2006
+  container-title: Willamette Journal of International Law and Dispute Resolution
+  container-title-short: Willamette J. Int. Law Dispute Resolut.
+  ISSN: '15210235'
+  issue: '2'
+  issued:
+    - year: 2006
+  page: 175–225
+  publisher: Willamette University College of Law
+  title: The Protection and Repatriation of Indigenous Cultural Heritage in the United States
+  type: article-journal
+  URL: http://www.jstor.org/stable/26211228
+  volume: '14'
+
+- id: NAGPRA_25USC3001
+  citation-key: NAGPRA_25USC3001
+  container-title: U.S.C.
+  container-title-short: U.S.C.
+  issued:
+    - year: 1990
+  number: 101-601
+  section: '3001'
+  title: Native American Graves Protection and Repatriation Act of 1990
+  type: legislation
+  volume: '25'
+
+- id: NAGPRA_Regulations_43CFR101
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: NAGPRA_Regulations_43CFR101
+  container-title: C.F.R.
+  container-title-short: C.F.R.
+  language: en
+  section: '10.1'
+  title: Native American Graves Protection and Repatriation Regulations
+  type: legislation
+  URL: https://www.ecfr.gov/current/title-43/part-10
+  volume: '43'
+
+- id: Narasimhan2022
+  author:
+    - family: Narasimhan
+      given: Narayan
+  citation-key: Narasimhan2022
+  container-title: University of Chicago Law Review Online
+  container-title-short: Univ. Chic. Law Rev. Online
+  issued:
+    - year: 2022
+      month: 9
+      day: 22
+  title: Defining the Scope of Burial Rights Under the Native American Graves Protection and Repatriation Act
+  type: article-journal
+
 - id: Narayanan2024
   accessed:
     - year: 2026
@@ -21594,6 +22223,18 @@ references:
   title: Nationwide Mut. Ins. Co. v. Darden
   type: legal_case
   volume: '503'
+
+- id: NativeAmericanGravesProtection_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: NativeAmericanGravesProtection_nd
+  container-title: National Park Service
+  language: en
+  title: Native American Graves Protection and Repatriation Act
+  type: webpage
+  URL: https://www.nps.gov/subjects/nagpra/index.htm
 
 - id: NBAPropertiesHanwjh_7thCir2022
   authority: 7th Cir.
@@ -21994,6 +22635,32 @@ references:
   title: New Trial Awaits Potash on 'Release'
   type: article-newspaper
   URL: https://www.marxists.org/history/usa/pubs/national-guardian/1954-12-13-7-8-nat-guardian.pdf
+
+- id: Nicholas2004
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Nicholas
+      given: GeorgeP.
+    - family: Bannister
+      given: KellyP.
+  citation-key: Nicholas2004
+  container-title: Current Anthropology
+  container-title-short: Curr. Anthropol.
+  DOI: 10.1086/382251
+  ISSN: 00113204, 15375382
+  issue: '3'
+  issued:
+    - year: 2004
+  page: 327–350
+  publisher: '[The University of Chicago Press, Wenner-Gren Foundation for Anthropological Research]'
+  title: Copyrighting the Past?
+  type: article-journal
+  URL: http://www.jstor.org/stable/10.1086/382251
+  volume: '45'
 
 - id: Nielsen2000
   accessed:
@@ -23330,6 +23997,31 @@ references:
   title-short: Tackling the problem of ‘captive audience’ meetings
   type: post-weblog
   URL: https://www.epi.org/blog/captive-audience-meetings/
+
+- id: Pérez2023
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: Pérez
+      given: Luis Javier Capote
+  citation-key: Pérez2023
+  container-title: Santander Art and Culture Law Review
+  container-title-short: Santander Art Cult. Law Rev.
+  issue: 2/2023 (9)
+  issued:
+    - year: 2023
+      month: 12
+      day: 13
+  language: en
+  page: 321–332
+  source: ejournals.eu
+  title: 'Illicit Trade in Cultural Objects under the Spanish Law: The Cabeza de mujer joven Case'
+  title-short: Illicit Trade in Cultural Objects under the Spanish Law
+  type: article-journal
+  URL: https://ejournals.eu/en/journal/saaclr/article/illicit-trade-in-cultural-objects-under-the-spanish-law-the-cabeza-de-mujer-joven-case
+  volume: '2023'
 
 - id: PETACooper1st2016
   citation-key: PETACooper1st2016
@@ -24981,6 +25673,18 @@ references:
   type: legal_case
   volume: '415'
 
+- id: RegulationsNativeAmericanGraves_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: RegulationsNativeAmericanGraves_nd
+  container-title: National Park Service
+  language: en
+  title: The Regulations - Native American Graves Protection and Repatriation Act
+  type: webpage
+  URL: https://www.nps.gov/subjects/nagpra/regulations.htm
+
 - id: Reid2018
   author:
     - family: Reid
@@ -25299,6 +26003,16 @@ references:
   type: legal_case
   volume: '768'
 
+- id: RethinkHeritage_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: RethinkHeritage_nd
+  title: Rethink Heritage
+  type: webpage
+  URL: https://rethink-heritage.eu/?lang=en
+
 - id: Rhoades1996-11-0001
   author:
     - family: Rhoades
@@ -25339,6 +26053,35 @@ references:
   title-short: Academic capitalism and (secondary) academic labor markets
   type: chapter
   URL: https://link.springer.com/chapter/10.1007/978-3-319-12835-1_9
+
+- id: Richman2003
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: '18th and 19th Century Literature Archive 2006-2012~AAE African American Experience ABCC BC~Africa,Asia and Latin American Studies 2022~ABC-Clio Contemporary World Issues 2009 - 2022~ABC-Clio Gender & Sexuality Studies 2017-2023~ABC-Clio History 2017-2023~ABC-Clio Military and Naval History 2009-2022~ABC-Clio Religious Studies 2017-2022~ABC-Clio Understanding Modern Nations 2009 - 2022~ABC-Clio United States History 2017-2023~ABC-Clio World History 2009-2022~Aesthetics and Cultural Theory 1999-2012~Africa,Asia and Latin American Studies 2023~African & Africana Studies 2026~Bloomsbury Open Collections African Studies and International Development 2025~AIE American Indian Experience ABCC BC~American Slavery ABCC BC~Ancient Commentators on Aristotle~Ancient History Archive 1983-2012~Ancient Philosophy Archive 1984-2012~Anthropology 2014~Anthropology 2015~Anthropology 2016~Anthropology 2017~Anthropology 2018~Anthropology 2019~Anthropology 2026~Anthropology Archive 1993-2013~Applied Linguistics Archive 2000-2012~Archaeology 2025~Archaeology 2026~Architecture 2020~Architecture 2021~Architecture 2022~Architecture 2023~Architecture 2024~Architecture 2025~Architecture 2026~Architecture Archive 2002-2019~Art & Visual Culture 2020~Art & Visual Culture 2018~Art & Visual Culture 2019~Art & Visual Culture 2023~Art & Visual Culture 2024~Art & Visual Culture 2025~Art & Visual Culture 2026~Asia Studies 2024~Asia Studies 2025~Asia Studies 2026~Art & Visual Culture 2021~Art & Visual Culture 2022~BC TxT Only 2026~BC TxT Supplemental Textbooks 2026~C.H. Beck · Hart · Nomos 2014~C.H. Beck · Hart · Nomos 2020~C.H. Beck · Hart · Nomos 2021~C.H. Beck · Hart · Nomos 2022~C.H. Beck · Hart · Nomos 2015~C.H. Beck · Hart · Nomos 2016~C.H. Beck · Hart · Nomos 2017~C.H. Beck · Hart · Nomos 2018~C.H. Beck · Hart · Nomos 2019~Biblical Studies 2015~Biblical Studies 2016~Biblical Studies 2017~Biblical Studies 2018~Biblical Studies 2019~Biblical Studies 2020~Biblical Studies 2021~Biblical Studies 2022~Biblical Studies 2023~Biblical Studies 2024~Biblical Studies 2025~Biblical Studies 2026~Biblical Studies Landmark Texts (Bloomsbury Academic Collections)~Biblical Studies Supplement~Biblical Studies 2013~Biblical Studies 2014~Birds and Mammals of Africa~Bloomsbury Open Access~Bloomsbury Professional Law 2017~Bloomsbury Professional Law 2018~Bloomsbury Professional Law 2019~Bloomsbury Professional Law 2023~Bloomsbury Professional Law 2024~Bloomsbury Professional Law 2025~Bloomsbury Professional Law 2026~Bloomsbury World Englishes~Bloomsbury Open Collections African Studies and International Development 2024~Bloomsbury Open Collections African Studies and International Development 2026~Bloomsbury Open Collections African Studies and International Development 2027~Bloomsbury Open Collections Environment & Climate Change 2026~Bloomsbury Open Collections Environment & Climate Change 2027~Bloomsbury Open Collections Gender & Sexuality 2026~Bloomsbury Open Collections Gender & Sexuality 2027~Bloomsbury Professional Law 2020~Bloomsbury Professional Law 2021~Bloomsbury Professional Law 2022~Bloomsbury Professional Charities Law~Bloomsbury Professional International Arbitration~Bloomsbury Professional Licensing Law~Bloomsbury Professional Mediation~Bloomsbury Professional UK Tax 2023~Bloomsbury Professional UK Tax 2024~Bloomsbury Professional UK Tax 2021~Business & Management~Business & Management 2026~CC 25 Critical Companions 25 ABCC BC~CC 46 Critical Companions 46 ABCC BC~C.H. Beck · Hart · Nomos 2023~C.H. Beck · Hart · Nomos 2024~C.H. Beck · Hart · Nomos 2025~Christian Doctrines Archive 1988-2013~Christology Archive 1982-2011~The Churchill Collection: Published Works of Winston S. Churchill~The Churchill Documents and Official Biography~Classical Studies & Archaeology 2023~Classical Studies & Archaeology 2024~Classical Literature Archive 1994-2012~Classical Studies & Archaeology 2013~Classical Studies & Archaeology 2014~Classical Studies & Archaeology 2016~Classical Studies & Archaeology 2017~Classical Studies & Archaeology 2018~Classical Studies & Archaeology 2019~Classical Studies 2025~Classical Studies 2026~Classical Studies & Archaeology 2020~Classical Studies & Archaeology 2015~Classical Studies & Archaeology Supplement~Communication Studies 2026~Comparative Law,Legal History and Legal Studies~Competition Law~Constitutional and Administrative Law~Contemporary Writing,Theory and Culture Archive 2006-2012~Continental Philosophy Archive 2000-2012~Continuing Professional Development~Contract,Tort and Restitution~Corporate and Financial Law~Creative Writing 2025~Creative Writing 2026~Criminal Law and Justice~Criminology 2024~Classical Studies & Archaeology 2021~Classical Studies & Archaeology 2022~Cultural Studies Landmark Texts (Bloomsbury Academic Collections)~Daily Life 26 Daily Life Through History 26 ABCC BC~Design 2018~Design 2019~Design 2020~Design 2021~Design 2022~Design 2023~Design 2024~Design 2025~Design 2026~Design Archive 2007-2017~DLA Daily Life America ABCC BC~DLO Daily Life Online ABCC BC~DLTH 10 Daily Life Through History 10 ABCC BC~Early Modern History Archive 1981-2013~Economics Landmark Texts (Bloomsbury Academic Collections)~Education 2013~Education 2014~Education 2015~Education 2016~Education 2017~Education 2018~Education 2019~Education 2020~Education 2021~Education 2022~Education 2023~Education 2024~Education 2025~Education 2026~Education Around the World~Education Practitioner 2026~Education Supplement~The Collected Works of Edward Schillebeeckx~Energy,Environmental & Natural Resources Law~NOT FOR SALE: BOC Environment Backlist package 2025~Bloomsbury Open Collections Environment & Climate Change 2025~European Law~Family and Social Law~Fashion 2018~Fashion 2019~Fashion 2020~Fashion 2021~Fashion 2022~Fashion 2023~Fashion 2024~Fashion 2025~Fashion 2026~Fashion Archive 2006-2017~Fashion: Dress,Body,Culture Archive~Film & Media Studies 2021~Film & Media Studies 2022~Film & Media Studies 2014~Film & Media Studies 2015~Film & Media Studies 2016~Film & Media Studies 2017~Film & Media Studies 2018~Film & Media Studies 2019~Film & Media Studies 2020~Film & Media Supplement~Film & Media Studies 2023~Film & Media Studies 2024~Film & Media Studies 2025~Film & Media Studies 2026~Film Studies Archive 2000-2013~Film Studies Landmark Texts (Bloomsbury Academic Collections)~Food Studies Archive 1997-2017~Gender & Sexuality Studies 2024~Gender & Sexuality Studies 2026~NOT FOR SALE: BOC Gender Backlist package 2025~Bloomsbury Open Collections Gender & Sexuality 2025~Gender Studies Landmark Texts (Bloomsbury Academic Collections)~Geographers Biobibliographical Studies~Greenwood Asia Studies 2009 - 2022~Greenwood Film & Media Studies 2017-2022~Greenwood Food Studies 2009-2016~Greenwood Food Studies 2017-2022~Greenwood Health & Wellbeing 2017 - 2023~The Greenwood Histories of the Modern Nations 2009 - 2022~Greenwood History 2009-2016~Greenwood History of Race and Ethnicity 2009-2022~Greenwood Music & Sound Studies 2009-2016~Greenwood Music & Sound Studies 2017-2022~Greenwood Science & Technology 2009 - 2022~Hart Publishing 2020~Hart Publishing 2021~Hart Publishing 2022~Hart Publishing Practitioner Archive~Hart Publishing Practitioner 2024~Hart Publishing Practitioner 2025~Hart Publishing Practitioner 2020~Hart Publishing 2023~Hart Publishing 2024~Hart Publishing 2025~Hart Publishing 2026~Hart Publishing 2014~Hart Publishing 2015~Hart Publishing 2016~Hart Publishing 2017~Hart Publishing 2018~Hart Publishing 2019~Hart Publishing Supplement~Health & Wellbeing 2024~Health & Wellbeing 2026~Historic Events ABCC BC~History 2014~History 2015~History 2016~History 2017~History 2018~History 2019~History 2020~History 2021~History 2022~History 2023~History 2024~History 2025~History 2026~History Landmark Texts (Bloomsbury Academic Collections)~History and Politics in the 20th Century Landmark Texts (Bloomsbury Academic Collections)~History Reference 2026~History Supplement~History of Technology~History of the Transatlantic Slave Trade Landmark Texts (Bloomsbury Academic Collections)~A History of Western Philosophy of Education~Hart Publishing Practitioner 2021~Hart Publishing Practitioner 2022~HRO History Reference Online ABCC BC~HRO Complete 2012 History Reference Online Complete 2012 ABCC BC~HRO Elite 2012 History Reference Online Elite 2012 ABCC BC~HRO Premier 2012 History Reference Online Premier 2012 ABCC BC~Human Rights Law~I.B. Tauris African Politics~I.B. Tauris Architecture Archive 2006-2017~I.B. Tauris Art & Visual Culture 2016-2018~I.B. Tauris Art & Visual Culture Archive 2001-2015~I.B. Tauris Asian Politics~I.B. Tauris Biblical Studies & Theology Archive~I.B. Tauris British History~I.B. Tauris Classical Studies & Archaeology 2016-2018~I.B. Tauris Classical Studies & Archaeology Archive,1994-2015~I.B. Tauris European History~I.B. Tauris European Politics~I.B. Tauris Fashion Archive 2001-2018~I.B. Tauris Film & Media Studies 2016~I.B. Tauris Film & Media Studies 2017~I.B. Tauris Film & Media Studies 2018~I.B. Tauris Film Studies Archive 1998-2015~I.B. Tauris General Middle East History~I.B. Tauris Global History~I.B. Tauris History 2016~I.B. Tauris History 2017~I.B. Tauris History 2018~I.B. Tauris Imperial & Colonial History~I.B. Tauris International Political Economy,Development and the Environment~I.B. Tauris Iran/Persia~I.B. Tauris Iraq,Saudi Arabia and the Gulf States~I.B. Tauris The Islamic World~I.B. Tauris Israel and Palestine~I.B. Tauris Literature & Performing Arts Archive 2006-2018~I.B. Tauris Media,Art and Culture in the Middle East~I.B. Tauris Middle East Politics and International Relations~I.B. Tauris Philosophy Archive 2003-2016~I.B. Tauris Political Science and Theory~I.B. Tauris Religion & Theology 2016-2018~I.B. Tauris Religious Studies Archive 1993-2015~I.B. Tauris Security Studies~I.B. Tauris Society,Economics and Law in the Middle East~I.B. Tauris Turkey and the Ottoman Empire~I.B. Tauris Television & Media Studies Archive 1999-2015~I.B. Tauris UK Politics~I.B. Tauris Women,Sex & Gender in the Middle East~I.B. Tauris World Wars and Holocaust~International Critical Commentary 1901-2014~Intellectual Property Law~International Development 2026~International Law~International Relations Archive 1998-2013~Japanese History Landmark Texts (Bloomsbury Academic Collections)~Labour & Discrimination Law~LE Latino Experience ABCC BC~Legal Philosophy~Linguistics 2020~Linguistics 2013~Linguistics 2014~Linguistics 2015~Linguistics 2016~Linguistics 2017~Linguistics 2018~Linguistics 2019~Linguistics 2021~Linguistics 2022~Linguistics 2023~Linguistics 2024~Linguistics 2025~Linguistics 2026~Linguistics Landmark Texts (Bloomsbury Academic Collections)~Lit in Context 10 ABCC BC~Lit in Context 20 ABCC BC~Lit in Context 34 ABCC BC~Lit in Context 36 ABCC BC~Literary Criticism Landmark Texts (Bloomsbury Academic Collections)~Literary Studies 2015~Literary Studies 2016~Literary Studies 2017~Literary Studies 2018~Literary Studies 2021~Literary Studies 2022~Literary Studies 2023~Literary Studies 2024~Literary Studies 2025~Literary Studies 2026~Literary Studies Comparative & World Literature 2026~Literary Studies Supplement~Litigation & Civil Procedure~Literary Studies 2020~Literary Studies 2013~Literary Studies 2014~Literary Studies 2019~Libraries Unlimited Library & Information Science 2024~Libraries Unlimited Library & Information Science 2025~Libraries Unlimited Library & Information Science 2026~Libraries Unlimited Library & Information Science 2017-2019~Libraries Unlimited Library & Information Science 2020-2023~Media Studies Archive 2008-2013~Medical Law & Ethics~Medieval History Archive 1981-2013~Middle East 2016~Middle East 2017~Middle East 2018~Middle East 2019~Middle East 2021~Middle East 2022~Middle East 2023~Middle East 2024~Middle East 2025~Middle East 2026~Middle East 2020~Modernism Archive 2005-2012~Museum Studies 2026~Music & Sound Studies 2023~Music & Sound Studies 2024~Music & Sound Studies 2020~Music & Sound Studies 2015-2017~Music & Sound Studies 2018~Music & Sound Studies 2019~Music & Sound Studies 2021~Music & Sound Studies 2022~Music & Sound Studies 2025~Music & Sound Studies 2026~NFS BC TxT Only 2025~NFS BC TxT Supplemental Textbooks 2025~NOT FOR SALE: BOC Zed Backlist package 2024~NOT FOR SALE: Multi Volume Sets TXT Not Available~NFS RL TXT 2025~NFS RL TXT Backlist 2024~NFS TXT BACKLIST released in 2026~NOT FOR SALE: TXT All Collections except Supp Txtbooks GERMAN (NOT BECK)~NOT FOR SALE: TXT Law only~Object Lessons Archive 2015-2018~Osprey Essential Histories~Osprey Series WWII 2024~Osprey Series WWII 2025~Osprey Series WWII 2026~Pauline Studies Archive 1984-2012~PCU Pop Culture Universe ABCC BC~Philosophy of Education Archive 2008-2012~Philosophy 2020~Philosophy 2013~Philosophy 2014~Philosophy 2015~Philosophy 2016~Philosophy 2017~Philosophy 2018~Philosophy 2019~Philosophy 2021~Philosophy 2022~Philosophy 2023~Philosophy 2024~Philosophy 2025~Philosophy 2026~Philosophy Ethics and Political Philosophy 2026~Philosophy Landmark Texts (Bloomsbury Academic Collections)~Philosophy Supplement~Politics & International Relations 2020~Politics & International Relations 2014~Political Theory and Philosophy Archive 1998-2013~Politics & International Relations 2023~Politics & International Relations 2024~Politics & International Relations 2025~Politics & International Relations 2026~Politics Archive 1993-2013~Politics & International Relations 2015~Politics & International Relations 2016~Politics & International Relations 2017~Politics & International Relations 2018~Politics & International Relations 2019~Politics & International Relations 2021~Politics & International Relations 2022~Poyser Monographs~Praeger American Government & Politics 2009-2016~Praeger American Government & Politics 2017-2022~Praeger Theology & Biblical Studies 2009 - 2022~Praeger Business & Management 2017 - 2022~Praeger Criminology 2009 - 2022~Praeger Economics 2009-2016~Praeger Economics 2017-2022~Praeger Education 2009 - 2022~Praeger Film & Media Studies 2009-2016~Praeger Gender & Sexuality Studies 2009-2016~Praeger Law 2009 - 2023~Praeger Literary Studies 2009 - 2023~Praeger Military Strategy and Warfare 2009-2016~Praeger Politics & International Relations 2009-2016~Praeger Politics & International Relations 2017-2023~Praeger Psychology 2017 - 2023~Praeger Religious Studies 2009-2016~Praeger Security International 2009-2016~Praeger Security International 2017-2022~Praeger Security and Strategic Studies 2009-2016~Praeger Sociology 2009-2016~Praeger Sociology 2017-2023~Praeger Sport & Exercise 2009 - 2022~Praeger United States History 2009-2016~The Law of Property and Trusts~Psychology 2026~Reeds Marine Engineering~Religious Studies 2013~Religious Studies 2014~Religious Studies 2015~Religious Studies 2016~Religious Studies 2017~Religious Studies 2018~Religious Studies 2019~Religious Studies 2021~Religious Studies 2022~Religious Studies 2023~Religious Studies 2024~Religious Studies 2025~Religious Studies 2026~Religious Studies Archive 2008-2012~Religious Studies Landmark Texts (Bloomsbury Academic Collections)~Religious Studies 2020~Second Language Acquisition Archive 2004-2012~Shakespeare Archive 2003-2012~Shakespeare Studies Landmark Texts (Bloomsbury Academic Collections)~Shakespeare Studies Supplement~Short Histories~Bloomsbury Sigma Science~Slavic & Eastern European Studies 2026~Sociology 2024~Sociology 2025~Sociology 2026~Sport & Exercise 2026~Theology 2020~Theology 2013~Theology 2014~Theology 2015~Theology 2016~Theology 2017~Theology 2018~Theology 2019~Theology 2021~Theology 2022~Theology 2023~Theology 2024~Theology 2025~Theology 2026~Theology Supplement~Bloomsbury Professional UK Tax 2020~WHE World History Encyclopedia ABCC BC~Rowan Williams and Herbert McCabe Theology~Women’s Studies ABCC BC~Zed Books 2021~Zed Books African Studies 2017-2020~Zed Books African Studies Archive~Zed Books Asia Studies 2017-2020~Zed Books Asia Studies Archive~Zed Books Capitalism,Neoliberalism and Globalization Archive~Zed Books Economics Archive~Zed Books Environmental Economics and Sustainable Development Archive~Zed Books Global Politics 2017-2020~Zed Books International Development Archive~Zed Books International Development & Economics 2017-2020~Zed Books Latin American Studies Archive~Zed Books Middle East Archive~Zed Books Politics and International Relations Archive~Zed Books Sexuality and Gender Studies 2017-2020~Zed Books Sexuality and Gender Studies Archive~Title by Title~'
+  author:
+    - family: Richman
+      given: Jennifer R.
+    - family: Forsyth
+      given: Marion P.
+  citation-key: Richman2003
+  collection-title: Heritage Resource Management Series
+  edition: '1'
+  editor:
+    - family: Richman
+      given: Jennifer R.
+    - family: Forsyth
+      given: Marion P.
+  ISBN: 979-8-216-43596-9
+  issued:
+    - year: 2003
+  language: en
+  publisher: AltaMira Press
+  publisher-place: Walnut Creek
+  title: Legal Perspectives on Cultural Resources
+  type: book
+  URL: https://www.bloomsburycollections.com/monograph?docid=b-9798216435969
 
 - id: Riedel2021-05-0010
   author:
@@ -25977,6 +26720,29 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/ucollr81&i=159
   volume: '81'
+
+- id: Samuels2016
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Samuels
+      given: Kathryn Lafrenz
+  citation-key: Samuels2016
+  container-title: Journal of Field Archaeology
+  container-title-short: J. Field Archaeol.
+  ISSN: 00934690, 20424582
+  issue: '3'
+  issued:
+    - year: 2016
+  page: 355–367
+  publisher: Taylor & Francis, Ltd.
+  title: Transnational turns for archaeological heritage
+  type: article-journal
+  URL: https://www.jstor.org/stable/48542389
+  volume: '41'
 
 - id: Sanders2019
   author:
@@ -27777,6 +28543,25 @@ references:
   title-short: A troublemaker's handbook 2
   type: book
 
+- id: Slingluff2025
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: Slingluff
+      given: Sarah
+  citation-key: Slingluff2025
+  container-title: V&A Blog
+  issued:
+    - year: 2025
+      month: 4
+      day: 23
+  language: en-US
+  title: Protecting Spanish Cultural Heritage at the Beginning of the 20th Century • V&A Blog
+  type: post-weblog
+  URL: https://www.vam.ac.uk/blog/projects/protecting-spanish-cultural-heritage-at-the-beginning-of-the-20th-century
+
 - id: Slucki2012
   author:
     - family: Slucki
@@ -28001,6 +28786,31 @@ references:
   URL: http://www.jstor.org/stable/2095581
   volume: '51'
 
+- id: Soderland2015
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Soderland
+      given: Hilary A.
+    - family: Lilley
+      given: Ian A.
+  citation-key: Soderland2015
+  container-title: Journal of Field Archaeology
+  container-title-short: J. Field Archaeol.
+  ISSN: 00934690, 20424582
+  issue: '5'
+  issued:
+    - year: 2015
+  page: 1–15
+  publisher: Taylor & Francis, Ltd.
+  title: The Fusion of Law and Ethics in Cultural Heritage Management
+  type: article-journal
+  URL: https://www.jstor.org/stable/48542308
+  volume: '40'
+
 - id: Sohoni2014
   archive: JSTOR
   author:
@@ -28177,6 +28987,41 @@ references:
   title: Lawyers of the Right
   type: book
   URL: https://press.uchicago.edu/ucp/books/book/chicago/L/bo5928619.html
+
+- id: SpainInternationalArtHeritage_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: SpainInternationalArtHeritage_nd
+  title: Spain • International Art and Heritage Law • European University Institute
+  type: webpage
+  URL: https://www.eui.eu/Projects/InternationalArtHeritageLaw/Spain
+
+- id: SpainsCommitmentCulturalHeritage_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: SpainsCommitmentCulturalHeritage_nd
+  language: en
+  title: Spain's Commitment to Cultural Heritage Conservation
+  type: webpage
+  URL: https://cards.algoreducation.com/en/content/jtLNR3OG/spain-cultural-heritage-conservation
+
+- id: SpainsCulturalRightsPlan2026
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  citation-key: SpainsCulturalRightsPlan2026
+  container-title: Culture and Arts Policy Institute
+  issued:
+    - year: 2026
+  language: en-US
+  title: Spain’s Cultural Rights Plan 2025–2027
+  type: post-weblog
+  URL: https://culturepolicy.org/policy-engagement/spain-cultural-rights-plan-2025-2027/
 
 - id: SpecialtyProduce_NLRB2019
   authority: N.L.R.B.
@@ -31440,6 +32285,29 @@ references:
   title: A Political-Professional Commitment? French Workers' and Unions' Lawyers
   type: article-journal
 
+- id: Willems2010
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  author:
+    - family: Willems
+      given: J.H.
+  citation-key: Willems2010
+  container-title: Cultural Heritage Management. A Global perspective
+  editor:
+    - family: Messenger
+      given: Phyllis Mauch
+    - family: Smith
+      given: George S.
+  issued:
+    - year: 2010
+  page: 212–229
+  publisher: University Press of Florida
+  title: Laws, Language, and Learning. Managing Archaeological Heritage Resources in Europe
+  type: chapter
+  URL: https://scholarlypublications.universiteitleiden.nl/handle/1887/16084
+
 - id: WilliamBGouldIV2019
   author:
     - family: William B. Gould IV
@@ -31887,6 +32755,60 @@ references:
   section: 6-3-414
   title: Wyoming Criminal Trespass
   type: legislation
+
+- id: Xanthaki2017
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  author:
+    - family: Xanthaki
+      given: Alexandra
+  citation-key: Xanthaki2017
+  collection-title: Rights, Debates, Challenges
+  container-title: Indigenous Peoples' Cultural Heritage
+  editor:
+    - family: Xanthaki
+      given: Alexandra
+    - family: Valkonen
+      given: Sanna
+    - family: Heinämäki
+      given: Leena
+    - family: Nuorgam
+      given: Piia
+  ISBN: 978-90-04-34218-7
+  issued:
+    - year: 2017
+  page: 1–19
+  publisher: Brill
+  title: 'International Instruments on Cultural Heritage: Tales of Fragmentation'
+  type: chapter
+  URL: http://www.jstor.org/stable/10.1163/j.ctv2gjwsw2.4
+
+- id: Xanthaki2017a
+  accessed:
+    - year: 2026
+      month: 10
+      day: 2
+  archive: JSTOR
+  citation-key: Xanthaki2017a
+  collection-editor:
+    - family: Xanthaki
+      given: Alexandra
+    - family: Valkonen
+      given: Sanna
+    - family: Heinämäki
+      given: Leena
+    - family: Nuorgam
+      given: Piia
+  ISBN: 978-90-04-34218-7
+  issued:
+    - year: 2017
+  publisher: Brill
+  title: 'Indigenous Peoples'' Cultural Heritage: Rights, Debates, Challenges'
+  type: book
+  URL: http://www.jstor.org/stable/10.1163/j.ctv2gjwsw2
 
 - id: YanowitzLOrealUSAInc_Cal2005
   authority: Cal.
