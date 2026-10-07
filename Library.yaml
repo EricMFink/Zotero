@@ -2210,6 +2210,41 @@ references:
   type: legal_case
   volume: '370'
 
+- id: Auganbai2020
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Auganbai
+      given: A.
+    - family: Kalymbek
+      given: B.
+    - family: Shulanbekova
+      given: G.K.
+    - family: Urisbaeva
+      given: A.A.
+    - family: Yerezhepkyzy
+      given: R.
+  citation-key: Auganbai2020
+  container-title: Environmental Policy and Law
+  container-title-short: Environ. Policy Law
+  DOI: 10.3233/EPL-190191
+  ISSN: 0378777X, 18785395
+  issue: '6'
+  issued:
+    - year: 2020
+      month: 4
+      day: 7
+  language: en
+  page: 379–388
+  source: DOI.org (Crossref)
+  title: 'Protection of Objects of Historical and Cultural Heritage: Legal Problems and the Application of Information Technologies'
+  title-short: Protection of Objects of Historical and Cultural Heritage
+  type: article-journal
+  URL: https://journals.sagepub.com/doi/full/10.3233/EPL-190191
+  volume: '49'
+
 - id: AultUnemploymentCompensationBoard_Pa1960
   authority: Pa.
   citation-key: AultUnemploymentCompensationBoard_Pa1960
@@ -3431,6 +3466,31 @@ references:
   type: legal_case
   volume: '276'
 
+- id: Blake2011
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Blake
+      given: Janet
+  citation-key: Blake2011
+  container-title: Heritage & Society
+  container-title-short: Herit. Soc.
+  DOI: 10.1179/hso.2011.4.2.199
+  ISSN: 2159-032X, 2159-0338
+  issue: '2'
+  issued:
+    - year: 2011
+      month: 9
+  language: en
+  page: 199–238
+  source: DOI.org (Crossref)
+  title: Taking a Human Rights Approach to Cultural Heritage Protection
+  type: article-journal
+  URL: http://www.tandfonline.com/doi/full/10.1179/hso.2011.4.2.199
+  volume: '4'
+
 - id: blakeDefiningCulturalHeritage2000
   accessed:
     - year: 2026
@@ -4601,6 +4661,33 @@ references:
   title: 'Eugene V. Debs: a graphic biography'
   title-short: Eugene V. Debs
   type: book
+
+- id: Burckhart2025
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Burckhart
+      given: Thiago Rafael
+  citation-key: Burckhart2025
+  container-title: Religions
+  DOI: 10.3390/rel16050538
+  ISSN: 2077-1444
+  issue: '5'
+  issued:
+    - year: 2025
+      month: 5
+  language: en
+  license: https://creativecommons.org/licenses/by/3.0/
+  page: '538'
+  publisher: Multidisciplinary Digital Publishing Institute
+  source: www.mdpi.com
+  title: '(In)tangible Cultural Heritage and Religious Minorities: Legal Strategies for the Preservation of Religious Sites'
+  title-short: (In)tangible Cultural Heritage and Religious Minorities
+  type: article-journal
+  URL: https://www.mdpi.com/2077-1444/16/5/538
+  volume: '16'
 
 - id: BurdineMetropolitanDirectProp_EDKy2018
   authority: E.D. Ky.
@@ -6999,6 +7086,17 @@ references:
   title-short: Cultural Resources
   type: webpage
   URL: https://www.blm.gov/programs/cultural-resources/cultural-resource-management
+
+- id: CulturalRightsProtectionCultural2018
+  citation-key: CulturalRightsProtectionCultural2018
+  genre: U.N. Human Rights Council Resolution
+  issued:
+    - year: 2018
+      month: 4
+      day: 9
+  note: A_HRC_RES_37_17-EN
+  title: Cultural rights and the protection of cultural heritage
+  type: document
 
 - id: Cummings2009
   author:
@@ -10150,6 +10248,32 @@ references:
   title: The Fight Against Opportunism in the C.P. of North Carolina
   type: personal_communication
   URL: https://www.marxists.org/history/erol/periodicals/spark/spark-2-4.htm
+
+- id: FilipaVrdoljak2011
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Filipa Vrdoljak
+      given: Ana
+  citation-key: FilipaVrdoljak2011
+  container-title: International Humanitarian Law and International Human Rights Law
+  DOI: 10.1093/acprof:oso/9780191001604.003.0007
+  editor:
+    - family: Ben-Naftali
+      given: Orna
+  ISBN: 978-0-19-100160-4
+  issued:
+    - year: 2011
+      month: 1
+      day: 13
+  page: '0'
+  publisher: Oxford University Press
+  source: Silverchair
+  title: Cultural Heritage in Human Rights and Humanitarian Law
+  type: chapter
+  URL: https://doi.org/10.1093/acprof:oso/9780191001604.003.0007
 
 - id: Fine1995
   accessed:
@@ -15120,6 +15244,26 @@ references:
   type: webpage
   URL: https://finding-aids.lib.unc.edu/catalog/05574_aspace_b0e5ca0da66b2e8c87548af7e11ae3e6
 
+- id: Jakubowski2016
+  call-number: K3240 .C855 2016
+  citation-key: Jakubowski2016
+  collection-number: volume 7
+  collection-title: Studies in intercultural human rights
+  editor:
+    - family: Jakubowski
+      given: Andrzej
+  ISBN: 978-90-04-31201-2
+  issued:
+    - year: 2016
+  language: en
+  number-of-pages: '364'
+  publisher: Brill Nijhoff
+  publisher-place: Leiden ; Boston
+  source: Library of Congress ISBN
+  title: 'Cultural rights as collective rights: an international law perspective'
+  title-short: Cultural rights as collective rights
+  type: book
+
 - id: JanjuaNeufeld_9thCir2019
   authority: 9th Cir.
   citation-key: JanjuaNeufeld_9thCir2019
@@ -18890,6 +19034,45 @@ references:
   type: legal_case
   volume: '427'
 
+- id: MaciasBetancourt2022
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Macias Betancourt
+      given: Oscar Genaro
+  citation-key: MaciasBetancourt2022
+  container-title: Opinio Juris
+  issued:
+    - year: 2022
+      month: 12
+      day: 2
+  language: en-US
+  title: 'The Debate Around The Restitution Of Cultural Property: The Limits Of International Law'
+  title-short: The Debate Around The Restitution Of Cultural Property
+  type: post-weblog
+  URL: https://opiniojuris.org/2022/12/02/the-debate-around-the-restitution-of-cultural-property-the-limits-of-international-law/
+
+- id: MaciasBetancourt2023
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Macias Betancourt
+      given: Oscar Genaro
+  citation-key: MaciasBetancourt2023
+  container-title: Opinio Juris
+  issued:
+    - year: 2023
+      month: 5
+      day: 12
+  language: en-US
+  title: Restitution of Cultural Property and Human Rights
+  type: post-weblog
+  URL: https://opiniojuris.org/2023/05/12/restitution-of-cultural-property-and-human-rights/
+
 - id: MaclarenMacomb_NLRB2023
   authority: N.L.R.B.
   citation-key: MaclarenMacomb_NLRB2023
@@ -19794,6 +19977,33 @@ references:
   title: Matter of Tennant
   type: legal_case
   volume: '392'
+
+- id: Mattez2024
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Mattez
+      given: Anaïs
+  citation-key: Mattez2024
+  container-title: International Journal of Heritage Studies
+  container-title-short: Int. J. Herit. Stud.
+  DOI: 10.1080/13527258.2023.2284715
+  ISSN: 1352-7258
+  issue: '2'
+  issued:
+    - year: 2024
+      month: 2
+      day: 1
+  page: 165–180
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: 'Restitution of cultural property: the rise and fall of a cosmopolitan ideal'
+  title-short: Restitution of cultural property
+  type: article-journal
+  URL: https://doi.org/10.1080/13527258.2023.2284715
+  volume: '30'
 
 - id: Mauss1972
   author:
@@ -29092,6 +29302,32 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.47
 
+- id: Soirila2022
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Soirila
+      given: Pauno
+  citation-key: Soirila2022
+  container-title: International Journal of Cultural Policy
+  container-title-short: Int. J. Cult. Policy
+  DOI: 10.1080/10286632.2021.1908275
+  ISSN: 1028-6632
+  issue: '1'
+  issued:
+    - year: 2022
+      month: 1
+      day: 2
+  page: 1–16
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: Indeterminacy in the cultural property restitution debate
+  type: article-journal
+  URL: https://doi.org/10.1080/10286632.2021.1908275
+  volume: '28'
+
 - id: Sokel1999
   accessed:
     - year: 2024
@@ -29384,6 +29620,26 @@ references:
   title: Greek Law 4355/2015 Implementing Directive 2014/60/EU on the Return of Cultural Objects Unlawfully Removed from the Territory of a Member State
   type: article-journal
   URL: https://ejournals.eu/czasopismo/saaclr/artykul/greek-law-4355-2015-implementing-directive-2014-60-eu-on-the-return-of-cultural-objects-unlawfully-removed-from-the-territory-of-a-member-state
+
+- id: Stamatoudi2022
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Stamatoudi
+      given: Irini
+  citation-key: Stamatoudi2022
+  DOI: 10.4337/9781800376915
+  ISBN: 978-1-80037-691-5
+  issued:
+    - year: 2022
+  language: en
+  publisher: Edward Elgar Publishing
+  source: DOI.org (Crossref)
+  title: Research Handbook on Intellectual Property and Cultural Heritage
+  type: book
+  URL: https://www.elgaronline.com/view/book/9781800376915/9781800376915.xml
 
 - id: Stampfer2003
   accessed:
@@ -30337,6 +30593,64 @@ references:
   title: Swift v. Tyson
   type: legal_case
   volume: '41'
+
+- id: Symank2026
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Symank
+      given: Rouven
+    - family: Lepenies
+      given: Philipp
+  citation-key: Symank2026
+  container-title: International Journal of Cultural Policy
+  container-title-short: Int. J. Cult. Policy
+  DOI: 10.1080/10286632.2026.2645038
+  ISSN: 1028-6632
+  issue: '4'
+  issued:
+    - year: 2026
+      month: 6
+      day: 7
+  page: 455–467
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: 'The politics of objects: materiality, power, and restitution'
+  title-short: The politics of objects
+  type: article-journal
+  URL: https://doi.org/10.1080/10286632.2026.2645038
+  volume: '32'
+
+- id: Symank2026a
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Symank
+      given: Rouven
+    - family: Mubusisi
+      given: Nzila Marina
+  citation-key: Symank2026a
+  container-title: International Journal of Cultural Policy
+  container-title-short: Int. J. Cult. Policy
+  DOI: 10.1080/10286632.2026.2645048
+  ISSN: 1028-6632
+  issue: '4'
+  issued:
+    - year: 2026
+      month: 6
+      day: 7
+  page: 558–571
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: 'From ceremony to custody: plural authority and multilevel governance in the Witbooi restitution between Germany and Namibia'
+  title-short: From ceremony to custody
+  type: article-journal
+  URL: https://doi.org/10.1080/10286632.2026.2645048
+  volume: '32'
 
 - id: Szente2025
   accessed:
@@ -33546,6 +33860,31 @@ references:
   title: Legal Resources for Activists Advocating for Palestine Across the U.S.
   type: post-weblog
   URL: https://palestinelegal.org/news/2023/10/12/resources-for-advocating-for-palestine-across-us
+
+- id: Zombory2022
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Zombory
+      given: Katarzyna
+  citation-key: Zombory2022
+  container-title: International Law From A Central European Perspective
+  DOI: 10.54171/2022.ar.ilfcec_11
+  editor:
+    - family: Raisz
+      given: Anikó
+  ISBN: 978-615-6474-25-4
+  issued:
+    - year: 2022
+  language: en
+  page: 239–262
+  publisher: Central European Academic Publishing
+  source: DOI.org (Crossref)
+  title: The Protection of Cultural Heritage in International Law
+  type: chapter
+  URL: https://books.ceapublishing.hu/index.php/lsce/catalog/book/14/chapter/380
 
 - id: ZornHillA2BTaxiLLC_SDNY2020
   authority: S.D.N.Y
