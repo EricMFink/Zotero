@@ -1825,6 +1825,18 @@ references:
   type: post-weblog
   URL: https://awionline.org/content/anti-whistleblower-ag-gag-legislation
 
+- id: AntiquitiesLaw
+  accessed:
+    - year: 2026
+      month: 10
+      day: 4
+  citation-key: AntiquitiesLaw
+  container-title: UNESCO Database of National Cultural Heritage Laws
+  publisher: UNESCO
+  title: Antiquities Law
+  type: webpage
+  URL: https://www.unesco.org/en/cultnatlaws/antiquities-law
+
 - id: Appelbaum2019
   author:
     - family: Appelbaum
@@ -1869,6 +1881,17 @@ references:
   title: Archaeological Resources Protection Act of 1979 - Archeology (U.S. National Park Service)
   type: webpage
   URL: https://www.nps.gov/subjects/archeology/archaeological-resources-protection-act.htm
+
+- id: ArchaeologyLawEthics
+  accessed:
+    - year: 2026
+      month: 10
+      day: 4
+  citation-key: ArchaeologyLawEthics
+  container-title: Society for American Archaeology
+  title: Archaeology Law & Ethics
+  type: webpage
+  URL: https://saa.org/Member/SAAMember/About-Archaeology/Archaeology-Law-and-Ethics.aspx
 
 - id: Ardant1975
   author:
@@ -2213,6 +2236,21 @@ references:
   type: legal_case
   volume: '742'
 
+- id: austinRelicCollectingLaw2019
+  author:
+    - family: Austin
+      given: Richard
+  citation-key: austinRelicCollectingLaw2019
+  container-title: Central States Archaeological Journal
+  container-title-short: Cent. States Archaeol. J.
+  issue: '1'
+  issued:
+    - year: 2019
+  page: 14–15
+  title: Relic Collecting and the Law
+  type: article-journal
+  volume: '66'
+
 - id: Bacon2012
   accessed:
     - year: 2025
@@ -2484,7 +2522,7 @@ references:
   archive: JSTOR
   author:
     - family: Barker
-      given: JOANNE
+      given: Joane
   citation-key: BARKER2013
   collection-title: A Sourcebook
   container-title: Recognition, Sovereignty Struggles, and Indigenous Rights in the United States
@@ -3392,6 +3430,47 @@ references:
   title: Black & White Taxi Co. v. Brown & Yellow Taxi Co.
   type: legal_case
   volume: '276'
+
+- id: blakeDefiningCulturalHeritage2000
+  accessed:
+    - year: 2026
+      month: 10
+      day: 4
+  author:
+    - family: Blake
+      given: Janet
+  citation-key: blakeDefiningCulturalHeritage2000
+  container-title: International & Comparative Law Quarterly
+  container-title-short: Int. Comp. Law Q.
+  DOI: 10.1017/S002058930006396X
+  ISSN: 1471-6895, 0020-5893
+  issue: '1'
+  issued:
+    - year: 2000
+      month: 1
+  page: 61–85
+  source: Cambridge University Press
+  title: On Defining the Cultural Heritage
+  type: article-journal
+  URL: https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/abs/on-defining-the-cultural-heritage/93909A5DCDC2A7F6A65E08897A9C9155
+  volume: '49'
+
+- id: blakeInternationalCulturalHeritage2015
+  author:
+    - family: Blake
+      given: Janet
+  citation-key: blakeInternationalCulturalHeritage2015
+  ISBN: 978-0-19-103531-9
+  issued:
+    - year: 2015
+      month: 6
+      day: 18
+  language: en
+  number-of-pages: '385'
+  publisher: OUP Oxford
+  source: Google Books
+  title: International Cultural Heritage Law
+  type: book
 
 - id: Blanc2019
   author:
@@ -7061,6 +7140,21 @@ references:
   type: article-journal
   volume: '70'
 
+- id: Cunningham2005
+  author:
+    - family: Cunningham
+      given: Richard B.
+  citation-key: Cunningham2005
+  ISBN: 978-1-59460-119-4
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: '844'
+  publisher: Carolina Academic Press
+  source: Google Books
+  title: Archaeology, Relics, and the Law
+  type: book
+
 - id: Curcio2022
   author:
     - family: Curcio
@@ -7482,6 +7576,22 @@ references:
   title: Desai v. Charter Communications, LLC
   type: legal_case
   volume: '381'
+
+- id: deskGuidesArtCultural
+  accessed:
+    - year: 2026
+      month: 10
+      day: 4
+  author:
+    - family: Desk
+      given: BLS Reference
+  citation-key: deskGuidesArtCultural
+  language: en
+  license: Copyright Brooklyn Law School 2026
+  title: 'Guides: Art, Cultural Heritage & Law: Guides, Handbooks & Toolkits'
+  title-short: Guides
+  type: webpage
+  URL: https://guides.brooklaw.edu/art_law/Guides
 
 - id: Desmond2017
   author:
@@ -8527,6 +8637,26 @@ references:
   title: Duplex Printing Press Co. v. Deering
   type: legal_case
   volume: '254'
+
+- id: durbachHeritageCultureRights2017
+  author:
+    - family: Durbach
+      given: Andrea
+    - family: Lixinski
+      given: Lucas
+  citation-key: durbachHeritageCultureRights2017
+  ISBN: 978-1-5099-0424-2
+  issued:
+    - year: 2017
+      month: 5
+      day: 18
+  language: en
+  number-of-pages: '311'
+  publisher: Bloomsbury Publishing
+  source: Google Books
+  title: 'Heritage, Culture and Rights: Challenging Legal Discourses'
+  title-short: Heritage, Culture and Rights
+  type: book
 
 - id: Durrenberger2007
   author:
@@ -10976,6 +11106,25 @@ references:
   title-short: The dual state
   type: book
 
+- id: francioniOxfordHandbookInternational2020
+  author:
+    - family: Francioni
+      given: Francesco
+    - family: Vrdoljak
+      given: Ana Filipa
+  citation-key: francioniOxfordHandbookInternational2020
+  ISBN: 978-0-19-260371-5
+  issued:
+    - year: 2020
+      month: 7
+      day: 30
+  language: en
+  number-of-pages: '1086'
+  publisher: Oxford University Press
+  source: Google Books
+  title: The Oxford Handbook of International Cultural Heritage Law
+  type: book
+
 - id: Frank2016
   author:
     - family: Frank
@@ -11787,6 +11936,26 @@ references:
   type: motion_picture
   URL: https://www.c-span.org/program/public-affairs-event/georgetown-university-discussion-on-the-rule-of-law-and-democracy-around-the-globe/655494
 
+- id: gerstenblithRecentDevelopmentsLegal2006
+  accessed:
+    - year: 2026
+      month: 10
+      day: 4
+  author:
+    - family: Gerstenblith
+      given: Patty
+  citation-key: gerstenblithRecentDevelopmentsLegal2006
+  container-title: Archaeology Cultural Heritage and the Antiquities Trade
+  ISBN: 978-0-8130-3339-6
+  issued:
+    - year: 2006
+  page: 68–92
+  publisher: University Press of Florida
+  source: DePaul University Research Portal
+  title: Recent developments in the legal protection of cultural heritage
+  type: chapter
+  URL: https://www.scopus.com/pages/publications/79954155260
+
 - id: Getman2007
   accessed:
     - year: 2025
@@ -12518,6 +12687,21 @@ references:
   title: Grable & Sons Metal Prod. v. Darue Eng'g & Mfg.
   type: legal_case
   volume: '545'
+
+- id: Grammaticaki-Alexiou2019
+  author:
+    - family: Grammaticaki-Alexiou
+      given: Anastasia
+  citation-key: Grammaticaki-Alexiou2019
+  genre: Course Materials
+  issued:
+    - year: 2019
+  language: en
+  publisher: Loyola Law School
+  publisher-place: Spetses, Greece
+  source: Zotero
+  title: Art and Cultural Property Law
+  type: manuscript
 
 - id: GrandJuryInvestigationCivil_nd
   accessed:
@@ -16459,7 +16643,7 @@ references:
   publisher: AltaMira Press
   publisher-place: Lanham, Maryland
   source: Berkeley Law
-  title: Cultural resource laws and practice
+  title: Cultural Resource Laws and Practice
   type: book
   URL: https://lawcat.berkeley.edu/record/511114
 
@@ -17261,6 +17445,17 @@ references:
   title: Lawlor v. Loewe
   type: legal_case
   volume: '235'
+
+- id: LawsAffectingArchaeological
+  accessed:
+    - year: 2026
+      month: 10
+      day: 4
+  citation-key: LawsAffectingArchaeological
+  container-title: North Carolina Office of State Archaeology
+  title: Laws Affecting Archaeological Resources | NC Archaeology
+  type: webpage
+  URL: https://archaeology.ncdcr.gov/programs/environmentalreview/laws
 
 - id: Lawson2021
   accessed:
@@ -22224,12 +22419,24 @@ references:
   type: legal_case
   volume: '503'
 
-- id: NativeAmericanGravesProtection_nd
+- id: NativeAmericanGravesProtection_IndianAffairs
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  citation-key: NativeAmericanGravesProtection_IndianAffairs
+  container-title: Bureau of Indian Affairs, Division of Environmental Services and Cultural Resources Management
+  language: en
+  title: Native American Graves Protection and Repatriation Act (BIA)
+  type: webpage
+  URL: https://www.bia.gov/service/nagpra
+
+- id: NativeAmericanGravesProtection_ParkService
   accessed:
     - year: 2026
       month: 10
       day: 2
-  citation-key: NativeAmericanGravesProtection_nd
+  citation-key: NativeAmericanGravesProtection_ParkService
   container-title: National Park Service
   language: en
   title: Native American Graves Protection and Repatriation Act
@@ -27928,6 +28135,21 @@ references:
   title-short: Lawyers crossing lines
   type: book
 
+- id: SellingInternationalAntiquities2002
+  accessed:
+    - year: 2026
+      month: 10
+      day: 4
+  citation-key: SellingInternationalAntiquities2002
+  container-title: Archaeology
+  issued:
+    - year: 2002
+      month: 4
+      day: 22
+  title: 'Selling the Past: International Antiquities Law Since 1900'
+  type: article-magazine
+  URL: https://archive.archaeology.org/online/features/schultz/intllaw.html
+
 - id: Selznick2013
   author:
     - family: Selznick
@@ -28232,6 +28454,22 @@ references:
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/fhu2.70026
   volume: '4'
 
+- id: Siegel2020
+  accessed:
+    - year: 2026
+      month: 10
+      day: 4
+  author:
+    - family: Siegel
+      given: Lucy
+  citation-key: Siegel2020
+  container-title: Antiquity & America
+  issued:
+    - year: 2020
+  title: Antiquities Law Primer
+  type: post-weblog
+  URL: https://bcma.bowdoin.edu/antiquity/antiquities-law-primer/
+
 - id: Silber2024
   accessed:
     - year: 2026
@@ -28340,6 +28578,25 @@ references:
   type: article-journal
   URL: https://www.jstor.org.elon.idm.oclc.org/stable/10.5699/austrianstudies.24.2016.0001
   volume: '24'
+
+- id: silvermanCulturalHeritageHuman2007
+  author:
+    - family: Silverman
+      given: Helaine
+    - family: Ruggles
+      given: D. Fairchild
+  citation-key: silvermanCulturalHeritageHuman2007
+  ISBN: 978-0-387-71312-0
+  issued:
+    - year: 2007
+      month: 11
+      day: 28
+  language: en
+  number-of-pages: '206'
+  publisher: Springer New York
+  source: Google Books
+  title: Cultural Heritage and Human Rights
+  type: book
 
 - id: SkagerbergBlandinPaperCo_Minn1936
   authority: Minn.
@@ -29054,6 +29311,24 @@ references:
   title-short: Politics and constitutionalism
   type: book
 
+- id: squillaceLoomingBattleAntiquities2018
+  accessed:
+    - year: 2026
+      month: 10
+      day: 4
+  author:
+    - family: Squillace
+      given: Mark
+  citation-key: squillaceLoomingBattleAntiquities2018
+  container-title: Harvard Law Review
+  issued:
+    - year: 2018
+      month: 1
+      day: 6
+  title: The Looming Battle over the Antiquities Act
+  type: post-weblog
+  URL: https://harvardlawreview.org/blog/2018/01/the-looming-battle-over-the-antiquities-act/
+
 - id: Srnicek2025
   author:
     - family: Srnicek
@@ -29086,6 +29361,29 @@ references:
   title: '‘Fascist storm troopers’: Racist police violence in 1940s America'
   type: webpage
   URL: https://www.aljazeera.com/features/2020/9/4/fascist-storm-troopers-racist-police-violence-in-1940s-america
+
+- id: Stamatoudi2016
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Stamatoudi
+      given: Irini A.
+  citation-key: Stamatoudi2016
+  container-title: Santander Art and Culture Law Review
+  container-title-short: Santander Art Cult. Law Rev.
+  DOI: 10.4467/2450050XSR.16.018.6126
+  ISSN: 2450050X
+  issue: '2'
+  issued:
+    - year: 2016
+  language: en
+  page: 57–70
+  source: DOI.org (Crossref)
+  title: Greek Law 4355/2015 Implementing Directive 2014/60/EU on the Return of Cultural Objects Unlawfully Removed from the Territory of a Member State
+  type: article-journal
+  URL: https://ejournals.eu/czasopismo/saaclr/artykul/greek-law-4355-2015-implementing-directive-2014-60-eu-on-the-return-of-cultural-objects-unlawfully-removed-from-the-territory-of-a-member-state
 
 - id: Stampfer2003
   accessed:
@@ -31312,6 +31610,18 @@ references:
   type: legal_case
   volume: '425'
 
+- id: USSchultz2003
+  authority: Court of Appeals, 2nd Cir.
+  citation-key: USSchultz2003
+  container-title: F.3d
+  container-title-short: F.3d
+  issued:
+    - year: 2003
+  page: '393'
+  title: U.S. v. Schultz
+  type: legal_case
+  volume: '333'
+
 - id: USStein_SDNY2006
   authority: S.D.N.Y.
   citation-key: USStein_SDNY2006
@@ -31475,6 +31785,30 @@ references:
   title: Vinluan v. Doyle
   type: legal_case
   volume: '873'
+
+- id: Voudouri2010
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Voudouri
+      given: Daphne
+  citation-key: Voudouri2010
+  container-title: International Journal of Cultural Property
+  container-title-short: Int. J. Cult. Prop.
+  DOI: 10.1017/S094073911000024X
+  issue: '3'
+  issued:
+    - year: 2010
+  language: en
+  page: 547–568
+  source: HeinOnline
+  title: 'Law and the Politics of the Past: Legal Protection of Cultural Heritage in Greece'
+  title-short: Law and the Politics of the Past
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/injculpy17&i=562
+  volume: '17'
 
 - id: Wacks2021
   author:
@@ -32963,6 +33297,30 @@ references:
   title: Why Don't Prosecutors Get Disciplined?
   type: post-weblog
   URL: https://www.apmreports.org/story/2018/09/18/why-dont-prosecutors-get-disciplined
+
+- id: Yupsanis2012
+  accessed:
+    - year: 2026
+      month: 10
+      day: 7
+  author:
+    - family: Yupsanis
+      given: Athanasios
+  citation-key: Yupsanis2012
+  container-title: 'Human Rights and Risks in the Digital Era: Globalization and the Effects of Information Technologies'
+  DOI: 10.4018/978-1-4666-0891-7.ch016
+  ISBN: 978-1-4666-0891-7
+  issued:
+    - year: 2012
+  language: en
+  license: Access limited to members
+  page: 256–277
+  publisher: IGI Global Scientific Publishing
+  source: www.igi-global.com
+  title: 'Cultural Property and Identity Issues in International Law: The Inadequate Protection of the Cultural Heritage of Indigenous Peoples'
+  title-short: Cultural Property and Identity Issues in International Law
+  type: chapter
+  URL: https://www.igi-global.com/chapter/cultural-property-identity-issues-international/www.igi-global.com/chapter/cultural-property-identity-issues-international/64949
 
 - id: Zacharias2001
   author:
