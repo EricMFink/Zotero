@@ -2090,6 +2090,17 @@ references:
   type: legal_case
   volume: '321'
 
+- id: ArtCulturalHeritageLaw_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 8
+  citation-key: ArtCulturalHeritageLaw_nd
+  language: en
+  title: Art & Cultural Heritage Law
+  type: webpage
+  URL: https://www.americanbar.org/groups/international_law/about/committees/art-cultural-heritage/
+
 - id: ArtCulturalPropertyLaw_nd
   accessed:
     - year: 2026
@@ -5306,6 +5317,26 @@ references:
   title-short: Prague and beyond
   type: book
 
+- id: Capote-Pérez2023
+  accessed:
+    - year: 2026
+      month: 10
+      day: 8
+  author:
+    - family: Capote-Pérez
+      given: Luis Javier
+  citation-key: Capote-Pérez2023
+  container-title: Law Between Creation and Interpretation
+  container-title-short: Law Creat. Interpret.
+  issued:
+    - year: 2023
+      month: 1
+      day: 1
+  source: www.academia.edu
+  title: Creation and Interpretation of the Concept of Cultural Heritage in the Spanish Law
+  type: article-journal
+  URL: https://www.academia.edu/108205155/Creation_and_interpretation_of_the_concept_of_Cultural_Heritage_in_the_Spanish_Law
+
 - id: CapotePérez2018
   author:
     - family: Capote Pérez
@@ -5467,6 +5498,45 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/ucinlr48&i=457
   volume: '48'
+
+- id: Carstens2020
+  accessed:
+    - year: 2026
+      month: 10
+      day: 8
+  citation-key: Carstens2020
+  DOI: 10.1093/oso/9780198846291.001.0001
+  editor:
+    - family: Carstens
+      given: Anne-Marie
+    - family: Varner
+      given: Elizabeth
+  ISBN: 978-0-19-884629-1
+  issued:
+    - year: 2020
+      month: 5
+      day: 14
+  publisher: Oxford University Press
+  source: Silverchair
+  title: Intersections in International Cultural Heritage Law
+  type: book
+  URL: https://doi.org/10.1093/oso/9780198846291.001.0001
+
+- id: Carstens2026
+  author:
+    - family: Carstens
+      given: Anne-Marie
+  citation-key: Carstens2026
+  container-title: University of Colorado Law Review
+  container-title-short: Univ. Colo. Law Rev.
+  issued:
+    - year: 2026
+  language: en
+  page: '1111'
+  source: Zotero
+  title: Cultural Genocide’s Surrogates
+  type: article-journal
+  volume: '97'
 
 - id: Casasanto1989
   accessed:
@@ -7711,6 +7781,17 @@ references:
   title-short: Evicted
   type: book
 
+- id: DestructionCulturalHeritageInternational_nd
+  accessed:
+    - year: 2026
+      month: 10
+      day: 8
+  citation-key: DestructionCulturalHeritageInternational_nd
+  language: en
+  title: Destruction of Cultural Heritage and International Criminal Law
+  type: webpage
+  URL: https://www.americanbar.org/groups/international_law/resources/on-demand/destruction-cultural-heritage-international-criminal-law/
+
 - id: Devins2004
   author:
     - family: Devins
@@ -7773,6 +7854,36 @@ references:
   title-short: Merchants of law as moral entrepreneurs
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.43
+
+- id: Díaz-Andreu2004
+  accessed:
+    - year: 2026
+      month: 10
+      day: 8
+  author:
+    - family: Díaz-Andreu
+      given: Margarita
+    - family: Sánchez
+      given: Manuel Ramírez
+  citation-key: Díaz-Andreu2004
+  container-title: Archaeology Under Dictatorship
+  DOI: 10.1007/0-387-36214-2_6
+  editor:
+    - family: Galaty
+      given: Michael L.
+    - family: Watkinson
+      given: Charles
+  ISBN: 978-0-387-36214-4
+  issued:
+    - year: 2004
+  language: en
+  page: 109–130
+  publisher: Springer US
+  publisher-place: Boston, MA
+  source: Springer Link
+  title: Archaeological Resource Management Under Franco's Spain The Comisaría General de Excavaciones Arqueológicas
+  type: chapter
+  URL: https://doi.org/10.1007/0-387-36214-2_6
 
 - id: Dickens2003
   author:
@@ -8887,6 +8998,23 @@ references:
   title: Enforcement Guidance on Harassment in the Workplace, EEOC-CVG-2024-1
   type: document
   URL: https://www.eeoc.gov/laws/guidance/enforcement-guidance-harassment-workplace
+
+- id: Efrat2010
+  author:
+    - family: Efrat
+      given: Asif
+  citation-key: Efrat2010
+  container-title: Cornell Law Faculty Working Papers
+  container-title-short: Cornell Law Fac. Work. Pap.
+  DOI: 10.2139/ssrn.1552339
+  issued:
+    - year: 2010
+      month: 2
+      day: 13
+  source: ResearchGate
+  title: 'Protecting Against Plunder: The United States and the International Efforts Against Looting of Antiquities'
+  title-short: Protecting Against Plunder
+  type: article-journal
 
 - id: EganAWCompaniesInc_NDIll2024
   authority: N.D. Ill.
@@ -20437,6 +20565,25 @@ references:
   title-short: Silk stockings and socialism
   type: book
 
+- id: McCullough2026
+  accessed:
+    - year: 2026
+      month: 10
+      day: 8
+  author:
+    - family: McCullough
+      given: Michael
+  citation-key: McCullough2026
+  issued:
+    - year: 2026
+      month: 7
+      day: 13
+  language: en
+  title: 'Art and Cultural Heritage Law International Legal Developments Year in Review: 2025'
+  title-short: Art and Cultural Heritage Law International Legal Developments Year in Review
+  type: webpage
+  URL: https://www.americanbar.org/groups/international_law/resources/year-in-review/2025/art-cultural-heritage-law/
+
 - id: McDonnellDouglasCorpGreen_US1973
   authority: U.S
   citation-key: McDonnellDouglasCorpGreen_US1973
@@ -24419,7 +24566,7 @@ references:
   accessed:
     - year: 2026
       month: 10
-      day: 2
+      day: 8
   author:
     - family: Pérez
       given: Luis Javier Capote
@@ -24431,13 +24578,13 @@ references:
     - year: 2023
       month: 12
       day: 13
-  language: en
+  language: pl
   page: 321–332
   source: ejournals.eu
   title: 'Illicit Trade in Cultural Objects under the Spanish Law: The Cabeza de mujer joven Case'
   title-short: Illicit Trade in Cultural Objects under the Spanish Law
   type: article-journal
-  URL: https://ejournals.eu/en/journal/saaclr/article/illicit-trade-in-cultural-objects-under-the-spanish-law-the-cabeza-de-mujer-joven-case
+  URL: https://ejournals.eu/czasopismo/saaclr/artykul/illicit-trade-in-cultural-objects-under-the-spanish-law-the-cabeza-de-mujer-joven-case
   volume: '2023'
 
 - id: PETACooper1st2016
@@ -25680,6 +25827,32 @@ references:
   title-short: The Rationalization of Policy
   type: article-journal
   volume: '18'
+
+- id: Radclyffe2026
+  accessed:
+    - year: 2026
+      month: 10
+      day: 8
+  author:
+    - family: Radclyffe
+      given: Charles James Tekarawa
+    - family: Foukona
+      given: Joseph D.
+  citation-key: Radclyffe2026
+  container-title: International Journal of Cultural Property
+  container-title-short: Int. J. Cult. Prop.
+  DOI: 10.1017/S0940739126100216
+  ISSN: 0940-7391, 1465-7317
+  issued:
+    - year: 2026
+  language: en
+  page: e1
+  source: DOI.org (Crossref)
+  title: 'Using Kastom Evidence in Court: A Legal and Archaeological Review of the Intersection Between Indigenous Cultural Heritage, Land Ownership, and Law in Solomon Islands'
+  title-short: Using Kastom Evidence in Court
+  type: article-journal
+  URL: https://www.cambridge.org/core/product/identifier/S0940739126100216/type/journal_article
+  volume: '33'
 
 - id: Raden2025
   accessed:
@@ -30723,6 +30896,25 @@ references:
   type: book
   URL: https://www.haymarketbooks.org/books/744-poor-workers-unions
 
+- id: TakingsPrivatePropertyWorld2025
+  accessed:
+    - year: 2026
+      month: 10
+      day: 8
+  author:
+    - family: Carstens
+      given: Anne-Marie
+  citation-key: TakingsPrivatePropertyWorld2025
+  container-title: Harvard International Law Journal
+  issued:
+    - year: 2025
+      month: 2
+      day: 21
+  language: en-US
+  title: Takings, Private Property & World Cultural Heritage
+  type: post-weblog
+  URL: https://journals.law.harvard.edu/ilj/2025/02/takings-private-property-world-cultural-heritage/
+
 - id: Talbert2017
   accessed:
     - year: 2018
@@ -32479,6 +32671,31 @@ references:
   title: 'We Charge Genocide: The Historic Petition to the United Nations for Relief from a Crime of the United States Government Against the Negro People'
   title-short: We Charge Genocide
   type: document
+
+- id: Węgrzak2020
+  accessed:
+    - year: 2026
+      month: 10
+      day: 8
+  author:
+    - family: Węgrzak
+      given: Małgorzata Joanna
+    - family: Zeidler
+      given: Kamil
+  citation-key: Węgrzak2020
+  container-title: Brazilian Journal of International Law
+  container-title-short: Braz. J. Int. Law
+  DOI: 10.5102/rdi.v17i3.7028
+  ISSN: 2237-1036
+  issue: '3'
+  issued:
+    - year: 2020
+  language: en
+  source: publicacoesacademicas.uniceub.br
+  title: The principles of Cultural Heritage Law based on the Polish Law as an example
+  type: article-journal
+  URL: https://publicacoesacademicas.uniceub.br/rdi/article/view/7028
+  volume: '17'
 
 - id: Weidhorn1998
   author:
