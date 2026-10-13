@@ -12696,6 +12696,34 @@ references:
   URL: https://access.heinonline.com/HOL/Page?handle=hein.journals/intlyr44&id=499&div=&collection=
   volume: '44'
 
+- id: Gerstenblith2015
+  accessed:
+    - year: 2026
+      month: 10
+      day: 13
+  author:
+    - family: Gerstenblith
+      given: Patty
+  citation-key: Gerstenblith2015
+  container-title: International Journal of Cultural Property
+  container-title-short: Int. J. Cult. Prop.
+  DOI: 10.1017/S094073911500017X
+  ISSN: 0940-7391, 1465-7317
+  issue: 2–3
+  issued:
+    - year: 2015
+      month: 8
+  language: en
+  page: 357–378
+  source: Cambridge University Press
+  title: >-
+    For Better and For Worse: Evolving United States Policy on Cultural Property
+    Litigation and Restitution
+  title-short: For Better and For Worse
+  type: article-journal
+  URL: https://www.cambridge.org/core/journals/international-journal-of-cultural-property/article/abs/for-better-and-for-worse-evolving-united-states-policy-on-cultural-property-litigation-and-restitution/BFD430CB5EE8667F6F7256739EC2AD1C
+  volume: '22'
+
 - id: Gerstenblith2025
   accessed:
     - year: 2026
@@ -17379,6 +17407,29 @@ references:
   URL: https://www.ssrn.com/abstract=4847736
   volume: '75'
 
+- id: Kersel2025
+  author:
+    - family: Kersel
+      given: Morag
+    - family: Gerstenblith
+      given: Patty
+  citation-key: Kersel2025
+  container-title: University of Chicago Legal Forum
+  container-title-short: Univ. Chic. Leg. Forum
+  ISSN: 0892-5593
+  issue: '1'
+  issued:
+    - year: 2025
+      month: 1
+      day: 23
+  language: en
+  page: Article 6
+  source: COinS
+  title: Cultural Heritage and Security Policy
+  type: article-journal
+  URL: https://chicagounbound.uchicago.edu/uclf/vol2024/iss1/6
+  volume: '2024'
+
 - id: Kessler-Harris2001
   author:
     - family: Kessler-Harris
@@ -18261,6 +18312,29 @@ references:
   URL: https://www.jstor.org/stable/1389496
   volume: '40'
 
+- id: Lalwani2020
+  accessed:
+    - year: 2026
+      month: 10
+      day: 13
+  author:
+    - family: Lalwani
+      given: Nikita
+  citation-key: Lalwani2020
+  container-title: Yale Law Journal Forum
+  container-title-short: Yale Law J. Forum
+  issued:
+    - year: 2020
+      month: 7
+      day: 19
+  language: en
+  page: '78'
+  title: 'State of the Art: How Cultural Property Became a National-Security Priority'
+  title-short: State of the Art
+  type: article-journal
+  URL: https://yalelawjournal.org/essay/state-of-the-art-how-cultural-property-became-a-national-security-priority
+  volume: '130'
+
 - id: Lam2016
   author:
     - family: Lam
@@ -19054,6 +19128,24 @@ references:
   URL: https://browzine.com/articles/510675826
   volume: '55'
 
+- id: Levine2025
+  accessed:
+    - year: 2026
+      month: 10
+      day: 13
+  author:
+    - family: Levine
+      given: Jane
+    - family: Dreyer
+      given: Elyse
+  citation-key: Levine2025
+  issued:
+    - year: 2025
+      season: 1
+  title: S. Art, Cultural Heritage and the Law | Columbia Law School
+  type: webpage
+  URL: https://www.law.columbia.edu/academics/courses/35219
+
 - id: Levitsky2015
   author:
     - family: Levitsky
@@ -19416,6 +19508,26 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/829095
   volume: '27'
+
+- id: Lixinski2024
+  accessed:
+    - year: 2026
+      month: 10
+      day: 13
+  author:
+    - family: Lixinski
+      given: Lucas
+  citation-key: Lixinski2024
+  DOI: https://doi.org/10.4337/9781035324422
+  ISBN: 978-1-0353-2442-2
+  issued:
+    - year: 2024
+  language: en
+  publisher: Edward Elgar Publishing
+  source: www.elgaronline.com
+  title: A Research Agenda for Cultural Heritage Law
+  type: book
+  URL: https://www.elgaronline.com/monobook/book/9781035324422/9781035324422.xml
 
 - id: Lobel2003
   author:
@@ -21903,6 +22015,36 @@ references:
   title: A New Social Constructionism for Sociolegal Studies
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.27
+
+- id: Meskell2023
+  accessed:
+    - year: 2026
+      month: 10
+      day: 13
+  author:
+    - family: Meskell
+      given: Lynn
+  citation-key: Meskell2023
+  container-title: Heritage Destruction, Human Rights and International Law
+  DOI: 10.1163/9789004434011_005
+  editor:
+    - family: Strecker
+      given: Amy
+    - family: Powderly
+      given: Joseph
+  ISBN: 978-90-04-43401-1 978-90-04-43399-1
+  issued:
+    - year: 2023
+      month: 7
+      day: 15
+  language: en
+  page: 68–83
+  publisher: Brill | Nijhoff
+  source: DOI.org (Crossref)
+  title: 'Grave Crimes: Conservation, Conflict and Criminality in Timbuktu1'
+  title-short: Grave Crimes
+  type: chapter
+  URL: https://brill.com/view/book/9789004434011/BP000004.xml
 
 - id: MessinaIowaDeptJob_Iowa1983
   authority: Iowa
