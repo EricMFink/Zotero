@@ -8,25 +8,13 @@ pluginVersion: "3.0.3"
 savedAt: "2026-03-29T15:21:37.429Z"
 content: |-
   // @ author pcschreiber1
-  <h1>${topItem.getField('title') || "Untitled"}</h1>
+
+
+${topItem.getCreators().map(v => v.lastName || "").join(", ") || ""} ${topItem.getField('title') || "Untitled"} (${topItem.getField('date') || ""})
   
-  <strong>Authors:</strong> ${topItem.getCreators().map(v => v.lastName || "").join(", ") || "Unknown"}<br/>
-  <strong>Year:</strong> ${topItem.getField('date') || "N/A"}
+
   
-  <h2>Reason to read the paper/question to answer</h2>
-  
-  <h2>Summary</h2>
-  ${{
-    try {
-      const abstract = topItem.getField('abstractNote');
-      return abstract ? `<p>${abstract}</p>` : "<p><em>No summary available</em></p>";
-    } catch (e) {
-      Zotero.logError(e);
-      return "<p><em>Error retrieving summary</em></p>";
-    }
-  }}$
-  
-  <h2>Notes</h2>
+## PDF Annotations
   
   ${{
     try {
