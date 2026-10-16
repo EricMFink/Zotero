@@ -181,7 +181,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '1331'
-  title: 1331 Federal Question
+  title: Federal Question
   type: legislation
   volume: '28'
 
@@ -191,7 +191,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '1332'
-  title: 1332 Diversity of Citizenship
+  title: Diversity of Citizenship
   type: legislation
   volume: '28'
 
@@ -201,7 +201,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '1367'
-  title: 1367 Supplemental Jurisdiction
+  title: Supplemental Jurisdiction
   type: legislation
   volume: '28'
 
@@ -241,7 +241,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '1447'
-  title: Procedure After Removal
+  title: Procedure after Removal
   type: legislation
   volume: '28'
 
@@ -251,7 +251,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '1652'
-  title: RDA 1652
+  title: State Laws as Rules of Decision
   type: legislation
   volume: '28'
 
@@ -261,7 +261,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '1738'
-  title: 1738 Full Faith & Credit
+  title: Full Faith & Credit
   type: legislation
   volume: '28'
 
@@ -271,7 +271,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '2071'
-  title: REA 2071
+  title: Rules Enabling Act -- Rule-Making Power Generally
   type: legislation
   volume: '28'
 
@@ -281,7 +281,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '2072'
-  title: REA 2072
+  title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Power to Prescribe'
   type: legislation
   volume: '28'
 
@@ -291,7 +291,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '2073'
-  title: REA 2073
+  title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Method of Prescribing'
   type: legislation
   volume: '28'
 
@@ -301,7 +301,7 @@ references:
   container-title-short: U.S.C.
   language: en
   section: '2074'
-  title: REA 2074
+  title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Submission to Congress'
   type: legislation
   volume: '28'
 
@@ -750,12 +750,11 @@ references:
 
 - id: ABACriminalJusticeStandards
   citation-key: ABACriminalJusticeStandards
-  genre: A.B.A. Criminal Justice Standards for the Prosecution Function
   issued:
     - year: 2017
   language: en
   title: A.B.A. Criminal Justice Standards for the Prosecution Function
-  type: standard
+  type: legislation
 
 - id: Abbott1988
   author:
@@ -5155,7 +5154,7 @@ references:
   container-title: Code Civ. Proc.
   language: en
   section: '410.10'
-  title: California Long Arm
+  title: Jurisdiction
   type: legislation
   volume: Cal.
 
@@ -9788,245 +9787,6 @@ references:
   type: article-newspaper
   URL: https://newspapers.digitalnc.org/lccn/sn92073228/1955-04-20/ed-1/seq-1/
 
-- id: FedCiv
-  citation-key: FedCiv
-  genre: Fed. R. Civ. P.
-  language: en
-  title: FRCP
-  type: standard
-
-- id: FedCiv_Rule1
-  citation-key: FedCiv_Rule1
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 1
-  title: FRCP 1
-  type: standard
-
-- id: FedCiv_Rule10
-  citation-key: FedCiv_Rule10
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 10
-  title: FRCP 10
-  type: standard
-
-- id: FedCiv_Rule11
-  citation-key: FedCiv_Rule11
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 11
-  title: FRCP 11
-  type: standard
-
-- id: FedCiv_Rule12
-  citation-key: FedCiv_Rule12
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 12
-  title: FRCP 12
-  type: standard
-
-- id: FedCiv_Rule13
-  citation-key: FedCiv_Rule13
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 13
-  title: FRCP 13
-  type: standard
-
-- id: FedCiv_Rule14
-  citation-key: FedCiv_Rule14
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 14
-  title: FRCP 14
-  type: standard
-
-- id: FedCiv_Rule15
-  citation-key: FedCiv_Rule15
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 15
-  title: FRCP 15
-  type: standard
-
-- id: FedCiv_Rule16
-  citation-key: FedCiv_Rule16
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 16
-  title: FRCP 16
-  type: standard
-
-- id: FedCiv_Rule17
-  citation-key: FedCiv_Rule17
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 17
-  title: FRCP 17
-  type: standard
-
-- id: FedCiv_Rule18
-  citation-key: FedCiv_Rule18
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 18
-  title: FRCP 18
-  type: standard
-
-- id: FedCiv_Rule19
-  citation-key: FedCiv_Rule19
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 19
-  title: FRCP 19
-  type: standard
-
-- id: FedCiv_Rule2
-  citation-key: FedCiv_Rule2
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 2
-  title: FRCP 2
-  type: standard
-
-- id: FedCiv_Rule20
-  citation-key: FedCiv_Rule20
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 20
-  title: FRCP 20
-  type: standard
-
-- id: FedCiv_Rule21
-  citation-key: FedCiv_Rule21
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 21
-  title: FRCP 21
-  type: standard
-
-- id: FedCiv_Rule22
-  citation-key: FedCiv_Rule22
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 22
-  title: FRCP 22
-  type: standard
-
-- id: FedCiv_Rule23
-  citation-key: FedCiv_Rule23
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 23
-  title: FRCP 23
-  type: standard
-
-- id: FedCiv_Rule24
-  citation-key: FedCiv_Rule24
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 24
-  title: FRCP 24
-  type: standard
-
-- id: FedCiv_Rule25
-  citation-key: FedCiv_Rule25
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 25
-  title: FRCP 25
-  type: standard
-
-- id: FedCiv_Rule26
-  citation-key: FedCiv_Rule26
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 26
-  title: FRCP 26
-  type: standard
-
-- id: FedCiv_Rule3
-  citation-key: FedCiv_Rule3
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 3
-  title: FRCP 3
-  type: standard
-
-- id: FedCiv_Rule4
-  citation-key: FedCiv_Rule4
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 4
-  title: FRCP 4
-  type: standard
-
-- id: FedCiv_Rule42
-  citation-key: FedCiv_Rule42
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 42
-  title: FRCP 42
-  type: standard
-
-- id: FedCiv_Rule5
-  citation-key: FedCiv_Rule5
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 5
-  title: FRCP 5
-  type: standard
-
-- id: FedCiv_Rule55
-  citation-key: FedCiv_Rule55
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 55
-  title: FRCP 55
-  type: standard
-
-- id: FedCiv_Rule56
-  citation-key: FedCiv_Rule56
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 56
-  title: FRCP 56
-  type: standard
-
-- id: FedCiv_Rule6
-  citation-key: FedCiv_Rule6
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 6
-  title: FRCP 6
-  type: standard
-
-- id: FedCiv_Rule7
-  citation-key: FedCiv_Rule7
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 7
-  title: FRCP 7
-  type: standard
-
-- id: FedCiv_Rule8
-  citation-key: FedCiv_Rule8
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 8
-  title: FRCP 8
-  type: standard
-
-- id: FedCiv_Rule9
-  citation-key: FedCiv_Rule9
-  genre: Fed. R. Civ. P.
-  language: en
-  number: Rule 9
-  title: FRCP 9
-  type: standard
-
 - id: FederalSecurityInc_NLRB2012
   authority: N.L.R.B.
   citation-key: FederalSecurityInc_NLRB2012
@@ -10060,13 +9820,191 @@ references:
   type: document
   URL: https://www.emfink.net/ElonLaw/assets/pdf/Fink2014a.pdf
 
-- id: FedEvid_Rule502
-  citation-key: FedEvid_Rule502
-  genre: Fed. R. Evid.
+- id: FedRCivP
+  citation-key: FedRCivP
   language: en
-  number: Rule 502
-  title: Federal Rules of Evidence 502
-  type: standard
+  title: Fed. R. Civ. P.
+  type: legislation
+
+- id: FedRCivP1
+  citation-key: FedRCivP1
+  language: en
+  title: Fed. R. Civ. P. Rule 1
+  type: legislation
+
+- id: FedRCivP10
+  citation-key: FedRCivP10
+  language: en
+  title: Fed. R. Civ. P. Rule 10
+  type: legislation
+
+- id: FedRCivP11
+  citation-key: FedRCivP11
+  language: en
+  title: Fed. R. Civ. P. Rule 11
+  type: legislation
+
+- id: FedRCivP12
+  citation-key: FedRCivP12
+  language: en
+  title: Fed. R. Civ. P. Rule 12
+  type: legislation
+
+- id: FedRCivP13
+  citation-key: FedRCivP13
+  language: en
+  title: Fed. R. Civ. P. Rule 13
+  type: legislation
+
+- id: FedRCivP14
+  citation-key: FedRCivP14
+  language: en
+  title: Fed. R. Civ. P. Rule 14
+  type: legislation
+
+- id: FedRCivP15
+  citation-key: FedRCivP15
+  language: en
+  title: Fed. R. Civ. P. Rule 15
+  type: legislation
+
+- id: FedRCivP16
+  citation-key: FedRCivP16
+  language: en
+  title: Fed. R. Civ. P. Rule 16
+  type: legislation
+
+- id: FedRCivP17
+  citation-key: FedRCivP17
+  language: en
+  title: Fed. R. Civ. P. Rule 17
+  type: legislation
+
+- id: FedRCivP18
+  citation-key: FedRCivP18
+  language: en
+  title: Fed. R. Civ. P. Rule 18
+  type: legislation
+
+- id: FedRCivP19
+  citation-key: FedRCivP19
+  language: en
+  title: Fed. R. Civ. P. Rule 19
+  type: legislation
+
+- id: FedRCivP2
+  citation-key: FedRCivP2
+  language: en
+  title: Fed. R. Civ. P. Rule 2
+  type: legislation
+
+- id: FedRCivP20
+  citation-key: FedRCivP20
+  language: en
+  title: Fed. R. Civ. P. Rule 20
+  type: legislation
+
+- id: FedRCivP21
+  citation-key: FedRCivP21
+  language: en
+  title: Fed. R. Civ. P. Rule 21
+  type: legislation
+
+- id: FedRCivP22
+  citation-key: FedRCivP22
+  language: en
+  title: Fed. R. Civ. P. Rule 22
+  type: legislation
+
+- id: FedRCivP23
+  citation-key: FedRCivP23
+  language: en
+  title: Fed. R. Civ. P. Rule 23
+  type: legislation
+
+- id: FedRCivP24
+  citation-key: FedRCivP24
+  language: en
+  title: Fed. R. Civ. P. Rule 24
+  type: legislation
+
+- id: FedRCivP25
+  citation-key: FedRCivP25
+  language: en
+  title: Fed. R. Civ. P. Rule 25
+  type: legislation
+
+- id: FedRCivP26
+  citation-key: FedRCivP26
+  language: en
+  title: Fed. R. Civ. P. Rule 26
+  type: legislation
+
+- id: FedRCivP3
+  citation-key: FedRCivP3
+  language: en
+  title: Fed. R. Civ. P. Rule 3
+  type: legislation
+
+- id: FedRCivP4
+  citation-key: FedRCivP4
+  language: en
+  title: Fed. R. Civ. P. Rule 4
+  type: legislation
+
+- id: FedRCivP42
+  citation-key: FedRCivP42
+  language: en
+  title: Fed. R. Civ. P. Rule 42
+  type: legislation
+
+- id: FedRCivP5
+  citation-key: FedRCivP5
+  language: en
+  title: Fed. R. Civ. P. Rule 5
+  type: legislation
+
+- id: FedRCivP55
+  citation-key: FedRCivP55
+  language: en
+  title: Fed. R. Civ. P. Rule 55
+  type: legislation
+
+- id: FedRCivP56
+  citation-key: FedRCivP56
+  language: en
+  title: Fed. R. Civ. P. Rule 56
+  type: legislation
+
+- id: FedRCivP6
+  citation-key: FedRCivP6
+  language: en
+  title: Fed. R. Civ. P. Rule 6
+  type: legislation
+
+- id: FedRCivP7
+  citation-key: FedRCivP7
+  language: en
+  title: Fed. R. Civ. P. Rule 7
+  type: legislation
+
+- id: FedRCivP8
+  citation-key: FedRCivP8
+  language: en
+  title: Fed. R. Civ. P. Rule 8
+  type: legislation
+
+- id: FedRCivP9
+  citation-key: FedRCivP9
+  language: en
+  title: Fed. R. Civ. P. Rule 9
+  type: legislation
+
+- id: FedREvid502
+  citation-key: FedREvid502
+  language: en
+  title: Fed. R. Evid. 502
+  type: legislation
 
 - id: Feigenson2000
   author:
@@ -22365,461 +22303,347 @@ references:
   type: webpage
   URL: https://www.movementlawlab.org
 
-- id: MRPC_PreambleandScope
-  citation-key: MRPC_PreambleandScope
-  genre: MRPC
+- id: MRPC_Preamble
+  citation-key: MRPC_Preamble
   language: en
-  number: Preamble and Scope
-  title: MRPC Preamble & Scope
-  type: standard
+  title: 'Model R. Prof. Conduct: Preamble & Scope'
+  type: legislation
 
-- id: MRPC_Rule1.0
-  citation-key: MRPC_Rule1.0
-  genre: MRPC
+- id: MRPC1.0
+  citation-key: MRPC1.0
   language: en
-  number: Rule 1.0
-  title: MRPC 1.0
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.0
+  type: legislation
 
-- id: MRPC_Rule1.1
-  citation-key: MRPC_Rule1.1
-  genre: MRPC
+- id: MRPC1.1
+  citation-key: MRPC1.1
   language: en
-  number: Rule 1.1
-  title: MRPC 1.1
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.1
+  type: legislation
 
-- id: MRPC_Rule1.10
-  citation-key: MRPC_Rule1.10
-  genre: MRPC
+- id: MRPC1.10
+  citation-key: MRPC1.10
   language: en
-  number: Rule 1.10
-  title: MRPC 1.10
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.10
+  type: legislation
 
-- id: MRPC_Rule1.11
-  citation-key: MRPC_Rule1.11
-  genre: MRPC
+- id: MRPC1.11
+  citation-key: MRPC1.11
   language: en
-  number: Rule 1.11
-  title: MRPC 1.11
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.11
+  type: legislation
 
-- id: MRPC_Rule1.12
-  citation-key: MRPC_Rule1.12
-  genre: MRPC
+- id: MRPC1.12
+  citation-key: MRPC1.12
   language: en
-  number: Rule 1.12
-  title: MRPC 1.12
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.12
+  type: legislation
 
-- id: MRPC_Rule1.13
-  citation-key: MRPC_Rule1.13
-  genre: MRPC
+- id: MRPC1.13
+  citation-key: MRPC1.13
   language: en
-  number: Rule 1.13
-  title: MRPC 1.13
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.13
+  type: legislation
 
-- id: MRPC_Rule1.14
-  citation-key: MRPC_Rule1.14
-  genre: MRPC
+- id: MRPC1.14
+  citation-key: MRPC1.14
   language: en
-  number: Rule 1.14
-  title: MRPC 1.14
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.14
+  type: legislation
 
-- id: MRPC_Rule1.15
-  citation-key: MRPC_Rule1.15
-  genre: MRPC
+- id: MRPC1.15
+  citation-key: MRPC1.15
   language: en
-  number: Rule 1.15
-  title: MRPC 1.15
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.15
+  type: legislation
 
-- id: MRPC_Rule1.16
-  citation-key: MRPC_Rule1.16
-  genre: MRPC
+- id: MRPC1.16
+  citation-key: MRPC1.16
   language: en
-  number: Rule 1.16
-  title: MRPC 1.16
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.16
+  type: legislation
 
-- id: MRPC_Rule1.17
-  citation-key: MRPC_Rule1.17
-  genre: MRPC
+- id: MRPC1.17
+  citation-key: MRPC1.17
   language: en
-  number: Rule 1.17
-  title: MRPC 1.17
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.17
+  type: legislation
 
-- id: MRPC_Rule1.18
-  citation-key: MRPC_Rule1.18
-  genre: MRPC
+- id: MRPC1.18
+  citation-key: MRPC1.18
   language: en
-  number: Rule 1.18
-  title: MRPC 1.18
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.18
+  type: legislation
 
-- id: MRPC_Rule1.2
-  citation-key: MRPC_Rule1.2
-  genre: MRPC
+- id: MRPC1.2
+  citation-key: MRPC1.2
   language: en
-  number: Rule 1.2
-  title: MRPC 1.2
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.2
+  type: legislation
 
-- id: MRPC_Rule1.3
-  citation-key: MRPC_Rule1.3
-  genre: MRPC
+- id: MRPC1.3
+  citation-key: MRPC1.3
   language: en
-  number: Rule 1.3
-  title: MRPC 1.3
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.3
+  type: legislation
 
-- id: MRPC_Rule1.4
-  citation-key: MRPC_Rule1.4
-  genre: MRPC
+- id: MRPC1.4
+  citation-key: MRPC1.4
   language: en
-  number: Rule 1.4
-  title: MRPC 1.4
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.4
+  type: legislation
 
-- id: MRPC_Rule1.5
-  citation-key: MRPC_Rule1.5
-  genre: MRPC
+- id: MRPC1.5
+  citation-key: MRPC1.5
   language: en
-  number: Rule 1.5
-  title: MRPC 1.5
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.5
+  type: legislation
 
-- id: MRPC_Rule1.6
-  citation-key: MRPC_Rule1.6
-  genre: MRPC
+- id: MRPC1.6
+  citation-key: MRPC1.6
   language: en
-  number: Rule 1.6
-  title: MRPC 1.6
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.6
+  type: legislation
 
-- id: MRPC_Rule1.7
-  citation-key: MRPC_Rule1.7
-  genre: MRPC
+- id: MRPC1.7
+  citation-key: MRPC1.7
   language: en
-  number: Rule 1.7
-  title: MRPC 1.7
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.7
+  type: legislation
 
-- id: MRPC_Rule1.8
-  citation-key: MRPC_Rule1.8
-  genre: MRPC
+- id: MRPC1.8
+  citation-key: MRPC1.8
   language: en
-  number: Rule 1.8
-  title: MRPC 1.8
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.8
+  type: legislation
 
-- id: MRPC_Rule1.9
-  citation-key: MRPC_Rule1.9
-  genre: MRPC
+- id: MRPC1.9
+  citation-key: MRPC1.9
   language: en
-  number: Rule 1.9
-  title: MRPC 1.9
-  type: standard
+  title: Model R. Prof. Conduct Rule 1.9
+  type: legislation
 
-- id: MRPC_Rule2.1
-  citation-key: MRPC_Rule2.1
-  genre: MRPC
+- id: MRPC2.1
+  citation-key: MRPC2.1
   language: en
-  number: Rule 2.1
-  title: MRPC 2.1
-  type: standard
+  title: Model R. Prof. Conduct Rule 2.1
+  type: legislation
 
-- id: MRPC_Rule2.3
-  citation-key: MRPC_Rule2.3
-  genre: MRPC
+- id: MRPC2.3
+  citation-key: MRPC2.3
   language: en
-  number: Rule 2.3
-  title: MRPC 2.3
-  type: standard
+  title: Model R. Prof. Conduct Rule 2.3
+  type: legislation
 
-- id: MRPC_Rule2.4
-  citation-key: MRPC_Rule2.4
-  genre: MRPC
+- id: MRPC2.4
+  citation-key: MRPC2.4
   language: en
-  number: Rule 2.4
-  title: MRPC 2.4
-  type: standard
+  title: Model R. Prof. Conduct Rule 2.4
+  type: legislation
 
-- id: MRPC_Rule3.1
-  citation-key: MRPC_Rule3.1
-  genre: MRPC
+- id: MRPC3.1
+  citation-key: MRPC3.1
   language: en
-  number: Rule 3.1
-  title: MRPC 3.1
-  type: standard
+  title: Model R. Prof. Conduct Rule 3.1
+  type: legislation
 
-- id: MRPC_Rule3.2
-  citation-key: MRPC_Rule3.2
-  genre: MRPC
+- id: MRPC3.2
+  citation-key: MRPC3.2
   language: en
-  number: Rule 3.2
-  title: MRPC 3.2
-  type: standard
+  title: Model R. Prof. Conduct Rule 3.2
+  type: legislation
 
-- id: MRPC_Rule3.3
-  citation-key: MRPC_Rule3.3
-  genre: MRPC
+- id: MRPC3.3
+  citation-key: MRPC3.3
   language: en
-  number: Rule 3.3
-  title: MRPC 3.3
-  type: standard
+  title: Model R. Prof. Conduct Rule 3.3
+  type: legislation
 
-- id: MRPC_Rule3.4
-  citation-key: MRPC_Rule3.4
-  genre: MRPC
+- id: MRPC3.4
+  citation-key: MRPC3.4
   language: en
-  number: Rule 3.4
-  title: MRPC 3.4
-  type: standard
+  title: Model R. Prof. Conduct Rule 3.4
+  type: legislation
 
-- id: MRPC_Rule3.5
-  citation-key: MRPC_Rule3.5
-  genre: MRPC
+- id: MRPC3.5
+  citation-key: MRPC3.5
   language: en
-  number: Rule 3.5
-  title: MRPC 3.5
-  type: standard
+  title: Model R. Prof. Conduct Rule 3.5
+  type: legislation
 
-- id: MRPC_Rule3.6
-  citation-key: MRPC_Rule3.6
-  genre: MRPC
+- id: MRPC3.6
+  citation-key: MRPC3.6
   language: en
-  number: Rule 3.6
-  title: MRPC 3.6
-  type: standard
+  title: Model R. Prof. Conduct Rule 3.6
+  type: legislation
 
-- id: MRPC_Rule3.7
-  citation-key: MRPC_Rule3.7
-  genre: MRPC
+- id: MRPC3.7
+  citation-key: MRPC3.7
   language: en
-  number: Rule 3.7
-  title: MRPC 3.7
-  type: standard
+  title: Model R. Prof. Conduct Rule 3.7
+  type: legislation
 
-- id: MRPC_Rule3.8
-  citation-key: MRPC_Rule3.8
-  genre: MRPC
+- id: MRPC3.8
+  citation-key: MRPC3.8
   language: en
-  number: Rule 3.8
-  title: MRPC 3.8
-  type: standard
+  title: Model R. Prof. Conduct Rule 3.8
+  type: legislation
 
-- id: MRPC_Rule3.9
-  citation-key: MRPC_Rule3.9
-  genre: MRPC
+- id: MRPC3.9
+  citation-key: MRPC3.9
   language: en
-  number: Rule 3.9
-  title: MRPC 3.9
-  type: standard
+  title: Model R. Prof. Conduct Rule 3.9
+  type: legislation
 
-- id: MRPC_Rule4.1
-  citation-key: MRPC_Rule4.1
-  genre: MRPC
+- id: MRPC4.1
+  citation-key: MRPC4.1
   language: en
-  number: Rule 4.1
-  title: MRPC 4.1
-  type: standard
+  title: Model R. Prof. Conduct Rule 4.1
+  type: legislation
 
-- id: MRPC_Rule4.2
-  citation-key: MRPC_Rule4.2
-  genre: MRPC
+- id: MRPC4.2
+  citation-key: MRPC4.2
   language: en
-  number: Rule 4.2
-  title: MRPC 4.2
-  type: standard
+  title: Model R. Prof. Conduct Rule 4.2
+  type: legislation
 
-- id: MRPC_Rule4.3
-  citation-key: MRPC_Rule4.3
-  genre: MRPC
+- id: MRPC4.3
+  citation-key: MRPC4.3
   language: en
-  number: Rule 4.3
-  title: MRPC 4.3
-  type: standard
+  title: Model R. Prof. Conduct Rule 4.3
+  type: legislation
 
-- id: MRPC_Rule4.4
-  citation-key: MRPC_Rule4.4
-  genre: MRPC
+- id: MRPC4.4
+  citation-key: MRPC4.4
   language: en
-  number: Rule 4.4
-  title: MRPC 4.4
-  type: standard
+  title: Model R. Prof. Conduct Rule 4.4
+  type: legislation
 
-- id: MRPC_Rule5.1
-  citation-key: MRPC_Rule5.1
-  genre: MRPC
+- id: MRPC5.1
+  citation-key: MRPC5.1
   language: en
-  number: Rule 5.1
-  title: MRPC 5.1
-  type: standard
+  title: Model R. Prof. Conduct Rule 5.1
+  type: legislation
 
-- id: MRPC_Rule5.2
-  citation-key: MRPC_Rule5.2
-  genre: MRPC
+- id: MRPC5.2
+  citation-key: MRPC5.2
   language: en
-  number: Rule 5.2
-  title: MRPC 5.2
-  type: standard
+  title: Model R. Prof. Conduct Rule 5.2
+  type: legislation
 
-- id: MRPC_Rule5.3
-  citation-key: MRPC_Rule5.3
-  genre: MRPC
+- id: MRPC5.3
+  citation-key: MRPC5.3
   language: en
-  number: Rule 5.3
-  title: MRPC 5.3
-  type: standard
+  title: Model R. Prof. Conduct Rule 5.3
+  type: legislation
 
-- id: MRPC_Rule5.4
-  citation-key: MRPC_Rule5.4
-  genre: MRPC
+- id: MRPC5.4
+  citation-key: MRPC5.4
   language: en
-  number: Rule 5.4
-  title: MRPC 5.4
-  type: standard
+  title: Model R. Prof. Conduct Rule 5.4
+  type: legislation
 
-- id: MRPC_Rule5.5
-  citation-key: MRPC_Rule5.5
-  genre: MRPC
+- id: MRPC5.5
+  citation-key: MRPC5.5
   language: en
-  number: Rule 5.5
-  title: MRPC 5.5
-  type: standard
+  title: Model R. Prof. Conduct Rule 5.5
+  type: legislation
 
-- id: MRPC_Rule5.6
-  citation-key: MRPC_Rule5.6
-  genre: MRPC
+- id: MRPC5.6
+  citation-key: MRPC5.6
   language: en
-  number: Rule 5.6
-  title: MRPC 5.6
-  type: standard
+  title: Model R. Prof. Conduct Rule 5.6
+  type: legislation
 
-- id: MRPC_Rule5.7
-  citation-key: MRPC_Rule5.7
-  genre: MRPC
+- id: MRPC5.7
+  citation-key: MRPC5.7
   language: en
-  number: Rule 5.7
-  title: MRPC 5.7
-  type: standard
+  title: Model R. Prof. Conduct Rule 5.7
+  type: legislation
 
-- id: MRPC_Rule6.1
-  citation-key: MRPC_Rule6.1
-  genre: MRPC
+- id: MRPC6.1
+  citation-key: MRPC6.1
   language: en
-  number: Rule 6.1
-  title: MRPC 6.1
-  type: standard
+  title: Model R. Prof. Conduct Rule 6.1
+  type: legislation
 
-- id: MRPC_Rule6.2
-  citation-key: MRPC_Rule6.2
-  genre: MRPC
+- id: MRPC6.2
+  citation-key: MRPC6.2
   language: en
-  number: Rule 6.2
-  title: MRPC 6.2
-  type: standard
+  title: Model R. Prof. Conduct Rule 6.2
+  type: legislation
 
-- id: MRPC_Rule6.3
-  citation-key: MRPC_Rule6.3
-  genre: MRPC
+- id: MRPC6.3
+  citation-key: MRPC6.3
   language: en
-  number: Rule 6.3
-  title: MRPC 6.3
-  type: standard
+  title: Model R. Prof. Conduct Rule 6.3
+  type: legislation
 
-- id: MRPC_Rule6.4
-  citation-key: MRPC_Rule6.4
-  genre: MRPC
+- id: MRPC6.4
+  citation-key: MRPC6.4
   language: en
-  number: Rule 6.4
-  title: MRPC 6.4
-  type: standard
+  title: Model R. Prof. Conduct Rule 6.4
+  type: legislation
 
-- id: MRPC_Rule6.5
-  citation-key: MRPC_Rule6.5
-  genre: MRPC
+- id: MRPC6.5
+  citation-key: MRPC6.5
   language: en
-  number: Rule 6.5
-  title: MRPC 6.5
-  type: standard
+  title: Model R. Prof. Conduct Rule 6.5
+  type: legislation
 
-- id: MRPC_Rule7.1
-  citation-key: MRPC_Rule7.1
-  genre: MRPC
+- id: MRPC7.1
+  citation-key: MRPC7.1
   language: en
-  number: Rule 7.1
-  title: MRPC 7.1
-  type: standard
+  title: Model R. Prof. Conduct Rule 7.1
+  type: legislation
 
-- id: MRPC_Rule7.2
-  citation-key: MRPC_Rule7.2
-  genre: MRPC
+- id: MRPC7.2
+  citation-key: MRPC7.2
   language: en
-  number: Rule 7.2
-  title: MRPC 7.2
-  type: standard
+  title: Model R. Prof. Conduct Rule 7.2
+  type: legislation
 
-- id: MRPC_Rule7.3
-  citation-key: MRPC_Rule7.3
-  genre: MRPC
+- id: MRPC7.3
+  citation-key: MRPC7.3
   language: en
-  number: Rule 7.3
-  title: MRPC 7.3
-  type: standard
+  title: Model R. Prof. Conduct Rule 7.3
+  type: legislation
 
-- id: MRPC_Rule7.6
-  citation-key: MRPC_Rule7.6
-  genre: MRPC
+- id: MRPC7.6
+  citation-key: MRPC7.6
   language: en
-  number: Rule 7.6
-  title: MRPC 7.6
-  type: standard
+  title: Model R. Prof. Conduct Rule 7.6
+  type: legislation
 
-- id: MRPC_Rule8.1
-  citation-key: MRPC_Rule8.1
-  genre: MRPC
+- id: MRPC8.1
+  citation-key: MRPC8.1
   language: en
-  number: Rule 8.1
-  title: MRPC 8.1
-  type: standard
+  title: Model R. Prof. Conduct Rule 8.1
+  type: legislation
 
-- id: MRPC_Rule8.2
-  citation-key: MRPC_Rule8.2
-  genre: MRPC
+- id: MRPC8.2
+  citation-key: MRPC8.2
   language: en
-  number: Rule 8.2
-  title: MRPC 8.2
-  type: standard
+  title: Model R. Prof. Conduct Rule 8.2
+  type: legislation
 
-- id: MRPC_Rule8.3
-  citation-key: MRPC_Rule8.3
-  genre: MRPC
+- id: MRPC8.3
+  citation-key: MRPC8.3
   language: en
-  number: Rule 8.3
-  title: MRPC 8.3
-  type: standard
+  title: Model R. Prof. Conduct Rule 8.3
+  type: legislation
 
-- id: MRPC_Rule8.4
-  citation-key: MRPC_Rule8.4
-  genre: MRPC
+- id: MRPC8.4
+  citation-key: MRPC8.4
   language: en
-  number: Rule 8.4
-  title: MRPC 8.4
-  type: standard
+  title: Model R. Prof. Conduct Rule 8.4
+  type: legislation
 
-- id: MRPC_Rule8.5
-  citation-key: MRPC_Rule8.5
-  genre: MRPC
+- id: MRPC8.5
+  citation-key: MRPC8.5
   language: en
-  number: Rule 8.5
-  title: MRPC 8.5
-  type: standard
+  title: Model R. Prof. Conduct Rule 8.5
+  type: legislation
 
 - id: Muhlhoff2025
   author:
@@ -23202,15 +23026,12 @@ references:
   type: legal_case
   volume: '46'
 
-- id: NCBdofLawExaminers_CharacterFitnessGuidelines_nd
-  author:
-    - family: N.C. Bd. of Law Examiners
-      given: ''
-  citation-key: NCBdofLawExaminers_CharacterFitnessGuidelines_nd
+- id: NCBdLawExaminersCharacterFitness
+  citation-key: NCBdLawExaminersCharacterFitness
   language: en
-  title: Character & Fitness Guidelines
+  title: N.C. Bd. of Law Examiners, Character & Fitness Guidelines
   title-short: Character & Fitness Guidelines
-  type: document
+  type: legislation
 
 - id: NCGenStat1-53912
   citation-key: NCGenStat1-53912
@@ -23321,13 +23142,11 @@ references:
   type: legislation
   volume: N.C.
 
-- id: NCRPC_Rule8.6
-  citation-key: NCRPC_Rule8.6
-  genre: N.C.R.P.C.
+- id: NCRPC8.6
+  citation-key: NCRPC8.6
   language: en
-  number: Rule 8.6
   title: N.C. Rules of Professional Conduct 8.6
-  type: standard
+  type: legislation
 
 - id: NCStateBarEthridge_NCCtApp2008
   authority: N.C. Ct. App.
@@ -23986,7 +23805,7 @@ references:
   container-title-short: C.P.L.R.
   language: en
   section: '302'
-  title: NY Long Arm
+  title: Personal Jurisdiction by Acts of Non-Domiciliaries
   type: legislation
   volume: N.Y.
 
@@ -26978,17 +26797,15 @@ references:
 
 - id: Rest2dJudgments
   citation-key: Rest2dJudgments
-  genre: Rest. (2d) of Judgments
   language: en
   title: Rest. (2d) of Judgments
-  type: standard
+  type: legislation
 
 - id: Rest2dLawGoverningLawyers
   citation-key: Rest2dLawGoverningLawyers
-  genre: Rest. (2d) of the Law Governing Lawyers
   language: en
   title: Rest. (2d) of the Law Governing Lawyers
-  type: standard
+  type: legislation
 
 - id: ReStateGrandJury_NJ2009
   authority: N.J.
@@ -32507,37 +32324,29 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/152417738/abstract/C7C6757E0ED14FACPQ/44
 
-- id: USConst_amend.V
-  citation-key: USConst_amend.V
-  genre: U.S. Const.
+- id: USConstitutionAmendV
+  citation-key: USConstitutionAmendV
   language: en
-  number: amend. V
-  title: U.S. Constitution amend. 5
-  type: standard
+  title: U.S. Constitution amend. V
+  type: legislation
 
-- id: USConst_amend.XIV
-  citation-key: USConst_amend.XIV
-  genre: U.S. Const.
+- id: USConstitutionAmendXIV
+  citation-key: USConstitutionAmendXIV
   language: en
-  number: amend. XIV
-  title: U.S. Constitution amend. 14
-  type: standard
+  title: U.S. Constitution amend. XIV
+  type: legislation
 
-- id: USConst_art.III
-  citation-key: USConst_art.III
-  genre: U.S. Const.
+- id: USConstitutionArtIII
+  citation-key: USConstitutionArtIII
   language: en
-  number: art. III
-  title: U.S. Constitution art. 3
-  type: standard
+  title: U.S. Constitution art. III
+  type: legislation
 
-- id: USConst_art.IV
-  citation-key: USConst_art.IV
-  genre: U.S. Const.
+- id: USConstitutionArtIV
+  citation-key: USConstitutionArtIV
   language: en
-  number: art. IV
-  title: U.S. Constitution art. 4
-  type: standard
+  title: U.S. Constitution art. IV
+  type: legislation
 
 - id: USConstitutionCommerceClause
   citation-key: USConstitutionCommerceClause
