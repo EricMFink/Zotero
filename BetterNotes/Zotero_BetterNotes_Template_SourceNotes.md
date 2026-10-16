@@ -5,7 +5,7 @@
 name: "[item]SourceNotes"
 zoteroVersion: "10.0.6"
 pluginVersion: "3.3.3"
-savedAt: "2026-10-14T22:21:55.198Z"
+savedAt: "2026-10-16T09:45:00.198Z"
 content: |-
   // @ author efink@elon.edu
   
