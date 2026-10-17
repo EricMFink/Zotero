@@ -180,6 +180,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '1331'
   title: Federal Question
   type: legislation
@@ -190,6 +191,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '1332'
   title: Diversity of Citizenship
   type: legislation
@@ -200,6 +202,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '1367'
   title: Supplemental Jurisdiction
   type: legislation
@@ -210,6 +213,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '1441'
   title: Removal of Civil Actions
   type: legislation
@@ -220,6 +224,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '1445'
   title: Nonremovable Actions
   type: legislation
@@ -230,6 +235,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '1446'
   title: Procedure for Removal
   type: legislation
@@ -240,6 +246,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '1447'
   title: Procedure after Removal
   type: legislation
@@ -250,6 +257,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '1652'
   title: State Laws as Rules of Decision
   type: legislation
@@ -260,6 +268,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '1738'
   title: Full Faith & Credit
   type: legislation
@@ -270,6 +279,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '2071'
   title: Rules Enabling Act -- Rule-Making Power Generally
   type: legislation
@@ -280,6 +290,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '2072'
   title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Power to Prescribe'
   type: legislation
@@ -290,6 +301,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '2073'
   title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Method of Prescribing'
   type: legislation
@@ -300,6 +312,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
+  note: Sort 2
   section: '2074'
   title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Submission to Congress'
   type: legislation
@@ -5153,6 +5166,7 @@ references:
   citation-key: CalCodeCivProc410.10
   container-title: Code Civ. Proc.
   language: en
+  note: Sort 6
   section: '410.10'
   title: Jurisdiction
   type: legislation
@@ -9236,16 +9250,14 @@ references:
   URL: https://contestedhistories.org/resources/case-studies/emancipation-memorial-in-boston-and-washington/
 
 - id: EmployeeDutyLoyaltyEmployer
-  accessed:
-    - year: 2023
-      month: 2
-      day: 28
   citation-key: EmployeeDutyLoyaltyEmployer
   genre: Restatement of Employment Law
   issued:
     - year: 2015
   language: en
-  publisher: American Law Institute
+  number: '8.01'
+  publisher: Am. Law Inst.
+  status: section
   title: Employee Duty of Loyalty to the Employer
   type: standard
 
@@ -9822,189 +9834,282 @@ references:
 
 - id: FedRCivP
   citation-key: FedRCivP
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
   title: Fed. R. Civ. P.
   type: legislation
 
 - id: FedRCivP1
   citation-key: FedRCivP1
+  genre: Fed. R. Civ. P.
   language: en
-  title: Fed. R. Civ. P. Rule 1
-  type: legislation
+  note: Sort 5
+  number: '1'
+  status: Rule
+  title: FRCP 1
+  type: standard
 
 - id: FedRCivP10
   citation-key: FedRCivP10
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '10'
   title: Fed. R. Civ. P. Rule 10
   type: legislation
 
 - id: FedRCivP11
   citation-key: FedRCivP11
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '11'
   title: Fed. R. Civ. P. Rule 11
   type: legislation
 
 - id: FedRCivP12
   citation-key: FedRCivP12
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '12'
   title: Fed. R. Civ. P. Rule 12
   type: legislation
 
 - id: FedRCivP13
   citation-key: FedRCivP13
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '13'
   title: Fed. R. Civ. P. Rule 13
   type: legislation
 
 - id: FedRCivP14
   citation-key: FedRCivP14
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '14'
   title: Fed. R. Civ. P. Rule 14
   type: legislation
 
 - id: FedRCivP15
   citation-key: FedRCivP15
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '15'
   title: Fed. R. Civ. P. Rule 15
   type: legislation
 
 - id: FedRCivP16
   citation-key: FedRCivP16
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '16'
   title: Fed. R. Civ. P. Rule 16
   type: legislation
 
 - id: FedRCivP17
   citation-key: FedRCivP17
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '17'
   title: Fed. R. Civ. P. Rule 17
   type: legislation
 
 - id: FedRCivP18
   citation-key: FedRCivP18
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '18'
   title: Fed. R. Civ. P. Rule 18
   type: legislation
 
 - id: FedRCivP19
   citation-key: FedRCivP19
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '19'
   title: Fed. R. Civ. P. Rule 19
   type: legislation
 
 - id: FedRCivP2
   citation-key: FedRCivP2
+  genre: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  number: '1'
+  status: Rule
   title: Fed. R. Civ. P. Rule 2
-  type: legislation
+  type: standard
 
 - id: FedRCivP20
   citation-key: FedRCivP20
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '20'
   title: Fed. R. Civ. P. Rule 20
   type: legislation
 
 - id: FedRCivP21
   citation-key: FedRCivP21
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '21'
   title: Fed. R. Civ. P. Rule 21
   type: legislation
 
 - id: FedRCivP22
   citation-key: FedRCivP22
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '22'
   title: Fed. R. Civ. P. Rule 22
   type: legislation
 
 - id: FedRCivP23
   citation-key: FedRCivP23
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '23'
   title: Fed. R. Civ. P. Rule 23
   type: legislation
 
 - id: FedRCivP24
   citation-key: FedRCivP24
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '24'
   title: Fed. R. Civ. P. Rule 24
   type: legislation
 
 - id: FedRCivP25
   citation-key: FedRCivP25
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '25'
   title: Fed. R. Civ. P. Rule 25
   type: legislation
 
 - id: FedRCivP26
   citation-key: FedRCivP26
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '26'
   title: Fed. R. Civ. P. Rule 26
   type: legislation
 
 - id: FedRCivP3
   citation-key: FedRCivP3
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '3'
   title: Fed. R. Civ. P. Rule 3
   type: legislation
 
 - id: FedRCivP4
   citation-key: FedRCivP4
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '4'
   title: Fed. R. Civ. P. Rule 4
   type: legislation
 
 - id: FedRCivP42
   citation-key: FedRCivP42
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '42'
   title: Fed. R. Civ. P. Rule 42
   type: legislation
 
 - id: FedRCivP5
   citation-key: FedRCivP5
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '5'
   title: Fed. R. Civ. P. Rule 5
   type: legislation
 
 - id: FedRCivP55
   citation-key: FedRCivP55
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '55'
   title: Fed. R. Civ. P. Rule 55
   type: legislation
 
 - id: FedRCivP56
   citation-key: FedRCivP56
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '56'
   title: Fed. R. Civ. P. Rule 56
   type: legislation
 
 - id: FedRCivP6
   citation-key: FedRCivP6
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '6'
   title: Fed. R. Civ. P. Rule 6
   type: legislation
 
 - id: FedRCivP7
   citation-key: FedRCivP7
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '7'
   title: Fed. R. Civ. P. Rule 7
   type: legislation
 
 - id: FedRCivP8
   citation-key: FedRCivP8
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '8'
   title: Fed. R. Civ. P. Rule 8
   type: legislation
 
 - id: FedRCivP9
   citation-key: FedRCivP9
+  container-title: Fed. R. Civ. P.
   language: en
+  note: Sort 5
+  section: '9'
   title: Fed. R. Civ. P. Rule 9
   type: legislation
 
 - id: FedREvid502
   citation-key: FedREvid502
+  genre: Fed. R. Evid.
   language: en
+  number: '502'
   title: Fed. R. Evid. 502
-  type: legislation
+  type: standard
 
 - id: Feigenson2000
   author:
@@ -22622,10 +22727,14 @@ references:
   type: legislation
 
 - id: MRPC8.2
+  authority: A.B.A.
   citation-key: MRPC8.2
+  genre: Model Rules of Prof. Conduct
   language: en
-  title: Model R. Prof. Conduct Rule 8.2
-  type: legislation
+  number: '8.2'
+  status: Rule
+  title: MRPC 8.2
+  type: standard
 
 - id: MRPC8.3
   citation-key: MRPC8.3
@@ -23031,7 +23140,7 @@ references:
   language: en
   title: N.C. Bd. of Law Examiners, Character & Fitness Guidelines
   title-short: Character & Fitness Guidelines
-  type: legislation
+  type: standard
 
 - id: NCGenStat1-53912
   citation-key: NCGenStat1-53912
@@ -23053,21 +23162,20 @@ references:
 
 - id: NCGenStat84-2.1
   citation-key: NCGenStat84-2.1
-  container-title: Gen. Stat.
+  container-title: N.C. Gen. Stat.
   language: en
   section: 84-2.1
   title: NCGS 84-21 Practice of law defined
   type: legislation
-  volume: N.C.
 
-- id: NCGenStat84-28
-  citation-key: NCGenStat84-28
-  container-title: Gen. Stat.
+- id: NCGenStat84-2.8
+  citation-key: NCGenStat84-2.8
+  container-title: N.C. Gen. Stat.
   language: en
-  section: 84-28
-  title: NCGS 84-28 Discipline and disbarment
+  note: Sort 6
+  section: 84-2.8
+  title: NCGS 84-2.8 Discipline and disbarment
   type: legislation
-  volume: N.C.
 
 - id: NCGenStat95-240
   citation-key: NCGenStat95-240
@@ -23144,9 +23252,13 @@ references:
 
 - id: NCRPC8.6
   citation-key: NCRPC8.6
+  genre: N.C. R.P.C.
   language: en
-  title: N.C. Rules of Professional Conduct 8.6
-  type: legislation
+  note: Sort 6
+  number: '8.6'
+  status: Rule
+  title: N.C. RPC 8.6
+  type: standard
 
 - id: NCStateBarEthridge_NCCtApp2008
   authority: N.C. Ct. App.
@@ -23804,6 +23916,7 @@ references:
   container-title: C.P.L.R.
   container-title-short: C.P.L.R.
   language: en
+  note: Sort 6
   section: '302'
   title: Personal Jurisdiction by Acts of Non-Domiciliaries
   type: legislation
@@ -26795,17 +26908,25 @@ references:
   URL: https://academicworks.cuny.edu/clr/vol24/iss1/6
   volume: '24'
 
-- id: Rest2dJudgments
-  citation-key: Rest2dJudgments
-  language: en
-  title: Rest. (2d) of Judgments
-  type: legislation
-
 - id: Rest2dLawGoverningLawyers
   citation-key: Rest2dLawGoverningLawyers
+  genre: Restatement (Second) of the Law Governing Lawyers
+  issued:
+    - year: 2000
   language: en
-  title: Rest. (2d) of the Law Governing Lawyers
-  type: legislation
+  publisher: Am. Law Inst.
+  title: Restatement (Second) of the Law Governing Lawyers
+  type: standard
+
+- id: Rest2dofJudgments
+  citation-key: Rest2dofJudgments
+  issued:
+    - year: 1982
+  language: en
+  note: Sort 8
+  publisher: Am. Law Inst.
+  title: Restatement (Second) of Judgments
+  type: standard
 
 - id: ReStateGrandJury_NJ2009
   authority: N.J.
@@ -32324,37 +32445,49 @@ references:
   type: article-newspaper
   URL: https://www.proquest.com/docview/152417738/abstract/C7C6757E0ED14FACPQ/44
 
-- id: USConstitutionAmendV
-  citation-key: USConstitutionAmendV
+- id: USConstamendV
+  citation-key: USConstamendV
+  container-title: U.S. Const.
   language: en
-  title: U.S. Constitution amend. V
+  note: Sort 1
+  section: amend. V
+  title: U.S. Const. amend. V
   type: legislation
 
-- id: USConstitutionAmendXIV
-  citation-key: USConstitutionAmendXIV
+- id: USConstamendXIV
+  citation-key: USConstamendXIV
+  container-title: U.S. Const.
   language: en
-  title: U.S. Constitution amend. XIV
+  note: Sort 1
+  section: amend. XIV
+  title: U.S. Const. amend. XIV
   type: legislation
 
-- id: USConstitutionArtIII
-  citation-key: USConstitutionArtIII
+- id: USConstartIII
+  citation-key: USConstartIII
+  container-title: U.S. Const.
   language: en
-  title: U.S. Constitution art. III
+  note: Sort 1
+  section: art. III
+  title: U.S. Const. art. III
   type: legislation
 
-- id: USConstitutionArtIV
-  citation-key: USConstitutionArtIV
+- id: USConstartIV
+  citation-key: USConstartIV
+  container-title: U.S. Const.
   language: en
-  title: U.S. Constitution art. IV
+  note: Sort 1
+  section: art. IV
+  title: U.S. Const. art. IV
   type: legislation
 
 - id: USConstitutionCommerceClause
   citation-key: USConstitutionCommerceClause
-  genre: U.S. Const.
+  container-title: U.S. Const.
   language: en
   number: art. I, sec. 8, clause 3
   title: U.S. Constitution, Commerce Clause
-  type: standard
+  type: legislation
 
 - id: USDeloitteLLP_DCCir2010
   authority: D.C. Cir.
