@@ -31,7 +31,6 @@ references:
   issued:
     - year: 1948
   language: en
-  number: 62 Stat. 808
   section: '2385'
   title: Smith Act (Amendment)
   type: legislation
@@ -168,7 +167,7 @@ references:
 
 - id: 27NCAdminCode03.0600
   citation-key: 27NCAdminCode03.0600
-  container-title: N.C. Admin Code
+  container-title: N.C. Admin. Code
   language: en
   section: '03.0600'
   title: Rules Governing Admission to the Practice of Law in the State of North Carolina
@@ -180,7 +179,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '1331'
   title: Federal Question
   type: legislation
@@ -191,7 +189,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '1332'
   title: Diversity of Citizenship
   type: legislation
@@ -202,7 +199,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '1367'
   title: Supplemental Jurisdiction
   type: legislation
@@ -213,7 +209,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '1441'
   title: Removal of Civil Actions
   type: legislation
@@ -224,7 +219,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '1445'
   title: Nonremovable Actions
   type: legislation
@@ -235,7 +229,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '1446'
   title: Procedure for Removal
   type: legislation
@@ -246,7 +239,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '1447'
   title: Procedure after Removal
   type: legislation
@@ -257,7 +249,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '1652'
   title: State Laws as Rules of Decision
   type: legislation
@@ -268,7 +259,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '1738'
   title: Full Faith & Credit
   type: legislation
@@ -279,7 +269,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '2071'
   title: Rules Enabling Act -- Rule-Making Power Generally
   type: legislation
@@ -290,7 +279,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '2072'
   title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Power to Prescribe'
   type: legislation
@@ -301,7 +289,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '2073'
   title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Method of Prescribing'
   type: legislation
@@ -312,7 +299,6 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  note: Sort 2
   section: '2074'
   title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Submission to Congress'
   type: legislation
@@ -763,11 +749,14 @@ references:
 
 - id: ABACriminalJusticeStandards
   citation-key: ABACriminalJusticeStandards
+  edition: 4th
+  genre: Criminal Justice Standards for the Prosecution Function
   issued:
     - year: 2017
   language: en
-  title: A.B.A. Criminal Justice Standards for the Prosecution Function
-  type: legislation
+  publisher: A.B.A.
+  title: Criminal Justice Standards for the Prosecution Function
+  type: standard
 
 - id: Abbott1988
   author:
@@ -1237,7 +1226,7 @@ references:
       day: 13
   language: en
   section: News and Stories
-  title: AI Has an Environmental Problem. Here’s What the World Can Do About That.
+  title: AI Has an Environmental Problem. Here’s What the World Can Do About That
   type: webpage
   URL: https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about
 
@@ -4452,6 +4441,7 @@ references:
       month: 10
       day: 8
   citation-key: BrotherhoodArmsMonumentWarsaw2024
+  container-title: Contested Histories
   issued:
     - year: 2024
       month: 4
@@ -5166,7 +5156,6 @@ references:
   citation-key: CalCodeCivProc410.10
   container-title: Code Civ. Proc.
   language: en
-  note: Sort 6
   section: '410.10'
   title: Jurisdiction
   type: legislation
@@ -5666,6 +5655,7 @@ references:
       month: 10
       day: 8
   citation-key: CaseStudyAlamo_nd
+  container-title: Contested Histories
   title: 'Case Study: The Alamo'
   type: post-weblog
   URL: https://contestedhistories.org/resources/case-studies/
@@ -5773,7 +5763,7 @@ references:
       month: 10
       day: 2
   author:
-    - family: centerforartlaw
+    - family: Center for Art Law
       given: ''
   citation-key: centerforartlaw2023
   issued:
@@ -6526,6 +6516,7 @@ references:
       month: 10
       day: 8
   citation-key: ColumbusStatueBarcelona2023
+  container-title: Contested Histories
   issued:
     - year: 2023
       month: 1
@@ -7202,9 +7193,9 @@ references:
       month: 10
       day: 2
   citation-key: CulturalPoliciesSpainEuropean_nd
-  container-title: https://www.europeanheritagehub.eu/
+  container-title: European Heritage Hub
   language: en
-  title: Cultural Policies – Spain – European Heritage Hub
+  title: Cultural Policies – Spain
   type: post-weblog
   URL: https://www.europeanheritagehub.eu/document/cultural-policies-spain/
 
@@ -7229,6 +7220,7 @@ references:
       month: 4
       day: 9
   note: A_HRC_RES_37_17-EN
+  publisher: U.N. Human Rights Council
   title: Cultural Rights and the Protection of Cultural Heritage
   type: document
 
@@ -9241,6 +9233,7 @@ references:
       month: 10
       day: 8
   citation-key: EmancipationMemorialBostonWashington2026
+  container-title: Contested Histories
   issued:
     - year: 2026
       month: 5
@@ -9255,9 +9248,8 @@ references:
   issued:
     - year: 2015
   language: en
-  number: '8.01'
+  number: section 8.01
   publisher: Am. Law Inst.
-  status: section
   title: Employee Duty of Loyalty to the Employer
   type: standard
 
@@ -9560,8 +9552,7 @@ references:
       month: 1
       day: 29
   language: en
-  publisher: 90 FR 8339
-  title: 'Executive Order 14151:  Ending Radical and Wasteful Government DEI Programs and Preferencing'
+  title: 'Executive Order 14151:  Ending Radical and Wasteful Government DEI Programs and Preferencing, 90 FR 8339'
   type: document
 
 - id: ExecutiveOrder14168Defending2025
@@ -9569,15 +9560,17 @@ references:
     - year: 2025
       month: 12
       day: 31
+  authority: Executive Order 14168
   citation-key: ExecutiveOrder14168Defending2025
+  genre: Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government
   issued:
     - year: 2025
       month: 1
       day: 30
   language: en
-  publisher: 90 FR 8615
-  title: 'Executive Order 14168: Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government'
-  type: document
+  number: 90 FR 8615
+  title: 'Executive Order 14168: Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government 90 FR 8615'
+  type: standard
 
 - id: ExecutiveOrder14173Ending2025
   accessed:
@@ -9836,26 +9829,22 @@ references:
   citation-key: FedRCivP
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
   title: Fed. R. Civ. P.
   type: legislation
 
 - id: FedRCivP1
   citation-key: FedRCivP1
-  genre: Fed. R. Civ. P.
+  container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  number: '1'
-  status: Rule
-  title: FRCP 1
-  type: standard
+  note: '1'
+  title: Fed. R. Civ. P. Rule 1
+  type: legislation
 
 - id: FedRCivP10
   citation-key: FedRCivP10
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '10'
+  note: '10'
   title: Fed. R. Civ. P. Rule 10
   type: legislation
 
@@ -9863,8 +9852,7 @@ references:
   citation-key: FedRCivP11
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '11'
+  note: '11'
   title: Fed. R. Civ. P. Rule 11
   type: legislation
 
@@ -9872,8 +9860,7 @@ references:
   citation-key: FedRCivP12
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '12'
+  note: '12'
   title: Fed. R. Civ. P. Rule 12
   type: legislation
 
@@ -9881,8 +9868,7 @@ references:
   citation-key: FedRCivP13
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '13'
+  note: '13'
   title: Fed. R. Civ. P. Rule 13
   type: legislation
 
@@ -9890,8 +9876,7 @@ references:
   citation-key: FedRCivP14
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '14'
+  note: '14'
   title: Fed. R. Civ. P. Rule 14
   type: legislation
 
@@ -9899,8 +9884,7 @@ references:
   citation-key: FedRCivP15
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '15'
+  note: '15'
   title: Fed. R. Civ. P. Rule 15
   type: legislation
 
@@ -9908,8 +9892,7 @@ references:
   citation-key: FedRCivP16
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '16'
+  note: '16'
   title: Fed. R. Civ. P. Rule 16
   type: legislation
 
@@ -9917,8 +9900,7 @@ references:
   citation-key: FedRCivP17
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '17'
+  note: '17'
   title: Fed. R. Civ. P. Rule 17
   type: legislation
 
@@ -9926,8 +9908,7 @@ references:
   citation-key: FedRCivP18
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '18'
+  note: '18'
   title: Fed. R. Civ. P. Rule 18
   type: legislation
 
@@ -9935,27 +9916,22 @@ references:
   citation-key: FedRCivP19
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '19'
+  note: '19'
   title: Fed. R. Civ. P. Rule 19
   type: legislation
 
 - id: FedRCivP2
   citation-key: FedRCivP2
-  genre: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  number: '1'
-  status: Rule
+  note: '2'
   title: Fed. R. Civ. P. Rule 2
-  type: standard
+  type: legislation
 
 - id: FedRCivP20
   citation-key: FedRCivP20
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '20'
+  note: '20'
   title: Fed. R. Civ. P. Rule 20
   type: legislation
 
@@ -9963,8 +9939,7 @@ references:
   citation-key: FedRCivP21
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '21'
+  note: '21'
   title: Fed. R. Civ. P. Rule 21
   type: legislation
 
@@ -9972,8 +9947,7 @@ references:
   citation-key: FedRCivP22
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '22'
+  note: '22'
   title: Fed. R. Civ. P. Rule 22
   type: legislation
 
@@ -9981,8 +9955,7 @@ references:
   citation-key: FedRCivP23
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '23'
+  note: '23'
   title: Fed. R. Civ. P. Rule 23
   type: legislation
 
@@ -9990,8 +9963,7 @@ references:
   citation-key: FedRCivP24
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '24'
+  note: '24'
   title: Fed. R. Civ. P. Rule 24
   type: legislation
 
@@ -9999,8 +9971,7 @@ references:
   citation-key: FedRCivP25
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '25'
+  note: '25'
   title: Fed. R. Civ. P. Rule 25
   type: legislation
 
@@ -10008,8 +9979,7 @@ references:
   citation-key: FedRCivP26
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '26'
+  note: '26'
   title: Fed. R. Civ. P. Rule 26
   type: legislation
 
@@ -10017,8 +9987,7 @@ references:
   citation-key: FedRCivP3
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '3'
+  note: '3'
   title: Fed. R. Civ. P. Rule 3
   type: legislation
 
@@ -10026,8 +9995,7 @@ references:
   citation-key: FedRCivP4
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '4'
+  note: '4'
   title: Fed. R. Civ. P. Rule 4
   type: legislation
 
@@ -10035,8 +10003,7 @@ references:
   citation-key: FedRCivP42
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '42'
+  note: '42'
   title: Fed. R. Civ. P. Rule 42
   type: legislation
 
@@ -10044,8 +10011,7 @@ references:
   citation-key: FedRCivP5
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '5'
+  note: '5'
   title: Fed. R. Civ. P. Rule 5
   type: legislation
 
@@ -10053,8 +10019,7 @@ references:
   citation-key: FedRCivP55
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '55'
+  note: '55'
   title: Fed. R. Civ. P. Rule 55
   type: legislation
 
@@ -10062,8 +10027,7 @@ references:
   citation-key: FedRCivP56
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '56'
+  note: '56'
   title: Fed. R. Civ. P. Rule 56
   type: legislation
 
@@ -10071,8 +10035,7 @@ references:
   citation-key: FedRCivP6
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '6'
+  note: '6'
   title: Fed. R. Civ. P. Rule 6
   type: legislation
 
@@ -10080,8 +10043,7 @@ references:
   citation-key: FedRCivP7
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '7'
+  note: '7'
   title: Fed. R. Civ. P. Rule 7
   type: legislation
 
@@ -10089,8 +10051,7 @@ references:
   citation-key: FedRCivP8
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '8'
+  note: '8'
   title: Fed. R. Civ. P. Rule 8
   type: legislation
 
@@ -10098,18 +10059,17 @@ references:
   citation-key: FedRCivP9
   container-title: Fed. R. Civ. P.
   language: en
-  note: Sort 5
-  section: '9'
+  note: '9'
   title: Fed. R. Civ. P. Rule 9
   type: legislation
 
 - id: FedREvid502
   citation-key: FedREvid502
-  genre: Fed. R. Evid.
+  container-title: Fed. R. Evid.
   language: en
-  number: '502'
+  note: '502'
   title: Fed. R. Evid. 502
-  type: standard
+  type: legislation
 
 - id: Feigenson2000
   author:
@@ -11522,6 +11482,7 @@ references:
       month: 10
       day: 8
   citation-key: FranciscoFrancoStatueMelilla2022
+  container-title: Contested Histories
   issued:
     - year: 2022
       month: 5
@@ -14675,6 +14636,7 @@ references:
       month: 10
       day: 8
   citation-key: HenrykJankowskiStatueGdansk2024
+  container-title: Contested Histories
   issued:
     - year: 2024
       month: 6
@@ -15744,6 +15706,7 @@ references:
       month: 10
       day: 8
   citation-key: JedwabnePogromMemorialJedwabne_nd
+  container-title: Contested Histories
   title: Jedwabne Pogrom Memorial in Jedwabne
   type: post-weblog
   URL: https://contestedhistories.org/resources/case-studies/jedwabne-pogrom-memorial-in-jedwabne/
@@ -22068,6 +22031,7 @@ references:
       month: 10
       day: 8
   citation-key: MonumentAvenueRichmondVirginia2024
+  container-title: Contested Histories
   issued:
     - year: 2024
       month: 1
@@ -22082,6 +22046,7 @@ references:
       month: 10
       day: 8
   citation-key: MonumentGratitudeSovietArmy2022
+  container-title: Contested Histories
   issued:
     - year: 2022
       month: 10
@@ -22410,348 +22375,514 @@ references:
 
 - id: MRPC_Preamble
   citation-key: MRPC_Preamble
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
   title: 'Model R. Prof. Conduct: Preamble & Scope'
   type: legislation
 
 - id: MRPC1.0
   citation-key: MRPC1.0
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.0
+  note: '1'
+  title: Model R. Prof. Conduct Rule  1.0
   type: legislation
 
 - id: MRPC1.1
   citation-key: MRPC1.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.1
+  note: '1.1'
+  title: Model R. Prof. Conduct Rule  1.1
   type: legislation
 
 - id: MRPC1.10
   citation-key: MRPC1.10
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.10
+  note: '1.1'
+  title: Model R. Prof. Conduct Rule  1.10
   type: legislation
 
 - id: MRPC1.11
   citation-key: MRPC1.11
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.11
+  note: '1.11'
+  title: Model R. Prof. Conduct Rule  1.11
   type: legislation
 
 - id: MRPC1.12
   citation-key: MRPC1.12
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.12
+  note: '1.12'
+  title: Model R. Prof. Conduct Rule  1.12
   type: legislation
 
 - id: MRPC1.13
   citation-key: MRPC1.13
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.13
+  note: '1.13'
+  title: Model R. Prof. Conduct Rule  1.13
   type: legislation
 
 - id: MRPC1.14
   citation-key: MRPC1.14
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.14
+  note: '1.14'
+  title: Model R. Prof. Conduct Rule  1.14
   type: legislation
 
 - id: MRPC1.15
   citation-key: MRPC1.15
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.15
+  note: '1.15'
+  title: Model R. Prof. Conduct Rule  1.15
   type: legislation
 
 - id: MRPC1.16
   citation-key: MRPC1.16
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.16
+  note: '1.16'
+  title: Model R. Prof. Conduct Rule  1.16
   type: legislation
 
 - id: MRPC1.17
   citation-key: MRPC1.17
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.17
+  note: '1.17'
+  title: Model R. Prof. Conduct Rule  1.17
   type: legislation
 
 - id: MRPC1.18
   citation-key: MRPC1.18
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.18
+  note: '1.18'
+  title: Model R. Prof. Conduct Rule  1.18
   type: legislation
 
 - id: MRPC1.2
   citation-key: MRPC1.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.2
+  note: '1.2'
+  title: Model R. Prof. Conduct Rule  1.2
   type: legislation
 
 - id: MRPC1.3
   citation-key: MRPC1.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.3
+  note: '1.3'
+  title: Model R. Prof. Conduct Rule  1.3
   type: legislation
 
 - id: MRPC1.4
   citation-key: MRPC1.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.4
+  note: '1.4'
+  title: Model R. Prof. Conduct Rule  1.4
   type: legislation
 
 - id: MRPC1.5
   citation-key: MRPC1.5
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.5
+  note: '1.5'
+  title: Model R. Prof. Conduct Rule  1.5
   type: legislation
 
 - id: MRPC1.6
   citation-key: MRPC1.6
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.6
+  note: '1.6'
+  title: Model R. Prof. Conduct Rule  1.6
   type: legislation
 
 - id: MRPC1.7
   citation-key: MRPC1.7
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.7
+  note: '1.7'
+  title: Model R. Prof. Conduct Rule  1.7
   type: legislation
 
 - id: MRPC1.8
   citation-key: MRPC1.8
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.8
+  note: '1.8'
+  title: Model R. Prof. Conduct Rule  1.8
   type: legislation
 
 - id: MRPC1.9
   citation-key: MRPC1.9
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 1.9
+  note: '1.9'
+  title: Model R. Prof. Conduct Rule  1.9
   type: legislation
 
 - id: MRPC2.1
   citation-key: MRPC2.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 2.1
+  note: '2.1'
+  title: Model R. Prof. Conduct Rule  2.1
   type: legislation
 
 - id: MRPC2.3
   citation-key: MRPC2.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 2.3
+  note: '2.3'
+  title: Model R. Prof. Conduct Rule  2.3
   type: legislation
 
 - id: MRPC2.4
   citation-key: MRPC2.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 2.4
+  note: '2.4'
+  title: Model R. Prof. Conduct Rule  2.4
   type: legislation
 
 - id: MRPC3.1
   citation-key: MRPC3.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.1
+  note: '3.1'
+  title: Model R. Prof. Conduct Rule  3.1
   type: legislation
 
 - id: MRPC3.2
   citation-key: MRPC3.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.2
+  note: '3.2'
+  title: Model R. Prof. Conduct Rule  3.2
   type: legislation
 
 - id: MRPC3.3
   citation-key: MRPC3.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.3
+  note: '3.3'
+  title: Model R. Prof. Conduct Rule  3.3
   type: legislation
 
 - id: MRPC3.4
   citation-key: MRPC3.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.4
+  note: '3.4'
+  title: Model R. Prof. Conduct Rule  3.4
   type: legislation
 
 - id: MRPC3.5
   citation-key: MRPC3.5
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.5
+  note: '3.5'
+  title: Model R. Prof. Conduct Rule  3.5
   type: legislation
 
 - id: MRPC3.6
   citation-key: MRPC3.6
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.6
+  note: '3.6'
+  title: Model R. Prof. Conduct Rule  3.6
   type: legislation
 
 - id: MRPC3.7
   citation-key: MRPC3.7
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.7
+  note: '3.7'
+  title: Model R. Prof. Conduct Rule  3.7
   type: legislation
 
 - id: MRPC3.8
   citation-key: MRPC3.8
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.8
+  note: '3.8'
+  title: Model R. Prof. Conduct Rule  3.8
   type: legislation
 
 - id: MRPC3.9
   citation-key: MRPC3.9
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 3.9
+  note: '3.9'
+  title: Model R. Prof. Conduct Rule  3.9
   type: legislation
 
 - id: MRPC4.1
   citation-key: MRPC4.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 4.1
+  note: '4.1'
+  title: Model R. Prof. Conduct Rule  4.1
   type: legislation
 
 - id: MRPC4.2
   citation-key: MRPC4.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 4.2
+  note: '4.2'
+  title: Model R. Prof. Conduct Rule  4.2
   type: legislation
 
 - id: MRPC4.3
   citation-key: MRPC4.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 4.3
+  note: '4.3'
+  title: Model R. Prof. Conduct Rule  4.3
   type: legislation
 
 - id: MRPC4.4
   citation-key: MRPC4.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 4.4
+  note: '4.4'
+  title: Model R. Prof. Conduct Rule  4.4
   type: legislation
 
 - id: MRPC5.1
   citation-key: MRPC5.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.1
+  note: '5.1'
+  title: Model R. Prof. Conduct Rule  5.1
   type: legislation
 
 - id: MRPC5.2
   citation-key: MRPC5.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.2
+  note: '5.2'
+  title: Model R. Prof. Conduct Rule  5.2
   type: legislation
 
 - id: MRPC5.3
   citation-key: MRPC5.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.3
+  note: '5.3'
+  title: Model R. Prof. Conduct Rule  5.3
   type: legislation
 
 - id: MRPC5.4
   citation-key: MRPC5.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.4
+  note: '5.4'
+  title: Model R. Prof. Conduct Rule  5.4
   type: legislation
 
 - id: MRPC5.5
   citation-key: MRPC5.5
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.5
+  note: '5.5'
+  title: Model R. Prof. Conduct Rule  5.5
   type: legislation
 
 - id: MRPC5.6
   citation-key: MRPC5.6
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.6
+  note: '5.6'
+  title: Model R. Prof. Conduct Rule  5.6
   type: legislation
 
 - id: MRPC5.7
   citation-key: MRPC5.7
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 5.7
+  note: '5.7'
+  title: Model R. Prof. Conduct Rule  5.7
   type: legislation
 
 - id: MRPC6.1
   citation-key: MRPC6.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 6.1
+  note: '6.1'
+  title: Model R. Prof. Conduct Rule  6.1
   type: legislation
 
 - id: MRPC6.2
   citation-key: MRPC6.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 6.2
+  note: '6.2'
+  title: Model R. Prof. Conduct Rule  6.2
   type: legislation
 
 - id: MRPC6.3
   citation-key: MRPC6.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 6.3
+  note: '6.3'
+  title: Model R. Prof. Conduct Rule  6.3
   type: legislation
 
 - id: MRPC6.4
   citation-key: MRPC6.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 6.4
+  note: '6.4'
+  title: Model R. Prof. Conduct Rule  6.4
   type: legislation
 
 - id: MRPC6.5
   citation-key: MRPC6.5
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 6.5
+  note: '6.5'
+  title: Model R. Prof. Conduct Rule  6.5
   type: legislation
 
 - id: MRPC7.1
   citation-key: MRPC7.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 7.1
+  note: '7.1'
+  title: Model R. Prof. Conduct Rule  7.1
   type: legislation
 
 - id: MRPC7.2
   citation-key: MRPC7.2
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 7.2
+  note: '7.2'
+  title: Model R. Prof. Conduct Rule  7.2
   type: legislation
 
 - id: MRPC7.3
   citation-key: MRPC7.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 7.3
+  note: '7.3'
+  title: Model R. Prof. Conduct Rule  7.3
   type: legislation
 
 - id: MRPC7.6
   citation-key: MRPC7.6
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 7.6
+  note: '7.6'
+  title: Model R. Prof. Conduct Rule  7.6
   type: legislation
 
 - id: MRPC8.1
   citation-key: MRPC8.1
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 8.1
+  note: '8.1'
+  title: Model R. Prof. Conduct Rule  8.1
   type: legislation
 
 - id: MRPC8.2
-  authority: A.B.A.
   citation-key: MRPC8.2
-  genre: Model Rules of Prof. Conduct
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  number: '8.2'
-  status: Rule
-  title: MRPC 8.2
-  type: standard
+  note: '8.2'
+  title: Model R. Prof. Conduct Rule  8.2
+  type: legislation
 
 - id: MRPC8.3
   citation-key: MRPC8.3
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 8.3
+  note: '8.3'
+  title: Model R. Prof. Conduct Rule  8.3
   type: legislation
 
 - id: MRPC8.4
   citation-key: MRPC8.4
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 8.4
+  note: '8.4'
+  title: Model R. Prof. Conduct Rule  8.4
   type: legislation
 
 - id: MRPC8.5
   citation-key: MRPC8.5
+  container-title: M.R.P.C.
+  container-title-short: M.R.P.C.
   language: en
-  title: Model R. Prof. Conduct Rule 8.5
+  note: '8.5'
+  title: Model R. Prof. Conduct Rule  8.5
   type: legislation
 
 - id: Muhlhoff2025
@@ -23065,7 +23196,6 @@ references:
   issued:
     - year: 2003
   language: en
-  publisher: National Right to Work Committee
   title: 'Salting: Coercive Big Labor Scheme to Increase Forced Unionism'
   title-short: Salting
   type: document
@@ -23136,7 +23266,9 @@ references:
   volume: '46'
 
 - id: NCBdLawExaminersCharacterFitness
+  authority: N.C. Bd. of Law Examiners
   citation-key: NCBdLawExaminersCharacterFitness
+  genre: Character & Fitness Guidelines
   language: en
   title: N.C. Bd. of Law Examiners, Character & Fitness Guidelines
   title-short: Character & Fitness Guidelines
@@ -23172,7 +23304,6 @@ references:
   citation-key: NCGenStat84-2.8
   container-title: N.C. Gen. Stat.
   language: en
-  note: Sort 6
   section: 84-2.8
   title: NCGS 84-2.8 Discipline and disbarment
   type: legislation
@@ -23252,13 +23383,11 @@ references:
 
 - id: NCRPC8.6
   citation-key: NCRPC8.6
-  genre: N.C. R.P.C.
+  container-title: N.C. R.P.C.
   language: en
-  note: Sort 6
-  number: '8.6'
-  status: Rule
+  note: '8.6'
   title: N.C. RPC 8.6
-  type: standard
+  type: legislation
 
 - id: NCStateBarEthridge_NCCtApp2008
   authority: N.C. Ct. App.
@@ -23860,7 +23989,6 @@ references:
   issued:
     - year: 2024
   language: en
-  publisher: North Carolina State Bar
   title: The 2024 Lawyer's Handbook
   type: document
 
@@ -23916,7 +24044,6 @@ references:
   container-title: C.P.L.R.
   container-title-short: C.P.L.R.
   language: en
-  note: Sort 6
   section: '302'
   title: Personal Jurisdiction by Acts of Non-Domiciliaries
   type: legislation
@@ -25867,8 +25994,8 @@ references:
       month: 1
       day: 8
   author:
-    - family: Press
-      given: The Associated
+    - family: Associated Press
+      given: ''
   citation-key: Press1950
   container-title: The Washington Post
   issued:
@@ -25891,8 +26018,8 @@ references:
       month: 1
       day: 8
   author:
-    - family: Press
-      given: The Associated
+    - family: Associated Press
+      given: ''
   citation-key: Press1950a
   container-title: The Washington Post
   issued:
@@ -25915,8 +26042,8 @@ references:
       month: 1
       day: 8
   author:
-    - family: Press
-      given: the United
+    - family: United Press
+      given: ''
   citation-key: Press1952
   container-title: The Washington Post
   issued:
@@ -25964,10 +26091,9 @@ references:
     - family: Proyect
       given: Louis
   citation-key: Proyect_nd
-  container-title: Louis Proyect
   language: en
   title: Junius Scales
-  type: webpage
+  type: post-weblog
   URL: https://www.columbia.edu/~lnp3/mydocs/american_left/scales.htm
 
 - id: PryorUnitedAirLines_4thCir2015
@@ -26920,10 +27046,10 @@ references:
 
 - id: Rest2dofJudgments
   citation-key: Rest2dofJudgments
+  genre: Restatement (Second) of Judgments
   issued:
     - year: 1982
   language: en
-  note: Sort 8
   publisher: Am. Law Inst.
   title: Restatement (Second) of Judgments
   type: standard
@@ -27124,6 +27250,7 @@ references:
       month: 10
       day: 8
   citation-key: RobertLeeStatueCharlottesville2024
+  container-title: Contested Histories
   issued:
     - year: 2024
       month: 10
@@ -27507,6 +27634,7 @@ references:
       month: 10
       day: 8
   citation-key: RumoursWarRichmondVirginia2026
+  container-title: Contested Histories
   issued:
     - year: 2026
       month: 4
@@ -28682,9 +28810,8 @@ references:
   author:
     - family: Schwartz
       given: Mattathias
-    - family: issues
-      given: Emily Bazelon Mattathias Schwartz reports on the federal judiciary from Philadelphia Emily Bazelon
-      dropping-particle: is a staff writer for the magazine who covers legal
+    - family: Bazelon
+      given: Emily
   citation-key: Schwartz2025
   container-title: The New York Times
   ISSN: 0362-4331
@@ -29585,6 +29712,7 @@ references:
       month: 10
       day: 8
   citation-key: SlaveAuctionSitePlaque2026
+  container-title: Contested Histories
   issued:
     - year: 2026
       month: 2
@@ -30789,6 +30917,7 @@ references:
       month: 10
       day: 8
   citation-key: StoneMountainParkMemorial2022
+  container-title: Contested Histories
   issued:
     - year: 2022
       month: 9
@@ -32447,45 +32576,37 @@ references:
 
 - id: USConstamendV
   citation-key: USConstamendV
-  container-title: U.S. Const.
+  container-title: U.S. Const. amend. V
   language: en
-  note: Sort 1
-  section: amend. V
   title: U.S. Const. amend. V
   type: legislation
 
 - id: USConstamendXIV
   citation-key: USConstamendXIV
-  container-title: U.S. Const.
+  container-title: U.S. Const. amend. XIV
   language: en
-  note: Sort 1
-  section: amend. XIV
   title: U.S. Const. amend. XIV
   type: legislation
 
 - id: USConstartIII
   citation-key: USConstartIII
-  container-title: U.S. Const.
+  container-title: U.S. Const. art. III
   language: en
-  note: Sort 1
-  section: art. III
   title: U.S. Const. art. III
   type: legislation
 
 - id: USConstartIV
   citation-key: USConstartIV
-  container-title: U.S. Const.
+  container-title: U.S. Const. art. IV
   language: en
-  note: Sort 1
-  section: art. IV
   title: U.S. Const. art. IV
   type: legislation
 
 - id: USConstitutionCommerceClause
   citation-key: USConstitutionCommerceClause
-  container-title: U.S. Const.
+  container-title: U.S. Const. art. I, sec. 8, clause 3
+  container-title-short: US Const Art Sec 8 Clause 3
   language: en
-  number: art. I, sec. 8, clause 3
   title: U.S. Constitution, Commerce Clause
   type: legislation
 
@@ -32642,6 +32763,7 @@ references:
       month: 10
       day: 8
   citation-key: ValleyFallenMadrid2022
+  container-title: Contested Histories
   issued:
     - year: 2022
       month: 3
