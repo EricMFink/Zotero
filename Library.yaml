@@ -34484,6 +34484,17 @@ references:
   title: Can the Working Class Change the World?
   type: book
 
+- id: YearsleyWARossConstr_US1940
+  authority: U.S.
+  citation-key: YearsleyWARossConstr_US1940
+  container-title: US
+  issued:
+    - year: 1940
+  page: '18'
+  title: Yearsley v. WA Ross Constr. Co.
+  type: legal_case
+  volume: '309'
+
 - id: Yeazell2018
   author:
     - family: Yeazell
