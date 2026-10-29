@@ -3503,6 +3503,18 @@ references:
   type: article-journal
   volume: '25'
 
+- id: BivensSixUnknownFed_US1971
+  authority: U.S.
+  citation-key: BivensSixUnknownFed_US1971
+  container-title: U.S.
+  container-title-short: U.S.
+  issued:
+    - year: 1971
+  page: '388'
+  title: Bivens v. Six Unknown Fed. Narcotics Agents
+  type: legal_case
+  volume: '403'
+
 - id: BivensZepInc_6thCir2025
   authority: 6th Cir.
   citation-key: BivensZepInc_6thCir2025
@@ -10049,6 +10061,7 @@ references:
 
 - id: FedRCivP2
   citation-key: FedRCivP2
+  container-title: Fed. R. Civ. P.
   language: en
   note: Rule
   section: '2'
