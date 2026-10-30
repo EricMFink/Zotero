@@ -7,10 +7,10 @@ zoteroVersion: "7.0.11"
 pluginVersion: "2.2.5"
 savedAt: "2025-01-20T21:20:08.061Z"
 content: |-
-// @author [fabianlatz](https://github.com/fabianlatz)
-// @link [#1272](https://github.com/windingwind/zotero-better-notes/discussions/1272)
-// @use-refresh
-// @beforeloop-begin
+  // @author [fabianlatz](https://github.com/fabianlatz)
+  // @link [#1272](https://github.com/windingwind/zotero-better-notes/discussions/1272)
+  // @use-refresh
+  // @beforeloop-begin
   ${{
   	sharedObj.colors = {
   		"#ffd400": { name: "Important", annotations: [] },  // Yellow
@@ -24,32 +24,9 @@ content: |-
   	};
   	return "";
   }}$
-// @beforeloop-end
+  // @beforeloop-end
   
-// @default-begin
-// @use-markdown
-
-- Source: ${(() => {
-			const article = topItem.getField("publicationTitle");
-			const bookSection = topItem.getField("bookTitle");
-			const legislation = topItem.getField("code");
-            const standard = topItem.getField("type");
-            const legalCase = topItem.getField("court");
-            if (article) {
-              return `${topItem.getField('title')}, ${topItem.getField('volume')} ${topItem.getField('publicationTitle')} ${topItem.getField('pages')} (${topItem.getField('year')})`;
-            } else if (legalCase) {
-              return `${topItem.getField('caseName')}, ${topItem.getField('reporterVolume')} ${topItem.getField('reporter')} ${topItem.getField('firstPage')} (${topItem.getField('court')} ${topItem.getField('year')})`;
-			}  else if (legislation) {
-              return `${topItem.getField('nameofAct')}, ${topItem.getField('volume')} ${topItem.getField('code')} ${topItem.getField('section')}`;
-            } else if (standard) {
-              return `${topItem.getField('type')} ${topItem.getField('number')}`;
-			} else if (bookSection) {
-              return `${topItem.getField('title')}, in _${topItem.getField('bookTitle')}_ (${topItem.getField('year')})`;
-            } else {
-              return `${topItem.getField('title')} (${topItem.getField('year')})`;
-            }
-          })()}
-  
+  // @default-begin
   ${{
   	async function getAnnotationsByColor(_attachment, color) {
   		const annots = _attachment
@@ -94,9 +71,9 @@ content: |-
   
   	return "";
   }}$
-// @default-end
+  // @default-end
   
-// @afterloop-begin
+  // @afterloop-begin
   ${{
   	let output = `<h1>Annotations by color → item</h1>`;
   	for (const color in sharedObj.colors) {
@@ -108,4 +85,4 @@ content: |-
   	}
   	return output;
   }}$
-// @afterloop-end
+  // @afterloop-end
