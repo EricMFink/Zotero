@@ -179,7 +179,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '1331'
   title: Federal Question
   type: legislation
@@ -190,7 +190,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '1'
+  license: '3'
   section: '1332'
   title: Diversity of Citizenship
   type: legislation
@@ -201,7 +201,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '1367'
   title: Supplemental Jurisdiction
   type: legislation
@@ -212,7 +212,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '1441'
   title: Removal of Civil Actions
   type: legislation
@@ -223,7 +223,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '1445'
   title: Nonremovable Actions
   type: legislation
@@ -234,7 +234,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '1446'
   title: Procedure for Removal
   type: legislation
@@ -245,7 +245,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '1447'
   title: Procedure after Removal
   type: legislation
@@ -256,7 +256,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '1'
+  license: '3'
   section: '1652'
   title: State Laws as Rules of Decision
   type: legislation
@@ -267,7 +267,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '1738'
   title: Full Faith & Credit
   type: legislation
@@ -278,7 +278,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '2071'
   title: Rules Enabling Act -- Rule-Making Power Generally
   type: legislation
@@ -289,7 +289,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '2072'
   title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Power to Prescribe'
   type: legislation
@@ -300,7 +300,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '2073'
   title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Method of Prescribing'
   type: legislation
@@ -311,7 +311,7 @@ references:
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  license: '2'
+  license: '3'
   section: '2074'
   title: 'Rules Enabling Act -- Rules of Procedure and Evidence: Submission to Congress'
   type: legislation
@@ -9957,6 +9957,7 @@ references:
   citation-key: FedRCivP
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   title: Fed. R. Civ. P.
   type: legislation
 
@@ -9964,6 +9965,7 @@ references:
   citation-key: FedRCivP1
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '1'
   title: Fed. R. Civ. P. Rule 1
@@ -9973,6 +9975,7 @@ references:
   citation-key: FedRCivP10
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '10'
   title: Fed. R. Civ. P. Rule 10
@@ -9982,6 +9985,7 @@ references:
   citation-key: FedRCivP11
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '11'
   title: Fed. R. Civ. P. Rule 11
@@ -9991,6 +9995,7 @@ references:
   citation-key: FedRCivP12
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '12'
   title: Fed. R. Civ. P. Rule 12
@@ -10000,6 +10005,7 @@ references:
   citation-key: FedRCivP13
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '13'
   title: Fed. R. Civ. P. Rule 13
@@ -10009,6 +10015,7 @@ references:
   citation-key: FedRCivP14
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '14'
   title: Fed. R. Civ. P. Rule 14
@@ -10018,6 +10025,7 @@ references:
   citation-key: FedRCivP15
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '15'
   title: Fed. R. Civ. P. Rule 15
@@ -10027,6 +10035,7 @@ references:
   citation-key: FedRCivP16
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '16'
   title: Fed. R. Civ. P. Rule 16
@@ -10036,6 +10045,7 @@ references:
   citation-key: FedRCivP17
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '17'
   title: Fed. R. Civ. P. Rule 17
@@ -10045,6 +10055,7 @@ references:
   citation-key: FedRCivP18
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '18'
   title: Fed. R. Civ. P. Rule 18
@@ -10054,6 +10065,7 @@ references:
   citation-key: FedRCivP19
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '19'
   title: Fed. R. Civ. P. Rule 19
@@ -10063,6 +10075,7 @@ references:
   citation-key: FedRCivP2
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '2'
   title: Fed. R. Civ. P. Rule 2
@@ -10072,6 +10085,7 @@ references:
   citation-key: FedRCivP20
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '20'
   title: Fed. R. Civ. P. Rule 20
@@ -10081,6 +10095,7 @@ references:
   citation-key: FedRCivP21
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '21'
   title: Fed. R. Civ. P. Rule 21
@@ -10090,6 +10105,7 @@ references:
   citation-key: FedRCivP22
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '22'
   title: Fed. R. Civ. P. Rule 22
@@ -10099,6 +10115,7 @@ references:
   citation-key: FedRCivP23
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '23'
   title: Fed. R. Civ. P. Rule 23
@@ -10108,6 +10125,7 @@ references:
   citation-key: FedRCivP24
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '24'
   title: Fed. R. Civ. P. Rule 24
@@ -10117,6 +10135,7 @@ references:
   citation-key: FedRCivP25
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '25'
   title: Fed. R. Civ. P. Rule 25
@@ -10126,6 +10145,7 @@ references:
   citation-key: FedRCivP26
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '26'
   title: Fed. R. Civ. P. Rule 26
@@ -10135,6 +10155,7 @@ references:
   citation-key: FedRCivP3
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '3'
   title: Fed. R. Civ. P. Rule 3
@@ -10144,6 +10165,7 @@ references:
   citation-key: FedRCivP4
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '4'
   title: Fed. R. Civ. P. Rule 4
@@ -10153,6 +10175,7 @@ references:
   citation-key: FedRCivP42
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '42'
   title: Fed. R. Civ. P. Rule 42
@@ -10162,6 +10185,7 @@ references:
   citation-key: FedRCivP5
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '5'
   title: Fed. R. Civ. P. Rule 5
@@ -10171,6 +10195,7 @@ references:
   citation-key: FedRCivP55
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '55'
   title: Fed. R. Civ. P. Rule 55
@@ -10180,6 +10205,7 @@ references:
   citation-key: FedRCivP56
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '56'
   title: Fed. R. Civ. P. Rule 56
@@ -10189,6 +10215,7 @@ references:
   citation-key: FedRCivP6
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '6'
   title: Fed. R. Civ. P. Rule 6
@@ -10198,6 +10225,7 @@ references:
   citation-key: FedRCivP7
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '7'
   title: Fed. R. Civ. P. Rule 7
@@ -10207,6 +10235,7 @@ references:
   citation-key: FedRCivP8
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '8'
   title: Fed. R. Civ. P. Rule 8
@@ -10216,6 +10245,7 @@ references:
   citation-key: FedRCivP9
   container-title: Fed. R. Civ. P.
   language: en
+  license: '4'
   note: Rule
   section: '9'
   title: Fed. R. Civ. P. Rule 9
@@ -32165,6 +32195,31 @@ references:
   type: legal_case
   volume: '629'
 
+- id: Tierney2026
+  accessed:
+    - year: 2026
+      month: 10
+      day: 30
+  author:
+    - family: Tierney
+      given: James Fallows
+  citation-key: Tierney2026
+  DOI: 10.2139/ssrn.6416679
+  genre: SSRN Scholarly Paper
+  issued:
+    - year: 2026
+      month: 3
+      day: 14
+  language: en
+  number: '6416679'
+  publisher: Social Science Research Network
+  publisher-place: Rochester, NY
+  source: papers.ssrn.com
+  title: 'Automating Bluebook Citations in Legal Scholarship: A User''s Guide for Bluebook in Zotero'
+  title-short: Automating Bluebook Citations in Legal Scholarship
+  type: article
+  URL: https://papers.ssrn.com/abstract=6416679
+
 - id: Tilcsik2020-12-0011
   author:
     - family: Tilcsik
@@ -32789,7 +32844,7 @@ references:
   citation-key: USConstamendV
   container-title: U.S. Const. amend. V
   language: en
-  license: '1'
+  license: '2'
   title: U.S. Const. amend. V
   type: legislation
 
@@ -32797,7 +32852,7 @@ references:
   citation-key: USConstamendXIV
   container-title: U.S. Const. amend. XIV
   language: en
-  license: '1'
+  license: '2'
   title: U.S. Const. amend. XIV
   type: legislation
 
