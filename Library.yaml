@@ -25284,31 +25284,6 @@ references:
   URL: https://ejournals.eu/en/journal/saaclr/article/illicit-trade-in-cultural-objects-under-the-spanish-law-the-cabeza-de-mujer-joven-case
   volume: '2023'
 
-- id: Pérez2023
-  accessed:
-    - year: 2026
-      month: 10
-      day: 8
-  author:
-    - family: Pérez
-      given: Luis Javier Capote
-  citation-key: Pérez2023
-  container-title: Santander Art and Culture Law Review
-  container-title-short: Santander Art Cult. Law Rev.
-  issue: 2/2023 (9)
-  issued:
-    - year: 2023
-      month: 12
-      day: 13
-  language: pl
-  page: 321–332
-  source: ejournals.eu
-  title: 'Illicit Trade in Cultural Objects under the Spanish Law: The Cabeza de mujer joven Case'
-  title-short: Illicit Trade in Cultural Objects under the Spanish Law
-  type: article-journal
-  URL: https://ejournals.eu/czasopismo/saaclr/artykul/illicit-trade-in-cultural-objects-under-the-spanish-law-the-cabeza-de-mujer-joven-case
-  volume: '2023'
-
 - id: PETACooper1st2016
   citation-key: PETACooper1st2016
   issued:
@@ -30453,18 +30428,6 @@ references:
   title: Spain's Commitment to Cultural Heritage Conservation
   type: webpage
   URL: https://cards.algoreducation.com/en/content/jtLNR3OG/spain-cultural-heritage-conservation
-
-- id: SpainsCulturalRightsPlan_nd
-  accessed:
-    - year: 2026
-      month: 10
-      day: 2
-  citation-key: SpainsCulturalRightsPlan_nd
-  container-title: Culture and Arts Policy Institute
-  language: en-US
-  title: Spain’s Cultural Rights Plan 2025–2027
-  type: post-weblog
-  URL: https://culturepolicy.org/policy-engagement/spain-cultural-rights-plan-2025-2027/
 
 - id: SpainsCulturalRightsPlan2026
   accessed:

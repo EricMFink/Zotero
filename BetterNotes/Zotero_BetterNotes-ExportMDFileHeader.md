@@ -12,9 +12,6 @@ content: |-
     header.citekey = noteItem.parentItem
       ? noteItem.parentItem.getField("citationKey")
       : "";
-    header.parent = noteItem.parentItem
-      ? noteItem.parentItem.getField("title")
-      : "";
     header.tags = noteItem.parentItem.getTags().map(tagObj=>tagObj.tag);
     return JSON.stringify(header);
   }}$
