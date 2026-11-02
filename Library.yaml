@@ -5228,7 +5228,7 @@ references:
   language: en
   license: '6'
   section: '410.10'
-  title: Jurisdiction
+  title: Cal. Code Civ. Proc. sec. 410.10
   type: legislation
 
 - id: CalLaborCode926
@@ -9955,299 +9955,270 @@ references:
 
 - id: FedRCivP
   citation-key: FedRCivP
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
+  page: '0'
   title: Fed. R. Civ. P.
   type: legislation
 
 - id: FedRCivP1
   citation-key: FedRCivP1
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '1'
+  page: '101'
   title: Fed. R. Civ. P. Rule 1
   type: legislation
 
 - id: FedRCivP10
   citation-key: FedRCivP10
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '10'
+  page: '110'
   title: Fed. R. Civ. P. Rule 10
   type: legislation
 
 - id: FedRCivP11
   citation-key: FedRCivP11
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '11'
+  page: '111'
   title: Fed. R. Civ. P. Rule 11
   type: legislation
 
 - id: FedRCivP12
   citation-key: FedRCivP12
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '12'
+  page: '112'
   title: Fed. R. Civ. P. Rule 12
   type: legislation
 
 - id: FedRCivP13
   citation-key: FedRCivP13
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '13'
+  page: '113'
   title: Fed. R. Civ. P. Rule 13
   type: legislation
 
 - id: FedRCivP14
   citation-key: FedRCivP14
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '14'
+  page: '114'
   title: Fed. R. Civ. P. Rule 14
   type: legislation
 
 - id: FedRCivP15
   citation-key: FedRCivP15
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '15'
+  page: '115'
   title: Fed. R. Civ. P. Rule 15
   type: legislation
 
 - id: FedRCivP16
   citation-key: FedRCivP16
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '16'
+  page: '116'
   title: Fed. R. Civ. P. Rule 16
   type: legislation
 
 - id: FedRCivP17
   citation-key: FedRCivP17
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '17'
+  page: '117'
   title: Fed. R. Civ. P. Rule 17
   type: legislation
 
 - id: FedRCivP18
   citation-key: FedRCivP18
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '18'
+  page: '118'
   title: Fed. R. Civ. P. Rule 18
   type: legislation
 
 - id: FedRCivP19
   citation-key: FedRCivP19
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '19'
+  page: '119'
   title: Fed. R. Civ. P. Rule 19
   type: legislation
 
 - id: FedRCivP2
   citation-key: FedRCivP2
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '2'
+  page: '102'
   title: Fed. R. Civ. P. Rule 2
   type: legislation
 
 - id: FedRCivP20
   citation-key: FedRCivP20
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '20'
+  page: '120'
   title: Fed. R. Civ. P. Rule 20
   type: legislation
 
 - id: FedRCivP21
   citation-key: FedRCivP21
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '21'
+  page: '121'
   title: Fed. R. Civ. P. Rule 21
   type: legislation
 
 - id: FedRCivP22
   citation-key: FedRCivP22
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '22'
+  page: '122'
   title: Fed. R. Civ. P. Rule 22
   type: legislation
 
 - id: FedRCivP23
   citation-key: FedRCivP23
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '23'
+  page: '123'
   title: Fed. R. Civ. P. Rule 23
   type: legislation
 
 - id: FedRCivP24
   citation-key: FedRCivP24
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '24'
+  page: '124'
   title: Fed. R. Civ. P. Rule 24
   type: legislation
 
 - id: FedRCivP25
   citation-key: FedRCivP25
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '25'
+  page: '125'
   title: Fed. R. Civ. P. Rule 25
   type: legislation
 
 - id: FedRCivP26
   citation-key: FedRCivP26
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '26'
+  page: '126'
   title: Fed. R. Civ. P. Rule 26
   type: legislation
 
 - id: FedRCivP3
   citation-key: FedRCivP3
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '3'
+  page: '103'
   title: Fed. R. Civ. P. Rule 3
   type: legislation
 
 - id: FedRCivP4
   citation-key: FedRCivP4
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '4'
+  page: '104'
   title: Fed. R. Civ. P. Rule 4
   type: legislation
 
 - id: FedRCivP42
   citation-key: FedRCivP42
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '42'
+  page: '142'
   title: Fed. R. Civ. P. Rule 42
   type: legislation
 
 - id: FedRCivP5
   citation-key: FedRCivP5
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '5'
+  page: '105'
   title: Fed. R. Civ. P. Rule 5
   type: legislation
 
 - id: FedRCivP55
   citation-key: FedRCivP55
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '55'
+  page: '155'
   title: Fed. R. Civ. P. Rule 55
   type: legislation
 
 - id: FedRCivP56
   citation-key: FedRCivP56
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '56'
+  page: '156'
   title: Fed. R. Civ. P. Rule 56
   type: legislation
 
 - id: FedRCivP6
   citation-key: FedRCivP6
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '6'
+  page: '106'
   title: Fed. R. Civ. P. Rule 6
   type: legislation
 
 - id: FedRCivP7
   citation-key: FedRCivP7
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '7'
+  page: '107'
   title: Fed. R. Civ. P. Rule 7
   type: legislation
 
 - id: FedRCivP8
   citation-key: FedRCivP8
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '8'
+  page: '108'
   title: Fed. R. Civ. P. Rule 8
   type: legislation
 
 - id: FedRCivP9
   citation-key: FedRCivP9
-  container-title: Fed. R. Civ. P.
   language: en
   license: '4'
   note: Rule
-  section: '9'
+  page: '109'
   title: Fed. R. Civ. P. Rule 9
   type: legislation
 
@@ -24286,7 +24257,7 @@ references:
   language: en
   license: '6'
   section: '302'
-  title: Personal Jurisdiction by Acts of Non-Domiciliaries
+  title: N.Y.C.P.L.R. sec. 302
   type: legislation
 
 - id: NYLab1050
@@ -32805,7 +32776,6 @@ references:
 
 - id: USConstamendV
   citation-key: USConstamendV
-  container-title: U.S. Const. amend. V
   language: en
   license: '2'
   title: U.S. Const. amend. V
@@ -32813,7 +32783,6 @@ references:
 
 - id: USConstamendXIV
   citation-key: USConstamendXIV
-  container-title: U.S. Const. amend. XIV
   language: en
   license: '2'
   title: U.S. Const. amend. XIV
@@ -32821,7 +32790,6 @@ references:
 
 - id: USConstartIII
   citation-key: USConstartIII
-  container-title: U.S. Const. art. III
   language: en
   license: '1'
   title: U.S. Const. art. III
@@ -32829,7 +32797,6 @@ references:
 
 - id: USConstartIV
   citation-key: USConstartIV
-  container-title: U.S. Const. art. IV
   language: en
   license: '1'
   title: U.S. Const. art. IV
