@@ -304,37 +304,17 @@
 		</else-if>
 		<else-if type="legislation regulation" match="any">
 			<choose>
-			<if variable="note" match="any">
-				<group delimiter=" ">
-					<text macro="container"/>
-					<text variable="note"/>
-					<text variable="section"/>
-					<text macro="issuance"/>
-				</group>
-			</if>
-			<else-if variable="number" match="any">
-				<group delimiter=" ">
-						<text variable="title" suffix=", "/>
-						<text variable="number"/>
-						<text variable="section" prefix="§ "/>
-						<text macro="issuance"/>
-				</group>
-			</else-if>
-			<else-if variable="volume" match="any">
-				<group delimiter=" ">
+				<if variable="container-title">
+					<group delimiter=" ">
 						<text variable="volume"/>
 						<text macro="container"/>
-						<text variable="section" prefix="§ "/>
+						<number variable="section" prefix="§ "/>
 						<text macro="issuance"/>
-				</group>
-			</else-if>
-			<else>
-				<group delimiter=" ">
-					<text macro="container"/>
-					<text variable="section" prefix="§ "/>
-					<text macro="issuance"/>
-				</group>
-			</else>
+					</group>
+				</if>
+				<else>
+					<text variable="title"/>
+				</else>
 			</choose>
 		</else-if> 
 		<!-- FOR MISC LEGAL AUTHORITIES.-->
@@ -396,7 +376,7 @@
 			<text variable="locator" prefix=" "/>
 			<text macro="issuance"/>
 		</else-if>
-    <else-if type="document" match="any">
+    	<else-if type="document" match="any">
 			<text variable="title" font-variant="small-caps"/>
 			<text variable="locator" prefix=" "/>
 			<text macro="issuance"/>
@@ -425,178 +405,22 @@
 	</choose>
 </macro>
 
-
-
-<!-- Formatted Citation for Bibliography -->
-<macro name="source-bib">
-	<choose>
-		<if type="article-journal" match="any">
-			<group delimiter=" ">
-				<group>
-					<text variable="title" font-style="italic" suffix=", "/>
-						<group delimiter=" ">
-							<text variable="volume"/>
-							<text macro="container"/>
-							<text variable="page-first"/>
-						</group>
-					<text variable="locator"/>
-				</group>
-				<text macro="issuance"/>
-			</group>
-		</if>
-		<else-if type="legal_case" match="any">
-			<group>
-			<choose>
-				<if variable="container-title">
-					<group delimiter=" ">
-						<text variable="title" font-style="italic" suffix=","/>
-						<text variable="volume"/>
-						<text macro="container"/>
-						<text variable="page-first"/>
-					</group>
-				</if>
-				<else>
-					<group delimiter=" ">
-						<text variable="title" font-style="italic" suffix=","/>
-						<text variable="number" prefix="No. "/>
-					</group>
-				</else>
-			</choose>
-				<text macro="issuance"/>
-			</group>
-		</else-if>
-		<else-if type="legislation regulation" match="any">
-			<choose>
-			<if variable="note" match="any">
-				<group delimiter=" ">
-					<text macro="container"/>
-					<text variable="note" prefix="Rule "/>
-					<text macro="issuance"/>
-				</group>
-			</if>
-			<else-if variable="number" match="any">
-				<group delimiter=" ">
-						<text variable="title" suffix=", "/>
-						<text variable="number"/>
-						<text variable="section" prefix="§ "/>
-						<text macro="issuance"/>
-				</group>
-			</else-if>
-			<else-if variable="volume" match="any">
-				<group delimiter=" ">
-						<text variable="volume"/>
-						<text macro="container"/>
-						<text variable="section" prefix="§ "/>
-						<text macro="issuance"/>
-				</group>
-			</else-if>
-			<else>
-				<group delimiter=" ">
-					<text macro="container"/>
-					<text variable="section" prefix="§ "/>
-					<text macro="issuance"/>
-				</group>
-			</else>
-			</choose>
-		</else-if> 
-		<!-- FOR MISC LEGAL AUTHORITIES.-->
-		<else-if type="standard" match="any">
-			<group delimiter="">
-				<text variable="authority" suffix=", "/>
-				<text variable="genre" />
-				<text variable="number" form="short" prefix=", "/>
-				<text macro="issuance" prefix=" "/>
-			</group>
-		</else-if>
-		<else-if type="bill hearing" match="any">
-			<group delimiter=" ">
-			  <text variable="authority" form="short"/>
-			  <text variable="chapter-number" form="short" prefix=", "/>
-			</group>
-		</else-if>
-		<else-if type="article-newspaper article-magazine" match="any">
-			<group delimiter=", ">
-				<text variable="title" font-style="italic"/>
-				<group delimiter=" ">
-					<text variable="volume"/>
-					<text macro="container"/>
-				</group>
-				<text macro="issuance"/>
-				<group delimiter=" ">
-					<text value="at"/>
-					<text variable="page-first"/>
-				</group>
-			</group>
-		</else-if>
-		<else-if type="article thesis" match="any">
-			<group delimiter=", ">
-				<text variable="title"/>
-				<text macro="container"/>
-			</group>
-		<text macro="issuance"/>
-			<choose>
-			<if type="thesis">
-				<group delimiter=", " prefix=" (" suffix=")">
-					<text variable="genre" suffix=" dissertation"/>
-					<text variable="publisher"/>
-				</group>
-			</if>
-			</choose>
-		</else-if>
-		<else-if type="chapter paper-conference" match="any">
-			<text variable="title" font-style="italic"/>
-				<group prefix=", " delimiter=" " suffix=" ">
-					<text variable="volume"/>
-					<text macro="container"/>
-				</group>
-			<text variable="page-first"/>
-			<text variable="locator" prefix=", "/>
-			<text macro="issuance"/>
-		</else-if>
-		<else-if type="book report" match="any">
-			<text variable="title" font-variant="small-caps"/>
-			<text variable="locator" prefix=" "/>
-			<text macro="issuance"/>
-		</else-if>
-    <else-if type="document" match="any">
-			<text variable="title" font-variant="small-caps"/>
-			<text variable="locator" prefix=" "/>
-			<text macro="issuance"/>
-		</else-if>
-		<else-if type="post-weblog webpage" match="any">
-			<group >
-				<text variable="title" font-style="italic" />
-					<group delimiter=" ">
-						<text macro="container" prefix=", "/>
-						<text variable="page-first"/>
-						<text macro="issuance"/>
-					</group>
-				<text variable="URL" prefix=" &lt;" suffix="&gt;"/>
-			</group>
-		</else-if>   
-		<else>
-			<group delimiter=" ">
-				<text variable="title" font-style="italic"/>
-					<group delimiter=" ">
-						<text variable="volume"/>
-						<text macro="container"/>
-						<text variable="page-first"/>
-						<text macro="issuance"/>
-					</group>
-			</group>
-		</else>
-	</choose>
-</macro>
-
 <macro name="short-source">
 	<group>
 	<choose>
 		<if type="legislation">
-			<group delimiter=" ">
-				<text variable="volume"/>
-				<text macro="container"/>
-			</group>
-			<text variable="locator" prefix=" § "/>
+			<choose>
+				<if variable="container-title">
+					<group delimiter=" ">
+						<text variable="volume"/>
+						<text macro="container"/>
+					</group>
+					<text variable="locator" prefix=" § "/>
+				</if>
+				<else>
+					<text variable="title"/>
+				</else>
+			</choose>
 		</if>
 	 </choose>
 	</group>
@@ -642,9 +466,13 @@
 	</if>
 	<else-if type="legislation" match="any">
 			<text value="2"/>
+			<text variable="license"/>
 			<text variable="container-title"/>
-			<text variable="volume" form="numeric"/>
-			<text variable="section" form="numeric"/>
+			<choose>
+				<if variable="page">
+					<number variable="page" form="numeric"/>
+				</if>
+			</choose>
 	</else-if>
 	<else-if type="standard" match="any">
 		<text value="3"/>
@@ -663,42 +491,13 @@
 	</choose>
 </macro>
 
-<!-- sort sort legislation by code name -->
-<macro name="sort-legislation">
-	<choose>
-		<if type="legislation">
-			<text variable="container-title" />
-		</if>
-	</choose>
-</macro>
-
-<!-- sort legislation by code volume -->
-<macro name="sort-volume">
-	<choose>
-		<if type="legislation">
-			<choose>
-				<if variable="volume">
-					<text variable="volume" form="numeric"/>
-				</if>
-				<else>
-					<text value="9999"/>
-				</else>
-			</choose>
-		</if>
-	</choose>
-</macro>
-
-<!-- sort legislation by section  -->
 <macro name="sort-section">
 	<choose>
 		<if type="legislation">
 			<choose>
-				<if variable="section">
-					<text variable="section" form="numeric"/>
+				<if variable="page">
+					<number variable="page" form="numeric"/>
 				</if>
-				<else-if variable ="note">
-					<text variable="note" form="numeric"/>
-				</else-if>
 			</choose>
 		</if>
 	</choose>
@@ -751,25 +550,23 @@
 <!-- BIBLIOGRAPHY -->
 <bibliography hanging-indent="true" et-al-min="4" et-al-use-first="1" entry-spacing="1">
 	<sort>
-	<key macro="sort-type"/>
-	<key macro="author"/>
-	<key macro="full-title"/>
-	<key macro="year-sort"/>
+		<key macro="sort-type"/> 
+		<key macro="author"/>
 	</sort>
 	<layout suffix="">
 		<choose>
-		<if type="book" match="any">
-		<text variable="volume" suffix=" "/>
-		</if>
+			<if type="book" match="any">
+				<text variable="volume" suffix=" "/>
+			</if>
 		</choose>
 		<choose>
-		<if type="bill hearing legal_case legislation regulation standard" match="any">
-			<text macro="source-bib"/>
-		</if>
-		<else>
-			<text macro="author"/>
-			<text macro="source-bib" prefix=""/>
-		</else>
+			<if type="bill hearing legal_case legislation regulation standard" match="any">
+				<text macro="source"/>
+			</if>
+			<else>
+				<text macro="author"/>
+				<text macro="source" prefix=""/>
+			</else>
 		</choose>
 	</layout>
 </bibliography>
