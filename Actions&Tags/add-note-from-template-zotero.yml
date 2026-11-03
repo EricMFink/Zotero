@@ -1,0 +1,20 @@
+type: ActionsTagsBackup
+author: emfink
+platformVersion: 10.0.7
+pluginVersion: 2.6.2
+timestamp: '2026-11-03T22:34:16.681Z'
+actions:
+  1787673054833-QfZtKic9:
+    event: 0
+    operation: 4
+    data: "/**\n * Select the Better Notes template when triggering the shortcut.\n * @author windingwind, ramonmi\n * @usage Trigger with shortcuts\n * @link https://github.com/windingwind/zotero-actions-tags/discussions/319\n * @see https://github.com/windingwind/zotero-actions-tags/discussions/319\n * @ref https://github.com/windingwind/zotero-better-notes/issues/1250\n */\n\nif (!Zotero.BetterNotes?.api.note?.insert) {\n\treturn \"[Custom-Template] Better Notes for Zotero > 1.1.4-21 is not installed or disabled.\";\n}\nif (!item) { return; }\n\n// Select template name from input\ntemplateName = (await Zotero.BetterNotes.hooks.onShowTemplatePicker(\"pick\"))[0]\ntemplateContent = Zotero.BetterNotes.api.template.getTemplateText(templateName);\nif (!templateContent) {\n\treturn \"[Custom-Template] Template is invalid\";\n}\n\n// Define refreshable template array\n// change the array with your template names with refreshable content\n// Hint: [item] or [text] mush be lower case!\nconst templateArray = ['[item]item_Academic_Vocabulary','[item]item_Extensive_Reading','[item]item_Flow_Notes','[item]item_Intensive_Reading','[item]item_Tag_Journal'];\n// check if the template have refreshable content\nif (templateName && templateArray.includes(templateName)) {\n\tvar refreshableTag = \"refreshable-template\";\n}\n\nconst parentItem = Zotero.Items.getTopLevel([item])[0];\n\nconst noteItem = new Zotero.Item(\"note\");\nnoteItem.libraryID = parentItem.libraryID;\nnoteItem.parentID = parentItem.id;\nif (refreshableTag) {\n\tnoteItem.addTag(refreshableTag, 0);\n}\nawait noteItem.saveTx();\n\nlet html = \"\";\nhtml = await Zotero.BetterNotes.api.template.runItemTemplate(templateName, {\n\titemIds: [parentItem.id],\n\ttargetNoteId: noteItem.id,\n});\nawait Zotero.BetterNotes.api.note.insert(\n\tnoteItem,\n\thtml,\n\t-1,\n);\n\nreturn `[Custom-Template] Note ${noteItem.getNoteTitle()} is created on item ${item.getField(\"title\")} from template ${templateName}`;"
+    shortcut: ''
+    enabled: true
+    menu: Add Note from Template
+    name: Add Note from Template
+    showInMenu:
+      item: true
+      collection: true
+      tools: true
+      reader: true
+      readerAnnotation: true

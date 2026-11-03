@@ -1,0 +1,20 @@
+type: ActionsTagsBackup
+author: emfink
+platformVersion: 10.0.7
+pluginVersion: 2.6.2
+timestamp: '2026-11-03T22:34:01.803Z'
+actions:
+  1793500940320-hjxWagtG:
+    event: 0
+    operation: 4
+    data: "/**\n * Batch update refreshable notes using update content from templates\n * @usage Trigger with shortcuts\n * @link https://github.com/windingwind/zotero-actions-tags/discussions/451\n * @see https://github.com/windingwind/zotero-actions-tags/discussions/451\n * @ref https://github.com/windingwind/zotero-better-notes/issues/1257\n * @after https://github.com/windingwind/zotero-actions-tags/discussions/319#discussioncomment-11769467\n*/\n\nif (item) {\n\treturn;\n}\n\nif (!Zotero.BetterNotes?.api.note?.insert) {\n\treturn \"[Action:Batch-Update] Better Notes for Zotero > 1.1.4-21 is not installed or disabled.\";\n}\n\nconst window = require(\"window\");\nconst TipLabel = window.prompt(`${items.length} items selected! This will take some time to continuously open and close numerous Note windows. Continue? (y/n):`);\nif (TipLabel && TipLabel === \"y\" || TipLabel === \"Y\" || TipLabel === \"yes\" || TipLabel === \"YES\" || TipLabel === \"Yes\") {\n\n\t// define updatecontentinNote function\n\tlet countNum = 0;\n\tasync function updatecontentinNote(noteID) {\n\t\tlet win = await Zotero.BetterNotes.hooks.onOpenNote(noteID, \"window\");\n\t\tlet getEditor = () => Zotero.BetterNotes.api.editor.getEditorInstance(noteID);\n\t\tlet i = 0;\n\t\twhile (i < 30 && !getEditor()) {\n\t\t\tawait Zotero.Promise.delay(100);\n\t\t\ti++;\n\t\t}\n\t\tawait Zotero.BetterNotes.hooks.onRefreshTemplatesInNote(getEditor());\n\t\tawait Zotero.Promise.delay(2000);   // modify 2000 to a more appropriate time value according to the performance of your computer\n\t\twin.close();\n\t\tcountNum += 1;\n\t}\n\n\tconst refreshableTag = \"refreshable-template\";\n\tasync function refreshNote(targetitem) {\n\t\tif (targetitem.isRegularItem() && !targetitem.isNote()) {\n\t\t\tconst noteIDs = targetitem.getNotes();\n\t\t\tfor (let noteid of noteIDs) {\n\t\t\t\tnote = Zotero.Items.get(noteid);\n\t\t\t\tif (note.getTags().some(obj => obj.tag === refreshableTag)) {\n\t\t\t\t\tawait updatecontentinNote(noteid);\n\t\t\t\t}\n\t\t\t}\n\t\t} else if (targetitem.isNote()) {\n\t\t\tconst parentItem = Zotero.Items.getTopLevel([targetitem])[0];\n\t\t\tif (parentItem.isRegularItem()) {\n\t\t\t\tif (targetitem.getTags().find(obj => obj.tag === refreshableTag)) {\n\t\t\t\t\tawait updatecontentinNote(targetitem.id);\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n\n\tfor (let item of items) {\n\t\tawait refreshNote(item);\n\t}\n\treturn `[Action:Batch-Update] Updated ${countNum} refreshable notes!`;\n\n} else if (TipLabel && TipLabel === \"n\" || TipLabel === \"N\" || TipLabel === \"No\" || TipLabel === \"NO\") {\n\twindow.alert(\"Execution cancelled, nothing to do!\");\n} else {\n\twindow.alert(\"Invalid input, nothing to do!\");\n}"
+    shortcut: ''
+    enabled: true
+    menu: Batch Update Notes
+    name: Batch Update Notes
+    showInMenu:
+      item: true
+      collection: true
+      tools: true
+      reader: true
+      readerAnnotation: true
