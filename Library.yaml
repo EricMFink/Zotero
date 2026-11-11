@@ -3626,6 +3626,20 @@ references:
   title-short: Red state revolt
   type: book
 
+- id: BlandEdwardJonesCo_NDIll2019
+  authority: N.D. Ill.
+  citation-key: BlandEdwardJonesCo_NDIll2019
+  container-title: F. Supp. 3d
+  issued:
+    - year: 2019
+      month: 3
+      day: 19
+  jurisdiction: ND Illinois
+  page: '962'
+  title: Bland v. Edward D. Jones & Co., LP
+  type: legal_case
+  volume: '375'
+
 - id: Bloch2010
   author:
     - family: Bloch
@@ -8461,6 +8475,18 @@ references:
   URL: http://www.jstor.org/stable/24545818
   volume: '39'
 
+- id: DortaSpecialtyCareInc_MDTenn2024
+  authority: M.D. Tenn.
+  citation-key: DortaSpecialtyCareInc_MDTenn2024
+  issued:
+    - year: 2024
+      month: 5
+      day: 6
+  jurisdiction: MD Tennessee
+  number: 3:23-cv-00892
+  title: Dorta v. SpecialtyCare, Inc.
+  type: legal_case
+
 - id: DoughertyPepperHamiltonLLP_PaSuperCt2016
   authority: Pa. Super. Ct.
   citation-key: DoughertyPepperHamiltonLLP_PaSuperCt2016
@@ -8790,6 +8816,18 @@ references:
   title: 'Triangle: the Fire That Changed America'
   title-short: Triangle
   type: book
+
+- id: DrennenExxonMobilCorporation_CourtofAppeals14thDist2012
+  authority: Texas Court of Appeals, 14th Dist.
+  citation-key: DrennenExxonMobilCorporation_CourtofAppeals14thDist2012
+  issued:
+    - year: 2012
+      month: 2
+      day: 14
+  jurisdiction: Tex
+  number: 14-10-01099-CV
+  title: Drennen v. Exxon Mobil Corporation
+  type: legal_case
 
 - id: DriskellSummittContractingGroup_4thCir2020
   authority: 4th Cir.
@@ -9743,6 +9781,20 @@ references:
   title: Exxon Mobil Corp. v. Allapattah Serv.
   type: legal_case
   volume: '545'
+
+- id: ExxonMobilCorpDrennen_TexasSupremeCourt2014
+  authority: Texas Supreme Court
+  citation-key: ExxonMobilCorpDrennen_TexasSupremeCourt2014
+  container-title: SW 3d
+  issued:
+    - year: 2014
+      month: 8
+      day: 29
+  jurisdiction: Tex
+  page: '319'
+  title: Exxon Mobil Corp. v. Drennen
+  type: legal_case
+  volume: '452'
 
 - id: FacebookNextdoorXThreadsRedditLinkedInEmailWhatsAppMessenger2021
   accessed:
@@ -14334,6 +14386,18 @@ references:
   title: Harris v. Forklift Systems, Inc.
   type: legal_case
   volume: '510'
+
+- id: HarrisRoehlTransportInc_WDWisc2026
+  authority: W.D. Wisc.
+  citation-key: HarrisRoehlTransportInc_WDWisc2026
+  issued:
+    - year: 2026
+      month: 5
+      day: 29
+  jurisdiction: WD Wisconsin
+  number: 25-cv-227-wmc
+  title: Harris v. Roehl Transport, Inc.
+  type: legal_case
 
 - id: Hartzog2026
   author:
@@ -20166,6 +20230,20 @@ references:
   type: article-journal
   volume: '10'
 
+- id: MarshUSAIncCook_SupremeCourt2011
+  authority: Texas Supreme Court
+  citation-key: MarshUSAIncCook_SupremeCourt2011
+  container-title: SW 3d
+  issued:
+    - year: 2011
+      month: 12
+      day: 16
+  jurisdiction: Tex
+  page: '764'
+  title: Marsh USA Inc. v. Cook
+  type: legal_case
+  volume: '354'
+
 - id: Martel2011
   accessed:
     - year: 2025
@@ -21861,6 +21939,18 @@ references:
   title: First Amendment (speech) Unemployment Compensation
   type: post-weblog
   URL: https://www.lawfficespace.com/2009/12/first-amendment-speech-unemployment.html
+
+- id: MilfordRoehlTransportInc_EDWisc2023
+  authority: E.D. Wisc.
+  citation-key: MilfordRoehlTransportInc_EDWisc2023
+  issued:
+    - year: 2023
+      month: 3
+      day: 14
+  jurisdiction: ED Wisconsin
+  number: Case No. 22-cv-0879-bhl
+  title: Milford v. Roehl Transport, Inc.
+  type: legal_case
 
 - id: Miliband2009
   author:
@@ -23802,6 +23892,20 @@ references:
   title-short: Behemoth
   type: book
 
+- id: NeurodiagnosticTexLLCPierce_TexasCourtofAppeals12thDist2016
+  authority: Texas Court of Appeals, 12th Dist.
+  citation-key: NeurodiagnosticTexLLCPierce_TexasCourtofAppeals12thDist2016
+  container-title: SW 3d
+  issued:
+    - year: 2016
+      month: 10
+      day: 31
+  jurisdiction: Tex
+  page: '153'
+  title: Neurodiagnostic Tex, LLC v. Pierce
+  type: legal_case
+  volume: '506'
+
 - id: NewFascismSyllabus2025
   accessed:
     - year: 2025
@@ -24870,6 +24974,18 @@ references:
   type: legal_case
   volume: '25'
 
+- id: PalliativeLlcAssureHospice_TexasCourtofAppeals3rdDist2025
+  authority: Texas Court of Appeals, 3rd Dist.
+  citation-key: PalliativeLlcAssureHospice_TexasCourtofAppeals3rdDist2025
+  issued:
+    - year: 2025
+      month: 1
+      day: 24
+  jurisdiction: Tex
+  number: 03-23-00770-CV
+  title: Palliative Plus Llc v. a Assure Hospice, Inc.
+  type: legal_case
+
 - id: Parker2014
   archive: JSTOR
   author:
@@ -25097,6 +25213,20 @@ references:
   type: article-journal
   URL: https://brill.com/view/journals/me/26/2/article-p145_3.xml
   volume: '26'
+
+- id: PeatMarwickMainCo_Texas1991
+  authority: Texas Supreme Court
+  citation-key: PeatMarwickMainCo_Texas1991
+  container-title: SW 2d
+  issued:
+    - year: 1991
+      month: 9
+      day: 11
+  jurisdiction: Tex
+  page: '381'
+  title: Peat Marwick Main & Co. v. Haass
+  type: legal_case
+  volume: '818'
 
 - id: Pehl2019-05-0001
   author:
@@ -27347,6 +27477,20 @@ references:
   number: 1:20-CV-2
   title: Ries v. Mcdonald's USA, LLC
   type: legal_case
+
+- id: RievesBuceesLtd_TexasCourtofAppeals2017
+  authority: Texas Court of Appeals
+  citation-key: RievesBuceesLtd_TexasCourtofAppeals2017
+  container-title: SW 3d
+  issued:
+    - year: 2017
+      month: 10
+      day: 12
+  jurisdiction: Tex
+  page: '845'
+  title: Rieves v. Buc-ee's Ltd.
+  type: legal_case
+  volume: '532'
 
 - id: RightsCongressFacesNew1955
   accessed:
@@ -32061,6 +32205,11 @@ references:
   title: The Story of Swift v. Tyson
   type: article-journal
   volume: '35'
+
+- id: TexasBusinessCommerceCode
+  citation-key: TexasBusinessCommerceCode
+  title: Texas Business and Commerce Code
+  type: legislation
 
 - id: TexasEEOC_NDTex2025
   authority: N.D. Tex.
