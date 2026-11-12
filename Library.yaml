@@ -1243,6 +1243,22 @@ references:
   type: webpage
   URL: https://www.unep.org/news-and-stories/story/ai-has-environmental-problem-heres-what-world-can-do-about
 
+- id: AirportMinimumWageRequirements2026
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  citation-key: AirportMinimumWageRequirements2026
+  container-title: Brightmine US
+  issued:
+    - year: 2026
+      month: 11
+      day: 4
+  language: en-US
+  title: Airport minimum wage requirements by state
+  type: post-weblog
+  URL: https://www.brightmine.com/us/resources/hr-compliance/wage-hour/minimum-wage/airport-minimum-wage-requirements-by-state/
+
 - id: AlaCode13A-11-150
   citation-key: AlaCode13A-11-150
   container-title: Ala. Code
@@ -2139,6 +2155,25 @@ references:
   title: Art & Cultural Property Law 2026 - Spain | Global Practice Guides | Chambers and Partners
   type: webpage
   URL: https://practiceguides.chambers.com/practice-guides/art-cultural-property-law-2026/spain/trends-and-developments
+
+- id: Article2026
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  author:
+    - family: Article
+      given: Nick Sullivan Gift
+  citation-key: Article2026
+  container-title: Charlotte Observer
+  issued:
+    - year: 2026
+      month: 11
+      day: 6
+  language: en
+  title: Tillis will ‘move heaven and Earth’ to take CLT airport if city gets lease deal wrong
+  type: webpage
+  URL: https://www.charlotteobserver.com/news/politics-government/article317960322.html
 
 - id: ArtificialIntelligenceAAUP_nd
   accessed:
@@ -6001,6 +6036,29 @@ references:
   type: article-journal
   volume: '31'
 
+- id: Cholden-Brown2020
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  author:
+    - family: Cholden-Brown
+      given: Louis
+  citation-key: Cholden-Brown2020
+  container-title: Charleston Law Review
+  container-title-short: Charlest. Law Rev.
+  issue: '1'
+  issued:
+    - year: 2020
+  language: en
+  page: 1–30
+  source: HeinOnline
+  title: 'Planes, Trains and Trucks: Applying the Market Participant Exception to the Government as Proprietary Owner of Hubs of Commerce'
+  title-short: Planes, Trains and Trucks
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/charlwrev14&i=9
+  volume: '14'
+
 - id: CitingSlaveryProject_nd
   accessed:
     - year: 2026
@@ -7387,6 +7445,10 @@ references:
   volume: '85'
 
 - id: Cummings2023
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
   author:
     - family: Cummings
       given: Scott
@@ -7402,6 +7464,7 @@ references:
       month: 1
       day: 1
   language: en
+  page: 127–204
   source: COinS
   title: Mobilizable Labor Law
   type: article-journal
@@ -9815,6 +9878,16 @@ references:
   title: Employees In Debt To Former Employers After Breaking Contracts
   type: webpage
   URL: https://www.scrippsnews.com/us-news/how-some-people-become-indebted-to-former-employers
+
+- id: Failor_nd
+  author:
+    - family: Failor
+      given: Greg
+  citation-key: Failor_nd
+  language: en
+  source: Zotero
+  title: Airport Wage Requirements
+  type: article-journal
 
 - id: Fantasia1995
   accessed:
@@ -12513,6 +12586,18 @@ references:
   type: motion_picture
   URL: https://www.c-span.org/program/public-affairs-event/georgetown-university-discussion-on-the-rule-of-law-and-democracy-around-the-globe/655494
 
+- id: Gerstein_nd
+  author:
+    - family: Gerstein
+      given: Terri
+    - family: Gong
+      given: LiJia
+  citation-key: Gerstein_nd
+  language: en
+  source: Zotero
+  title: How Local Government Can Stand Up for Workers When States Try to Stand in Their Way
+  type: article-journal
+
 - id: Gerstenblith2010
   author:
     - family: Gerstenblith
@@ -14399,6 +14484,30 @@ references:
   title: Harris v. Roehl Transport, Inc.
   type: legal_case
 
+- id: Hartley2002
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  author:
+    - family: Hartley
+      given: Roger C.
+  citation-key: Hartley2002
+  container-title: University of Pennsylvania Journal of Labor and Employment Law
+  container-title-short: Univ. Pa. J. Labor Employ. Law
+  issue: '2'
+  issued:
+    - year: 2002
+    - year: 2003
+  language: en
+  page: 229–258
+  source: HeinOnline
+  title: 'Preemption''s Market Participant Immunity - A Constitutional Interpretation: Implications for Living Wage and Labor Peace Policies Articles & Essays'
+  title-short: Preemption's Market Participant Immunity - A Constitutional Interpretation
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/upjlel5&i=237
+  volume: '5'
+
 - id: Hartzog2026
   author:
     - family: Hartzog
@@ -14798,6 +14907,25 @@ references:
   title-short: Fishman
   type: legal_case
   volume: '900'
+
+- id: Hemphill2026
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  author:
+    - family: Hemphill
+      given: Joshua
+  citation-key: Hemphill2026
+  container-title: WBT Charlotte's News Talk
+  issued:
+    - year: 2026
+      month: 11
+      day: 11
+  language: en-US
+  title: Charlotte Council Approves $2.1 Billion Airport Agreement
+  type: post-weblog
+  URL: https://wbt.com/1652143/charlotte-council-approves-2-1-billion-airport-agreement/
 
 - id: HencelyFlourCorp_US2026
   authority: U.S.
@@ -15653,6 +15781,18 @@ references:
   type: webpage
   URL: https://www.cultura.gob.es/en/cultura/patrimonio/informacion-general/gestion-en-el-ministerio/introduccion.html
 
+- id: InventoryUSCityCounty_nd
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  citation-key: InventoryUSCityCounty_nd
+  container-title: UC Berkeley Labor Center
+  language: en-US
+  title: Inventory of US City and County Minimum Wage Ordinances
+  type: post-weblog
+  URL: https://laborcenter.berkeley.edu/inventory-of-us-city-and-county-minimum-wage-ordinances/
+
 - id: IowaCode717A3A
   citation-key: IowaCode717A3A
   container-title: Iowa Code
@@ -16254,6 +16394,30 @@ references:
   type: article-magazine
   URL: http://jacobinmag.com/2017/03/salts-union-organizing-nlrb-obama-trump-labor
 
+- id: Johnson2018
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  author:
+    - family: Johnson
+      given: Alexsis M.
+  citation-key: Johnson2018
+  container-title: Columbia Journal of Gender and Law
+  container-title-short: Columbia J. Gend. Law
+  issue: '1'
+  issued:
+    - year: 2018
+    - year: 2019
+  language: en
+  page: 36–67
+  source: HeinOnline
+  title: 'Intersectionality Squared: Intrastate Minimum Wage Preemption & Schuette''s Second-Class Citizens'
+  title-short: Intersectionality Squared
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/coljgl37&i=46
+  volume: '37'
+
 - id: JohnsonCricketCouncilUSA_EDNC2023
   authority: E.D.N.C.
   citation-key: JohnsonCricketCouncilUSA_EDNC2023
@@ -16429,6 +16593,25 @@ references:
   title: Jones v. US
   type: legal_case
   volume: '828'
+
+- id: Jordan2026
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  author:
+    - family: Jordan
+      given: Chase
+  citation-key: Jordan2026
+  container-title: Charlotte Observer
+  issued:
+    - year: 2026
+      month: 11
+      day: 10
+  language: en
+  title: Airport workers walk out as Charlotte approves multibillion-dollar lease
+  type: webpage
+  URL: https://www.charlotteobserver.com/news/business/article317999790.html
 
 - id: Joy1996
   author:
@@ -17960,6 +18143,31 @@ references:
   type: legal_case
   volume: '493'
 
+- id: LaborMandatesAirportsWho_nd
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  citation-key: LaborMandatesAirportsWho_nd
+  container-title: AIRPORT RESTAURANT AND RETAIL ASSOCIATION
+  language: en
+  title: 'Labor Mandates in Airports: Who Should Pay for Rising Wage Costs'
+  title-short: Labor Mandates in Airports
+  type: webpage
+  URL: http://www.arra-airports.com/4/post/2026/09/labor-mandates-who-should-pay.html
+
+- id: LaborStandardsAirportSafety_nd
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  citation-key: LaborStandardsAirportSafety_nd
+  container-title: UC Berkeley Labor Center
+  language: en-US
+  title: Labor standards and airport safety and security
+  type: post-weblog
+  URL: https://laborcenter.berkeley.edu/labor-standards-and-airport-safety-and-security/
+
 - id: LABotz1991
   author:
     - family: LA Botz
@@ -18265,6 +18473,16 @@ references:
   type: article-journal
   URL: https://doi.org/10.1007/s11133-013-9263-7
   volume: '36'
+
+- id: LawJournalLibraryHeinOnline_nd
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  citation-key: LawJournalLibraryHeinOnline_nd
+  title: Law Journal Library - HeinOnline
+  type: webpage
+  URL: https://access.heinonline.com/HOL/Page?handle=hein.journals/uchclf2009&div=9&g_sent=1&casa_token=IOVgnM2bTawAAAAA%3ARlU1ApM2bM-B9lB7KMzKbW0VY_zihfWBXzjiWE0PgOH4q0mzujOazQSpRJTpUjdy6oVJ_35t&collection=journals
 
 - id: LawlorLoewe_US1915
   authority: U.S.
@@ -19189,6 +19407,16 @@ references:
   URL: https://www.jstor.org/stable/829095
   volume: '27'
 
+- id: LivingWageServiceWorker_nd
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  citation-key: LivingWageServiceWorker_nd
+  title: Living Wage and Service Worker Retention Ordinances | Los Angeles World Airports
+  type: webpage
+  URL: https://www.lawa.org/lawa-businesses/lawa-administrative-requirements/living-wage-and-service-worker-retention-ordinances
+
 - id: Lixinski2024
   accessed:
     - year: 2026
@@ -19208,6 +19436,25 @@ references:
   title: A Research Agenda for Cultural Heritage Law
   type: book
   URL: https://www.elgaronline.com/monobook/book/9781035324422/9781035324422.xml
+
+- id: LLC2026
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  author:
+    - family: LLC
+      given: DWU Consulting
+  citation-key: LLC2026
+  container-title: DWU Consulting
+  issued:
+    - year: 2026
+      month: 4
+      day: 9
+  language: en
+  title: Airport Labor Costs in Operating Budgets
+  type: webpage
+  URL: https://dwuconsulting.com/dwu-ai/airport-labor-costs-operating-budgets
 
 - id: Lobel2003
   author:
@@ -22145,6 +22392,18 @@ references:
   type: legal_case
   volume: '383'
 
+- id: MINIMUMWAGEREQUIREMENTSSample_nd
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  citation-key: MINIMUMWAGEREQUIREMENTSSample_nd
+  container-title: Law Insider
+  language: en
+  title: MINIMUM WAGE REQUIREMENTS Sample Clauses
+  type: webpage
+  URL: https://www.lawinsider.com/clause/minimum-wage-requirements
+
 - id: MitchellSherman_Wis1994
   authority: Wis.
   citation-key: MitchellSherman_Wis1994
@@ -23308,6 +23567,17 @@ references:
   type: article-journal
   URL: http://search.proquest.com/docview/2352150753/abstract/5B13AF4F8A2249D0PQ/5
   volume: '25'
+
+- id: MwaacomAirportWorkersWage_nd
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  citation-key: MwaacomAirportWorkersWage_nd
+  language: en
+  title: mwaa.com - Airport Workers Wage Program
+  type: webpage
+  URL: https://www.mwaa.com/policies-regulations/airport-workers-wage-program
 
 - id: MyersHowmedicaOsteonicsCorp_DMont2016
   authority: D. Mont.
@@ -27073,6 +27343,35 @@ references:
   type: webpage
   URL: https://www.nps.gov/subjects/nagpra/regulations.htm
 
+- id: Reich2005
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  author:
+    - family: Reich
+      given: Michael
+    - family: Hall
+      given: Peter
+    - family: Jacobs
+      given: Ken
+  citation-key: Reich2005
+  container-title: 'Industrial Relations: A Journal of Economy and Society'
+  container-title-short: Ind. Relat. J. Econ. Soc.
+  DOI: 10.1111/j.0019-8676.2004.00375.x
+  ISSN: 1468-232X
+  issue: '1'
+  issued:
+    - year: 2005
+  language: en
+  page: 106–138
+  source: Wiley Online Library
+  title: 'Living Wage Policies at the San Francisco Airport: Impacts on Workers and Businesses'
+  title-short: Living Wage Policies at the San Francisco Airport
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0019-8676.2004.00375.x
+  volume: '44'
+
 - id: Reid2018
   author:
     - family: Reid
@@ -27672,6 +27971,19 @@ references:
   title-short: Rogge Loses Suit for Fee
   type: article-newspaper
   URL: https://www.proquest.com/docview/112381797/citation/55BEF8A092084795PQ/1
+
+- id: RoleLocalGovernmentProtecting_nd
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  citation-key: RoleLocalGovernmentProtecting_nd
+  container-title: Economic Policy Institute
+  language: en-US
+  title: 'The role of local government in protecting workers’ rights: A comprehensive overview of the ways that cities, counties, and other localities are taking action on behalf of working people'
+  title-short: The role of local government in protecting workers’ rights
+  type: webpage
+  URL: https://www.epi.org/publication/the-role-of-local-government-in-protecting-workers-rights-a-comprehensive-overview-of-the-ways-that-cities-counties-and-other-localities-are-taking-action-on-behalf-of-working-people/
 
 - id: Roosevelt2015
   accessed:
@@ -29296,6 +29608,18 @@ references:
   title: Seaworld of Florida v. Perez
   type: legal_case
   volume: '748'
+
+- id: SectoralWageOrdinances_nd
+  accessed:
+    - year: 2026
+      month: 11
+      day: 12
+  citation-key: SectoralWageOrdinances_nd
+  container-title: UC Berkeley Labor Center
+  language: en-US
+  title: Sectoral Wage Ordinances
+  type: post-weblog
+  URL: https://laborcenter.berkeley.edu/sectoral-wage-ordinances/
 
 - id: Secunda2007
   author:
