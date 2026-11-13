@@ -6006,6 +6006,30 @@ references:
   title-short: Bad samaritans
   type: book
 
+- id: Cherry2025
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Cherry
+      given: Miriam A.
+  citation-key: Cherry2025
+  container-title: William & Mary Law Review
+  container-title-short: William Mary Law Rev.
+  issue: '3'
+  issued:
+    - year: 2025
+    - year: 2026
+  language: en
+  page: 605–668
+  source: HeinOnline
+  title: 'Abuse of Contract: A Proposal for a New Cause of Action'
+  title-short: Abuse of Contract
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/wmlr67&i=626
+  volume: '67'
+
 - id: CheyTacIncKnesek_ArkCirCt2022
   authority: Ark. Cir. Ct.
   citation-key: CheyTacIncKnesek_ArkCirCt2022
@@ -7783,6 +7807,34 @@ references:
   type: article-journal
   URL: https://search.proquest.com/docview/219442599/abstract/80DA5D81984E4E23PQ/1
   volume: '21'
+
+- id: Dau-Schmidt2021
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Dau-Schmidt
+      given: Kenneth G.
+    - family: Sun
+      given: Xiaohan
+    - family: Jones
+      given: Phillip J.
+  citation-key: Dau-Schmidt2021
+  container-title: Comparative Labor Law & Policy Journal
+  container-title-short: Comp. Labor Law Policy J.
+  issue: '3'
+  issued:
+    - year: 2021
+    - year: 2022
+  language: en
+  page: 585–638
+  source: HeinOnline
+  title: 'The American Experience with Employee Non-Compete Clauses: Constraints on Employees Flourish and Do Real Damage in the Land of Economic Liberty Covenants Not to Compete'
+  title-short: The American Experience with Employee Non-Compete Clauses
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/cllpj42&i=621
+  volume: '42'
 
 - id: DaughertyRunner_KyCtApp1978
   authority: Ky. Ct. App.
@@ -14213,6 +14265,22 @@ references:
   type: chapter
   URL: https://www.jstor.org/stable/j.ctt9qg0dk.30
 
+- id: Hafiz2023
+  author:
+    - family: Hafiz
+      given: Hiba
+    - family: Marinescu
+      given: Ioana
+  citation-key: Hafiz2023
+  container-title: University of Chicago Law Review
+  container-title-short: Univ. Chic. Law Rev.
+  issued:
+    - year: 2023
+  page: '469'
+  title: Labor Market Regulation and Worker Power | JSTOR
+  type: article-journal
+  volume: '90'
+
 - id: Hajjar2014
   archive: JSTOR
   author:
@@ -14456,6 +14524,102 @@ references:
   title: 'The Other America: Poverty in the United States'
   title-short: The other america
   type: book
+
+- id: Harris2020
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Harris
+      given: Jonathan F.
+  citation-key: Harris2020
+  container-title: Alabama Law Review
+  container-title-short: Ala. Law Rev.
+  issue: '4'
+  issued:
+    - year: 2020
+    - year: 2021
+  language: en
+  page: 723–784
+  source: HeinOnline
+  title: Unconscionability in Contracting for Worker Training
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/bamalr72&i=763
+  volume: '72'
+
+- id: Harris2024
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Harris
+      given: Jonathan F.
+  citation-key: Harris2024
+  container-title: California Law Review
+  container-title-short: Calif. Law Rev.
+  DOI: 10.15779/Z38JH3D38F
+  issue: '1'
+  issued:
+    - year: 2024
+  language: en
+  page: 1–54
+  source: HeinOnline
+  title: Consumer Law as Work Law
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/calr112&i=1
+  volume: '112'
+
+- id: Harris2026
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Harris
+      given: Jonathan F.
+    - family: Kaufman
+      given: Ben
+  citation-key: Harris2026
+  DOI: 10.2139/ssrn.7182598
+  genre: SSRN Scholarly Paper
+  issued:
+    - year: 2026
+      month: 7
+      day: 10
+  language: en
+  number: '7182598'
+  publisher: Social Science Research Network
+  publisher-place: Rochester, NY
+  source: papers.ssrn.com
+  title: Consumer Law Meets the New Company Store
+  type: article
+  URL: https://papers.ssrn.com/abstract=7182598
+
+- id: Harris2026a
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Harris
+      given: Jonathan F.
+  citation-key: Harris2026a
+  DOI: 10.2139/ssrn.7182619
+  genre: SSRN Scholarly Paper
+  issued:
+    - year: 2026
+      month: 6
+      day: 20
+  language: en
+  number: '7182619'
+  publisher: Social Science Research Network
+  publisher-place: Rochester, NY
+  source: papers.ssrn.com
+  title: The New Indentured Servitude
+  type: article
+  URL: https://papers.ssrn.com/abstract=7182619
 
 - id: HarrisForkliftSystemsInc_US1993
   authority: U.S.
@@ -16141,6 +16305,24 @@ references:
   title: Cultural Resource Management
   type: chapter
 
+- id: Jennings2026
+  author:
+    - family: Jennings
+      given: Andrew
+  citation-key: Jennings2026
+  container-title: Wake Forest Law Review
+  container-title-short: Wake For. Law Rev.
+  issued:
+    - year: 2026
+      month: 1
+      day: 1
+  page: '137'
+  source: COinS
+  title: The Law of Quitting
+  type: article-journal
+  URL: https://scholarlycommons.law.emory.edu/faculty-articles/351
+  volume: '62'
+
 - id: Jenson1995
   accessed:
     - year: 2020
@@ -17215,6 +17397,30 @@ references:
   title-short: Lives of lawyers revisited
   type: book
 
+- id: Kelly2024
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Kelly
+      given: Lacy
+  citation-key: Kelly2024
+  container-title: Oklahoma City University Law Review
+  container-title-short: Okla. City Univ. Law Rev.
+  issue: '2'
+  issued:
+    - year: 2024
+    - year: 2025
+  language: en
+  page: 155–182
+  source: HeinOnline
+  title: 'The Employee Trap: Developments in Training Repayment Agreement Provisions and Towards a Labor Market Free of Snares Note'
+  title-short: The Employee Trap
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/okcu49&i=167
+  volume: '49'
+
 - id: Kelman1990
   author:
     - family: Kelman
@@ -17983,6 +18189,23 @@ references:
   URL: https://ezproxy.elon.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=5807630&site=ehost-live
   volume: '44'
 
+- id: Kraus2008
+  author:
+    - family: Kraus
+      given: Anthony
+  citation-key: Kraus2008
+  container-title: Labor Law Journal
+  container-title-short: Labor Law J.
+  issued:
+    - year: 2008
+  page: '213'
+  source: COinS
+  title: 'Employee Agreements for Repayment of Training Costs: The Emerging Case Law'
+  title-short: Employee Agreements for Repayment of Training Costs
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/Page?handle=hein.journals/labljo59&id=213&div=&collection=
+  volume: '59'
+
 - id: Krause2020
   accessed:
     - year: 2026
@@ -18001,6 +18224,30 @@ references:
   title: For nearly two dozen nurses, leaving Parkland early comes at a cost
   type: webpage
   URL: https://www.dallasnews.com/business/health-care/2020/07/03/for-nearly-two-dozen-nurses-leaving-parkland-early-comes-at-a-cost/
+
+- id: Krieger2022
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Krieger
+      given: Jordan Ti
+  citation-key: Krieger2022
+  container-title: Northwestern University Law Review
+  container-title-short: Northwest. Univ. Law Rev.
+  issue: '6'
+  issued:
+    - year: 2022
+    - year: 2023
+  language: en
+  page: 1661–1706
+  source: HeinOnline
+  title: 'Employer Tuition Assistance: Current Approaches and the Application of the Implied Covenant of Good Faith and Fair Dealing Notes'
+  title-short: Employer Tuition Assistance
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/illlr117&i=1701
+  volume: '117'
 
 - id: Krieken2019
   accessed:
@@ -19934,6 +20181,29 @@ references:
   type: article-journal
   URL: https://heinonline.org/HOL/P?h=hein.journals/flr81&i=725
   volume: '81'
+
+- id: Lukomski2025
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Lukomski
+      given: Hannah
+  citation-key: Lukomski2025
+  container-title: Washington Law Review
+  container-title-short: Wash. Law Rev.
+  issue: '2'
+  issued:
+    - year: 2025
+  language: en
+  page: 583–618
+  source: HeinOnline
+  title: 'A Noncompete by Any Other Name: Assessing the Validity of Training Repayment Agreements under Washington Law Notes & Comments'
+  title-short: A Noncompete by Any Other Name
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/washlr100&i=600
+  volume: '100'
 
 - id: Lynd2011
   author:
@@ -26412,6 +26682,29 @@ references:
   title-short: Radical markets
   type: book
 
+- id: Posner2024
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Posner
+      given: Eric A.
+  citation-key: Posner2024
+  container-title: Antitrust Law Journal
+  container-title-short: Antitrust Law J.
+  issue: '2'
+  issued:
+    - year: 2024
+    - year: 2025
+  language: en
+  page: 503–578
+  source: HeinOnline
+  title: The New Labor Antitrust
+  type: article-journal
+  URL: https://access.heinonline.com/HOL/P?h=hein.journals/antil86&i=515
+  volume: '86'
+
 - id: Postone1980
   accessed:
     - year: 2023
@@ -30945,6 +31238,31 @@ references:
   title-short: Silicon Empires
   type: book
 
+- id: St-Denis2023
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: St-Denis
+      given: Xavier
+  citation-key: St-Denis2023
+  container-title: Relations industrielles / Industrial Relations
+  container-title-short: Relat. Ind. Ind. Relat.
+  DOI: 10.7202/1111510ar
+  ISSN: 0034-379X, 1703-8138
+  issue: '4'
+  issued:
+    - year: 2023
+  language: fr
+  publisher: Département des relations industrielles de l’Université Laval
+  source: www.erudit.org
+  title: 'Worker Capture in the Precarious Work Era: Reducing Turnover without Employee Commitment and Job Security'
+  title-short: Worker Capture in the Precarious Work Era
+  type: article-journal
+  URL: https://www.erudit.org/en/journals/ri/2023-v78-n4-ri09343/1111510ar/
+  volume: '78'
+
 - id: Stadler2020
   accessed:
     - year: 2026
@@ -33572,6 +33890,34 @@ references:
   title: Vinluan v. Doyle
   type: legal_case
   volume: '873'
+
+- id: VonBergen2007
+  accessed:
+    - year: 2026
+      month: 11
+      day: 13
+  author:
+    - family: Von Bergen
+      given: C. W.
+    - family: Mawer
+      given: William (Will) T.
+  citation-key: VonBergen2007
+  container-title: Employee Responsibilities and Rights Journal
+  container-title-short: Empl. Responsib. Rights J.
+  DOI: 10.1007/s10672-007-9039-x
+  ISSN: 1573-3378
+  issue: '2'
+  issued:
+    - year: 2007
+      month: 6
+      day: 1
+  language: en
+  page: 127–143
+  source: Springer Link
+  title: Recouping Training and Development Costs Using Preemployment Agreements
+  type: article-journal
+  URL: https://doi.org/10.1007/s10672-007-9039-x
+  volume: '19'
 
 - id: Voudouri2010
   accessed:
