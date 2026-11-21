@@ -4,8 +4,6 @@ references:
   citation-key: 15USC1
   container-title: U.S.C.
   container-title-short: U.S.C.
-  issued:
-    - year: 1890
   language: en
   section: '1'
   title: Sherman Antitrust Act
@@ -16,8 +14,6 @@ references:
   citation-key: 15USC17
   container-title: U.S.C.
   container-title-short: U.S.C.
-  issued:
-    - year: 1914
   language: en
   section: '17'
   title: Clayton Antitrust Act
@@ -355,8 +351,6 @@ references:
   citation-key: 29USC101
   container-title: U.S.C.
   container-title-short: U.S.C.
-  issued:
-    - year: 1932
   language: en
   section: '101'
   title: Norris-LaGuardia Act
@@ -393,12 +387,12 @@ references:
   type: legislation
   volume: '29'
 
-- id: 29USC151etseq
-  citation-key: 29USC151etseq
+- id: 29USC151
+  citation-key: 29USC151
   container-title: U.S.C.
   container-title-short: U.S.C.
   language: en
-  section: 151 et seq.
+  section: '151'
   title: National Labor Relations Act
   type: legislation
   volume: '29'
@@ -608,8 +602,8 @@ references:
   page: '8'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: 6 More Reds Free on Bail of $80,000
-  title-short: 6 More Reds Free in Bail of $80,000
+  title: 6 More Reds Free on Bail of \$80,000
+  title-short: 6 More Reds Free in Bail of \$80,000
   type: article-newspaper
   URL: https://www.proquest.com/docview/112191239/abstract/C7C6757E0ED14FACPQ/28
 
@@ -3955,6 +3949,17 @@ references:
   type: legal_case
   volume: '590'
 
+- id: BostonGlassManufactoryBinney_Mass1827
+  citation-key: BostonGlassManufactoryBinney_Mass1827
+  container-title: Mass.
+  container-title-short: Mass.
+  issued:
+    - year: 1827
+  page: '425'
+  title: Boston Glass Manufactory v. Binney
+  type: legal_case
+  volume: '21'
+
 - id: Bottomore1978
   author:
     - family: Bottomore
@@ -6800,8 +6805,8 @@ references:
 - id: CommonwealthPullis_Phila1806
   authority: Phila.
   citation-key: CommonwealthPullis_Phila1806
-  container-title: Doc. His. of Am. Ind. Soc.
-  container-title-short: Doc His Am Ind Soc
+  container-title: Documentary History of American Industrial Society
+  container-title-short: Doc. Hist. Am. Ind. Soc.
   issued:
     - year: 1806
   language: en
@@ -9317,7 +9322,7 @@ references:
   publisher: Mariner Books
   source: Amazon
   title: '$2.00 a Day: Living on Almost Nothing in America'
-  title-short: $2.00 a day
+  title-short: \$2.00 a day
   type: book
 
 - id: EEOC2024
@@ -12309,7 +12314,7 @@ references:
   page: '41'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: Fund Wins Tax Case: U. S. Fails in Claim for $5,311 --Gifts Held Tax-Free
+  title: Fund Wins Tax Case: U. S. Fails in Claim for \$5,311 --Gifts Held Tax-Free
   title-short: Fund Wins Tax Case
   type: article-newspaper
   URL: https://www.proquest.com/docview/113816872/citation/EEEF13569BFD4B59PQ/1
@@ -13813,7 +13818,7 @@ references:
   page: '3'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: Green Gets New Bail: Civil Rights Congress Puts Up $5,000 for Illinois Communist
+  title: Green Gets New Bail: Civil Rights Congress Puts Up \$5,000 for Illinois Communist
   title-short: Green Gets New Bail
   type: article-newspaper
   URL: https://www.proquest.com/docview/108410789/citation/C7C6757E0ED14FACPQ/12
@@ -15120,7 +15125,7 @@ references:
       month: 11
       day: 11
   language: en-US
-  title: Charlotte Council Approves $2.1 Billion Airport Agreement
+  title: Charlotte Council Approves \$2.1 Billion Airport Agreement
   type: post-weblog
   URL: https://wbt.com/1652143/charlotte-council-approves-2-1-billion-airport-agreement/
 
@@ -19877,7 +19882,7 @@ references:
       month: 6
       day: 18
   language: en
-  title: 'Today in Legislative History: Ordinance of Labourers Passed to Stop Plebs Bettering Wages/conditions, 1349'
+  title: 'Today in Legislative History: Ordinance of Labourers Passed to Stop Plebs Bettering Wages/Conditions, 1349'
   type: post-weblog
   URL: https://pasttense.co.uk/2016/06/18/today-in-legislative-history-ordinance-of-labourers-passed-to-stop-plebs-bettering-wagesconditions-1349/
 
@@ -20461,7 +20466,7 @@ references:
       day: 31
   language: en-US
   section: Uncategorized
-  title: Major Cargo Airline Company Accused of Illegally Trapping Pilots in Up to $30,000 of Training Debt Amidst Supply Chain Crisis - Protect Borrowers
+  title: Major Cargo Airline Company Accused of Illegally Trapping Pilots in Up to \$30,000 of Training Debt Amidst Supply Chain Crisis - Protect Borrowers
   type: post-weblog
   URL: https://protectborrowers.org/ameriflight-accused-of-illegally-trapping-pilots-in-30000-training-debt/
 
@@ -32275,6 +32280,24 @@ references:
   title-short: Value chains
   type: book
 
+- id: Swartz2004
+  accessed:
+    - year: 2026
+      month: 11
+      day: 21
+  author:
+    - family: Swartz
+      given: Omar
+  citation-key: Swartz2004
+  container-title: Holy Cross Journal of Law and Public Policy
+  container-title-short: Holy Cross J. Law Public Policy
+  issued:
+    - year: 2004
+  page: '79'
+  title: 'Defending Labor in Commonwealth v. Pullis: Contemporary Implications For Rethinking Community'
+  type: article-journal
+  volume: '8'
+
 - id: Swenson1989
   author:
     - family: Swenson
@@ -32603,7 +32626,7 @@ references:
   page: '5'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: Tax Lien Clamped on Red Bail Fund: $376,000 Put in Escrow After U.S. Files for $1,764 Owed by Civil Rights Congress
+  title: Tax Lien Clamped on Red Bail Fund: $376,000 Put in Escrow After U.S. Files for \$1,764 Owed by Civil Rights Congress
   title-short: Tax Lien Clamped on Red Bail Fund
   type: article-newspaper
   URL: https://www.proquest.com/docview/112159150/abstract/C7C6757E0ED14FACPQ/27
@@ -33432,7 +33455,7 @@ references:
   page: '16'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: 'Two Communists Bailed: $10,000 Each Supplied by Friend of Civil Rights Congress'
+  title: 'Two Communists Bailed: \$10,000 Each Supplied by Friend of Civil Rights Congress'
   title-short: Two Communists Bailed
   type: article-newspaper
   URL: https://www.proquest.com/docview/112219372/abstract/C7C6757E0ED14FACPQ/11
@@ -33836,6 +33859,31 @@ references:
   title: 'Salting the Mines: the Legal and Political Implications of Placing Paid Union Organizers in the Employer''s Workplace'
   type: article-journal
   volume: '16'
+
+- id: VanderVelde2020
+  accessed:
+    - year: 2026
+      month: 11
+      day: 21
+  author:
+    - family: VanderVelde
+      given: Lea
+  citation-key: VanderVelde2020
+  container-title: American Journal of Legal History
+  container-title-short: Am. J. Leg. Hist.
+  DOI: 10.1093/ajlh/njaa020
+  ISSN: 0002-9319
+  issue: '4'
+  issued:
+    - year: 2020
+      month: 12
+      day: 1
+  page: 397–449
+  source: Silverchair
+  title: The Anti-Republican Origins of the At-Will Doctrine
+  type: article-journal
+  URL: https://doi.org/10.1093/ajlh/njaa020
+  volume: '60'
 
 - id: VandeWalle2009
   author:
