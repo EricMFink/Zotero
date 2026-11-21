@@ -7121,6 +7121,29 @@ references:
   type: article-journal
   URL: https://www.elgaronline.com/view/edcoll/9781849803618/9781849803618.00010.xml
 
+- id: Cottom2026
+  accessed:
+    - year: 2026
+      month: 11
+      day: 20
+  author:
+    - family: Cottom
+      given: Tressie McMillan
+  citation-key: Cottom2026
+  container-title: The New York Times
+  ISSN: 0362-4331
+  issued:
+    - year: 2026
+      month: 8
+      day: 3
+  language: en-US
+  section: Opinion
+  source: NYTimes.com
+  title: Opinion | Want to Fight Back Against Big Tech? Start Here.
+  title-short: Opinion | Want to Fight Back Against Big Tech?
+  type: article-newspaper
+  URL: https://www.nytimes.com/2026/08/03/opinion/artificial-intelligence-data-politics.html
+
 - id: CourtRevokesBondCivil1951
   accessed:
     - year: 2026
@@ -9561,6 +9584,16 @@ references:
   title: Enterprise Wire Co.
   type: legal_case
   volume: '46'
+
+- id: EpistemicLaunderingPersistenceScientific_nd
+  accessed:
+    - year: 2026
+      month: 11
+      day: 21
+  citation-key: EpistemicLaunderingPersistenceScientific_nd
+  title: Epistemic Laundering and the Persistence of Scientific Racism | Evolutionary Human Sciences | Cambridge Core
+  type: webpage
+  URL: https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/epistemic-laundering-and-the-persistence-of-scientific-racism/DDB86F754837AC9834B0ED4B45171FBF
 
 - id: Epstein1983
   author:
@@ -34187,6 +34220,26 @@ references:
   title: Wang v. The Hearst Corp.
   type: legal_case
   volume: '877'
+
+- id: Wark2015
+  author:
+    - family: Wark
+      given: Colin
+    - family: Galliher
+      given: John F.
+  citation-key: Wark2015
+  ISBN: 978-0-7391-9561-1
+  issued:
+    - year: 2015
+      month: 4
+      day: 23
+  language: en
+  number-of-pages: '305'
+  publisher: Bloomsbury Publishing PLC
+  source: Google Books
+  title: 'Progressive Lawyers under Siege: Moral Panic during the McCarthy Years'
+  title-short: Progressive Lawyers under Siege
+  type: book
 
 - id: Warren1923
   accessed:
