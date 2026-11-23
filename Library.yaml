@@ -602,8 +602,8 @@ references:
   page: '8'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: 6 More Reds Free on Bail of \$80,000
-  title-short: 6 More Reds Free in Bail of \$80,000
+  title: 6 More Reds Free on Bail of $80,000
+  title-short: 6 More Reds Free in Bail of $80,000
   type: article-newspaper
   URL: https://www.proquest.com/docview/112191239/abstract/C7C6757E0ED14FACPQ/28
 
@@ -1080,6 +1080,25 @@ references:
   type: article-journal
   URL: https://doi.org/10.1177/02633957211041444
   volume: '44'
+
+- id: Adams2023
+  accessed:
+    - year: 2026
+      month: 11
+      day: 22
+  author:
+    - family: Adams
+      given: Zoe
+  citation-key: Adams2023
+  container-title: Cambridge Law Journal
+  container-title-short: Camb. Law J.
+  issued:
+    - year: 2023
+  page: '30'
+  title: 'Trade Unions and the Law: A Materialist Perspective'
+  type: article-journal
+  URL: https://www.cambridge.org/core/journals/cambridge-law-journal/article/trade-unions-and-the-law-a-materialist-perspective/4DFCA19463E652DA03E934F39C6024AB
+  volume: '82'
 
 - id: Adelsberg2025
   accessed:
@@ -9322,7 +9341,7 @@ references:
   publisher: Mariner Books
   source: Amazon
   title: '$2.00 a Day: Living on Almost Nothing in America'
-  title-short: \$2.00 a day
+  title-short: $2.00 a day
   type: book
 
 - id: EEOC2024
@@ -12314,7 +12333,7 @@ references:
   page: '41'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: Fund Wins Tax Case: U. S. Fails in Claim for \$5,311 --Gifts Held Tax-Free
+  title: Fund Wins Tax Case: U. S. Fails in Claim for $5,311 --Gifts Held Tax-Free
   title-short: Fund Wins Tax Case
   type: article-newspaper
   URL: https://www.proquest.com/docview/113816872/citation/EEEF13569BFD4B59PQ/1
@@ -13818,7 +13837,7 @@ references:
   page: '3'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: Green Gets New Bail: Civil Rights Congress Puts Up \$5,000 for Illinois Communist
+  title: Green Gets New Bail: Civil Rights Congress Puts Up $5,000 for Illinois Communist
   title-short: Green Gets New Bail
   type: article-newspaper
   URL: https://www.proquest.com/docview/108410789/citation/C7C6757E0ED14FACPQ/12
@@ -14378,6 +14397,7 @@ references:
     - year: 2006
   language: en
   page: 521–542
+  publisher: \
   source: JSTOR
   title: 'The Knights of Labour and the Failure of the Arbitration Platform, 1886-1887: Ideology, Hegemony, and Contextually Generated Opportunities for Frame Success'
   title-short: The Knights of Labour and the Failure of the Arbitration Platform, 1886-1887
@@ -15125,7 +15145,7 @@ references:
       month: 11
       day: 11
   language: en-US
-  title: Charlotte Council Approves \$2.1 Billion Airport Agreement
+  title: Charlotte Council Approves $2.1 Billion Airport Agreement
   type: post-weblog
   URL: https://wbt.com/1652143/charlotte-council-approves-2-1-billion-airport-agreement/
 
@@ -16832,6 +16852,17 @@ references:
   title: Airport workers walk out as Charlotte approves multibillion-dollar lease
   type: webpage
   URL: https://www.charlotteobserver.com/news/business/article317999790.html
+
+- id: JourneymenTaylorsCambridge_KB1721
+  authority: K.B.
+  citation-key: JourneymenTaylorsCambridge_KB1721
+  container-title: Mod
+  issued:
+    - year: 1721
+  page: '10'
+  title: Rex v Journeymen-Taylors of Cambridge
+  type: legal_case
+  volume: '8'
 
 - id: Joy1996
   author:
@@ -20466,7 +20497,7 @@ references:
       day: 31
   language: en-US
   section: Uncategorized
-  title: Major Cargo Airline Company Accused of Illegally Trapping Pilots in Up to \$30,000 of Training Debt Amidst Supply Chain Crisis - Protect Borrowers
+  title: Major Cargo Airline Company Accused of Illegally Trapping Pilots in Up to $30,000 of Training Debt Amidst Supply Chain Crisis - Protect Borrowers
   type: post-weblog
   URL: https://protectborrowers.org/ameriflight-accused-of-illegally-trapping-pilots-in-30000-training-debt/
 
@@ -22054,6 +22085,7 @@ references:
     - year: 1960
   language: en
   page: 98–120
+  publisher: \
   source: JSTOR
   title: 'German Jews of Prague: A Quest for Self-Realization'
   title-short: German Jews of Prague
@@ -24171,20 +24203,20 @@ references:
   type: legislation
   volume: N.C.
 
-- id: NCGenStat84-2.1
-  citation-key: NCGenStat84-2.1
+- id: NCGenStat84-21
+  citation-key: NCGenStat84-21
   container-title: N.C. Gen. Stat.
   language: en
-  section: 84-2.1
-  title: NCGS 84-2.1 Practice of law defined
+  section: 84-21
+  title: NCGS 84-21 Practice of law defined
   type: legislation
 
-- id: NCGenStat84-2.8
-  citation-key: NCGenStat84-2.8
+- id: NCGenStat84-28
+  citation-key: NCGenStat84-28
   container-title: N.C. Gen. Stat.
   language: en
-  section: 84-2.8
-  title: NCGS 84-2.8 Discipline and disbarment
+  section: 84-28
+  title: NCGS 84-28 Discipline and disbarment
   type: legislation
 
 - id: NCGenStat95-240
@@ -28037,6 +28069,29 @@ references:
   title: Rethink Heritage
   type: webpage
   URL: https://rethink-heritage.eu/?lang=en
+
+- id: RexEccles_KB1783
+  authority: K.B.
+  citation-key: RexEccles_KB1783
+  container-title: Leach
+  issued:
+    - year: 1783
+  page: '274'
+  title: Rex v. Eccles
+  type: legal_case
+  volume: '1'
+
+- id: RexMawbey_KB1796
+  authority: K.B.
+  citation-key: RexMawbey_KB1796
+  container-title: T.R.
+  container-title-short: T.R.
+  issued:
+    - year: 1796
+  page: '619'
+  title: Rex v. Mawbey
+  type: legal_case
+  volume: '6'
 
 - id: Rhoades1996-11-0001
   author:
@@ -32626,7 +32681,7 @@ references:
   page: '5'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: Tax Lien Clamped on Red Bail Fund: $376,000 Put in Escrow After U.S. Files for \$1,764 Owed by Civil Rights Congress
+  title: Tax Lien Clamped on Red Bail Fund: $376,000 Put in Escrow After U.S. Files for $1,764 Owed by Civil Rights Congress
   title-short: Tax Lien Clamped on Red Bail Fund
   type: article-newspaper
   URL: https://www.proquest.com/docview/112159150/abstract/C7C6757E0ED14FACPQ/27
@@ -33172,6 +33227,23 @@ references:
   URL: https://drive.google.com/file/d/1ZRIHDhs0kFCQHduKmUoGJ8vU-bp5nNki/view?usp=drive_open&usp=embed_facebook
   volume: '5'
 
+- id: Tomlins1993
+  author:
+    - family: Tomlins
+      given: Christopher L.
+  citation-key: Tomlins1993
+  ISBN: 978-0-521-43857-5
+  issued:
+    - year: 1993
+      month: 4
+      day: 30
+  language: en
+  number-of-pages: '432'
+  publisher: Cambridge University Press
+  source: Google Books
+  title: Law, Labor, and Ideology in the Early American Republic
+  type: book
+
 - id: Torres2018
   citation-key: Torres2018
   editor:
@@ -33455,7 +33527,7 @@ references:
   page: '16'
   publisher-place: New York, N.Y., United States
   source: ProQuest
-  title: 'Two Communists Bailed: \$10,000 Each Supplied by Friend of Civil Rights Congress'
+  title: 'Two Communists Bailed: $10,000 Each Supplied by Friend of Civil Rights Congress'
   title-short: Two Communists Bailed
   type: article-newspaper
   URL: https://www.proquest.com/docview/112219372/abstract/C7C6757E0ED14FACPQ/11
